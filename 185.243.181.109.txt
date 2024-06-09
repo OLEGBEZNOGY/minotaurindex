@@ -2891,3 +2891,6 @@
 49.12.32.51:80 - Kirchner GmbH - Ihr Baustoffhandel in Thaining
 175.228.54.76:80 - Заголовок не найден
 8.209.99.21:80 - 404 Not Found
+23.12.10.36:80 - Заголовок не найден
+143.204.35.172:80 - Заголовок не найден
+208.109.35.53:80 - Apache HTTP Server Test Page powered by CentOS
