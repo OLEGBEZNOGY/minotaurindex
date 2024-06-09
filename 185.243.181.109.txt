@@ -1425,3 +1425,7 @@
 35.74.161.168:80 - aws eb validators
 20.61.27.201:80 - 404 Not Found
 52.58.110.79:80 - 500: Internal Server Error
+120.27.221.177:80 - æ²¡ææ¾å°ç«ç¹
+67.219.111.149:80 - Default Site
+121.46.84.184:80 - Please wait, the page is opening...
+37.114.216.6:80 - WEB SERVICE
