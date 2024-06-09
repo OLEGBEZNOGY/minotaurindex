@@ -1,0 +1,2 @@
+192.126.229.18:80 - ERROR: The requested URL could not be retrieved
+150.60.211.113:80 - Заголовок не найден
