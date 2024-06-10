@@ -5226,3 +5226,4 @@
 103.112.70.156:80 - 403 Forbidden
 102.36.228.52:80 - RouterOS router configuration page
 99.86.112.153:80 - Заголовок не найден
+47.250.52.6:80 - TUYITRAVEL
