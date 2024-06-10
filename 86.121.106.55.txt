@@ -913,3 +913,4 @@
 217.160.95.154:80 - working
 95.217.75.169:80 - Welcome to nginx!
 97.93.161.71:80 - 
+172.214.230.38:80 - Your Azure Function App is up and running.
