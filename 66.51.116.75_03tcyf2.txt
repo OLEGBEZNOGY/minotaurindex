@@ -8215,3 +8215,8 @@
 20.223.94.133:80 - Your Azure Function App is up and running.
 38.28.138.89:80 - Welcome to nginx!
 18.164.31.230:80 - Заголовок не найден
+35.182.108.188:80 - IIS Windows Server
+39.106.86.43:80 - Заголовок не найден
+104.86.89.201:80 - Заголовок не найден
+172.64.27.184:80 - Direct IP access not allowed | Cloudflare
+34.91.123.47:80 - Anargy | Professional development of e&#x2d;commerce websites
