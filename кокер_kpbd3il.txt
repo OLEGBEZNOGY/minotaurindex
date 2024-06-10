@@ -1,0 +1,23 @@
+23.194.155.46:80 - Заголовок не найден
+148.0.216.213:80 - 
+34.234.64.180:80 - Test Page for the Nginx HTTP Server on Amazon Linux
+23.206.165.149:80 - Заголовок не найден
+142.93.185.150:80 - Заголовок не найден
+189.25.34.65:80 - Determining Broadband Network Type
+23.168.27.157:80 - Determining Broadband Network Type
+68.156.114.231:80 - Determining Broadband Network Type
+108.97.252.93:80 - Determining Broadband Network Type
+94.68.222.167:80 - Determining Broadband Network Type
+195.214.249.128:80 - Determining Broadband Network Type
+68.206.31.86:80 - Determining Broadband Network Type
+107.28.212.12:80 - Determining Broadband Network Type
+78.101.100.104:80 - Determining Broadband Network Type
+183.115.71.134:80 - Determining Broadband Network Type
+37.73.13.124:80 - Determining Broadband Network Type
+66.99.2.224:80 - Determining Broadband Network Type
+186.141.100.100:80 - Determining Broadband Network Type
+15.231.130.204:80 - Determining Broadband Network Type
+107.94.87.155:80 - Determining Broadband Network Type
+93.189.106.58:80 - Determining Broadband Network Type
+38.145.249.199:80 - Welcome to nginx!
+209.58.151.125:80 - 407 Proxy Authentication Required
