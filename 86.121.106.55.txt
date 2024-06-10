@@ -2276,3 +2276,27 @@
 23.216.163.58:80 - Заголовок не найден
 89.221.219.201:80 - Welcome to nginx!
 185.24.69.223:80 - Apache2 Debian Default Page: It works
+41.108.90.105:80 - Accueil - ProVidentia
+125.237.211.210:80 - Заголовок не найден
+130.211.24.254:80 - Binarium
+18.157.191.72:80 - 503 Service Temporarily Unavailable
+13.32.59.176:80 - Заголовок не найден
+20.237.66.79:80 - 404 Not Found
+104.82.241.39:80 - Заголовок не найден
+51.195.53.225:80 - Web Server's Default Page
+13.226.208.113:80 - Заголовок не найден
+78.109.16.2:80 - Заголовок не найден
+190.122.152.248:80 - 
+104.17.137.10:80 - Direct IP access not allowed | Cloudflare
+136.243.18.209:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+13.249.216.92:80 - Заголовок не найден
+200.144.92.24:80 - PDI/Unifesp &#8211; Portal de Metas do PDI/Unifesp
+162.159.248.59:80 - Direct IP access not allowed | Cloudflare
+52.168.168.130:80 - Заголовок не найден
+117.204.79.13:80 - Заголовок не найден
+94.159.248.224:80 - 
+104.41.216.239:80 - 503 Service Temporarily Unavailable
+51.178.245.28:80 - Заголовок не найден
+185.74.10.2:80 - Заголовок не найден
+217.26.54.132:80 - Seite nicht verfügbar
+190.166.255.18:80 - 
