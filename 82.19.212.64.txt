@@ -2598,3 +2598,5 @@
 44.239.190.30:80 - Enter your code - The CalHOPE Schools Initative
 13.111.165.215:80 - 403 - Forbidden: Access is denied.
 186.128.112.70:80 - Заголовок не найден
+196.223.119.4:80 - 
+51.103.244.206:80 - 404 Not Found
