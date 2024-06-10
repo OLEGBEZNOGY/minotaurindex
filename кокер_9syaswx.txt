@@ -544,3 +544,150 @@
 123.253.164.237:80 - Заголовок не найден
 51.79.155.225:80 - Just a moment...
 78.118.74.149:80 - RouterOS router configuration page
+154.215.73.19:80 - 404 Not Found
+211.86.60.164:80 - 404 Not Found
+121.180.146.157:80 - main page
+203.160.54.18:80 - æ²¡ææ¾å°ç«ç¹
+13.32.87.131:80 - Заголовок не найден
+34.200.110.60:80 - Page Not Found
+108.186.132.73:80 - hdwood &#8211; Just another WordPress site
+98.172.191.89:80 - Заголовок не найден
+79.96.161.13:80 - Strona w przygotowaniu...
+97.74.80.194:80 - Web Server's Default Page
+52.197.180.60:80 - Test Page for the Nginx HTTP Server on the Amazon Linux AMI
+104.18.24.41:80 - Direct IP access not allowed | Cloudflare
+104.18.144.192:80 - Direct IP access not allowed | Cloudflare
+23.40.149.181:80 - Заголовок не найден
+23.67.160.86:80 - Заголовок не найден
+122.28.35.201:80 - Заголовок не найден
+51.16.29.33:80 - Заголовок не найден
+1.116.49.218:80 - Заголовок не найден
+73.209.6.202:80 - 
+43.207.112.77:80 - 401 Unauthorized
+23.198.35.78:80 - Заголовок не найден
+101.200.126.239:80 - 503 Service Temporarily Unavailable
+23.220.111.170:80 - Заголовок не найден
+168.206.152.164:80 - æ²¡ææ¾å°ç«ç¹
+104.102.30.90:80 - Заголовок не найден
+137.175.54.168:80 - 403 Forbidden
+103.90.212.222:80 - RouterOS router configuration page
+216.242.94.200:80 - Nothing Here
+177.19.103.244:80 - RouterOS router configuration page
+62.240.181.75:80 - RouterOS router configuration page
+102.37.121.34:80 - IIS Windows Server
+140.113.11.149:80 - Заголовок не найден
+23.64.157.109:80 - Заголовок не найден
+209.87.149.62:80 - Nexcess
+18.239.160.228:80 - Заголовок не найден
+52.204.122.203:80 - 403 Forbidden
+201.77.109.62:80 - Error 404 (Not Found)!!1
+189.223.112.177:80 - 
+52.5.183.63:80 - Web Site Not Found
+185.26.99.146:80 - Welcome to nginx!
+8.134.238.255:80 - 404 Not Found
+23.220.194.147:80 - Заголовок не найден
+154.0.175.144:80 - Apache2 Ubuntu Default Page: It works
+143.95.252.51:80 - Web Server's Default Page
+23.34.87.160:80 - Заголовок не найден
+13.125.210.85:80 - 404 Not Found
+154.37.250.178:80 - ERROR: The requested URL could not be retrieved
+104.21.66.134:80 - Direct IP access not allowed | Cloudflare
+13.35.172.145:80 - Заголовок не найден
+103.154.88.129:80 - 
+37.138.134.37:80 - Default Site
+62.183.196.52:80 - Hello! Welcome to Synology Web Station!
+173.44.246.230:80 - 403 Forbidden
+171.244.38.49:80 - Заголовок не найден
+54.174.52.18:80 - Trust &amp; Safety Policies
+158.199.177.155:80 - ControlPanel
+3.70.140.48:80 - Заголовок не найден
+195.178.31.110:80 - Apache2 Debian Default Page: It works
+123.57.58.40:80 - 403 Forbidden
+179.43.177.212:80 - Заголовок не найден
+82.165.4.154:80 - Web Server's Default Page
+46.4.213.149:80 - Заголовок не найден
+142.171.227.233:80 - Sorry, the website has been stopped
+139.180.181.79:80 - 4DATA VPS
+23.37.28.120:80 - Заголовок не найден
+3.163.239.214:80 - Заголовок не найден
+172.114.39.127:80 - 
+200.29.4.30:80 - Заголовок не найден
+91.107.206.134:80 - Welcome to nginx!
+23.35.112.5:80 - Заголовок не найден
+23.210.125.247:80 - Заголовок не найден
+113.198.46.216:80 - L7
+125.202.110.162:80 - Заголовок не найден
+35.83.236.44:80 - 404 Not Found
+49.168.33.234:80 - CMS Web Viewer
+154.28.148.105:80 - ERROR: The requested URL could not be retrieved
+149.129.225.242:80 - Panen88: Situs Judi Slot Online Gacor Maxwin Gampang Menang Hari Ini
+60.43.141.24:80 - データベースエラー
+20.89.115.93:80 - 404 Not Found
+45.200.251.27:80 - 404 Not Found
+87.147.42.51:80 - Заголовок не найден
+148.135.31.55:80 - Welcome to nginx!
+100.21.255.71:80 - Заголовок не найден
+125.228.145.164:80 - Заголовок не найден
+154.204.191.21:80 - 403 Forbidden
+216.247.100.205:80 - Apache2 Ubuntu Default Page: It works
+23.62.38.230:80 - Заголовок не найден
+8.137.21.25:80 - 404 Not Found
+104.71.183.166:80 - Заголовок не найден
+3.216.37.31:80 - 
+144.76.195.94:80 - Заголовок не найден
+71.91.156.70:80 - 
+60.205.84.255:80 - 呼叫中心系统_客服系统_客服机器人_在线客服系统-中通天鸿
+211.54.184.84:80 - Web Viewer for Samsung DVR
+140.248.176.207:80 - Fastly error: unknown domain 140.248.176.207
+191.45.49.34:80 - Заголовок не найден
+23.224.183.94:80 - 403 Forbidden
+2.17.107.6:80 - Заголовок не найден
+23.48.118.118:80 - Заголовок не найден
+163.5.195.243:80 - Apache2 Debian Default Page: It works
+162.211.253.11:80 - Cooking Software, Cookbook Creation, Recipes - MasterCook
+104.19.171.211:80 - Direct IP access not allowed | Cloudflare
+190.144.183.178:80 - RouterOS router configuration page
+18.67.84.97:80 - Заголовок не найден
+108.139.191.103:80 - Заголовок не найден
+179.53.121.130:80 - 
+209.211.124.110:80 - WebPro
+213.34.24.204:80 - ACME Access Only
+170.33.13.111:80 - 410 Gone
+110.42.232.221:80 - Not Found
+18.245.158.174:80 - Заголовок не найден
+47.96.147.217:80 - 404 Not Found
+3.160.70.28:80 - Заголовок не найден
+198.44.173.191:80 - IIS7
+54.190.66.120:80 - 403 Forbidden
+23.223.210.56:80 - Заголовок не найден
+182.163.52.39:80 - Apache HTTP Server Test Page powered by CentOS
+103.94.168.214:80 - Login | Core Network Information System
+80.93.22.57:80 - 403 Forbidden
+23.46.167.159:80 - Заголовок не найден
+38.174.228.195:80 - Заголовок не найден
+15.164.33.64:80 - Заголовок не найден
+45.204.112.147:80 - 404 Not Found
+34.92.194.233:80 - Welcome to nginx!
+184.29.16.230:80 - Заголовок не найден
+216.247.103.141:80 - Apache2 Ubuntu Default Page: It works
+150.230.174.169:80 - Site not found
+45.33.38.82:80 - Apache2 Ubuntu Default Page: It works
+185.98.83.129:80 - Welcome to nginx!
+108.158.149.122:80 - Заголовок не найден
+72.167.143.251:80 - One moment, please...
+190.92.150.129:80 - One moment, please...
+168.119.52.136:80 - 503 Service Temporarily Unavailable
+66.45.237.117:80 - One moment, please...
+195.231.21.67:80 - Web Server's Default Page
+50.3.68.209:80 - 403 Forbidden
+50.112.144.61:80 - Green1 Telemetry
+87.233.140.146:80 - Default site
+186.6.111.195:80 - 
+83.172.130.246:80 - Apache HTTP Server Test Page powered by CentOS
+96.95.254.50:80 - Remote Video Surveillance
+44.218.240.235:80 - Заголовок не найден
+104.66.234.86:80 - Заголовок не найден
+104.20.52.103:80 - Direct IP access not allowed | Cloudflare
+164.70.8.100:80 - Заголовок не найден
+104.27.70.105:80 - Direct IP access not allowed | Cloudflare
+115.126.61.196:80 - Заголовок не найден
