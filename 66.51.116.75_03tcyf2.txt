@@ -8992,3 +8992,9 @@
 117.202.120.68:80 - Заголовок не найден
 104.27.37.133:80 - Direct IP access not allowed | Cloudflare
 160.181.160.217:80 - 503 Service Temporarily Unavailable
+128.199.53.210:80 - 503 Service Temporarily Unavailable
+45.82.228.180:80 - Nextcloud
+52.212.176.199:80 - 403 Forbidden
+54.201.76.63:80 - 403 Forbidden
+151.101.148.80:80 - Fastly error: unknown domain: 151.101.148.80
+18.164.139.8:80 - Заголовок не найден
