@@ -8651,3 +8651,26 @@
 104.91.25.20:80 - Заголовок не найден
 103.159.169.131:80 - Please wait, the page is opening...
 23.204.82.253:80 - Заголовок не найден
+89.108.103.7:80 - Welcome to nginx!
+133.192.3.13:80 - Заголовок не найден
+3.162.141.199:80 - Заголовок не найден
+104.24.142.241:80 - Direct IP access not allowed | Cloudflare
+35.194.189.95:80 - Заголовок не найден
+47.107.43.40:80 - Welcome to nginx!
+154.197.108.167:80 - Direct IP access not allowed | Cloudflare
+146.148.196.34:80 - 404 Not Found
+109.172.200.28:80 - 403 Forbidden
+27.238.116.119:80 - HCMSActiveX Viewer
+122.116.124.164:80 - 
+52.211.62.233:80 - 503 Service Temporarily Unavailable
+119.200.240.19:80 - CMS Web Viewer
+46.41.163.194:80 - Заголовок не найден
+188.165.41.149:80 - Just a moment...
+104.85.32.52:80 - Заголовок не найден
+64.112.42.87:80 - Welcome to nginx!
+104.19.98.101:80 - Direct IP access not allowed | Cloudflare
+50.240.85.177:80 - Document Moved
+203.34.28.69:80 - Direct IP access not allowed | Cloudflare
+178.249.64.178:80 - Ð ÐÐÐÐ§ÐÐ¯ ÐÐÐÐ 1C
+104.107.138.50:80 - Заголовок не найден
+13.53.43.139:80 - Artboard
