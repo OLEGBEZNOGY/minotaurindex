@@ -17559,3 +17559,30 @@ header.tempdevserv.pingpong.net
 59.183.92.62:80 - Заголовок не найден
 101.201.182.213:80 - Заголовок не найден
 148.255.195.158:80 - Apache Tomcat
+23.10.196.84:80 - Заголовок не найден
+152.0.243.126:80 - 
+34.232.198.69:80 - 404 Not Found
+136.159.52.22:80 - 403 Forbidden
+154.39.248.243:80 - IIS Windows Server
+20.195.0.153:80 - Microsoft Azure Web App - Error 404
+66.24.235.29:80 - 
+108.157.3.116:80 - Заголовок не найден
+79.116.146.200:80 - Inicio  - Lilium Sato S.L. | Tendencias de futuro, Empresas conjuntas
+206.188.192.45:80 - 403 Forbidden
+52.57.239.199:80 - 403 Forbidden
+159.192.78.201:80 - 403 Forbidden
+69.192.119.158:80 - Заголовок не найден
+95.65.24.197:80 - 403 Forbidden
+194.38.30.27:80 - ERROR: The requested URL could not be retrieved
+8.208.78.46:80 - 403 Forbidden
+185.207.197.125:80 - 502 Bad Gateway
+89.46.110.28:80 - Заголовок не найден
+52.11.151.195:80 - 403 Forbidden
+23.220.20.51:80 - Заголовок не найден
+23.32.255.194:80 - Заголовок не найден
+217.91.43.38:80 - Fehler: Web Access für Remotedesktop kann nicht angezeigt werden.
+220.228.49.20:80 - 403 Forbidden
+52.28.228.225:80 - Заголовок не найден
+88.255.240.58:80 - T.C. KIRKLARELİ İL ÖZEL İDARESİ
+67.210.18.130:80 - Welcome
+3.231.161.43:80 - 500 Internal Server Error
