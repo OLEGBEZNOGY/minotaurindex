@@ -2071,3 +2071,4 @@
 170.85.20.222:80 - Internet Security by Zscaler
 104.253.201.26:80 - 404 Not Found
 101.201.110.239:80 - Заголовок не найден
+52.92.212.99:80 - Amazon S3 - Cloud Object Storage  - AWS
