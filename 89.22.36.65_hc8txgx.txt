@@ -1057,3 +1057,124 @@
 68.187.44.229:80 - 
 204.2.131.63:80 - Missing or wrong site configuration
 212.83.142.165:80 - Site gabarit accueil, création de site internet
+23.212.159.174:80 - Заголовок не найден
+154.160.84.104:80 - Заголовок не найден
+104.107.158.36:80 - Заголовок не найден
+1.174.133.204:80 - 401 Unauthorized
+108.157.183.198:80 - Заголовок не найден
+154.12.238.63:80 - 404 Not Found
+35.241.60.151:80 - Заголовок не найден
+78.110.89.29:80 - Заголовок не найден
+3.20.161.143:80 - 403 Forbidden
+52.152.200.223:80 - Заголовок не найден
+43.203.169.141:80 - Apache2 Ubuntu Default Page: It works
+146.88.168.112:80 - Заголовок не найден
+54.235.179.239:80 - Core Commercial Real Estate
+2.22.109.146:80 - Заголовок не найден
+79.174.94.149:80 - Apache2 Ubuntu Default Page: It works
+179.52.8.76:80 - 
+66.203.144.174:80 - 404 Not Found
+104.25.87.199:80 - Direct IP access not allowed | Cloudflare
+108.156.123.127:80 - Заголовок не найден
+63.33.160.209:80 - 503 Service Temporarily Unavailable
+80.83.161.10:80 - Заголовок не найден
+65.21.8.34:80 - Sign in · GitLab
+143.255.198.169:80 - IGESDF Instituto de Gestão Estratégica de Saúde do Distrito Federal &#8211; O IGESDF é um Serviço Social Autônomo que administra o Hospital de Base e o Hospital Regional de Santa Maria, além de seis unidades de pronto atendimento (UPAs). O instituto carrega consigo o lema: SALVAR VIDAS É O NOSSO COMPROMISSO.
+13.68.129.136:80 - IIS Windows Server
+190.144.146.214:80 - Portal CDS BRINSA
+199.232.30.143:80 - Fastly error: unknown domain 199.232.30.143
+181.23.227.74:80 - Заголовок не найден
+47.251.15.220:80 - Welcome to nginx!
+181.26.216.165:80 - Заголовок не найден
+54.64.246.89:80 - 502 Bad Gateway
+173.231.249.9:80 - Default Web Page
+23.38.91.246:80 - Заголовок не найден
+104.18.197.176:80 - Direct IP access not allowed | Cloudflare
+119.207.119.117:80 - WEB SERVICE
+88.99.30.15:80 - 401 Unauthorized
+23.6.217.43:80 - Заголовок не найден
+162.144.196.21:80 - Заголовок не найден
+34.66.8.144:80 - Walkie Talkie App for Team Communication | Voxer
+23.217.171.112:80 - Заголовок не найден
+3.162.40.5:80 - Заголовок не найден
+52.207.40.122:80 - 503 Service Temporarily Unavailable
+80.78.24.29:80 - 404 Not Found
+82.97.162.13:80 - Error 404 (Not Found)!!1
+67.222.19.134:80 - Заголовок не найден
+104.82.107.32:80 - Заголовок не найден
+156.242.39.91:80 - æ²¡ææ¾å°ç«ç¹
+23.4.68.4:80 - Заголовок не найден
+18.162.160.28:80 - 403 Forbidden
+54.38.250.77:80 - Error 503: server unavailable
+108.157.88.43:80 - Заголовок не найден
+35.245.50.110:80 - Заголовок не найден
+45.63.94.94:80 - Unknown Domain
+89.161.224.231:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+104.103.67.131:80 - Заголовок не найден
+49.50.208.105:80 - 403 Forbidden
+20.21.208.220:80 - Microsoft Azure Web App - Error 404
+54.207.134.237:80 - Apache2 Debian Default Page: It works
+18.202.255.229:80 - 503 Service Temporarily Unavailable
+90.127.247.222:80 - Centrale
+139.129.22.138:80 - è¿ç¨è¿ç»´å¹³å°
+23.224.240.201:80 - 403 Forbidden
+178.62.104.99:80 - 404 Not Found
+219.231.162.136:80 - 404 Not Found
+93.45.251.27:80 - NethServer Enterprise
+27.79.235.123:80 - Заголовок не найден
+178.253.53.89:80 - 404 Not Found
+154.16.32.207:80 - 404 Not Found
+34.197.80.187:80 - 503 Service Temporarily Unavailable
+23.51.67.242:80 - Заголовок не найден
+62.234.190.144:80 - 404 Not Found
+181.212.180.129:80 - Заголовок не найден
+211.16.110.139:80 - index
+13.33.166.35:80 - Заголовок не найден
+120.78.221.231:80 - 500 Internal Server Error
+109.104.42.49:80 - Login | OPNsense
+40.64.87.162:80 - Заголовок не найден
+46.233.2.20:80 - Default Site
+104.86.110.136:80 - Заголовок не найден
+194.87.11.185:80 - Apache2 Ubuntu Default Page: It works
+116.162.157.141:80 - The page is temporarily unavailable
+118.151.141.128:80 - 404 Not Found
+99.84.186.43:80 - Заголовок не найден
+8.130.11.20:80 - 403 Forbidden
+104.82.234.185:80 - Заголовок не найден
+23.12.160.87:80 - Заголовок не найден
+206.119.19.217:80 - 403 Forbidden
+54.192.10.138:80 - Заголовок не найден
+123.60.60.125:80 - æ²¡ææ¾å°ç«ç¹
+13.41.51.36:80 - The Farm Carbon Calculator
+154.209.33.132:80 - 404 Not Found
+20.241.136.130:80 - 404 Not Found
+154.9.48.16:80 - ERROR: The requested URL could not be retrieved
+91.220.101.59:80 - Проститутки Санкт-Петербурга
+52.57.77.178:80 - Заголовок не найден
+123.57.221.181:80 - Welcome to nginx!
+121.37.208.172:80 - æ±æ­ï¼ç«ç¹å·²æå
+60.251.53.38:80 - Заголовок не найден
+184.30.25.36:80 - Заголовок не найден
+95.101.248.247:80 - Заголовок не найден
+100.37.41.160:80 - 
+114.132.229.174:80 - 顶点思维官网
+99.86.249.83:80 - Заголовок не найден
+1.94.126.61:80 - 中贸国展
+144.91.118.3:80 - Apache2 Ubuntu Default Page: It works
+173.223.222.14:80 - Заголовок не найден
+23.229.47.29:80 - ERROR: The requested URL could not be retrieved
+54.80.218.65:80 - Заголовок не найден
+64.23.131.184:80 - EJCAP | Environmental Justice Communities Against Plastics
+209.41.172.133:80 - 403 - Forbidden: Access is denied.
+210.125.248.58:80 - HTTP 상태 404 – 찾을 수 없음
+104.25.135.62:80 - Direct IP access not allowed | Cloudflare
+123.56.163.153:80 - 404 Not Found
+192.151.192.234:80 - 404 Not Found
+192.177.186.94:80 - 404 Not Found
+104.18.124.47:80 - Direct IP access not allowed | Cloudflare
+221.228.120.42:80 - 403 Forbidden
+51.15.191.190:80 - 404 Not Found
+82.47.98.35:80 - 
+195.29.180.50:80 - Заголовок не найден
+185.5.72.178:80 - Заголовок не найден
+23.212.82.116:80 - Заголовок не найден
