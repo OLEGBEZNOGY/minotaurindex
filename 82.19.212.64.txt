@@ -583,3 +583,8 @@
 210.121.232.7:80 - Заголовок не найден
 90.187.62.41:80 - 404 Not Found
 162.208.58.70:80 - Engel&#39;s Collectibles
+5.231.239.76:80 - Domain nicht verfÃ¼gbar | Domain not available
+67.222.40.24:80 - Not Acceptable!
+85.208.122.196:80 - ERROR: The requested URL could not be retrieved
+66.42.112.127:80 - Unknown Domain
+202.28.78.57:80 - 403 Forbidden
