@@ -727,3 +727,12 @@
 72.10.160.84:80 - Gestion de votre Compte - Rapidenet Canada
 154.39.114.168:80 - 403 Forbidden
 151.251.126.185:80 - 
+118.44.98.27:80 - 503 Service Not Available
+113.198.32.37:80 - L7
+172.64.158.18:80 - Direct IP access not allowed | Cloudflare
+116.80.8.17:80 - å¤§éªåã®åå­£åçã®ã£ã©ãªã¼ | GoodDays at Osaka-jo Park
+190.178.26.136:80 - Заголовок не найден
+203.100.208.35:80 - 404 Not Found
+54.156.65.192:80 - Заголовок не найден
+52.217.13.115:80 - Amazon S3 - Cloud Object Storage  - AWS
+79.96.67.96:80 - Заголовок не найден
