@@ -8998,3 +8998,10 @@
 54.201.76.63:80 - 403 Forbidden
 151.101.148.80:80 - Fastly error: unknown domain: 151.101.148.80
 18.164.139.8:80 - Заголовок не найден
+198.41.214.42:80 - Direct IP access not allowed | Cloudflare
+104.25.94.138:80 - Direct IP access not allowed | Cloudflare
+51.105.191.69:80 - 404 Not Found
+89.182.218.30:80 - Mitel 104
+13.36.233.223:80 - Заголовок не найден
+154.39.204.124:80 - Заголовок не найден
+85.128.170.172:80 - Domena  jest utrzymywana na serwerach nazwa.pl
