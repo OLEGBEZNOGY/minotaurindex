@@ -5519,3 +5519,42 @@
 52.0.233.142:80 - Заголовок не найден
 104.106.161.218:80 - Заголовок не найден
 45.223.172.203:80 - Заголовок не найден
+54.197.120.73:80 - Kubernetes Operational View 20.4.0
+86.239.27.178:80 - Заголовок не найден
+146.83.210.95:80 - Apache2 Debian Default Page: It works
+184.24.40.18:80 - Заголовок не найден
+205.251.206.189:80 - Заголовок не найден
+35.241.173.64:80 - Заголовок не найден
+54.75.40.169:80 - Page Not Found
+79.96.243.33:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+108.158.241.147:80 - Заголовок не найден
+23.10.56.147:80 - Заголовок не найден
+196.51.207.77:80 - ERROR: The requested URL could not be retrieved
+203.24.102.180:80 - Direct IP access not allowed | Cloudflare
+52.1.40.32:80 - Building an E-Commerce Business? Start Selling Today - SHOPLINE
+45.60.144.4:80 - Заголовок не найден
+154.26.204.176:80 - 403 Forbidden
+45.129.86.137:80 - CricWWW - Who Will Win
+27.123.25.55:80 - Заголовок не найден
+45.79.79.97:80 - Заголовок не найден
+13.111.70.237:80 - 403 - Forbidden: Access is denied.
+211.234.109.59:80 - 503 Service Unavailable
+23.73.187.155:80 - Заголовок не найден
+88.225.225.57:80 - Microsoft Internet Information Services 8
+50.3.185.124:80 - 403 Forbidden
+3.122.72.193:80 - WIN hospitality to one of three City Football Group clubs!
+43.153.39.46:80 - æ±æ­ï¼ç«ç¹å·²æå
+85.143.113.135:80 - IIS Windows Server
+223.255.145.210:80 - 
+120.55.118.174:80 - 503 Service Temporarily Unavailable
+135.148.120.236:80 - IIS Windows Server
+3.160.124.46:80 - Заголовок не найден
+135.181.192.242:80 - 404 Page not found
+23.39.99.133:80 - Заголовок не найден
+34.93.161.63:80 - Welcome to nginx!
+18.136.135.29:80 - Заголовок не найден
+45.116.94.43:80 - 403 Forbidden
+97.94.72.20:80 - 
+167.99.244.109:80 - Заголовок не найден
+20.227.40.176:80 - Your Azure Function App is up and running.
+75.27.153.76:80 - IIS7
