@@ -4382,3 +4382,23 @@
 52.219.8.142:80 - Amazon S3 - Cloud Object Storage  - AWS
 171.102.14.226:80 - Заголовок не найден
 78.107.191.117:80 - IIS Windows
+18.66.198.136:80 - Заголовок не найден
+45.14.226.84:80 - 403 Forbidden
+104.83.131.232:80 - Заголовок не найден
+23.224.124.210:80 - 403 Forbidden
+54.69.199.254:80 - Заголовок не найден
+4.209.243.54:80 - Your Azure Function App is up and running.
+35.158.231.5:80 - Multiple Bio Links for Instagram - HSE.bio
+199.101.96.40:80 - ERROR: The requested URL could not be retrieved
+91.150.89.176:80 - IIS Windows Server
+59.29.50.240:80 - 503 Service Not Available
+81.169.241.28:80 - Web Server's Default Page
+18.235.93.22:80 - 404 Not Found
+8.217.220.157:80 - Welcome to nginx!
+23.52.124.160:80 - Заголовок не найден
+220.125.247.233:80 - webpackSPA
+104.122.28.252:80 - Заголовок не найден
+20.31.230.116:80 - Заголовок не найден
+3.218.137.21:80 - 404 Not Found
+90.141.56.226:80 - Administration Console
+18.64.46.153:80 - Заголовок не найден
