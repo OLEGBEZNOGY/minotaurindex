@@ -7060,3 +7060,238 @@
 121.36.99.151:80 - æ²¡ææ¾å°ç«ç¹
 185.181.101.165:80 - Forbidden!
 52.42.189.84:80 - Заголовок не найден
+20.23.62.201:80 - 404 Not Found
+198.11.177.22:80 - 阿里云万网虚机IP访问报错提示
+209.200.67.39:80 - Web Server's Default Page
+5.135.174.24:80 - 404 Not Found
+52.58.2.242:80 - Index of /
+104.231.131.246:80 - 503 Service Not Available
+44.237.157.113:80 - Заголовок не найден
+99.44.78.172:80 - 
+23.60.185.171:80 - Заголовок не найден
+127.98.239.74:80 - Welcome to XAMPP
+23.231.19.227:80 - Заголовок не найден
+108.62.106.107:80 - Заголовок не найден
+72.167.25.161:80 - Заголовок не найден
+82.115.19.219:80 - The install worked successfully! Congratulations!
+23.57.6.46:80 - Заголовок не найден
+4.207.88.61:80 - Your Azure Function App is up and running.
+54.236.178.220:80 - Bestandsbeheer
+180.66.173.71:80 - 403 Forbidden
+45.207.98.17:80 - 404 Not Found
+135.181.75.224:80 - Welcome to nginx!
+93.174.33.30:80 - Mediation Telecom : Shared Hosting Server
+127.134.7.55:80 - Welcome to XAMPP
+5.172.29.48:80 - 500 Internal Server Error
+192.46.213.222:80 - Welcome to nginx!
+13.33.99.106:80 - Заголовок не найден
+127.206.138.171:80 - Welcome to XAMPP
+23.10.37.112:80 - Заголовок не найден
+127.56.35.80:80 - Welcome to XAMPP
+34.205.199.176:80 - 503 Service Temporarily Unavailable
+127.157.84.42:80 - Welcome to XAMPP
+139.186.135.190:80 - 403 Forbidden
+2.23.52.114:80 - Заголовок не найден
+104.113.223.177:80 - Заголовок не найден
+52.52.255.217:80 - Заголовок не найден
+127.174.57.64:80 - Welcome to XAMPP
+99.86.112.230:80 - Заголовок не найден
+101.0.90.158:80 - Заголовок не найден
+95.226.94.142:80 - @Sviluppo software di WEB collaboration sulla
+
+piattaforma HCL NOTES DOMINO utilizzando strumenti WEB quali Sametime;
+
+offerta servizi di consulenza utilizzando i prodotti della piattaforma
+
+HCL NOTES DOMINO quali Domino Application Server, Domino Web e Mail
+
+Server, Sametime; fornitura di servizi di cosulenza e personale
+
+specialistico sulle piattaforme HCL NOTES DOMINO ; organizzazione di
+
+corsi specialistici presso le aziende sulla piattaforma HCL NOTES
+
+DOMINO; Principali aree di competenza : Edilizia ed Infrastrutture,
+
+Centri di Contatto Aziendali , Marketing Farmaceutico, Sales Force
+
+Automation , Documentazione Aziendale , Portali Aziendali , Gestione
+
+della Qualita
+34.205.63.253:80 - 403 Forbidden
+127.244.174.13:80 - Welcome to XAMPP
+23.222.134.225:80 - Заголовок не найден
+202.164.39.172:80 - IIS Windows
+127.251.11.83:80 - Welcome to XAMPP
+104.68.50.70:80 - Заголовок не найден
+18.154.162.223:80 - Заголовок не найден
+127.78.210.200:80 - Welcome to XAMPP
+68.38.48.90:80 - Document Moved
+107.159.14.86:80 - Заголовок не найден
+18.155.158.105:80 - Заголовок не найден
+80.15.174.24:80 - Web Viewer for Samsung DVR
+174.103.203.146:80 - 
+122.179.140.58:80 - Заголовок не найден
+54.147.122.124:80 - Заголовок не найден
+178.62.243.14:80 - Заголовок не найден
+187.130.123.105:80 - Заголовок не найден
+23.32.57.33:80 - Заголовок не найден
+18.66.241.155:80 - Заголовок не найден
+127.230.231.255:80 - Welcome to XAMPP
+109.106.254.201:80 - 403 Forbidden
+54.179.198.239:80 - Заголовок не найден
+67.7.129.161:80 - Access to this page has been denied.
+112.133.227.88:80 - Movieclicks | Integrated Redcherry solutions
+51.195.138.80:80 - Welcome to nginx!
+47.252.8.131:80 - Welcome to nginx!
+35.164.246.238:80 - 404 Not Found
+104.224.240.151:80 - Sorry, the website has been stopped
+3.162.90.136:80 - Заголовок не найден
+78.152.188.160:80 - 403 Forbidden
+75.232.79.174:80 - Router -> Login
+127.232.56.69:80 - Welcome to XAMPP
+143.198.201.50:80 - fabcon.ph
+104.19.117.234:80 - Direct IP access not allowed | Cloudflare
+127.244.226.250:80 - Welcome to XAMPP
+13.111.133.242:80 - 403 - Forbidden: Access is denied.
+127.7.198.118:80 - Welcome to XAMPP
+54.192.231.234:80 - Заголовок не найден
+127.231.30.66:80 - Welcome to XAMPP
+127.133.94.161:80 - Welcome to XAMPP
+209.61.227.238:80 - Заголовок не найден
+127.135.187.198:80 - Welcome to XAMPP
+18.238.154.40:80 - Заголовок не найден
+127.13.208.87:80 - Welcome to XAMPP
+127.3.154.106:80 - Welcome to XAMPP
+203.195.169.165:80 - 403 Forbidden
+212.70.132.228:80 - ÐÐ¾Ð»Ñ Ð¸Ð·ÑÐ°ÐºÐ°Ð¹ÑÐµ, Ð½Ð°ÑÐ°Ð»Ð½Ð°ÑÐ° ÑÑÑÐ°Ð½Ð¸ÑÐ° ÑÐµ Ð·Ð°ÑÐµÐ¶Ð´Ð°...
+18.245.216.56:80 - Заголовок не найден
+172.172.223.200:80 - 404 Not Found
+35.176.188.186:80 - Заголовок не найден
+45.32.246.80:80 - 403 Forbidden
+127.29.65.219:80 - Welcome to XAMPP
+37.230.181.107:80 - Заголовок не найден
+118.214.108.2:80 - Заголовок не найден
+127.11.36.80:80 - Welcome to XAMPP
+127.83.83.120:80 - Welcome to XAMPP
+127.210.35.193:80 - Welcome to XAMPP
+18.238.70.54:80 - Заголовок не найден
+127.246.139.131:80 - Welcome to XAMPP
+68.119.252.114:80 - 
+47.99.165.117:80 - Welcome to CentOS
+185.22.92.192:80 - 404 Not Found
+184.31.209.37:80 - Заголовок не найден
+159.223.240.234:80 - 404 Not Found
+18.245.92.19:80 - Заголовок не найден
+176.23.16.244:80 - 
+62.165.155.27:80 - Заголовок не найден
+45.76.3.230:80 - Unknown Domain
+200.248.135.194:80 - Заголовок не найден
+184.87.234.16:80 - Заголовок не найден
+18.211.77.20:80 - 401 Unauthorized
+54.76.160.56:80 - Заголовок не найден
+107.163.209.76:80 - Заголовок не найден
+23.203.247.162:80 - Заголовок не найден
+20.166.67.206:80 - Заголовок не найден
+216.55.132.210:80 - Заголовок не найден
+127.95.27.205:80 - Welcome to XAMPP
+127.93.122.92:80 - Welcome to XAMPP
+52.26.72.211:80 - Заголовок не найден
+83.217.68.105:80 - IIS 10.0 Detailed Error - 403.14 - Forbidden
+62.205.244.254:80 - 500 Internal Server Error
+104.117.44.80:80 - Заголовок не найден
+104.69.146.5:80 - Заголовок не найден
+127.242.161.17:80 - Welcome to XAMPP
+127.76.174.203:80 - Welcome to XAMPP
+127.141.69.133:80 - Welcome to XAMPP
+127.91.46.190:80 - Welcome to XAMPP
+2.16.226.249:80 - Заголовок не найден
+185.72.198.187:80 - One moment, please...
+23.223.82.9:80 - Заголовок не найден
+142.171.223.14:80 - æ²¡ææ¾å°ç«ç¹
+35.185.247.128:80 - Apache2 Debian Default Page: It works
+127.104.189.192:80 - Welcome to XAMPP
+3.108.109.250:80 - SchoolEasy
+104.116.16.45:80 - Заголовок не найден
+84.197.213.144:80 - Заголовок не найден
+150.254.125.75:80 - Brother ADS-2800W
+72.94.17.51:80 - Apache2 Debian Default Page: It works
+188.166.84.204:80 - Welcome to nginx!
+66.242.157.93:80 - Заголовок не найден
+77.55.152.190:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+23.52.157.181:80 - Заголовок не найден
+127.251.235.224:80 - Welcome to XAMPP
+5.76.231.153:80 - GPON Home Gateway
+65.109.4.157:80 - mailcow UI
+23.206.142.55:80 - Заголовок не найден
+156.240.108.73:80 - Welcome
+127.15.161.250:80 - Welcome to XAMPP
+127.166.176.88:80 - Welcome to XAMPP
+127.107.53.162:80 - Welcome to XAMPP
+127.232.89.166:80 - Welcome to XAMPP
+195.19.215.132:80 - RouterOS router configuration page
+127.151.160.81:80 - Welcome to XAMPP
+43.131.35.78:80 - Заголовок не найден
+127.235.53.252:80 - Welcome to XAMPP
+79.134.5.216:80 - Заголовок не найден
+18.154.16.29:80 - Заголовок не найден
+104.17.89.90:80 - Direct IP access not allowed | Cloudflare
+127.199.125.197:80 - Welcome to XAMPP
+127.143.38.62:80 - Welcome to XAMPP
+88.99.12.93:80 - Заголовок не найден
+86.192.231.124:80 - Заголовок не найден
+97.94.213.27:80 - 
+71.84.219.202:80 - 
+184.25.27.30:80 - Заголовок не найден
+91.153.22.28:80 - 404 Not Found
+79.198.233.128:80 - 404 Not Found
+154.55.140.233:80 - Заголовок не найден
+176.106.214.68:80 - 403 Forbidden
+104.18.66.213:80 - Direct IP access not allowed | Cloudflare
+127.196.241.64:80 - Welcome to XAMPP
+127.93.175.163:80 - Welcome to XAMPP
+168.76.89.221:80 - Заголовок не найден
+127.191.241.245:80 - Welcome to XAMPP
+80.87.198.100:80 - Заголовок не найден
+65.108.150.148:80 - Apache2 Ubuntu Default Page: It works
+160.124.84.242:80 - 404 Not Found
+195.167.162.248:80 - 403 Forbidden
+89.116.133.200:80 - 403 Forbidden
+4.209.158.9:80 - Заголовок не найден
+127.207.162.98:80 - Welcome to XAMPP
+13.32.214.206:80 - Заголовок не найден
+127.202.174.35:80 - Welcome to XAMPP
+199.232.206.165:80 - Fastly error: unknown domain 199.232.206.165
+127.49.150.170:80 - Welcome to XAMPP
+127.243.61.42:80 - Welcome to XAMPP
+2.20.155.34:80 - Заголовок не найден
+192.185.190.85:80 - Not Acceptable!
+23.33.139.201:80 - Заголовок не найден
+2.179.243.231:80 - index
+98.1.0.166:80 - Заголовок не найден
+5.45.98.201:80 - 404 Not Found
+35.192.33.74:80 - Apache2 Debian Default Page: It works
+23.59.142.127:80 - Заголовок не найден
+71.202.245.49:80 - Login
+54.207.190.237:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+127.35.58.78:80 - Welcome to XAMPP
+127.108.104.187:80 - Welcome to XAMPP
+104.108.222.69:80 - Заголовок не найден
+85.187.137.122:80 - One moment, please...
+3.125.109.0:80 - JupyterHub
+104.114.95.99:80 - Заголовок не найден
+127.30.246.124:80 - Welcome to XAMPP
+127.129.11.105:80 - Welcome to XAMPP
+127.175.40.147:80 - Welcome to XAMPP
+127.33.137.64:80 - Welcome to XAMPP
+172.245.227.220:80 - Index of /debian
+127.116.23.111:80 - Welcome to XAMPP
+18.239.180.100:80 - Заголовок не найден
+64.41.156.153:80 - Miami-Dade County Business Lawyer | Miami Italian Citizenship Attorney | Fleitas & Arca, PLLC
+103.134.215.13:80 - Заголовок не найден
+52.84.109.197:80 - Заголовок не найден
+188.128.227.150:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+100.22.8.195:80 - Unicameral Update &#8211; The Nebraska Legislature&#039;s official news source since 1977
+68.184.35.94:80 - 
+14.186.24.119:80 - WEB SERVICE
+199.19.74.164:80 - IIS Windows Server
