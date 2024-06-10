@@ -1991,3 +1991,31 @@
 18.172.178.85:80 - Заголовок не найден
 18.173.5.249:80 - Заголовок не найден
 64.34.194.76:80 - Заголовок не найден
+18.232.11.249:80 - 400 The plain HTTP request was sent to HTTPS port
+121.177.24.63:80 - 
+104.160.1.42:80 - 407 Proxy Authentication Required
+188.128.232.188:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+154.201.250.117:80 - 404 Not Found
+103.45.64.191:80 - 403 Forbidden
+94.228.98.39:80 - Progress you can feel - Astralus
+44.210.83.57:80 - TAMS
+107.172.190.65:80 - 404 Not Found
+139.170.201.248:80 - 403 Forbidden
+178.159.44.15:80 - AMDG PAY личный кабинет
+193.239.4.161:80 - Domain nicht verfÃ¼gbar | Domain not available
+132.251.251.165:80 - 
+84.28.35.64:80 - WEB SERVICE
+124.121.204.212:80 - &#70;&#54;&#56;&#56;
+34.235.223.246:80 - 404 Not Found
+190.166.24.119:80 - 
+104.21.105.244:80 - Direct IP access not allowed | Cloudflare
+23.40.159.246:80 - Заголовок не найден
+85.214.155.54:80 - Web Server's Default Page
+104.19.50.9:80 - Direct IP access not allowed | Cloudflare
+52.8.3.204:80 - Заголовок не найден
+52.2.57.186:80 - Заголовок не найден
+153.193.198.5:80 - 
+121.46.31.41:80 - 500 Internal Server Error
+23.53.136.165:80 - Заголовок не найден
+144.24.57.41:80 - Заголовок не найден
+52.67.161.68:80 - 404 Not Found
