@@ -1216,3 +1216,188 @@
 15.165.237.186:80 - Заголовок не найден
 127.120.188.129:80 - Armored Kingdom | Web-based Online RPG
 139.59.51.19:80 - Заголовок не найден
+23.39.225.241:80 - Заголовок не найден
+216.92.14.15:80 - 403 Forbidden
+127.181.158.197:80 - Armored Kingdom | Web-based Online RPG
+50.112.185.186:80 - Runtime Error
+49.13.160.251:80 - Welcome to nginx!
+111.67.56.99:80 - WEB SERVICE
+218.149.48.29:80 - Заголовок не найден
+220.135.165.162:80 - 
+34.242.68.87:80 - Authenticating...
+35.189.212.85:80 - 403 Forbidden
+127.27.241.166:80 - Armored Kingdom | Web-based Online RPG
+127.65.62.99:80 - Armored Kingdom | Web-based Online RPG
+45.13.135.105:80 - 403 Forbidden
+127.222.178.221:80 - Armored Kingdom | Web-based Online RPG
+127.211.134.12:80 - Armored Kingdom | Web-based Online RPG
+144.91.81.72:80 - Laravel
+127.84.69.201:80 - Armored Kingdom | Web-based Online RPG
+103.108.140.11:80 - Apache2 Debian Default Page: It works
+143.167.249.121:80 - 403 Forbidden
+91.216.102.49:80 - Welcome to nginx!
+127.78.4.46:80 - Armored Kingdom | Web-based Online RPG
+142.93.46.104:80 - Maintainence by Bryterdigital.co.uk
+127.208.29.219:80 - Armored Kingdom | Web-based Online RPG
+127.102.118.163:80 - Armored Kingdom | Web-based Online RPG
+127.147.164.227:80 - Armored Kingdom | Web-based Online RPG
+127.191.217.180:80 - Armored Kingdom | Web-based Online RPG
+127.116.238.217:80 - Armored Kingdom | Web-based Online RPG
+127.77.34.20:80 - Armored Kingdom | Web-based Online RPG
+210.96.75.210:80 - main page
+23.220.108.113:80 - Заголовок не найден
+127.144.50.37:80 - Armored Kingdom | Web-based Online RPG
+23.48.236.229:80 - Заголовок не найден
+42.1.65.18:80 - 403 Forbidden
+108.141.59.103:80 - Your Azure Function App is up and running.
+45.225.208.94:80 - 500 Internal Server Error
+127.134.143.197:80 - Armored Kingdom | Web-based Online RPG
+127.204.84.151:80 - Armored Kingdom | Web-based Online RPG
+38.153.228.209:80 - ERROR: The requested URL could not be retrieved
+111.62.193.61:80 - Заголовок не найден
+23.208.73.212:80 - UNKNOWN
+167.88.198.25:80 - 404 Not Found
+127.73.52.78:80 - Armored Kingdom | Web-based Online RPG
+127.63.34.204:80 - Armored Kingdom | Web-based Online RPG
+3.16.27.134:80 - Заголовок не найден
+127.212.144.29:80 - Armored Kingdom | Web-based Online RPG
+127.94.146.37:80 - Armored Kingdom | Web-based Online RPG
+216.231.128.30:80 - Page not found
+127.229.223.126:80 - Armored Kingdom | Web-based Online RPG
+127.52.191.170:80 - Armored Kingdom | Web-based Online RPG
+104.16.214.239:80 - Direct IP access not allowed | Cloudflare
+179.255.174.158:80 - 
+127.226.152.156:80 - Armored Kingdom | Web-based Online RPG
+127.182.212.132:80 - Armored Kingdom | Web-based Online RPG
+82.212.38.174:80 - Multiple-Choice mit dem Testfragen-Script
+65.8.78.36:80 - Заголовок не найден
+3.67.198.29:80 - Заголовок не найден
+127.49.127.172:80 - Armored Kingdom | Web-based Online RPG
+104.19.165.12:80 - Direct IP access not allowed | Cloudflare
+3.221.19.168:80 - Cancun and Riviera Maya Tours: Cancun Bay - Cancun Bay
+127.150.222.183:80 - Armored Kingdom | Web-based Online RPG
+23.54.198.208:80 - Заголовок не найден
+127.77.77.174:80 - Armored Kingdom | Web-based Online RPG
+31.220.57.99:80 - Apache2 Ubuntu Default Page: It works
+23.222.178.24:80 - Заголовок не найден
+127.42.177.183:80 - Armored Kingdom | Web-based Online RPG
+127.113.109.133:80 - Armored Kingdom | Web-based Online RPG
+213.169.78.22:80 - Заголовок не найден
+183.111.29.92:80 - 코엠페이먼츠
+127.237.89.224:80 - Armored Kingdom | Web-based Online RPG
+106.14.57.167:80 - HTTP Server Test Page
+191.96.196.147:80 - Looking Glass Point
+104.25.157.250:80 - Direct IP access not allowed | Cloudflare
+18.172.54.10:80 - Заголовок не найден
+104.94.217.163:80 - Заголовок не найден
+151.236.91.183:80 - Заголовок не найден
+127.159.105.155:80 - Armored Kingdom | Web-based Online RPG
+127.79.138.152:80 - Armored Kingdom | Web-based Online RPG
+38.31.226.126:80 - 404 Not Found
+127.252.98.246:80 - Armored Kingdom | Web-based Online RPG
+140.121.136.63:80 - Заголовок не найден
+34.139.213.47:80 - Dialog Kenya | DialogKenya
+127.49.22.76:80 - Armored Kingdom | Web-based Online RPG
+104.120.68.36:80 - Заголовок не найден
+127.34.6.128:80 - Armored Kingdom | Web-based Online RPG
+127.225.69.215:80 - Armored Kingdom | Web-based Online RPG
+2.133.75.127:80 - GPON Home Gateway
+127.116.180.98:80 - Armored Kingdom | Web-based Online RPG
+200.60.150.41:80 - Заголовок не найден
+23.50.99.161:80 - Заголовок не найден
+130.61.180.215:80 - Заголовок не найден
+157.205.209.153:80 - fourC ãã©ã¼ã·ã¼æ ªå¼ä¼ç¤¾
+99.84.187.188:80 - Заголовок не найден
+165.231.14.237:80 - Заголовок не найден
+127.5.157.147:80 - Armored Kingdom | Web-based Online RPG
+127.60.48.7:80 - Armored Kingdom | Web-based Online RPG
+107.148.37.188:80 - 404 Not Found
+127.92.89.31:80 - Armored Kingdom | Web-based Online RPG
+122.52.128.249:80 - WEB SERVICE
+127.40.142.187:80 - Armored Kingdom | Web-based Online RPG
+127.10.161.217:80 - Armored Kingdom | Web-based Online RPG
+217.182.138.205:80 - Postfix Admin - 217.182.138.205
+104.22.5.216:80 - Direct IP access not allowed | Cloudflare
+127.132.138.85:80 - Armored Kingdom | Web-based Online RPG
+127.221.83.11:80 - Armored Kingdom | Web-based Online RPG
+127.191.21.99:80 - Armored Kingdom | Web-based Online RPG
+18.244.87.145:80 - Заголовок не найден
+23.6.249.117:80 - Заголовок не найден
+192.230.102.101:80 - Заголовок не найден
+18.244.214.150:80 - Заголовок не найден
+104.79.24.40:80 - Заголовок не найден
+108.191.116.3:80 - 
+34.209.112.37:80 - Заголовок не найден
+127.230.196.72:80 - Armored Kingdom | Web-based Online RPG
+87.110.54.48:80 - 
+127.4.22.80:80 - Armored Kingdom | Web-based Online RPG
+47.246.13.108:80 - 403 Forbidden
+211.170.80.240:80 - CMS Web Viewer
+220.122.252.246:80 - 
+127.128.246.112:80 - Armored Kingdom | Web-based Online RPG
+112.175.85.15:80 - 403 Forbidden
+3.110.87.4:80 - 404 Not Found
+103.157.216.228:80 - 401 Unauthorized
+104.129.23.98:80 - 500 Internal Server Error
+104.17.80.175:80 - Direct IP access not allowed | Cloudflare
+127.121.51.126:80 - Armored Kingdom | Web-based Online RPG
+23.197.127.52:80 - Заголовок не найден
+185.196.27.42:80 - 404 Not Found
+106.14.25.5:80 - Welcome to nginx!
+127.73.196.119:80 - Armored Kingdom | Web-based Online RPG
+185.179.116.239:80 - 
+127.47.148.208:80 - Armored Kingdom | Web-based Online RPG
+127.210.209.138:80 - Armored Kingdom | Web-based Online RPG
+95.166.125.47:80 - Заголовок не найден
+133.242.155.254:80 - Заголовок не найден
+65.0.74.111:80 - Test Page for the Apache HTTP Server
+13.214.243.11:80 - 403 Forbidden
+127.237.170.104:80 - Armored Kingdom | Web-based Online RPG
+199.48.183.137:80 - Page not found
+196.51.92.16:80 - ERROR: The requested URL could not be retrieved
+127.232.210.119:80 - Armored Kingdom | Web-based Online RPG
+127.91.22.106:80 - Armored Kingdom | Web-based Online RPG
+107.146.171.22:80 - 
+127.119.137.194:80 - Armored Kingdom | Web-based Online RPG
+127.66.30.221:80 - Armored Kingdom | Web-based Online RPG
+184.87.199.190:80 - Заголовок не найден
+108.156.251.127:80 - Заголовок не найден
+65.9.138.50:80 - Заголовок не найден
+127.108.111.111:80 - Armored Kingdom | Web-based Online RPG
+13.33.62.145:80 - Заголовок не найден
+154.30.213.62:80 - ERROR: The requested URL could not be retrieved
+127.108.51.101:80 - Armored Kingdom | Web-based Online RPG
+115.68.78.117:80 - 파싱작업
+93.157.102.74:80 - 404 Not Found
+163.44.60.29:80 - Заголовок не найден
+179.36.137.92:80 - Заголовок не найден
+103.160.76.19:80 - 404 Not Found
+18.172.154.185:80 - Заголовок не найден
+23.204.0.3:80 - Заголовок не найден
+180.97.234.203:80 - 403 Forbidden
+23.222.166.231:80 - Заголовок не найден
+80.90.185.116:80 - Необходимо добавить домен 80.90.185.116 в список поддерживаемых системой управления сайтом HostCMS!
+54.230.137.117:80 - Заголовок не найден
+23.2.58.75:80 - Заголовок не найден
+49.156.132.8:80 - Apache HTTP Server Test Page powered by CentOS
+212.69.142.98:80 - 500 Internal Server Error
+195.57.161.81:80 - 404 Not Found
+164.92.133.152:80 - Chayxanshik
+127.83.123.213:80 - Armored Kingdom | Web-based Online RPG
+38.165.91.187:80 - Заголовок не найден
+52.117.75.99:80 - Заголовок не найден
+127.251.126.204:80 - Armored Kingdom | Web-based Online RPG
+189.20.196.2:80 - Заголовок не найден
+127.229.95.244:80 - Armored Kingdom | Web-based Online RPG
+87.128.211.65:80 - Index of /
+127.103.36.86:80 - Armored Kingdom | Web-based Online RPG
+52.62.143.116:80 - Заголовок не найден
+92.63.218.239:80 - Заголовок не найден
+68.183.47.173:80 - Nortis Technology &#8211; Evolving disruptive technology
+60.204.138.3:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+127.158.110.249:80 - Armored Kingdom | Web-based Online RPG
+18.154.99.72:80 - Заголовок не найден
+15.206.131.172:80 - Заголовок не найден
+177.91.53.104:80 - RouterOS router configuration page
+198.41.211.190:80 - Direct IP access not allowed | Cloudflare
+72.10.165.228:80 - Заголовок не найден
