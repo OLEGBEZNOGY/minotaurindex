@@ -1351,3 +1351,15 @@
 108.163.241.29:80 - Account Suspended
 104.67.0.166:80 - Заголовок не найден
 185.156.163.39:80 - 403 Forbidden
+108.186.76.39:80 - æ­åï¼ç«ç¹åå»ºæåï¼
+15.207.48.172:80 - HealthLink
+52.196.22.69:80 - Заголовок не найден
+142.250.206.215:80 - Google
+37.59.109.90:80 - Apache2 Ubuntu Default Page: It works
+23.34.255.39:80 - Заголовок не найден
+82.118.235.32:80 - Not Found
+46.4.119.22:80 - Apache HTTP Server Test Page powered by CentOS
+46.43.215.170:80 - Заголовок не найден
+51.8.206.191:80 - Azure Container App - Unavailable
+103.108.193.77:80 - æ²¡ææ¾å°ç«ç¹
+46.242.227.233:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
