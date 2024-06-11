@@ -297,3 +297,34 @@
 118.175.228.105:80 - F620
 195.184.78.158:80 - Test Page for the Nginx HTTP Server on EPEL
 207.164.119.111:80 - 
+45.145.186.3:80 - 403 Forbidden
+2.22.90.7:80 - Заголовок не найден
+14.167.155.22:80 - Заголовок не найден
+2.19.102.46:80 - Заголовок не найден
+23.38.132.28:80 - Заголовок не найден
+192.126.172.55:80 - ERROR: The requested URL could not be retrieved
+79.255.33.42:80 - 500 - Interner Serverfehler.
+73.153.161.124:80 - 
+172.67.28.142:80 - Direct IP access not allowed | Cloudflare
+23.0.214.11:80 - Заголовок не найден
+195.113.155.64:80 - Vyhledávání v katalogu
+23.12.221.238:80 - Заголовок не найден
+73.55.91.30:80 - 
+92.122.65.14:80 - Заголовок не найден
+40.125.45.225:80 - Заголовок не найден
+49.213.132.197:80 - 401 Unauthorized
+188.128.161.27:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+173.232.119.226:80 - ERROR: The requested URL could not be retrieved
+34.198.66.211:80 - Заголовок не найден
+52.159.94.14:80 - 404 Not Found
+62.10.70.70:80 - Your Azure Function App is up and running.
+43.155.31.168:80 - Заголовок не найден
+79.20.150.142:80 - index
+31.14.17.86:80 - Success!
+163.5.195.19:80 - Apache2 Debian Default Page: It works
+185.239.193.37:80 - Заголовок не найден
+89.115.201.192:80 - LaCie&nbsp;&#124;&nbsp;Dashboard
+82.153.26.190:80 - Web Maintenance Console
+3.234.78.240:80 - YWH Recruitment Page - YWH Recruitment Page
+20.157.150.111:80 - InvalidUri
+23.200.187.204:80 - Заголовок не найден
