@@ -7214,3 +7214,19 @@ n
 185.235.177.119:80 - Заголовок не найден
 20.86.138.80:80 - The resource cannot be found.
 52.222.173.167:80 - Заголовок не найден
+78.153.216.122:80 - Заголовок не найден
+23.56.57.173:80 - Заголовок не найден
+38.6.78.54:80 - 404 Not Found
+5.9.110.226:80 - PRO Datenverarbeitung &#187; individuelle Softwareentwicklung
+38.38.144.130:80 - 403 Forbidden
+103.28.255.218:80 - Please wait, the login page is opening...
+1.215.97.163:80 - main page
+217.21.43.58:80 - Welcome to CentOS
+23.46.117.117:80 - Заголовок не найден
+169.61.99.52:80 - 403 - Forbidden: Access is denied.
+23.33.157.37:80 - Заголовок не найден
+185.232.14.216:80 - 403 Forbidden
+66.248.156.46:80 - Carolina Digital Phone Hosted VoIP Telephone Services for Business | 156.46
+54.146.1.29:80 - 404 Not Found
+190.3.89.16:80 - Apache HTTP Server Test Page powered by CentOS
+89.142.61.121:80 - Заголовок не найден
