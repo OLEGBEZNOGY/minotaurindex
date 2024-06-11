@@ -8430,3 +8430,16 @@
 23.49.60.181:80 - Заголовок не найден
 139.59.227.208:80 - Welcome to nginx!
 95.228.93.107:80 - 
+18.163.96.43:80 - 502 Bad Gateway
+23.215.94.192:80 - Заголовок не найден
+77.233.14.152:80 - index
+38.31.154.122:80 - 404 Not Found
+199.232.238.216:80 - Fastly error: unknown domain 199.232.238.216
+45.55.71.139:80 - Welcome to nginx!
+51.68.179.176:80 - Crema Solar: Guía completa sobre crema solar / protección solar - Crema Solar: Todo lo que necesitas saber sobre la protección solar
+188.166.200.82:80 - Jonline
+179.191.104.187:80 - Заголовок не найден
+210.226.43.189:80 - 401 Unauthorized
+20.121.251.83:80 - 404 Not Found
+45.90.120.61:80 - Заголовок не найден
+52.70.141.9:80 - GSN Games, Inc. - Page Not Found
