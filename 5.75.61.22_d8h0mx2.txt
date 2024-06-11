@@ -1,0 +1,2 @@
+196.51.64.228:80 - ERROR: The requested URL could not be retrieved
+108.179.192.224:80 - Not Acceptable!
