@@ -4075,3 +4075,247 @@
 127.124.121.28:80 - Welcome to XAMPP
 137.184.46.197:80 - 404 Not Found
 23.2.239.213:80 - Заголовок не найден
+184.87.198.148:80 - Заголовок не найден
+184.168.21.103:80 - Заголовок не найден
+23.10.224.89:80 - Заголовок не найден
+23.58.31.105:80 - Заголовок не найден
+61.75.105.146:80 - main page
+78.199.163.49:80 - Apache2 Debian Default Page: It works
+89.161.246.21:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+193.163.125.47:80 - Заголовок не найден
+106.39.247.148:80 - Заголовок не найден
+127.74.174.179:80 - Welcome to XAMPP
+127.51.59.252:80 - Welcome to XAMPP
+18.67.236.92:80 - Заголовок не найден
+127.105.219.143:80 - Welcome to XAMPP
+13.84.154.255:80 - Заголовок не найден
+204.114.65.159:80 - Заголовок не найден
+85.214.193.4:80 - Web Server's Default Page
+127.140.140.66:80 - Welcome to XAMPP
+103.55.61.232:80 - Please wait, the login page is opening...
+23.110.130.149:80 - 404 Not Found
+23.199.155.189:80 - Заголовок не найден
+89.58.12.36:80 - Kanzlei Birgitta Brunner
+127.5.139.95:80 - Welcome to XAMPP
+52.43.39.254:80 - Заголовок не найден
+127.101.103.225:80 - Welcome to XAMPP
+156.250.253.194:80 - 404 Not Found
+120.53.206.16:80 - Заголовок не найден
+104.238.70.50:80 - Заголовок не найден
+104.97.11.247:80 - Заголовок не найден
+127.84.38.80:80 - Welcome to XAMPP
+62.163.239.7:80 - Заголовок не найден
+95.100.49.185:80 - Заголовок не найден
+49.103.219.134:80 - Заголовок не найден
+98.150.82.165:80 - 
+127.110.127.88:80 - Welcome to XAMPP
+127.105.54.184:80 - Welcome to XAMPP
+104.18.47.203:80 - Direct IP access not allowed | Cloudflare
+127.203.90.48:80 - Welcome to XAMPP
+109.202.10.83:80 - 404 Not Found
+78.151.231.15:80 - Заголовок не найден
+127.94.247.152:80 - Welcome to XAMPP
+23.77.159.72:80 - Заголовок не найден
+116.162.161.22:80 - Заголовок не найден
+104.108.114.178:80 - Заголовок не найден
+127.64.155.139:80 - Welcome to XAMPP
+127.45.146.175:80 - Welcome to XAMPP
+50.17.151.12:80 - 404 Not Found
+127.64.10.115:80 - Welcome to XAMPP
+141.126.43.248:80 - 
+23.11.118.29:80 - Заголовок не найден
+181.225.136.79:80 - Parking de Mesi
+127.199.181.118:80 - Welcome to XAMPP
+127.242.45.224:80 - Welcome to XAMPP
+52.128.39.206:80 - Заголовок не найден
+54.243.173.105:80 - 403 Forbidden
+127.238.10.22:80 - Welcome to XAMPP
+187.135.48.97:80 - RouterOS router configuration page
+188.112.165.8:80 - 500 Internal Server Error
+89.58.62.17:80 - Acapulco SOS
+127.171.23.241:80 - Welcome to XAMPP
+2.16.146.204:80 - Заголовок не найден
+23.60.204.155:80 - Заголовок не найден
+156.245.72.241:80 - æ²¡ææ¾å°ç«ç¹
+127.247.253.252:80 - Welcome to XAMPP
+127.50.219.241:80 - Welcome to XAMPP
+127.222.61.219:80 - Welcome to XAMPP
+127.8.31.107:80 - Welcome to XAMPP
+66.242.131.116:80 - Заголовок не найден
+38.14.157.245:80 - 404 Not Found
+112.29.218.91:80 - 404 Not Found
+45.33.67.164:80 - Заголовок не найден
+23.216.159.137:80 - Заголовок не найден
+127.170.191.240:80 - Welcome to XAMPP
+127.8.28.253:80 - Welcome to XAMPP
+92.123.30.9:80 - Заголовок не найден
+18.245.114.37:80 - Заголовок не найден
+127.253.152.77:80 - Welcome to XAMPP
+127.230.69.85:80 - Welcome to XAMPP
+44.197.57.247:80 - Заголовок не найден
+127.155.21.88:80 - Welcome to XAMPP
+3.219.120.104:80 - Заголовок не найден
+108.138.18.235:80 - Заголовок не найден
+127.182.228.127:80 - Welcome to XAMPP
+96.224.31.189:80 - Dericam
+23.52.13.227:80 - Заголовок не найден
+127.240.83.150:80 - Welcome to XAMPP
+133.242.23.67:80 - Just a moment...
+78.154.233.175:80 - Заголовок не найден
+127.205.175.26:80 - Welcome to XAMPP
+156.239.74.90:80 - 403 Forbidden
+127.140.120.108:80 - Welcome to XAMPP
+3.25.16.21:80 - Big Freeze
+35.84.88.79:80 - Заголовок не найден
+2.21.84.186:80 - Заголовок не найден
+127.58.221.105:80 - Welcome to XAMPP
+5.153.73.222:80 - 403 Forbidden
+116.148.189.40:80 - 403 Forbidden
+127.44.152.153:80 - Welcome to XAMPP
+127.211.21.223:80 - Welcome to XAMPP
+104.87.185.6:80 - Заголовок не найден
+213.219.235.30:80 - Интернет телефония для бизнеса: купить городские номера, номера 8-800, исходящие звонки
+127.253.96.144:80 - Welcome to XAMPP
+77.55.147.220:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+127.88.240.130:80 - Welcome to XAMPP
+108.177.12.17:80 - Google
+127.113.229.136:80 - Welcome to XAMPP
+216.92.211.40:80 - DerbyCross - The Next Great Horse Sport
+54.239.176.106:80 - Заголовок не найден
+127.243.167.202:80 - Welcome to XAMPP
+127.28.183.132:80 - Welcome to XAMPP
+95.56.123.251:80 - GPON Home Gateway
+127.226.45.63:80 - Welcome to XAMPP
+167.71.106.248:80 - Codix
+127.103.59.74:80 - Welcome to XAMPP
+127.145.96.151:80 - Welcome to XAMPP
+104.115.25.237:80 - Заголовок не найден
+188.166.29.91:80 - 404 Not Found
+127.233.103.8:80 - Welcome to XAMPP
+127.132.34.46:80 - Welcome to XAMPP
+132.249.210.195:80 - RCSB PDB: Homepage
+127.86.72.2:80 - Welcome to XAMPP
+175.203.234.207:80 - 
+89.58.39.3:80 - Domainpark - Bitte den Rasen nicht betreten. Vielen Dank!
+174.129.243.194:80 - Test Page for the Nginx HTTP Server on Amazon Linux
+186.209.106.73:80 - HOMETI
+150.60.201.24:80 - ControlPanel
+137.175.20.212:80 - Welcome to nginx!
+127.31.76.83:80 - Welcome to XAMPP
+23.231.95.112:80 - 403 Forbidden
+127.6.93.80:80 - Welcome to XAMPP
+127.145.84.219:80 - Welcome to XAMPP
+38.12.136.155:80 - Заголовок не найден
+154.197.212.121:80 - 404 Not Found
+23.194.133.88:80 - Заголовок не найден
+104.241.145.133:80 - 401 Unauthorized
+35.231.54.204:80 - Apache2 Ubuntu Default Page: It works
+127.59.213.84:80 - Welcome to XAMPP
+127.137.241.203:80 - Welcome to XAMPP
+116.6.229.103:80 - IIS Windows Server
+185.144.81.68:80 - Заголовок не найден
+192.240.176.106:80 - Nexcess
+101.43.164.207:80 - 404 Not Found
+34.198.228.216:80 - 403 Forbidden
+128.140.9.54:80 - 404 Not Found
+127.98.75.155:80 - Welcome to XAMPP
+184.26.175.25:80 - Заголовок не найден
+127.192.80.11:80 - Welcome to XAMPP
+127.104.177.191:80 - Welcome to XAMPP
+127.98.126.93:80 - Welcome to XAMPP
+103.28.249.216:80 - Заголовок не найден
+35.207.182.142:80 - Заголовок не найден
+210.3.217.163:80 - 景林天主教小學 | King Lam Catholic Primary School
+66.190.205.28:80 - 
+127.55.82.43:80 - Welcome to XAMPP
+66.135.13.91:80 - Unknown Domain
+13.74.49.222:80 - 404 - File or directory not found.
+162.221.74.162:80 - Заголовок не найден
+178.20.44.248:80 - Welcome to nginx!
+103.184.44.34:80 - Direct IP access not allowed | Cloudflare
+127.103.110.46:80 - Welcome to XAMPP
+127.232.153.185:80 - Welcome to XAMPP
+104.21.214.201:80 - Direct IP access not allowed | Cloudflare
+207.112.105.247:80 - Заголовок не найден
+220.135.172.108:80 - hd client
+158.160.9.185:80 - 403 Forbidden
+15.184.19.99:80 - 403 Forbidden
+127.41.160.79:80 - Welcome to XAMPP
+127.211.89.25:80 - Welcome to XAMPP
+127.131.89.175:80 - Welcome to XAMPP
+127.65.173.221:80 - Welcome to XAMPP
+127.67.76.196:80 - Welcome to XAMPP
+187.8.244.150:80 - Web user login
+23.62.185.235:80 - Заголовок не найден
+127.66.177.91:80 - Welcome to XAMPP
+127.126.34.224:80 - Welcome to XAMPP
+181.27.199.153:80 - Заголовок не найден
+127.82.252.177:80 - Welcome to XAMPP
+60.43.240.165:80 - Заголовок не найден
+23.51.46.175:80 - Заголовок не найден
+192.185.81.217:80 - Not Acceptable!
+127.154.84.103:80 - Welcome to XAMPP
+23.36.121.251:80 - Заголовок не найден
+18.165.127.80:80 - Заголовок не найден
+127.230.172.202:80 - Welcome to XAMPP
+69.192.110.80:80 - Заголовок не найден
+54.242.110.173:80 - Заголовок не найден
+127.73.189.90:80 - Welcome to XAMPP
+46.1.103.232:80 - Заголовок не найден
+47.185.99.109:80 - 
+193.107.237.68:80 - 404 Not Found
+23.42.20.54:80 - Заголовок не найден
+127.7.126.239:80 - Welcome to XAMPP
+149.30.191.115:80 - 404 Not Found
+127.188.209.152:80 - Welcome to XAMPP
+184.25.209.2:80 - Заголовок не найден
+3.113.9.8:80 - Заголовок не найден
+45.55.223.50:80 - Overheard with Evan Smith
+127.77.213.11:80 - Welcome to XAMPP
+67.230.79.199:80 - 
+103.214.166.250:80 - Заголовок не найден
+128.93.160.18:80 - Welcome to nginx!
+127.83.54.13:80 - Welcome to XAMPP
+52.27.181.58:80 - Apache2 Ubuntu Default Page: It works
+127.125.133.97:80 - Welcome to XAMPP
+8.129.215.157:80 - æ²¡ææ¾å°ç«ç¹
+127.52.136.98:80 - Welcome to XAMPP
+128.0.54.199:80 - Tani i szybki hosting WWW. Tanie domeny z hostingiem w SeoHost.pl
+5.161.102.24:80 - 404 Not Found
+108.139.183.164:80 - Заголовок не найден
+13.52.222.69:80 - UNM Health System  | Albuquerque, New Mexico
+52.108.186.3:80 - Login | Microsoft 365
+127.156.78.251:80 - Welcome to XAMPP
+149.224.55.245:80 - Hello! Welcome to Synology Web Station!
+127.122.217.1:80 - Welcome to XAMPP
+127.36.196.205:80 - Welcome to XAMPP
+127.237.225.183:80 - Welcome to XAMPP
+127.87.239.173:80 - Welcome to XAMPP
+108.186.102.20:80 - Заголовок не найден
+172.120.44.221:80 - 403 Forbidden
+125.252.237.32:80 - Заголовок не найден
+103.55.37.71:80 - Welcome to nginx!
+127.90.115.227:80 - Welcome to XAMPP
+127.182.137.180:80 - Welcome to XAMPP
+91.209.51.6:80 - 403 - Forbidden
+89.161.191.137:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+127.64.214.55:80 - Welcome to XAMPP
+127.27.143.156:80 - Welcome to XAMPP
+127.175.39.60:80 - Welcome to XAMPP
+104.16.183.138:80 - Direct IP access not allowed | Cloudflare
+127.0.151.205:80 - Welcome to XAMPP
+127.253.4.149:80 - Welcome to XAMPP
+75.98.232.111:80 - TAC - Transportation Accessories Company - Specialists in School Bus Parts
+38.11.205.51:80 - æ²¡ææ¾å°ç«ç¹
+43.175.46.119:80 - Заголовок не найден
+52.219.104.98:80 - Amazon S3 - Cloud Object Storage  - AWS
+127.255.202.58:80 - Welcome to XAMPP
+127.68.49.100:80 - Welcome to XAMPP
+13.35.9.6:80 - Заголовок не найден
+156.245.56.214:80 - 404 Not Found
+39.107.206.186:80 - ASO优化_aso榜单优化_AppStore推广-多点科技
+47.242.189.197:80 - 403éè¯¯!è§£ææå,æªç»å®!
+127.161.83.158:80 - Welcome to XAMPP
+104.103.157.28:80 - Заголовок не найден
+170.64.139.181:80 - Заголовок не найден
+18.136.115.113:80 - 503 Service Temporarily Unavailable
