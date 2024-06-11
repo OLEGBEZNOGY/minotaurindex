@@ -2369,3 +2369,9 @@
 156.67.77.227:80 - 403 Forbidden
 52.193.250.237:80 - 503 Service Temporarily Unavailable
 49.44.142.247:80 - Заголовок не найден
+23.79.25.252:80 - Заголовок не найден
+18.64.66.127:80 - Заголовок не найден
+54.180.68.246:80 - 503 Service Temporarily Unavailable
+216.67.39.199:80 - Web Viewer for Samsung DVR
+24.70.90.226:80 - Заголовок не найден
+8.215.11.214:80 - Apache HTTP Server Test Page powered by CentOS
