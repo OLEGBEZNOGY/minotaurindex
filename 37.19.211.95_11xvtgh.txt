@@ -1009,3 +1009,14 @@
 85.215.181.111:80 - Заголовок не найден
 159.223.229.101:80 - Apache2 Ubuntu Default Page: It works
 104.68.57.3:80 - Заголовок не найден
+104.128.119.159:80 - Заголовок не найден
+4.249.158.126:80 - Your Azure Function App is up and running.
+23.198.179.37:80 - Заголовок не найден
+162.253.42.2:80 - Cloud Provider and Dedicated Server Hosting in Dallas, TX | Limestone Networks
+62.204.142.74:80 - Заголовок не найден
+85.143.217.220:80 - PropelException: Unable to open PDO connection [wrapped: SQLSTATE[HY000] [2002] No such file or directory]
+18.154.1.80:80 - Заголовок не найден
+151.101.6.23:80 - Fastly error: unknown domain 151.101.6.23
+54.242.173.119:80 - Welcome to our Ordering API
+23.61.182.63:80 - Заголовок не найден
+85.235.67.15:80 - Welcome to nginx!
