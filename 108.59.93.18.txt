@@ -4,3 +4,7 @@
 23.56.251.206:80 - Заголовок не найден
 164.100.63.24:80 - 
 3.11.215.151:80 - ,Your personal movie is ready to roll!
+64.224.253.157:80 - Document Moved
+112.186.2.188:80 - Web Viewer for Samsung DVR
+165.231.223.67:80 - 403 Forbidden
+200.175.214.55:80 - Intelbras
