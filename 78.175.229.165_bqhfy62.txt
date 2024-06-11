@@ -2918,3 +2918,23 @@
 46.242.194.88:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
 198.24.120.231:80 - Заголовок не найден
 199.119.218.239:80 - Web Server's Default Page
+148.72.86.127:80 - My blog &#8211; Just another WordPress site
+164.52.211.138:80 - OPD-CFTR
+85.126.117.79:80 - 403 Forbidden
+23.52.49.160:80 - Заголовок не найден
+13.238.152.248:80 - Заголовок не найден
+174.136.17.143:80 - Заголовок не найден
+154.23.64.106:80 - 403 Forbidden
+35.165.223.198:80 - 503 Service Temporarily Unavailable
+144.76.159.12:80 - Welcome to nginx!
+35.156.13.113:80 - 404 Not Found
+96.6.161.137:80 - Заголовок не найден
+98.70.78.217:80 - testvs.com &mdash;  Domain default page
+23.0.21.204:80 - Заголовок не найден
+47.111.185.77:80 - Database Error
+24.183.239.74:80 - 
+104.90.89.83:80 - Заголовок не найден
+20.55.34.164:80 - Apache2 Ubuntu Default Page: It works
+5.79.109.110:80 - Web Server's Default Page
+172.233.217.226:80 - Index of /
+128.199.106.151:80 - 503 Service Temporarily Unavailable
