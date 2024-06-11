@@ -2718,3 +2718,4 @@
 23.205.38.163:80 - Заголовок не найден
 192.126.229.126:80 - ERROR: The requested URL could not be retrieved
 104.17.52.125:80 - Direct IP access not allowed | Cloudflare
+186.2.163.76:80 - DDoS-Guard
