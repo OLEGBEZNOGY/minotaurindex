@@ -763,3 +763,5 @@
 31.136.230.241:80 - Web Filter Violation
 86.162.8.84:80 - Web Filter Violation
 3.161.45.127:80 - Web Filter Violation
+41.37.74.184:80 - Web Filter Violation
+46.242.195.181:80 - Web Filter Violation
