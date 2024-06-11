@@ -1500,3 +1500,4 @@
 209.188.93.189:80 - Web Filter Violation
 18.157.78.147:80 - Web Filter Violation
 104.68.89.104:80 - Web Filter Violation
+35.165.24.237:80 - Web Filter Violation
