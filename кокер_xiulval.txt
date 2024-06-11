@@ -15402,3 +15402,46 @@ eSIMKO
 23.197.105.34:80 - Заголовок не найден
 108.170.51.123:80 - Bitnami: Open Source. Simplified
 103.72.89.12:80 - RouterOS router configuration page
+23.54.173.109:80 - Заголовок не найден
+138.201.89.162:80 - Startseite | VHS Molfsee
+2.18.240.62:80 - Заголовок не найден
+38.6.39.155:80 - 404 Not Found
+43.248.56.31:80 - OFFICENET
+95.101.11.27:80 - Заголовок не найден
+39.39.103.246:80 - Заголовок не найден
+3.65.111.44:80 - Home | GCC Portal
+161.97.133.152:80 - Web Server's Default Page
+154.12.208.188:80 - ERROR: The requested URL could not be retrieved
+178.32.122.78:80 - L'accès à ce site Web n'est pas autorisé
+104.104.9.65:80 - Заголовок не найден
+87.76.1.31:80 - Заголовок не найден
+164.155.163.71:80 - 404 Not Found
+8.219.54.106:80 - OK
+142.250.218.144:80 - Заголовок не найден
+92.123.197.154:80 - Заголовок не найден
+123.56.99.114:80 - 403 - ½ûÖ¹·ÃÎÊ: ·ÃÎÊ±»¾Ü¾ø¡£
+74.33.198.21:80 - Server Error
+208.80.28.241:80 - DBLY Group Mail Server Information
+23.200.174.79:80 - Заголовок не найден
+121.5.22.231:80 - 403 Forbidden
+104.36.182.125:80 - Bandwidth Speed Test
+23.14.199.118:80 - Заголовок не найден
+50.211.104.35:80 - WEB SERVICE
+23.39.212.120:80 - Заголовок не найден
+211.62.118.70:80 - Заголовок не найден
+184.31.153.183:80 - Заголовок не найден
+223.119.255.130:80 - 403 Forbidden
+85.214.109.108:80 - STRATO
+23.72.247.236:80 - Заголовок не найден
+146.112.44.205:80 - Error 401
+77.55.161.156:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+171.103.113.190:80 - TRUE
+121.40.223.218:80 - 404 Not Found
+104.27.102.245:80 - Direct IP access not allowed | Cloudflare
+34.146.22.88:80 - Apache2 Ubuntu Default Page: It works
+146.148.158.19:80 - 404 Not Found
+199.127.44.88:80 - 403 Forbidden
+185.231.202.230:80 - Shared IP
+51.161.87.34:80 - Apache2 Debian Default Page: It works
+5.144.141.124:80 - Apache2 Debian Default Page: It works
+160.124.104.214:80 - 404 Not Found
