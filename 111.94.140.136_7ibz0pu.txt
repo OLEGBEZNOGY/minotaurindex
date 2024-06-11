@@ -2,3 +2,7 @@
 52.95.141.23:80 - Amazon S3 - Cloud Object Storage  - AWS
 47.106.83.113:80 - 阿里云万网虚机IP访问报错提示
 173.223.141.211:80 - Заголовок не найден
+104.18.188.185:80 - Direct IP access not allowed | Cloudflare
+52.95.141.23:80 - Amazon S3 - Cloud Object Storage  - AWS
+47.106.83.113:80 - 阿里云万网虚机IP访问报错提示
+173.223.141.211:80 - Заголовок не найден
