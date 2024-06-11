@@ -2307,3 +2307,7 @@
 107.145.192.17:80 - 
 79.96.118.95:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
 152.0.245.155:80 - 
+23.202.53.124:80 - Заголовок не найден
+20.216.176.126:80 - One Day One Idea - Cette page n&#039;existe pas
+221.187.24.215:80 - SAMSUNG TECHWIN NVR Web Viewer
+178.212.79.233:80 - 500 Internal Server Error
