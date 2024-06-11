@@ -559,3 +559,13 @@
 222.194.36.97:80 - 404 Not Found
 188.241.58.192:80 - Заголовок не найден
 38.154.124.9:80 - ERROR: The requested URL could not be retrieved
+116.90.59.203:80 - 403 Forbidden
+72.133.116.67:80 - Заголовок не найден
+207.177.2.233:80 - IIS Windows Server
+23.44.142.150:80 - Заголовок не найден
+78.46.10.107:80 - konsoleH :: Login
+104.88.238.91:80 - Заголовок не найден
+186.7.99.112:80 - 
+68.171.34.76:80 - Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
+162.241.60.233:80 - Not Acceptable!
+61.155.238.78:80 - Заголовок не найден
