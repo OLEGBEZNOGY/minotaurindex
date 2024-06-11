@@ -1,0 +1,6 @@
+81.17.75.204:80 - IIS Windows Server
+87.141.45.235:80 - Determining Broadband Network Type
+94.12.190.184:80 - Determining Broadband Network Type
+156.11.97.124:80 - Determining Broadband Network Type
+52.216.50.245:80 - Determining Broadband Network Type
+123.150.189.135:80 - Determining Broadband Network Type
