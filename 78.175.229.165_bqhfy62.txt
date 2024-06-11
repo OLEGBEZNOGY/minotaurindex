@@ -3819,3 +3819,6 @@
 18.192.107.139:80 - 404 Not Found
 211.5.119.141:80 - Заголовок не найден
 167.82.0.84:80 - Fastly error: unknown domain 167.82.0.84
+91.219.62.68:80 - Заголовок не найден
+85.207.213.58:80 - Log In - Juniper Web Device Manager
+35.189.207.29:80 - Sanitaire-pas-cher
