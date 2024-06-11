@@ -13046,3 +13046,126 @@
 127.159.26.188:80 - Welcome to XAMPP
 127.139.253.27:80 - Welcome to XAMPP
 127.178.10.125:80 - Welcome to XAMPP
+98.96.234.13:80 - Заголовок не найден
+127.206.61.101:80 - Welcome to XAMPP
+154.55.198.25:80 - Заголовок не найден
+127.31.243.101:80 - Welcome to XAMPP
+47.99.123.43:80 - IIS7
+127.39.198.176:80 - Welcome to XAMPP
+2.18.199.92:80 - Заголовок не найден
+45.134.82.197:80 - BPJPH-CHINA
+91.193.245.100:80 - Заголовок не найден
+127.196.112.178:80 - Welcome to XAMPP
+95.101.225.89:80 - Заголовок не найден
+13.226.34.84:80 - Заголовок не найден
+121.37.231.190:80 - 502 Bad Gateway
+127.128.113.155:80 - Welcome to XAMPP
+3.36.29.227:80 - 403 Forbidden
+160.251.151.195:80 - Заголовок не найден
+61.78.192.19:80 - Hello! Welcome to Synology Web Station!
+47.75.111.212:80 - 500 Internal Server Error
+143.198.48.76:80 - 403 Forbidden
+127.248.210.15:80 - Welcome to XAMPP
+201.152.156.42:80 - Заголовок не найден
+18.254.209.179:80 - Заголовок не найден
+127.96.108.31:80 - Welcome to XAMPP
+99.86.132.166:80 - Заголовок не найден
+159.192.227.80:80 - Заголовок не найден
+71.81.143.0:80 - 
+127.163.207.207:80 - Welcome to XAMPP
+23.247.25.174:80 - 403 Forbidden
+54.192.219.27:80 - Заголовок не найден
+45.125.48.125:80 - IIS Windows Server
+192.126.191.221:80 - ERROR: The requested URL could not be retrieved
+118.140.232.78:80 - Заголовок не найден
+204.14.79.201:80 - Page not found
+5.183.192.91:80 - Заголовок не найден
+127.1.150.69:80 - Welcome to XAMPP
+103.117.144.90:80 - GLIVE
+44.214.74.99:80 - Заголовок не найден
+107.173.8.162:80 - Welcome to CentOS
+149.56.6.235:80 - Page not found
+211.228.138.85:80 - webpackSPA
+127.77.103.206:80 - Welcome to XAMPP
+127.220.142.21:80 - Welcome to XAMPP
+54.246.31.145:80 - Заголовок не найден
+150.60.197.59:80 - Заголовок не найден
+107.163.234.227:80 - 403 Forbidden
+127.159.83.161:80 - Welcome to XAMPP
+127.228.237.169:80 - Welcome to XAMPP
+127.8.117.1:80 - Welcome to XAMPP
+187.210.55.51:80 - Заголовок не найден
+127.171.193.34:80 - Welcome to XAMPP
+176.27.252.195:80 - Заголовок не найден
+39.61.156.135:80 - Заголовок не найден
+139.59.228.127:80 - Test Page for the Nginx HTTP Server
+82.199.197.101:80 - 
+195.15.235.58:80 - La course autour du monde par Time for the Planet&reg;
+127.143.81.112:80 - Welcome to XAMPP
+3.0.34.174:80 - KoomGan?
+50.17.189.71:80 - Home - Vermont Home Watch
+127.170.186.116:80 - Welcome to XAMPP
+104.247.167.100:80 - Piri Guide &#8211; Your personal travel guide
+212.68.181.243:80 - Index of /
+153.213.98.252:80 - 
+18.155.76.254:80 - Заголовок не найден
+217.26.51.43:80 - Seite nicht verfügbar
+23.38.62.60:80 - Заголовок не найден
+127.190.246.44:80 - Welcome to XAMPP
+127.49.27.190:80 - Welcome to XAMPP
+52.217.107.76:80 - Amazon S3 - Cloud Object Storage  - AWS
+127.178.113.38:80 - Welcome to XAMPP
+127.171.39.90:80 - Welcome to XAMPP
+23.61.70.38:80 - Заголовок не найден
+127.168.130.177:80 - Welcome to XAMPP
+127.192.134.53:80 - Welcome to XAMPP
+127.177.178.142:80 - Welcome to XAMPP
+52.228.5.178:80 - Заголовок не найден
+103.248.123.222:80 - Apache2 Ubuntu Default Page: It works
+104.116.166.217:80 - Заголовок не найден
+216.48.190.129:80 - Apache2 Ubuntu Default Page: It works
+127.255.236.102:80 - Welcome to XAMPP
+172.82.85.100:80 - Заголовок не найден
+23.79.180.61:80 - Заголовок не найден
+188.167.56.138:80 - Hello! Welcome to Synology Web Station!
+77.55.157.161:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+151.101.8.238:80 - Fastly error: unknown domain 151.101.8.238
+127.253.69.254:80 - Welcome to XAMPP
+67.223.217.40:80 - index
+127.156.185.244:80 - Welcome to XAMPP
+127.37.86.89:80 - Welcome to XAMPP
+127.126.8.209:80 - Welcome to XAMPP
+192.185.116.237:80 - Not Acceptable!
+148.101.166.65:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#54;&#55;&#65;&#32;&#86;&#49;&#46;&#48;
+23.204.101.22:80 - Заголовок не найден
+23.199.240.116:80 - Заголовок не найден
+127.248.200.105:80 - Welcome to XAMPP
+127.63.22.15:80 - Welcome to XAMPP
+82.12.203.182:80 - 
+190.221.49.219:80 - IIS Windows Server
+92.122.246.121:80 - Заголовок не найден
+127.135.64.49:80 - Welcome to XAMPP
+156.38.195.214:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+23.61.180.195:80 - Заголовок не найден
+127.232.77.158:80 - Welcome to XAMPP
+43.163.213.133:80 - æ²¡ææ¾å°ç«ç¹
+127.28.79.11:80 - Welcome to XAMPP
+108.187.228.115:80 - Sorry, the website has been stopped
+127.213.185.102:80 - Welcome to XAMPP
+127.224.9.142:80 - Welcome to XAMPP
+83.243.56.13:80 - 403 Forbidden
+128.199.215.189:80 - Заголовок не найден
+34.89.33.23:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+127.173.76.194:80 - Welcome to XAMPP
+34.111.25.105:80 - 502
+39.105.51.230:80 - ç½ç«è®¿é®æ¥é
+127.213.34.190:80 - Welcome to XAMPP
+45.147.213.230:80 - 404 Not Found
+156.250.90.172:80 - æ²¡ææ¾å°ç«ç¹
+127.11.47.126:80 - Welcome to XAMPP
+217.18.57.108:80 - 404 Not Found
+127.51.6.165:80 - Welcome to XAMPP
+222.147.177.103:80 - Remote Link2
+127.80.17.175:80 - Welcome to XAMPP
+93.113.62.94:80 - Welcome to nginx!
+1.51.203.59:80 - 404 Not Found
