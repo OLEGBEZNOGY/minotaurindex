@@ -15,3 +15,5 @@
 125.48.204.72:80 - HITACHI Management
 96.9.54.123:80 - 403 Forbidden
 108.165.135.123:80 - One moment, please...
+164.92.163.136:80 - Apache2 Ubuntu Default Page: It works
+34.67.114.243:80 - Welcome to nginx!
