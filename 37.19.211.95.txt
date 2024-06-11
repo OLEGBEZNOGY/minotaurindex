@@ -2011,3 +2011,16 @@
 74.48.141.114:80 - Sorry, the website has been stopped
 218.92.131.226:80 - 403 Forbidden
 50.202.14.74:80 - Заголовок не найден
+39.107.239.211:80 - 阿里云万网虚机IP访问报错提示
+118.195.187.61:80 - 404 Not Found
+203.69.141.61:80 - Заголовок не найден
+65.9.104.210:80 - Заголовок не найден
+52.33.67.187:80 - Database Error
+23.30.209.9:80 - SonicWALL - Authentication
+64.253.95.222:80 - Apache2 Ubuntu Default Page: It works
+23.42.223.58:80 - Заголовок не найден
+173.232.142.221:80 - 403 Forbidden
+38.222.115.84:80 - RouterOS router configuration page
+107.170.22.7:80 - *Your company name* &gt; Catalog
+85.133.166.97:80 - Welcome to XAMPP
+23.54.172.207:80 - Заголовок не найден
