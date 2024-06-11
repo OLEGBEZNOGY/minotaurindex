@@ -13648,3 +13648,434 @@
 34.124.212.226:80 - Заголовок не найден
 62.245.132.69:80 - 403 Forbidden
 213.131.233.113:80 - Home - k1net.de
+5.102.159.106:80 - 403 Forbidden
+18.64.82.202:80 - Заголовок не найден
+101.76.206.178:80 - 404 Not Found
+18.162.235.190:80 - Заголовок не найден
+5.189.186.117:80 - Sign in · GitLab
+43.175.61.136:80 - Заголовок не найден
+3.251.3.96:80 - Заголовок не найден
+23.52.85.116:80 - Заголовок не найден
+23.221.173.151:80 - Заголовок не найден
+202.158.249.210:80 - Shared IP
+200.152.162.180:80 - Yahoo
+199.180.103.116:80 - ç½ç«ç»´æ¤ä¸­
+104.115.21.5:80 - Заголовок не найден
+217.133.89.28:80 - Заголовок не найден
+152.0.75.249:80 - 
+139.186.175.163:80 - Apache Tomcat/8.0.52
+68.55.240.15:80 - Заголовок не найден
+37.1.196.227:80 - FASTPANEL
+137.220.202.122:80 - Error 409
+97.74.200.123:80 - IFF Perú | Sabores
+23.45.239.230:80 - Заголовок не найден
+191.252.92.96:80 - Welcome to nginx!
+129.154.235.221:80 - Welcome to nginx!
+216.162.25.171:80 - IIS Windows Server
+184.31.255.5:80 - Заголовок не найден
+23.52.37.185:80 - Заголовок не найден
+35.178.85.150:80 - Portal
+38.22.118.238:80 - Apache2 Debian Default Page: It works
+23.209.70.190:80 - Заголовок не найден
+95.167.99.99:80 - ПАО &quot;Амурский судостроительный завод&quot;
+23.221.250.227:80 - Заголовок не найден
+4.236.222.97:80 - 403 Forbidden
+148.139.121.128:80 - 403 Forbidden
+79.127.95.194:80 - WEB SERVICE
+87.118.185.212:80 - Заголовок не найден
+209.140.135.62:80 - Error Page | eBay
+52.85.132.7:80 - Заголовок не найден
+107.174.27.76:80 - 
+18.228.100.180:80 - 404 - File or directory not found.
+207.195.21.247:80 - Web Filter Violation
+156.240.234.202:80 - 403 Forbidden
+3.227.130.86:80 - 503 Service Temporarily Unavailable
+190.231.217.191:80 - WEB SERVICE
+178.61.229.72:80 - Заголовок не найден
+2.135.197.177:80 - Заголовок не найден
+35.155.119.86:80 - Заголовок не найден
+149.129.141.105:80 - Заголовок не найден
+64.227.188.78:80 - Заголовок не найден
+212.113.120.250:80 - 403 Forbidden
+180.15.8.32:80 - 403 Forbidden
+82.223.202.16:80 - Web Server's Default Page
+52.152.221.192:80 - 404 Not Found
+129.222.178.18:80 - Заголовок не найден
+18.164.45.8:80 - Заголовок не найден
+64.44.112.185:80 - Заголовок не найден
+59.126.200.191:80 - Remote Surveillance, Any time &amp; Any where
+185.49.229.43:80 - flessio - Maßgeschneiderte und kreative IT Lösungen für Ihr Unternehmen
+23.15.62.94:80 - Заголовок не найден
+49.12.51.132:80 - 404 Not Found
+184.29.71.135:80 - Заголовок не найден
+54.192.115.121:80 - Заголовок не найден
+50.116.36.15:80 - Apache HTTP Server Test Page powered by CentOS
+23.58.183.19:80 - Заголовок не найден
+104.94.24.122:80 - Заголовок не найден
+5.189.80.240:80 - 403 Forbidden
+106.14.26.155:80 - -默认图片 -->
+
+<body id=lanrentuku background="http://tu1.xingouka.com/Uploads/Attachment/2021-07-03/60df9b7b37b07.jpg"
+style=" background-repeat:no-repeat ;
+
+background-size:100% 100%; 
+
+background-attachment: fixed;"
+>
+
+<!-- 背景视频-默认颜色 -->
+   <body bgcolor="#000000"> 
+   
+   
+<!-- 首页/内页底部左侧特殊脚本 -->
+<div class="login_alert" id="login_alert">
+      
+</div>
+<link rel="stylesheet" href="/Public/Front/xinmeng/css/J1/player.css">
+    <script src="/Public/Front/xinmeng/css/J1/jquery.min.js"></script>
+    <script src="/Public/Front/xinmeng/css/J1/jquery.marquee.min.js"></script>
+    <script>
+        var id = ;
+        var	playlist = [{"id":"","title":"<b>欢迎光临</b>","artist":"","mp3":"http://music.163.com/song/media/outer/url?id="+id+".mp3","cover":"/Public/Front/static/images/music.png"}];
+          var isRotate = true;
+          var autoplay = true;
+        
+    </script>
+    <script src="/Public/Front/xinmeng/css/J1/player.js"></script>
+    <script>
+        function bgChange(){
+        	var lis= $('.lib');
+        	for(var i=0; i<lis.length; i+=2)
+        	lis[i].style.background = 'rgba(246, 246, 246, 0.5)';
+        }
+        window.onload = bgChange;
+    </script>
+
+<script>
+
+  document.createElement('video');
+
+</script>
+<style>
+video { display: block; }
+video#bgvid { 
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    background: url() no-repeat;
+    background-size: cover; 
+}
+.kss-login{
+    position:absolute;
+    top:10px;
+    float:left;
+    box-sizing:border-box;
+    padding:20px 10px;
+    width:300px;
+    width:380px;
+    height:280px;
+    height:280px;
+}
+.kss-threelogin{
+    margin-top:80px;
+    border-top: 1px solid #dcdcdc;
+    position: relative;
+}
+.kss-threelogin p{
+    font-size: 12px;
+    color: #505050;
+}
+.kss-loginbtns{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+}
+.kss-loginbtns a {
+    color: #484848;
+    width: 45px;
+    height: 28px;
+    padding-left: 35px;
+    display: block;
+    line-height: 28px;
+    margin: 0 10px;
+    border-radius: 5px;
+}
+.kss-loginbtns a:nth-child(1) {
+    background: url(/Public/Front/xinmeng/css/J1/qqdl.png) no-repeat left;
+}
+.kss-loginbtns a:nth-child(2) {
+    background: url(/Public/Front/xinmeng/css/J1/qqdl.png) no-repeat -84px 0;
+}
+.kss-maininfo-right img {
+    margin-bottom: 25px;
+    width: 265px;
+    height: 90px;
+    border-radius: 10px;
+    box-shadow: 0 10px 10px 10px rgba(0,0,0,.17);
+}
+.kss-login input{
+    margin-bottom:10px;
+    width:100%;
+    height:40px;
+    outline:0;
+    border:0 solid #a09e99;
+    border-bottom:0 solid #c0c3c8;
+    background:rgba(255,255,255,.3);
+    color:#fff;
+    font-size:16px;
+    line-height:38px;
+}
+.common-fluid {
+    position: relative;
+    width: 100%;
+}
+.common-footer {
+    margin-top: 530px;
+    border-top: 0 solid rgba(0,0,0,.1);
+}
+.common-container {
+    width: 980px;
+    position: relative;
+    margin: 0 auto;
+}
+.footer-box p {
+    text-align: center;
+    color: #333;
+    line-height: 30px;
+}
+.login_alert {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: 9999;
+    animation: show_alert_left 1.6s;
+    -webkit-animation: show_alert_left 1.6s;
+    -moz-animation: show_alert_left 1.6s;
+}
+.login_alert_close {
+    position: absolute;
+    top: -10px;
+    right: 0px;
+    z-index: 1;
+    cursor: pointer;
+}
+.login_alert_box {
+    background-color: rgba(0,0,0,0.6);
+    height: 60px;
+    width: 100%;
+    text-align: center;
+}
+.login_alert_box div {
+    color: #66CCFF;
+    font-size: 26px;
+    line-height: 60px;
+    cursor: default;
+    font-weight: bold;
+}
+.login_alert_box div a {
+    font-size: 20px;
+    line-height: 26px;
+    border-radius: 4px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px 20px;
+    color: #000;
+    background-color: #00CC99;
+}
+.login_alert_box div span {
+    font-size: 20px;
+}
+#kss_db1 {
+    color: #FF0000;
+    background-color: #FFCC33;
+    margin-left: 10px;
+}
+.login_alert_box div a {
+    border-radius: 4px;
+    font-size: 20px;
+    line-height: 26px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px 20px;
+}
+.Vidage__backdrop,.Vidage__image{position:absolute;top:0;right:0;bottom:0;left:0}
+.Vidage--allow .Vidage__video{display:block}
+.Vidage--allow .Vidage__image{display:none}
+.Vidage{position:fixed;top:0;right:0;bottom:0;left:0;z-index:-1}
+.Vidage,.Vidage__video{min-width:100%;min-height:100%}
+.Vida.kys2newindex-maininfoge__video{position:absolute;top:50%;left:50%;width:auto;height:auto;-webkit-transform:translateX(-50%) translateY(-50%);-ms-transform:translateX(-50%) translateY(-50%);-o-transform:translateX(-50%) translateY(-50%);transform:translateX(-50%) translateY(-50%);display:none}.Vidage__image{background-image:url(../fonts/pattern.svg);opacity:.1}
+body {
+    min-width:1200px;
+    cursor: url(/Public/Front/xinmeng/css/J1/huaji.png),default;
+}
+a:hover {
+    cursor: url(/Public/Front/xinmeng/css/J1/yinxian.png),pointer;
+}
+.common-container{width:980px}
+#dzyss a{color:#f00;}
+.newindex-mian{background: url(#);}
+</style>
+<style type="text/css">
+#cs_box {width:140px; height:220px; color:#FFF; position:fixed; right:10px; top:270px; border-radius:10px; z-index:1000}
+#cs_box span {height:20px; line-height:20px;display:block;}
+.cs_close {color:#FFF; position:absolute; right:10px; top:8px; cursor:pointer; font-size:20px;font-family:Verdana, Geneva, sans-serif}
+.cs_title {font-size:14px; margin:10px; font-weight:bold;}
+.cs_img {width:100px; height:100px; background:#FFF; margin:10px;background-image:url(http://demo.lanrenzhijia.com/2014/service1119/images/lanrenzhijia.jpg) }
+.cs_info {font-size:12px; margin:0px 10px; overflow:hidden; text-align:center;}
+.cs_btn {width:120px; height:37px; background:rgba(255, 152, 0, 0.5); margin:3px 0px; border-radius:1px; font-size:12px; line-height:37px; color:#FFF; text-align:center; cursor:pointer;}
+.cs_btn:hover { background: #ff8000; }
+</style>
+<script type="text/javascript" src="/Public/Front/xinmeng/css/J1/layui.js"></script>
+<script>
+	layui.use(['layer'],function(){
+		var layer = layui.layer;
+	})
+	$.ajax({
+		url:"index/index_tc",
+		success:function(res){
+			if(res.status == 1){
+				layer.open({
+				  type: 1,
+				  skin: '.layui-layer-dialog', //加上边框
+				  title:'信息',
+				  area: ['330px', 'auto'], //宽高
+				  content: '<div style="padding: 50px; line-height: 22px; font-weight: 300;">'+res.msg+'</div>',
+				  btn: ['QQ登录','关闭弹窗'],
+				  yes: function(index, layero){
+                    window.open("/addons/execute/_addons/third_login/_controller/oauth/_action/login/type/qq.html");
+                  },
+				  btnAlign: 'c',
+				});
+			}
+		}
+	})
+	
+</script>
+	
+
+
+
+        <script type="text/javascript">
+        $(function(){
+    		$('.qh_move').click(function(){
+    		    $.ajax({
+    		        url:"/index.php?s=/Index/changemob",
+    		        type:'post',
+    		        success:function(res){
+    		            if(res.status==1){
+    		                
+    		                setTimeout(function(){
+    		                    location.reload();
+    		                },600)
+    		            }
+    		        }
+    		    })
+    		});
+        })
+    </script>
+
+<!-- 底部 -->
+
+</div>
+</body>
+</html>
+116.62.114.93:80 - Request Error
+103.110.251.196:80 - 500 Internal Server Error
+146.235.229.126:80 - Welcome to nginx!
+116.0.120.67:80 - Заголовок не найден
+198.59.144.11:80 - Заголовок не найден
+96.17.87.164:80 - Заголовок не найден
+104.74.51.134:80 - Заголовок не найден
+77.255.67.16:80 - Заголовок не найден
+46.105.203.121:80 - Error 520: Website not authorized on OVH CDN
+23.196.254.67:80 - Заголовок не найден
+35.154.82.248:80 - Заголовок не найден
+23.208.43.171:80 - Заголовок не найден
+101.237.39.161:80 - Заголовок не найден
+34.120.218.237:80 - React App
+38.14.222.174:80 - Заголовок не найден
+1.51.221.102:80 - 404 Not Found
+179.53.96.45:80 - 
+103.27.82.225:80 - Apache HTTP Server Test Page powered by CentOS
+23.221.89.151:80 - Заголовок не найден
+143.198.106.24:80 - Apache2 Ubuntu Default Page: It works
+103.133.93.6:80 - IIS Windows Server
+3.211.143.179:80 - Заголовок не найден
+91.250.86.188:80 - Web Server's Default Page
+18.66.255.214:80 - Заголовок не найден
+95.46.32.81:80 - System Monitoring
+184.105.134.143:80 - phpinfo()
+12.31.137.77:80 - Welcome to op2 Online | op2 Online
+20.51.235.126:80 - Заголовок не найден
+73.119.92.28:80 - Заголовок не найден
+34.111.0.243:80 - Sign in - Google Accounts
+112.160.143.70:80 - ::: 유니시티 :::
+35.201.72.36:80 - Заголовок не найден
+23.222.208.66:80 - Заголовок не найден
+220.87.236.162:80 - main page
+82.165.163.136:80 - eConsultingStore -  der digitale Markplatz fÃ¼r Unternehmensberater
+91.199.64.117:80 - Заголовок не найден
+54.230.144.59:80 - Заголовок не найден
+23.40.83.143:80 - Заголовок не найден
+34.130.147.162:80 - Заголовок не найден
+102.130.114.106:80 - IIS Windows Server
+186.128.8.245:80 - Заголовок не найден
+199.250.199.129:80 - InMotion Hosting
+23.62.191.18:80 - Заголовок не найден
+23.194.95.83:80 - Заголовок не найден
+79.96.68.90:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+23.34.150.171:80 - Заголовок не найден
+154.220.118.152:80 - 400 Bad Request
+95.141.36.212:80 - Заголовок не найден
+104.113.215.200:80 - Заголовок не найден
+23.60.147.149:80 - Заголовок не найден
+93.122.150.210:80 - 
+13.111.152.91:80 - Error
+213.135.176.164:80 - ÐÐµ Ð¼Ð¾Ð»Ð¸Ð¼Ðµ Ð¿Ð¾ÑÐµÐºÐ°ÑÑÐµ...
+139.59.125.147:80 - Заголовок не найден
+142.171.37.44:80 - æ²¡ææ¾å°ç«ç¹
+188.126.14.39:80 - 
+188.138.125.77:80 - 500 Internal Server Error
+23.46.46.239:80 - Заголовок не найден
+122.114.8.157:80 - Заголовок не найден
+143.204.165.28:80 - Заголовок не найден
+3.112.142.42:80 - Test Page for the Nginx HTTP Server on Amazon Linux
+52.151.110.47:80 - Заголовок не найден
+194.93.59.54:80 - Заголовок не найден
+38.11.171.102:80 - 403 Forbidden
+217.160.223.2:80 - 403 Forbidden
+196.51.29.55:80 - ERROR: The requested URL could not be retrieved
+217.160.47.207:80 - ciarpa.me
+159.65.19.89:80 - Birmingham Resistance Library
+72.246.210.62:80 - Заголовок не найден
+35.176.104.235:80 - Заголовок не найден
+3.68.175.254:80 - user&#039;s Blog! &#8211; Just another WordPress site
+104.32.245.101:80 - WEB SERVICE
+201.251.125.74:80 - Заголовок не найден
+98.171.128.150:80 - 
+156.17.7.34:80 - 404 Not Found
+54.192.27.135:80 - Заголовок не найден
+104.66.121.40:80 - Заголовок не найден
+12.168.52.128:80 - Illinois State Crime Stoppers
+178.88.137.42:80 - GPON Home Gateway
+23.196.153.152:80 - Заголовок не найден
+135.181.100.141:80 - Welcome to nginx!
+108.157.56.142:80 - Заголовок не найден
+18.244.86.7:80 - Заголовок не найден
+52.233.133.69:80 - Microsoft Azure Web App - Error 404
+148.255.99.76:80 - 
+66.115.130.7:80 - Заголовок не найден
+69.90.162.62:80 - The IT Media Group
