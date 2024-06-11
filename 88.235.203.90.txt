@@ -4692,3 +4692,161 @@
 82.202.160.105:80 - Заголовок не найден
 52.4.171.6:80 - Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
 104.16.16.33:80 - Direct IP access not allowed | Cloudflare
+154.56.32.153:80 - 403 Forbidden
+104.20.207.188:80 - Direct IP access not allowed | Cloudflare
+13.124.75.109:80 - Заголовок не найден
+184.84.98.173:80 - Заголовок не найден
+104.112.136.90:80 - Заголовок не найден
+217.239.240.173:80 - Default Site
+20.241.144.28:80 - Microsoft Azure Web App - Error 404
+23.90.2.68:80 - 403 Forbidden
+104.120.220.171:80 - Заголовок не найден
+146.59.191.200:80 - 404 Not Found
+103.134.248.103:80 - Please wait, the page is opening...
+43.226.49.167:80 - 404 Not Found
+13.50.191.238:80 - 404 Not Found
+79.96.209.199:80 - Strona w przygotowaniu...
+103.26.98.91:80 - Sign in · GitLab
+20.73.235.122:80 - 404 Not Found
+23.223.182.87:80 - Заголовок не найден
+167.235.135.41:80 - Welcome to nginx!
+220.132.206.70:80 - 
+44.209.41.175:80 - Заголовок не найден
+124.223.117.191:80 - 404 Not Found
+134.122.11.252:80 - 404 Not Found
+92.100.72.136:80 - Заголовок не найден
+195.78.6.108:80 - Error 404 (Not Found)!!1
+218.161.100.155:80 - Remote Surveillance, Any time &amp; Any where
+152.0.20.247:80 - 
+185.93.220.207:80 - Заголовок не найден
+47.101.180.55:80 - 杭州掌育科技有限公司
+107.151.91.189:80 - æ²¡ææ¾å°ç«ç¹
+52.76.238.194:80 - Заголовок не найден
+197.189.254.139:80 - Apache2 Ubuntu Default Page: It works
+104.24.7.125:80 - Direct IP access not allowed | Cloudflare
+104.140.120.9:80 - 403 Forbidden
+65.108.197.24:80 - Welcome to nginx!
+13.201.2.195:80 - Заголовок не найден
+67.41.7.47:80 - Authorization Required
+216.228.164.178:80 - City of Prineville Internal Services Website
+104.21.50.251:80 - Direct IP access not allowed | Cloudflare
+23.215.215.190:80 - Заголовок не найден
+35.185.193.150:80 - Заголовок не найден
+77.108.56.24:80 - IIS7
+201.179.189.35:80 - Заголовок не найден
+23.60.156.142:80 - Заголовок не найден
+209.177.158.190:80 - Заголовок не найден
+23.216.74.21:80 - Заголовок не найден
+23.202.41.74:80 - Заголовок не найден
+155.254.11.146:80 - Fiberstreamwifi Test Portal
+23.202.144.201:80 - Заголовок не найден
+103.18.174.79:80 - Заголовок не найден
+45.175.30.24:80 - Error 404 (Not Found)!!1
+18.135.39.4:80 - Welcome to nginx!
+154.216.82.155:80 - 403 Forbidden
+41.207.42.219:80 - 403 Forbidden
+170.83.147.3:80 - Apache HTTP Server Test Page powered by CentOS
+89.41.249.206:80 - Заголовок не найден
+123.57.149.187:80 - Заголовок не найден
+152.70.254.254:80 - Welcome to nginx!
+69.192.133.22:80 - Заголовок не найден
+31.32.204.165:80 - Заголовок не найден
+54.239.158.56:80 - Заголовок не найден
+206.119.29.71:80 - 403 Forbidden
+14.194.98.249:80 - Access denied | oxo-dev.heledigital.com used Cloudflare to restrict access
+43.251.16.53:80 - 404 Not Found
+154.9.47.161:80 - ERROR: The requested URL could not be retrieved
+69.194.233.56:80 - Softaculous Webuzo | Default Website Page
+79.143.64.122:80 - Welcome to CentOS
+75.108.22.55:80 - Заголовок не найден
+172.64.162.211:80 - Direct IP access not allowed | Cloudflare
+23.214.128.34:80 - Заголовок не найден
+104.96.152.126:80 - Заголовок не найден
+91.23.165.9:80 - Apache2 Debian Default Page: It works
+20.242.234.147:80 - Your Azure Function App is up and running.
+96.40.114.0:80 - 
+54.231.172.133:80 - Amazon S3 - Cloud Object Storage  - AWS
+121.196.3.225:80 - Заголовок не найден
+74.120.122.169:80 - Apache2 Ubuntu Default Page: It works
+52.62.202.184:80 - No such app
+90.151.249.206:80 - Авторизация
+175.41.55.215:80 - IIS Windows Server
+23.41.101.45:80 - Заголовок не найден
+178.251.228.101:80 - 403 Forbidden
+34.206.97.252:80 - 403 Forbidden
+95.83.88.53:80 - Заголовок не найден
+34.36.78.129:80 - Rule Engine
+149.28.193.38:80 - Unknown Domain
+34.149.30.69:80 - Заголовок не найден
+199.232.50.157:80 - 404 Not Found
+62.3.26.83:80 - 
+79.206.38.121:80 - Buero-BWM - Login
+192.126.135.165:80 - ERROR: The requested URL could not be retrieved
+3.64.217.86:80 - Web Server's Default Page
+43.232.54.133:80 - 401 Authorization Required
+104.16.57.201:80 - Direct IP access not allowed | Cloudflare
+195.142.109.77:80 - IIS Windows Server
+39.114.218.24:80 - Заголовок не найден
+104.94.163.224:80 - Заголовок не найден
+217.160.45.180:80 - 401 Authorization Required
+18.117.109.160:80 - Login
+104.27.122.94:80 - Direct IP access not allowed | Cloudflare
+134.209.80.194:80 - Заголовок не найден
+23.52.60.208:80 - Заголовок не найден
+166.62.93.94:80 - Stickel Packaging
+208.88.84.120:80 - Заголовок не найден
+139.162.17.62:80 - PISANG123 ð LINK SITUS PARTNER SLOT THAILAND GAMPANG MENANG TERBARU MALAM INI
+172.67.177.226:80 - Direct IP access not allowed | Cloudflare
+97.93.125.18:80 - 
+198.23.232.140:80 - Home
+35.165.153.159:80 - MEAN packaged by Bitnami
+2.18.244.33:80 - Заголовок не найден
+52.84.119.71:80 - Заголовок не найден
+194.55.133.121:80 - 403 Forbidden
+75.76.59.43:80 - Заголовок не найден
+103.57.209.228:80 - 500 Server storage exhausted
+23.21.27.177:80 - 404 Not Found
+104.165.23.76:80 - 403 Forbidden
+69.163.195.225:80 - phpMyAdmin
+44.210.166.227:80 - 404 Not Found
+184.84.52.124:80 - Заголовок не найден
+110.159.233.43:80 - JUPEM Owncloud
+96.7.254.230:80 - Заголовок не найден
+66.207.251.248:80 - 403 Forbidden
+65.21.136.157:80 - 503 Service Temporarily Unavailable
+104.69.53.19:80 - Заголовок не найден
+35.140.224.43:80 - 
+159.112.235.99:80 - Direct IP access not allowed | Cloudflare
+219.144.86.66:80 - 403 Forbidden
+85.26.143.32:80 - iRZ RUH2m Router
+112.105.58.161:80 - 
+3.115.129.78:80 - Apache HTTP Server Test Page powered by CentOS
+3.224.128.150:80 - Заголовок не найден
+38.54.23.56:80 - å®å¡ç½ç«é²ç«å¢åè´¹ç
+123.57.35.196:80 - AR+
+58.144.252.226:80 - 403 Forbidden
+66.94.104.197:80 - 404 Not Found
+152.199.17.99:80 - 404 - Not Found
+23.50.36.186:80 - Заголовок не найден
+38.12.196.247:80 - 404 Not Found
+15.206.161.114:80 - Apache2 Ubuntu Default Page: It works
+3.235.176.116:80 - 401 Unauthorized
+23.48.75.225:80 - Заголовок не найден
+88.198.124.247:80 - 404 Not Found
+182.161.39.114:80 - Заголовок не найден
+167.114.205.32:80 - Заголовок не найден
+117.247.239.82:80 - RouterOS router configuration page
+2.17.185.58:80 - Заголовок не найден
+20.85.134.124:80 - Заголовок не найден
+47.96.225.27:80 - 403 Forbidden
+23.199.51.55:80 - Заголовок не найден
+35.175.39.3:80 - Online Application
+198.2.230.83:80 - 404 Not Found
+2.21.157.70:80 - Заголовок не найден
+172.66.157.218:80 - Direct IP access not allowed | Cloudflare
+23.37.40.203:80 - Заголовок не найден
+108.139.163.250:80 - Заголовок не найден
+219.101.65.219:80 - Заголовок не найден
+121.199.82.2:80 - 阿里云 Web应用防火墙
+52.5.7.172:80 - Apache2 Ubuntu Default Page: It works
+47.97.218.164:80 - Заголовок не найден
