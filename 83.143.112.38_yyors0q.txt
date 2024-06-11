@@ -13633,3 +13633,18 @@
 23.81.4.60:80 - æ²¡ææ¾å°ç«ç¹
 79.110.12.222:80 - 
 45.63.23.172:80 - Unknown Domain
+54.239.195.145:80 - Заголовок не найден
+23.196.101.253:80 - Заголовок не найден
+52.220.167.83:80 - 403 - Access Denied
+170.81.26.97:80 - welcome
+20.19.57.144:80 - Azure Container App - Unavailable
+47.96.30.117:80 - Not Found
+121.40.184.186:80 - Заголовок не найден
+54.230.152.188:80 - Заголовок не найден
+96.126.104.143:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+46.242.192.59:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+91.195.98.247:80 - Account Suspended
+113.197.151.208:80 - Заголовок не найден
+34.124.212.226:80 - Заголовок не найден
+62.245.132.69:80 - 403 Forbidden
+213.131.233.113:80 - Home - k1net.de
