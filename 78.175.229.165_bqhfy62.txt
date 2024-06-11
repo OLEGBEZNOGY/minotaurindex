@@ -6360,3 +6360,25 @@ n
 54.230.34.131:80 - Заголовок не найден
 185.189.68.210:80 - FASTPANEL
 23.198.112.122:80 - Заголовок не найден
+52.10.35.238:80 - 503 Service Temporarily Unavailable
+160.3.19.36:80 - 403 - Forbidden: Access is denied.
+61.83.194.244:80 - Gargoyle Router Management Utility
+116.203.189.112:80 - business coaching - KreyselBlick - Claudia Kreysel
+104.198.4.2:80 - Заголовок не найден
+20.76.229.5:80 - Your Azure Function App is up and running.
+185.50.209.170:80 - RouterOS router configuration page
+186.57.27.18:80 - Заголовок не найден
+104.114.82.210:80 - Заголовок не найден
+47.36.167.161:80 - 
+184.30.39.78:80 - Заголовок не найден
+50.87.113.45:80 - Not Acceptable!
+77.75.251.144:80 - Заголовок не найден
+52.182.51.175:80 - Microsoft Azure Web App - Error 404
+185.216.32.74:80 - Заголовок не найден
+54.231.223.42:80 - Amazon S3 - Cloud Object Storage  - AWS
+172.223.193.47:80 - 
+186.64.121.10:80 - Заголовок не найден
+38.85.229.35:80 - 404 Not Found
+172.67.198.40:80 - Direct IP access not allowed | Cloudflare
+185.139.2.190:80 - 403 Forbidden
+15.236.95.94:80 - Gestoría Mollet del Valles | Asesoría fiscal para empresas y autónomos
