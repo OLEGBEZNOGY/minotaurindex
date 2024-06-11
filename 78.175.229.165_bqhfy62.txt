@@ -5520,3 +5520,12 @@ n
 184.86.146.210:80 - Заголовок не найден
 23.88.57.133:80 - 503 Service Temporarily Unavailable
 38.45.240.24:80 - IIS Windows Server
+3.108.69.224:80 - Заголовок не найден
+194.9.11.210:80 - Заголовок не найден
+37.1.199.158:80 - Welcome to nginx!
+65.108.155.118:80 - 503 Service Temporarily Unavailable
+3.91.202.16:80 - Apache2 Ubuntu Default Page: It works
+45.251.233.21:80 - Please wait, the login page is opening...
+81.22.243.119:80 - Etusivu
+154.64.43.43:80 - 404 Not Found
+23.214.19.177:80 - Заголовок не найден
