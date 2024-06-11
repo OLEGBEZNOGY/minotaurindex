@@ -3043,3 +3043,59 @@ IIS Windows Server
 20.219.15.76:80 - Welcome to nginx!
 182.48.12.134:80 - amass
 116.92.244.119:80 - Заголовок не найден
+104.196.67.183:80 - Заголовок не найден
+104.248.162.183:80 - Заголовок не найден
+185.229.112.110:80 - 403 Forbidden
+38.154.1.52:80 - Заголовок не найден
+141.95.175.144:80 - Web Server's Default Page
+52.174.87.84:80 - Microsoft Dynamics 365 Business Central Sandbox Environment
+23.83.90.123:80 - 407 Proxy Authentication Required
+188.166.112.179:80 - oxygen.schuttelaar.net &mdash; Coming Soon
+212.187.156.66:80 - Заголовок не найден
+173.236.221.83:80 - Site not found &middot; DreamHost
+173.93.20.221:80 - 
+104.96.145.62:80 - Заголовок не найден
+76.74.137.106:80 - 403 - Forbidden: Access is denied.
+203.32.25.132:80 - Apache2 Ubuntu Default Page: It works
+80.44.69.134:80 - .::Welcome to the Web-Based Configurator::.
+104.20.222.85:80 - Direct IP access not allowed | Cloudflare
+157.255.4.126:80 - 404 Not Found
+156.250.221.6:80 - 404 Not Found
+183.196.7.11:80 - Заголовок не найден
+104.75.120.53:80 - Заголовок не найден
+64.90.49.169:80 - Apache2 Ubuntu Default Page: It works
+34.71.86.18:80 - Site Not Configured | 404 Not Found
+20.91.162.4:80 - Microsoft Azure Web App - Error 404
+125.74.108.187:80 - Заголовок не найден
+175.206.13.127:80 - Setup Login
+47.254.0.188:80 - Заголовок не найден
+23.15.110.117:80 - Заголовок не найден
+34.150.45.74:80 - Заголовок не найден
+121.200.29.58:80 - Заголовок не найден
+157.245.82.168:80 - 403 Forbidden
+103.74.254.122:80 - Заголовок не найден
+54.38.138.1:80 - Sign in · GitLab
+98.209.158.0:80 - Thanks Mithrandir!
+23.218.221.189:80 - Заголовок не найден
+45.119.82.40:80 - Web Server's Default Page
+158.199.202.38:80 - ã¢ã¸ã¢å¸å ´çµæ¸å­¦ä¼
+134.255.230.43:80 - Welcome to nginx!
+96.7.99.91:80 - Заголовок не найден
+180.131.135.18:80 - RouterOS router configuration page
+18.158.90.80:80 - Заголовок не найден
+156.245.61.60:80 - 404 Not Found
+12.235.145.179:80 - Document Moved
+112.172.29.214:80 - 
+54.146.232.75:80 - Заголовок не найден
+23.59.104.252:80 - Заголовок не найден
+73.196.26.183:80 - 401 Unauthorized
+41.23.199.202:80 - 500 Internal Server Error
+95.68.95.14:80 - 
+104.201.28.123:80 - Заголовок не найден
+23.60.14.80:80 - Заголовок не найден
+18.66.175.153:80 - Заголовок не найден
+91.220.186.10:80 - SMTP.BZ
+154.194.159.137:80 - 404 Not Found
+89.161.239.136:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+23.55.182.120:80 - Заголовок не найден
+154.9.38.214:80 - ERROR: The requested URL could not be retrieved
