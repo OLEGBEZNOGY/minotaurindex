@@ -5660,3 +5660,13 @@
 3.18.54.14:80 - 403 Forbidden
 40.71.255.197:80 - 
 200.41.85.253:80 - Заголовок не найден
+206.233.250.56:80 - Welcome to nginx!
+23.38.159.118:80 - Заголовок не найден
+5.135.40.94:80 - Stockmusical: Tienda de Instrumentos Musicales Online
+92.222.107.12:80 - Apache2 Ubuntu Default Page: It works
+154.64.126.219:80 - 404 Not Found
+99.86.115.31:80 - Заголовок не найден
+128.254.189.28:80 - Document Moved
+216.189.159.72:80 - Apache2 Debian Default Page: It works
+37.116.205.44:80 - 404 Not Found
+137.255.5.78:80 - Apache Tomcat/7.0.39
