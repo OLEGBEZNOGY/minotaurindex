@@ -1,0 +1,25 @@
+210.124.167.29:80 - Security
+216.158.208.86:80 - ERROR: The requested URL could not be retrieved
+18.164.168.210:80 - Заголовок не найден
+13.236.83.1:80 - EZProxy - Endeavour Learning Group
+23.10.65.115:80 - Заголовок не найден
+70.30.250.161:80 - Apache2 Ubuntu Default Page: It works
+81.169.243.138:80 - Web Server's Default Page
+52.62.210.52:80 - 403 Forbidden
+182.92.123.107:80 - Заголовок не найден
+18.160.218.183:80 - Заголовок не найден
+52.3.130.244:80 - Grafana
+3.160.129.124:80 - Заголовок не найден
+54.89.202.248:80 - Home - Commute Broward
+3.161.95.85:80 - Заголовок не найден
+99.79.162.12:80 - Apache2 Ubuntu Default Page: It works
+52.85.241.108:80 - Заголовок не найден
+52.49.62.155:80 - Варшава — PPCB
+18.67.184.215:80 - Заголовок не найден
+69.146.32.97:80 - 
+194.71.103.205:80 - Tore Friskopp
+34.76.127.130:80 - Welcome to nginx!
+64.34.216.163:80 - ERROR: The requested URL could not be retrieved
+75.127.5.73:80 - 407 Proxy Authentication Required
+134.73.111.70:80 - å¬å¸ç®ä» - å¹¶è¡æè¬ééæéå¬å¸
+18.163.172.224:80 - 503 Service Temporarily Unavailable
