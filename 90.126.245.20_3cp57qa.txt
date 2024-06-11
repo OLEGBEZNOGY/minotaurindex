@@ -1680,3 +1680,139 @@
 104.108.146.81:80 - Заголовок не найден
 52.84.206.128:80 - Заголовок не найден
 91.195.249.142:80 - RouterOS router configuration page
+40.78.6.133:80 - Your Azure Function App is up and running.
+104.113.194.243:80 - Заголовок не найден
+216.180.230.182:80 - 404 not found
+3.1.56.138:80 - 403 Forbidden
+104.104.69.74:80 - Заголовок не найден
+45.140.192.168:80 - Заголовок не найден
+199.232.62.185:80 - Fastly error: unknown domain 199.232.62.185
+217.236.33.138:80 - Заголовок не найден
+143.110.237.212:80 - Riot
+188.116.26.100:80 - Заголовок не найден
+112.13.210.230:80 - Заголовок не найден
+54.179.210.34:80 - Заголовок не найден
+50.3.241.222:80 - 500 Internal Server Error
+24.206.37.174:80 - IIS Windows
+148.101.20.110:80 - 
+128.199.127.117:80 - ADM GAMER MEMBER เว็บไซต์ระบบอัตโนมัติ 3 ฟุตบอล 12 คาสิโน และมากกว่า 100เกมส์
+23.212.144.102:80 - Заголовок не найден
+195.199.171.145:80 - RouterOS
+72.20.77.208:80 - Web Viewer for Samsung DVR
+154.31.156.36:80 - 403 Forbidden
+37.252.11.77:80 - Заголовок не найден
+185.104.86.10:80 - Web Server's Default Page
+82.223.48.98:80 - Web Server's Default Page
+84.46.242.67:80 - Welcome to nginx!
+45.88.8.89:80 - Apache2 Debian Default Page: It works
+121.40.128.137:80 - tkn-oc
+104.16.182.73:80 - Direct IP access not allowed | Cloudflare
+23.37.175.207:80 - Заголовок не найден
+173.209.153.130:80 - Document Moved
+38.15.130.24:80 - Заголовок не найден
+184.87.234.218:80 - Заголовок не найден
+78.138.128.213:80 - 
+13.224.252.251:80 - Заголовок не найден
+108.159.217.142:80 - Заголовок не найден
+104.84.20.88:80 - Заголовок не найден
+154.36.149.86:80 - Заголовок не найден
+23.35.72.186:80 - Заголовок не найден
+213.7.222.208:80 - 
+103.224.212.57:80 - Trellian - Direct Search Network - Direct Navigation Traffic
+20.75.110.79:80 - Заголовок не найден
+142.251.134.137:80 - http://142.251.134.137/
+168.228.225.24:80 - Mundo PC
+209.65.82.65:80 - Sign In page for International Student and Scholar Management
+45.16.91.25:80 - Comrex ACCESS
+39.156.154.36:80 - Error
+172.67.232.10:80 - Direct IP access not allowed | Cloudflare
+91.112.93.147:80 - WEB SERVICE
+104.168.7.237:80 - Welcome to nginx!
+190.48.108.39:80 - Заголовок не найден
+149.104.42.8:80 - 403 Forbidden
+202.153.214.98:80 - Заголовок не найден
+54.217.80.136:80 - Subspace
+69.243.6.25:80 - Заголовок не найден
+108.186.174.135:80 - 404 Not Found
+23.231.87.133:80 - 403 Forbidden
+54.239.200.8:80 - Заголовок не найден
+201.177.104.3:80 - Заголовок не найден
+91.198.41.37:80 - 
+148.101.90.30:80 - 
+190.167.53.200:80 - 
+38.173.110.237:80 - æ²¡ææ¾å°ç«ç¹
+14.162.144.167:80 - Đăng nhập
+191.81.50.84:80 - Заголовок не найден
+23.37.66.224:80 - Заголовок не найден
+172.104.165.96:80 - Welcome to nginx!
+18.239.71.158:80 - Заголовок не найден
+114.35.35.203:80 - Заголовок не найден
+187.63.224.2:80 - nPerfServer
+159.255.35.8:80 - Apache2 Ubuntu Default Page: It works
+124.95.177.95:80 - Заголовок не найден
+82.148.28.38:80 - Luxmedica
+23.217.113.184:80 - Заголовок не найден
+40.119.4.140:80 - Заголовок не найден
+62.176.15.209:80 - 403 Forbidden
+18.195.244.24:80 - Заголовок не найден
+129.121.19.145:80 - Web Server's Default Page
+35.158.87.15:80 - No such app
+4.246.27.90:80 - Your Azure Function App is up and running.
+59.13.171.49:80 - 
+212.237.253.74:80 - 403 Forbidden
+178.20.144.173:80 - Borealis
+34.93.154.245:80 - Global Instrumentation - Complete Instrumentation for Packaging & Machine's Automation :: Winding Controller, Toroidal/CT Transformer winding controller, Solid State Relay (SSR), Heat Sinks, Stepper Drives, motion controller, stepper motors, counters, Timers, Sensors, Slot Sensor, inductive proximity sensor, thermocouple sensor, clocks, GPS synchronized clock, water pump controller, Ceiling fan winding solution, Wire Processing Machines, Wire cutting and Stripping Machine, Wire cutting Machine, Wire Stripping Machine, Hook winding machine, Current Transformers winding machine
+84.255.53.37:80 - Заголовок не найден
+35.8.203.81:80 - Заголовок не найден
+94.176.235.121:80 - Welcome to nginx!
+176.99.11.89:80 - Website 176-99-11-89.cloudvps.regruhosting.ru is ready. The content is to be added
+3.141.183.14:80 - 403 Forbidden
+8.218.246.231:80 - 404 Not Found
+196.19.249.179:80 - 407 Proxy Authentication Required
+154.7.121.49:80 - 404 Not Found
+112.186.66.251:80 - 
+69.162.141.163:80 - Page not found
+209.126.18.83:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+18.161.240.168:80 - Заголовок не найден
+23.192.243.33:80 - Заголовок не найден
+35.201.93.23:80 - Заголовок не найден
+23.65.160.45:80 - Заголовок не найден
+47.104.220.55:80 - IIS Windows Server
+118.140.103.76:80 - OneStart Business Centre
+156.236.176.3:80 - 404 Not Found
+35.72.195.15:80 - Welcome to nginx!
+153.149.182.239:80 - 大善株式会社
+45.167.13.182:80 - 500 Internal Server Error
+5.249.155.147:80 - Заголовок не найден
+203.219.219.77:80 - Error 404 (Not Found)!!1
+23.37.53.247:80 - Заголовок не найден
+172.80.7.67:80 - Заголовок не найден
+198.57.170.158:80 - 403 Forbidden
+17.137.184.129:80 - 403 Forbidden
+23.206.105.145:80 - Заголовок не найден
+52.219.142.9:80 - Amazon S3 - Cloud Object Storage  - AWS
+144.217.69.25:80 - Welcome to nginx!
+207.148.12.205:80 - login
+104.21.71.54:80 - Direct IP access not allowed | Cloudflare
+104.84.53.193:80 - Заголовок не найден
+52.218.197.138:80 - Amazon S3 - Cloud Object Storage  - AWS
+151.78.199.194:80 - NethServer Enterprise
+47.116.25.66:80 - Welcome to nginx!
+103.41.80.31:80 - 403 Forbidden
+143.110.144.30:80 - Заголовок не найден
+209.248.96.106:80 - Заголовок не найден
+38.165.77.84:80 - Заголовок не найден
+104.22.15.107:80 - Direct IP access not allowed | Cloudflare
+20.216.13.242:80 - 403 - Forbidden: Access is denied.
+52.45.234.138:80 - Заголовок не найден
+106.201.234.29:80 - index
+188.120.231.185:80 - Website aroffer.shop is ready. The content is to be added
+104.19.24.12:80 - Direct IP access not allowed | Cloudflare
+111.250.139.239:80 - Заголовок не найден
+182.92.120.27:80 - ç½ç«è®¿é®æ¥é
+54.145.151.202:80 - S2R - Servicio Empresas
+43.204.67.50:80 - 404 Not Found
+91.238.46.97:80 - 403 Forbidden
+121.40.150.225:80 - 404 Not Found
+111.202.89.138:80 - 404 Not Found
+13.33.208.231:80 - Заголовок не найден
