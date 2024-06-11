@@ -5009,3 +5009,40 @@
 34.89.200.45:80 - ce-documentation
 104.17.167.230:80 - Direct IP access not allowed | Cloudflare
 82.39.151.70:80 - 
+146.190.56.169:80 - Login &#124; Visitor &#124; Columbia Language Services
+93.114.77.35:80 - RouterOS router configuration page
+193.212.28.4:80 - Заголовок не найден
+66.42.63.141:80 - Not Found
+50.3.10.6:80 - 403 Forbidden
+89.40.117.34:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+37.46.128.109:80 - Ð¡Ð¸ÑÑÐµÐ¼Ð° Ð¾ÑÐµÐ½ÐºÐ¸ Ð¿ÑÐ¾ÑÐµÑÑÐ¸Ð¾Ð½Ð°Ð»ÑÐ½ÑÑ ÐºÐ¾Ð¼Ð¿ÐµÑÐµÐ½ÑÐ¸Ð¹
+186.128.83.108:80 - Заголовок не найден
+8.140.102.166:80 - Welcome to nginx!
+23.14.201.76:80 - Заголовок не найден
+64.20.56.164:80 - Заголовок не найден
+138.91.117.150:80 - IIS Windows Server
+75.129.108.223:80 - 
+23.220.196.192:80 - Заголовок не найден
+47.107.121.18:80 - Loading...
+104.123.94.35:80 - Заголовок не найден
+69.70.124.206:80 - WEB SERVICE
+38.152.21.23:80 - ERROR: The requested URL could not be retrieved
+64.57.100.6:80 - Заголовок не найден
+120.78.220.93:80 - Welcome to nginx!
+38.11.190.206:80 - Заголовок не найден
+102.129.196.255:80 - ERROR: The requested URL could not be retrieved
+179.53.27.93:80 - 
+118.27.32.27:80 - Welcome to nginx!
+104.27.85.143:80 - Direct IP access not allowed | Cloudflare
+50.39.240.162:80 - main page
+13.125.235.0:80 - Default Site
+184.84.51.207:80 - Заголовок не найден
+23.13.66.202:80 - Заголовок не найден
+54.238.36.225:80 - Powered by CapRover
+15.207.134.165:80 - Apache2 Ubuntu Default Page: It works
+23.197.174.22:80 - Заголовок не найден
+18.217.132.8:80 - Viva Sorte
+111.62.49.184:80 - 404 Not Found
+37.98.214.155:80 - Заголовок не найден
+104.26.3.48:80 - Direct IP access not allowed | Cloudflare
+125.132.41.158:80 - Заголовок не найден
