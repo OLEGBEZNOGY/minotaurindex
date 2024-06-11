@@ -2,3 +2,4 @@
 157.245.201.126:80 - Performing Maintenance
 193.69.47.92:80 - 404 Not Found
 104.25.225.217:80 - Direct IP access not allowed | Cloudflare
+104.248.66.139:80 - djmoore.org
