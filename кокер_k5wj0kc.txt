@@ -6027,3 +6027,25 @@ Stoughton Server
 38.170.139.204:80 - ERROR: The requested URL could not be retrieved
 167.114.91.146:80 - Just a moment...
 23.204.139.174:80 - Заголовок не найден
+66.228.45.239:80 - Catholic Artists &#8211; pointing to initiatives in the field
+36.147.33.245:80 - Заголовок не найден
+4.147.247.160:80 - Your Azure Function App is up and running.
+123.57.165.78:80 - ç½ç«è®¿é®æ¥é
+54.209.116.112:80 - Заголовок не найден
+3.96.45.30:80 - Заголовок не найден
+24.144.78.235:80 - 404 Not Found
+52.2.155.135:80 - Заголовок не найден
+133.32.1.226:80 - 403 Forbidden
+2.21.202.86:80 - Заголовок не найден
+200.5.108.118:80 - RouterOS router configuration page
+3.79.94.224:80 - Welcome to nginx!
+210.44.214.191:80 - 404 Not Found
+102.67.77.39:80 - RouterOS router configuration page
+210.32.0.229:80 - Заголовок не найден
+123.207.125.143:80 - Заголовок не найден
+20.90.45.164:80 - Заголовок не найден
+167.99.212.255:80 - 404 Not Found
+213.230.99.180:80 - Forbidden
+193.203.207.82:80 - RouterOS router configuration page
+216.252.192.11:80 - Biz Net Technologies || Hosting Solutions, Web Applications, Internet Applications and Web Site Development
+51.222.249.20:80 - 
