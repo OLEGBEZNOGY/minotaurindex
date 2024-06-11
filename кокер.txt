@@ -292,3 +292,6 @@
 5.78.30.92:80 - Internal Server Error
 162.252.82.124:80 - 500 Internal Server Error
 51.89.150.118:80 - Apache2 Debian Default Page: It works
+195.140.146.140:80 - 404 Not Found
+72.128.74.187:80 - 
+118.175.228.105:80 - F620
