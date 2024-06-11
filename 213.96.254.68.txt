@@ -383,3 +383,6 @@
 2.21.223.62:80 - Web Filter Violation
 116.196.118.123:80 - Web Filter Violation
 47.93.243.67:80 - Web Filter Violation
+49.12.13.230:80 - Web Filter Violation
+69.49.118.78:80 - Web Filter Violation
+150.60.8.161:80 - Web Filter Violation
