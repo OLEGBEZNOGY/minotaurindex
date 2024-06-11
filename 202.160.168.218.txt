@@ -2789,3 +2789,9 @@
 165.22.225.6:80 - Заголовок не найден
 147.78.0.94:80 - Welcome to nginx!
 42.61.41.59:80 - IIS Windows Server
+193.200.3.141:80 - Default Parallels Plesk Page
+153.213.68.199:80 - 
+189.254.201.122:80 - Заголовок не найден
+45.77.82.169:80 - 403 Forbidden
+152.0.103.152:80 - 
+142.93.148.142:80 - Saulteaux Healing &amp; Wellness Centre Inc. | YOUR PATHWAY TO RECOVERY
