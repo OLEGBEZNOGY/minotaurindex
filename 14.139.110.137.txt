@@ -6357,3 +6357,11 @@
 130.162.62.214:80 - Craft Of Salem
 46.28.108.138:80 - Заголовок не найден
 154.26.157.110:80 - 403 Forbidden
+218.231.54.143:80 - 403 Forbidden
+94.236.6.215:80 - Website not found on this server!
+23.15.179.153:80 - Заголовок не найден
+37.139.139.41:80 - 404 Not Found
+104.207.245.30:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+3.160.97.162:80 - Заголовок не найден
+154.31.245.249:80 - 403 Forbidden
+178.63.69.34:80 - Just a moment...
