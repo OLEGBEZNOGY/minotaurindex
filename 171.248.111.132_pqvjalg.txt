@@ -5156,3 +5156,147 @@
 204.12.254.171:80 - 404 - ÕÒ²»µ½ÎÄ¼þ»òÄ¿Â¼¡£
 160.48.213.24:80 - 400 Bad Request
 103.37.43.174:80 - æ²¡ææ¾å°ç«ç¹
+45.221.96.177:80 - Bing
+23.44.126.78:80 - Заголовок не найден
+203.190.246.36:80 - 404 Not Found
+64.32.19.117:80 - Welcome to nginx!
+15.207.159.178:80 - Teen Patti
+2.21.169.156:80 - Заголовок не найден
+104.105.33.220:80 - Заголовок не найден
+18.160.104.50:80 - Заголовок не найден
+132.148.20.122:80 - Заголовок не найден
+88.151.16.54:80 - Asturias > Temas Nivel2
+192.185.107.135:80 - Not Acceptable!
+52.33.110.24:80 - Empath for iOS and Android | A Mobile App to Share Your Feelings
+108.186.146.20:80 - Заголовок не найден
+65.110.83.173:80 - Заголовок не найден
+13.68.137.50:80 - Заголовок не найден
+103.94.66.226:80 - Please wait, the page is opening...
+78.152.184.147:80 - 403 Forbidden
+178.18.250.29:80 - Sorry, the website has been stopped
+52.216.19.1:80 - Amazon S3 - Cloud Object Storage  - AWS
+45.32.107.183:80 - Apache2 Ubuntu Default Page: It works
+172.119.98.6:80 - 
+208.97.156.103:80 - Site not found &middot; DreamHost
+184.31.242.22:80 - Заголовок не найден
+67.199.30.147:80 - Заголовок не найден
+211.46.61.149:80 - Welcome to INFOPORT Corporation.
+82.156.150.107:80 - 404 Not Found
+104.16.154.216:80 - Direct IP access not allowed | Cloudflare
+47.102.87.76:80 - æ²¡ææ¾å°ç«ç¹
+177.242.215.191:80 - 
+23.206.31.135:80 - Заголовок не найден
+173.77.207.196:80 - 403 Forbidden
+38.154.165.225:80 - Заголовок не найден
+85.13.153.250:80 - 503 Service Temporarily Unavailable
+18.165.231.45:80 - Заголовок не найден
+111.184.18.129:80 - 
+3.110.131.218:80 - 400 Bad Request
+2.20.200.138:80 - Заголовок не найден
+82.79.11.103:80 - 
+75.113.225.207:80 - WEB SERVICE
+62.116.136.209:80 - WebDatabases Alex Singer e.K.
+18.238.134.0:80 - Заголовок не найден
+212.8.232.131:80 - 401 Authorization Required
+104.98.97.221:80 - Заголовок не найден
+116.203.89.239:80 - Website Unavailable
+95.181.130.10:80 - SMIK 2.0
+138.186.138.199:80 - 407 Proxy Authentication Required
+13.232.39.34:80 - Error
+180.201.3.151:80 - 404 Not Found
+52.177.26.59:80 - Your Azure Function App is up and running.
+16.162.234.89:80 - 503 Service Temporarily Unavailable
+114.202.242.249:80 - Заголовок не найден
+137.74.158.123:80 - 403 Forbidden
+104.114.164.145:80 - Заголовок не найден
+172.253.118.84:80 - Google
+44.224.203.6:80 - 403 Forbidden
+185.7.241.41:80 - Заголовок не найден
+94.152.218.124:80 - Заголовок не найден
+221.156.221.6:80 - Заголовок не найден
+1.52.93.76:80 - 
+34.174.55.53:80 - Apache2 Ubuntu Default Page: It works
+52.70.199.244:80 - Заголовок не найден
+189.39.244.248:80 - Intelbras
+220.160.45.230:80 - 403 Forbidden
+47.111.175.237:80 - Welcome to use zentao!
+23.205.27.171:80 - Заголовок не найден
+184.31.3.33:80 - Заголовок не найден
+185.85.188.104:80 - Coming Soon - hello-hmd.pro
+220.132.254.162:80 - 
+183.103.148.39:80 - WEB SERVICE
+45.205.239.166:80 - 403 Forbidden
+142.132.139.119:80 - Заголовок не найден
+185.124.136.112:80 - 403 Forbidden
+217.127.61.251:80 - RouterOS router configuration page
+45.13.162.207:80 - Sorry, the website has been stopped
+89.187.71.74:80 - IIS Windows Server
+61.8.83.34:80 - Заголовок не найден
+200.50.153.236:80 - app.reditel.com.ar &mdash;  Domain default page
+165.22.27.188:80 - Powered by CapRover
+143.204.194.142:80 - Заголовок не найден
+118.40.159.181:80 - 500 Internal Server Error
+45.41.192.34:80 - zTrip of Houston &#x2d; Taxi Charger
+149.96.250.163:80 - 403 Forbidden
+83.168.69.123:80 - Apache2 Ubuntu Default Page: It works
+199.87.187.88:80 - 500 - Internal server error.
+3.164.39.114:80 - Заголовок не найден
+23.194.102.19:80 - Заголовок не найден
+3.162.3.30:80 - Заголовок не найден
+85.187.129.28:80 - Заголовок не найден
+104.168.136.105:80 - FASTPANEL2
+191.82.82.67:80 - Заголовок не найден
+38.33.98.186:80 - Заголовок не найден
+88.2.200.62:80 - El Pibe 1 República Argentina 2016 - ICS Business Manager 7.06.0028.11906
+192.110.157.39:80 - Fierge Auto Parts has over 50 years of family ownership and operation
+104.19.92.181:80 - Direct IP access not allowed | Cloudflare
+173.222.177.107:80 - Заголовок не найден
+192.126.164.228:80 - ERROR: The requested URL could not be retrieved
+3.165.79.252:80 - Заголовок не найден
+38.152.181.85:80 - ERROR: The requested URL could not be retrieved
+3.161.57.207:80 - Заголовок не найден
+200.209.33.209:80 - Заголовок не найден
+18.219.95.72:80 - Заголовок не найден
+184.73.217.189:80 - Sign in · GitLab
+23.159.168.137:80 - Page not found
+186.72.108.118:80 - 
+149.143.186.45:80 - Apache2 Ubuntu Default Page: It works
+108.60.73.45:80 - 403 Forbidden
+170.130.107.143:80 - 403 Forbidden
+23.46.177.6:80 - Заголовок не найден
+3.212.236.167:80 - Заголовок не найден
+108.167.190.53:80 - Not Acceptable!
+190.99.215.148:80 - welcome
+159.89.17.141:80 - Welcome to nginx!
+23.74.160.135:80 - Заголовок не найден
+52.24.189.46:80 - Заголовок не найден
+23.215.81.186:80 - Заголовок не найден
+23.220.157.197:80 - Заголовок не найден
+14.173.215.111:80 - RouterOS router configuration page
+103.58.151.3:80 - Thai UV Print - พิมพ์สีระบบ UV สกรีนโลโก้ รูปภาพ
+96.7.67.223:80 - Заголовок не найден
+192.185.111.155:80 - Not Acceptable!
+23.43.218.217:80 - Заголовок не найден
+62.99.154.14:80 - Web Server's Default Page
+34.225.189.134:80 - Заголовок не найден
+146.75.94.191:80 - Fastly error: unknown domain 146.75.94.191
+35.215.229.217:80 - 404 Not Found
+167.114.141.207:80 - Default Parallels Plesk Page
+50.116.84.86:80 - Not Acceptable!
+118.179.54.51:80 - Login | Dagor Health Care Solution
+203.219.197.62:80 - Error 404 (Not Found)!!1
+103.54.147.118:80 - RouterOS router configuration page
+198.98.51.15:80 - Localizadores de Vehiculos, Rastreo y Localizacion Satelital GPS de Coches y Flotas
+20.220.56.239:80 - 401 Authorization Required
+185.80.55.111:80 - Not Found (#404)
+148.72.117.106:80 - Account Suspended
+52.23.59.56:80 - 403 Forbidden
+105.68.172.43:80 - &#72;&#50;&#56;&#56;&#65;
+18.142.209.216:80 - 404 Not Found
+96.16.249.15:80 - Заголовок не найден
+108.156.80.121:80 - Заголовок не найден
+54.201.141.69:80 - Заголовок не найден
+45.93.125.69:80 - 403 Forbidden
+23.45.156.189:80 - Заголовок не найден
+145.239.88.241:80 - Welcome to nginx!
+171.22.39.197:80 - ERROR: The requested URL could not be retrieved
