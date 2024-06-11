@@ -7437,3 +7437,74 @@
 45.162.212.104:80 - 
 23.39.141.138:80 - Заголовок не найден
 207.195.228.121:80 - Заголовок не найден
+208.106.204.99:80 - Заголовок не найден
+155.159.30.65:80 - 404 Not Found
+143.198.166.164:80 - 403 Forbidden
+51.83.76.77:80 - Web Server's Default Page
+35.176.34.174:80 - 403 Forbidden
+104.108.196.170:80 - Заголовок не найден
+104.66.75.11:80 - Заголовок не найден
+38.63.190.8:80 - æ²¡ææ¾å°ç«ç¹
+54.191.2.193:80 - Заголовок не найден
+23.42.46.253:80 - Заголовок не найден
+203.88.110.111:80 - 404 Not Found
+104.103.236.9:80 - Заголовок не найден
+34.74.177.69:80 - Welcome to nginx!
+154.215.83.232:80 - 404 Not Found
+41.73.119.124:80 - F660
+105.76.20.52:80 - &#72;&#50;&#56;&#56;&#65;
+104.18.237.43:80 - Direct IP access not allowed | Cloudflare
+12.19.183.58:80 - index
+208.113.171.113:80 - Site not found &middot; DreamHost
+125.227.16.77:80 - WEB SERVICE
+62.129.213.28:80 - IGREK.NET £ukasz Ciaciuch, Krzysztof Trystula, ilustracja, cartoons, animacja, storyboard, animatic, komiks, malarstwo olejne, flash, humor, satyra, rysunki, www.luki.igrek.net, ilustracje, animacje, rysunek satyryczny, design
+45.60.25.195:80 - Заголовок не найден
+20.31.22.189:80 - 404 Not Found
+76.12.29.236:80 - Web Filter Violation
+104.207.245.82:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+173.232.50.151:80 - 403 Forbidden
+124.123.127.108:80 - WEB SERVICE
+38.14.58.6:80 - 404 Not Found
+104.121.146.3:80 - Заголовок не найден
+23.193.80.96:80 - Заголовок не найден
+54.95.18.229:80 - @InfoCanal
+2.18.195.76:80 - Заголовок не найден
+138.2.177.154:80 - Welcome to stream2.squareyes.tv!
+20.168.216.140:80 - Welcome to Azure Kubernetes Service (AKS)
+193.151.62.48:80 - 
+198.12.144.159:80 - Заголовок не найден
+51.195.122.145:80 - Index of /
+186.39.69.77:80 - Заголовок не найден
+18.154.156.102:80 - Заголовок не найден
+87.106.198.11:80 - Заголовок не найден
+209.172.15.8:80 - Web Site Blocked
+51.143.185.87:80 - Global Investment Fund Solutions - Maples Search Funds
+3.164.212.252:80 - Заголовок не найден
+23.198.252.119:80 - Заголовок не найден
+149.96.21.39:80 - 403 Forbidden
+210.4.194.118:80 - Заголовок не найден
+103.46.230.27:80 - 404 Not Found
+178.154.221.146:80 - Apache2 Ubuntu Default Page: It works
+44.201.69.172:80 - Welcome to CentOS
+104.19.5.223:80 - Direct IP access not allowed | Cloudflare
+185.62.78.198:80 - Nextcloud
+132.255.207.179:80 - RF 301K| LOGIN
+18.154.217.189:80 - Заголовок не найден
+103.101.57.17:80 - Apache HTTP Server Test Page powered by CentOS
+206.2.156.66:80 - HTML SiteMap
+208.69.12.147:80 - Interface Technologies Inc.
+31.128.36.123:80 - Welcome to nginx!
+18.208.123.32:80 - 403 Forbidden
+20.109.224.50:80 - Your Azure Function App is up and running.
+207.186.149.144:80 - IIS Windows Server
+13.52.3.132:80 - Genghis Khan Kitchen Restaurant
+23.220.188.235:80 - Заголовок не найден
+170.130.57.140:80 - 403 Forbidden
+209.197.221.233:80 - Заголовок не найден
+104.19.248.166:80 - Direct IP access not allowed | Cloudflare
+35.214.234.237:80 - Заголовок не найден
+23.222.217.82:80 - Заголовок не найден
+104.82.230.130:80 - Заголовок не найден
+45.200.46.130:80 - Заголовок не найден
+149.104.28.93:80 - Заголовок не найден
+23.208.55.124:80 - Заголовок не найден
