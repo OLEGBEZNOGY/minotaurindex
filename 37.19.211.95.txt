@@ -938,3 +938,14 @@
 34.117.25.174:80 - 502 Server Error
 185.162.236.194:80 - Заголовок не найден
 168.63.204.106:80 - Microsoft Azure Web App - Error 404
+23.236.107.10:80 - 403 Forbidden
+176.107.254.73:80 - IIS Windows Server
+23.7.181.155:80 - Заголовок не найден
+212.142.7.29:80 - 404 - Not Found
+89.31.75.90:80 - Apache2 Ubuntu Default Page: It works
+107.149.65.187:80 - 403 Forbidden
+38.38.169.148:80 - Welcome to nginx!
+64.44.47.157:80 - Home
+82.134.201.39:80 - 403 - Forbidden
+52.171.232.24:80 - Microsoft Azure Web App - Error 404
+13.226.15.161:80 - Заголовок не найден
