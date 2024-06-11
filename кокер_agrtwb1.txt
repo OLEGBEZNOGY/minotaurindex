@@ -2339,3 +2339,91 @@
 79.96.75.186:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
 2.18.151.154:80 - Заголовок не найден
 43.155.38.33:80 - Default Site
+23.95.95.82:80 - Forbidden!
+104.221.142.249:80 - 502 Bad Gateway
+103.18.59.91:80 - Web Server's Default Page
+23.12.194.240:80 - Заголовок не найден
+172.122.181.230:80 - 
+18.190.168.231:80 - Заголовок не найден
+84.55.172.22:80 - [Login]
+65.109.161.20:80 - mailcow UI
+23.8.153.191:80 - Заголовок не найден
+212.193.156.63:80 - 503 Service Temporarily Unavailable
+185.70.94.120:80 - Web Server's Default Page
+13.76.211.220:80 - :: Pointsoft ::
+172.245.113.52:80 - 407 Proxy Authentication Required
+140.228.28.189:80 - Заголовок не найден
+52.71.55.231:80 - No such app
+101.76.232.149:80 - 404 Not Found
+172.121.161.113:80 - 404 Not Found
+185.104.182.84:80 - 
+96.17.48.129:80 - Заголовок не найден
+143.64.24.33:80 - Заголовок не найден
+133.242.9.170:80 - Заголовок не найден
+96.53.188.145:80 - 
+44.234.224.80:80 - Заголовок не найден
+65.25.166.56:80 - 
+5.42.106.143:80 - 404 Not Found
+123.57.188.101:80 - ç½ç«è®¿é®æ¥é
+23.34.149.132:80 - Заголовок не найден
+86.48.36.12:80 - Home - Disabled Divers International
+149.30.253.104:80 - Welcome to nginx!
+107.158.138.185:80 - 403 Forbidden
+123.205.244.95:80 - 401 Unauthorized
+174.129.187.224:80 - 403 Forbidden
+104.243.35.110:80 - Apache2 Ubuntu Default Page: It works
+194.164.122.66:80 - Welcome to nginx!
+20.239.50.203:80 - Welcome to nginx!
+183.131.227.197:80 - Заголовок не найден
+13.248.253.116:80 - Заголовок не найден
+18.165.133.32:80 - Заголовок не найден
+223.171.94.141:80 - BARIX Annuncicom IC Status
+120.77.171.231:80 - Welcome to OpenResty!
+23.77.151.170:80 - Заголовок не найден
+216.152.226.134:80 - 404 Not Found
+54.37.218.0:80 - Welcome to nginx!
+173.166.156.33:80 - 401 - Unauthorized: Access is denied due to invalid credentials.
+176.143.40.161:80 - NAS_DISTANT&nbsp;-&nbsp;Synology&nbsp;DiskStation
+1.51.208.116:80 - 404 Not Found
+98.173.36.67:80 - Заголовок не найден
+104.27.29.55:80 - Direct IP access not allowed | Cloudflare
+142.132.181.164:80 - Apache2 Ubuntu Default Page: It works
+52.203.132.67:80 - My Ride 2
+154.6.193.55:80 - Заголовок не найден
+104.121.13.166:80 - Заголовок не найден
+64.39.238.222:80 - Заголовок не найден
+59.110.45.60:80 - ç«ç¹åå»ºæå-phpstudy for windows
+54.229.82.18:80 - 503 Service Temporarily Unavailable
+23.79.93.245:80 - Заголовок не найден
+173.232.203.26:80 - 403 Forbidden
+63.34.55.183:80 - Welcome to nginx!
+172.66.170.112:80 - Direct IP access not allowed | Cloudflare
+45.235.7.137:80 - SELIGANET/AKNET
+13.64.50.226:80 - Заголовок не найден
+120.25.145.75:80 - æ¯æ¥çä¸æ¯
+45.234.254.144:80 - Заголовок не найден
+20.241.240.120:80 - 404 Not Found
+193.158.63.148:80 - 403 Forbidden
+23.212.9.128:80 - Заголовок не найден
+136.144.205.30:80 - Заголовок не найден
+14.58.106.19:80 - CMS Web Viewer
+107.175.77.59:80 - Test Page for the Centmin Mod Nginx HTTP Server
+163.172.221.210:80 - Заголовок не найден
+34.203.80.161:80 - 503 Service Temporarily Unavailable
+161.49.26.84:80 - Заголовок не найден
+94.198.12.121:80 - MGM NJ Demo Customer Portal
+192.3.61.248:80 - Sorry, the website has been stopped
+36.158.33.206:80 - 
+104.18.145.252:80 - Direct IP access not allowed | Cloudflare
+180.201.8.8:80 - 404 Not Found
+95.217.148.28:80 - Apache2 Ubuntu Default Page: It works
+51.178.66.71:80 - Redirecting...
+104.87.221.166:80 - Заголовок не найден
+23.200.97.160:80 - Заголовок не найден
+104.17.51.65:80 - Direct IP access not allowed | Cloudflare
+198.41.201.116:80 - Direct IP access not allowed | Cloudflare
+34.120.61.153:80 - 403 Forbidden
+65.60.21.79:80 - Apache HTTP Server Test Page powered by CentOS
+184.168.106.29:80 - Coming Soon
+104.237.57.46:80 - 
+108.158.236.39:80 - Заголовок не найден
