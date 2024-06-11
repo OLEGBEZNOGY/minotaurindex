@@ -1919,3 +1919,5 @@
 44.217.65.132:80 - Web Filter Violation
 154.211.80.102:80 - Web Filter Violation
 185.163.44.225:80 - Web Filter Violation
+34.111.141.116:80 - Web Filter Violation
+102.38.229.213:80 - Web Filter Violation
