@@ -5563,3 +5563,18 @@
 3.89.36.194:80 - Airline Data Inc / Log in
 149.126.74.171:80 - Заголовок не найден
 200.132.200.253:80 - Заголовок не найден
+209.242.208.126:80 - 407 Proxy Authentication Required
+23.39.233.242:80 - Заголовок не найден
+23.44.55.122:80 - Заголовок не найден
+170.130.107.133:80 - 403 Forbidden
+37.140.251.232:80 - Subcribe and Anti-Spam and Privacy for 37.140.251.232
+18.142.143.209:80 - BADRI Speaks - A webinar: Gaining Competitive Advantage Through Claims Optimization
+173.223.201.51:80 - Заголовок не найден
+73.227.40.123:80 - Checking Language...
+167.71.68.54:80 - 403 Forbidden
+45.33.40.86:80 - Welcome to WildFly 10
+23.39.177.66:80 - Заголовок не найден
+82.165.184.102:80 - HTTP Server Test Page powered by: Rocky Linux
+72.247.163.220:80 - Заголовок не найден
+104.120.79.82:80 - Заголовок не найден
+103.96.75.216:80 - 403 Forbidden
