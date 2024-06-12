@@ -6535,3 +6535,70 @@
 210.117.141.97:80 - L7
 23.44.156.72:80 - Заголовок не найден
 104.97.33.154:80 - Заголовок не найден
+107.158.144.90:80 - 403 Forbidden
+20.207.237.56:80 - Your Azure Function App is up and running.
+79.96.56.130:80 - Strona w przygotowaniu...
+216.188.16.72:80 - Web Server's Default Page
+208.94.116.90:80 - Invalid HTTP access to IP Address
+82.126.8.126:80 - Danfoss StoreView
+195.15.239.92:80 - web host not found
+174.83.38.238:80 - 
+110.188.27.192:80 - 403 Forbidden
+65.61.80.198:80 - Document Moved
+20.53.91.47:80 - 404 Not Found
+20.189.121.23:80 - Microsoft Azure Web App - Error 404
+192.181.15.5:80 - 
+74.138.13.12:80 - Заголовок не найден
+107.179.59.213:80 - Page not found
+193.39.191.65:80 - Apache2 Ubuntu Default Page: It works
+38.153.172.221:80 - ERROR: The requested URL could not be retrieved
+45.63.115.153:80 - Заголовок не найден
+198.144.192.132:80 - Raw Bandwidth Account Manager - Login
+154.197.220.21:80 - æ²¡ææ¾å°ç«ç¹
+23.60.3.35:80 - Заголовок не найден
+153.126.214.19:80 - MyASP（マイスピー）
+103.68.217.13:80 - Please wait, the login page is loading...
+85.240.239.85:80 - Evora-Aerotower
+187.0.238.84:80 - &#70;&#54;&#55;&#48;&#76;
+153.122.59.210:80 - ワイメール Control Panel
+165.230.71.210:80 - IIS Windows Server
+18.209.165.11:80 - Заголовок не найден
+67.225.128.68:80 - badgerracing
+83.142.27.34:80 - Заголовок не найден
+172.168.17.101:80 - Your Azure Function App is up and running.
+137.184.245.10:80 - Apache2 Ubuntu Default Page: It works
+212.80.64.147:80 - RouterOS router configuration page
+101.109.117.240:80 - F600G
+104.206.166.111:80 - è·³è½¬ä¸­
+188.128.147.237:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+38.69.143.159:80 - Welcome to nginx!
+185.11.49.138:80 - 403 - Çàïðåùåíî: Äîñòóï çàïðåùåí.
+112.175.44.180:80 - IIS Windows Server
+38.33.30.92:80 - 403 Forbidden
+195.123.240.79:80 - Website server.com is ready. The content is to be added
+146.88.168.124:80 - Заголовок не найден
+50.16.211.189:80 - 502 Bad Gateway
+3.0.25.31:80 - Заголовок не найден
+23.57.83.42:80 - Заголовок не найден
+52.229.165.151:80 - Welcome to nginx!
+92.205.231.73:80 - 403 Forbidden
+154.12.209.187:80 - ERROR: The requested URL could not be retrieved
+18.154.3.2:80 - Заголовок не найден
+23.10.68.26:80 - Заголовок не найден
+211.87.194.171:80 - 404 Not Found
+38.55.171.93:80 - 404 Not Found
+178.128.103.122:80 - Заголовок не найден
+104.101.144.212:80 - Заголовок не найден
+23.214.219.175:80 - Заголовок не найден
+116.124.66.47:80 - 센터플레이스
+172.66.138.164:80 - Direct IP access not allowed | Cloudflare
+108.157.173.223:80 - Заголовок не найден
+195.68.154.92:80 - Заголовок не найден
+152.0.112.184:80 - 
+117.184.219.72:80 - 平安付科技服务有限公司|壹钱包 中国平安旗下品牌
+108.159.45.244:80 - Заголовок не найден
+23.52.148.215:80 - Заголовок не найден
+149.104.159.170:80 - æ²¡ææ¾å°ç«ç¹
+120.55.166.60:80 - IIS Windows Server
+175.143.127.205:80 - IIS Windows Server
+104.254.182.77:80 - Danone Professional
