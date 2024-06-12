@@ -3594,3 +3594,52 @@
 23.225.247.89:80 - Loading
 52.213.218.118:80 - 403 Forbidden
 23.12.107.239:80 - Заголовок не найден
+37.228.153.5:80 - Заголовок не найден
+50.3.207.155:80 - 403 Forbidden
+43.134.5.232:80 - Default Site
+24.217.224.126:80 - 
+184.29.18.28:80 - Заголовок не найден
+142.132.229.58:80 - Web Server's Default Page
+199.47.47.226:80 - Web Design Services | High Speed Internet | IT Consultant in Miami | Web Design in Miami Florida, Fl
+185.159.153.172:80 - MailEnable Web Mail
+52.73.8.10:80 - Apache Tomcat/9.0.58
+2.18.193.189:80 - Заголовок не найден
+38.63.213.217:80 - gpt
+64.84.117.201:80 - Apache2 Ubuntu Default Page: It works
+34.100.223.185:80 - Quick Ride for all Commute. Book Carpool, Taxi and Bikepool.
+179.52.71.78:80 - 
+47.108.129.95:80 - 重庆漫澜信息科技有限公司
+54.158.4.42:80 - Заголовок не найден
+109.109.169.56:80 - 403 Forbidden
+23.54.32.82:80 - Заголовок не найден
+47.181.173.96:80 - 
+117.72.68.97:80 - 403 - ½ûÖ¹·ÃÎÊ: ·ÃÎÊ±»¾Ü¾ø¡£
+104.70.251.58:80 - Заголовок не найден
+212.54.119.202:80 - WEB SERVICE
+121.186.204.189:80 - main page
+18.158.197.210:80 - 503 Service Temporarily Unavailable
+35.219.178.3:80 - Apache2 Debian Default Page: It works
+178.89.46.139:80 - GPON Home Gateway
+96.230.226.25:80 - Apache2 Ubuntu Default Page: It works
+194.114.144.251:80 - Cabinetul personal :: Autorizarea
+185.75.56.62:80 - Home - The leading insurance service provider in Kuwait
+136.226.58.95:80 - Internet Security by Zscaler
+44.196.254.229:80 - Заголовок не найден
+54.196.124.181:80 - Заголовок не найден
+54.230.19.149:80 - Заголовок не найден
+108.139.216.93:80 - Заголовок не найден
+104.19.146.165:80 - Direct IP access not allowed | Cloudflare
+23.43.47.252:80 - Заголовок не найден
+188.132.130.221:80 - Welcome to nginx!
+52.28.16.34:80 - Welcome to nginx!
+45.33.65.104:80 - Mortgage Calculator
+165.225.242.170:80 - Internet Security by Zscaler
+39.173.108.161:80 - Заголовок не найден
+23.201.210.212:80 - Заголовок не найден
+203.135.134.110:80 - Page not found
+64.20.36.221:80 - Заголовок не найден
+104.112.109.41:80 - Заголовок не найден
+38.63.137.44:80 - 404 Not Found
+20.236.157.24:80 - Заголовок не найден
+186.3.65.253:80 - Web user login
+5.189.149.29:80 - Apache Tomcat/8.5.24
