@@ -3546,3 +3546,89 @@
 54.95.237.230:80 - 401 Unauthorized
 80.206.187.173:80 - Заголовок не найден
 194.249.154.9:80 - Apache HTTP Server Test Page powered by CentOS
+120.78.12.147:80 - æ²¡ææ¾å°ç«ç¹
+192.71.142.24:80 - Заголовок не найден
+69.163.176.41:80 - Site not found &middot; DreamHost
+59.110.81.240:80 - 
+3.64.154.10:80 - Portfolio Tracker
+18.205.183.122:80 - GLPI - Autenticación
+104.140.65.20:80 - 403 Forbidden
+95.216.70.153:80 - 404 Not Found
+20.150.208.179:80 - Attention Required! | Cloudflare
+172.66.174.197:80 - Direct IP access not allowed | Cloudflare
+103.24.202.237:80 - Заголовок не найден
+64.226.121.97:80 - ARMADA4D &gt; Daftar ARMADA4D, ARMADA 4D, link alternatif ARMADA4D, link 
+
+ &ndash; ARMADA4D
+2.22.135.241:80 - Заголовок не найден
+8.140.121.126:80 - Заголовок не найден
+107.180.236.39:80 - Site not found &middot; DreamHost
+23.1.215.233:80 - Заголовок не найден
+186.89.197.209:80 - 
+61.0.209.102:80 - RouterOS router configuration page
+18.65.68.119:80 - Заголовок не найден
+159.65.117.168:80 - Uhren Juwelen Greiner
+23.231.213.222:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+82.146.35.188:80 - Welcome to nginx!
+110.145.84.129:80 - 403 Forbidden
+177.131.69.47:80 - F670L
+23.203.178.189:80 - Заголовок не найден
+112.124.168.89:80 - 阿里云万网虚机IP访问报错提示
+173.232.11.185:80 - 403 Forbidden
+36.155.186.23:80 - 404 Not Found
+50.87.51.223:80 - Not Acceptable!
+104.27.93.64:80 - Direct IP access not allowed | Cloudflare
+58.220.178.80:80 - 403 Forbidden
+23.213.223.178:80 - Заголовок не найден
+52.85.228.202:80 - Заголовок не найден
+218.161.87.249:80 - 
+159.89.253.243:80 - Welcome to nginx!
+18.155.210.201:80 - Заголовок не найден
+13.111.226.92:80 - 403 - Forbidden: Access is denied.
+186.52.112.99:80 - 
+185.104.194.70:80 - mx.pcshop.ua &mdash; Coming Soon
+45.78.102.201:80 - Заголовок не найден
+125.16.137.244:80 - IIS Windows Server
+188.128.188.209:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+106.13.1.213:80 - 404 Not Found
+203.193.142.194:80 - Заголовок не найден
+120.92.91.178:80 - Welcome to nginx!
+119.23.215.226:80 - Welcome to nginx!
+23.208.99.253:80 - Заголовок не найден
+120.76.242.14:80 - 404 Not Found
+209.235.132.103:80 - Заголовок не найден
+3.125.81.216:80 - External Service &#8211; Just another WordPress site
+154.0.171.163:80 - Заголовок не найден
+88.208.199.172:80 - Web Server's Default Page
+13.81.15.164:80 - Microsoft Azure Web App - Error 404
+217.71.93.142:80 - PACSonWEB - DOBCO Medical Systems
+23.44.85.158:80 - Заголовок не найден
+103.12.96.69:80 - Заголовок не найден
+104.116.102.103:80 - Заголовок не найден
+153.192.7.228:80 - index
+24.43.140.210:80 - Web Site Blocked
+154.127.205.137:80 - Free Porn Videos - XVIDEOS.COM
+151.236.109.101:80 - Welcome to nginx!
+50.116.84.58:80 - Not Acceptable!
+82.180.170.80:80 - 403 Forbidden
+200.88.135.102:80 - 
+23.212.148.38:80 - Заголовок не найден
+95.221.246.70:80 - Default Site
+44.224.41.112:80 - 503 Service Temporarily Unavailable
+108.157.213.83:80 - Заголовок не найден
+13.48.167.114:80 - ownCloud
+81.79.150.82:80 - 
+176.97.212.42:80 - Apache2 Ubuntu Default Page: It works
+188.166.153.75:80 - Заголовок не найден
+220.134.225.12:80 - ATHD DVR
+198.41.209.204:80 - Direct IP access not allowed | Cloudflare
+18.232.109.152:80 - TunePays
+149.102.26.244:80 - Default Site
+23.40.2.114:80 - Заголовок не найден
+49.213.137.253:80 - 
+121.176.117.11:80 - 
+162.55.219.119:80 - Default Site
+149.30.186.250:80 - 404 Not Found
+184.25.73.135:80 - Заголовок не найден
+216.47.78.12:80 - Page not found
+23.199.27.42:80 - Заголовок не найден
