@@ -21102,3 +21102,129 @@
 127.169.17.31:80 - Welcome to XAMPP
 20.94.2.48:80 - LINQ ERP
 127.255.47.126:80 - Welcome to XAMPP
+163.172.62.154:80 - Заголовок не найден
+127.203.50.217:80 - Welcome to XAMPP
+184.29.217.137:80 - Заголовок не найден
+127.49.61.11:80 - Welcome to XAMPP
+37.159.188.152:80 - HTTP Status 404 – Not Found
+100.24.74.83:80 - Welcome to nginx!
+127.201.243.96:80 - Welcome to XAMPP
+127.236.34.55:80 - Welcome to XAMPP
+34.131.210.111:80 - Заголовок не найден
+212.111.197.21:80 - Access forbidden!
+185.69.53.126:80 - Login | Domus Naturae
+127.229.174.184:80 - Welcome to XAMPP
+104.18.166.186:80 - Direct IP access not allowed | Cloudflare
+129.207.1.78:80 - Web Filter Block Override
+127.176.98.106:80 - Welcome to XAMPP
+181.23.147.197:80 - Заголовок не найден
+136.36.159.190:80 - Default Site
+5.252.118.238:80 - FASTPANEL
+38.48.227.227:80 - Welcome to nginx!
+104.84.42.244:80 - Заголовок не найден
+127.175.102.96:80 - Welcome to XAMPP
+127.90.234.32:80 - Welcome to XAMPP
+197.161.56.125:80 - Заголовок не найден
+182.31.169.196:80 - DVR ActiveX Viewer
+127.50.166.51:80 - Welcome to XAMPP
+23.209.6.233:80 - Заголовок не найден
+210.176.116.6:80 - International Alliance for Invitational Education (Hong Kong)
+127.100.252.46:80 - Welcome to XAMPP
+217.112.92.114:80 - Domain Default page
+8.214.16.121:80 - 首页
+65.8.83.238:80 - Заголовок не найден
+184.28.66.47:80 - Заголовок не найден
+44.232.175.45:80 - Заголовок не найден
+23.197.233.23:80 - Заголовок не найден
+104.66.127.26:80 - Заголовок не найден
+127.86.7.122:80 - Welcome to XAMPP
+127.148.250.175:80 - Welcome to XAMPP
+3.98.48.242:80 - Заголовок не найден
+127.202.173.127:80 - Welcome to XAMPP
+35.215.100.228:80 - Welcome to nginx!
+96.9.55.98:80 - 403 Forbidden
+127.254.179.56:80 - Welcome to XAMPP
+127.14.65.78:80 - Welcome to XAMPP
+178.17.199.75:80 - Заголовок не найден
+54.206.82.214:80 - Bitnami: Open Source. Simplified
+127.119.74.139:80 - Welcome to XAMPP
+178.40.47.233:80 - DomovskÃ¡ strÃ¡nka
+127.181.206.235:80 - Welcome to XAMPP
+127.195.44.24:80 - Welcome to XAMPP
+199.127.109.227:80 - 403 Forbidden
+38.35.68.111:80 - 403 Forbidden
+2.192.178.165:80 - Заголовок не найден
+217.160.169.70:80 - Apache HTTP Server Test Page powered by CentOS
+127.116.54.52:80 - Welcome to XAMPP
+127.186.210.161:80 - Welcome to XAMPP
+127.88.3.28:80 - Welcome to XAMPP
+23.55.219.77:80 - Заголовок не найден
+127.103.221.203:80 - Welcome to XAMPP
+127.216.178.33:80 - Welcome to XAMPP
+127.20.38.117:80 - Welcome to XAMPP
+154.213.130.76:80 - Заголовок не найден
+104.91.99.192:80 - Заголовок не найден
+20.73.58.161:80 - Welcome to nginx!
+127.188.238.5:80 - Welcome to XAMPP
+212.24.111.186:80 - Welcome to nginx!
+131.159.30.102:80 - Apache2 Ubuntu Default Page: It works
+150.136.139.150:80 - 404 Not Found
+18.164.81.11:80 - Заголовок не найден
+23.220.115.54:80 - Заголовок не найден
+222.194.17.246:80 - 404 Not Found
+127.82.71.149:80 - Welcome to XAMPP
+127.193.87.59:80 - Welcome to XAMPP
+190.80.209.97:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#54;&#55;&#65;&#32;&#86;&#49;&#46;&#48;
+34.192.104.179:80 - Medical Record Retrieval Services | American Retrieval Company
+108.177.96.84:80 - Google
+125.74.3.222:80 - 403 Forbidden
+127.64.185.94:80 - Welcome to XAMPP
+3.137.11.68:80 - Заголовок не найден
+127.187.201.134:80 - Welcome to XAMPP
+127.10.220.148:80 - Welcome to XAMPP
+127.44.249.36:80 - Welcome to XAMPP
+39.134.239.237:80 - Заголовок не найден
+127.240.32.18:80 - Welcome to XAMPP
+20.62.52.188:80 - Заголовок не найден
+127.73.112.63:80 - Welcome to XAMPP
+152.0.44.14:80 - 
+18.153.254.148:80 - 404 Not Found
+127.141.54.91:80 - Welcome to XAMPP
+69.91.155.203:80 - Apache2 Ubuntu Default Page: It works
+94.239.250.24:80 - Заголовок не найден
+127.44.38.141:80 - Welcome to XAMPP
+148.139.84.202:80 - 403 Forbidden
+23.46.212.137:80 - Заголовок не найден
+69.54.234.151:80 - Заголовок не найден
+13.33.35.13:80 - Заголовок не найден
+104.101.21.68:80 - Заголовок не найден
+18.155.201.180:80 - Заголовок не найден
+54.216.53.120:80 - KMS Admin | Log in
+35.187.222.197:80 - 404 Not Found
+70.33.151.36:80 - Access Denied
+145.128.210.53:80 - 403 - Forbidden
+18.165.58.144:80 - Заголовок не найден
+45.114.158.149:80 - RouterOS router configuration page
+127.226.115.173:80 - Welcome to XAMPP
+162.220.132.2:80 - Document Error: Unauthorized
+185.160.156.112:80 - 404 Not Found
+127.108.176.196:80 - Welcome to XAMPP
+194.213.114.212:80 - 403 Forbidden
+127.240.2.106:80 - Welcome to XAMPP
+127.179.204.109:80 - Welcome to XAMPP
+72.234.35.106:80 - Document Moved
+52.85.50.105:80 - Заголовок не найден
+46.19.46.166:80 - Log In
+23.210.82.207:80 - Заголовок не найден
+204.235.240.130:80 - Заголовок не найден
+127.237.49.4:80 - Welcome to XAMPP
+69.164.192.252:80 - Welcome!
+127.220.64.247:80 - Welcome to XAMPP
+113.23.185.241:80 - Apache HTTP Server Test Page powered by CentOS
+210.48.237.122:80 - 404 Not Found
+189.129.173.198:80 - 
+127.177.249.144:80 - Welcome to XAMPP
+127.92.184.53:80 - Welcome to XAMPP
+153.145.78.26:80 - Заголовок не найден
+127.254.38.168:80 - Welcome to XAMPP
+209.97.155.153:80 - National Indy 500 Collectors Club
