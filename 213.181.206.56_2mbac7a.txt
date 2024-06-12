@@ -21213,3 +21213,108 @@
 103.90.180.172:80 - Please wait, the page is opening...
 15.206.53.140:80 - Pi Consulting &#8211; Pi Consulting is an India-based research, advocacy and consulting organization that specializes in strategy development, communications, advocacy and media engagement.
 127.84.232.220:80 - Welcome to XAMPP
+212.21.0.16:80 - DIR-615
+45.224.130.44:80 - Заголовок не найден
+23.53.79.154:80 - Заголовок не найден
+127.201.128.107:80 - Welcome to XAMPP
+52.7.146.208:80 - EduTech Advanced Business Technologies
+217.160.205.238:80 - Web Server's Default Page
+83.166.145.197:80 - Заголовок не найден
+120.25.231.153:80 - æ²¡ææ¾å°ç«ç¹
+199.233.239.219:80 - 404 Not Found
+154.23.202.227:80 - 403 Forbidden
+127.249.115.117:80 - Welcome to XAMPP
+23.213.255.179:80 - Заголовок не найден
+127.15.135.162:80 - Welcome to XAMPP
+23.96.239.88:80 - Your Azure Function App is up and running.
+4.250.140.123:80 - Your Azure Function App is up and running.
+216.71.105.209:80 - Lone Star Graphics
+91.107.187.55:80 - RouterOS router configuration page
+87.242.86.211:80 - Welcome to nginx!
+127.165.42.196:80 - Welcome to XAMPP
+207.32.183.52:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+127.254.169.122:80 - Welcome to XAMPP
+178.212.65.163:80 - Заголовок не найден
+162.215.14.140:80 - Web Server's Default Page
+114.170.115.11:80 - index
+45.67.230.245:80 - Заголовок не найден
+127.144.187.68:80 - Welcome to XAMPP
+96.19.220.139:80 - hue personal wireless lighting
+127.248.202.201:80 - Welcome to XAMPP
+107.154.144.138:80 - Заголовок не найден
+180.96.8.12:80 - Заголовок не найден
+185.198.156.231:80 - 500 Internal Server Error
+143.198.185.151:80 - Заголовок не найден
+23.43.68.123:80 - Заголовок не найден
+127.243.13.69:80 - Welcome to XAMPP
+143.198.32.77:80 - 404 Not Found
+127.92.107.122:80 - Welcome to XAMPP
+127.30.88.92:80 - Welcome to XAMPP
+18.67.174.130:80 - Заголовок не найден
+121.199.54.72:80 - Заголовок не найден
+186.7.79.64:80 - 
+127.47.164.254:80 - Welcome to XAMPP
+68.107.247.86:80 - Runtime Error
+127.170.169.82:80 - Welcome to XAMPP
+151.101.9.154:80 - Fastly error: unknown domain 151.101.9.154
+127.46.123.175:80 - Welcome to XAMPP
+20.241.73.72:80 - 404 Not Found
+104.108.109.46:80 - Заголовок не найден
+18.154.151.158:80 - Заголовок не найден
+127.208.183.35:80 - Welcome to XAMPP
+115.187.52.68:80 - WEB SERVICE
+127.59.167.75:80 - Welcome to XAMPP
+127.95.28.229:80 - Welcome to XAMPP
+127.85.242.228:80 - Welcome to XAMPP
+127.250.186.225:80 - Welcome to XAMPP
+66.113.214.154:80 - IIS 7.0 Detailed Error - 403.14 - Forbidden
+23.42.214.116:80 - Заголовок не найден
+67.207.69.20:80 - 403 Forbidden
+148.72.209.104:80 - Заголовок не найден
+13.209.39.244:80 - Заголовок не найден
+104.67.162.7:80 - Заголовок не найден
+127.100.29.24:80 - Welcome to XAMPP
+104.225.172.218:80 - Заголовок не найден
+104.207.240.15:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+46.51.147.13:80 - 503 Service Temporarily Unavailable
+124.225.10.223:80 - 403 Forbidden
+192.126.189.221:80 - ERROR: The requested URL could not be retrieved
+127.194.144.74:80 - Welcome to XAMPP
+75.103.68.169:80 - Заголовок не найден
+82.211.159.213:80 - 403 Forbidden
+127.122.57.209:80 - Welcome to XAMPP
+150.60.168.149:80 - 医療法人 若葉会 さいたま記念病院 &#8211; 患者さんに安心して医療を受けていただくために、安全な医療をご提供するとともに、患者さんの個人情報の取り扱いにも、万全の体制で取り組んでいます。
+62.3.56.193:80 - RouterOS router configuration page
+127.109.168.247:80 - Welcome to XAMPP
+80.157.246.164:80 - Заголовок не найден
+39.100.98.22:80 - 302 Found
+134.209.74.102:80 - Database Error
+20.209.66.66:80 - Заголовок не найден
+162.240.171.153:80 - Заголовок не найден
+3.225.116.82:80 - FITEC
+127.165.152.216:80 - Welcome to XAMPP
+194.50.193.5:80 - 404 Not Found
+127.2.241.78:80 - Welcome to XAMPP
+54.89.242.220:80 - 500 Internal Server Error
+127.228.251.77:80 - Welcome to XAMPP
+35.168.74.54:80 - 404 Not Found
+127.144.252.198:80 - Welcome to XAMPP
+3.210.46.70:80 - Error
+127.239.4.85:80 - Welcome to XAMPP
+127.75.127.227:80 - Welcome to XAMPP
+127.63.61.236:80 - Welcome to XAMPP
+127.253.34.179:80 - Welcome to XAMPP
+127.151.167.249:80 - Welcome to XAMPP
+163.181.38.151:80 - 403 Forbidden
+127.175.209.152:80 - Welcome to XAMPP
+104.94.102.220:80 - Заголовок не найден
+160.121.40.121:80 - 403 Forbidden
+52.90.57.38:80 - Welcome to CentOS
+104.85.225.96:80 - Заголовок не найден
+72.32.144.173:80 - Заголовок не найден
+127.28.222.143:80 - Welcome to XAMPP
+104.89.173.210:80 - Заголовок не найден
+89.218.228.126:80 - Welcome to nginx!
+159.89.241.143:80 - Yuki Clarke &#8211; Comic Artist and Creator
+2.17.51.88:80 - Заголовок не найден
+142.112.55.131:80 - Sign in · GitLab
