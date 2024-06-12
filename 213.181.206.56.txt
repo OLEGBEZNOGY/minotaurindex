@@ -22960,3 +22960,114 @@
 68.202.172.159:80 - 
 127.159.72.241:80 - Welcome to XAMPP
 23.208.82.49:80 - Заголовок не найден
+127.122.154.158:80 - Welcome to XAMPP
+127.3.210.158:80 - Welcome to XAMPP
+49.51.228.105:80 - æ²¡ææ¾å°ç«ç¹
+127.6.154.171:80 - Welcome to XAMPP
+27.3.123.23:80 - Заголовок не найден
+61.216.76.242:80 - Заголовок не найден
+127.124.9.37:80 - Welcome to XAMPP
+127.99.102.255:80 - Welcome to XAMPP
+127.149.26.55:80 - Welcome to XAMPP
+65.9.119.164:80 - Заголовок не найден
+162.214.221.121:80 - Заголовок не найден
+104.210.114.170:80 - Microsoft Azure Web App - Error 404
+127.22.20.31:80 - Welcome to XAMPP
+23.222.100.155:80 - Заголовок не найден
+127.224.142.245:80 - Welcome to XAMPP
+34.246.249.4:80 - Заголовок не найден
+2.20.43.217:80 - Заголовок не найден
+3.233.65.80:80 - Заголовок не найден
+74.207.227.205:80 - Welcome to nginx!
+127.81.21.137:80 - Welcome to XAMPP
+95.168.243.210:80 - Заголовок не найден
+202.93.15.145:80 - 
+127.118.250.198:80 - Welcome to XAMPP
+52.26.179.192:80 - IIS Windows Server
+93.32.50.143:80 - 403 Forbidden
+42.202.219.174:80 - Заголовок не найден
+127.204.243.252:80 - Welcome to XAMPP
+127.7.90.36:80 - Welcome to XAMPP
+127.25.241.104:80 - Welcome to XAMPP
+64.44.120.23:80 - Заголовок не найден
+154.194.152.168:80 - 尊龙凯时(中国)人生就是搏!
+195.189.16.103:80 - RouterOS router configuration page
+127.27.53.142:80 - Welcome to XAMPP
+64.98.135.35:80 - No Redirect
+127.167.72.36:80 - Welcome to XAMPP
+91.228.224.33:80 - Cosmetics
+127.221.131.232:80 - Welcome to XAMPP
+66.179.219.72:80 - Заголовок не найден
+13.112.123.117:80 - Apache HTTP Server Test Page powered by CentOS
+127.181.97.29:80 - Welcome to XAMPP
+104.64.247.138:80 - Заголовок не найден
+127.120.221.65:80 - Welcome to XAMPP
+178.63.133.130:80 - Заголовок не найден
+185.67.188.33:80 - Index page
+168.119.98.55:80 - Maintenance
+93.174.162.145:80 - Index of /
+208.115.231.130:80 - The Fast Remote Desktop Application – AnyDesk
+127.4.237.161:80 - Welcome to XAMPP
+127.44.0.108:80 - Welcome to XAMPP
+127.142.216.224:80 - Welcome to XAMPP
+23.79.184.180:80 - Заголовок не найден
+173.165.236.101:80 - SonicWall - Authentication
+179.37.175.188:80 - Заголовок не найден
+127.39.192.155:80 - Welcome to XAMPP
+162.13.148.133:80 - Direct selling of natural, organic, health &amp; beauty products with home parties, selling to your local network of clients | NYR Organic - Neal's Yard Remedies Home Selling Channel
+127.234.212.182:80 - Welcome to XAMPP
+127.71.126.71:80 - Welcome to XAMPP
+173.223.111.78:80 - Заголовок не найден
+127.114.50.72:80 - Welcome to XAMPP
+23.196.51.168:80 - Заголовок не найден
+69.192.130.241:80 - Заголовок не найден
+127.29.205.63:80 - Welcome to XAMPP
+34.98.7.53:80 - Заголовок не найден
+184.25.194.58:80 - Заголовок не найден
+164.100.54.43:80 - :: UNDP - ADIVASI GRANTS MANAGEMENT SYSTEM (ADIGRAMS)
+154.216.120.118:80 - 403 Forbidden
+98.149.33.212:80 - 
+190.166.20.170:80 - 
+45.162.212.66:80 - F670L
+185.226.67.163:80 - Not found
+127.195.35.44:80 - Welcome to XAMPP
+188.165.39.215:80 - 403 Forbidden
+23.197.216.37:80 - Заголовок не найден
+104.97.24.7:80 - Заголовок не найден
+127.168.51.200:80 - Welcome to XAMPP
+104.104.98.16:80 - Заголовок не найден
+113.23.162.142:80 - IIS Windows Server
+111.12.187.220:80 - Заголовок не найден
+127.2.241.252:80 - Welcome to XAMPP
+64.85.107.174:80 - Apache2 Ubuntu Default Page: It works
+45.88.196.125:80 - 403 Forbidden
+154.205.200.249:80 - 404 Not Found
+127.141.211.122:80 - Welcome to XAMPP
+104.93.99.144:80 - Заголовок не найден
+174.6.18.161:80 - CRYPT&nbsp;-&nbsp;Synology&nbsp;DiskStation
+164.92.254.103:80 - 403 Forbidden
+61.61.125.153:80 - ThingsBoard
+120.53.242.186:80 - Welcome to nginx!
+95.110.225.87:80 - Заголовок не найден
+186.57.204.198:80 - Заголовок не найден
+189.78.144.71:80 - REP Web Server
+71.88.170.198:80 - 
+91.21.178.143:80 - Login
+108.191.152.26:80 - WEB SERVICE
+127.249.88.11:80 - Welcome to XAMPP
+127.182.67.139:80 - Welcome to XAMPP
+127.110.169.179:80 - Welcome to XAMPP
+200.75.177.105:80 - Login - Intelbras ONU R1
+216.92.80.244:80 - The Practical Dentist - Dr. John C. Comisi
+52.84.77.116:80 - Заголовок не найден
+44.237.253.84:80 - 503 Service Temporarily Unavailable
+133.167.7.27:80 - 404 Not Found
+104.21.193.56:80 - Direct IP access not allowed | Cloudflare
+208.75.193.19:80 - Заголовок не найден
+185.154.162.12:80 - Заголовок не найден
+23.22.92.225:80 - Заголовок не найден
+127.58.90.134:80 - Welcome to XAMPP
+47.26.100.148:80 - 
+127.242.183.147:80 - Welcome to XAMPP
+54.39.78.207:80 - Success!
+34.47.92.218:80 - 404 Not Found
