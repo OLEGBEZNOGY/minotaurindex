@@ -9838,3 +9838,46 @@
 127.150.250.73:80 - Welcome to XAMPP
 127.32.161.53:80 - Welcome to XAMPP
 184.84.173.207:80 - Заголовок не найден
+76.142.122.68:80 - Заголовок не найден
+216.69.167.119:80 - Summer House Design Group
+185.162.126.239:80 - Dividend Grow Rate Tools
+23.40.193.238:80 - Заголовок не найден
+154.64.105.16:80 - 403 Forbidden
+92.255.73.251:80 - 404 Not Found
+23.39.11.241:80 - Заголовок не найден
+99.241.184.106:80 - IIS Windows
+127.48.140.227:80 - Welcome to XAMPP
+136.243.162.120:80 - Account Suspended
+103.197.122.247:80 - IIS Windows Server
+39.105.209.94:80 - 致远服务--首页
+127.141.235.74:80 - Welcome to XAMPP
+13.200.129.107:80 - Apache2 Ubuntu Default Page: It works
+127.199.21.27:80 - Welcome to XAMPP
+127.164.113.4:80 - Welcome to XAMPP
+104.18.100.154:80 - Direct IP access not allowed | Cloudflare
+127.237.79.254:80 - Welcome to XAMPP
+127.194.212.212:80 - Welcome to XAMPP
+2.23.239.25:80 - Заголовок не найден
+189.151.1.99:80 - 
+127.88.228.37:80 - Welcome to XAMPP
+127.5.140.201:80 - Welcome to XAMPP
+27.3.24.196:80 - Заголовок не найден
+13.59.9.134:80 - Apache2 Ubuntu Default Page: It works
+27.128.221.141:80 - 403 Forbidden
+146.148.130.197:80 - 404 Not Found
+127.71.236.162:80 - Welcome to XAMPP
+104.140.206.39:80 - 403 Forbidden
+212.80.228.63:80 - Заголовок не найден
+47.94.111.173:80 - ç½ç«è®¿é®æ¥é
+127.66.239.105:80 - Welcome to XAMPP
+168.206.105.25:80 - Заголовок не найден
+127.244.81.117:80 - Welcome to XAMPP
+127.220.112.67:80 - Welcome to XAMPP
+5.75.131.160:80 - Medientechnik Witting GmbH &#x2d; Informationen über Konferenzraumtechnik
+147.139.174.164:80 - Заголовок не найден
+132.247.67.133:80 - Web Management Login
+63.197.90.178:80 - AT&T WiFi Portal
+96.41.66.179:80 - 
+23.13.71.52:80 - Заголовок не найден
+23.10.78.217:80 - Заголовок не найден
+123.56.49.245:80 - ç½ç«è®¿é®æ¥é
