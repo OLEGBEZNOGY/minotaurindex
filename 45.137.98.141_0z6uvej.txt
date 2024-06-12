@@ -3173,3 +3173,44 @@
 159.223.62.178:80 - 502 Bad Gateway
 207.150.219.96:80 - Заголовок не найден
 127.7.176.237:80 - Welcome to XAMPP
+127.36.175.13:80 - Welcome to XAMPP
+47.114.84.211:80 - æ»¨æ±æå¡
+127.197.61.228:80 - Welcome to XAMPP
+84.239.20.209:80 - WeatherLinkIP Configuration
+127.209.19.87:80 - Welcome to XAMPP
+75.2.20.202:80 - 403 Forbidden
+108.186.160.198:80 - Заголовок не найден
+205.186.128.105:80 - KidsBowlFree.com: Kids Bowl Free All Summer Long!
+124.216.17.249:80 - Заголовок не найден
+127.149.30.149:80 - Welcome to XAMPP
+116.58.191.217:80 - ACME Access Only
+49.51.200.66:80 - æ²¡ææ¾å°ç«ç¹
+127.127.42.173:80 - Welcome to XAMPP
+127.135.253.170:80 - Welcome to XAMPP
+127.184.147.64:80 - Welcome to XAMPP
+184.67.220.246:80 - 403 Forbidden
+192.241.249.203:80 - JasonJones.com | Yet another IT drone
+127.168.84.139:80 - Welcome to XAMPP
+63.195.160.189:80 - AT&T WiFi Portal
+107.149.28.178:80 - Заголовок не найден
+31.129.105.19:80 - FASTPANEL
+127.139.146.109:80 - Welcome to XAMPP
+175.27.236.245:80 - 安徽寰宇工程质量检测有限公司
+127.143.117.252:80 - Welcome to XAMPP
+185.242.80.70:80 - 403 Forbidden
+18.238.127.111:80 - Заголовок не найден
+153.120.135.63:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+52.5.35.251:80 - 
+127.45.36.51:80 - Welcome to XAMPP
+23.36.155.246:80 - Заголовок не найден
+104.20.181.183:80 - Direct IP access not allowed | Cloudflare
+91.107.144.180:80 - Заголовок не найден
+127.101.121.31:80 - Welcome to XAMPP
+132.148.236.246:80 - Coming Soon
+187.108.200.67:80 - Home page - Portal do Cliente
+127.14.23.204:80 - Welcome to XAMPP
+49.235.119.154:80 - 404 Not Found
+212.0.99.169:80 - Заголовок не найден
+127.115.63.75:80 - Welcome to XAMPP
+127.252.78.28:80 - Welcome to XAMPP
+104.16.6.12:80 - Direct IP access not allowed | Cloudflare
