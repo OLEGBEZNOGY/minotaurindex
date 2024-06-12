@@ -1,0 +1,6 @@
+199.232.161.86:80 - Fastly error: unknown domain 199.232.161.86
+80.90.187.104:80 - CleanPhotography - Photography &amp; Portfolio Template
+108.139.37.12:80 - Заголовок не найден
+81.169.167.109:80 - Web Server's Default Page
+154.37.248.204:80 - ERROR: The requested URL could not be retrieved
+127.232.134.97:80 - Welcome to XAMPP
