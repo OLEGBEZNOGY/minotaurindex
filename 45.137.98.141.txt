@@ -8630,3 +8630,16 @@
 192.163.178.54:80 - æ²¡ææ¾å°ç«ç¹
 103.194.239.139:80 - Apache2 Ubuntu Default Page: It works
 24.194.242.247:80 - 
+127.222.104.190:80 - Welcome to XAMPP
+38.33.20.133:80 - Welcome to nginx!
+18.167.1.127:80 - Win mail：来自 Win mail 的电子邮件
+20.250.204.51:80 - Microsoft Azure Web App - Error 404
+127.47.182.129:80 - Welcome to XAMPP
+20.127.224.98:80 - Заголовок не найден
+127.125.88.201:80 - Welcome to XAMPP
+101.200.242.92:80 - Welcome to nginx!
+167.82.82.193:80 - Fastly error: unknown domain 167.82.82.193
+208.67.157.80:80 - BrightEdge AutoPilot
+23.61.179.53:80 - Заголовок не найден
+119.3.11.239:80 - Not Found (#404)
+35.82.140.228:80 - No such app
