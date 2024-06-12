@@ -6395,3 +6395,19 @@ AIO-B100-4
 23.51.252.148:80 - Заголовок не найден
 193.36.185.77:80 - Apache2 Ubuntu Default Page: It works
 196.51.108.127:80 - ERROR: The requested URL could not be retrieved
+23.39.4.93:80 - Заголовок не найден
+147.161.173.5:80 - Internet Security by Zscaler
+71.91.189.183:80 - 
+13.33.133.132:80 - Заголовок не найден
+182.183.198.135:80 - Заголовок не найден
+5.200.11.93:80 - IIS Windows Server
+168.119.50.194:80 - Заголовок не найден
+188.166.18.87:80 - 503 Service Temporarily Unavailable
+89.37.65.92:80 - IIS Windows Server
+223.22.242.140:80 - 
+185.117.0.126:80 - თამაშების უფასო ჰოსტინგი | თამაშების უფასო ჰოსტინგი
+3.7.133.49:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+34.92.236.93:80 - 403 Forbidden
+139.162.90.197:80 - Заголовок не найден
+52.29.110.208:80 - Apache2 Ubuntu Default Page: It works
+107.173.204.220:80 - 503 Service Temporarily Unavailable
