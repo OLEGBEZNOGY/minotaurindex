@@ -404,3 +404,212 @@
 47.108.140.176:80 - Заголовок не найден
 81.169.149.174:80 - Default Parallels Plesk Panel Page
 108.156.117.223:80 - Заголовок не найден
+104.87.210.227:80 - Заголовок не найден
+104.73.11.57:80 - Заголовок не найден
+144.168.79.100:80 - 404 Not Found
+177.81.92.73:80 - RouterOS router configuration page
+18.170.222.151:80 - The Struggler - A Newsletter of the Holy Orthodox Church in North America
+127.100.140.4:80 - Apache2 Ubuntu Default Page: It works
+18.220.97.225:80 - Заголовок не найден
+2.22.98.236:80 - Заголовок не найден
+23.102.24.86:80 - Заголовок не найден
+173.236.241.235:80 - Site not found &middot; DreamHost
+154.204.136.50:80 - 404 Not Found
+104.19.160.103:80 - Direct IP access not allowed | Cloudflare
+3.163.43.5:80 - Заголовок не найден
+145.131.7.25:80 - Welcome to nginx!
+127.127.91.217:80 - Apache2 Ubuntu Default Page: It works
+127.183.74.75:80 - Apache2 Ubuntu Default Page: It works
+127.68.192.62:80 - Apache2 Ubuntu Default Page: It works
+127.241.184.213:80 - Apache2 Ubuntu Default Page: It works
+80.47.202.204:80 - .::Welcome to the Web-Based Configurator::.
+23.10.58.130:80 - Заголовок не найден
+127.126.234.118:80 - Apache2 Ubuntu Default Page: It works
+223.27.43.21:80 - Default Site
+127.108.105.116:80 - Apache2 Ubuntu Default Page: It works
+18.67.205.132:80 - Заголовок не найден
+108.129.6.63:80 - 404 Not Found
+127.32.21.20:80 - Apache2 Ubuntu Default Page: It works
+54.248.37.121:80 - Заголовок не найден
+104.49.236.155:80 - Заголовок не найден
+13.224.29.176:80 - Заголовок не найден
+3.7.92.255:80 - Apache2 Ubuntu Default Page: It works
+148.0.12.60:80 - 
+127.230.45.132:80 - Apache2 Ubuntu Default Page: It works
+85.140.44.61:80 - RouterOS router configuration page
+127.214.98.105:80 - Apache2 Ubuntu Default Page: It works
+143.95.240.229:80 - Web Server's Default Page
+192.177.152.79:80 - 403 Forbidden
+104.18.191.46:80 - Direct IP access not allowed | Cloudflare
+108.138.83.29:80 - Заголовок не найден
+127.104.80.51:80 - Apache2 Ubuntu Default Page: It works
+103.208.153.219:80 - Apache HTTP Server Test Page powered by CentOS
+127.186.30.123:80 - Apache2 Ubuntu Default Page: It works
+52.4.29.249:80 - Заголовок не найден
+13.233.129.87:80 - Welcome to nginx!
+95.100.220.12:80 - Заголовок не найден
+20.73.146.213:80 - Your Azure Function App is up and running.
+164.46.121.115:80 - 403 Forbidden ã¢ã¯ã»ã¹ãç¦æ­¢ããã¦ãã¾ã
+127.13.83.10:80 - Apache2 Ubuntu Default Page: It works
+183.102.132.236:80 - Brother MFC-J5910DW
+23.34.60.213:80 - Заголовок не найден
+127.4.236.184:80 - Apache2 Ubuntu Default Page: It works
+127.229.31.52:80 - Apache2 Ubuntu Default Page: It works
+67.9.184.217:80 - 
+89.161.193.185:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+104.17.96.173:80 - Direct IP access not allowed | Cloudflare
+179.52.81.174:80 - 
+85.215.117.161:80 - Web Server's Default Page
+79.107.145.230:80 - 
+103.87.255.203:80 - 
+173.174.42.91:80 - Default Site
+127.95.103.130:80 - Apache2 Ubuntu Default Page: It works
+127.202.203.122:80 - Apache2 Ubuntu Default Page: It works
+3.9.163.10:80 - Заголовок не найден
+127.110.242.18:80 - Apache2 Ubuntu Default Page: It works
+189.199.78.97:80 - Заголовок не найден
+38.156.9.169:80 - .::Welcome to the Web-Based Configurator::.
+31.44.219.212:80 - Заголовок не найден
+183.56.197.189:80 - Заголовок не найден
+181.24.6.218:80 - Заголовок не найден
+127.4.71.243:80 - Apache2 Ubuntu Default Page: It works
+147.182.162.103:80 - Заголовок не найден
+127.58.106.145:80 - Apache2 Ubuntu Default Page: It works
+190.166.158.147:80 - 
+127.220.141.199:80 - Apache2 Ubuntu Default Page: It works
+108.139.177.34:80 - Заголовок не найден
+81.137.233.177:80 - Document Moved
+127.225.253.119:80 - Apache2 Ubuntu Default Page: It works
+160.124.9.130:80 - 404 Not Found
+198.101.11.23:80 - Index of /
+38.6.121.202:80 - 404 Not Found
+20.97.215.61:80 - IIS Windows Server
+127.242.250.77:80 - Apache2 Ubuntu Default Page: It works
+127.105.57.81:80 - Apache2 Ubuntu Default Page: It works
+35.156.236.90:80 - 503 Service Temporarily Unavailable
+40.81.209.201:80 - Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
+23.218.130.74:80 - Заголовок не найден
+127.46.209.189:80 - Apache2 Ubuntu Default Page: It works
+122.200.250.52:80 - ControlPanel
+23.37.10.37:80 - Заголовок не найден
+209.10.16.105:80 - IIS7
+219.138.242.12:80 - SSL VPN安全网关
+127.210.184.245:80 - Apache2 Ubuntu Default Page: It works
+127.184.143.166:80 - Apache2 Ubuntu Default Page: It works
+173.232.13.164:80 - ERROR: The requested URL could not be retrieved
+127.240.4.37:80 - Apache2 Ubuntu Default Page: It works
+127.46.172.49:80 - Apache2 Ubuntu Default Page: It works
+195.43.190.172:80 - ACME Access Only
+54.183.38.201:80 - 403 Forbidden
+127.146.19.189:80 - Apache2 Ubuntu Default Page: It works
+127.104.131.85:80 - Apache2 Ubuntu Default Page: It works
+35.197.174.233:80 - 400 The plain HTTP request was sent to HTTPS port
+178.62.21.226:80 - Database Error
+193.149.164.173:80 - Welcome to nginx!
+127.77.170.25:80 - Apache2 Ubuntu Default Page: It works
+172.160.248.26:80 - Aimlearning project sites
+127.151.206.102:80 - Apache2 Ubuntu Default Page: It works
+47.74.137.21:80 - BeeLive
+65.8.227.194:80 - Заголовок не найден
+127.57.182.210:80 - Apache2 Ubuntu Default Page: It works
+18.161.213.25:80 - Заголовок не найден
+127.73.170.174:80 - Apache2 Ubuntu Default Page: It works
+213.133.104.30:80 - konsoleH :: Login
+83.136.17.23:80 - Weerdenburg Web Works
+127.9.234.18:80 - Apache2 Ubuntu Default Page: It works
+127.238.98.29:80 - Apache2 Ubuntu Default Page: It works
+154.212.47.214:80 - 404 Not Found
+185.236.79.236:80 - doctors-consultation - 	Медичний Коридор: Онлайн-ресурс для здоров'я та медичних консультацій
+127.65.247.34:80 - Apache2 Ubuntu Default Page: It works
+45.65.212.37:80 - Error 404 (Not Found)!!1
+104.112.1.225:80 - Заголовок не найден
+23.47.245.238:80 - Заголовок не найден
+127.118.74.53:80 - Apache2 Ubuntu Default Page: It works
+85.229.209.153:80 - Заголовок не найден
+45.81.229.118:80 - Заголовок не найден
+175.211.16.232:80 - 
+49.12.44.102:80 - TYPO3 Exception
+103.241.183.213:80 - e-Visa - Login
+154.31.235.188:80 - 404 Not Found
+202.154.63.42:80 - 401 Unauthorized
+127.165.98.85:80 - Apache2 Ubuntu Default Page: It works
+107.172.113.89:80 - 403 Forbidden
+94.114.43.248:80 - Заголовок не найден
+66.171.252.250:80 - Redirecting
+150.238.253.90:80 - Заголовок не найден
+127.168.49.174:80 - Apache2 Ubuntu Default Page: It works
+64.233.193.211:80 - Connection denied by Geolocation
+185.233.188.6:80 - 404 Not Found
+127.9.254.19:80 - Apache2 Ubuntu Default Page: It works
+209.235.128.213:80 - Заголовок не найден
+127.248.82.94:80 - Apache2 Ubuntu Default Page: It works
+45.159.248.73:80 - 401 Authorization Required
+109.132.120.121:80 - Заголовок не найден
+185.128.80.98:80 - 
+127.113.129.113:80 - Apache2 Ubuntu Default Page: It works
+127.145.252.133:80 - Apache2 Ubuntu Default Page: It works
+178.128.88.175:80 - 404 Not Found
+127.255.1.103:80 - Apache2 Ubuntu Default Page: It works
+127.201.169.216:80 - Apache2 Ubuntu Default Page: It works
+127.237.90.167:80 - Apache2 Ubuntu Default Page: It works
+218.92.130.97:80 - 401 Authorization Required
+18.176.95.84:80 - 503 Service Temporarily Unavailable
+127.175.234.211:80 - Apache2 Ubuntu Default Page: It works
+23.10.229.251:80 - Заголовок не найден
+38.55.225.193:80 - 404 Not Found
+186.139.55.9:80 - 
+18.64.164.239:80 - Заголовок не найден
+3.122.205.30:80 - 403 Forbidden
+18.166.39.161:80 - Document
+127.88.104.49:80 - Apache2 Ubuntu Default Page: It works
+170.130.98.51:80 - 403 Forbidden
+85.96.242.234:80 - 
+192.151.232.111:80 - IIS7
+127.76.27.224:80 - Apache2 Ubuntu Default Page: It works
+14.38.149.244:80 - Loading...
+127.69.67.245:80 - Apache2 Ubuntu Default Page: It works
+127.76.37.56:80 - Apache2 Ubuntu Default Page: It works
+107.12.186.21:80 - 
+108.156.216.50:80 - Заголовок не найден
+184.28.34.153:80 - Заголовок не найден
+195.211.225.103:80 - IIS Windows Server
+195.231.65.123:80 - NethServer Enterprise
+127.236.173.64:80 - Apache2 Ubuntu Default Page: It works
+127.136.65.239:80 - Apache2 Ubuntu Default Page: It works
+109.121.220.105:80 - 
+103.40.48.217:80 - Web Management Login
+103.154.160.86:80 - Document Error: Unauthorized
+23.51.1.77:80 - Заголовок не найден
+127.202.197.229:80 - Apache2 Ubuntu Default Page: It works
+127.51.90.249:80 - Apache2 Ubuntu Default Page: It works
+127.34.109.184:80 - Apache2 Ubuntu Default Page: It works
+127.74.225.141:80 - Apache2 Ubuntu Default Page: It works
+13.35.44.194:80 - Заголовок не найден
+92.61.97.8:80 - Заголовок не найден
+38.242.235.228:80 - Default Site
+127.123.24.90:80 - Apache2 Ubuntu Default Page: It works
+88.193.170.243:80 - Заголовок не найден
+23.195.58.48:80 - Заголовок не найден
+127.71.26.228:80 - Apache2 Ubuntu Default Page: It works
+130.255.37.146:80 - 403 Forbidden
+127.75.209.166:80 - Apache2 Ubuntu Default Page: It works
+35.133.49.48:80 - 
+122.54.147.86:80 - Hello! Welcome to Synology Web Station!
+127.153.107.144:80 - Apache2 Ubuntu Default Page: It works
+192.99.240.71:80 - Заголовок не найден
+151.101.58.226:80 - Fastly error: unknown domain 151.101.58.226
+104.22.25.47:80 - Direct IP access not allowed | Cloudflare
+192.177.154.33:80 - 403 Forbidden
+41.77.149.90:80 - 403 - Forbidden: Access is denied.
+45.79.187.32:80 - STARNET browser
+13.224.87.79:80 - Заголовок не найден
+127.95.154.192:80 - Apache2 Ubuntu Default Page: It works
+46.102.113.123:80 - 500 Internal Server Error
+63.134.230.163:80 - Заголовок не найден
+127.54.3.191:80 - Apache2 Ubuntu Default Page: It works
+127.55.19.177:80 - Apache2 Ubuntu Default Page: It works
+13.208.122.42:80 - Заголовок не найден
+203.86.233.83:80 - IIS Windows Server
+127.82.205.115:80 - Apache2 Ubuntu Default Page: It works
+15.190.56.8:80 - Заголовок не найден
+156.67.233.84:80 - 156.67.233.84
