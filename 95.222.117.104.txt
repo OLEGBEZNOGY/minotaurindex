@@ -1693,3 +1693,4 @@
 141.170.11.24:80 - 403 Forbidden
 130.51.180.228:80 - 403 Forbidden
 172.65.248.254:80 - Direct IP access not allowed | Cloudflare
+3.228.144.118:80 - Bad Request (400)
