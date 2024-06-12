@@ -204,3 +204,203 @@
 103.110.22.138:80 - 
 127.11.212.192:80 - Apache2 Ubuntu Default Page: It works
 217.182.200.78:80 - Заголовок не найден
+37.142.112.213:80 - 
+185.130.46.163:80 - Заголовок не найден
+196.245.216.210:80 - 407 Proxy Authentication Required
+184.26.152.83:80 - Заголовок не найден
+196.19.249.207:80 - 407 Proxy Authentication Required
+127.115.169.181:80 - Apache2 Ubuntu Default Page: It works
+127.56.130.131:80 - Apache2 Ubuntu Default Page: It works
+127.128.229.98:80 - Apache2 Ubuntu Default Page: It works
+149.210.32.189:80 - Заголовок не найден
+2.19.137.121:80 - Заголовок не найден
+50.238.225.134:80 - IIS7
+127.124.180.190:80 - Apache2 Ubuntu Default Page: It works
+85.192.32.40:80 - Welcome to nginx!
+69.230.213.180:80 - Заголовок не найден
+38.177.181.65:80 - æ­åï¼ç«ç¹åå»ºæåï¼
+151.236.194.33:80 - Заголовок не найден
+104.16.129.34:80 - Direct IP access not allowed | Cloudflare
+222.122.209.152:80 - Apache2 Ubuntu Default Page: It works
+198.143.39.26:80 - Заголовок не найден
+3.163.120.147:80 - Заголовок не найден
+206.233.248.44:80 - 404 Not Found
+162.240.57.39:80 - Заголовок не найден
+104.87.182.61:80 - Заголовок не найден
+23.193.252.164:80 - Заголовок не найден
+108.187.225.197:80 - æ²¡ææ¾å°ç«ç¹
+197.234.75.231:80 - Apache2 Ubuntu Default Page: It works
+202.229.134.88:80 - ããè±ã®æ°åºæº : ã¸ã£ãã³ãã©ã¯ã¼ã»ã¬ã¯ã·ã§ã³ï¼JFSï¼
+127.181.165.170:80 - Apache2 Ubuntu Default Page: It works
+102.141.67.55:80 - Заголовок не найден
+47.156.204.155:80 - Welcome to nginx!
+101.0.117.93:80 - 403 Forbidden
+127.236.209.19:80 - Apache2 Ubuntu Default Page: It works
+34.149.128.205:80 - Заголовок не найден
+5.32.12.74:80 - Заголовок не найден
+18.161.80.40:80 - Заголовок не найден
+92.8.209.179:80 - Заголовок не найден
+23.201.137.182:80 - Заголовок не найден
+35.168.129.61:80 - SonarQube
+127.206.210.251:80 - Apache2 Ubuntu Default Page: It works
+3.164.109.4:80 - Заголовок не найден
+185.226.39.51:80 - Заголовок не найден
+212.85.109.189:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+127.99.204.195:80 - Apache2 Ubuntu Default Page: It works
+27.109.129.241:80 - WEB SERVICE
+131.246.89.13:80 - Заголовок не найден
+202.179.141.225:80 - Заголовок не найден
+201.15.99.90:80 - 
+165.140.54.75:80 - Заголовок не найден
+104.74.189.248:80 - Заголовок не найден
+112.153.45.142:80 - BioStar 2
+212.66.193.51:80 - Helpdesk - Dashboard
+222.117.95.176:80 - Hello! Welcome to Synology Web Station!
+40.73.4.136:80 - IIS Windows Server
+38.63.166.173:80 - Welcome to nginx!
+127.147.84.211:80 - Apache2 Ubuntu Default Page: It works
+125.211.197.44:80 - Заголовок не найден
+108.156.50.147:80 - Заголовок не найден
+196.51.248.144:80 - ERROR: The requested URL could not be retrieved
+127.41.201.150:80 - Apache2 Ubuntu Default Page: It works
+52.28.249.30:80 - Заголовок не найден
+116.203.211.253:80 - Заголовок не найден
+156.251.141.236:80 - 403 Forbidden
+127.18.105.218:80 - Apache2 Ubuntu Default Page: It works
+127.0.109.114:80 - Apache2 Ubuntu Default Page: It works
+66.228.58.116:80 - 404 Not Found
+38.162.65.29:80 - 403 Forbidden
+52.85.22.5:80 - Заголовок не найден
+190.219.146.43:80 - 
+34.105.75.213:80 - Welcome to nginx!
+47.240.16.130:80 - 403 Forbidden
+206.54.170.78:80 - Welcome to nginx!
+5.9.186.140:80 - Заголовок не найден
+104.94.69.169:80 - Заголовок не найден
+95.164.68.146:80 - Заголовок не найден
+104.24.211.192:80 - Direct IP access not allowed | Cloudflare
+170.72.92.140:80 - Заголовок не найден
+154.86.67.67:80 - 404 Not Found
+184.75.58.218:80 - 403 - Forbidden: Access is denied.
+127.87.118.146:80 - Apache2 Ubuntu Default Page: It works
+127.117.185.69:80 - Apache2 Ubuntu Default Page: It works
+104.104.146.201:80 - Заголовок не найден
+156.254.185.203:80 - 404 Not Found
+127.207.73.63:80 - Apache2 Ubuntu Default Page: It works
+127.248.149.20:80 - Apache2 Ubuntu Default Page: It works
+104.140.127.42:80 - 403 Forbidden
+127.243.138.215:80 - Apache2 Ubuntu Default Page: It works
+45.43.207.248:80 - 404 Not Found
+13.235.128.93:80 - Заголовок не найден
+127.244.122.221:80 - Apache2 Ubuntu Default Page: It works
+127.35.97.164:80 - Apache2 Ubuntu Default Page: It works
+127.75.32.146:80 - Apache2 Ubuntu Default Page: It works
+60.190.243.229:80 - Заголовок не найден
+186.129.218.98:80 - Заголовок не найден
+109.34.160.123:80 - Login
+23.59.205.19:80 - Заголовок не найден
+92.122.24.158:80 - Заголовок не найден
+57.153.32.111:80 - Заголовок не найден
+127.91.83.10:80 - Apache2 Ubuntu Default Page: It works
+104.106.42.112:80 - Заголовок не найден
+120.241.84.60:80 - 404 Not Found
+23.199.242.172:80 - Заголовок не найден
+127.237.83.137:80 - Apache2 Ubuntu Default Page: It works
+23.193.121.55:80 - Заголовок не найден
+38.177.197.195:80 - 404 Not Found
+127.89.240.40:80 - Apache2 Ubuntu Default Page: It works
+127.9.112.231:80 - Apache2 Ubuntu Default Page: It works
+206.2.169.49:80 - Заголовок не найден
+104.85.129.75:80 - Заголовок не найден
+127.229.144.230:80 - Apache2 Ubuntu Default Page: It works
+99.86.80.82:80 - Заголовок не найден
+127.151.46.224:80 - Apache2 Ubuntu Default Page: It works
+157.255.170.224:80 - Заголовок не найден
+89.161.198.169:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+18.65.237.118:80 - Заголовок не найден
+127.205.156.31:80 - Apache2 Ubuntu Default Page: It works
+111.106.238.113:80 - HITACHI Management
+52.73.247.240:80 - 404 Not Found
+127.162.145.183:80 - Apache2 Ubuntu Default Page: It works
+127.119.35.93:80 - Apache2 Ubuntu Default Page: It works
+23.40.165.191:80 - Заголовок не найден
+127.229.40.8:80 - Apache2 Ubuntu Default Page: It works
+40.69.192.32:80 - Заголовок не найден
+23.198.161.49:80 - Заголовок не найден
+45.76.251.133:80 - Unknown Domain
+57.153.11.32:80 - 404 Not Found
+52.222.185.0:80 - Заголовок не найден
+4.245.84.21:80 - Your Azure Function App is up and running.
+74.208.74.238:80 - Заголовок не найден
+122.176.92.74:80 - 
+99.86.225.182:80 - Заголовок не найден
+23.213.249.217:80 - Заголовок не найден
+23.223.186.38:80 - Заголовок не найден
+93.95.59.219:80 - Заголовок не найден
+149.248.35.22:80 - Заголовок не найден
+38.28.134.144:80 - Welcome to nginx!
+39.105.51.51:80 - ç½ç«è®¿é®æ¥é
+3.66.20.249:80 - Create Next App
+185.61.152.36:80 - Заголовок не найден
+127.12.112.105:80 - Apache2 Ubuntu Default Page: It works
+40.121.70.193:80 - Sign in · GitLab
+66.117.5.191:80 - Заголовок не найден
+123.51.196.6:80 - Apache2 Ubuntu Default Page: It works
+106.52.231.229:80 - æ²¡ææ¾å°ç«ç¹
+20.231.193.99:80 - Acceso Web
+89.248.198.92:80 - PHP 7.4.33 - phpinfo()
+27.123.238.108:80 - 403 Forbidden
+18.245.125.145:80 - Заголовок не найден
+127.89.137.101:80 - Apache2 Ubuntu Default Page: It works
+34.92.82.212:80 - Home | å¤ªæä½¿ç¨ææ¡£
+134.209.98.192:80 - 404 Not Found
+91.41.245.223:80 - index
+127.102.246.105:80 - Apache2 Ubuntu Default Page: It works
+117.240.228.68:80 - INFLIBNET Centre Gandhinagar
+45.175.233.43:80 - IIS Windows Server
+127.165.34.252:80 - Apache2 Ubuntu Default Page: It works
+200.196.224.105:80 - Заголовок не найден
+135.181.109.198:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+109.99.132.189:80 - Заголовок не найден
+127.118.250.225:80 - Apache2 Ubuntu Default Page: It works
+70.32.29.134:80 - 
+191.82.73.103:80 - Заголовок не найден
+3.130.193.119:80 - Swagger UI
+109.104.199.240:80 - 
+77.220.204.70:80 - Заголовок не найден
+34.69.211.164:80 - Site Not Configured | 404 Not Found
+220.79.123.46:80 - Заголовок не найден
+127.65.23.22:80 - Apache2 Ubuntu Default Page: It works
+127.139.108.44:80 - Apache2 Ubuntu Default Page: It works
+124.253.233.43:80 - content
+202.208.166.14:80 - 403 Forbidden
+152.179.104.74:80 - RouterOS router configuration page
+20.64.184.157:80 - Azure Container App - Unavailable
+172.169.103.81:80 - Заголовок не найден
+51.68.144.27:80 - 403 Forbidden
+92.123.165.50:80 - Заголовок не найден
+148.101.55.96:80 - 
+34.140.87.91:80 - Mitsubishi | Explore branded merchandise for any occasion.
+23.11.140.234:80 - Заголовок не найден
+188.128.165.250:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+65.8.236.50:80 - Заголовок не найден
+127.83.101.222:80 - Apache2 Ubuntu Default Page: It works
+127.245.9.113:80 - Apache2 Ubuntu Default Page: It works
+127.183.224.90:80 - Apache2 Ubuntu Default Page: It works
+127.10.116.232:80 - Apache2 Ubuntu Default Page: It works
+2.21.147.207:80 - Заголовок не найден
+136.146.28.106:80 - Unable to Process Request
+192.240.190.142:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+127.207.116.138:80 - Apache2 Ubuntu Default Page: It works
+18.164.34.147:80 - Заголовок не найден
+127.58.166.51:80 - Apache2 Ubuntu Default Page: It works
+127.17.206.90:80 - Apache2 Ubuntu Default Page: It works
+178.239.121.242:80 - Please wait, the page is opening...
+186.115.202.149:80 - IIS Windows Server
+104.234.65.80:80 - Welcome to XAMPP
+23.198.77.239:80 - Заголовок не найден
+3.129.33.160:80 - 403 Forbidden
+3.91.114.104:80 - Заголовок не найден
+47.108.140.176:80 - Заголовок не найден
+81.169.149.174:80 - Default Parallels Plesk Panel Page
+108.156.117.223:80 - Заголовок не найден
