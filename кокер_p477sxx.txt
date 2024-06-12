@@ -1,0 +1,28 @@
+58.187.8.2:80 - Заголовок не найден
+202.107.197.12:80 - 403
+150.254.69.254:80 - Pracownia Pytań Granicznych UAM
+104.160.8.146:80 - 407 Proxy Authentication Required
+38.11.145.88:80 - Заголовок не найден
+23.38.130.143:80 - Заголовок не найден
+204.14.84.176:80 - Build Your Web Site with Website2Go - Website Builder, Domain Name, Web Hosting and Email
+45.204.88.107:80 - 404 Not Found
+83.78.67.19:80 - 
+3.108.141.120:80 - 503 Service Temporarily Unavailable
+23.73.126.134:80 - Заголовок не найден
+13.51.27.140:80 - 404 Not Found
+47.110.81.167:80 - 404 Not Found
+20.24.78.168:80 - IIS Windows Server
+23.43.158.158:80 - Заголовок не найден
+63.195.224.196:80 - AT&T WiFi Portal
+162.215.98.191:80 - Not Acceptable!
+111.12.187.87:80 - Заголовок не найден
+103.169.54.140:80 - Please wait, the login page is opening...
+87.74.110.98:80 - .::Welcome to the Web-Based Configurator::.
+103.85.227.147:80 - 403 Forbidden
+20.126.208.112:80 - Заголовок не найден
+38.48.207.117:80 - Sorry, the website has been stopped
+18.238.125.132:80 - Заголовок не найден
+189.15.28.230:80 - index
+51.8.252.113:80 - Заголовок не найден
+196.240.237.237:80 - 407 Proxy Authentication Required
+104.90.243.49:80 - Заголовок не найден
