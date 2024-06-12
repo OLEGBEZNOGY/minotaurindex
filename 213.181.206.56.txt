@@ -21719,3 +21719,126 @@
 63.141.230.30:80 - 403 - ½ûÖ¹·ÃÎÊ: ·ÃÎÊ±»¾Ü¾ø¡£
 23.82.178.139:80 - Заголовок не найден
 127.129.148.70:80 - Welcome to XAMPP
+127.13.98.121:80 - Welcome to XAMPP
+67.59.146.104:80 - Заголовок не найден
+78.36.6.105:80 - Authentication Required
+212.224.107.131:80 - 404 Not Found
+18.172.199.81:80 - Заголовок не найден
+127.57.87.175:80 - Welcome to XAMPP
+23.49.119.156:80 - Заголовок не найден
+127.162.193.96:80 - Welcome to XAMPP
+203.206.254.117:80 - 
+18.67.61.77:80 - Заголовок не найден
+18.66.185.173:80 - Заголовок не найден
+127.126.116.14:80 - Welcome to XAMPP
+129.206.106.222:80 - Заголовок не найден
+127.200.21.171:80 - Welcome to XAMPP
+49.13.151.103:80 - 403 Forbidden
+13.234.147.3:80 - 503 Service Temporarily Unavailable
+127.120.160.123:80 - Welcome to XAMPP
+52.38.232.72:80 - Home - Align BI
+185.160.67.28:80 - Заголовок не найден
+54.233.249.254:80 - 403 Forbidden
+218.95.7.80:80 - 
+127.13.173.157:80 - Welcome to XAMPP
+127.0.83.83:80 - Welcome to XAMPP
+80.209.182.59:80 - Заголовок не найден
+193.218.201.74:80 - æ²¡ææ¾å°ç«ç¹
+164.155.251.129:80 - Заголовок не найден
+104.122.45.124:80 - Заголовок не найден
+217.182.254.52:80 - Apache HTTP Server Test Page powered by CentOS
+127.38.188.168:80 - Welcome to XAMPP
+127.185.126.178:80 - Welcome to XAMPP
+127.102.233.173:80 - Welcome to XAMPP
+127.100.197.23:80 - Welcome to XAMPP
+108.157.218.100:80 - Заголовок не найден
+128.65.53.59:80 - 
+127.70.163.137:80 - Welcome to XAMPP
+23.37.64.118:80 - Заголовок не найден
+201.226.239.110:80 - SIREXUP
+143.198.176.45:80 - 404 Not Found
+104.20.154.191:80 - Direct IP access not allowed | Cloudflare
+107.208.101.45:80 - 
+91.92.115.109:80 - RouterOS router configuration page
+127.136.114.86:80 - Welcome to XAMPP
+75.2.25.187:80 - 403 Forbidden
+216.116.26.188:80 - Perry Auto, Inc.
+124.222.152.188:80 - 易班集
+127.172.24.101:80 - Welcome to XAMPP
+127.20.103.162:80 - Welcome to XAMPP
+23.51.170.218:80 - Заголовок не найден
+156.44.36.76:80 - 403 - Forbidden: Access is denied.
+104.104.15.249:80 - Заголовок не найден
+127.137.213.102:80 - Welcome to XAMPP
+207.148.69.6:80 - Заголовок не найден
+144.76.194.238:80 - 404 Not Found
+127.214.132.223:80 - Welcome to XAMPP
+153.120.11.72:80 - RaQuPo
+127.18.101.152:80 - Welcome to XAMPP
+59.0.16.179:80 - LG ACP
+127.5.41.11:80 - Welcome to XAMPP
+127.65.108.219:80 - Welcome to XAMPP
+199.48.94.218:80 - Apache2 Debian Default Page: It works
+127.52.157.133:80 - Welcome to XAMPP
+184.24.239.209:80 - Заголовок не найден
+52.157.11.130:80 - Заголовок не найден
+174.3.225.15:80 - Rutherford Research
+127.101.135.47:80 - Welcome to XAMPP
+186.132.166.115:80 - Заголовок не найден
+35.160.101.217:80 - Заголовок не найден
+139.129.161.191:80 - Welcome to nginx!
+52.58.80.136:80 - Заголовок не найден
+127.41.73.226:80 - Welcome to XAMPP
+54.72.246.169:80 - Netmedia Business Solutions Ltd: Future Site
+127.239.198.206:80 - Welcome to XAMPP
+38.170.132.44:80 - ERROR: The requested URL could not be retrieved
+186.227.255.25:80 - Welcome to nginx!
+127.28.16.202:80 - Welcome to XAMPP
+143.125.246.151:80 - Заголовок не найден
+116.121.228.60:80 - 
+70.150.27.60:80 - New Customers - Smith Drug Company
+52.2.173.19:80 - Home - Certificação Linux
+154.202.176.114:80 - Заголовок не найден
+104.161.26.67:80 - ä¸­å½æ°é»ç½_æ¢³çå¤©ä¸æ°é»
+127.167.183.180:80 - Welcome to XAMPP
+178.77.77.155:80 - Web Server's Default Page
+127.128.18.103:80 - Welcome to XAMPP
+127.85.201.79:80 - Welcome to XAMPP
+47.241.95.38:80 - 404 not found
+62.210.137.166:80 - ERROR: The requested URL could not be retrieved
+63.197.89.21:80 - AT&T WiFi Portal
+13.200.196.79:80 - Apache2 Ubuntu Default Page: It works
+127.182.215.54:80 - Welcome to XAMPP
+212.64.36.22:80 - 403 Forbidden
+127.88.159.148:80 - Welcome to XAMPP
+45.195.56.160:80 - 503 Service Temporarily Unavailable
+175.210.237.25:80 - Заголовок не найден
+23.47.244.208:80 - Заголовок не найден
+3.165.243.117:80 - Заголовок не найден
+47.248.232.119:80 - 
+127.221.183.39:80 - Welcome to XAMPP
+104.19.34.133:80 - Direct IP access not allowed | Cloudflare
+158.199.185.223:80 - ControlPanel
+222.122.82.217:80 - IIS Windows Server
+13.224.61.234:80 - Заголовок не найден
+23.192.76.233:80 - Заголовок не найден
+77.159.196.213:80 - 500 - Erreur interne au serveur.
+134.209.46.160:80 - Заголовок не найден
+142.229.235.21:80 - Заголовок не найден
+211.23.153.89:80 - Заголовок не найден
+35.197.114.7:80 - 503 Service Temporarily Unavailable
+39.107.100.241:80 - 网站建设中，敬请期待...
+34.160.187.20:80 - Google
+71.40.121.14:80 - Заголовок не найден
+127.22.151.188:80 - Welcome to XAMPP
+127.17.142.99:80 - Welcome to XAMPP
+127.214.35.110:80 - Welcome to XAMPP
+112.166.181.111:80 - 
+127.203.184.195:80 - Welcome to XAMPP
+192.9.228.201:80 - 404 Not Found
+203.71.63.151:80 - IIS Windows Server
+127.171.246.231:80 - Welcome to XAMPP
+207.246.107.111:80 - 404 Not Found
+52.219.199.68:80 - Amazon S3 - Cloud Object Storage  - AWS
+127.252.180.125:80 - Welcome to XAMPP
+18.244.223.49:80 - Заголовок не найден
