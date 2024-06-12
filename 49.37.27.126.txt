@@ -333,3 +333,8 @@
 194.76.118.184:80 - Server Backup Manager SE  - r1soft10.keliweb.it
 64.33.7.181:80 - [Ç§¾Ú¥¨¥é¡¼]
 91.197.250.45:80 - IIS Windows Server
+193.175.5.37:80 - Apache2 Ubuntu Default Page: It works
+37.152.151.236:80 - 
+104.103.87.92:80 - Заголовок не найден
+13.210.30.55:80 - 503 Service Temporarily Unavailable
+52.40.254.113:80 - Заголовок не найден
