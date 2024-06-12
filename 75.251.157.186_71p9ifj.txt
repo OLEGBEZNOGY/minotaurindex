@@ -249,3 +249,39 @@
 23.253.138.231:80 - Заголовок не найден
 83.136.187.72:80 - Заголовок не найден
 5.135.54.143:80 - Welcome to nginx!
+123.207.60.202:80 - Error
+47.123.115.98:80 - Заголовок не найден
+102.134.123.11:80 - 403 - Forbidden: Access is denied.
+37.187.121.14:80 - Welcome to nginx!
+5.76.82.233:80 - GPON Home Gateway
+104.85.230.52:80 - Заголовок не найден
+195.78.46.56:80 - Anmelden – MI Mediacloud
+138.201.56.37:80 - Welcome to nginx!
+104.252.249.168:80 - 403 Forbidden
+72.246.30.8:80 - Заголовок не найден
+143.95.224.186:80 - Web Server's Default Page
+218.201.143.10:80 - Заголовок не найден
+216.119.90.209:80 - Заголовок не найден
+18.165.158.254:80 - Заголовок не найден
+72.52.121.27:80 - PCS Engineering
+52.169.220.132:80 - Microsoft Azure Web App - Error 404
+90.64.196.43:80 - Welcome to nginx!
+182.79.28.12:80 - Notification: Proxy Authorization Required
+74.205.26.15:80 - Site coming soon
+80.51.235.37:80 - Заголовок не найден
+205.134.250.228:80 - Default Web Page
+185.158.104.19:80 - 407 Proxy Authentication Required
+3.133.118.69:80 - NGINX Open Source packaged by Bitnami
+154.36.138.217:80 - 404 Not Found
+23.218.71.127:80 - Заголовок не найден
+45.154.237.209:80 - Заголовок не найден
+195.67.69.66:80 - Apache2 Ubuntu Default Page: It works
+51.11.200.39:80 - Your Azure Function App is up and running.
+52.139.17.235:80 - TURN AROUND!
+182.16.17.106:80 - 403 Forbidden
+66.147.241.113:80 - Not Acceptable!
+4.158.40.88:80 - Заголовок не найден
+18.155.107.234:80 - Заголовок не найден
+125.214.171.0:80 - 403 Forbidden
+130.233.248.94:80 - Laboratory of Process Control and Automation -Main Page
+23.44.184.16:80 - Заголовок не найден
