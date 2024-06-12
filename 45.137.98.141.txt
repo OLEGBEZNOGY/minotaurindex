@@ -11147,3 +11147,44 @@
 120.24.79.230:80 - Заголовок не найден
 96.17.209.86:80 - Заголовок не найден
 3.90.147.140:80 - Bitnami Node.js
+123.6.104.128:80 - Заголовок не найден
+127.73.125.130:80 - Welcome to XAMPP
+199.181.197.11:80 - Direct IP access not allowed | Cloudflare
+127.202.89.36:80 - Welcome to XAMPP
+52.231.70.221:80 - Заголовок не найден
+127.138.163.132:80 - Welcome to XAMPP
+8.140.170.249:80 - IIS7
+12.189.137.19:80 - 
+18.244.103.160:80 - Заголовок не найден
+127.106.61.239:80 - Welcome to XAMPP
+120.92.210.189:80 - 403 Forbidden
+82.146.44.161:80 - Мебель и оборудование для дома и бизнеса | Компания Оникс
+198.41.220.173:80 - Direct IP access not allowed | Cloudflare
+127.90.220.230:80 - Welcome to XAMPP
+127.159.75.14:80 - Welcome to XAMPP
+23.62.248.252:80 - Заголовок не найден
+127.206.46.161:80 - Welcome to XAMPP
+127.38.213.190:80 - Welcome to XAMPP
+174.138.110.139:80 - Default Site
+23.217.165.34:80 - Заголовок не найден
+127.178.251.33:80 - Welcome to XAMPP
+57.151.10.147:80 - 404 Not Found
+125.141.144.235:80 - 503 Service Unavailable
+127.87.80.143:80 - Welcome to XAMPP
+128.65.209.4:80 - 403 Forbidden
+211.97.81.158:80 - Заголовок не найден
+127.114.232.12:80 - Welcome to XAMPP
+35.82.45.56:80 - Apache Tomcat/9.0.75
+127.92.6.217:80 - Welcome to XAMPP
+128.199.190.172:80 - Web Server's Default Page
+127.103.54.170:80 - Welcome to XAMPP
+173.232.45.32:80 - 403 Forbidden
+89.116.44.178:80 - Default Page
+118.195.244.125:80 - åççåº·äºç®¡çç³»ç»
+23.45.35.119:80 - Заголовок не найден
+127.223.49.216:80 - Welcome to XAMPP
+127.139.195.128:80 - Welcome to XAMPP
+18.155.50.166:80 - Заголовок не найден
+184.85.63.107:80 - Заголовок не найден
+51.91.101.127:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+89.161.218.1:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
