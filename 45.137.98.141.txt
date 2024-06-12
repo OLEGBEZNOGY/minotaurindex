@@ -4292,3 +4292,10 @@
 127.47.178.184:80 - Welcome to XAMPP
 82.109.64.129:80 - OneAccess WCF
 192.121.225.97:80 - Parent - 80.248.225.246
+45.192.92.227:80 - 403 Forbidden
+127.214.196.127:80 - Welcome to XAMPP
+34.205.36.37:80 - Заголовок не найден
+127.98.227.237:80 - Welcome to XAMPP
+127.238.76.74:80 - Welcome to XAMPP
+127.233.206.190:80 - Welcome to XAMPP
+127.42.217.71:80 - Welcome to XAMPP
