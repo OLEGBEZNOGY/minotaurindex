@@ -613,3 +613,205 @@
 127.82.205.115:80 - Apache2 Ubuntu Default Page: It works
 15.190.56.8:80 - Заголовок не найден
 156.67.233.84:80 - 156.67.233.84
+120.76.41.136:80 - 留言板
+104.18.245.14:80 - Direct IP access not allowed | Cloudflare
+108.142.36.85:80 - Azure Container App - Unavailable
+127.44.148.59:80 - Apache2 Ubuntu Default Page: It works
+172.169.190.163:80 - Your Azure Function App is up and running.
+127.223.126.174:80 - Apache2 Ubuntu Default Page: It works
+127.79.2.35:80 - Apache2 Ubuntu Default Page: It works
+127.147.181.0:80 - Apache2 Ubuntu Default Page: It works
+112.127.140.237:80 - ç½ç«è®¿é®æ¥é
+23.96.194.96:80 - Заголовок не найден
+127.70.254.72:80 - Apache2 Ubuntu Default Page: It works
+124.160.26.139:80 - 404 Not Found
+138.68.116.239:80 - Заголовок не найден
+185.96.148.242:80 - Powered by lighttpd
+54.70.50.212:80 - Заголовок не найден
+111.2.179.249:80 - 403 Forbidden
+82.165.152.19:80 - Заголовок не найден
+201.96.151.30:80 - Заголовок не найден
+104.67.216.18:80 - Заголовок не найден
+127.211.245.114:80 - Apache2 Ubuntu Default Page: It works
+127.64.17.103:80 - Apache2 Ubuntu Default Page: It works
+18.155.151.221:80 - Заголовок не найден
+3.162.20.101:80 - Заголовок не найден
+38.170.9.215:80 - ERROR: The requested URL could not be retrieved
+148.0.12.187:80 - 
+108.139.177.77:80 - Заголовок не найден
+127.55.108.3:80 - Apache2 Ubuntu Default Page: It works
+142.251.128.164:80 - Google
+23.42.66.5:80 - Заголовок не найден
+127.246.21.14:80 - Apache2 Ubuntu Default Page: It works
+127.24.1.180:80 - Apache2 Ubuntu Default Page: It works
+93.114.65.242:80 - Direct IP access not allowed | Cloudflare
+172.217.10.119:80 - Google
+127.60.239.186:80 - Apache2 Ubuntu Default Page: It works
+154.213.156.110:80 - 403 Forbidden
+20.190.98.122:80 - Заголовок не найден
+89.216.55.153:80 - Welcome to nginx!
+159.65.203.187:80 - kartashev.me
+54.188.111.243:80 - Заголовок не найден
+18.160.127.145:80 - Заголовок не найден
+157.25.159.115:80 - WEB SERVICE
+185.109.43.90:80 - 403 Forbidden
+94.74.166.169:80 - 
+127.247.172.66:80 - Apache2 Ubuntu Default Page: It works
+34.200.173.130:80 - Authorization
+104.22.30.207:80 - Direct IP access not allowed | Cloudflare
+61.218.138.208:80 - IIS Windows Server
+20.53.150.243:80 - Azure Container App - Unavailable
+23.196.9.71:80 - Заголовок не найден
+23.210.41.108:80 - Заголовок не найден
+54.189.136.125:80 - YourBrand
+140.238.47.241:80 - æ²¡ææ¾å°ç«ç¹
+127.237.169.223:80 - Apache2 Ubuntu Default Page: It works
+87.8.188.146:80 - 
+23.225.36.230:80 - è·³è½¬ä¸­
+2.18.220.122:80 - Заголовок не найден
+20.233.238.174:80 - Your Azure Function App is up and running.
+35.154.254.64:80 - HQ Auto Patch
+211.62.73.73:80 - webpackSPA
+51.250.78.242:80 - Sign in · GitLab
+127.91.33.48:80 - Apache2 Ubuntu Default Page: It works
+172.245.58.216:80 - ERROR: The requested URL could not be retrieved
+160.202.81.249:80 - 404 Not Found
+127.64.79.148:80 - Apache2 Ubuntu Default Page: It works
+127.62.18.188:80 - Apache2 Ubuntu Default Page: It works
+127.75.185.95:80 - Apache2 Ubuntu Default Page: It works
+127.111.22.208:80 - Apache2 Ubuntu Default Page: It works
+185.6.88.130:80 - Espansione IP Vedo
+219.231.156.147:80 - 404 Not Found
+178.62.197.200:80 - Home - Best Holidays
+93.127.67.241:80 - Title
+86.65.79.203:80 - Заголовок не найден
+195.29.198.98:80 - IIS Windows Server
+127.142.123.113:80 - Apache2 Ubuntu Default Page: It works
+23.55.200.50:80 - Заголовок не найден
+35.198.48.77:80 - Заголовок не найден
+127.28.223.215:80 - Apache2 Ubuntu Default Page: It works
+18.165.115.70:80 - Заголовок не найден
+52.45.219.81:80 - Sample "Hello, World" Application
+127.245.184.31:80 - Apache2 Ubuntu Default Page: It works
+23.51.197.33:80 - Заголовок не найден
+127.147.6.28:80 - Apache2 Ubuntu Default Page: It works
+127.151.5.31:80 - Apache2 Ubuntu Default Page: It works
+23.8.38.33:80 - Заголовок не найден
+23.12.26.146:80 - Заголовок не найден
+88.221.78.28:80 - Заголовок не найден
+207.60.40.40:80 - 404 Not Found
+127.69.87.59:80 - Apache2 Ubuntu Default Page: It works
+184.29.135.241:80 - Заголовок не найден
+91.218.229.44:80 - Index of /
+213.202.126.178:80 - Заголовок не найден
+14.41.167.184:80 - Заголовок не найден
+18.245.197.214:80 - Заголовок не найден
+127.80.113.58:80 - Apache2 Ubuntu Default Page: It works
+104.100.47.217:80 - Заголовок не найден
+133.242.144.203:80 - 503 Service Temporarily Unavailable
+102.215.103.205:80 - 500 Internal Server Error
+162.240.1.143:80 - Заголовок не найден
+66.168.250.12:80 - 
+23.218.185.62:80 - Заголовок не найден
+127.112.168.98:80 - Apache2 Ubuntu Default Page: It works
+20.31.233.217:80 - Заголовок не найден
+78.47.95.25:80 - Welcome to nginx!
+3.229.84.107:80 - Welcome to your Strapi app
+23.203.39.234:80 - Заголовок не найден
+20.74.142.143:80 - 404 Not Found
+23.231.106.176:80 - 403 Forbidden
+127.115.190.221:80 - Apache2 Ubuntu Default Page: It works
+104.87.161.21:80 - Заголовок не найден
+127.74.206.47:80 - Apache2 Ubuntu Default Page: It works
+23.94.131.67:80 - Uptime Kuma
+127.179.63.245:80 - Apache2 Ubuntu Default Page: It works
+47.113.107.166:80 - 404 Not Found
+119.167.143.18:80 - Заголовок не найден
+103.23.108.101:80 - Заголовок не найден
+127.234.166.240:80 - Apache2 Ubuntu Default Page: It works
+179.52.51.158:80 - 
+89.244.135.35:80 - 403 Forbidden
+94.237.80.233:80 - Welcome to nginx!
+44.207.27.215:80 - Заголовок не найден
+173.44.210.78:80 - 404 Not Found
+127.109.244.35:80 - Apache2 Ubuntu Default Page: It works
+113.191.23.106:80 - 
+127.237.239.81:80 - Apache2 Ubuntu Default Page: It works
+13.57.171.98:80 - Заголовок не найден
+127.105.137.228:80 - Apache2 Ubuntu Default Page: It works
+127.163.58.223:80 - Apache2 Ubuntu Default Page: It works
+23.202.138.88:80 - Заголовок не найден
+23.192.4.16:80 - Заголовок не найден
+159.65.252.20:80 - Welcome to nginx!
+18.165.107.80:80 - Заголовок не найден
+127.248.114.108:80 - Apache2 Ubuntu Default Page: It works
+127.50.80.85:80 - Apache2 Ubuntu Default Page: It works
+35.188.25.103:80 - Welcome to nginx!
+127.210.84.97:80 - Apache2 Ubuntu Default Page: It works
+127.182.181.46:80 - Apache2 Ubuntu Default Page: It works
+104.68.7.210:80 - Заголовок не найден
+52.244.245.37:80 - Your Azure Function App is up and running.
+23.47.90.46:80 - Заголовок не найден
+23.6.207.77:80 - Заголовок не найден
+156.224.156.85:80 - Welcome to nginx!
+68.182.246.60:80 - Заголовок не найден
+104.238.144.222:80 - Site is undergoing maintenance
+54.190.151.110:80 - Заголовок не найден
+127.196.227.26:80 - Apache2 Ubuntu Default Page: It works
+76.139.55.138:80 - 
+44.236.241.159:80 - Login
+154.220.27.11:80 - 404 Not Found
+61.58.234.3:80 - DVR
+127.127.23.58:80 - Apache2 Ubuntu Default Page: It works
+60.210.8.184:80 - Заголовок не найден
+67.7.167.79:80 - Instant WiFi
+52.85.137.116:80 - Заголовок не найден
+127.165.137.53:80 - Apache2 Ubuntu Default Page: It works
+104.239.206.120:80 - Apache HTTP Server Test Page powered by CentOS
+127.184.117.68:80 - Apache2 Ubuntu Default Page: It works
+3.16.140.221:80 - CoVest
+79.137.69.202:80 - Welcome to nginx!
+45.135.235.157:80 - Direct IP access not allowed | Cloudflare
+195.62.14.12:80 - Підключити Інтернет, кабельне телебачення, телефон в Кропивницкому та Олександрії | Shtorm
+172.82.140.217:80 - 404 Not Found
+101.53.128.140:80 - Заголовок не найден
+216.36.239.10:80 - Заголовок не найден
+127.114.205.17:80 - Apache2 Ubuntu Default Page: It works
+127.70.66.58:80 - Apache2 Ubuntu Default Page: It works
+127.171.247.18:80 - Apache2 Ubuntu Default Page: It works
+108.138.133.220:80 - Заголовок не найден
+104.100.34.91:80 - Заголовок не найден
+195.4.162.28:80 - Fehler: Web Access für Remotedesktop kann nicht angezeigt werden.
+127.215.44.96:80 - Apache2 Ubuntu Default Page: It works
+210.155.33.79:80 - Error
+52.204.60.58:80 - Заголовок не найден
+185.189.162.184:80 - Apache HTTP Server Test Page powered by CentOS
+127.175.226.83:80 - Apache2 Ubuntu Default Page: It works
+127.133.235.240:80 - Apache2 Ubuntu Default Page: It works
+45.207.48.103:80 - 404 Not Found
+127.178.131.133:80 - Apache2 Ubuntu Default Page: It works
+104.91.64.233:80 - Заголовок не найден
+2.17.175.210:80 - Заголовок не найден
+173.222.15.15:80 - Заголовок не найден
+104.102.108.248:80 - Заголовок не найден
+14.201.125.126:80 - 
+127.110.126.132:80 - Apache2 Ubuntu Default Page: It works
+38.152.130.176:80 - ERROR: The requested URL could not be retrieved
+185.47.40.190:80 - Munin :: Overview
+52.169.161.237:80 - Заголовок не найден
+105.69.214.238:80 - &#72;&#50;&#56;&#56;&#65;
+112.156.18.108:80 - Заголовок не найден
+222.143.140.121:80 - Заголовок не найден
+104.91.106.215:80 - Заголовок не найден
+142.171.173.238:80 - Welcome to nginx!
+39.97.157.161:80 - Заголовок не найден
+123.6.34.149:80 - 403 Forbidden
+127.159.113.156:80 - Apache2 Ubuntu Default Page: It works
+154.212.240.79:80 - Заголовок не найден
+171.102.12.124:80 - Заголовок не найден
+127.18.56.45:80 - Apache2 Ubuntu Default Page: It works
+127.9.58.209:80 - Apache2 Ubuntu Default Page: It works
+14.175.60.251:80 - 
+23.214.71.98:80 - Заголовок не найден
+127.133.69.249:80 - Apache2 Ubuntu Default Page: It works
+125.229.120.251:80 - 
