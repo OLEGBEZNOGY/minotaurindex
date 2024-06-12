@@ -14418,3 +14418,130 @@
 160.16.214.125:80 - Заголовок не найден
 113.163.4.20:80 - Заголовок не найден
 120.92.93.10:80 - Welcome to nginx!
+138.68.103.180:80 - Apache2 Ubuntu Default Page: It works
+190.153.142.242:80 - Opening...
+13.54.152.212:80 - Wowza Streaming Engine 4 Subscription Edition 4.7.6 build20180731190812
+127.61.161.85:80 - Welcome to XAMPP
+121.185.247.112:80 - CMS Web Viewer
+194.91.12.35:80 - Заголовок не найден
+3.162.219.149:80 - Заголовок не найден
+127.181.191.4:80 - Welcome to XAMPP
+18.239.174.250:80 - Заголовок не найден
+162.208.110.66:80 - Welcome to nginx!
+23.33.36.118:80 - Заголовок не найден
+23.197.55.13:80 - Заголовок не найден
+35.197.150.26:80 - Hệ thống chứng chỉ FUNiX
+209.34.197.125:80 - 
+127.246.158.111:80 - Welcome to XAMPP
+127.250.207.169:80 - Welcome to XAMPP
+102.140.90.139:80 - 404 Not Found
+104.71.252.159:80 - Заголовок не найден
+127.248.245.17:80 - Welcome to XAMPP
+24.124.30.157:80 - Заголовок не найден
+52.84.129.25:80 - Заголовок не найден
+127.33.48.167:80 - Welcome to XAMPP
+127.132.39.111:80 - Welcome to XAMPP
+173.0.146.62:80 - Заголовок не найден
+108.141.39.105:80 - Заголовок не найден
+127.83.34.7:80 - Welcome to XAMPP
+196.51.184.34:80 - ERROR: The requested URL could not be retrieved
+127.90.214.70:80 - Welcome to XAMPP
+127.149.98.87:80 - Welcome to XAMPP
+127.103.242.130:80 - Welcome to XAMPP
+139.59.205.6:80 - Web App solutions - SaaS platforms - GALSD Development
+54.151.165.92:80 - Welcome to nginx!
+87.120.137.250:80 - Please wait, the login page is opening...
+104.21.113.190:80 - Direct IP access not allowed | Cloudflare
+127.1.113.255:80 - Welcome to XAMPP
+193.107.68.53:80 - Default Web Site Page
+54.164.25.128:80 - Error
+127.17.221.228:80 - Welcome to XAMPP
+101.37.24.143:80 - CRMEB
+23.3.111.38:80 - Заголовок не найден
+89.108.84.126:80 - 404 Not Found
+44.204.64.254:80 - Web Site Not Found
+127.143.156.68:80 - Welcome to XAMPP
+5.251.148.43:80 - GPON Home Gateway
+158.36.121.251:80 - prosjekt.nmh.no
+18.213.187.165:80 - 502 Bad Gateway
+127.104.191.159:80 - Welcome to XAMPP
+127.112.166.150:80 - Welcome to XAMPP
+129.80.74.143:80 - Dónde comprar criptomonedas | Cryptosaurio Argentina
+127.132.34.94:80 - Welcome to XAMPP
+70.27.52.151:80 - Заголовок не найден
+23.211.34.251:80 - Заголовок не найден
+150.95.111.75:80 - Welcome to CentOS
+74.95.89.121:80 - 
+194.145.208.94:80 - Заголовок не найден
+127.152.223.224:80 - Welcome to XAMPP
+127.231.160.238:80 - Welcome to XAMPP
+173.255.192.240:80 - Website Unavailable
+210.42.177.78:80 - Заголовок не найден
+18.65.102.44:80 - Заголовок не найден
+170.205.42.164:80 - Заголовок не найден
+69.192.104.159:80 - Заголовок не найден
+127.36.64.215:80 - Welcome to XAMPP
+127.64.81.223:80 - Welcome to XAMPP
+92.122.76.152:80 - Заголовок не найден
+127.8.73.5:80 - Welcome to XAMPP
+127.136.76.47:80 - Welcome to XAMPP
+45.131.4.118:80 - Direct IP access not allowed | Cloudflare
+136.243.44.196:80 - IIS Windows Server
+127.118.6.205:80 - Welcome to XAMPP
+23.15.53.170:80 - Заголовок не найден
+82.13.153.214:80 - Заголовок не найден
+185.196.53.193:80 - SAAS First - 404
+127.137.232.239:80 - Welcome to XAMPP
+23.40.110.89:80 - Заголовок не найден
+52.84.185.186:80 - Заголовок не найден
+23.207.110.51:80 - Заголовок не найден
+153.156.79.229:80 - rtmp2onvif
+127.60.139.209:80 - Welcome to XAMPP
+81.217.7.241:80 - Заголовок не найден
+127.187.176.101:80 - Welcome to XAMPP
+15.165.70.19:80 - Заголовок не найден
+127.164.109.225:80 - Welcome to XAMPP
+185.156.29.193:80 - IIS Windows Server
+67.199.1.49:80 - Заголовок не найден
+127.47.134.13:80 - Welcome to XAMPP
+38.14.183.213:80 - IIS Windows Server
+127.52.95.91:80 - Welcome to XAMPP
+44.202.153.91:80 - Welcome to nginx!
+95.217.159.191:80 - this is a mail-in-a-box
+87.230.14.234:80 - Заголовок не найден
+59.124.109.67:80 - IIS Windows Server
+125.22.70.76:80 - 
+127.100.46.107:80 - Welcome to XAMPP
+152.0.87.136:80 - 
+35.159.17.246:80 - Home | Saraya Wellness Hub
+154.215.108.130:80 - 404 Not Found
+216.127.51.20:80 - Welcome to nginx!
+107.180.235.196:80 - phpMyAdmin
+127.230.124.122:80 - Welcome to XAMPP
+127.48.107.16:80 - Welcome to XAMPP
+127.27.142.164:80 - Welcome to XAMPP
+185.43.247.76:80 - Document Moved
+127.106.226.29:80 - Welcome to XAMPP
+127.128.58.103:80 - Welcome to XAMPP
+134.213.205.41:80 - Заголовок не найден
+127.103.126.119:80 - Welcome to XAMPP
+202.62.64.176:80 - City Digital
+61.129.129.105:80 - 403 Forbidden
+185.133.207.104:80 - Web Server's Default Page
+127.122.130.54:80 - Welcome to XAMPP
+34.84.105.220:80 - Заголовок не найден
+127.29.140.116:80 - Welcome to XAMPP
+127.70.234.35:80 - Welcome to XAMPP
+117.34.18.12:80 - Заголовок не найден
+107.144.138.53:80 - Power Controller
+23.76.55.85:80 - Заголовок не найден
+104.206.5.147:80 - 403 Forbidden
+16.182.39.51:80 - Amazon S3 - Cloud Object Storage  - AWS
+8.138.115.59:80 - LNMPä¸é®å®è£å by Licess
+139.129.180.74:80 - ç½ç«è®¿é®æ¥é
+68.65.122.88:80 - Marc van Melle | Modeling, Animation &amp; Game Design
+75.171.89.183:80 - IIS Windows
+82.78.236.228:80 - 
+95.101.93.114:80 - Заголовок не найден
+23.47.111.188:80 - Заголовок не найден
+1.15.242.40:80 - 404 Not Found
