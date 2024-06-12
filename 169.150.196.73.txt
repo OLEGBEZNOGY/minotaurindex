@@ -815,3 +815,194 @@
 23.214.71.98:80 - Заголовок не найден
 127.133.69.249:80 - Apache2 Ubuntu Default Page: It works
 125.229.120.251:80 - 
+18.183.47.204:80 - ChatGPT Next Web
+127.44.40.210:80 - Apache2 Ubuntu Default Page: It works
+167.82.117.182:80 - Fastly error: unknown domain 167.82.117.182
+127.142.79.129:80 - Apache2 Ubuntu Default Page: It works
+127.180.164.218:80 - Apache2 Ubuntu Default Page: It works
+127.36.46.16:80 - Apache2 Ubuntu Default Page: It works
+127.215.88.92:80 - Apache2 Ubuntu Default Page: It works
+23.59.97.108:80 - Заголовок не найден
+95.164.113.85:80 - Welcome to nginx!
+23.44.152.219:80 - Заголовок не найден
+35.229.179.214:80 - Заголовок не найден
+103.70.156.146:80 - 
+39.155.179.157:80 - Welcome to OpenResty!
+142.171.34.201:80 - 400 Bad Request
+212.16.78.41:80 - Page not found
+45.32.107.134:80 - 404 Not Found
+104.67.2.95:80 - Заголовок не найден
+195.242.116.94:80 - Nazwa użytkowika
+83.251.34.94:80 - Заголовок не найден
+23.60.184.211:80 - Заголовок не найден
+54.157.128.6:80 - 404 Not Found
+127.232.60.57:80 - Apache2 Ubuntu Default Page: It works
+127.91.3.182:80 - Apache2 Ubuntu Default Page: It works
+23.67.57.248:80 - Заголовок не найден
+184.86.8.41:80 - Заголовок не найден
+14.194.47.174:80 - 
+127.232.185.181:80 - Apache2 Ubuntu Default Page: It works
+159.224.98.242:80 - Заголовок не найден
+95.143.48.227:80 - Gigaset N720 DM PRO
+177.84.218.156:80 - JHDM HDNET LTDA
+121.82.121.203:80 - Home
+52.64.152.172:80 - 403 Forbidden
+165.154.8.50:80 - 
+127.135.74.54:80 - Apache2 Ubuntu Default Page: It works
+127.119.98.134:80 - Apache2 Ubuntu Default Page: It works
+127.110.142.126:80 - Apache2 Ubuntu Default Page: It works
+45.243.7.146:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#48;&#56;&#78;&#32;&#86;&#50;&#46;&#53;
+127.195.243.1:80 - Apache2 Ubuntu Default Page: It works
+196.51.10.250:80 - ERROR: The requested URL could not be retrieved
+45.131.46.239:80 - Welcome to nginx!
+20.19.201.53:80 - Azure Container App - Unavailable
+127.111.190.43:80 - Apache2 Ubuntu Default Page: It works
+8.218.172.213:80 - æ±æ­ï¼ç«ç¹å·²æå
+127.187.47.157:80 - Apache2 Ubuntu Default Page: It works
+120.222.152.54:80 - Заголовок не найден
+173.232.145.59:80 - 404 Not Found
+104.24.36.64:80 - Direct IP access not allowed | Cloudflare
+179.41.198.109:80 - Заголовок не найден
+18.245.217.137:80 - Заголовок не найден
+39.103.168.84:80 - Lucky Warning
+178.62.38.102:80 - Заголовок не найден
+23.198.64.237:80 - Заголовок не найден
+127.66.180.58:80 - Apache2 Ubuntu Default Page: It works
+117.121.255.41:80 - Welcome to nginx!
+120.24.58.62:80 - Заголовок не найден
+127.22.30.112:80 - Apache2 Ubuntu Default Page: It works
+3.13.51.123:80 - 403 Forbidden
+82.62.233.208:80 - Smartweb - Combivox
+3.214.128.38:80 - IIS Windows Server
+127.226.170.92:80 - Apache2 Ubuntu Default Page: It works
+120.136.11.98:80 - ç¡å¹ãªURLã§ã
+20.193.75.89:80 - Test Page
+149.30.165.222:80 - 404 Not Found
+121.187.226.10:80 - RouterOS router configuration page
+213.188.152.71:80 - Apache2 Ubuntu Default Page: It works
+45.127.234.204:80 - Please wait, the login page is opening...
+127.188.158.38:80 - Apache2 Ubuntu Default Page: It works
+23.218.52.135:80 - Заголовок не найден
+127.52.89.161:80 - Apache2 Ubuntu Default Page: It works
+18.188.166.234:80 - Заголовок не найден
+127.7.2.191:80 - Apache2 Ubuntu Default Page: It works
+127.171.26.157:80 - Apache2 Ubuntu Default Page: It works
+52.162.96.191:80 - 404 Not Found
+34.198.118.42:80 - Заголовок не найден
+160.178.203.56:80 - RouterOS router configuration page
+213.138.165.28:80 - Sign In - Jellyseerr
+127.15.27.91:80 - Apache2 Ubuntu Default Page: It works
+127.93.45.185:80 - Apache2 Ubuntu Default Page: It works
+127.138.95.56:80 - Apache2 Ubuntu Default Page: It works
+23.47.9.110:80 - Заголовок не найден
+127.161.144.155:80 - Apache2 Ubuntu Default Page: It works
+107.21.251.215:80 - Заголовок не найден
+127.133.228.248:80 - Apache2 Ubuntu Default Page: It works
+179.36.130.13:80 - Заголовок не найден
+127.81.229.232:80 - Apache2 Ubuntu Default Page: It works
+23.59.123.214:80 - Заголовок не найден
+35.133.164.84:80 - 
+127.91.240.194:80 - Apache2 Ubuntu Default Page: It works
+23.50.132.68:80 - Заголовок не найден
+108.138.204.175:80 - Заголовок не найден
+144.126.226.128:80 - Заголовок не найден
+3.160.91.117:80 - Заголовок не найден
+74.48.110.198:80 - Sorry, the website has been stopped
+76.91.241.254:80 - 
+161.117.86.52:80 - Заголовок не найден
+127.139.71.203:80 - Apache2 Ubuntu Default Page: It works
+38.12.165.80:80 - ç½ç«ç»´æ¤ä¸­
+52.84.220.91:80 - Заголовок не найден
+154.211.126.28:80 - 403 Forbidden
+18.173.134.252:80 - Заголовок не найден
+206.237.1.245:80 - 404 Not Found
+45.150.67.136:80 - Welcome to nginx!
+127.211.124.19:80 - Apache2 Ubuntu Default Page: It works
+119.3.214.79:80 - IIS Windows Server
+92.154.24.67:80 - Welcome to nginx!
+104.168.75.184:80 - 407 Proxy Authentication Required
+18.219.105.133:80 - Заголовок не найден
+66.220.13.214:80 - HURRICANE ELECTRIC
+127.161.153.175:80 - Apache2 Ubuntu Default Page: It works
+23.66.143.29:80 - Заголовок не найден
+127.99.190.115:80 - Apache2 Ubuntu Default Page: It works
+24.181.196.222:80 - 
+127.94.229.238:80 - Apache2 Ubuntu Default Page: It works
+173.32.186.204:80 - hue personal wireless lighting
+212.227.167.133:80 - Back Space
+104.71.93.13:80 - Заголовок не найден
+127.204.149.170:80 - Apache2 Ubuntu Default Page: It works
+206.189.130.77:80 - 404 Not Found
+103.2.224.160:80 - Apache HTTP Server Test Page powered by CentOS
+127.45.13.80:80 - Apache2 Ubuntu Default Page: It works
+195.88.146.55:80 - 403 - Forbidden: Access is denied.
+127.99.111.179:80 - Apache2 Ubuntu Default Page: It works
+203.27.101.95:80 - shaturaski.net &mdash;  Domain default page
+61.100.6.133:80 - 설문조사
+91.134.145.14:80 - Заголовок не найден
+89.39.166.9:80 - Заголовок не найден
+23.219.242.160:80 - Заголовок не найден
+148.135.74.167:80 - Заголовок не найден
+127.213.3.40:80 - Apache2 Ubuntu Default Page: It works
+127.175.184.5:80 - Apache2 Ubuntu Default Page: It works
+182.173.76.50:80 - Index of /
+127.98.205.140:80 - Apache2 Ubuntu Default Page: It works
+127.40.255.195:80 - Apache2 Ubuntu Default Page: It works
+127.210.8.82:80 - Apache2 Ubuntu Default Page: It works
+104.88.173.69:80 - Заголовок не найден
+127.13.208.19:80 - Apache2 Ubuntu Default Page: It works
+127.172.78.221:80 - Apache2 Ubuntu Default Page: It works
+108.128.228.84:80 - Заголовок не найден
+127.88.93.157:80 - Apache2 Ubuntu Default Page: It works
+127.248.192.193:80 - Apache2 Ubuntu Default Page: It works
+127.145.197.75:80 - Apache2 Ubuntu Default Page: It works
+83.64.83.57:80 - 403 Forbidden
+204.116.106.100:80 - Connection denied by Geolocation
+127.51.225.116:80 - Apache2 Ubuntu Default Page: It works
+127.43.53.111:80 - Apache2 Ubuntu Default Page: It works
+3.229.134.190:80 - Заголовок не найден
+108.139.58.195:80 - Заголовок не найден
+23.13.160.23:80 - Заголовок не найден
+172.168.202.141:80 - Заголовок не найден
+185.213.52.113:80 - Sign in to your account
+139.59.93.231:80 - Upekkha Forum
+127.207.191.19:80 - Apache2 Ubuntu Default Page: It works
+127.204.66.116:80 - Apache2 Ubuntu Default Page: It works
+113.240.100.188:80 - Заголовок не найден
+23.202.229.102:80 - Заголовок не найден
+213.232.111.190:80 - 
+184.26.190.136:80 - Заголовок не найден
+103.119.13.208:80 - Welcome to CentOS
+155.254.21.172:80 - Forbidden!
+127.29.242.212:80 - Apache2 Ubuntu Default Page: It works
+149.28.159.82:80 - Welcome to nginx!
+184.25.12.48:80 - Заголовок не найден
+127.94.136.243:80 - Apache2 Ubuntu Default Page: It works
+13.226.11.184:80 - Заголовок не найден
+137.175.46.77:80 - Sorry, the website has been stopped
+127.221.76.250:80 - Apache2 Ubuntu Default Page: It works
+127.153.8.27:80 - Apache2 Ubuntu Default Page: It works
+167.172.59.98:80 - CrushFTP WebInterface
+79.8.227.111:80 - RouterOS router configuration page
+162.215.249.71:80 - Not Acceptable!
+104.113.177.172:80 - Заголовок не найден
+13.115.239.40:80 - Заголовок не найден
+37.85.35.208:80 - Router -> Login
+23.35.113.163:80 - Заголовок не найден
+127.138.77.95:80 - Apache2 Ubuntu Default Page: It works
+127.22.110.7:80 - Apache2 Ubuntu Default Page: It works
+15.184.181.70:80 - Заголовок не найден
+52.84.13.143:80 - Заголовок не найден
+127.29.65.102:80 - Apache2 Ubuntu Default Page: It works
+149.62.190.240:80 - Peek Deal - Digital Marketing
+127.208.159.99:80 - Apache2 Ubuntu Default Page: It works
+171.100.21.156:80 - 403 Forbidden
+190.99.112.209:80 - :::Medidor de Velocidad:::
+184.24.212.173:80 - Заголовок не найден
+135.148.25.175:80 - 404 Not Found
+163.43.106.152:80 - Заголовок не найден
+127.131.91.140:80 - Apache2 Ubuntu Default Page: It works
+44.224.251.10:80 - Заголовок не найден
+127.76.211.61:80 - Apache2 Ubuntu Default Page: It works
+104.129.39.210:80 - 403 Forbidden
+168.206.139.112:80 - æ²¡ææ¾å°ç«ç¹
