@@ -1629,3 +1629,21 @@
 119.45.194.14:80 - 403 Forbidden
 91.215.43.194:80 - DDoS-Guard
 185.219.80.192:80 - 403 Forbidden
+38.177.134.149:80 - Welcome to nginx!
+209.38.4.26:80 - 404 Not Found
+154.30.243.85:80 - Заголовок не найден
+104.67.221.9:80 - Заголовок не найден
+97.74.186.124:80 - 403 Forbidden
+65.181.153.249:80 - 阿里云 Web应用防火墙
+23.193.90.56:80 - Заголовок не найден
+98.240.60.143:80 - Login
+104.20.77.207:80 - Direct IP access not allowed | Cloudflare
+3.22.174.172:80 - Web Server's Default Page
+18.162.209.35:80 - 404 Not Found
+18.161.115.58:80 - Заголовок не найден
+104.91.48.47:80 - Заголовок не найден
+104.247.123.29:80 - Page not found
+106.39.164.88:80 - 403 Forbidden
+222.122.203.243:80 - Apache HTTP Server Test Page powered by CentOS
+43.201.85.237:80 - Apache2 Debian Default Page: It works
+52.28.104.210:80 - Welcome!
