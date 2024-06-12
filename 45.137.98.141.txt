@@ -10494,3 +10494,35 @@
 66.42.102.46:80 - Welcome to nginx!
 108.158.222.53:80 - Заголовок не найден
 127.254.175.72:80 - Welcome to XAMPP
+23.56.121.137:80 - Заголовок не найден
+213.71.162.85:80 - Web Site Blocked
+202.39.34.50:80 - Заголовок не найден
+125.137.235.225:80 - Gargoyle Router Management Utility
+15.165.191.41:80 - Words starting with & words ending with
+18.136.147.160:80 - PrestaShop
+120.24.39.73:80 - 404 Not Found
+34.250.25.193:80 - Заголовок не найден
+189.115.75.109:80 - Intelbras
+127.202.31.60:80 - Welcome to XAMPP
+38.153.72.125:80 - ERROR: The requested URL could not be retrieved
+45.33.106.177:80 - Welcome to nginx!
+96.47.66.12:80 - Welcome to nginx!
+127.207.225.77:80 - Welcome to XAMPP
+127.200.82.196:80 - Welcome to XAMPP
+52.85.196.142:80 - Заголовок не найден
+206.119.30.246:80 - æ²¡ææ¾å°ç«ç¹
+18.27.72.126:80 - Apache2 Debian Default Page: It works
+209.18.99.249:80 - Home - Pacific Corinthian Yacht Club
+78.35.140.101:80 - Заголовок не найден
+127.148.242.167:80 - Welcome to XAMPP
+127.18.72.62:80 - Welcome to XAMPP
+127.3.211.50:80 - Welcome to XAMPP
+127.225.157.192:80 - Welcome to XAMPP
+127.203.111.159:80 - Welcome to XAMPP
+127.51.167.214:80 - Welcome to XAMPP
+34.143.168.51:80 - Заголовок не найден
+8.222.233.59:80 - Welcome to nginx!
+2.20.164.193:80 - Заголовок не найден
+127.149.13.231:80 - Welcome to XAMPP
+158.101.124.45:80 - Login - 20/20NOW EMR
+151.186.4.197:80 - Error 401
