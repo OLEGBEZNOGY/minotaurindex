@@ -9232,3 +9232,15 @@
 5.77.41.169:80 - Web Server's Default Page
 121.46.127.22:80 - 404 Not Found
 3.22.216.157:80 - Заголовок не найден
+23.60.115.144:80 - Заголовок не найден
+23.2.223.168:80 - Заголовок не найден
+172.255.81.18:80 - 407 Proxy Authentication Required
+35.168.160.96:80 - gm2
+37.61.202.100:80 - 401 Authorization Required
+1.71.10.156:80 - 403 Forbidden
+141.94.138.41:80 - Apache2 Debian Default Page: It works
+159.65.249.244:80 - Welcome to nginx!
+38.55.167.207:80 - 404 Not Found
+23.56.215.71:80 - Заголовок не найден
+82.221.100.79:80 - Extinction Rebellion Danmark
+100.28.120.169:80 - Welcome to nginx!
