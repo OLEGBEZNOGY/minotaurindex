@@ -985,3 +985,6 @@
 108.175.161.26:80 - Apache HTTP Server Test Page powered by CentOS
 23.46.237.219:80 - Заголовок не найден
 52.216.232.146:80 - Amazon S3 - Cloud Object Storage  - AWS
+194.38.28.108:80 - ERROR: The requested URL could not be retrieved
+45.137.146.189:80 - Apache2 Debian Default Page: It works
+34.49.230.78:80 - Заголовок не найден
