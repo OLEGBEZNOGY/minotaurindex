@@ -2447,3 +2447,7 @@
 127.117.178.98:80 - Welcome to XAMPP
 210.247.235.68:80 - Заголовок не найден
 104.221.225.162:80 - è·³è½¬ä¸­
+127.162.68.140:80 - Welcome to XAMPP
+23.205.190.140:80 - Заголовок не найден
+68.171.47.60:80 - Default Parallels Plesk Panel Page
+85.105.161.237:80 - DVR remote management sytem
