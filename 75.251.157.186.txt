@@ -10305,3 +10305,42 @@ access accounts in the boston, massachusetts area.
 18.65.151.24:80 - Заголовок не найден
 39.105.131.226:80 - å°ä¸çç´æ­å¬ä¼åå°
 3.165.125.4:80 - Заголовок не найден
+8.17.88.100:80 - LinkTap Gateway
+23.75.71.209:80 - Заголовок не найден
+104.70.245.99:80 - Заголовок не найден
+54.145.108.59:80 - Заголовок не найден
+103.60.166.49:80 - è¯¥ç½ç«ææ¶æ æ³è¿è¡è®¿é®
+108.61.86.105:80 - 403 Forbidden
+104.21.68.61:80 - Direct IP access not allowed | Cloudflare
+159.255.37.187:80 - Apache2 Ubuntu Default Page: It works
+54.69.228.104:80 - 503 Service Temporarily Unavailable
+16.16.182.202:80 - Log In - Confluence
+3.27.208.239:80 - Заголовок не найден
+172.247.31.86:80 - æ²¡ææ¾å°ç«ç¹
+181.129.71.114:80 - RouterOS router configuration page
+82.98.172.192:80 - EstÃ¡s accediendo a una IP compartida por varios hostings
+23.217.130.89:80 - Заголовок не найден
+121.42.72.215:80 - ç½ç«è®¿é®æ¥é
+108.158.233.143:80 - Заголовок не найден
+185.197.30.165:80 - Sorry, the website has been stopped
+89.114.228.93:80 - 
+193.224.105.102:80 - Home
+104.112.129.170:80 - Заголовок не найден
+207.144.23.151:80 - Server Error
+20.26.102.39:80 - Your Azure Function App is up and running.
+17.248.245.200:80 - 400 Bad Request
+207.253.23.36:80 - 500 - Internal server error.
+207.148.21.212:80 - Autosource Foundation
+54.198.221.0:80 - Заголовок не найден
+98.144.10.79:80 - WEB SERVICE
+3.208.198.145:80 - Заголовок не найден
+121.42.100.90:80 - 阿里云万网虚机IP访问报错提示
+88.47.183.146:80 - Forbidden
+190.107.149.103:80 - Bienvenido a TEST ARCHIVO Hola mundo
+91.158.9.8:80 - 
+107.182.229.159:80 - Заголовок не найден
+35.157.202.29:80 - 404 Not Found
+13.251.235.0:80 - Заголовок не найден
+128.17.208.80:80 - 403 - Forbidden: Access is denied.
+199.107.19.114:80 - Middle District of Georgia | United States Bankruptcy Court
+23.53.212.92:80 - Заголовок не найден
