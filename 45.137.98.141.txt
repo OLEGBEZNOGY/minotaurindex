@@ -11188,3 +11188,8 @@
 184.85.63.107:80 - Заголовок не найден
 51.91.101.127:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
 89.161.218.1:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+127.140.75.27:80 - Welcome to XAMPP
+200.53.218.197:80 - Intelbras
+104.118.150.145:80 - Заголовок не найден
+127.68.93.118:80 - Welcome to XAMPP
+38.154.120.8:80 - ERROR: The requested URL could not be retrieved
