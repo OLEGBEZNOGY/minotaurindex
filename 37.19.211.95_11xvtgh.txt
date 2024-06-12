@@ -5991,3 +5991,8 @@
 194.163.167.4:80 - Web Server's Default Page
 2.22.219.71:80 - Заголовок не найден
 128.201.101.2:80 - RouterOS router configuration page
+45.32.218.13:80 - Playground AI - Admin Dashboard
+35.229.143.229:80 - 404 Not Found
+23.59.237.41:80 - Заголовок не найден
+45.86.180.204:80 - Доступ к сайту невозможен
+193.234.22.86:80 - Under Construction
