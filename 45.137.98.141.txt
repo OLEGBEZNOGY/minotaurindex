@@ -1262,3 +1262,12 @@
 3.225.198.37:80 - Homepage
 46.31.193.54:80 - 403 Forbidden
 127.159.252.133:80 - Welcome to XAMPP
+23.54.84.227:80 - Заголовок не найден
+62.150.44.229:80 - Заголовок не найден
+34.69.20.118:80 - DialedIn | Inbound and Outbound Call Center Software Solutions
+139.59.123.250:80 - Welcome to nginx!
+47.103.44.144:80 - IIS Windows Server
+127.91.199.159:80 - Welcome to XAMPP
+149.104.182.104:80 - 403 Forbidden
+23.211.42.130:80 - Заголовок не найден
+179.109.136.113:80 - 500 Internal Server Error
