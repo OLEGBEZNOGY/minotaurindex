@@ -1,0 +1,3 @@
+91.218.173.34:80 - Заголовок не найден
+49.12.70.255:80 - Apache Tomcat/9.0.78
+46.242.198.178:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
