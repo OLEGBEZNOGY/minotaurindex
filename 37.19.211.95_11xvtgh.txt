@@ -7331,3 +7331,10 @@
 84.95.45.250:80 - 
 101.133.43.65:80 - Заголовок не найден
 2.133.37.113:80 - GPON Home Gateway
+3.7.241.208:80 - Test Page for the Nginx HTTP Server on the Amazon Linux AMI
+68.171.48.221:80 - Default Parallels Plesk Panel Page
+23.206.148.226:80 - Заголовок не найден
+20.86.246.159:80 - 404 Not Found
+119.120.92.237:80 - Apache2 Ubuntu Default Page: It works
+166.164.239.249:80 - Document Moved
+198.23.225.134:80 - Home
