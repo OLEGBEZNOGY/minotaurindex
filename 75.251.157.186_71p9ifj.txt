@@ -1079,3 +1079,16 @@
 31.177.78.10:80 - Account disabled by server administrator
 121.168.112.168:80 - Заголовок не найден
 54.184.217.132:80 - HYPE Entertainment
+90.84.236.108:80 - IIS Windows
+151.252.55.223:80 - Apache2 Debian Default Page: It works
+46.242.201.96:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+196.51.20.158:80 - ERROR: The requested URL could not be retrieved
+50.234.66.201:80 - DuVoice DV2000
+184.85.181.142:80 - Заголовок не найден
+18.213.116.52:80 - Error
+51.38.81.92:80 - Apache2 Ubuntu Default Page: It works
+103.84.8.108:80 - MNC Analytics
+20.236.53.212:80 - Заголовок не найден
+88.218.116.19:80 - Domain Not Found
+113.39.76.58:80 - Web Filter Violation
+211.238.149.1:80 - ShadowWall | Change Password
