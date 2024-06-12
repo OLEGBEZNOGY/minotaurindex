@@ -358,3 +358,14 @@
 120.46.131.176:80 - Welcome to CentOS
 74.206.166.152:80 - 123BILL - Secure online purchasing without a credit card!
 47.93.244.111:80 - 404 Not Found
+52.186.13.93:80 - Microsoft Azure Web App - Error 404
+18.65.115.239:80 - Заголовок не найден
+109.37.160.74:80 - vecoHub
+153.126.144.214:80 - Apache HTTP Server Test Page powered by CentOS
+153.246.19.76:80 - Заголовок не найден
+47.108.172.87:80 - 502 Bad Gateway
+35.197.163.181:80 - Заголовок не найден
+38.14.184.240:80 - IIS Windows Server
+23.3.206.5:80 - Заголовок не найден
+23.43.214.30:80 - Заголовок не найден
+84.17.180.49:80 - SIM-Kartentool
