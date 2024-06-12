@@ -16133,3 +16133,117 @@
 124.70.70.214:80 - åªèµè¿è¥æå¡å¹³å°
 187.45.105.145:80 - 500 Internal Server Error
 127.176.127.183:80 - Welcome to XAMPP
+127.98.60.15:80 - Welcome to XAMPP
+20.233.196.230:80 - Заголовок не найден
+127.117.136.88:80 - Welcome to XAMPP
+127.182.38.254:80 - Welcome to XAMPP
+127.223.73.239:80 - Welcome to XAMPP
+43.201.194.133:80 - 503 Service Temporarily Unavailable
+178.162.198.46:80 - Заголовок не найден
+95.78.231.67:80 - RouterOS router configuration page
+127.235.228.124:80 - Welcome to XAMPP
+200.69.106.181:80 - 403 - Forbidden: Access is denied.
+67.20.82.118:80 - Not Acceptable!
+1.116.90.31:80 - 周瑜的电子书收集
+23.199.19.68:80 - Заголовок не найден
+127.141.169.164:80 - Welcome to XAMPP
+175.197.233.6:80 - CMS Web Viewer
+23.36.70.228:80 - Заголовок не найден
+127.177.247.110:80 - Welcome to XAMPP
+18.65.28.53:80 - Заголовок не найден
+65.75.207.15:80 - Page not found
+96.7.79.201:80 - Заголовок не найден
+34.244.113.31:80 - 404 Not Found
+127.148.212.210:80 - Welcome to XAMPP
+127.70.16.41:80 - Welcome to XAMPP
+127.14.213.77:80 - Welcome to XAMPP
+47.225.156.199:80 - 
+192.185.154.151:80 - Not Acceptable!
+35.190.4.249:80 - Заголовок не найден
+127.132.100.244:80 - Welcome to XAMPP
+156.253.69.224:80 - Welcome to nginx!
+167.82.117.192:80 - Fastly error: unknown domain 167.82.117.192
+23.43.41.35:80 - Заголовок не найден
+158.199.220.99:80 - ControlPanel
+54.213.225.208:80 - 502 Bad Gateway
+52.174.245.235:80 - Microsoft Azure Web App - Error 404
+5.253.84.30:80 - Заголовок не найден
+108.156.62.225:80 - Заголовок не найден
+140.143.153.159:80 - Заголовок не найден
+78.161.199.248:80 - 
+190.162.26.54:80 - WEB SERVICE
+99.84.68.148:80 - Заголовок не найден
+106.14.14.255:80 - 404 Not Found
+104.104.168.201:80 - Заголовок не найден
+127.152.37.250:80 - Welcome to XAMPP
+20.19.61.209:80 - Заголовок не найден
+154.23.90.163:80 - 404 Not Found
+127.198.11.156:80 - Welcome to XAMPP
+94.198.216.22:80 - FASTPANEL
+127.140.70.243:80 - Welcome to XAMPP
+46.37.31.247:80 - 46.37.31.247 - ZyXEL ZyWALL 5 Internet Security Appliance
+127.107.126.139:80 - Welcome to XAMPP
+79.185.16.242:80 - WEB SERVICE
+154.36.164.166:80 - 400 Bad Request
+143.204.55.167:80 - Заголовок не найден
+127.91.116.27:80 - Welcome to XAMPP
+127.52.239.97:80 - Welcome to XAMPP
+95.101.97.114:80 - Заголовок не найден
+23.34.12.207:80 - Заголовок не найден
+127.235.216.59:80 - Welcome to XAMPP
+127.221.35.61:80 - Welcome to XAMPP
+127.38.228.195:80 - Welcome to XAMPP
+49.232.130.191:80 - 404 Not Found
+86.103.61.11:80 - 404 Not Found
+59.100.184.9:80 - About IP Office R11.1
+13.226.120.102:80 - Заголовок не найден
+23.37.229.111:80 - Заголовок не найден
+164.115.22.78:80 - Welcome to XAMPP
+16.171.134.234:80 - Заголовок не найден
+201.48.253.102:80 - INTELBRAS
+122.51.216.251:80 - 404 Not Found
+23.55.46.109:80 - Заголовок не найден
+108.160.159.87:80 - Заголовок не найден
+3.165.248.128:80 - Заголовок не найден
+13.32.211.186:80 - Заголовок не найден
+209.200.95.52:80 - Заголовок не найден
+151.2.186.50:80 - 403 - Forbidden
+154.211.8.35:80 - Direct IP access not allowed | Cloudflare
+127.156.58.9:80 - Welcome to XAMPP
+18.64.82.22:80 - Заголовок не найден
+141.94.169.182:80 - Welcome to nginx!
+13.58.31.227:80 - 503 Service Temporarily Unavailable
+127.15.255.149:80 - Welcome to XAMPP
+127.137.228.138:80 - Welcome to XAMPP
+173.92.208.241:80 - Linksys Smart Wi-Fi
+23.3.87.171:80 - Заголовок не найден
+104.81.101.57:80 - Заголовок не найден
+50.57.31.37:80 - Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
+104.16.165.138:80 - Direct IP access not allowed | Cloudflare
+127.154.37.157:80 - Welcome to XAMPP
+154.198.231.213:80 - Sorry, the website has been stopped
+47.106.64.242:80 - 403 Forbidden
+127.123.251.55:80 - Welcome to XAMPP
+139.59.37.210:80 - Welcome to nginx!
+142.132.214.184:80 - Welcome to nginx!
+35.75.10.49:80 - Apache Tomcat/9.0.13
+127.230.62.83:80 - Welcome to XAMPP
+172.90.235.116:80 - 
+172.247.196.109:80 - 400 Bad Request
+23.221.195.37:80 - Заголовок не найден
+127.171.68.202:80 - Welcome to XAMPP
+127.81.255.129:80 - Welcome to XAMPP
+210.156.44.41:80 - Test Page for the HTTP Server on AlmaLinux
+74.48.98.234:80 - Welcome to nginx!
+3.91.138.114:80 - 375 Park Avenue Spirits &#8211; Discover the World&#039;s Finest Spirits
+127.67.102.219:80 - Welcome to XAMPP
+49.51.78.185:80 - Apache HTTP Server Test Page powered by CentOS
+23.200.113.122:80 - Заголовок не найден
+18.155.198.30:80 - Заголовок не найден
+104.252.161.80:80 - 403 Forbidden
+221.178.46.118:80 - Заголовок не найден
+163.21.1.10:80 - 成德國中全球資訊網  - 校址：11569 台北市南港區東新街108巷23號   電話：2651-5635~8 - 陽光.希望.愛與榜樣的學校
+92.205.26.6:80 - Web Server's Default Page
+23.198.40.29:80 - Заголовок не найден
+127.26.140.195:80 - Welcome to XAMPP
+38.47.243.243:80 - 404 Not Found
