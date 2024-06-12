@@ -5105,3 +5105,8 @@
 127.67.117.65:80 - Welcome to XAMPP
 127.157.96.184:80 - Welcome to XAMPP
 115.126.90.140:80 - Заголовок не найден
+127.83.29.131:80 - Welcome to XAMPP
+34.232.165.174:80 - Virtual Bingo &#8211; Just another WordPress site
+44.193.247.82:80 - Заголовок не найден
+45.223.58.81:80 - Заголовок не найден
+172.67.60.220:80 - Direct IP access not allowed | Cloudflare
