@@ -9804,3 +9804,43 @@ Context: {&quot;exception&quot;:{}}
 154.39.218.208:80 - Заголовок не найден
 47.74.196.212:80 - Заголовок не найден
 91.4.51.88:80 - IP DoorPhone
+23.34.38.210:80 - Заголовок не найден
+35.79.244.204:80 - Заголовок не найден
+167.82.81.145:80 - Fastly error: unknown domain 167.82.81.145
+154.206.169.221:80 - 404 Not Found
+139.60.35.188:80 - Заголовок не найден
+127.145.184.54:80 - Welcome to XAMPP
+127.28.94.164:80 - Welcome to XAMPP
+115.68.55.136:80 - Apache2 Ubuntu Default Page: It works
+45.223.169.11:80 - Заголовок не найден
+107.173.30.66:80 - Powered by CapRover
+127.217.71.6:80 - Welcome to XAMPP
+127.154.141.233:80 - Welcome to XAMPP
+127.1.132.233:80 - Welcome to XAMPP
+107.172.42.85:80 - 407 Proxy Authentication Required
+127.141.58.199:80 - Welcome to XAMPP
+127.80.163.10:80 - Welcome to XAMPP
+203.247.140.28:80 - Заголовок не найден
+127.176.255.161:80 - Welcome to XAMPP
+127.50.135.250:80 - Welcome to XAMPP
+154.7.98.148:80 - Заголовок не найден
+127.118.238.109:80 - Welcome to XAMPP
+213.143.127.108:80 - IIS Windows Server
+106.135.251.91:80 - HITACHI Management
+23.12.248.242:80 - Заголовок не найден
+2.17.172.198:80 - Заголовок не найден
+127.200.15.189:80 - Welcome to XAMPP
+127.199.48.106:80 - Welcome to XAMPP
+104.16.125.45:80 - Direct IP access not allowed | Cloudflare
+47.94.9.54:80 - 404
+185.214.126.241:80 - 403 Forbidden
+95.38.199.2:80 - RouterOS router configuration page
+127.211.180.64:80 - Welcome to XAMPP
+127.97.84.76:80 - Welcome to XAMPP
+23.41.57.37:80 - Заголовок не найден
+127.132.1.170:80 - Welcome to XAMPP
+138.121.104.103:80 - RouterOS router configuration page
+127.57.64.114:80 - Welcome to XAMPP
+127.107.49.88:80 - Welcome to XAMPP
+137.175.95.74:80 - 404 Not Found
+127.229.211.44:80 - Welcome to XAMPP
