@@ -2262,3 +2262,4 @@ Dalhousie University
 116.90.43.80:80 - 403 Forbidden
 3.164.204.61:80 - Заголовок не найден
 199.15.215.193:80 - 404 - Page not found
+98.64.212.245:80 - Your Azure Function App is up and running.
