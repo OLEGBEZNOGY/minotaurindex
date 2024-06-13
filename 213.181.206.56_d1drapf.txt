@@ -12083,3 +12083,140 @@ lt page
 211.207.4.168:80 - WEB SERVICE
 5.161.191.127:80 - Заголовок не найден
 104.116.31.46:80 - Заголовок не найден
+127.33.69.213:80 - Welcome to XAMPP
+195.242.111.165:80 - Apache2 Ubuntu Default Page: It works
+127.116.23.109:80 - Welcome to XAMPP
+127.33.167.120:80 - Welcome to XAMPP
+13.59.67.138:80 - 404 Not Found
+108.138.200.178:80 - Заголовок не найден
+183.91.79.253:80 - Заголовок не найден
+127.10.78.125:80 - Welcome to XAMPP
+127.115.114.171:80 - Welcome to XAMPP
+206.81.16.21:80 - 404 Not Found
+193.70.47.132:80 - Заголовок не найден
+175.24.180.166:80 - Welcome to nginx!
+127.187.198.109:80 - Welcome to XAMPP
+127.194.128.164:80 - Welcome to XAMPP
+127.72.201.177:80 - Welcome to XAMPP
+104.27.88.174:80 - Direct IP access not allowed | Cloudflare
+161.9.143.115:80 - Заголовок не найден
+127.21.2.84:80 - Welcome to XAMPP
+18.191.245.225:80 - 404 Not Found
+52.84.107.239:80 - Заголовок не найден
+45.76.21.167:80 - Unknown Domain
+23.52.211.233:80 - Заголовок не найден
+127.177.6.115:80 - Welcome to XAMPP
+54.186.35.152:80 - Apache2 Ubuntu Default Page: It works
+23.209.212.239:80 - Заголовок не найден
+147.182.250.35:80 - 403 Forbidden
+127.235.68.172:80 - Welcome to XAMPP
+165.225.111.58:80 - Internet Security by Zscaler
+49.12.217.96:80 - Artboard
+18.244.87.97:80 - Заголовок не найден
+46.244.102.131:80 - 
+23.222.95.45:80 - Заголовок не найден
+127.87.236.219:80 - Welcome to XAMPP
+127.110.145.41:80 - Welcome to XAMPP
+127.55.111.22:80 - Welcome to XAMPP
+107.175.81.72:80 - 407 Proxy Authentication Required
+137.220.252.36:80 - 404 Not Found
+108.186.83.137:80 - Заголовок не найден
+104.223.31.12:80 - 407 Proxy Authentication Required
+177.98.157.162:80 - Login
+216.137.63.103:80 - Заголовок не найден
+202.148.6.128:80 - Заголовок не найден
+66.98.18.221:80 - 
+180.76.187.153:80 - Hello Koa 2!
+106.14.35.177:80 - 403 Forbidden
+154.208.29.54:80 - 404 Not Found
+107.173.107.221:80 - ERROR: The requested URL could not be retrieved
+38.6.97.170:80 - 404 Not Found
+46.19.67.24:80 - ПСК Фарма — биофармацевтическая компания
+143.95.40.110:80 - Not Acceptable!
+127.144.246.124:80 - Welcome to XAMPP
+23.1.184.247:80 - Заголовок не найден
+127.120.16.201:80 - Welcome to XAMPP
+127.136.25.196:80 - Welcome to XAMPP
+67.227.190.22:80 - IIS Windows Server
+159.69.137.229:80 - IIS Windows Server
+20.105.216.30:80 - Microsoft Azure Web App - Error 404
+172.233.253.198:80 - Notes
+200.88.110.3:80 - 
+94.74.126.195:80 - ERROR: The requested URL could not be retrieved
+50.117.91.195:80 - 404 Not Found
+52.5.218.107:80 - 100Plus Remote Patient Monitoring (RPM) for Healthcare | 100Plus
+127.170.251.31:80 - Welcome to XAMPP
+154.55.233.247:80 - 404 Not Found
+18.164.209.88:80 - Заголовок не найден
+95.58.101.70:80 - GPON Home Gateway
+23.36.50.154:80 - Заголовок не найден
+35.233.8.70:80 - LEVERADE
+104.206.138.90:80 - 403 Forbidden
+103.82.166.50:80 - Apache2 Ubuntu Default Page: It works
+127.209.25.163:80 - Welcome to XAMPP
+127.98.118.235:80 - Welcome to XAMPP
+38.173.129.238:80 - ç½ç«ç»´æ¤ä¸­
+162.214.182.181:80 - 403 Forbidden
+2.20.19.148:80 - Заголовок не найден
+127.241.130.168:80 - Welcome to XAMPP
+127.50.100.116:80 - Welcome to XAMPP
+82.98.107.217:80 - Person / Info zu Name - Personensuche Yasni.de
+173.168.212.4:80 - 
+44.238.91.200:80 - The page is not found
+127.23.209.29:80 - Welcome to XAMPP
+127.115.247.70:80 - Welcome to XAMPP
+20.104.218.144:80 - Заголовок не найден
+3.15.155.44:80 - Error
+185.146.88.67:80 - IIS Windows Server
+97.74.205.139:80 - Coming Soon
+127.46.165.224:80 - Welcome to XAMPP
+173.222.206.231:80 - Заголовок не найден
+127.34.110.66:80 - Welcome to XAMPP
+127.9.250.149:80 - Welcome to XAMPP
+127.16.147.64:80 - Welcome to XAMPP
+127.252.167.201:80 - Welcome to XAMPP
+127.28.70.192:80 - Welcome to XAMPP
+127.254.64.47:80 - Welcome to XAMPP
+23.5.244.221:80 - Заголовок не найден
+103.155.145.116:80 - IIS Windows Server
+185.177.59.247:80 - Welcome to nginx!
+127.234.165.29:80 - Welcome to XAMPP
+67.60.253.29:80 - Hitron
+104.214.72.178:80 - 404 Not Found
+127.54.106.71:80 - Welcome to XAMPP
+165.160.32.126:80 - CSC | Registered Agent, Compliance, Tax, Fund, Capital Market, Digital, and Cyber-Risk Solutions
+13.68.177.86:80 - Заголовок не найден
+69.24.20.105:80 - Car-Part.com--Used Auto Parts Market
+79.137.108.14:80 - Account Suspended
+46.248.188.241:80 - OgÅoszenia Kobiet - Sex Anonse
+186.132.196.227:80 - Заголовок не найден
+220.87.99.86:80 - Web Viewer for Samsung DVR
+127.223.143.86:80 - Welcome to XAMPP
+88.99.73.30:80 - Заголовок не найден
+105.69.109.27:80 - &#72;&#50;&#56;&#56;&#65;
+161.49.21.233:80 - Заголовок не найден
+23.202.81.143:80 - Заголовок не найден
+13.235.49.7:80 - 404 Not Found
+206.81.19.105:80 - Wefix
+212.77.238.93:80 - Access forbidden!
+111.202.0.148:80 - 403 Forbidden
+23.108.254.164:80 - 407 Proxy Authentication Required
+104.223.4.70:80 - 403 Forbidden
+185.175.113.138:80 - Заголовок не найден
+69.192.1.178:80 - Заголовок не найден
+127.189.70.117:80 - Welcome to XAMPP
+171.244.206.182:80 - 404 Not Found
+185.133.83.56:80 - IIS Windows Server
+127.83.87.154:80 - Welcome to XAMPP
+127.202.70.207:80 - Welcome to XAMPP
+24.53.168.219:80 - Заголовок не найден
+18.215.175.219:80 - Proctrl
+23.63.172.220:80 - Заголовок не найден
+134.158.33.193:80 - Welcome to nginx on Debian!
+18.135.107.53:80 - Заголовок не найден
+52.226.247.88:80 - Microsoft Azure Web App - Error 404
+122.2.209.133:80 - Заголовок не найден
+35.94.97.40:80 - Заголовок не найден
+44.213.174.19:80 - 404 Not Found
+116.142.102.5:80 - åä¸ç»¼åæå¡å¹³å°
+149.56.11.195:80 - Заголовок не найден
