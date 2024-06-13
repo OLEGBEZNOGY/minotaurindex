@@ -11068,3 +11068,52 @@ WordPressie
 64.227.157.141:80 - 403 Forbidden
 151.101.171.12:80 - Fastly error: unknown domain 151.101.171.12
 13.232.106.176:80 - IIS Windows Server
+3.81.6.250:80 - Farmazon CMS
+144.22.243.61:80 - 502 Bad Gateway
+72.47.222.97:80 - Заголовок не найден
+216.32.27.32:80 - Apache2 Ubuntu Default Page: It works
+3.10.0.34:80 - 503 Service Temporarily Unavailable
+31.24.135.85:80 - Domenet er parkert - Webhuset
+104.25.9.67:80 - Direct IP access not allowed | Cloudflare
+167.82.37.23:80 - Fastly error: unknown domain 167.82.37.23
+183.63.185.41:80 - 登录页面 - 同行专家通讯评议-专家端
+104.86.59.72:80 - Заголовок не найден
+104.120.127.82:80 - Заголовок не найден
+155.159.109.10:80 - 404 Not Found
+39.105.5.106:80 - 503 Service Temporarily Unavailable
+2.21.168.193:80 - Заголовок не найден
+23.196.88.7:80 - Заголовок не найден
+23.37.44.138:80 - Заголовок не найден
+132.249.21.40:80 - SINGLE SIGN-ON
+146.75.64.94:80 - Fastly error: unknown domain 146.75.64.94
+150.60.250.128:80 - Заголовок не найден
+115.89.133.41:80 - IIS Windows
+5.78.50.90:80 - 503 Service Temporarily Unavailable
+108.139.36.216:80 - Заголовок не найден
+38.38.128.207:80 - IIS Windows Server
+201.124.188.76:80 - 
+38.152.77.35:80 - ERROR: The requested URL could not be retrieved
+122.114.192.212:80 - 404 Not Found
+174.138.64.129:80 - 404 Not Found
+45.33.18.170:80 - La Belle Terre Bakery &amp; Caf&eacute;
+35.186.149.106:80 - Apache2 Debian Default Page: It works
+107.151.91.3:80 - 404 Not Found
+186.117.150.230:80 - movistar
+43.203.91.209:80 - 후지필름
+158.199.130.112:80 - ControlPanel
+209.38.198.90:80 - Lepa Vida Boutique Winery - Best Wine Tasting Experience in Slovenia
+160.202.115.161:80 - 403 Forbidden
+150.60.142.167:80 - Заголовок не найден
+95.80.161.3:80 - دانشگاه صنعتی سهند
+35.221.206.252:80 - 403 Forbidden
+23.56.224.176:80 - Заголовок не найден
+35.217.73.206:80 - 410 Gone
+51.255.6.146:80 - Just a moment...
+113.31.104.251:80 - æ¬¢è¿åä¸´è¾¾è¾¾ç§æ
+173.248.161.91:80 - Incidium
+54.170.72.209:80 - Powered by CapRover
+89.41.37.74:80 - 404 Not Found
+38.165.127.198:80 - 404 Not Found
+35.196.13.113:80 - Site Not Configured | 404 Not Found
+45.95.41.184:80 - TNGNET B.V. ** PARKING **
+71.24.228.212:80 - Comrex ACCESS
