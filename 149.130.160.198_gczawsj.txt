@@ -3058,3 +3058,5 @@
 34.224.194.128:80 - Заголовок не найден
 127.172.185.85:80 - IIS Windows Server
 187.246.253.18:80 - 503 Service Not Available
+187.169.121.180:80 - IIS Windows
+50.62.184.87:80 - Harbor Camps for Transgender Youth
