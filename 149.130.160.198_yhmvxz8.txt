@@ -1974,3 +1974,87 @@
 18.164.230.70:80 - Заголовок не найден
 34.255.10.219:80 - Website Unavailable
 172.67.146.210:80 - Direct IP access not allowed | Cloudflare
+146.75.103.42:80 - Fastly error: unknown domain 146.75.103.42
+206.233.222.6:80 - 403 Forbidden
+127.249.225.236:80 - IIS Windows Server
+14.242.174.79:80 - WEB SERVICE
+34.117.15.25:80 - 502 Server Error
+4.156.168.189:80 - Заголовок не найден
+127.208.67.179:80 - IIS Windows Server
+91.202.130.34:80 - 404 Not Found
+84.39.82.54:80 - Заголовок не найден
+197.147.251.210:80 - &#72;&#50;&#56;&#56;&#65;
+172.64.134.166:80 - Direct IP access not allowed | Cloudflare
+104.70.87.239:80 - Заголовок не найден
+127.101.230.128:80 - IIS Windows Server
+127.200.26.87:80 - IIS Windows Server
+127.235.226.215:80 - IIS Windows Server
+127.10.68.241:80 - IIS Windows Server
+154.36.164.139:80 - 400 Bad Request
+3.164.225.148:80 - Заголовок не найден
+8.141.14.37:80 - 
+38.10.142.170:80 - Accedi
+127.94.88.140:80 - IIS Windows Server
+127.159.218.46:80 - IIS Windows Server
+23.209.129.202:80 - Заголовок не найден
+18.217.152.22:80 - 404 Not Found
+185.18.9.197:80 - Заголовок не найден
+23.47.151.193:80 - Заголовок не найден
+23.2.51.208:80 - Заголовок не найден
+34.93.171.71:80 - Welcome to nginx!
+127.243.86.221:80 - IIS Windows Server
+77.138.28.121:80 - Fiber 4K
+154.216.187.155:80 - 404 Not Found
+23.40.111.37:80 - Заголовок не найден
+104.223.23.101:80 - 403 Forbidden
+84.234.155.208:80 - Заголовок не найден
+75.113.101.103:80 - 
+73.16.5.199:80 - Заголовок не найден
+127.19.212.11:80 - IIS Windows Server
+127.204.200.45:80 - IIS Windows Server
+127.32.135.221:80 - IIS Windows Server
+18.172.13.213:80 - Заголовок не найден
+23.90.19.136:80 - 403 Forbidden
+127.213.58.180:80 - IIS Windows Server
+208.110.70.116:80 - 403 Forbidden
+127.88.96.131:80 - IIS Windows Server
+23.192.242.162:80 - Заголовок не найден
+178.222.248.95:80 - 
+173.0.137.15:80 - Parallels H-Sphere paulo.bitstudio.com.br
+195.7.6.175:80 - Welcome to nginx!
+104.165.180.31:80 - 403 Forbidden
+45.177.194.1:80 - Заголовок не найден
+127.164.148.102:80 - IIS Windows Server
+127.95.93.170:80 - IIS Windows Server
+127.243.203.195:80 - IIS Windows Server
+18.155.7.110:80 - Заголовок не найден
+127.240.211.218:80 - IIS Windows Server
+127.36.238.224:80 - IIS Windows Server
+96.19.253.185:80 - Document Moved
+127.88.62.60:80 - IIS Windows Server
+127.7.10.18:80 - IIS Windows Server
+71.136.82.36:80 - Заголовок не найден
+149.78.44.19:80 - ePMP
+130.74.126.2:80 - Mississippi Center for Supercomputing Research | Ole Miss
+3.13.85.248:80 - Konboi
+190.93.244.117:80 - Direct IP access not allowed | Cloudflare
+52.6.223.190:80 - Заголовок не найден
+141.147.131.58:80 - 404 Not Found
+70.32.93.87:80 - Midwest Training and Ice Center | Ice Hockey, Figure Skating, Gymnastics in Indiana
+127.8.94.10:80 - IIS Windows Server
+23.56.169.11:80 - Заголовок не найден
+177.152.65.192:80 - 
+3.120.99.114:80 - Заголовок не найден
+127.0.186.229:80 - IIS Windows Server
+23.166.88.217:80 - Signin | Mailstream
+104.83.40.13:80 - Заголовок не найден
+105.69.41.160:80 - &#72;&#50;&#56;&#56;&#65;
+122.116.5.229:80 - 401 Unauthorized
+3.138.230.169:80 - Apache2 Ubuntu Default Page: It works
+127.171.39.111:80 - IIS Windows Server
+213.136.72.43:80 - IIS Windows Server
+157.56.164.41:80 - Заголовок не найден
+127.127.2.203:80 - IIS Windows Server
+13.201.249.37:80 - Welcome to nginx!
+108.186.207.186:80 - 404 Not Found
+127.225.216.20:80 - IIS Windows Server
