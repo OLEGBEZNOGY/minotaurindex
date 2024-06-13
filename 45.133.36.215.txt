@@ -4834,3 +4834,20 @@
 13.85.191.128:80 - Your Azure Function App is up and running.
 213.176.63.149:80 - Заголовок не найден
 52.88.124.198:80 - 503 Service Temporarily Unavailable
+173.223.38.101:80 - Заголовок не найден
+38.100.150.76:80 - Fiberstreamwifi Portal
+117.212.166.223:80 - 
+156.59.146.29:80 - 403 Forbidden ZS
+62.240.115.19:80 - WEB SERVICE
+128.173.237.119:80 - NEW
+208.106.236.223:80 - Заголовок не найден
+31.14.56.152:80 - Universul Alimentar - Pătrundeți în lumea fascinantă a industriei HORECA și aflați cele mai recente tendințe și inovații culinare, împreună cu Universul Alimentar - sursa voastră de inspirație pentru succesul în domeniul gastronomic!
+47.12.4.127:80 - 
+68.183.109.97:80 - 503 Service Temporarily Unavailable
+24.8.146.119:80 - 
+103.48.1.10:80 - Apache2 Ubuntu Default Page: It works
+123.195.57.178:80 - WEB SERVICE
+209.112.171.110:80 - Заголовок не найден
+84.247.210.6:80 - 
+18.173.187.58:80 - Заголовок не найден
+185.122.112.142:80 - 185.6.9.59 - Just another WordPress site
