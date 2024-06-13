@@ -6263,3 +6263,8 @@
 200.195.180.226:80 - RouterOS router configuration page
 104.86.54.156:80 - Заголовок не найден
 127.230.172.152:80 - IIS Windows Server
+103.78.72.3:80 - Access forbidden!
+127.9.56.191:80 - IIS Windows Server
+143.47.119.26:80 - 404 Not Found
+127.94.30.140:80 - IIS Windows Server
+23.43.140.92:80 - Заголовок не найден
