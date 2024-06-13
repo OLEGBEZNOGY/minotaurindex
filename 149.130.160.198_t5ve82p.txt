@@ -5337,3 +5337,9 @@
 127.41.145.130:80 - IIS Windows Server
 185.243.93.160:80 - 
 52.146.67.105:80 - Microsoft Azure Web App - Error 404
+127.146.215.100:80 - IIS Windows Server
+127.4.157.96:80 - IIS Windows Server
+101.76.206.19:80 - 404 Not Found
+44.195.238.247:80 - Заголовок не найден
+127.0.39.153:80 - IIS Windows Server
+23.208.118.239:80 - Заголовок не найден
