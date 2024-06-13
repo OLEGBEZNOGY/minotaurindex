@@ -1,0 +1,126 @@
+87.116.145.196:80 - Заголовок не найден
+114.70.199.91:80 - L7
+185.79.129.123:80 - Заголовок не найден
+220.133.77.18:80 - ShinSoft
+52.105.161.39:80 - Заголовок не найден
+52.204.158.245:80 - Заголовок не найден
+8.217.56.46:80 - 404 Not Found
+95.216.194.96:80 - Welcome to nginx!
+184.51.232.40:80 - Заголовок не найден
+209.97.182.55:80 - Welcome to nginx!
+43.207.104.148:80 - Welcome to nginx!
+117.253.61.117:80 - TNZ-1G3F-XPON
+143.244.89.186:80 - Trust &amp; Safety Policies
+92.63.56.76:80 - Centreon - IT & Network Monitoring
+85.111.92.72:80 - 404 Not Found
+50.116.0.79:80 - Apache2 Ubuntu Default Page: It works
+94.231.154.42:80 - Заголовок не найден
+37.150.154.113:80 - GPON Home Gateway
+47.52.190.120:80 - Welcome to CentOS
+18.155.73.252:80 - Заголовок не найден
+164.132.175.163:80 - Apache2 Ubuntu Default Page: It works
+82.146.48.145:80 - Website blog.bzsystem.ru is ready. The content is to be added
+199.191.50.79:80 - Заголовок не найден
+3.11.82.193:80 - OVOD:
+1.162.113.86:80 - TCPSEAGLE&nbsp;-&nbsp;Synology&nbsp;DiskStation
+104.206.84.122:80 - 403 Forbidden
+23.211.164.208:80 - Заголовок не найден
+149.202.115.116:80 - S’identifier – Le nuage d&#039;Action Justice Climat Montpellier
+58.59.8.115:80 - CdvPHP - 简易留言本例子 - 上海龙翊信息安全技术有限公司
+121.169.74.85:80 - 
+45.243.213.252:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#48;&#56;&#78;&#32;&#86;&#50;&#46;&#53;
+186.37.80.115:80 - OpiekunWEB: brak dostÄpu do Internetu
+23.222.39.208:80 - OpiekunWEB: brak dostÄpu do Internetu
+23.7.64.68:80 - OpiekunWEB: brak dostÄpu do Internetu
+104.119.69.87:80 - OpiekunWEB: brak dostÄpu do Internetu
+201.229.144.30:80 - OpiekunWEB: brak dostÄpu do Internetu
+2.18.196.138:80 - OpiekunWEB: brak dostÄpu do Internetu
+156.59.115.28:80 - OpiekunWEB: brak dostÄpu do Internetu
+169.61.24.173:80 - OpiekunWEB: brak dostÄpu do Internetu
+3.16.94.46:80 - OpiekunWEB: brak dostÄpu do Internetu
+24.205.153.70:80 - OpiekunWEB: brak dostÄpu do Internetu
+2.23.172.245:80 - OpiekunWEB: brak dostÄpu do Internetu
+172.211.221.222:80 - OpiekunWEB: brak dostÄpu do Internetu
+185.178.87.133:80 - OpiekunWEB: brak dostÄpu do Internetu
+188.225.43.2:80 - OpiekunWEB: brak dostÄpu do Internetu
+24.196.126.158:80 - OpiekunWEB: brak dostÄpu do Internetu
+184.167.170.229:80 - OpiekunWEB: brak dostÄpu do Internetu
+212.68.186.82:80 - OpiekunWEB: brak dostÄpu do Internetu
+156.225.52.40:80 - OpiekunWEB: brak dostÄpu do Internetu
+185.158.192.21:80 - OpiekunWEB: brak dostÄpu do Internetu
+216.92.144.66:80 - OpiekunWEB: brak dostÄpu do Internetu
+80.71.237.126:80 - OpiekunWEB: brak dostÄpu do Internetu
+5.9.122.215:80 - OpiekunWEB: brak dostÄpu do Internetu
+31.44.136.58:80 - OpiekunWEB: brak dostÄpu do Internetu
+27.133.249.182:80 - OpiekunWEB: brak dostÄpu do Internetu
+195.201.20.207:80 - OpiekunWEB: brak dostÄpu do Internetu
+44.235.165.148:80 - OpiekunWEB: brak dostÄpu do Internetu
+179.42.102.189:80 - OpiekunWEB: brak dostÄpu do Internetu
+69.180.237.52:80 - OpiekunWEB: brak dostÄpu do Internetu
+216.250.42.170:80 - OpiekunWEB: brak dostÄpu do Internetu
+47.96.88.80:80 - OpiekunWEB: brak dostÄpu do Internetu
+102.71.139.140:80 - OpiekunWEB: brak dostÄpu do Internetu
+45.232.73.200:80 - OpiekunWEB: brak dostÄpu do Internetu
+104.112.129.177:80 - OpiekunWEB: brak dostÄpu do Internetu
+167.82.91.37:80 - OpiekunWEB: brak dostÄpu do Internetu
+198.190.115.54:80 - OpiekunWEB: brak dostÄpu do Internetu
+89.58.25.186:80 - OpiekunWEB: brak dostÄpu do Internetu
+93.90.20.197:80 - OpiekunWEB: brak dostÄpu do Internetu
+197.145.233.37:80 - OpiekunWEB: brak dostÄpu do Internetu
+85.13.190.221:80 - OpiekunWEB: brak dostÄpu do Internetu
+52.73.84.227:80 - OpiekunWEB: brak dostÄpu do Internetu
+83.46.181.98:80 - OpiekunWEB: brak dostÄpu do Internetu
+34.117.27.48:80 - OpiekunWEB: brak dostÄpu do Internetu
+23.229.226.7:80 - OpiekunWEB: brak dostÄpu do Internetu
+108.159.9.43:80 - OpiekunWEB: brak dostÄpu do Internetu
+101.42.116.29:80 - OpiekunWEB: brak dostÄpu do Internetu
+52.220.128.97:80 - OpiekunWEB: brak dostÄpu do Internetu
+121.196.159.34:80 - OpiekunWEB: brak dostÄpu do Internetu
+78.46.202.115:80 - OpiekunWEB: brak dostÄpu do Internetu
+134.236.46.65:80 - OpiekunWEB: brak dostÄpu do Internetu
+23.55.154.45:80 - OpiekunWEB: brak dostÄpu do Internetu
+45.182.136.98:80 - OpiekunWEB: brak dostÄpu do Internetu
+103.84.185.11:80 - OpiekunWEB: brak dostÄpu do Internetu
+2.13.194.85:80 - OpiekunWEB: brak dostÄpu do Internetu
+23.47.38.158:80 - OpiekunWEB: brak dostÄpu do Internetu
+94.237.121.146:80 - OpiekunWEB: brak dostÄpu do Internetu
+23.214.143.70:80 - OpiekunWEB: brak dostÄpu do Internetu
+49.247.0.145:80 - OpiekunWEB: brak dostÄpu do Internetu
+217.78.239.141:80 - OpiekunWEB: brak dostÄpu do Internetu
+185.67.2.129:80 - OpiekunWEB: brak dostÄpu do Internetu
+162.240.110.130:80 - OpiekunWEB: brak dostÄpu do Internetu
+201.95.59.55:80 - OpiekunWEB: brak dostÄpu do Internetu
+64.62.216.185:80 - OpiekunWEB: brak dostÄpu do Internetu
+177.73.224.23:80 - OpiekunWEB: brak dostÄpu do Internetu
+124.218.230.191:80 - OpiekunWEB: brak dostÄpu do Internetu
+52.194.204.90:80 - OpiekunWEB: brak dostÄpu do Internetu
+18.64.38.40:80 - OpiekunWEB: brak dostÄpu do Internetu
+67.199.123.115:80 - OpiekunWEB: brak dostÄpu do Internetu
+189.161.126.54:80 - OpiekunWEB: brak dostÄpu do Internetu
+195.57.140.26:80 - OpiekunWEB: brak dostÄpu do Internetu
+168.119.169.207:80 - OpiekunWEB: brak dostÄpu do Internetu
+66.135.10.34:80 - OpiekunWEB: brak dostÄpu do Internetu
+23.53.179.48:80 - OpiekunWEB: brak dostÄpu do Internetu
+168.206.12.56:80 - OpiekunWEB: brak dostÄpu do Internetu
+104.24.194.193:80 - OpiekunWEB: brak dostÄpu do Internetu
+20.151.28.26:80 - OpiekunWEB: brak dostÄpu do Internetu
+35.153.235.55:80 - OpiekunWEB: brak dostÄpu do Internetu
+23.219.48.38:80 - OpiekunWEB: brak dostÄpu do Internetu
+46.63.41.159:80 - OpiekunWEB: brak dostÄpu do Internetu
+91.218.247.183:80 - OpiekunWEB: brak dostÄpu do Internetu
+207.170.142.25:80 - OpiekunWEB: brak dostÄpu do Internetu
+216.137.61.31:80 - OpiekunWEB: brak dostÄpu do Internetu
+38.15.143.141:80 - OpiekunWEB: brak dostÄpu do Internetu
+131.226.4.172:80 - OpiekunWEB: brak dostÄpu do Internetu
+42.29.31.98:80 - OpiekunWEB: brak dostÄpu do Internetu
+188.209.196.153:80 - OpiekunWEB: brak dostÄpu do Internetu
+45.55.65.252:80 - OpiekunWEB: brak dostÄpu do Internetu
+3.160.118.92:80 - OpiekunWEB: brak dostÄpu do Internetu
+45.207.147.93:80 - OpiekunWEB: brak dostÄpu do Internetu
+133.68.165.227:80 - OpiekunWEB: brak dostÄpu do Internetu
+3.120.60.242:80 - OpiekunWEB: brak dostÄpu do Internetu
+51.161.120.29:80 - OpiekunWEB: brak dostÄpu do Internetu
+74.50.65.37:80 - OpiekunWEB: brak dostÄpu do Internetu
+94.123.138.104:80 - OpiekunWEB: brak dostÄpu do Internetu
+88.221.138.243:80 - OpiekunWEB: brak dostÄpu do Internetu
+64.20.143.82:80 - OpiekunWEB: brak dostÄpu do Internetu
