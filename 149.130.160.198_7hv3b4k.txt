@@ -2140,3 +2140,7 @@
 117.167.127.130:80 - 403 Forbidden
 127.15.231.158:80 - IIS Windows Server
 127.125.8.73:80 - IIS Windows Server
+127.58.153.12:80 - IIS Windows Server
+173.245.75.242:80 - 404 Not Found
+23.34.178.235:80 - Заголовок не найден
+149.96.144.215:80 - 403 Forbidden
