@@ -5365,3 +5365,39 @@
 167.82.75.219:80 - Fastly error: unknown domain 167.82.75.219
 38.6.238.180:80 - 404 Not Found
 127.89.90.5:80 - Welcome to XAMPP
+211.157.159.253:80 - Vite + Vue + TS
+154.12.164.211:80 - ERROR: The requested URL could not be retrieved
+18.136.85.231:80 - Заголовок не найден
+14.200.62.50:80 - ACME Access Only
+192.155.166.90:80 - 400 Bad Request
+127.64.107.113:80 - Welcome to XAMPP
+127.7.123.128:80 - Welcome to XAMPP
+39.39.105.117:80 - Заголовок не найден
+127.181.159.88:80 - Welcome to XAMPP
+132.255.207.106:80 - RF 301K| LOGIN
+127.184.72.94:80 - Welcome to XAMPP
+127.255.212.214:80 - Welcome to XAMPP
+186.7.31.166:80 - ZXHN H108N V2.5
+141.98.24.68:80 - Softaculous Webuzo | Default Website Page
+23.106.64.129:80 - 404 Not Found
+127.175.28.195:80 - Welcome to XAMPP
+143.198.116.214:80 - 404 Not Found
+193.188.127.147:80 - Заголовок не найден
+127.58.166.62:80 - Welcome to XAMPP
+104.206.14.175:80 - 403 Forbidden
+209.127.46.19:80 - 
+127.183.254.208:80 - Welcome to XAMPP
+59.126.52.28:80 - 
+127.243.96.166:80 - Welcome to XAMPP
+184.26.64.159:80 - Заголовок не найден
+216.92.108.15:80 - Shareable Memes, Inspiring Quotes, Yoga Motivation | FearlessYoga
+127.18.217.159:80 - Welcome to XAMPP
+127.124.148.159:80 - Welcome to XAMPP
+146.75.35.98:80 - Fastly error: unknown domain 146.75.35.98
+99.86.65.198:80 - Заголовок не найден
+20.226.156.164:80 - Заголовок не найден
+152.136.165.119:80 - 云途
+127.202.210.72:80 - Welcome to XAMPP
+113.21.230.203:80 - RouterOS router configuration page
+127.81.17.80:80 - Welcome to XAMPP
+119.160.194.182:80 - Welcome to XAMPP
