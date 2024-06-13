@@ -79,3 +79,39 @@
 107.158.44.78:80 - ERROR: The requested URL could not be retrieved
 216.137.48.196:80 - Заголовок не найден
 195.25.213.155:80 - IIS Windows Server
+23.208.53.175:80 - Заголовок не найден
+78.46.239.125:80 - 503 Service Temporarily Unavailable
+20.85.255.139:80 - Your Azure Function App is up and running.
+213.184.31.92:80 - Заголовок не найден
+195.146.145.69:80 - 503 Service Temporarily Unavailable
+188.168.21.186:80 - Заголовок не найден
+52.146.45.201:80 - Заголовок не найден
+51.210.110.200:80 - Proudly Managed By ServerAvatar
+43.135.160.170:80 - AI Video and Image Enhancer &amp; Upscaler
+157.90.184.76:80 - KonsoleH Login
+72.92.140.103:80 - Welcome to the P38 Web Site....
+200.107.22.238:80 - SMRF
+104.131.76.246:80 - Canvas
+44.202.195.144:80 - GoodPup Partners
+47.106.184.110:80 - 404 Not Found
+91.234.194.93:80 - Заголовок не найден
+38.114.200.227:80 - B5c
+193.25.121.189:80 - RouterOS router configuration page
+213.149.157.53:80 - 
+185.63.252.63:80 - SANSAT IPTV
+23.63.206.195:80 - Заголовок не найден
+85.164.200.193:80 - index
+173.255.164.56:80 - Bandwidth Speed Test
+18.164.164.2:80 - Заголовок не найден
+156.250.241.224:80 - 404 Not Found
+51.159.76.181:80 - Welcome to nginx!
+87.239.146.50:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+184.105.218.160:80 - Page not found
+184.27.159.211:80 - Заголовок не найден
+35.154.233.102:80 - Заголовок не найден
+67.231.23.148:80 - Заголовок не найден
+101.200.42.216:80 - æ­åï¼ç«ç¹åå»ºæåï¼
+113.163.238.25:80 - 
+23.6.76.157:80 - Заголовок не найден
+151.80.34.207:80 - Apache HTTP Server Test Page powered by CentOS
+23.41.95.171:80 - Заголовок не найден
