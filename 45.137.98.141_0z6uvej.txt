@@ -11984,3 +11984,5 @@
 127.222.239.174:80 - Welcome to XAMPP
 127.134.198.154:80 - Welcome to XAMPP
 160.124.17.203:80 - æ²¡ææ¾å°ç«ç¹
+127.196.73.120:80 - Welcome to XAMPP
+54.200.146.204:80 - Home - Samuel Pierce Artist
