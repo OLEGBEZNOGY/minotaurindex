@@ -7216,3 +7216,127 @@
 59.13.10.197:80 - Заголовок не найден
 127.135.108.147:80 - Welcome to XAMPP
 104.120.76.232:80 - Заголовок не найден
+18.136.240.102:80 - Welcome to nginx!
+41.84.250.233:80 - Заголовок не найден
+210.136.239.30:80 - Заголовок не найден
+18.64.138.87:80 - Заголовок не найден
+129.213.91.169:80 - Default Site
+64.23.167.35:80 - INOVA CITIES
+108.156.62.60:80 - Заголовок не найден
+47.102.69.197:80 - Заголовок не найден
+31.128.117.80:80 - Заголовок не найден
+46.59.10.91:80 - 401 Unauthorized
+127.37.157.35:80 - Welcome to XAMPP
+47.89.33.115:80 - ç½ç«è®¿é®æ¥é
+185.140.124.227:80 - Domain Default page
+127.253.150.66:80 - Welcome to XAMPP
+192.236.38.112:80 - Заголовок не найден
+192.227.189.70:80 - Apache2 Ubuntu Default Page: It works
+187.134.78.47:80 - 
+127.121.149.3:80 - Welcome to XAMPP
+125.227.22.195:80 - 毓豪企業股份有限公司
+127.103.115.227:80 - Welcome to XAMPP
+127.102.66.18:80 - Welcome to XAMPP
+23.62.232.4:80 - Заголовок не найден
+47.106.129.79:80 - æ²¡ææ¾å°ç«ç¹
+127.106.178.25:80 - Welcome to XAMPP
+23.60.195.83:80 - Заголовок не найден
+61.230.194.154:80 - 
+209.235.157.115:80 - Заголовок не найден
+195.161.41.25:80 - Apache2 Ubuntu Default Page: It works
+184.31.157.13:80 - Заголовок не найден
+154.206.12.163:80 - Direct IP access not allowed | Cloudflare
+127.91.64.246:80 - Welcome to XAMPP
+127.70.143.145:80 - Welcome to XAMPP
+154.55.184.169:80 - 403 Forbidden
+2.118.31.116:80 - NethServer Enterprise
+88.147.149.170:80 - Заголовок не найден
+154.214.78.237:80 - 403 Forbidden
+154.205.121.87:80 - 404 Not Found
+127.140.134.84:80 - Welcome to XAMPP
+3.24.143.208:80 - Welcome to nginx!
+127.191.7.29:80 - Welcome to XAMPP
+103.66.92.240:80 - 404 Not Found
+103.165.226.114:80 - 
+3.80.187.68:80 - User&#039;s blog
+211.87.198.174:80 - 404 Not Found
+38.73.96.74:80 - Home
+212.85.111.207:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+127.247.86.116:80 - Welcome to XAMPP
+185.87.249.125:80 - Заголовок не найден
+127.13.216.236:80 - Welcome to XAMPP
+168.226.85.121:80 - Заголовок не найден
+127.82.248.228:80 - Welcome to XAMPP
+51.20.72.122:80 - FelixTheBlackCat(Hat)
+23.57.230.234:80 - Заголовок не найден
+45.77.205.60:80 - Apache2 Ubuntu Default Page: It works
+127.26.102.21:80 - Welcome to XAMPP
+104.164.88.155:80 - 404 Not Found
+127.188.108.62:80 - Welcome to XAMPP
+23.218.103.199:80 - Заголовок не найден
+127.35.24.85:80 - Welcome to XAMPP
+127.185.43.52:80 - Welcome to XAMPP
+23.33.0.142:80 - Заголовок не найден
+172.217.57.84:80 - Заголовок не найден
+127.103.11.194:80 - Welcome to XAMPP
+127.180.35.209:80 - Welcome to XAMPP
+47.110.175.232:80 - 阿里云 Web应用防火墙
+143.110.219.65:80 - Заголовок не найден
+42.61.9.142:80 - Web managerment Home
+127.241.98.253:80 - Welcome to XAMPP
+147.234.48.48:80 - 
+173.231.240.111:80 - Default Web Page
+45.144.66.133:80 - 403 Forbidden
+39.106.152.224:80 - IIS7
+189.45.203.45:80 - &#70;&#54;&#55;&#48;&#76;
+154.9.227.26:80 - 内江二中论坛
+18.157.94.152:80 - Заголовок не найден
+94.131.2.113:80 - Welcome to nginx!
+127.236.73.25:80 - Welcome to XAMPP
+18.223.79.4:80 - 403 Forbidden
+64.41.137.109:80 - Test Page for 64.41.137.109
+52.175.34.136:80 - welcome use kangle!
+37.187.141.157:80 - Espace Client METROPLUS
+16.170.13.164:80 - Supportergrossisten - Tjäna pengar till laget, klassen eller föreningen
+18.160.156.175:80 - Заголовок не найден
+173.92.141.135:80 - 
+207.204.31.108:80 - 403 Forbidden
+78.40.13.2:80 - 
+201.31.246.1:80 - Web user login
+42.61.79.158:80 - Web user login
+127.85.177.54:80 - Welcome to XAMPP
+51.81.7.244:80 - Web Server's Default Page
+127.38.132.112:80 - Welcome to XAMPP
+45.43.13.148:80 - Заголовок не найден
+39.56.15.17:80 - Заголовок не найден
+207.60.137.121:80 - 404 Not Found
+127.148.6.202:80 - Welcome to XAMPP
+127.29.22.80:80 - Welcome to XAMPP
+74.116.187.238:80 - Apache2 Debian Default Page: It works
+127.249.96.88:80 - Welcome to XAMPP
+127.194.97.158:80 - Welcome to XAMPP
+95.57.68.162:80 - GPON Home Gateway
+127.89.165.144:80 - Welcome to XAMPP
+23.205.62.113:80 - Заголовок не найден
+67.205.14.113:80 - Site not found &middot; DreamHost
+213.251.53.99:80 - Apache2 Ubuntu Default Page: It works
+184.86.3.234:80 - Заголовок не найден
+127.45.30.143:80 - Welcome to XAMPP
+186.215.0.219:80 - Default Site
+85.124.29.15:80 - 403 Forbidden
+12.190.14.132:80 - Заголовок не найден
+119.245.151.7:80 - Заголовок не найден
+127.125.164.144:80 - Welcome to XAMPP
+127.40.145.190:80 - Welcome to XAMPP
+127.233.245.249:80 - Welcome to XAMPP
+64.90.33.145:80 - Site not found &middot; DreamHost
+66.29.151.193:80 - Welcome to nginx!
+167.82.57.53:80 - Fastly error: unknown domain 167.82.57.53
+190.144.69.101:80 - 
+18.223.215.139:80 - Welcome to nginx!
+54.227.145.247:80 - Material Selection
+127.128.106.251:80 - Welcome to XAMPP
+127.18.25.48:80 - Welcome to XAMPP
+23.222.139.193:80 - Заголовок не найден
+122.114.195.162:80 - IIS Windows Server
+127.5.196.19:80 - Welcome to XAMPP
