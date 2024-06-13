@@ -437,3 +437,8 @@
 77.233.228.177:80 - TMC Nordic &#8211; The home of beauty &amp; cosmetics brands in the Nordics
 40.121.3.172:80 - Заголовок не найден
 121.199.46.151:80 - Welcome to CentOS
+23.78.33.4:80 - Заголовок не найден
+104.104.189.59:80 - Заголовок не найден
+193.112.34.122:80 - 500 Internal Server Error
+185.220.237.18:80 - Welcome to nginx!
+159.69.16.176:80 - Welcome to nginx!
