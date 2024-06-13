@@ -7232,3 +7232,107 @@
 165.154.55.74:80 - 404 Not Found
 127.62.167.69:80 - IIS Windows Server
 127.247.182.197:80 - IIS Windows Server
+120.26.225.186:80 - 404 Not Found
+38.207.119.80:80 - 404 Not Found
+182.92.162.13:80 - 403 Forbidden
+127.221.167.242:80 - IIS Windows Server
+127.205.115.115:80 - IIS Windows Server
+95.141.128.200:80 - 401 Authorization Required
+127.141.140.186:80 - IIS Windows Server
+23.52.224.177:80 - Заголовок не найден
+174.138.110.39:80 - Заголовок не найден
+18.160.222.136:80 - Заголовок не найден
+59.89.183.138:80 - NTPL-XPON2GEACV
+165.231.18.30:80 - 403 Forbidden
+127.216.197.1:80 - IIS Windows Server
+67.225.206.20:80 - 403 Forbidden
+23.59.110.220:80 - Заголовок не найден
+45.142.178.133:80 - 404 Not Found
+127.214.222.188:80 - IIS Windows Server
+41.193.13.25:80 - IIS Windows Server
+99.86.44.52:80 - Заголовок не найден
+103.220.209.193:80 - Please wait, the login page is opening...
+202.194.7.107:80 - 404 Not Found
+127.218.180.246:80 - IIS Windows Server
+94.23.155.103:80 - Web Server's Default Page
+100.27.1.221:80 - Artboard
+127.225.14.35:80 - IIS Windows Server
+72.167.41.118:80 - Welcome to nginx!
+86.19.220.135:80 - 
+184.85.154.8:80 - Заголовок не найден
+108.157.1.2:80 - Заголовок не найден
+127.162.213.15:80 - IIS Windows Server
+24.216.233.246:80 - 
+127.14.207.79:80 - IIS Windows Server
+219.231.146.108:80 - 404 Not Found
+165.22.30.168:80 - Заголовок не найден
+127.138.5.225:80 - IIS Windows Server
+108.186.15.58:80 - Заголовок не найден
+36.103.180.33:80 - Заголовок не найден
+175.101.29.245:80 - 
+127.34.203.89:80 - IIS Windows Server
+45.92.28.149:80 - 407 Proxy Authentication Required
+127.188.227.102:80 - IIS Windows Server
+127.3.6.221:80 - IIS Windows Server
+120.221.138.151:80 - 403 Forbidden
+198.50.126.82:80 - Test Page for the Nginx HTTP Server on AlmaLinux
+119.47.99.161:80 - Energy Monitor
+104.75.33.196:80 - Заголовок не найден
+104.66.126.223:80 - Заголовок не найден
+127.129.157.84:80 - IIS Windows Server
+127.16.126.128:80 - IIS Windows Server
+167.71.253.107:80 - 404 Not Found
+3.64.0.153:80 - Заголовок не найден
+18.190.172.103:80 - 503 Service Temporarily Unavailable
+127.75.64.155:80 - IIS Windows Server
+87.106.194.246:80 - phpMyAdmin
+181.26.50.9:80 - Заголовок не найден
+124.146.220.200:80 - ã¢ã©ã¤ãã©ãã©ããªã¼ãºæ ªå¼ä¼ç¤¾
+3.161.145.13:80 - Заголовок не найден
+200.91.236.179:80 - Заголовок не найден
+127.131.2.138:80 - IIS Windows Server
+127.217.85.66:80 - IIS Windows Server
+39.172.133.217:80 - Заголовок не найден
+147.203.60.7:80 - Just a moment...
+176.58.96.84:80 - div
+84.137.169.69:80 - Заголовок не найден
+65.8.221.178:80 - Заголовок не найден
+184.30.247.217:80 - Заголовок не найден
+127.8.229.88:80 - IIS Windows Server
+23.206.76.131:80 - Заголовок не найден
+213.176.106.73:80 - Заголовок не найден
+104.27.18.214:80 - Direct IP access not allowed | Cloudflare
+103.87.212.110:80 - Apache2 Ubuntu Default Page: It works
+118.89.76.93:80 - 404 Not Found
+45.207.95.23:80 - 404 Not Found
+18.67.35.105:80 - Заголовок не найден
+20.60.82.112:80 - InvalidUri
+104.121.2.225:80 - Заголовок не найден
+59.110.121.243:80 - H-LAWå»é¢æ³å¡ç®¡çç³»ç»
+104.108.195.215:80 - Заголовок не найден
+192.197.113.42:80 - æ±æ­ï¼ç«ç¹å·²æå
+61.221.218.217:80 - 
+127.8.218.55:80 - IIS Windows Server
+85.128.180.138:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+127.106.3.243:80 - IIS Windows Server
+104.68.12.112:80 - Заголовок не найден
+127.6.97.251:80 - IIS Windows Server
+103.35.86.90:80 - Welcome to nginx!
+127.65.128.101:80 - IIS Windows Server
+13.41.232.231:80 - 404 Not Found
+148.204.144.71:80 - Web Image Monitor
+23.46.198.123:80 - Заголовок не найден
+37.49.148.224:80 - 500 Internal Server Error
+127.181.152.41:80 - IIS Windows Server
+127.73.38.117:80 - IIS Windows Server
+64.235.242.239:80 - Softaculous Webuzo | Default Website Page
+127.151.236.241:80 - IIS Windows Server
+23.217.238.237:80 - Заголовок не найден
+51.15.84.57:80 - Welcome to nginx!
+34.23.155.143:80 - Welcome to OpenResty!
+144.126.208.228:80 - SonarQube
+127.200.188.87:80 - IIS Windows Server
+159.223.184.201:80 - Welcome to nginx!
+45.146.200.249:80 - Заголовок не найден
+196.51.23.137:80 - ERROR: The requested URL could not be retrieved
+127.167.198.159:80 - IIS Windows Server
