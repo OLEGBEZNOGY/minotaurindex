@@ -16086,3 +16086,155 @@ Uczelnia Techniczno-Handlowa im. Heleny Chodkowskiej w Warszawie - APD
 92.39.210.211:80 - Заголовок не найден
 155.138.212.195:80 - Unknown Domain
 179.51.86.247:80 - .::Welcome to the Web-Based Configurator::.
+23.218.8.7:80 - Заголовок не найден
+8.136.105.137:80 - 404 Not Found
+1.32.111.55:80 - 
+52.182.55.34:80 - Microsoft Azure Web App - Error 404
+46.242.156.9:80 - Strona w przygotowaniu
+125.229.66.74:80 - 
+104.16.229.177:80 - Direct IP access not allowed | Cloudflare
+196.51.103.74:80 - ERROR: The requested URL could not be retrieved
+107.161.48.8:80 - Los Angeles Dedicated Server
+104.27.102.108:80 - Direct IP access not allowed | Cloudflare
+218.227.161.82:80 - Raika.jp | The technology is a playground.
+38.12.105.52:80 - Заголовок не найден
+23.218.75.206:80 - Заголовок не найден
+184.84.84.42:80 - Заголовок не найден
+1.95.40.172:80 - Welcome to nginx!
+108.156.252.137:80 - Заголовок не найден
+104.25.247.72:80 - Direct IP access not allowed | Cloudflare
+94.236.237.59:80 - Заголовок не найден
+78.140.176.59:80 - Welcome to nginx!
+23.73.26.122:80 - Заголовок не найден
+165.227.113.2:80 - Secure Login: Log In
+68.183.151.201:80 - Welcome to nginx!
+161.35.20.246:80 - 404 Not Found
+3.160.117.216:80 - Заголовок не найден
+23.39.176.207:80 - Заголовок не найден
+54.161.48.161:80 - Заголовок не найден
+34.235.70.74:80 - 403 Forbidden
+46.228.246.138:80 - Document Moved
+23.5.101.216:80 - Заголовок не найден
+154.22.202.215:80 - 404 Not Found
+162.215.120.72:80 - Not Acceptable!
+59.27.122.146:80 - Заголовок не найден
+167.160.162.41:80 - Заголовок не найден
+178.132.7.141:80 - Заголовок не найден
+140.174.12.154:80 - Missing or wrong site configuration
+104.236.5.37:80 - 403 Forbidden
+206.238.55.99:80 - 404 Not Found
+67.213.218.28:80 - Заголовок не найден
+31.41.95.81:80 - Zabbix
+154.23.158.250:80 - 403 Forbidden
+111.3.75.231:80 - Заголовок не найден
+168.0.52.98:80 - IXCsoft ACS
+206.238.174.36:80 - 404 Not Found
+1.248.100.38:80 - Заголовок не найден
+45.43.195.217:80 - Заголовок не найден
+143.198.247.32:80 - INDSOL CUU
+98.217.8.103:80 - index
+68.171.225.115:80 - Error 404
+23.195.103.114:80 - Заголовок не найден
+23.205.164.48:80 - Заголовок не найден
+154.41.240.162:80 - 403 Forbidden
+3.224.82.78:80 - Grafana
+34.105.210.167:80 - 404 Not Found
+18.239.182.223:80 - Заголовок не найден
+47.114.136.89:80 - FastAdmin - 基于ThinkPHP5和Bootstrap的极速后台开发框架
+203.137.164.91:80 - 401 Authorization Required
+54.81.60.63:80 - Kerala's No.1 Share Trading Academy - Expert Online &amp; Offline Classes
+34.195.213.31:80 - A Condensed History of Australian Camels
+151.101.105.138:80 - Fastly error: unknown domain 151.101.105.138
+81.68.150.236:80 - Заголовок не найден
+44.194.7.143:80 - Заголовок не найден
+23.211.158.104:80 - Заголовок не найден
+23.10.170.74:80 - Заголовок не найден
+23.8.41.60:80 - Заголовок не найден
+184.25.161.71:80 - Заголовок не найден
+92.123.7.138:80 - Заголовок не найден
+4.158.21.210:80 - Your Azure Function App is up and running.
+154.30.217.209:80 - ERROR: The requested URL could not be retrieved
+204.74.252.200:80 - 404 Not Found
+71.87.41.18:80 - 
+23.200.163.222:80 - Заголовок не найден
+20.75.147.198:80 - Your Azure Function App is up and running.
+109.110.87.10:80 - index
+20.235.97.83:80 - IIS Windows Server
+68.113.109.253:80 - 
+72.167.224.83:80 - Заголовок не найден
+78.89.154.223:80 - WEB SERVICE
+185.136.166.166:80 - 1news.az | Новости
+23.35.208.25:80 - Заголовок не найден
+124.236.60.76:80 - Заголовок не найден
+44.209.181.242:80 - Заголовок не найден
+94.176.239.13:80 - 403 &mdash; Forbidden
+173.222.205.52:80 - Заголовок не найден
+34.210.6.144:80 - Заголовок не найден
+85.128.219.79:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+23.77.215.231:80 - Заголовок не найден
+200.88.129.181:80 - 
+47.97.212.138:80 - Not Found
+104.82.139.13:80 - Заголовок не найден
+173.201.186.165:80 - S&HRedBrick, LLC
+89.116.31.252:80 - 403 Forbidden
+45.170.244.59:80 - Заголовок не найден
+139.196.59.92:80 - 502 Bad Gateway
+34.229.75.47:80 - Odoo
+37.232.93.242:80 - Заголовок не найден
+73.84.3.58:80 - 
+196.51.144.197:80 - ERROR: The requested URL could not be retrieved
+20.86.24.212:80 - Welcome to nginx!
+184.26.189.29:80 - Заголовок не найден
+43.139.10.115:80 - IIS Windows Server
+188.40.20.5:80 - 503 Service Temporarily Unavailable
+158.177.132.186:80 - Arabsea Softwares
+34.248.148.133:80 - Заголовок не найден
+18.216.118.151:80 - Заголовок не найден
+39.105.63.28:80 - 404 Not Found
+162.0.216.12:80 - Заголовок не найден
+82.180.141.227:80 - 403 Forbidden
+52.11.69.80:80 - Page Redirection
+151.101.142.95:80 - Fastly error: unknown domain 151.101.142.95
+23.58.100.206:80 - Заголовок не найден
+202.74.112.206:80 - Test Page for the HTTP Server on AlmaLinux
+31.220.77.216:80 - 401 - Unauthorized: Access is denied due to invalid credentials.
+52.85.219.70:80 - Заголовок не найден
+73.149.181.24:80 - Comcast Business Gateway
+200.198.43.5:80 - SiGRES - SISTEMA DE GERENCIAMENTO DE RESOLUÃÃES ESTADUAIS DE
+
+	SAÃDE
+99.86.103.119:80 - Заголовок не найден
+13.247.24.75:80 - Заголовок не найден
+23.59.134.66:80 - Заголовок не найден
+65.2.124.132:80 - Заголовок не найден
+183.181.98.145:80 - ç¡å¹ãªURLã§ã
+23.47.106.222:80 - Заголовок не найден
+96.6.96.144:80 - Заголовок не найден
+60.205.92.196:80 - Welcome to nginx!
+95.14.97.239:80 - 
+173.194.219.148:80 - Google
+103.96.140.248:80 - 404 Not Found
+172.64.174.22:80 - Direct IP access not allowed | Cloudflare
+52.189.17.121:80 - Microsoft Azure Web App - Error 404
+38.181.24.130:80 - æ­£è§ç½é¡µå£°æ
+134.209.25.112:80 - Apache2 Ubuntu Default Page: It works
+165.227.3.8:80 - 2020 Stack -  | 2020 Stack
+24.222.62.46:80 - IIS Windows Server
+154.23.73.246:80 - Заголовок не найден
+104.24.178.70:80 - Direct IP access not allowed | Cloudflare
+174.81.152.81:80 - 
+20.6.155.122:80 - Welcome!
+217.160.91.228:80 - H&eacute;bergement, enregistrement de nom de domaine et services internet par 1&amp;1 Internet
+183.90.241.45:80 - ç¡å¹ãªURLã§ã
+47.97.35.179:80 - æ²¡ææ¾å°ç«ç¹
+156.244.98.237:80 - 404 Not Found
+179.36.202.110:80 - Заголовок не найден
+167.99.39.10:80 - Bravissimi App
+13.234.195.238:80 - Apache2 Ubuntu Default Page: It works
+67.227.147.103:80 - Заголовок не найден
+13.110.151.189:80 - 404 URL Not Found
+51.222.85.107:80 - Daily Proficiency &ndash; A blog about design and web development for creators.
+159.192.165.223:80 - 
+104.19.6.241:80 - Direct IP access not allowed | Cloudflare
+91.228.198.89:80 - Cyber_Folks Lepsza szybkoÅÄ stron i wsparcie bez porÃ³wnania
+23.212.37.244:80 - Заголовок не найден
