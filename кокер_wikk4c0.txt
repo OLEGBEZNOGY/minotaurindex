@@ -5059,3 +5059,143 @@
 3.8.212.162:80 - Dose Calculator
 13.227.67.26:80 - Заголовок не найден
 20.141.40.15:80 - Заголовок не найден
+176.111.121.222:80 - Заголовок не найден
+134.209.8.183:80 - Error | Drupal
+149.104.11.143:80 - æ²¡ææ¾å°ç«ç¹
+125.59.117.23:80 - TL-WR842N
+2.17.242.204:80 - Заголовок не найден
+69.59.197.173:80 - Error 404 (Not Found)!!1
+168.182.191.12:80 - Webui
+4.207.69.176:80 - Your Azure Function App is up and running.
+79.96.117.114:80 - Заголовок не найден
+34.110.8.96:80 - 404 Not Found
+60.250.75.19:80 - ShinSoft
+3.230.200.148:80 - Alcaldia de santiago de cali
+94.243.118.39:80 - 
+17.250.81.5:80 - 400 Bad Request
+156.245.6.100:80 - 404 Not Found
+95.154.110.235:80 - 403 Forbidden
+23.49.205.4:80 - Заголовок не найден
+38.207.92.6:80 - 404 Not Found
+15.156.197.214:80 - Finkelsteins Law &#8211; Family Law Attorneys
+47.97.0.229:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+20.54.157.209:80 - Your Azure Function App is up and running.
+71.89.12.68:80 - 
+128.199.255.135:80 - 403 Forbidden
+198.23.216.249:80 - 407 Proxy Authentication Required
+18.160.236.92:80 - Заголовок не найден
+65.20.192.87:80 - Заголовок не найден
+142.251.0.100:80 - Google
+2.59.134.26:80 - Web Server's Default Page
+96.16.55.15:80 - Заголовок не найден
+23.12.106.32:80 - Заголовок не найден
+35.217.50.26:80 - Заголовок не найден
+38.154.108.124:80 - ERROR: The requested URL could not be retrieved
+139.59.111.173:80 - ログイン
+23.41.52.87:80 - Заголовок не найден
+181.177.96.251:80 - 407 Proxy Authentication Required
+13.231.193.207:80 - ã¨ã©ã¼
+61.79.150.211:80 - index
+104.24.204.80:80 - Direct IP access not allowed | Cloudflare
+5.204.28.121:80 - 
+175.178.255.105:80 - 404 Not Found
+45.200.253.87:80 - 403 Forbidden
+154.205.215.146:80 - 纸飞机相似软件_谷歌纸飞机软件_纸飞机中文版下载_飞机聊天软件下载
+23.40.3.126:80 - Заголовок не найден
+163.1.165.101:80 - Firewall Notification
+156.250.182.107:80 - æ²¡ææ¾å°ç«ç¹
+170.130.64.153:80 - 403 Forbidden
+192.9.227.85:80 - Default Site
+202.142.225.189:80 - Заголовок не найден
+13.251.225.239:80 - ETS Tech Integration | แหล่งรวมเทคโนโลยีการศึกษา
+213.238.168.157:80 - 404 Not Found
+139.162.218.125:80 - Applesnacks Catering
+156.241.163.146:80 - 404 Not Found
+191.232.215.50:80 - IIS Windows Server
+185.45.74.148:80 - Domain Default page
+23.195.255.208:80 - Заголовок не найден
+172.93.142.98:80 - ERROR: The requested URL could not be retrieved
+23.226.51.253:80 - 404 Not Found
+212.9.183.243:80 - Index of /
+108.186.88.104:80 - æ­åï¼ç«ç¹åå»ºæåï¼
+104.17.31.250:80 - Direct IP access not allowed | Cloudflare
+209.216.25.45:80 - Заголовок не найден
+111.84.219.110:80 - Заголовок не найден
+122.17.145.13:80 - New Server -- DOMAINNAME
+200.88.90.102:80 - 
+3.213.181.137:80 - 400 The plain HTTP request was sent to HTTPS port
+85.18.33.197:80 - Orchestra NG Login
+3.164.166.171:80 - Заголовок не найден
+172.82.136.233:80 - 404 Not Found
+208.18.15.221:80 - IIS Windows Server
+104.100.51.189:80 - Заголовок не найден
+166.142.170.211:80 - Заголовок не найден
+192.177.120.19:80 - 403 Forbidden
+139.99.163.12:80 - 500 Internal Server Error
+3.121.106.157:80 - Welcome to nginx!
+107.158.163.60:80 - ERROR: The requested URL could not be retrieved
+38.28.142.109:80 - 403 Forbidden
+165.22.79.94:80 - 503 Service Temporarily Unavailable
+178.86.51.149:80 - Заголовок не найден
+160.121.98.232:80 - 404 Not Found
+70.20.36.54:80 - Заголовок не найден
+154.7.133.64:80 - Apache HTTP Server Test Page powered by CentOS
+168.76.59.3:80 - 404 Not Found
+109.73.126.147:80 - Web Filter Violation
+117.210.175.98:80 - content
+194.110.247.111:80 - 404 Not Found
+143.42.45.254:80 - Private Club : Members Section
+3.0.88.46:80 - Заголовок не найден
+188.228.72.23:80 - index
+23.42.140.81:80 - Заголовок не найден
+52.12.81.241:80 - Welcome to nginx!
+87.9.190.205:80 - Ksenia Lares WebServer
+2.20.109.42:80 - Заголовок не найден
+52.228.156.103:80 - Заголовок не найден
+92.185.160.1:80 - Success!
+99.142.76.122:80 - AT&T WiFi Portal
+47.91.159.36:80 - IIS Windows Server
+104.18.233.71:80 - Direct IP access not allowed | Cloudflare
+38.11.37.132:80 - 403 Forbidden
+89.161.171.161:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+52.216.242.31:80 - Amazon S3 - Cloud Object Storage  - AWS
+217.219.194.74:80 - ...
+20.102.37.92:80 - Заголовок не найден
+179.53.206.35:80 - 
+89.232.185.26:80 - Вестник общественного контроля
+212.210.141.227:80 - Document Error: Unauthorized
+68.58.150.181:80 - 
+23.65.132.103:80 - Заголовок не найден
+4.158.69.241:80 - Заголовок не найден
+185.39.47.185:80 - IIS Windows Server
+185.17.107.220:80 - Заголовок не найден
+153.127.64.25:80 - 404 Not Found
+193.200.64.136:80 - 404 Not Found
+2.16.132.186:80 - 나봇3
+96.6.42.91:80 - Заголовок не найден
+23.46.161.20:80 - Заголовок не найден
+104.79.201.91:80 - Заголовок не найден
+45.145.240.131:80 - Citel NET - Telecomunicações LTDA.
+13.226.21.199:80 - Заголовок не найден
+136.226.113.103:80 - Internet Security by Zscaler
+80.158.88.91:80 - Заголовок не найден
+23.57.196.194:80 - Заголовок не найден
+23.204.128.93:80 - Заголовок не найден
+188.166.216.42:80 - MBAH PAITO - MBAH PAITO
+217.182.86.0:80 - Apache2 Debian Default Page: It works
+94.78.128.2:80 - WEB SERVICE
+3.163.41.58:80 - Заголовок не найден
+213.32.49.195:80 - Web Server's Default Page
+184.27.151.109:80 - Заголовок не найден
+154.30.195.102:80 - ERROR: The requested URL could not be retrieved
+152.0.135.119:80 - 
+3.229.198.184:80 - 503 Service Temporarily Unavailable
+223.165.97.138:80 - Заголовок не найден
+184.28.87.235:80 - Заголовок не найден
+3.163.40.179:80 - Заголовок не найден
+35.171.61.125:80 - TURN AROUND!
+14.37.236.126:80 - Gargoyle Router Management Utility
+104.79.199.143:80 - Заголовок не найден
+45.82.188.20:80 - Web Server's Default Page
+132.167.192.72:80 - MyCEA - l'actualitÃ© des salariÃ©s CEA dans la poche, simple d'accÃ¨s et personnalisable
+103.81.115.94:80 - RouterOS
