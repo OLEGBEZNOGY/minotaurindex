@@ -16010,3 +16010,41 @@ Context: {&quot;exception&quot;:{}}
 127.160.147.9:80 - Welcome to XAMPP
 143.204.208.73:80 - Заголовок не найден
 54.39.157.24:80 - Заголовок не найден
+191.101.110.119:80 - 407 Proxy Authentication Required
+127.220.162.68:80 - Welcome to XAMPP
+72.136.193.241:80 - Error 404 (Not Found)!!1
+213.96.86.135:80 - Redirigir al navegador a otro sitio
+108.156.206.161:80 - Заголовок не найден
+165.73.83.60:80 - Заголовок не найден
+39.46.236.19:80 - Заголовок не найден
+127.58.255.167:80 - Welcome to XAMPP
+108.186.216.221:80 - Заголовок не найден
+127.33.193.16:80 - Welcome to XAMPP
+127.116.96.28:80 - Welcome to XAMPP
+73.181.10.199:80 - Panvamp's Digital Palace
+23.3.57.175:80 - Заголовок не найден
+127.149.250.169:80 - Welcome to XAMPP
+164.132.11.43:80 - IIS Windows Server
+168.76.103.6:80 - 404 Not Found
+127.6.16.147:80 - Welcome to XAMPP
+104.85.148.95:80 - Заголовок не найден
+127.112.242.221:80 - Welcome to XAMPP
+217.160.188.57:80 - Apache2 Ubuntu Default Page: It works
+222.124.154.230:80 - CBT: Log in to the site
+108.156.104.227:80 - Заголовок не найден
+13.115.186.61:80 - Test Page for the Apache HTTP Server on the Amazon Linux AMI
+127.227.58.178:80 - Welcome to XAMPP
+148.255.169.107:80 - 
+99.234.27.247:80 - index
+91.147.224.2:80 - 401 Authorization Required
+173.239.231.50:80 - Заголовок не найден
+184.87.128.208:80 - Заголовок не найден
+113.161.204.98:80 - Vigor Login Page
+127.135.36.122:80 - Welcome to XAMPP
+127.36.231.226:80 - Welcome to XAMPP
+127.112.26.153:80 - Welcome to XAMPP
+134.73.199.144:80 - 403 Forbidden
+39.107.242.24:80 - Error
+146.71.57.137:80 - 404 Not Found
+23.63.84.56:80 - Заголовок не найден
+87.240.138.16:80 - 403 Forbidden
