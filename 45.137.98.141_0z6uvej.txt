@@ -15001,3 +15001,36 @@ AIO-B2000-4
 216.105.38.25:80 - Заголовок не найден
 192.241.173.208:80 - 403 Forbidden
 209.145.49.224:80 - Apache2 Ubuntu Default Page: It works
+52.84.20.227:80 - Заголовок не найден
+207.60.199.195:80 - 404 Not Found
+184.84.43.16:80 - Заголовок не найден
+88.198.138.106:80 - Welcome to nginx!
+127.253.247.110:80 - Welcome to XAMPP
+127.177.198.120:80 - Welcome to XAMPP
+127.220.190.72:80 - Welcome to XAMPP
+127.86.139.174:80 - Welcome to XAMPP
+52.249.36.215:80 - Your Azure Function App is up and running.
+80.86.145.135:80 - Заголовок не найден
+181.26.148.101:80 - Заголовок не найден
+23.4.137.147:80 - Заголовок не найден
+173.254.0.154:80 - Not Acceptable!
+34.233.165.93:80 - 403 Forbidden
+2.23.125.167:80 - Заголовок не найден
+127.103.91.103:80 - Welcome to XAMPP
+45.77.34.38:80 - Welcome to nginx!
+127.201.223.135:80 - Welcome to XAMPP
+127.69.185.75:80 - Welcome to XAMPP
+38.31.235.141:80 - 404 Not Found
+127.212.141.149:80 - Welcome to XAMPP
+116.203.181.113:80 - Gaumen Freunde - Nudelmatrizen - Nudelmaschine
+127.173.170.31:80 - Welcome to XAMPP
+193.178.50.123:80 - IIS Windows Server
+137.121.121.11:80 - Arabesque
+13.33.160.72:80 - Заголовок не найден
+104.254.189.225:80 - Заголовок не найден
+44.210.11.215:80 - Заголовок не найден
+127.171.42.230:80 - Welcome to XAMPP
+23.63.13.86:80 - Заголовок не найден
+188.225.13.189:80 - 502 Bad Gateway
+127.38.223.235:80 - Welcome to XAMPP
+154.9.48.144:80 - ERROR: The requested URL could not be retrieved
