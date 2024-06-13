@@ -602,3 +602,105 @@
 18.66.161.172:80 - Заголовок не найден
 127.181.78.186:80 - Welcome to XAMPP
 192.185.2.169:80 - Not Acceptable!
+154.27.88.110:80 - IIS Windows Server
+127.113.237.249:80 - Welcome to XAMPP
+23.223.176.36:80 - Заголовок не найден
+198.24.101.236:80 - Scott Stamp
+23.222.118.129:80 - Заголовок не найден
+127.250.19.95:80 - Welcome to XAMPP
+116.80.0.126:80 - Заголовок не найден
+13.226.152.216:80 - Заголовок не найден
+152.136.57.161:80 - 论坛 -  Powered by Discuz!
+127.34.145.135:80 - Welcome to XAMPP
+103.152.40.149:80 - WEB SERVICE
+134.225.116.18:80 - Заголовок не найден
+43.175.75.99:80 - Заголовок не найден
+61.67.23.30:80 - Заголовок не найден
+104.89.112.128:80 - Заголовок не найден
+127.184.241.45:80 - Welcome to XAMPP
+127.105.34.16:80 - Welcome to XAMPP
+107.180.235.88:80 - phpMyAdmin
+64.227.19.150:80 - Заголовок не найден
+116.87.106.126:80 - Checking Language...
+116.124.246.117:80 - 403 - Forbidden
+210.165.144.224:80 - Web Client Pro
+112.74.174.12:80 - Laravel
+181.160.33.220:80 - WEB SERVICE
+127.200.182.37:80 - Welcome to XAMPP
+216.252.162.153:80 - 404 Not Found
+127.91.84.5:80 - Welcome to XAMPP
+127.114.219.42:80 - Welcome to XAMPP
+52.218.212.221:80 - Amazon S3 - Cloud Object Storage  - AWS
+104.20.20.205:80 - Direct IP access not allowed | Cloudflare
+127.110.77.129:80 - Welcome to XAMPP
+127.206.178.170:80 - Welcome to XAMPP
+127.86.142.205:80 - Welcome to XAMPP
+18.209.73.38:80 - Apache2 Ubuntu Default Page: It works
+127.185.102.144:80 - Welcome to XAMPP
+127.121.193.144:80 - Welcome to XAMPP
+154.217.109.132:80 - IIS 10.0 详细错误 - 403.0 - Forbidden
+201.176.29.157:80 - Заголовок не найден
+127.207.217.144:80 - Welcome to XAMPP
+127.152.127.121:80 - Welcome to XAMPP
+143.110.245.71:80 - FASTPANEL
+127.21.175.141:80 - Welcome to XAMPP
+35.197.97.76:80 - Site Not Configured | 404 Not Found
+72.167.68.248:80 - Robert A pasionek &#8211; Just another WordPress site
+78.186.65.135:80 - 
+127.0.36.167:80 - Welcome to XAMPP
+23.63.20.244:80 - Заголовок не найден
+52.57.162.246:80 - Sign in to your account
+13.232.33.244:80 - Accenture - Reporting made easy
+52.213.64.207:80 - Заголовок не найден
+127.170.187.100:80 - Welcome to XAMPP
+127.45.58.86:80 - Welcome to XAMPP
+127.160.179.57:80 - Welcome to XAMPP
+99.86.52.64:80 - Заголовок не найден
+104.93.89.190:80 - Заголовок не найден
+23.33.235.217:80 - Заголовок не найден
+127.163.216.39:80 - Welcome to XAMPP
+117.241.57.52:80 - Заголовок не найден
+127.119.229.123:80 - Welcome to XAMPP
+127.77.183.141:80 - Welcome to XAMPP
+109.122.228.88:80 - 
+88.255.137.57:80 - 403 Forbidden
+127.189.162.240:80 - Welcome to XAMPP
+54.168.6.212:80 - 403 Forbidden
+14.136.153.102:80 - Index page
+127.29.132.96:80 - Welcome to XAMPP
+64.234.203.120:80 - Заголовок не найден
+176.100.123.40:80 - Success!
+127.116.114.94:80 - Welcome to XAMPP
+23.9.114.179:80 - Заголовок не найден
+60.250.231.136:80 - 
+3.110.169.251:80 - YourBus - Track your bus, Receive realtime SMS alerts, Send SMS to bus passengers
+127.74.55.103:80 - Welcome to XAMPP
+44.205.160.41:80 - 404 Not Found
+107.163.212.10:80 - 404 Not Found
+104.17.82.18:80 - Direct IP access not allowed | Cloudflare
+96.9.57.251:80 - 403 Forbidden
+15.228.249.196:80 - Заголовок не найден
+127.50.112.74:80 - Welcome to XAMPP
+127.55.86.18:80 - Welcome to XAMPP
+168.76.26.184:80 - ç¾åº¦ä¸ä¸ï¼ä½ å°±ç¥é
+190.55.231.203:80 - Заголовок не найден
+13.94.229.204:80 - Заголовок не найден
+127.78.17.104:80 - Welcome to XAMPP
+45.207.68.172:80 - 400 Bad Request
+223.171.40.225:80 - 
+54.239.175.178:80 - Заголовок не найден
+193.106.26.203:80 - RouterOS router configuration page
+211.218.4.66:80 - Заголовок не найден
+8.218.21.177:80 - 501 Not Implemented
+127.109.153.124:80 - Welcome to XAMPP
+127.232.241.216:80 - Welcome to XAMPP
+160.16.65.108:80 - ☀kusupedia.com | 声優・歌手 楠田亜衣奈さんの非公式ファンサイトです。
+127.137.32.24:80 - Welcome to XAMPP
+108.186.117.234:80 - 403 Forbidden
+54.192.120.38:80 - Заголовок не найден
+127.9.15.79:80 - Welcome to XAMPP
+127.35.32.216:80 - Welcome to XAMPP
+127.99.201.179:80 - Welcome to XAMPP
+34.94.238.42:80 - Заголовок не найден
+127.122.13.130:80 - Welcome to XAMPP
+189.179.240.216:80 - Заголовок не найден
