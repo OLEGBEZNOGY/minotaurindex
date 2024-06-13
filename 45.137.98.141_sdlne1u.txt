@@ -1801,3 +1801,8 @@
 23.246.37.193:80 - 403 Forbidden
 23.220.54.90:80 - Заголовок не найден
 99.142.74.135:80 - AT&T WiFi Portal
+89.212.145.170:80 - 404 - Not Found
+127.40.175.22:80 - Welcome to XAMPP
+217.174.244.53:80 - Web Server's Default Page
+127.234.224.46:80 - Welcome to XAMPP
+38.170.204.254:80 - ERROR: The requested URL could not be retrieved
