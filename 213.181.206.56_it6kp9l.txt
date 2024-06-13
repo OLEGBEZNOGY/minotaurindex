@@ -6004,3 +6004,111 @@
 127.237.181.228:80 - Welcome to XAMPP
 57.153.50.69:80 - Заголовок не найден
 127.9.248.5:80 - Welcome to XAMPP
+122.117.97.57:80 - 401 Unauthorized
+34.254.23.224:80 - Metabase
+52.217.143.44:80 - Amazon S3 - Cloud Object Storage  - AWS
+127.205.176.14:80 - Welcome to XAMPP
+160.124.160.117:80 - 403 Forbidden
+190.191.89.91:80 - 403 Forbidden
+104.109.132.131:80 - Заголовок не найден
+201.231.253.183:80 - WEB SERVICE
+127.38.1.172:80 - Welcome to XAMPP
+35.172.149.235:80 - 404 Not Found
+34.150.108.108:80 - Заголовок не найден
+49.213.157.215:80 - DVR
+2.18.155.202:80 - Заголовок не найден
+127.169.63.152:80 - Welcome to XAMPP
+34.144.8.88:80 - Заголовок не найден
+127.198.95.202:80 - Welcome to XAMPP
+127.21.137.200:80 - Welcome to XAMPP
+23.214.41.25:80 - Заголовок не найден
+24.144.89.162:80 - 404 Not Found
+23.219.161.20:80 - Заголовок не найден
+23.192.47.184:80 - Заголовок не найден
+127.57.37.137:80 - Welcome to XAMPP
+127.237.150.150:80 - Welcome to XAMPP
+79.54.2.140:80 - 403 - Forbidden
+127.223.7.32:80 - Welcome to XAMPP
+39.98.205.133:80 - Заголовок не найден
+84.221.76.177:80 - (0) - AVIO TRACKER
+127.27.113.95:80 - Welcome to XAMPP
+197.160.169.10:80 - Protected Object
+54.67.109.58:80 - Welcome to nginx!
+40.121.147.89:80 - Microsoft Azure Web App - Error 404
+34.160.192.96:80 - 502 Server Error
+127.22.89.44:80 - Welcome to XAMPP
+3.24.15.218:80 - 404 Not Found
+191.102.20.104:80 - ZC-521
+127.81.194.131:80 - Welcome to XAMPP
+127.65.84.6:80 - Welcome to XAMPP
+187.200.75.124:80 - 
+43.132.172.151:80 - welcome!
+135.125.160.234:80 - 401 Authorization Required
+127.253.214.9:80 - Welcome to XAMPP
+127.53.34.75:80 - Welcome to XAMPP
+23.63.53.97:80 - Заголовок не найден
+2.22.205.131:80 - Заголовок не найден
+103.30.77.44:80 - 404 Not Found
+76.223.41.80:80 - Заголовок не найден
+124.156.239.65:80 - 404 Not Found
+83.224.145.148:80 - 
+127.123.138.0:80 - Welcome to XAMPP
+3.124.68.194:80 - Welcome to nginx!
+127.237.230.75:80 - Welcome to XAMPP
+154.195.80.59:80 - 404 Not Found
+210.149.90.82:80 - Apache HTTP Server Test Page powered by CentOS
+127.162.65.97:80 - Welcome to XAMPP
+127.219.70.61:80 - Welcome to XAMPP
+54.231.169.16:80 - Amazon S3 - Cloud Object Storage  - AWS
+184.30.24.180:80 - Заголовок не найден
+127.236.98.23:80 - Welcome to XAMPP
+127.214.37.214:80 - Welcome to XAMPP
+167.88.86.138:80 - Attention Required! | Cloudflare
+190.176.8.82:80 - Заголовок не найден
+13.33.176.13:80 - Заголовок не найден
+182.16.75.243:80 - 
+185.167.233.61:80 - Page not found
+108.175.52.3:80 - Amazon S3 - Cloud Object Storage  - AWS
+38.14.38.234:80 - ç½ç«ç»´æ¤ä¸­
+23.35.125.96:80 - Заголовок не найден
+136.146.21.3:80 - Unable to Process Request
+2.47.45.7:80 - Connection denied by Geolocation
+127.169.84.187:80 - Welcome to XAMPP
+136.228.253.177:80 - Заголовок не найден
+127.106.224.90:80 - Welcome to XAMPP
+127.137.251.95:80 - Welcome to XAMPP
+148.0.0.124:80 - 
+23.197.237.131:80 - Заголовок не найден
+127.83.86.241:80 - Welcome to XAMPP
+127.222.242.82:80 - Welcome to XAMPP
+127.11.249.133:80 - Welcome to XAMPP
+23.203.16.231:80 - Заголовок не найден
+127.143.103.174:80 - Welcome to XAMPP
+104.201.10.124:80 - Заголовок не найден
+127.216.249.158:80 - Welcome to XAMPP
+75.75.239.10:80 - 403 Forbidden
+127.208.184.27:80 - Welcome to XAMPP
+127.18.86.87:80 - Welcome to XAMPP
+89.248.106.233:80 - Domain Default page
+127.25.169.187:80 - Welcome to XAMPP
+23.88.38.17:80 - 404 Not Found
+127.192.102.28:80 - Welcome to XAMPP
+162.155.156.27:80 - 
+103.168.122.254:80 - Error 404 (Not Found)!!1
+23.67.18.203:80 - Заголовок не найден
+38.63.167.65:80 - 403 Forbidden
+186.6.156.146:80 - 
+23.48.227.111:80 - Заголовок не найден
+34.249.237.92:80 - Заголовок не найден
+23.34.66.83:80 - Заголовок не найден
+80.241.221.253:80 - Domain Default page
+52.151.108.130:80 - Your Azure Function App is up and running.
+172.67.151.118:80 - Direct IP access not allowed | Cloudflare
+194.214.218.82:80 - 403 Forbidden
+180.18.104.138:80 - Web Viewer for Samsung DVR
+77.55.171.101:80 - Domain  is hosted on netart.com servers
+34.96.107.133:80 - Заголовок не найден
+127.133.88.82:80 - Welcome to XAMPP
+200.63.122.127:80 - Заголовок не найден
+62.68.88.74:80 - 403 Forbidden
+127.16.110.239:80 - Welcome to XAMPP
