@@ -6256,3 +6256,49 @@
 127.185.205.162:80 - Welcome to XAMPP
 173.252.14.142:80 - Заголовок не найден
 113.186.223.67:80 - 
+38.47.241.215:80 - 404 Not Found
+104.18.19.124:80 - Direct IP access not allowed | Cloudflare
+127.205.42.159:80 - Welcome to XAMPP
+71.91.134.111:80 - 
+52.35.173.118:80 - 503 Service Temporarily Unavailable
+95.100.148.123:80 - Заголовок не найден
+23.55.225.148:80 - Заголовок не найден
+127.105.86.78:80 - Welcome to XAMPP
+23.35.100.173:80 - Заголовок не найден
+54.84.250.155:80 - Index of /
+143.198.61.121:80 - Welcome to nginx!
+127.86.167.14:80 - Welcome to XAMPP
+127.129.222.49:80 - Welcome to XAMPP
+122.195.244.13:80 - 403 Forbidden
+38.154.63.201:80 - ERROR: The requested URL could not be retrieved
+35.154.63.73:80 - 401 Unauthorized
+127.15.253.207:80 - Welcome to XAMPP
+49.13.154.26:80 - Welcome to nginx!
+34.118.123.182:80 - Welcome to nginx!
+23.77.144.166:80 - Заголовок не найден
+18.66.202.145:80 - Заголовок не найден
+98.158.160.98:80 - Document Moved
+127.80.82.223:80 - Welcome to XAMPP
+77.93.251.149:80 - Default Page
+76.181.111.156:80 - 
+213.97.108.29:80 - UWP3.0 Web
+172.67.222.158:80 - Direct IP access not allowed | Cloudflare
+127.176.184.81:80 - Welcome to XAMPP
+8.136.156.51:80 - Заголовок не найден
+127.230.146.71:80 - Welcome to XAMPP
+3.7.99.206:80 - Page not found at /
+210.44.221.10:80 - 404 Not Found
+156.234.150.249:80 - Welcome to nginx!
+89.19.219.46:80 - Заголовок не найден
+127.63.115.173:80 - Welcome to XAMPP
+80.209.226.65:80 - Rafael Monteiro
+89.38.146.88:80 - Mrkur.adsystem.info
+127.18.247.191:80 - Welcome to XAMPP
+155.94.177.57:80 - 500 Internal Server Error
+127.181.14.125:80 - Welcome to XAMPP
+111.251.86.212:80 - 
+157.254.10.249:80 - 
+130.216.216.227:80 - Science Turtle
+127.46.85.101:80 - Welcome to XAMPP
+49.50.69.174:80 - IIS Windows Server
+18.161.13.13:80 - Заголовок не найден
