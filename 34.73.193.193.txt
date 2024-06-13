@@ -7,3 +7,4 @@
 81.181.108.237:80 - ERROR: The requested URL could not be retrieved
 89.58.18.18:80 - CikloParking
 23.207.166.18:80 - Заголовок не найден
+141.0.165.98:80 - 403 Forbidden
