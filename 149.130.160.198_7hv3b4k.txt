@@ -9371,3 +9371,9 @@
 104.200.161.208:80 - Index of /
 13.112.13.141:80 - 403 Forbidden
 127.37.68.86:80 - IIS Windows Server
+154.211.115.156:80 - 404 Not Found
+127.29.226.253:80 - IIS Windows Server
+34.199.88.247:80 - 403 - Forbidden: Access is denied.
+127.46.78.80:80 - IIS Windows Server
+127.26.255.89:80 - IIS Windows Server
+132.255.204.165:80 - Заголовок не найден
