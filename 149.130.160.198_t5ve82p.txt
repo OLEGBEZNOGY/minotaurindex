@@ -3982,3 +3982,151 @@
 3.1.228.164:80 - Forbidden
 62.72.52.173:80 - 403 Forbidden
 23.194.111.71:80 - Заголовок не найден
+46.28.42.224:80 - 403 Forbidden
+120.27.145.5:80 - IIS Windows Server
+127.102.85.182:80 - IIS Windows Server
+218.156.74.4:80 - Заголовок не найден
+184.26.159.221:80 - Заголовок не найден
+127.57.19.127:80 - IIS Windows Server
+104.196.221.220:80 - Заголовок не найден
+58.87.104.194:80 - ç«ç¹åå»ºæå-phpstudy for windows
+51.81.31.39:80 - Welcome to nginx!
+18.160.5.222:80 - Заголовок не найден
+127.75.255.232:80 - IIS Windows Server
+213.202.236.46:80 - Web Server's Default Page
+196.1.138.74:80 - Document Error: Unauthorized
+66.113.227.108:80 - Operations Automation Default Page
+46.142.170.2:80 - Заголовок не найден
+127.10.25.173:80 - IIS Windows Server
+23.49.37.148:80 - Заголовок не найден
+50.116.93.73:80 - Not Acceptable!
+184.31.229.63:80 - Заголовок не найден
+127.29.92.74:80 - IIS Windows Server
+127.145.26.248:80 - IIS Windows Server
+104.90.75.18:80 - Заголовок не найден
+120.26.210.171:80 - ä¸æµ·è³åï¼è®¸æï¼å¾å¸äºå¡æ
+127.231.89.69:80 - IIS Windows Server
+52.212.242.59:80 - 403 - Forbidden: Access is denied.
+64.25.99.10:80 - Заголовок не найден
+127.167.213.128:80 - IIS Windows Server
+35.154.94.17:80 - Page not found at /
+107.21.205.189:80 - 502 Bad Gateway
+45.194.61.18:80 - Заголовок не найден
+144.91.88.138:80 - 404 Not Found
+45.180.178.18:80 - Заголовок не найден
+103.60.37.214:80 - 403 Forbidden
+15.228.10.107:80 - Artboard
+127.119.39.92:80 - IIS Windows Server
+54.248.145.11:80 - GUNDAM.INFO | The official Gundam news and video portal
+127.239.17.41:80 - IIS Windows Server
+127.19.139.67:80 - IIS Windows Server
+34.233.33.176:80 - EvinceMed | SPX
+116.203.18.50:80 - Welcome to nginx!
+127.180.253.170:80 - IIS Windows Server
+8.217.42.102:80 - æ²¡ææ¾å°ç«ç¹
+141.26.140.232:80 - Status der Dienste der Universität Koblenz
+14.55.54.125:80 - IIS7
+124.221.192.249:80 - 404 Not Found
+18.235.126.84:80 - Home - Helvetia Wealth Management
+47.98.210.159:80 - Заголовок не найден
+156.226.165.156:80 - 404 Not Found
+168.76.176.52:80 - 403 Forbidden
+23.33.12.41:80 - Заголовок не найден
+173.223.151.120:80 - Заголовок не найден
+168.206.58.74:80 - 404 Not Found
+127.233.216.191:80 - IIS Windows Server
+198.252.138.146:80 - Web Page Blocked
+127.226.186.197:80 - IIS Windows Server
+127.25.84.237:80 - IIS Windows Server
+201.158.58.131:80 - Login
+192.229.65.72:80 - 404 Not Found
+127.103.100.137:80 - IIS Windows Server
+20.237.7.195:80 - Заголовок не найден
+104.19.206.166:80 - Direct IP access not allowed | Cloudflare
+127.235.98.170:80 - IIS Windows Server
+127.27.250.52:80 - IIS Windows Server
+23.47.213.60:80 - Заголовок не найден
+127.27.86.245:80 - IIS Windows Server
+127.144.247.153:80 - IIS Windows Server
+163.53.206.186:80 - WEB SERVICE
+206.238.7.123:80 - 404 Not Found
+23.111.151.221:80 - Apache2 Ubuntu Default Page: It works
+23.209.28.48:80 - Заголовок не найден
+23.62.218.197:80 - Заголовок не найден
+52.84.18.147:80 - Заголовок не найден
+107.178.53.27:80 - ERROR: The requested URL could not be retrieved
+95.217.205.230:80 - Apache2 Ubuntu Default Page: It works
+127.252.192.121:80 - IIS Windows Server
+54.156.209.41:80 - Заголовок не найден
+217.81.215.211:80 - Заголовок не найден
+45.223.241.16:80 - Заголовок не найден
+107.151.118.119:80 - Welcome to nginx!
+185.141.225.218:80 - Welcome to nginx!
+104.96.130.204:80 - Заголовок не найден
+127.0.1.93:80 - IIS Windows Server
+212.103.232.254:80 - 
+209.87.149.95:80 - Заголовок не найден
+13.209.128.104:80 - 403 Forbidden
+127.133.109.223:80 - IIS Windows Server
+127.44.241.140:80 - IIS Windows Server
+152.195.52.209:80 - 404 - Not Found
+106.15.176.7:80 - Заголовок не найден
+209.182.212.29:80 - Заголовок не найден
+68.142.74.31:80 - Заголовок не найден
+144.7.99.234:80 - Заголовок не найден
+223.216.250.171:80 - Заголовок не найден
+104.106.124.251:80 - Заголовок не найден
+167.71.65.44:80 - Заголовок не найден
+127.223.41.236:80 - IIS Windows Server
+91.212.26.67:80 - Web Server's Default Page
+49.13.118.65:80 - 403 Forbidden
+124.222.104.251:80 - 403 Forbidden
+155.159.150.140:80 - 404 Not Found
+154.195.68.124:80 - Заголовок не найден
+201.57.201.178:80 - Intelbras
+218.44.49.207:80 - Заголовок не найден
+154.82.110.51:80 - å·´è¥¿
+127.178.226.32:80 - IIS Windows Server
+146.75.33.114:80 - Fastly error: unknown domain 146.75.33.114
+1.247.110.198:80 - IIS Windows
+127.41.109.214:80 - IIS Windows Server
+78.148.208.246:80 - 403 Forbidden
+184.26.155.13:80 - Заголовок не найден
+64.187.112.105:80 - Apache2 Debian Default Page: It works
+127.180.230.210:80 - IIS Windows Server
+114.4.167.34:80 - Заголовок не найден
+127.43.101.136:80 - IIS Windows Server
+35.225.245.101:80 - 406 Not Acceptable
+139.84.142.230:80 - Welcome to nginx!
+35.154.121.175:80 - Apache Tomcat/9.0.35
+127.179.169.177:80 - IIS Windows Server
+128.39.135.4:80 - Alomar Weather Station has moved
+127.67.155.170:80 - IIS Windows Server
+154.206.182.100:80 - 404 Not Found
+23.53.208.226:80 - Заголовок не найден
+102.223.82.3:80 - RouterOS router configuration page
+216.119.196.117:80 - Заголовок не найден
+101.76.217.179:80 - 404 Not Found
+149.28.215.37:80 - Unknown Domain
+37.110.21.84:80 - 403 Forbidden
+18.172.9.47:80 - Заголовок не найден
+127.94.126.54:80 - IIS Windows Server
+23.222.221.85:80 - Заголовок не найден
+37.139.33.91:80 - Success!
+121.83.239.81:80 - 
+50.118.214.49:80 - 
+127.232.215.35:80 - IIS Windows Server
+190.85.24.2:80 - WEB SERVICE
+127.222.164.157:80 - IIS Windows Server
+127.93.220.97:80 - IIS Windows Server
+20.126.179.140:80 - Microsoft Azure Web App - Error 404
+127.185.110.140:80 - IIS Windows Server
+104.165.69.30:80 - 403 Forbidden
+20.67.1.191:80 - Заголовок не найден
+172.67.76.163:80 - Direct IP access not allowed | Cloudflare
+190.167.176.153:80 - 
+183.72.192.59:80 - Заголовок не найден
+172.105.103.221:80 - Home - Jayden Resources
+127.157.69.123:80 - IIS Windows Server
+127.172.152.225:80 - IIS Windows Server
+127.33.181.68:80 - IIS Windows Server
