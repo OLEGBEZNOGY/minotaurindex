@@ -16061,3 +16061,4 @@
 5.157.14.91:80 - 407 Proxy Authentication Required
 91.250.243.126:80 - konsultacje-firmowe.pl &mdash;  Domain default page
 60.248.40.103:80 - 系統登入-聯合查詢系統
+104.19.132.80:80 - Direct IP access not allowed | Cloudflare
