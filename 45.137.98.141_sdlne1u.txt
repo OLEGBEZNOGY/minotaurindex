@@ -19116,3 +19116,42 @@ Context: {&quot;exception&quot;:{}}
 216.239.141.170:80 - Service Unavailable
 101.34.222.224:80 - Welcome to nginx!
 92.60.70.187:80 - Заголовок не найден
+127.145.203.202:80 - Welcome to XAMPP
+127.225.104.47:80 - Welcome to XAMPP
+147.161.213.99:80 - Internet Security by Zscaler
+127.108.214.234:80 - Welcome to XAMPP
+127.107.78.211:80 - Welcome to XAMPP
+164.68.102.48:80 - 500 Internal Server Error
+66.96.132.95:80 - Заголовок не найден
+127.198.199.121:80 - Welcome to XAMPP
+195.201.91.10:80 - Nextcloud
+174.85.78.157:80 - 
+38.107.84.244:80 - Site Information Page
+23.8.251.25:80 - Заголовок не найден
+127.30.142.240:80 - Welcome to XAMPP
+127.182.114.28:80 - Welcome to XAMPP
+15.236.10.15:80 - Fundación Princesa de Girona - Campusvirtual
+46.41.142.34:80 - 503 Service Temporarily Unavailable
+54.80.185.24:80 - Phoenix Editor
+115.187.55.95:80 - Please wait, the login page is opening...
+38.207.91.168:80 - Заголовок не найден
+45.227.100.41:80 - DM955M  | WIRELESS ROUTER
+160.121.159.189:80 - 404 Not Found
+38.48.234.202:80 - 404 Not Found
+5.15.38.138:80 - 
+127.129.143.19:80 - Welcome to XAMPP
+127.18.118.75:80 - Welcome to XAMPP
+127.33.25.213:80 - Welcome to XAMPP
+189.201.233.191:80 - Заголовок не найден
+16.162.130.206:80 - 503 Service Temporarily Unavailable
+220.134.55.151:80 - 
+108.157.152.27:80 - Заголовок не найден
+186.57.227.146:80 - Заголовок не найден
+199.250.214.34:80 - Заголовок не найден
+182.92.165.61:80 - Заголовок не найден
+23.47.134.5:80 - Заголовок не найден
+127.127.155.56:80 - Welcome to XAMPP
+218.146.15.144:80 - Заголовок не найден
+190.1.231.222:80 - &#70;&#54;&#56;&#48;
+93.186.159.136:80 - 406 Not Acceptable
+52.218.109.189:80 - Amazon S3 - Cloud Object Storage  - AWS
