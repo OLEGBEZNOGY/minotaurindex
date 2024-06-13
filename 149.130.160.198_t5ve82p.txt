@@ -8364,3 +8364,56 @@
 127.57.64.10:80 - IIS Windows Server
 154.26.218.206:80 - 404 Not Found
 127.90.254.192:80 - IIS Windows Server
+127.6.167.222:80 - IIS Windows Server
+127.231.58.102:80 - IIS Windows Server
+127.48.119.201:80 - IIS Windows Server
+103.207.4.96:80 - IIS Windows Server
+127.158.101.42:80 - IIS Windows Server
+204.55.47.27:80 - Заголовок не найден
+71.230.139.146:80 - 
+45.232.106.99:80 - WEB
+65.9.131.46:80 - Заголовок не найден
+120.26.198.34:80 - IIS Windows Server
+23.231.75.16:80 - 403 Forbidden
+127.232.202.89:80 - IIS Windows Server
+127.84.73.13:80 - IIS Windows Server
+23.193.227.209:80 - Заголовок не найден
+94.130.125.131:80 - Welcome to nginx!
+46.226.39.212:80 - 
+172.247.97.26:80 - 403 Forbidden
+52.194.80.218:80 - Заголовок не найден
+54.177.229.9:80 - Welcome to nginx!
+127.234.176.241:80 - IIS Windows Server
+127.67.225.54:80 - IIS Windows Server
+35.172.128.177:80 - Заголовок не найден
+127.45.11.45:80 - IIS Windows Server
+23.46.42.138:80 - Заголовок не найден
+38.33.43.234:80 - Заголовок не найден
+160.124.136.209:80 - 403 Forbidden
+39.107.118.42:80 - ç½ç«è®¿é®æ¥é
+45.164.8.222:80 - 
+43.204.116.215:80 - Bharat ki No. 1 Rooftop Home Solar Company | SolarSquare
+127.241.80.116:80 - IIS Windows Server
+127.183.108.251:80 - IIS Windows Server
+127.139.104.217:80 - IIS Windows Server
+115.70.165.149:80 - Заголовок не найден
+127.227.207.45:80 - IIS Windows Server
+217.35.30.95:80 - 
+18.65.71.180:80 - Заголовок не найден
+127.32.180.154:80 - IIS Windows Server
+103.192.178.175:80 - 404 Not Found
+127.253.48.151:80 - IIS Windows Server
+81.71.85.157:80 - 衡泉评级官网
+127.181.152.186:80 - IIS Windows Server
+81.16.141.22:80 - 
+216.145.130.54:80 - Заголовок не найден
+86.245.78.155:80 - Hello! Welcome to Synology Web Station!
+8.213.140.85:80 - Заголовок не найден
+116.223.205.102:80 - Заголовок не найден
+64.41.94.181:80 - 403 - Forbidden: Access is denied.
+68.170.2.171:80 - Заголовок не найден
+127.204.231.192:80 - IIS Windows Server
+216.7.84.209:80 - Welcome to the page Pinet.info!
+127.51.13.115:80 - IIS Windows Server
+127.253.19.110:80 - IIS Windows Server
+127.234.193.19:80 - IIS Windows Server
