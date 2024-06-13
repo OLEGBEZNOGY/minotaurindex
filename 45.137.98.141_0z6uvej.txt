@@ -15034,3 +15034,7 @@ AIO-B2000-4
 188.225.13.189:80 - 502 Bad Gateway
 127.38.223.235:80 - Welcome to XAMPP
 154.9.48.144:80 - ERROR: The requested URL could not be retrieved
+38.126.182.18:80 - Заголовок не найден
+127.168.30.170:80 - Welcome to XAMPP
+104.19.137.124:80 - Direct IP access not allowed | Cloudflare
+52.65.217.86:80 - 404 Not Found
