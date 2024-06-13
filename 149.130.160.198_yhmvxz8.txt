@@ -133,3 +133,42 @@
 162.144.237.198:80 - Заголовок не найден
 127.8.234.95:80 - IIS Windows Server
 97.87.160.189:80 - 
+127.216.152.223:80 - IIS Windows Server
+149.104.158.213:80 - 403 Forbidden
+88.221.170.4:80 - Заголовок не найден
+127.89.106.66:80 - IIS Windows Server
+127.51.72.123:80 - IIS Windows Server
+4.175.174.233:80 - Your Azure Function App is up and running.
+127.54.92.213:80 - IIS Windows Server
+108.159.121.76:80 - Заголовок не найден
+127.17.220.207:80 - IIS Windows Server
+127.61.213.23:80 - IIS Windows Server
+18.223.91.52:80 - Apache2 Ubuntu Default Page: It works
+192.248.176.126:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+73.124.57.62:80 - 403 - Forbidden
+159.69.187.86:80 - Web Server's Default Page
+13.33.79.123:80 - Заголовок не найден
+127.25.17.62:80 - IIS Windows Server
+179.41.143.57:80 - Заголовок не найден
+54.167.59.70:80 - REPLACE ME
+193.178.154.216:80 - Erreur / Error
+222.186.163.90:80 - 400 Bad Request
+216.24.56.84:80 - 404 Not Found
+92.205.98.83:80 - Coming Soon
+104.110.73.155:80 - Заголовок не найден
+44.222.72.101:80 - Custom Application - AWS Elastic Beanstalk
+127.3.123.15:80 - IIS Windows Server
+13.126.126.231:80 - Заголовок не найден
+127.124.48.179:80 - IIS Windows Server
+192.171.62.193:80 - Заголовок не найден
+3.142.53.75:80 - phpinfo()
+104.66.82.44:80 - Заголовок не найден
+127.161.205.228:80 - IIS Windows Server
+127.49.75.220:80 - IIS Windows Server
+154.30.216.237:80 - ERROR: The requested URL could not be retrieved
+127.231.239.173:80 - IIS Windows Server
+134.208.6.113:80 - Database Error
+160.124.137.14:80 - 404 Not Found
+64.189.135.4:80 - Ku Portal
+23.67.165.150:80 - Заголовок не найден
+104.25.33.81:80 - Direct IP access not allowed | Cloudflare
