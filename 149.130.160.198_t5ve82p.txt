@@ -1174,3 +1174,5 @@
 198.6.19.58:80 - 401 - Unauthorized: Access is denied due to invalid credentials.
 127.35.139.99:80 - IIS Windows Server
 191.82.35.126:80 - Заголовок не найден
+127.12.17.248:80 - IIS Windows Server
+72.226.43.242:80 - WEB SERVICE
