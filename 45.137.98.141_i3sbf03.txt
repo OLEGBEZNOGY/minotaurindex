@@ -1143,3 +1143,36 @@
 127.22.22.9:80 - Welcome to XAMPP
 127.71.155.17:80 - Welcome to XAMPP
 61.209.239.69:80 - ログイン - 名刺バンク
+76.188.213.44:80 - 
+217.171.199.103:80 - Webmail og admin | Mekke Media nettside, hjemmeside, webside, nettbutikk, publisering
+127.23.178.115:80 - Welcome to XAMPP
+127.89.214.140:80 - Welcome to XAMPP
+184.25.81.183:80 - Заголовок не найден
+115.126.19.157:80 - 
+104.87.39.105:80 - Заголовок не найден
+220.81.56.252:80 - CMS Web Viewer
+127.137.180.9:80 - Welcome to XAMPP
+47.91.195.27:80 - Заголовок не найден
+23.221.29.192:80 - Заголовок не найден
+127.28.168.241:80 - Welcome to XAMPP
+50.62.30.145:80 - Заголовок не найден
+23.212.44.40:80 - Заголовок не найден
+146.190.107.58:80 - Apache2 Ubuntu Default Page: It works
+127.129.161.190:80 - Welcome to XAMPP
+107.158.68.90:80 - 403 Forbidden
+159.65.96.140:80 - Apache2 Ubuntu Default Page: It works
+127.41.39.134:80 - Welcome to XAMPP
+221.126.254.203:80 - 主頁
+35.174.36.134:80 - IIS Windows Server
+52.141.21.96:80 - Заголовок не найден
+127.137.154.53:80 - Welcome to XAMPP
+3.39.188.123:80 - 502 Bad Gateway
+185.242.0.78:80 - Заголовок не найден
+127.161.53.241:80 - Welcome to XAMPP
+52.40.161.13:80 - 403 Forbidden
+127.129.109.100:80 - Welcome to XAMPP
+181.199.82.133:80 - Web Client
+127.152.82.190:80 - Welcome to XAMPP
+34.87.182.162:80 - Заголовок не найден
+190.207.58.30:80 - 
+71.221.210.160:80 - index
