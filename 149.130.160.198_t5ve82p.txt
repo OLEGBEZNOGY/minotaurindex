@@ -3813,3 +3813,18 @@
 127.239.133.242:80 - IIS Windows Server
 180.182.59.21:80 - STON
 106.52.155.21:80 - 404 Not Found
+191.234.182.253:80 - Microsoft Azure Web App - Error 404
+195.240.74.161:80 - GeronimoServer
+127.40.60.86:80 - IIS Windows Server
+148.0.241.51:80 - 
+127.54.90.155:80 - IIS Windows Server
+127.112.239.227:80 - IIS Windows Server
+3.22.13.61:80 - Welcome
+185.235.243.233:80 - Stronghold Kingdoms – Free medieval online strategy game
+200.218.242.1:80 - Velocimetro ALLNET Redes Corporativas
+127.43.141.182:80 - IIS Windows Server
+176.99.209.196:80 - Заголовок не найден
+127.227.160.16:80 - IIS Windows Server
+201.229.140.46:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#54;&#55;&#65;&#32;&#86;&#49;&#46;&#48;
+168.206.77.148:80 - 403 Forbidden
+127.8.149.36:80 - IIS Windows Server
