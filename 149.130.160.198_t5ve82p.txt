@@ -4130,3 +4130,7 @@
 127.157.69.123:80 - IIS Windows Server
 127.172.152.225:80 - IIS Windows Server
 127.33.181.68:80 - IIS Windows Server
+127.85.17.124:80 - IIS Windows Server
+127.39.57.86:80 - IIS Windows Server
+127.111.110.47:80 - IIS Windows Server
+23.213.118.89:80 - Заголовок не найден
