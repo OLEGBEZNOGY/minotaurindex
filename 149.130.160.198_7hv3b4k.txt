@@ -4233,3 +4233,150 @@
 34.110.237.201:80 - Tela de Login
 54.192.62.185:80 - Заголовок не найден
 127.120.113.163:80 - IIS Windows Server
+61.19.108.34:80 - Default Site
+103.56.226.252:80 - Заголовок не найден
+127.196.60.90:80 - IIS Windows Server
+127.170.208.86:80 - IIS Windows Server
+127.237.114.91:80 - IIS Windows Server
+23.199.46.199:80 - Заголовок не найден
+195.201.84.122:80 - Заголовок не найден
+114.55.93.2:80 - æ²¡ææ¾å°ç«ç¹
+127.104.232.26:80 - IIS Windows Server
+5.75.227.80:80 - 503 Service Temporarily Unavailable
+23.53.105.248:80 - Заголовок не найден
+181.57.197.210:80 - 
+127.69.58.22:80 - IIS Windows Server
+50.2.91.187:80 - 403 Forbidden
+23.223.172.112:80 - Заголовок не найден
+38.47.142.166:80 - Заголовок не найден
+118.31.38.88:80 - 403 Forbidden
+92.54.58.83:80 - Concentrator
+104.19.231.39:80 - Direct IP access not allowed | Cloudflare
+54.209.8.58:80 - 404 Not Found
+127.118.231.20:80 - IIS Windows Server
+127.191.147.99:80 - IIS Windows Server
+127.98.240.235:80 - IIS Windows Server
+127.103.112.58:80 - IIS Windows Server
+103.215.227.11:80 - Please wait, the login page is opening...
+92.122.61.61:80 - Заголовок не найден
+80.69.203.199:80 - Заголовок не найден
+179.53.104.22:80 - 
+127.48.100.152:80 - IIS Windows Server
+93.186.135.14:80 - Заголовок не найден
+23.42.193.193:80 - Заголовок не найден
+41.225.11.169:80 - WEB SERVICE
+51.15.169.144:80 - Welcome to nginx!
+52.219.104.224:80 - Amazon S3 - Cloud Object Storage  - AWS
+65.9.177.54:80 - Заголовок не найден
+74.208.186.181:80 - Web Server's Default Page
+127.75.68.51:80 - IIS Windows Server
+113.178.72.12:80 - 
+23.218.205.203:80 - Заголовок не найден
+127.174.240.243:80 - IIS Windows Server
+127.18.176.105:80 - IIS Windows Server
+158.199.127.52:80 - 403 Forbidden
+185.17.169.169:80 - Заголовок не найден
+40.68.228.125:80 - IIS Windows Server
+38.181.52.194:80 - 403 Forbidden
+23.216.183.29:80 - Заголовок не найден
+23.41.247.188:80 - Заголовок не найден
+213.233.74.140:80 - Заголовок не найден
+23.35.193.55:80 - Заголовок не найден
+77.83.166.55:80 - ERROR: The requested URL could not be retrieved
+127.33.208.107:80 - IIS Windows Server
+127.27.79.181:80 - IIS Windows Server
+23.100.34.50:80 - Azure Container App - Unavailable
+127.7.157.234:80 - IIS Windows Server
+127.56.228.151:80 - IIS Windows Server
+54.161.46.118:80 - 404 Not Found
+3.139.241.11:80 - Заголовок не найден
+172.247.97.29:80 - 403 Forbidden
+127.31.33.194:80 - IIS Windows Server
+96.17.178.164:80 - Заголовок не найден
+127.163.193.169:80 - IIS Windows Server
+128.1.163.182:80 - 403 Forbidden
+162.214.170.21:80 - Заголовок не найден
+104.120.159.70:80 - Заголовок не найден
+127.83.216.233:80 - IIS Windows Server
+127.95.108.139:80 - IIS Windows Server
+127.93.244.183:80 - IIS Windows Server
+213.109.154.89:80 - purCodes :: Resseler-Panel
+127.98.120.117:80 - IIS Windows Server
+127.106.149.58:80 - IIS Windows Server
+104.16.128.116:80 - Direct IP access not allowed | Cloudflare
+222.206.4.233:80 - 404 Not Found
+208.86.165.184:80 - Заголовок не найден
+23.216.219.243:80 - Заголовок не найден
+127.239.228.97:80 - IIS Windows Server
+168.206.27.9:80 - 404 Not Found
+217.25.180.18:80 - Waiting for the redirectiron...
+127.40.114.188:80 - IIS Windows Server
+210.242.125.140:80 - Error 404 (Not Found)!!1
+184.84.162.51:80 - Заголовок не найден
+95.111.192.67:80 - Index of /
+23.60.136.121:80 - Заголовок не найден
+124.220.21.7:80 - 404 Not Found
+74.208.45.138:80 - Web Server's Default Page
+50.87.219.245:80 - Not Acceptable!
+107.174.102.211:80 - 404 Not Found
+127.29.67.178:80 - IIS Windows Server
+200.178.25.50:80 - DELL SonicWALL - Authentication
+47.243.104.210:80 - ç½ç«é²ç«å¢
+23.201.89.184:80 - Заголовок не найден
+34.255.238.53:80 - Apache Tomcat/8.5.38
+89.40.183.150:80 - ERROR: The requested URL could not be retrieved
+23.220.130.235:80 - Заголовок не найден
+194.242.217.144:80 - RouterOS router configuration page
+46.55.254.218:80 - Please wait, the page is opening...
+127.87.100.213:80 - IIS Windows Server
+176.223.65.158:80 - 404 Not Found
+96.125.184.9:80 - Parallels H-Sphere
+31.220.61.91:80 - SongCreator, SongVisualizer
+23.46.179.77:80 - Заголовок не найден
+127.187.149.139:80 - IIS Windows Server
+23.44.211.114:80 - Заголовок не найден
+209.59.144.48:80 - Заголовок не найден
+216.189.144.54:80 - ERROR: The requested URL could not be retrieved
+127.45.203.158:80 - IIS Windows Server
+114.33.165.232:80 - 
+127.124.98.210:80 - IIS Windows Server
+108.138.150.136:80 - Заголовок не найден
+127.173.107.65:80 - IIS Windows Server
+114.70.194.202:80 - Заголовок не найден
+216.158.239.104:80 - Заголовок не найден
+127.173.146.143:80 - IIS Windows Server
+104.164.215.160:80 - 404 Not Found
+127.145.245.109:80 - IIS Windows Server
+88.70.210.189:80 - 
+127.255.123.59:80 - IIS Windows Server
+38.63.109.237:80 - 404 Not Found
+160.121.6.182:80 - IIS Windows Server
+104.107.233.162:80 - Заголовок не найден
+100.21.95.223:80 - 404 Not Found
+181.214.1.124:80 - Direct IP access not allowed | Cloudflare
+104.83.78.127:80 - Заголовок не найден
+82.66.95.42:80 - Freebox OS :: Identification
+23.200.169.10:80 - Заголовок не найден
+34.122.1.209:80 - React App
+3.9.195.123:80 - Заголовок не найден
+127.71.231.11:80 - IIS Windows Server
+127.149.209.247:80 - IIS Windows Server
+45.60.22.36:80 - Заголовок не найден
+127.21.62.255:80 - IIS Windows Server
+194.4.170.192:80 - ERROR: The requested URL could not be retrieved
+127.5.251.21:80 - IIS Windows Server
+172.67.142.180:80 - Direct IP access not allowed | Cloudflare
+64.57.70.194:80 - Service Unavailable
+120.78.130.38:80 - æ²¡ææ¾å°ç«ç¹
+127.122.199.191:80 - IIS Windows Server
+127.138.84.140:80 - IIS Windows Server
+31.201.81.70:80 - Заголовок не найден
+127.242.55.79:80 - IIS Windows Server
+23.44.40.2:80 - Заголовок не найден
+23.54.41.73:80 - Заголовок не найден
+159.89.154.195:80 - Index of /
+54.78.75.42:80 - Заголовок не найден
+18.167.184.112:80 - Sample EKS application
+45.207.229.124:80 - 403 Forbidden
+27.105.182.136:80 - 
+127.157.39.224:80 - IIS Windows Server
