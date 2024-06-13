@@ -2923,3 +2923,11 @@
 54.150.52.54:80 - 503 Service Temporarily Unavailable
 23.247.56.194:80 - 404 Not Found
 156.234.76.38:80 - Заголовок не найден
+104.102.60.213:80 - Заголовок не найден
+46.29.251.72:80 - 407 Proxy Authentication Required
+46.18.204.199:80 - FreePBX Administration
+195.245.92.206:80 - 
+158.69.247.60:80 - 404 Not Found
+109.70.23.171:80 - Technicolor Gateway - Login
+196.51.237.157:80 - ERROR: The requested URL could not be retrieved
+47.42.135.252:80 - 
