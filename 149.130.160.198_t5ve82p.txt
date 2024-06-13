@@ -3788,3 +3788,28 @@
 5.161.122.3:80 - Cloudron - Not Found
 127.255.254.94:80 - IIS Windows Server
 127.199.159.83:80 - IIS Windows Server
+127.118.116.140:80 - IIS Windows Server
+182.71.128.158:80 - VPN Router
+127.226.212.202:80 - IIS Windows Server
+127.13.176.15:80 - IIS Windows Server
+23.207.14.72:80 - Заголовок не найден
+72.187.17.72:80 - 
+127.81.159.228:80 - IIS Windows Server
+127.152.195.198:80 - IIS Windows Server
+23.101.49.175:80 - Microsoft Azure Web App - Error 404
+127.209.196.128:80 - IIS Windows Server
+127.127.109.99:80 - IIS Windows Server
+124.115.11.64:80 - Заголовок не найден
+127.29.29.13:80 - IIS Windows Server
+43.249.221.23:80 - IIS7
+81.223.154.86:80 - Hello! Welcome to Synology Web Station!
+127.161.22.197:80 - IIS Windows Server
+127.51.43.234:80 - IIS Windows Server
+1.178.46.132:80 - Elo 777
+80.77.33.152:80 - 
+208.79.236.1:80 - Index of /
+127.125.61.193:80 - IIS Windows Server
+127.78.121.95:80 - IIS Windows Server
+127.239.133.242:80 - IIS Windows Server
+180.182.59.21:80 - STON
+106.52.155.21:80 - 404 Not Found
