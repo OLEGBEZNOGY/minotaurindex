@@ -2166,3 +2166,46 @@
 194.39.167.105:80 - Gift Hampers With A Difference - Funky Hampers
 38.15.155.81:80 - Заголовок не найден
 104.251.147.156:80 - Top
+69.178.209.54:80 - 
+184.26.33.230:80 - Заголовок не найден
+4.209.46.146:80 - Your Azure Function App is up and running.
+154.194.12.172:80 - Direct IP access not allowed | Cloudflare
+162.14.121.29:80 - ä¼ä¸å®å¨çäº§ç®¡çå¹³å°
+66.97.36.109:80 - 
+17.248.152.47:80 - 400 Bad Request
+189.183.133.140:80 - Index
+116.203.193.174:80 - Заголовок не найден
+52.222.193.223:80 - Заголовок не найден
+108.158.51.176:80 - Заголовок не найден
+50.77.246.145:80 - BillRookard.com - My little piece of the web.
+13.225.2.37:80 - Заголовок не найден
+14.231.173.176:80 - RouterOS router configuration page
+154.214.203.113:80 - Заголовок не найден
+159.226.163.179:80 - TetraFGD HOME
+79.96.180.73:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+62.254.56.7:80 - 403 Forbidden
+68.183.246.203:80 - 404 Not Found
+104.236.2.152:80 - RouterOS router configuration page
+185.107.255.115:80 - Заголовок не найден
+51.137.144.53:80 - Your Azure Function App is up and running.
+103.82.227.203:80 - IIS Windows Server
+104.91.9.30:80 - Заголовок не найден
+199.232.165.180:80 - Fastly error: unknown domain 199.232.165.180
+192.126.227.76:80 - ERROR: The requested URL could not be retrieved
+121.138.112.5:80 - CMS Web Viewer
+114.70.196.158:80 - Заголовок не найден
+190.80.221.114:80 - 
+34.120.27.68:80 - Заголовок не найден
+93.174.162.132:80 - Tiparite.ro_Felicitari de primavara, felicitari Martie, Felicitari Florale
+8.240.191.45:80 - Заголовок не найден
+40.83.121.253:80 - IIS Windows Server
+213.151.50.145:80 - 
+35.158.145.2:80 - 503 Service Temporarily Unavailable
+18.163.116.79:80 - Apache2 Ubuntu Default Page: It works
+47.108.234.8:80 - Welcome to nginx!
+212.71.251.58:80 - Заголовок не найден
+154.92.55.238:80 - 400 Bad Request
+59.126.29.45:80 - WEB SERVICE
+119.188.250.169:80 - Заголовок не найден
+52.5.242.203:80 - No such app
+52.13.192.146:80 - Заголовок не найден
