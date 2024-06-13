@@ -7548,3 +7548,12 @@
 195.248.235.87:80 - Заголовок не найден
 4.241.155.70:80 - Your Azure Function App is up and running.
 54.151.155.114:80 - There has been an error processing your request
+185.69.167.158:80 - Welcome to nginx!
+127.64.70.52:80 - Welcome to XAMPP
+127.232.125.125:80 - Welcome to XAMPP
+121.250.212.32:80 - 404 Not Found
+104.19.37.95:80 - Direct IP access not allowed | Cloudflare
+190.123.30.83:80 - Заголовок не найден
+184.25.79.44:80 - Заголовок не найден
+13.230.120.208:80 - SmiWebClient
+54.168.106.207:80 - シーエムプラス｜生産施設建設、品質保証、人材育成のパートナー
