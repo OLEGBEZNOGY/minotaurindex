@@ -1650,3 +1650,10 @@
 154.213.150.165:80 - Sorry, the website has been stopped
 184.29.249.70:80 - Заголовок не найден
 127.140.86.228:80 - IIS Windows Server
+193.42.61.131:80 - GOG Games | Download Free GOG PC Games
+108.156.64.151:80 - Заголовок не найден
+157.205.24.93:80 - 403 Forbidden
+49.156.135.32:80 - 403 Forbidden
+23.54.194.227:80 - Заголовок не найден
+127.32.120.221:80 - IIS Windows Server
+127.37.169.225:80 - IIS Windows Server
