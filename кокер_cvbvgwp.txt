@@ -147,3 +147,157 @@
 119.167.210.30:80 - 403 Forbidden
 45.95.180.47:80 - 403 Forbidden
 111.84.61.73:80 - Заголовок не найден
+182.247.226.207:80 - Заголовок не найден
+108.20.238.106:80 - Заголовок не найден
+23.47.179.69:80 - Заголовок не найден
+97.113.239.201:80 - Hello! Welcome to Synology Web Station!
+104.93.119.134:80 - Заголовок не найден
+163.25.34.88:80 - 403 - ¸T¤î: ©Úµ´¦s¨ú¡C
+96.86.112.210:80 - Login
+18.154.91.165:80 - Заголовок не найден
+108.159.115.198:80 - Заголовок не найден
+143.204.244.140:80 - Заголовок не найден
+18.154.167.252:80 - Заголовок не найден
+43.142.31.192:80 - Заголовок не найден
+148.135.53.123:80 - Заголовок не найден
+82.67.36.194:80 - Hello! Welcome to Synology Web Station!
+108.138.172.94:80 - Заголовок не найден
+3.123.63.1:80 - non-production environment # 2 - Login
+8.208.83.3:80 - æ²¡ææ¾å°ç«ç¹
+85.128.194.234:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+20.123.228.43:80 - Заголовок не найден
+190.99.169.245:80 - &#70;&#54;&#56;&#48;
+104.96.205.179:80 - Заголовок не найден
+34.117.37.20:80 - Заголовок не найден
+193.42.149.129:80 - è³å°å¨±ä¹
+172.233.111.129:80 - Заголовок не найден
+102.182.0.86:80 - 
+161.34.6.184:80 - Sample Page
+93.89.218.182:80 - Заголовок не найден
+4.233.130.111:80 - The stream or file &quot;/var/www/html/assessment.by-bpi.com/var/log/dev-2024-06-13.log&quot; could not be opened in append mode: Failed to open stream: No space left on device
+The exception occurred while attempting to log: Uncaught PHP Exception UnexpectedValueException: &quot;The stream or file &quot;/var/www/html/assessment.by-bpi.com/var/log/dev-2024-06-13.log&quot; could not be opened in append mode: Failed to open stream: No space left on device
+The exception occurred while attempting to log: Uncaught PHP Exception UnexpectedValueException: &quot;The stream or file &quot;/var/www/html/assessment.by-bpi.com/var/log/dev-2024-06-13.log&quot; could not be opened in append mode: Failed to open stream: No space left on device
+The exception occurred while attempting to log: Matched route &quot;app_security_login&quot;.
+Context: {&quot;route&quot;:&quot;app_security_login&quot;,&quot;route_parameters&quot;:{&quot;_route&quot;:&quot;app_security_login&quot;,&quot;_controller&quot;:&quot;App\\Controller\\SecurityController::login&quot;},&quot;request_uri&quot;:&quot;https:\/\/uat-assessment.lhh.fr\/&quot;,&quot;method&quot;:&quot;GET&quot;}&quot; at /var/www/html/assessment.by-bpi.com/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php line 146
+Context: {&quot;exception&quot;:{}}&quot; at /var/www/html/assessment.by-bpi.com/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php line 146
+Context: {&quot;exception&quot;:{}} (500 Internal Server Error)
+2.23.107.222:80 - Заголовок не найден
+96.6.203.55:80 - Заголовок не найден
+51.161.55.2:80 - Error 503: server unavailable
+209.121.123.111:80 - Заголовок не найден
+5.133.195.151:80 - Database Error
+71.46.0.51:80 - Заголовок не найден
+23.210.43.95:80 - Заголовок не найден
+159.65.113.65:80 - Welcome to nginx!
+52.8.183.203:80 - Заголовок не найден
+72.19.140.247:80 - 403 Forbidden
+23.44.15.222:80 - Заголовок не найден
+23.197.155.17:80 - Заголовок не найден
+54.246.144.69:80 - 404 Not Found
+52.52.58.133:80 - Заголовок не найден
+156.213.34.156:80 - 
+23.52.153.39:80 - Заголовок не найден
+20.96.59.31:80 - Заголовок не найден
+199.232.36.46:80 - Fastly error: unknown domain 199.232.36.46
+103.75.192.18:80 - 
+47.99.121.94:80 - PhotoStudio AI
+134.213.219.88:80 - Заголовок не найден
+208.252.133.20:80 - Заголовок не найден
+94.181.33.52:80 - IIS Windows
+202.28.191.136:80 - คณะแพทยศาสตร์โรงพยาบาลรามาธิบดี มหาวิทยาลัยมหิดล &lt;br /&gt;การจัดการความรู้ Knowledge Management | การจัดการความรู้ Knowledge Management
+152.0.128.25:80 - 
+95.141.23.233:80 - 
+162.240.36.32:80 - Заголовок не найден
+46.30.6.37:80 - 403 Forbidden
+13.249.96.176:80 - Заголовок не найден
+52.34.222.62:80 - 403 Forbidden
+140.227.97.151:80 - Заголовок не найден
+101.126.46.211:80 - Заголовок не найден
+52.85.65.150:80 - Заголовок не найден
+93.240.31.251:80 - Заголовок не найден
+108.138.229.186:80 - Заголовок не найден
+18.172.36.15:80 - Заголовок не найден
+91.235.2.94:80 - Apache HTTP Server Test Page powered by CentOS
+104.94.78.205:80 - Заголовок не найден
+36.156.36.162:80 - Заголовок не найден
+107.167.31.231:80 - Welcome to nginx!
+72.90.81.11:80 - Заголовок не найден
+194.0.223.180:80 - Coming Soon - eumoaiac.cryptoacademy.live
+103.160.147.73:80 - Identity Authentication System
+185.162.217.24:80 - ورود به وادانا
+86.205.116.111:80 - 403 Forbidden
+85.235.136.161:80 - Digitalpa Server
+4.187.146.177:80 - Заголовок не найден
+23.214.29.56:80 - Заголовок не найден
+38.59.91.82:80 - çä¸å¨±ä¹
+184.73.140.190:80 - Veritattis
+61.223.194.37:80 - Заголовок не найден
+104.24.17.198:80 - Direct IP access not allowed | Cloudflare
+158.69.242.169:80 - Default Parallels Plesk Page
+218.247.76.64:80 - 403 Forbidden
+34.79.163.89:80 - 404 Not Found
+101.133.164.37:80 - Заголовок не найден
+178.208.76.47:80 - Заголовок не найден
+84.106.175.234:80 - 401 - Unauthorized
+47.105.114.10:80 - ç½ç«è®¿é®æ¥é
+69.67.205.29:80 - Hillsdale Hospital | Hillsdale, Michigan
+20.164.56.190:80 - Azure Container App - Unavailable
+95.215.240.251:80 - Заголовок не найден
+140.238.209.83:80 - Заголовок не найден
+52.208.110.187:80 - Заголовок не найден
+95.85.217.59:80 - Main Page
+3.163.175.127:80 - Заголовок не найден
+91.237.124.100:80 - CRO Homes &#8211; YOUR Place in the Metaverse
+47.114.38.65:80 - IIS Windows Server
+82.149.227.71:80 - Apache2 Debian Default Page: It works
+35.167.63.40:80 - Заголовок не найден
+109.206.172.107:80 - Заголовок не найден
+20.210.238.218:80 - 404 Not Found
+104.16.1.8:80 - Direct IP access not allowed | Cloudflare
+54.192.152.1:80 - Заголовок не найден
+8.134.186.183:80 - æå£°æ
+109.196.170.197:80 - ERROR: The requested URL could not be retrieved
+8.5.39.168:80 - Instant WiFi
+13.225.186.218:80 - Заголовок не найден
+3.163.121.49:80 - Заголовок не найден
+52.35.42.140:80 - Заголовок не найден
+35.154.158.190:80 - Заголовок не найден
+196.0.28.12:80 - RouterOS router configuration page
+141.53.88.48:80 - Заголовок не найден
+89.58.10.237:80 - 404 Not Found
+104.244.97.232:80 - LAXD - 404 Error
+51.154.47.22:80 - Заголовок не найден
+199.255.84.254:80 - 404 Not Found
+194.180.16.10:80 - Apache2 Debian Default Page: It works
+47.99.132.115:80 - åç¨ç¨å¡äºå¡æï¼æ­å·ï¼æéå¬å¸å®ç½
+54.252.231.171:80 - Auto Mega Warehouse
+65.21.204.177:80 - Welcome to nginx!
+18.66.157.30:80 - Заголовок не найден
+81.15.162.190:80 - Заголовок не найден
+109.196.245.49:80 - 
+35.77.31.185:80 - Заголовок не найден
+23.77.249.228:80 - Заголовок не найден
+5.250.166.63:80 - Not Found
+131.153.21.4:80 - 403 Forbidden
+72.167.241.230:80 - Заголовок не найден
+86.9.235.167:80 - Intelligent Digital Security System
+114.32.191.93:80 - 
+123.6.227.4:80 - Заголовок не найден
+104.119.95.196:80 - Заголовок не найден
+184.30.31.18:80 - Заголовок не найден
+104.223.138.153:80 - Home | 104.223.138.153
+158.220.97.198:80 - Welcome to nginx!
+54.170.52.88:80 - Swagger UI
+50.17.119.95:80 - Al Nafi Academy - Al Nafi Academy
+162.211.82.52:80 - Заголовок не найден
+92.119.225.137:80 - Заголовок не найден
+104.131.127.183:80 - David Leshes - Official Website
+220.176.195.103:80 - 菜单
+119.45.183.209:80 - 400 Bad Request
+52.200.120.47:80 - Заголовок не найден
+45.60.63.134:80 - Заголовок не найден
+193.122.84.17:80 - 404 Not Found
+154.23.45.71:80 - 403 Forbidden
+192.210.170.143:80 - 404 Not Found
+167.82.98.42:80 - Fastly error: unknown domain 167.82.98.42
+34.93.245.105:80 - Заголовок не найден
