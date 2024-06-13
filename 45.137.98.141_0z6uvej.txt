@@ -13826,3 +13826,9 @@ AIO-B2000-4
 172.80.36.120:80 - Заголовок не найден
 52.213.212.133:80 - e-Sobotta | Sobotta.com
 127.215.47.76:80 - Welcome to XAMPP
+52.204.236.98:80 - 403 Forbidden
+127.194.64.10:80 - Welcome to XAMPP
+20.8.73.35:80 - Your Azure Function App is up and running.
+104.129.38.188:80 - Home
+54.150.9.246:80 - 403 Forbidden
+127.115.243.108:80 - Welcome to XAMPP
