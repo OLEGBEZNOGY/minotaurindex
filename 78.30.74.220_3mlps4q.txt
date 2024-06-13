@@ -197,3 +197,25 @@
 18.223.230.118:80 - Заголовок не найден
 154.64.49.45:80 - 404 Not Found
 38.38.129.194:80 - IIS Windows Server
+78.110.161.126:80 - Заголовок не найден
+45.205.232.181:80 - 404 Not Found
+192.177.152.127:80 - 403 Forbidden
+66.35.109.19:80 - Заголовок не найден
+150.158.51.40:80 - HTTP Error 500.31 - Failed to load ASP.NET Core runtime
+23.46.95.159:80 - Заголовок не найден
+121.186.109.220:80 - CMS Web Viewer
+38.55.54.122:80 - 404 Not Found
+186.192.252.1:80 - welcome
+23.219.230.16:80 - Заголовок не найден
+81.150.1.47:80 - Default Site
+202.133.187.37:80 - IIS Windows Server
+5.39.88.13:80 - Apache2 Debian Default Page: It works
+92.243.74.48:80 - Direct IP access not allowed | Cloudflare
+49.107.159.0:80 - Заголовок не найден
+173.212.216.185:80 - IIS Windows Server
+37.234.243.200:80 - 
+91.105.60.51:80 - 
+50.3.202.139:80 - 403 Forbidden
+185.144.145.33:80 - Заголовок не найден
+64.91.235.56:80 - The Giving Code  |  No-Risk Marketing. Painfree Fundraising. A Virtuous cycle.
+112.17.79.9:80 - Заголовок не найден
