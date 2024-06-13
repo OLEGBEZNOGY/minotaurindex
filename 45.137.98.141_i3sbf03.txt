@@ -1739,3 +1739,37 @@
 127.58.84.24:80 - Welcome to XAMPP
 66.215.240.177:80 - 
 80.240.54.62:80 - Заголовок не найден
+157.157.19.10:80 - Заголовок не найден
+127.141.75.159:80 - Welcome to XAMPP
+23.222.69.232:80 - Заголовок не найден
+127.43.135.39:80 - Welcome to XAMPP
+20.14.3.213:80 - Azure Container App - Unavailable
+108.139.7.232:80 - Заголовок не найден
+79.96.89.31:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+104.100.195.46:80 - Заголовок не найден
+127.147.237.172:80 - Welcome to XAMPP
+141.147.184.100:80 - Заголовок не найден
+52.216.244.110:80 - Amazon S3 - Cloud Object Storage  - AWS
+54.237.103.81:80 - Apache2 Ubuntu Default Page: It works
+104.21.85.201:80 - Direct IP access not allowed | Cloudflare
+38.14.68.22:80 - 404 Not Found
+3.164.150.93:80 - Заголовок не найден
+127.194.197.248:80 - Welcome to XAMPP
+104.92.145.146:80 - Заголовок не найден
+127.252.87.51:80 - Welcome to XAMPP
+13.225.133.231:80 - Заголовок не найден
+172.67.196.69:80 - Direct IP access not allowed | Cloudflare
+52.49.87.113:80 - 503 Service Temporarily Unavailable
+127.5.123.142:80 - Welcome to XAMPP
+127.75.61.251:80 - Welcome to XAMPP
+104.90.202.115:80 - Заголовок не найден
+127.216.72.221:80 - Welcome to XAMPP
+69.166.8.26:80 - 
+208.80.53.53:80 - Заголовок не найден
+133.18.168.86:80 - JMO（Japanese Maintenance Organization）
+186.6.108.226:80 - Заголовок не найден
+47.104.163.174:80 - ç½ç«è®¿é®æ¥é
+108.158.137.15:80 - Заголовок не найден
+13.33.148.24:80 - Заголовок не найден
+13.214.61.113:80 - Welcome to nginx!
+127.112.144.236:80 - Welcome to XAMPP
