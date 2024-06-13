@@ -6673,3 +6673,106 @@
 3.73.13.29:80 - Заголовок не найден
 127.152.246.139:80 - Welcome to XAMPP
 52.191.92.227:80 - Заголовок не найден
+127.88.229.228:80 - Welcome to XAMPP
+185.181.197.180:80 - DDoSX - 185.181.197.180 is not configured
+184.87.190.133:80 - Заголовок не найден
+148.255.1.169:80 - 
+174.45.101.203:80 - 
+204.246.140.219:80 - 403 Forbidden
+178.72.89.56:80 - IIS Windows Server
+172.98.22.250:80 - æ²¡ææ¾å°ç«ç¹
+115.159.25.152:80 - 404 找不到页面 - E2EE
+23.213.81.21:80 - Заголовок не найден
+23.34.64.226:80 - Заголовок не найден
+216.124.134.5:80 - Web Site Blocked
+45.139.122.117:80 - Welcome to nginx!
+23.46.83.60:80 - Заголовок не найден
+97.79.7.90:80 - DVR ActiveX Viewer
+127.39.206.247:80 - Welcome to XAMPP
+103.242.78.153:80 - Redirect
+127.146.91.131:80 - Welcome to XAMPP
+124.160.145.205:80 - 403 Forbidden
+104.21.92.60:80 - Direct IP access not allowed | Cloudflare
+121.175.133.119:80 - main page
+127.252.129.248:80 - Welcome to XAMPP
+219.151.22.109:80 - Заголовок не найден
+139.99.69.21:80 - Welcome to nginx!
+152.0.186.53:80 - 
+154.89.90.19:80 - 404 Not Found
+156.253.113.105:80 - 404 Not Found
+64.44.133.131:80 - Apache2 Ubuntu Default Page: It works
+51.7.113.174:80 - 
+45.184.61.81:80 - RouterOS router configuration page
+149.71.183.21:80 - 407 Proxy Authentication Required
+2.22.10.212:80 - Заголовок не найден
+162.215.99.164:80 - Not Acceptable!
+127.191.196.73:80 - Welcome to XAMPP
+104.223.244.122:80 - 403 Forbidden
+106.14.95.156:80 - 阿里云万网虚机IP访问报错提示
+127.40.72.82:80 - Welcome to XAMPP
+130.158.45.8:80 - Innovative Systems Lab.
+23.54.215.61:80 - Заголовок не найден
+38.153.171.67:80 - ERROR: The requested URL could not be retrieved
+127.133.50.9:80 - Welcome to XAMPP
+167.71.207.231:80 - 401 Unauthorized
+184.30.243.86:80 - Заголовок не найден
+49.213.78.231:80 - 404 Not Found
+47.105.102.251:80 - åå·çæè²è£å¤è¡ä¸åä¼
+172.250.93.27:80 - 
+127.227.69.92:80 - Welcome to XAMPP
+185.38.227.35:80 - RouterOS router configuration page
+23.11.197.29:80 - Заголовок не найден
+127.187.129.83:80 - Welcome to XAMPP
+34.253.156.113:80 - Amazon ECS Sample App
+77.76.23.17:80 - Заголовок не найден
+127.149.119.144:80 - Welcome to XAMPP
+23.220.103.17:80 - Заголовок не найден
+104.27.62.202:80 - Direct IP access not allowed | Cloudflare
+74.48.133.38:80 - 400 Bad Request
+20.54.187.39:80 - Your Azure Function App is up and running.
+127.147.171.181:80 - Welcome to XAMPP
+127.84.141.34:80 - Welcome to XAMPP
+111.170.49.43:80 - 403 Forbidden
+127.196.4.109:80 - Welcome to XAMPP
+189.112.223.173:80 - 403 Forbidden
+127.242.171.133:80 - Welcome to XAMPP
+23.204.249.41:80 - Заголовок не найден
+139.9.211.121:80 - Jumpserver
+3.218.200.109:80 - 403 Forbidden
+13.33.251.116:80 - Заголовок не найден
+23.35.33.131:80 - Заголовок не найден
+127.78.208.127:80 - Welcome to XAMPP
+127.8.214.107:80 - Welcome to XAMPP
+127.152.44.80:80 - Welcome to XAMPP
+24.233.209.137:80 - Заголовок не найден
+127.46.195.106:80 - Welcome to XAMPP
+185.65.55.134:80 - Заголовок не найден
+80.74.131.210:80 - www.harnisch-gallery.ch
+127.142.30.243:80 - Welcome to XAMPP
+54.204.4.2:80 - Заголовок не найден
+20.223.250.17:80 - Your Azure Function App is up and running.
+127.153.210.53:80 - Welcome to XAMPP
+160.121.228.219:80 - 404 Not Found
+154.201.200.234:80 - æ²¡ææ¾å°ç«ç¹
+127.132.204.134:80 - Welcome to XAMPP
+104.67.188.5:80 - Заголовок не найден
+184.50.213.233:80 - Заголовок не найден
+213.155.81.5:80 - 404 Not Found
+127.157.150.18:80 - Welcome to XAMPP
+104.83.81.185:80 - Заголовок не найден
+23.201.82.30:80 - Заголовок не найден
+127.70.157.142:80 - Welcome to XAMPP
+16.170.174.181:80 - 403 Forbidden
+127.42.192.201:80 - Welcome to XAMPP
+89.161.204.75:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+121.43.148.214:80 - xc
+127.53.47.125:80 - Welcome to XAMPP
+127.77.209.250:80 - Welcome to XAMPP
+156.250.7.68:80 - 404 Not Found
+118.33.255.163:80 - 대광헬스케어 주차장
+188.216.228.122:80 - Central unit
+127.54.25.248:80 - Welcome to XAMPP
+107.154.246.46:80 - Заголовок не найден
+202.177.32.171:80 - 
+190.47.208.231:80 - WEB SERVICE
+160.153.245.89:80 - Web Server's Default Page
