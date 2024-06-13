@@ -6869,3 +6869,42 @@
 198.154.99.72:80 - IIS Windows Server
 200.88.74.251:80 - ZXHN H108N V2.5
 178.251.7.100:80 - 404 Not Found
+127.219.118.234:80 - Welcome to XAMPP
+140.248.181.214:80 - Fastly error: unknown domain 140.248.181.214
+127.213.232.118:80 - Welcome to XAMPP
+127.128.173.56:80 - Welcome to XAMPP
+85.209.154.188:80 - Wetten und Glücksspiele enthüllt | 100mk.de
+127.205.77.145:80 - Welcome to XAMPP
+23.48.121.114:80 - Заголовок не найден
+104.83.73.137:80 - Заголовок не найден
+127.254.175.222:80 - Welcome to XAMPP
+127.75.83.243:80 - Welcome to XAMPP
+127.66.187.108:80 - Welcome to XAMPP
+127.118.20.246:80 - Welcome to XAMPP
+23.194.66.5:80 - Заголовок не найден
+103.212.90.63:80 - Please wait, the page is opening...
+186.88.20.80:80 - 
+127.250.118.120:80 - Welcome to XAMPP
+197.52.57.104:80 - 
+45.200.242.4:80 - 403 Forbidden
+17.253.67.3:80 - Заголовок не найден
+1.1.1.97:80 - Direct IP access not allowed | Cloudflare
+103.188.22.16:80 - Welcome to nginx!
+185.244.158.127:80 - 
+127.255.128.150:80 - Welcome to XAMPP
+127.200.27.59:80 - Welcome to XAMPP
+104.71.255.112:80 - Заголовок не найден
+23.210.113.109:80 - Заголовок не найден
+179.62.219.138:80 - 
+127.78.62.56:80 - Welcome to XAMPP
+89.252.191.21:80 - Web Server's Default Page
+127.189.135.244:80 - Welcome to XAMPP
+127.186.38.132:80 - Welcome to XAMPP
+127.57.40.250:80 - Welcome to XAMPP
+102.141.115.83:80 - Заголовок не найден
+127.184.238.217:80 - Welcome to XAMPP
+127.13.250.113:80 - Welcome to XAMPP
+104.100.221.159:80 - Заголовок не найден
+127.195.19.255:80 - Welcome to XAMPP
+127.80.80.39:80 - Welcome to XAMPP
+87.238.38.238:80 - Заголовок не найден
