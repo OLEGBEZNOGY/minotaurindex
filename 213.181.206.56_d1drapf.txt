@@ -10896,3 +10896,106 @@ lt page
 104.168.160.108:80 - Kurt Courtland &#8211; Kurt Courtland&#039;s portfolio
 74.95.106.9:80 - Index
 54.180.64.239:80 - PROFILE SURVEY
+127.227.156.97:80 - Welcome to XAMPP
+127.154.24.167:80 - Welcome to XAMPP
+154.220.13.250:80 - Заголовок не найден
+125.209.246.140:80 - Заголовок не найден
+188.166.8.26:80 - Apache2 Ubuntu Default Page: It works
+20.253.2.247:80 - Заголовок не найден
+127.190.82.156:80 - Welcome to XAMPP
+127.66.165.113:80 - Welcome to XAMPP
+38.59.30.228:80 - Заголовок не найден
+84.166.148.74:80 - index
+117.175.95.147:80 - Заголовок не найден
+74.81.66.131:80 - Заголовок не найден
+127.139.246.134:80 - Welcome to XAMPP
+175.203.89.65:80 - Заголовок не найден
+3.163.187.168:80 - Заголовок не найден
+107.175.184.222:80 - ERROR: The requested URL could not be retrieved
+127.180.79.69:80 - Welcome to XAMPP
+23.223.172.100:80 - Заголовок не найден
+127.202.169.54:80 - Welcome to XAMPP
+156.255.173.145:80 - 404 Not Found
+127.120.173.177:80 - Welcome to XAMPP
+121.55.211.107:80 - 
+127.146.123.225:80 - Welcome to XAMPP
+127.230.138.196:80 - Welcome to XAMPP
+161.12.70.30:80 - Web Client
+127.81.195.32:80 - Welcome to XAMPP
+127.14.230.155:80 - Welcome to XAMPP
+23.214.57.184:80 - Заголовок не найден
+222.206.15.158:80 - 404 Not Found
+69.64.187.185:80 - Заголовок не найден
+71.89.146.162:80 - Web Help Desk
+23.44.166.253:80 - Заголовок не найден
+47.254.248.95:80 - Apache HTTP Server Test Page powered by CentOS
+117.192.33.132:80 - OP-XONT91000
+34.138.246.121:80 - 404 Not Found
+104.19.224.121:80 - Direct IP access not allowed | Cloudflare
+127.161.43.66:80 - Welcome to XAMPP
+162.19.249.226:80 - 401 Authorization Required
+127.239.95.168:80 - Welcome to XAMPP
+88.100.112.129:80 - Grafana
+127.24.135.44:80 - Welcome to XAMPP
+79.143.29.53:80 - Заголовок не найден
+115.31.193.12:80 - Заголовок не найден
+127.203.183.51:80 - Welcome to XAMPP
+127.34.200.141:80 - Welcome to XAMPP
+3.115.77.77:80 - Find Your Why æ¥æ¬å¬å¼ãµã¤ã | ãµã¤ã¢ã³ã·ããã¯
+3.7.111.72:80 - Заголовок не найден
+92.103.148.108:80 - EPrintWebservice Web Service
+50.16.2.202:80 - 
+113.61.132.215:80 - WEB SERVICE
+127.249.143.129:80 - Welcome to XAMPP
+127.41.177.107:80 - Welcome to XAMPP
+45.32.127.127:80 - Lab Kalibrasi - Lab GIS - Global Instrument Services
+66.113.225.63:80 - Заголовок не найден
+127.14.211.141:80 - Welcome to XAMPP
+127.143.26.247:80 - Welcome to XAMPP
+154.30.223.149:80 - Заголовок не найден
+200.85.163.76:80 - IIS Windows Server
+82.180.137.252:80 - 404 Not Found
+88.247.29.185:80 - 403 - Yasak: Eriþim reddedildi.
+127.141.118.54:80 - Welcome to XAMPP
+89.134.194.253:80 - Заголовок не найден
+41.76.222.142:80 - Sign in · GitLab
+127.89.210.192:80 - Welcome to XAMPP
+95.100.12.165:80 - Заголовок не найден
+213.234.15.177:80 - Ubiquiti
+83.69.237.24:80 - Welcome to nginx!
+44.193.180.78:80 - Apache2 Ubuntu Default Page: It works
+154.220.64.147:80 - 三亿体育(中国)股份有限公司
+149.18.102.49:80 - <![CDATA[Erro &amp;rsaquo; WordPress]]>
+52.22.158.32:80 - 503 Service Temporarily Unavailable
+50.56.118.208:80 - Plotter Paper, CAD Inkjet &amp; Engineering Paper Rolls @ Cadpaperrolls.com
+23.34.220.151:80 - Заголовок не найден
+60.249.6.79:80 - Заголовок не найден
+127.241.90.234:80 - Welcome to XAMPP
+96.44.162.170:80 - Заголовок не найден
+127.26.66.57:80 - Welcome to XAMPP
+23.36.153.71:80 - Заголовок не найден
+127.204.48.86:80 - Welcome to XAMPP
+127.110.91.42:80 - Welcome to XAMPP
+127.20.239.83:80 - Welcome to XAMPP
+64.91.241.90:80 - 403 Forbidden
+127.209.106.43:80 - Welcome to XAMPP
+4.14.89.166:80 - 503 Service Temporarily Unavailable
+127.50.75.2:80 - Welcome to XAMPP
+127.123.89.65:80 - Welcome to XAMPP
+34.225.131.39:80 - 403 Forbidden
+43.159.192.122:80 - 403 Forbidden
+20.208.53.99:80 - Your Azure Function App is up and running.
+166.62.115.143:80 - Заголовок не найден
+38.44.138.28:80 - Заголовок не найден
+127.151.236.51:80 - Welcome to XAMPP
+23.36.126.34:80 - Заголовок не найден
+1.94.147.91:80 - Заголовок не найден
+190.167.90.24:80 - 
+127.218.43.5:80 - Welcome to XAMPP
+182.253.216.104:80 - Lucy Top Metals - KITE
+104.20.126.236:80 - Direct IP access not allowed | Cloudflare
+108.156.175.34:80 - Заголовок не найден
+193.233.203.136:80 - Заголовок не найден
+138.4.113.132:80 - Заголовок не найден
+18.65.171.125:80 - Заголовок не найден
+104.201.20.240:80 - 404 Not Found
