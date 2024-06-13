@@ -5343,3 +5343,194 @@
 44.195.238.247:80 - Заголовок не найден
 127.0.39.153:80 - IIS Windows Server
 23.208.118.239:80 - Заголовок не найден
+127.69.195.43:80 - IIS Windows Server
+23.193.222.62:80 - Заголовок не найден
+152.0.218.142:80 - 
+65.9.22.131:80 - Заголовок не найден
+114.204.170.11:80 - main page
+5.199.199.87:80 - RouterOS
+18.196.252.94:80 - QuandaGo Agent Desktop
+187.157.247.29:80 - Заголовок не найден
+49.4.65.214:80 - IIS Windows Server
+186.129.217.109:80 - Заголовок не найден
+23.41.122.37:80 - Заголовок не найден
+104.110.132.84:80 - Заголовок не найден
+222.118.65.182:80 - Заголовок не найден
+144.76.47.227:80 - 404 Not Found
+23.55.19.250:80 - Заголовок не найден
+127.40.185.78:80 - IIS Windows Server
+127.116.58.201:80 - IIS Windows Server
+117.52.56.209:80 - Заголовок не найден
+23.54.13.165:80 - Заголовок не найден
+127.139.206.62:80 - IIS Windows Server
+173.255.37.170:80 - 500 - Internal server error.
+127.22.75.175:80 - IIS Windows Server
+127.81.41.153:80 - IIS Windows Server
+190.123.30.123:80 - Заголовок не найден
+64.70.118.230:80 - 400 No required SSL certificate was sent
+207.180.202.216:80 - ::
+63.135.100.153:80 - Just Jane
+99.86.207.170:80 - Заголовок не найден
+52.216.140.124:80 - Amazon S3 - Cloud Object Storage  - AWS
+127.187.75.172:80 - IIS Windows Server
+13.40.106.190:80 - Welcome to nginx!
+77.68.50.104:80 - Web Server's Default Page
+190.102.106.140:80 - Заголовок не найден
+84.52.65.98:80 - Login – Electropult Cloud
+127.162.203.187:80 - IIS Windows Server
+54.207.205.113:80 - Intersol
+127.244.107.221:80 - IIS Windows Server
+103.249.6.6:80 - Please wait, the login page is opening...
+23.211.228.224:80 - Заголовок не найден
+61.112.37.44:80 - Заголовок не найден
+200.237.143.84:80 - Error 404 (Not Found)!!1
+104.17.1.215:80 - Direct IP access not allowed | Cloudflare
+81.149.55.80:80 - Mulogic RSA series
+20.245.198.239:80 - Заголовок не найден
+51.255.149.116:80 - Web Server's Default Page
+127.117.97.62:80 - IIS Windows Server
+104.20.54.201:80 - Direct IP access not allowed | Cloudflare
+127.171.131.253:80 - IIS Windows Server
+108.186.12.78:80 - Заголовок не найден
+1.51.245.206:80 - 404 Not Found
+47.101.198.70:80 - Заголовок не найден
+154.204.69.16:80 - 404 Not Found
+89.117.57.15:80 - 502 Bad Gateway
+127.126.198.122:80 - IIS Windows Server
+35.77.234.184:80 - Заголовок не найден
+127.66.69.156:80 - IIS Windows Server
+1.220.58.90:80 - Заголовок не найден
+23.52.177.40:80 - Заголовок не найден
+92.123.202.31:80 - Заголовок не найден
+23.0.183.101:80 - Заголовок не найден
+51.178.42.21:80 - 
+67.199.50.52:80 - Заголовок не найден
+192.34.61.189:80 - Trading Training Courses For Stocks & Options | SMB Training
+189.230.198.112:80 - IIS Windows Server
+160.124.23.49:80 - 403 Forbidden
+23.217.135.10:80 - Заголовок не найден
+5.129.77.155:80 - 
+15.156.32.228:80 - Vidigami
+52.219.84.40:80 - Amazon S3 - Cloud Object Storage  - AWS
+23.8.245.220:80 - Заголовок не найден
+104.23.134.70:80 - Direct IP access not allowed | Cloudflare
+127.223.158.253:80 - IIS Windows Server
+50.2.165.85:80 - 403 Forbidden
+127.113.251.153:80 - IIS Windows Server
+161.43.205.247:80 - Teltonika Networks
+172.64.100.163:80 - Direct IP access not allowed | Cloudflare
+24.118.156.188:80 - "DTH and Associates"
+127.232.20.151:80 - IIS Windows Server
+134.122.36.157:80 - Legalhood - Legalhood
+23.50.239.55:80 - Заголовок не найден
+78.141.225.70:80 - Welcome to nginx!
+194.62.137.115:80 - Заголовок не найден
+45.92.216.207:80 - Sorry - 500 Error - Broken
+58.194.169.168:80 - 404 Not Found
+154.114.10.137:80 - 404 Not Found
+127.207.9.92:80 - IIS Windows Server
+62.140.9.88:80 - director-0140-01
+4.228.144.200:80 - Заголовок не найден
+127.75.99.114:80 - IIS Windows Server
+49.204.76.166:80 - IIS Windows Server
+85.159.209.136:80 - Apache2 Ubuntu Default Page: It works
+150.107.213.194:80 - Please wait, the login page is opening...
+127.88.46.176:80 - IIS Windows Server
+127.64.7.100:80 - IIS Windows Server
+127.28.14.161:80 - IIS Windows Server
+127.63.246.103:80 - IIS Windows Server
+3.29.24.131:80 - Welcome to nginx!
+127.208.227.131:80 - IIS Windows Server
+127.104.133.63:80 - IIS Windows Server
+127.96.127.147:80 - IIS Windows Server
+84.19.24.6:80 - Apache2 Ubuntu Default Page: It works
+23.194.194.221:80 - Заголовок не найден
+103.69.19.15:80 - 404 Not Found
+94.182.227.4:80 - 503 Service Temporarily Unavailable
+107.222.163.10:80 - Document Moved
+127.202.53.198:80 - IIS Windows Server
+34.96.108.50:80 - 502 Server Error
+127.66.116.206:80 - IIS Windows Server
+173.187.253.194:80 - Test Page for the HTTP Server on Red Hat Enterprise Linux
+38.182.174.184:80 - 403 Forbidden
+200.144.5.208:80 - Recursos Humanos
+127.236.39.246:80 - IIS Windows Server
+127.11.179.205:80 - IIS Windows Server
+23.56.250.139:80 - Заголовок не найден
+13.231.24.118:80 - FutureDial - CMC
+172.251.109.11:80 - 
+89.161.226.85:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+127.226.75.213:80 - IIS Windows Server
+120.77.38.190:80 - Заголовок не найден
+36.230.44.167:80 - D-LINK SYSTEMS, INC. | WIRELESS ROUTER | HOME
+23.220.221.139:80 - Заголовок не найден
+91.210.171.201:80 - 401 Unauthorized
+127.43.52.140:80 - IIS Windows Server
+127.216.63.29:80 - IIS Windows Server
+50.20.248.38:80 - Just a moment...
+104.67.189.190:80 - Заголовок не найден
+54.163.109.144:80 - Заголовок не найден
+154.220.38.112:80 - 404 Not Found
+23.193.123.97:80 - Заголовок не найден
+184.31.98.127:80 - Заголовок не найден
+157.167.82.161:80 - Forcepoint Cloud Security Gateway Connectivity Test
+127.119.82.252:80 - IIS Windows Server
+192.99.236.87:80 - Just a moment...
+173.222.170.145:80 - Заголовок не найден
+89.160.186.125:80 - Default Site
+127.156.250.112:80 - IIS Windows Server
+157.7.44.239:80 - 403 error - Forbidden
+108.139.122.117:80 - Заголовок не найден
+154.114.19.87:80 - Заголовок не найден
+52.138.104.220:80 - Microsoft Azure Web App - Error 404
+3.112.209.211:80 - Заголовок не найден
+189.198.128.52:80 - 403 Forbidden
+127.46.108.215:80 - IIS Windows Server
+127.173.162.231:80 - IIS Windows Server
+3.160.126.104:80 - Заголовок не найден
+23.192.19.39:80 - Заголовок не найден
+119.245.185.86:80 - Заголовок не найден
+83.137.50.165:80 - Web Server's Default Page
+127.89.174.238:80 - IIS Windows Server
+198.57.165.230:80 - 403 Forbidden
+122.114.223.119:80 - 403 Forbidden
+43.139.163.86:80 - Welcome to nginx!
+159.75.250.43:80 - 404 Not Found
+23.221.11.63:80 - Заголовок не найден
+23.46.38.68:80 - Заголовок не найден
+160.121.95.177:80 - 404 Not Found
+47.96.195.172:80 - 阿里云 Web应用防火墙
+170.85.72.113:80 - Internet Security by Zscaler
+127.40.46.63:80 - IIS Windows Server
+89.161.174.7:80 - agat &#8211; Twój dostawca IT
+23.48.78.217:80 - Заголовок не найден
+23.211.201.141:80 - Заголовок не найден
+95.101.6.9:80 - Заголовок не найден
+39.107.126.51:80 - Заголовок не найден
+127.44.106.170:80 - IIS Windows Server
+103.57.229.75:80 - 404 Not Found
+127.246.251.55:80 - IIS Windows Server
+127.240.229.110:80 - IIS Windows Server
+31.170.160.193:80 - 403 Forbidden
+8.146.128.220:80 - 403 Forbidden
+18.140.141.228:80 - Заголовок не найден
+160.121.191.87:80 - 404 Not Found
+35.132.86.44:80 - 
+127.255.148.24:80 - IIS Windows Server
+23.52.63.179:80 - Заголовок не найден
+69.54.229.236:80 - Заголовок не найден
+23.33.210.17:80 - Заголовок не найден
+43.205.2.166:80 - Welcome
+220.134.201.101:80 - 
+154.31.212.60:80 - 403 Forbidden
+127.226.102.115:80 - IIS Windows Server
+104.19.124.101:80 - Direct IP access not allowed | Cloudflare
+135.84.245.160:80 - Заголовок не найден
+127.84.140.100:80 - IIS Windows Server
+86.125.123.229:80 - RouterOS
+127.77.106.145:80 - IIS Windows Server
+67.227.241.227:80 - Заголовок не найден
+140.227.222.83:80 - îSØHÆ®ïÐ -gbvy[W-
+114.32.202.142:80 - ShinSoft
+173.232.215.89:80 - 403 Forbidden
+127.137.139.63:80 - IIS Windows Server
