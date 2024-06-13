@@ -3353,3 +3353,18 @@
 80.96.28.122:80 - Apache HTTP Server Test Page powered by CentOS
 3.161.137.17:80 - Заголовок не найден
 218.149.226.229:80 - Web Viewer for Samsung DVR
+74.249.1.91:80 - LAMP packaged by Bitnami
+165.227.122.90:80 - Заголовок не найден
+106.12.29.83:80 - IIS Windows Server
+4.157.188.13:80 - Your Azure Function App is up and running.
+47.113.187.170:80 - 500 Internal Server Error
+23.72.32.122:80 - Заголовок не найден
+3.111.244.186:80 - 404 Not Found
+94.84.57.194:80 - Error
+23.213.153.10:80 - Заголовок не найден
+139.162.87.107:80 - 404 Not Found
+3.161.187.211:80 - Заголовок не найден
+190.152.152.51:80 - Apache2 Ubuntu Default Page: It works
+155.159.59.211:80 - 404 Not Found
+91.184.49.150:80 - Domain nicht verfÃ¼gbar | Domain not available
+101.76.237.138:80 - 404 Not Found
