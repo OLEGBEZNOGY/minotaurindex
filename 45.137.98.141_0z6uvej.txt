@@ -8811,3 +8811,8 @@
 127.58.217.120:80 - Welcome to XAMPP
 80.71.239.188:80 - Apache2 Debian Default Page: It works
 34.125.207.246:80 - Apache2 Debian Default Page: It works
+23.212.99.207:80 - Заголовок не найден
+127.41.127.177:80 - Welcome to XAMPP
+127.8.125.46:80 - Welcome to XAMPP
+45.131.107.82:80 - Заголовок не найден
+2.57.138.199:80 - 403 Forbidden
