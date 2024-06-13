@@ -1159,3 +1159,39 @@
 89.116.33.2:80 - Dicom
 127.207.182.238:80 - IIS Windows Server
 124.236.111.5:80 - Заголовок не найден
+127.180.185.26:80 - IIS Windows Server
+74.241.148.14:80 - Заголовок не найден
+123.57.130.146:80 - 
+138.94.218.37:80 - 407 Proxy Authentication Required
+66.91.65.98:80 - index
+127.63.182.98:80 - IIS Windows Server
+45.92.18.190:80 - Error
+176.141.223.237:80 - Schema continuitÃ© fils
+188.128.151.68:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+127.167.152.129:80 - IIS Windows Server
+127.132.68.246:80 - IIS Windows Server
+2.16.175.253:80 - Заголовок не найден
+34.149.28.156:80 - Заголовок не найден
+5.254.186.37:80 - IIS Windows Server
+66.250.219.169:80 - Site Information Page
+127.88.86.195:80 - IIS Windows Server
+23.212.192.252:80 - Заголовок не найден
+3.92.156.27:80 - Заголовок не найден
+127.149.102.165:80 - IIS Windows Server
+59.91.140.27:80 - Заголовок не найден
+65.108.235.241:80 - Welcome to nginx!
+18.194.6.87:80 - 404 Not Found
+120.27.141.134:80 - ð¥2024çè±çº¢åð
+190.176.90.144:80 - Заголовок не найден
+24.234.53.232:80 - Document Moved
+50.87.138.117:80 - Not Acceptable!
+186.6.121.204:80 - 
+5.183.149.193:80 - 406 Not Acceptable
+192.252.151.153:80 - Resource not found
+66.63.181.113:80 - Test Page for the Centmin Mod Nginx HTTP Server
+23.15.187.45:80 - Заголовок не найден
+127.26.189.164:80 - IIS Windows Server
+142.93.50.121:80 - Artboard
+23.55.58.137:80 - Заголовок не найден
+171.33.196.147:80 - IIS Windows Server
+108.138.219.196:80 - Заголовок не найден
