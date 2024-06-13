@@ -18455,3 +18455,36 @@ Context: {&quot;exception&quot;:{}}
 184.29.113.252:80 - Заголовок не найден
 13.201.18.85:80 - 503 Service Temporarily Unavailable
 184.85.140.146:80 - Заголовок не найден
+127.170.119.157:80 - Welcome to XAMPP
+192.64.32.51:80 - Заголовок не найден
+103.253.184.210:80 - 
+154.23.90.196:80 - 404 Not Found
+127.28.211.197:80 - Welcome to XAMPP
+127.195.254.200:80 - Welcome to XAMPP
+83.147.216.66:80 - 500 Internal Server Error
+127.39.0.49:80 - Welcome to XAMPP
+162.13.192.239:80 - 404 - File or directory not found.
+127.123.148.164:80 - Welcome to XAMPP
+127.149.188.193:80 - Welcome to XAMPP
+172.233.175.154:80 - 404 Not Found
+79.96.214.83:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+23.62.115.17:80 - Заголовок не найден
+82.67.43.52:80 - Заголовок не найден
+127.96.145.143:80 - Welcome to XAMPP
+107.154.238.1:80 - Заголовок не найден
+185.94.82.59:80 - RouterOS router configuration page
+35.227.2.211:80 - 404 Not Found
+127.223.158.243:80 - Welcome to XAMPP
+127.251.117.1:80 - Welcome to XAMPP
+127.254.146.5:80 - Welcome to XAMPP
+145.14.146.26:80 - 403 Forbidden
+23.41.209.192:80 - Заголовок не найден
+175.6.241.251:80 - 403 Forbidden
+34.69.224.254:80 - Welcome to nginx!
+127.239.66.228:80 - Welcome to XAMPP
+78.46.70.98:80 - Login
+206.54.190.158:80 - 404 Not Found
+127.233.244.56:80 - Welcome to XAMPP
+3.209.60.158:80 - 503 Service Temporarily Unavailable
+92.246.16.43:80 - Заголовок не найден
+23.39.3.222:80 - Заголовок не найден
