@@ -14524,3 +14524,130 @@ lt page
 127.79.227.49:80 - Welcome to XAMPP
 127.185.144.110:80 - Welcome to XAMPP
 127.194.249.112:80 - Welcome to XAMPP
+127.34.53.148:80 - Welcome to XAMPP
+127.90.19.212:80 - Welcome to XAMPP
+208.53.90.142:80 - Ark1 atsc  v1.15
+127.6.60.172:80 - Welcome to XAMPP
+127.128.194.101:80 - Welcome to XAMPP
+70.88.215.113:80 - Web Site Blocked
+127.102.171.112:80 - Welcome to XAMPP
+104.120.131.170:80 - Заголовок не найден
+127.134.251.114:80 - Welcome to XAMPP
+18.238.94.120:80 - Заголовок не найден
+44.217.144.7:80 - 503 Service Temporarily Unavailable
+148.139.80.19:80 - 403 Forbidden
+142.93.152.150:80 - About Me - Crush1Me
+85.128.198.253:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+127.200.196.12:80 - Welcome to XAMPP
+198.189.72.120:80 - Web Page Blocked
+164.155.168.174:80 - 404 Not Found
+35.169.21.77:80 - Humanware
+131.93.99.212:80 - 
+49.212.157.200:80 - Заголовок не найден
+18.65.151.43:80 - Заголовок не найден
+5.11.158.237:80 - Заголовок не найден
+167.172.249.112:80 - Заголовок не найден
+127.43.193.242:80 - Welcome to XAMPP
+3.163.181.73:80 - Заголовок не найден
+14.178.46.77:80 - 
+45.13.252.147:80 - 403 Forbidden
+46.30.243.59:80 - Apache HTTP Server Test Page powered by CentOS
+34.128.139.235:80 - Заголовок не найден
+223.6.216.29:80 - ç½ç«è®¿é®æ¥é
+127.224.33.233:80 - Welcome to XAMPP
+37.58.149.228:80 - Accueil
+23.222.214.249:80 - Заголовок не найден
+110.4.217.213:80 - 
+127.49.110.143:80 - Welcome to XAMPP
+127.18.163.89:80 - Welcome to XAMPP
+127.8.161.28:80 - Welcome to XAMPP
+18.144.83.140:80 - ACXSS
+23.196.140.51:80 - Заголовок не найден
+31.44.173.119:80 - Apache2 Ubuntu Default Page: It works
+80.146.221.181:80 - Request denied by WatchGuard HTTP Proxy
+95.217.201.97:80 - Online converter - convert video, images, audio and documents for free
+127.239.27.49:80 - Welcome to XAMPP
+35.156.217.103:80 - 404 Not Found
+127.103.118.79:80 - Welcome to XAMPP
+216.119.91.153:80 - Web Server's Default Page
+125.212.243.234:80 - Shared IP
+127.188.252.98:80 - Welcome to XAMPP
+88.83.121.29:80 - Welcome:
+150.95.162.80:80 - Apache HTTP Server Test Page powered by CentOS
+45.77.146.109:80 - Unknown Domain
+212.193.58.137:80 - SMTP.BZ
+66.51.158.245:80 - Заголовок не найден
+96.45.183.179:80 - Заголовок не найден
+127.59.161.217:80 - Welcome to XAMPP
+18.64.230.120:80 - Заголовок не найден
+179.53.212.55:80 - 
+23.35.236.16:80 - Заголовок не найден
+193.232.45.104:80 - 403 Forbidden
+104.25.225.145:80 - Direct IP access not allowed | Cloudflare
+173.212.235.127:80 - Proudly Managed By ServerAvatar
+127.240.91.248:80 - Welcome to XAMPP
+18.102.54.144:80 - 403 Forbidden
+127.14.4.204:80 - Welcome to XAMPP
+127.182.118.206:80 - Welcome to XAMPP
+104.129.166.188:80 - Direct IP access not allowed | Cloudflare
+59.0.250.160:80 - 
+54.178.187.90:80 - Live Sex Cams &amp; Adult Webcam Chat with the hottest girls! | Cherry.tv
+77.242.17.202:80 - WEB SERVICE
+68.113.170.51:80 - index
+217.76.224.225:80 - DNS - HOSTING
+3.105.152.106:80 - Hearts
+104.67.169.165:80 - Заголовок не найден
+3.0.118.84:80 - Заголовок не найден
+91.238.133.191:80 - 
+127.209.169.193:80 - Welcome to XAMPP
+60.43.107.177:80 - Заголовок не найден
+43.198.58.181:80 - 403 Forbidden
+200.24.244.122:80 - 
+104.82.247.47:80 - Заголовок не найден
+127.215.250.89:80 - Welcome to XAMPP
+107.163.131.251:80 - æ²¡ææ¾å°ç«ç¹
+52.44.128.63:80 - No such app
+149.56.38.114:80 - Nova União Telecom
+23.217.20.134:80 - Заголовок не найден
+178.118.233.67:80 - openmediavault Workbench
+222.204.7.10:80 - 禁止访问
+104.83.105.211:80 - Заголовок не найден
+167.172.168.47:80 - 502 Bad Gateway
+127.138.26.127:80 - Welcome to XAMPP
+47.99.139.252:80 - 报表自动化系统
+38.170.142.213:80 - ERROR: The requested URL could not be retrieved
+127.83.82.159:80 - Welcome to XAMPP
+23.206.17.111:80 - Заголовок не найден
+127.136.220.24:80 - Welcome to XAMPP
+127.122.35.2:80 - Welcome to XAMPP
+127.29.174.29:80 - Welcome to XAMPP
+47.236.57.180:80 - Home
+127.179.132.132:80 - Welcome to XAMPP
+127.88.116.12:80 - Welcome to XAMPP
+127.45.46.136:80 - Welcome to XAMPP
+91.195.131.108:80 - Error 404 (Not Found)!!1
+185.55.224.95:80 - Web Server's Default Page
+104.90.93.97:80 - Заголовок не найден
+115.28.177.113:80 - 404 Not Found
+127.140.125.7:80 - Welcome to XAMPP
+59.9.216.41:80 - Заголовок не найден
+127.37.205.22:80 - Welcome to XAMPP
+18.245.88.201:80 - Заголовок не найден
+60.254.95.208:80 - Document Moved
+173.208.46.224:80 - ERROR: The requested URL could not be retrieved
+103.191.170.39:80 - Заголовок не найден
+128.245.196.228:80 - 403 - Forbidden: Access is denied.
+103.239.218.250:80 - Заголовок не найден
+34.159.163.144:80 - Welcome to nginx!
+13.227.34.19:80 - Заголовок не найден
+179.52.82.123:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#54;&#55;&#65;&#32;&#86;&#49;&#46;&#48;
+54.239.164.172:80 - Заголовок не найден
+154.23.25.234:80 - 404 Not Found
+127.191.16.38:80 - Welcome to XAMPP
+127.95.195.242:80 - Welcome to XAMPP
+23.212.193.168:80 - Заголовок не найден
+127.128.232.38:80 - Welcome to XAMPP
+127.169.24.212:80 - Welcome to XAMPP
+3.162.173.91:80 - Заголовок не найден
+123.195.84.60:80 - Заголовок не найден
+176.115.252.100:80 - 
