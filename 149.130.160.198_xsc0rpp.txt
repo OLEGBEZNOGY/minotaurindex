@@ -223,3 +223,48 @@
 127.243.233.171:80 - IIS Windows Server
 23.196.147.195:80 - Заголовок не найден
 127.47.145.207:80 - IIS Windows Server
+34.27.31.134:80 - Заголовок не найден
+23.65.116.119:80 - Заголовок не найден
+127.24.193.140:80 - IIS Windows Server
+127.188.233.231:80 - IIS Windows Server
+127.229.161.199:80 - IIS Windows Server
+127.96.183.198:80 - IIS Windows Server
+127.14.43.53:80 - IIS Windows Server
+54.219.192.65:80 - Заголовок не найден
+127.157.138.148:80 - IIS Windows Server
+127.20.102.139:80 - IIS Windows Server
+23.44.219.114:80 - Заголовок не найден
+41.72.209.201:80 - Заголовок не найден
+13.224.239.242:80 - Заголовок не найден
+173.242.121.119:80 - Заголовок не найден
+66.206.46.78:80 - Заголовок не найден
+52.222.157.21:80 - Заголовок не найден
+127.119.86.140:80 - IIS Windows Server
+127.110.234.47:80 - IIS Windows Server
+220.247.227.197:80 - Заголовок не найден
+89.117.55.126:80 - Welcome to nginx!
+127.117.82.174:80 - IIS Windows Server
+104.103.111.162:80 - Заголовок не найден
+18.245.96.113:80 - Заголовок не найден
+184.87.60.11:80 - Заголовок не найден
+127.241.31.141:80 - IIS Windows Server
+85.128.151.135:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+127.25.27.140:80 - IIS Windows Server
+151.139.188.50:80 - 404 Not Found
+127.109.76.111:80 - IIS Windows Server
+50.3.156.245:80 - 403 Forbidden
+23.39.64.203:80 - Заголовок не найден
+193.29.98.47:80 - Apache2 Ubuntu Default Page: It works
+67.222.52.38:80 - Not Acceptable!
+2.21.165.7:80 - Заголовок не найден
+173.234.249.207:80 - ERROR: The requested URL could not be retrieved
+127.193.124.163:80 - IIS Windows Server
+127.182.15.125:80 - IIS Windows Server
+123.56.222.125:80 - Welcome to CentOS
+127.180.62.107:80 - IIS Windows Server
+127.42.63.253:80 - IIS Windows Server
+20.50.219.82:80 - Заголовок не найден
+5.9.56.61:80 - Default Site
+104.22.48.133:80 - Direct IP access not allowed | Cloudflare
+127.11.46.139:80 - IIS Windows Server
+103.251.78.13:80 - 401 Authorization Required
