@@ -54,3 +54,5 @@
 46.216.205.246:80 - index
 179.52.76.51:80 - 
 91.205.41.199:80 - DoktorTakvimi | Intranet
+200.118.97.70:80 - Gnosoft Académico I.E. POLITÉCNICO ÁLVARO GONZÁLEZ SANTANA, SOGAMOSO - BOYACÁ
+3.19.19.167:80 - 403 Forbidden
