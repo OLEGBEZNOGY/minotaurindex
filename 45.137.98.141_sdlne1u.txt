@@ -6003,3 +6003,60 @@
 148.101.149.123:80 - 
 103.184.155.45:80 - 
 127.131.172.144:80 - Welcome to XAMPP
+220.71.121.90:80 - 태양광 모니터링
+157.245.13.15:80 - Заголовок не найден
+107.172.114.245:80 - ERROR: The requested URL could not be retrieved
+38.181.198.29:80 - 404 Not Found
+127.88.187.208:80 - Welcome to XAMPP
+127.199.126.138:80 - Welcome to XAMPP
+127.133.8.52:80 - Welcome to XAMPP
+60.43.202.157:80 - Заголовок не найден
+127.215.65.17:80 - Welcome to XAMPP
+127.77.206.10:80 - Welcome to XAMPP
+127.135.103.234:80 - Welcome to XAMPP
+34.198.182.32:80 - WebTitan Cloud
+4.175.172.114:80 - Your Azure Function App is up and running.
+18.154.188.224:80 - Заголовок не найден
+127.20.16.25:80 - Welcome to XAMPP
+18.138.129.194:80 - The stream or file &quot;/var/www/html/storage/logs/laravel-2024-06-13.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel-2024-06-13.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel-2024-06-13.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel-2024-06-13.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel-2024-06-13.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel-2024-06-13.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel-2024-06-13.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel-2024-06-13.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel-2024-06-13.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: ERR Error running script (call to f_a08c9c69b7c07ae2485190873b90d128a23e502d): @user_script:1: @user_script: 1: -READONLY You can&#039;t write against a read only replica.
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+185.185.24.115:80 - Apache2 Debian Default Page: It works
+127.166.203.57:80 - Welcome to XAMPP
+54.72.232.155:80 - 403 Forbidden
+104.104.44.191:80 - Заголовок не найден
+18.175.29.37:80 - Заголовок не найден
+58.205.220.14:80 - Заголовок не найден
+18.160.100.77:80 - Заголовок не найден
+121.36.210.131:80 - Laravel
+45.90.116.87:80 - 500 Internal Server Error
+41.141.110.75:80 - Webinterface
+3.213.30.124:80 - 403 Forbidden
+52.1.16.141:80 - Welcome to nginx!
+49.212.155.88:80 - Infiniware株式会社 | ビジネスをよりスマートに効率的に
+23.60.41.193:80 - Заголовок не найден
+38.38.185.248:80 - Заголовок не найден
+23.197.181.198:80 - Заголовок не найден
+27.133.249.72:80 - 404 Not Found
+127.212.68.221:80 - Welcome to XAMPP
+127.254.152.110:80 - Welcome to XAMPP
+188.244.117.14:80 - 403 Forbidden
+39.107.115.84:80 - Заголовок не найден
+23.213.141.179:80 - Заголовок не найден
+154.38.28.88:80 - ERROR: The requested URL could not be retrieved
+18.232.253.189:80 - 403 Forbidden
