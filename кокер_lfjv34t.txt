@@ -1,0 +1,10 @@
+123.207.211.183:80 - Заголовок не найден
+190.146.154.173:80 - RouterOS router configuration page
+23.215.155.198:80 - Заголовок не найден
+80.147.41.215:80 - Заголовок не найден
+3.19.183.129:80 - Заголовок не найден
+104.27.7.252:80 - Direct IP access not allowed | Cloudflare
+172.232.175.66:80 - 400 Bad Request
+154.204.124.98:80 - 网站建设中，敬请期待
+122.193.159.23:80 - 403 Forbidden
+81.92.195.251:80 - ERROR: The requested URL could not be retrieved
