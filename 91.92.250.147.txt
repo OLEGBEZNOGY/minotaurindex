@@ -12532,3 +12532,4 @@
 108.159.13.177:80 - Заголовок не найден
 104.82.121.221:80 - Заголовок не найден
 216.228.236.128:80 - The page cannot be displayed
+79.96.32.141:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
