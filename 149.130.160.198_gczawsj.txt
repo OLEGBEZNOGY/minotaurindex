@@ -2959,3 +2959,102 @@
 127.53.239.111:80 - IIS Windows Server
 103.152.63.29:80 - Sekolah Tinggi Ekonomi Pengembangan Bisnis Dan Management
 50.116.23.175:80 - 403 Forbidden
+70.24.106.239:80 - 
+34.126.131.117:80 - Заголовок не найден
+185.33.26.213:80 - 404 Not Found
+121.199.36.11:80 - Sign in · GitLab
+104.21.5.181:80 - Direct IP access not allowed | Cloudflare
+216.120.200.11:80 - Заголовок не найден
+127.160.231.254:80 - IIS Windows Server
+162.159.35.141:80 - Direct IP access not allowed | Cloudflare
+104.168.30.169:80 - 404 Not Found
+23.42.172.168:80 - Заголовок не найден
+43.252.249.212:80 - Please wait, the login page is opening...
+143.64.160.25:80 - Заголовок не найден
+127.180.31.200:80 - IIS Windows Server
+212.227.189.163:80 - 404 Not Found
+103.210.195.89:80 - 404 Not Found
+104.20.118.26:80 - Direct IP access not allowed | Cloudflare
+5.252.118.29:80 - Welcome to nginx!
+176.74.16.31:80 - Заголовок не найден
+186.132.185.186:80 - Заголовок не найден
+66.175.61.232:80 - Заголовок не найден
+127.79.53.248:80 - IIS Windows Server
+71.136.90.224:80 - Заголовок не найден
+73.1.29.66:80 - 
+95.58.51.188:80 - GPON Home Gateway
+23.40.2.160:80 - Заголовок не найден
+127.89.234.208:80 - IIS Windows Server
+23.214.90.67:80 - Заголовок не найден
+13.232.144.70:80 - Dashboard
+34.101.69.16:80 - Artboard
+104.77.14.253:80 - Заголовок не найден
+192.151.214.223:80 - 404 Not Found
+23.42.95.204:80 - Заголовок не найден
+154.209.175.90:80 - æ²¡ææ¾å°ç«ç¹
+127.86.15.230:80 - IIS Windows Server
+89.79.244.17:80 - Home Assistant
+23.39.10.253:80 - Заголовок не найден
+96.224.32.92:80 - SonicWall - Authentication
+127.65.151.165:80 - IIS Windows Server
+45.32.247.56:80 - Apache HTTP Server Test Page powered by CentOS
+104.103.199.5:80 - Заголовок не найден
+127.182.155.122:80 - IIS Windows Server
+51.68.164.60:80 - Web Server's Default Page
+127.36.178.86:80 - IIS Windows Server
+117.133.185.129:80 - Заголовок не найден
+104.81.245.51:80 - Заголовок не найден
+104.64.201.113:80 - Заголовок не найден
+23.221.169.229:80 - Заголовок не найден
+127.74.23.175:80 - IIS Windows Server
+104.77.2.118:80 - Заголовок не найден
+127.230.96.28:80 - IIS Windows Server
+177.191.151.232:80 - 
+127.96.234.245:80 - IIS Windows Server
+23.253.216.48:80 - Apache HTTP Server Test Page powered by CentOS
+185.238.248.248:80 - Заголовок не найден
+54.156.255.44:80 - 54.156.255.44 - /
+3.164.37.157:80 - Заголовок не найден
+127.215.203.162:80 - IIS Windows Server
+216.247.102.239:80 - Apache2 Ubuntu Default Page: It works
+220.132.146.103:80 - Заголовок не найден
+127.199.159.36:80 - IIS Windows Server
+127.37.114.254:80 - IIS Windows Server
+185.140.34.34:80 - Welcome to CentOS
+127.167.238.241:80 - IIS Windows Server
+62.8.121.186:80 - WEB SERVICE
+127.6.240.13:80 - IIS Windows Server
+104.16.204.255:80 - Direct IP access not allowed | Cloudflare
+127.157.197.182:80 - IIS Windows Server
+83.219.136.127:80 - Заголовок не найден
+184.84.163.25:80 - Заголовок не найден
+20.8.59.163:80 - Заголовок не найден
+43.136.59.82:80 - 404 Not Found
+127.148.150.211:80 - IIS Windows Server
+127.39.21.236:80 - IIS Windows Server
+141.95.186.71:80 - Just a moment...
+127.156.81.90:80 - IIS Windows Server
+127.122.35.10:80 - IIS Windows Server
+127.237.157.171:80 - IIS Windows Server
+127.152.204.87:80 - IIS Windows Server
+127.196.98.228:80 - IIS Windows Server
+185.223.24.159:80 - 401 Unauthorized
+127.208.13.152:80 - IIS Windows Server
+59.120.158.110:80 - 
+127.149.236.173:80 - IIS Windows Server
+199.232.183.38:80 - Fastly error: unknown domain 199.232.183.38
+176.193.122.89:80 - 403 Forbidden
+43.143.129.32:80 - æ²¡ææ¾å°ç«ç¹
+107.163.7.209:80 - 404 Not Found
+127.103.122.173:80 - IIS Windows Server
+199.232.122.253:80 - Fastly error: unknown domain 199.232.122.253
+18.160.191.55:80 - Заголовок не найден
+37.1.207.100:80 - 403 Forbidden
+195.54.33.155:80 - Заголовок не найден
+52.57.84.134:80 - Заголовок не найден
+111.223.35.133:80 - Заголовок не найден
+104.96.235.223:80 - Заголовок не найден
+136.53.123.239:80 - WEB SERVICE
+34.224.194.128:80 - Заголовок не найден
+127.172.185.85:80 - IIS Windows Server
+187.246.253.18:80 - 503 Service Not Available
