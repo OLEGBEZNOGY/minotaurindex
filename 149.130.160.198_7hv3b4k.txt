@@ -1031,3 +1031,124 @@
 104.83.99.166:80 - Заголовок не найден
 95.101.126.190:80 - Заголовок не найден
 148.0.16.115:80 - 
+156.234.212.16:80 - æ²¡ææ¾å°ç«ç¹
+34.242.147.100:80 - Заголовок не найден
+127.193.39.252:80 - IIS Windows Server
+185.134.233.196:80 - RouterOS router configuration page
+23.199.201.43:80 - Заголовок не найден
+23.32.16.80:80 - Заголовок не найден
+104.248.36.119:80 - Αρχική - Kirtsios Bros
+52.16.147.236:80 - 403 Forbidden
+127.166.146.22:80 - IIS Windows Server
+211.159.144.122:80 - Welcome to OpenResty!
+127.244.251.129:80 - IIS Windows Server
+185.4.67.219:80 - Заголовок не найден
+13.200.50.210:80 - 404 Not Found
+165.225.16.83:80 - Internet Security by Zscaler
+127.251.239.34:80 - IIS Windows Server
+153.92.215.212:80 - Hostinger - Bring Your Idea Online With a Website
+49.174.252.122:80 - WEB SERVICE
+3.160.114.105:80 - Заголовок не найден
+127.57.172.220:80 - IIS Windows Server
+35.189.93.214:80 - Site Not Configured | 404 Not Found
+36.131.150.142:80 - Заголовок не найден
+175.182.249.195:80 - Заголовок не найден
+108.186.88.159:80 - 500 Internal Server Error
+127.238.205.133:80 - IIS Windows Server
+23.44.80.148:80 - Заголовок не найден
+128.220.227.12:80 - Заголовок не найден
+104.81.62.14:80 - Заголовок не найден
+127.174.5.192:80 - IIS Windows Server
+127.211.24.132:80 - IIS Windows Server
+40.114.172.127:80 - Microsoft Azure Web App - Error 404
+195.35.3.191:80 - 502 Bad Gateway
+82.157.146.120:80 - Gitea: Git with a cup of tea
+85.13.155.101:80 - 503 Service Temporarily Unavailable
+127.202.107.7:80 - IIS Windows Server
+13.232.108.245:80 - Welcome to nginx!
+104.98.218.49:80 - Заголовок не найден
+217.128.238.182:80 - index
+165.166.104.145:80 - IIS Windows Server
+91.188.74.51:80 - 403 Forbidden
+23.81.216.190:80 - 403 Forbidden
+38.38.229.27:80 - æ²¡ææ¾å°ç«ç¹
+122.171.246.27:80 - Device Client
+92.122.108.8:80 - Заголовок не найден
+172.81.59.4:80 - IIS Windows Server
+34.98.127.103:80 - Заголовок не найден
+47.111.21.33:80 - æ²¡ææ¾å°ç«ç¹
+85.214.222.224:80 - Web Server's Default Page
+63.47.119.239:80 - 
+127.56.136.150:80 - IIS Windows Server
+146.112.1.130:80 - Error 401
+127.16.92.125:80 - IIS Windows Server
+127.149.93.172:80 - IIS Windows Server
+13.32.163.37:80 - Заголовок не найден
+127.204.71.19:80 - IIS Windows Server
+75.145.253.62:80 - Заголовок не найден
+121.170.180.94:80 - Заголовок не найден
+181.206.7.161:80 - RouterOS router configuration page
+154.209.123.200:80 - 403 Forbidden
+127.52.183.53:80 - IIS Windows Server
+148.81.200.237:80 - 503 Service Unavailable
+23.47.147.137:80 - Заголовок не найден
+27.114.3.202:80 - Network Camera
+127.136.192.13:80 - IIS Windows Server
+178.33.74.136:80 - 403 Forbidden
+159.89.252.201:80 - RS-gold
+141.101.204.123:80 - The page is not found
+35.209.58.66:80 - httpbin.org
+165.227.38.55:80 - Apache2 Ubuntu Default Page: It works
+154.214.67.198:80 - 404 Not Found
+127.238.180.21:80 - IIS Windows Server
+194.245.121.209:80 - Roundcube Webmail :: Welcome to Roundcube Webmail
+72.247.68.147:80 - Заголовок не найден
+154.56.46.250:80 - 503 Service Unavailable
+202.9.39.120:80 - 404 Not Found
+127.163.238.33:80 - IIS Windows Server
+127.144.68.14:80 - IIS Windows Server
+127.45.210.208:80 - IIS Windows Server
+94.154.19.46:80 - Device Information
+95.217.49.229:80 - gamersunited - Proxmox Virtual Environment
+127.247.173.172:80 - IIS Windows Server
+104.68.77.80:80 - Заголовок не найден
+202.194.14.101:80 - 404 Not Found
+38.55.135.208:80 - IIS7
+3.165.88.254:80 - Заголовок не найден
+127.132.14.75:80 - IIS Windows Server
+211.3.82.18:80 - BB-SC364 Network Camera
+127.247.237.163:80 - IIS Windows Server
+127.163.102.12:80 - IIS Windows Server
+38.170.103.9:80 - ERROR: The requested URL could not be retrieved
+127.37.37.186:80 - IIS Windows Server
+150.158.111.198:80 - 浙江时代主场运营管理系统
+185.15.192.105:80 - 185.15.192.105
+104.113.200.154:80 - Заголовок не найден
+140.228.74.12:80 - 
+34.129.119.85:80 - Заголовок не найден
+52.219.156.21:80 - Amazon S3 - Cloud Object Storage  - AWS
+23.46.200.246:80 - Заголовок не найден
+190.167.53.9:80 - 
+127.199.224.65:80 - IIS Windows Server
+127.94.47.171:80 - IIS Windows Server
+198.27.80.7:80 - 404 Not Found
+127.50.27.10:80 - IIS Windows Server
+127.31.26.82:80 - IIS Windows Server
+1.212.0.171:80 - Ȩ_�ý�������_�ܺθ���������
+127.184.193.251:80 - IIS Windows Server
+104.16.84.103:80 - Direct IP access not allowed | Cloudflare
+104.25.131.211:80 - Direct IP access not allowed | Cloudflare
+45.169.128.42:80 - Apache2 Debian Default Page: It works
+146.75.98.59:80 - Fastly error: unknown domain 146.75.98.59
+127.129.143.8:80 - IIS Windows Server
+109.109.176.112:80 - 403 Forbidden
+113.21.208.67:80 - 
+34.213.110.175:80 - Заголовок не найден
+192.185.138.11:80 - Not Acceptable!
+38.63.114.149:80 - IIS Windows Server
+127.166.79.195:80 - IIS Windows Server
+127.95.49.177:80 - IIS Windows Server
+127.80.184.104:80 - IIS Windows Server
+66.160.154.6:80 - HURRICANE ELECTRIC
+18.212.137.150:80 - Toor
+127.226.111.26:80 - IIS Windows Server
