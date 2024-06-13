@@ -1048,3 +1048,102 @@
 23.25.50.49:80 - IIS7
 23.205.79.185:80 - Заголовок не найден
 15.207.134.196:80 - Заголовок не найден
+165.227.88.59:80 - Web Server's Default Page
+18.161.103.203:80 - Заголовок не найден
+44.203.254.18:80 - 403 Forbidden
+168.228.46.205:80 - 407 Proxy Authentication Required
+127.178.178.219:80 - IIS Windows Server
+107.149.51.95:80 - Заголовок не найден
+52.26.141.229:80 - 404 Not Found
+127.174.62.184:80 - IIS Windows Server
+127.196.9.112:80 - IIS Windows Server
+104.154.184.162:80 - Заголовок не найден
+34.193.203.210:80 - 
+107.149.135.147:80 - Заголовок не найден
+127.101.173.133:80 - IIS Windows Server
+202.168.176.74:80 - 403 Forbidden
+127.108.176.21:80 - IIS Windows Server
+104.25.110.144:80 - Direct IP access not allowed | Cloudflare
+127.8.65.78:80 - IIS Windows Server
+96.64.139.50:80 - 
+81.71.129.225:80 - Заголовок не найден
+154.9.44.170:80 - ERROR: The requested URL could not be retrieved
+104.120.144.85:80 - Заголовок не найден
+47.109.38.77:80 - 阿里云万网虚机IP访问报错提示
+157.241.42.35:80 - Заголовок не найден
+127.103.172.21:80 - IIS Windows Server
+154.223.109.1:80 - Заголовок не найден
+195.13.229.162:80 - 403 Forbidden
+127.103.174.174:80 - IIS Windows Server
+154.197.51.157:80 - 
+127.148.26.11:80 - IIS Windows Server
+144.202.79.230:80 - BootstrapDash Comingsoon Template
+165.154.132.249:80 - æ²¡ææ¾å°ç«ç¹
+127.27.6.138:80 - IIS Windows Server
+118.97.55.237:80 - Login - Data Peserta Lemhannas
+127.78.27.76:80 - IIS Windows Server
+127.144.159.168:80 - IIS Windows Server
+54.39.90.208:80 - This server is powered by PebbleHost!
+44.224.67.255:80 - 403 Forbidden
+38.174.142.136:80 - 403 Forbidden
+23.43.147.66:80 - Заголовок не найден
+47.104.200.173:80 - ç½ç«è®¿é®æ¥é
+85.196.155.210:80 - HFS /
+23.200.88.12:80 - Заголовок не найден
+72.14.178.181:80 - Заголовок не найден
+127.43.109.195:80 - IIS Windows Server
+18.66.58.202:80 - Заголовок не найден
+127.178.4.222:80 - IIS Windows Server
+127.234.124.12:80 - IIS Windows Server
+18.162.33.213:80 - Welcome to nginx!
+206.237.11.13:80 - Welcome to nginx!
+127.3.186.173:80 - IIS Windows Server
+47.101.31.97:80 - 500 Internal Server Error
+127.165.26.86:80 - IIS Windows Server
+127.186.187.252:80 - IIS Windows Server
+18.245.191.58:80 - Заголовок не найден
+127.228.6.243:80 - IIS Windows Server
+43.200.202.47:80 - Заголовок не найден
+14.52.119.16:80 - main page
+127.147.198.251:80 - IIS Windows Server
+51.194.113.133:80 - 
+157.254.16.121:80 - Bandwidth Speed Test
+115.223.6.17:80 - Заголовок не найден
+127.167.121.14:80 - IIS Windows Server
+104.79.46.170:80 - Заголовок не найден
+188.114.240.102:80 - Welcome to nginx!
+186.7.130.224:80 - 
+104.87.219.165:80 - Заголовок не найден
+151.101.128.50:80 - Fastly error: unknown domain 151.101.128.50
+127.44.244.220:80 - IIS Windows Server
+127.123.198.108:80 - IIS Windows Server
+66.242.130.189:80 - Заголовок не найден
+127.186.53.195:80 - IIS Windows Server
+170.79.37.89:80 - IIS Windows Server
+149.202.13.118:80 - HKE, la valeur sure pour la rénovation électrique de votre maison à Mantes-la-Jolie 78200
+23.36.39.183:80 - Заголовок не найден
+108.156.124.192:80 - Заголовок не найден
+127.229.200.98:80 - IIS Windows Server
+193.0.64.170:80 - Apache2 Debian Default Page: It works
+127.172.219.27:80 - IIS Windows Server
+127.92.46.110:80 - IIS Windows Server
+18.155.161.145:80 - Заголовок не найден
+127.242.74.57:80 - IIS Windows Server
+23.214.5.11:80 - Заголовок не найден
+108.159.229.21:80 - Заголовок не найден
+87.128.24.200:80 - ERROR: The requested URL could not be retrieved
+180.235.37.42:80 - 
+23.47.110.211:80 - Заголовок не найден
+197.234.190.138:80 - Document Moved
+1.1.136.31:80 - WEB SERVICE
+127.88.51.114:80 - IIS Windows Server
+127.213.129.110:80 - IIS Windows Server
+127.58.68.112:80 - IIS Windows Server
+50.2.204.60:80 - 403 Forbidden
+127.163.54.2:80 - IIS Windows Server
+127.223.232.87:80 - IIS Windows Server
+127.105.239.163:80 - IIS Windows Server
+152.0.206.212:80 - 
+107.154.81.231:80 - Заголовок не найден
+175.211.89.30:80 - Заголовок не найден
+139.129.183.163:80 - ç½ç«è®¿é®æ¥é
