@@ -1773,3 +1773,10 @@
 13.33.148.24:80 - Заголовок не найден
 13.214.61.113:80 - Welcome to nginx!
 127.112.144.236:80 - Welcome to XAMPP
+4.182.92.86:80 - Azure Container App - Unavailable
+81.71.56.114:80 - 403 Forbidden
+103.247.8.214:80 - Apache HTTP Server Test Page powered by CentOS
+127.238.123.33:80 - Welcome to XAMPP
+127.154.102.93:80 - Welcome to XAMPP
+42.112.28.64:80 - 404 Not Found
+127.15.183.82:80 - Welcome to XAMPP
