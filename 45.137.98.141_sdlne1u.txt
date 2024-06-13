@@ -14172,3 +14172,7 @@ Context: {&quot;exception&quot;:{}}
 3.213.132.109:80 - 404 Not Found
 170.130.93.79:80 - 403 Forbidden
 185.51.164.84:80 - Welcome to nginx!
+185.56.171.79:80 - IIS Windows Server
+72.247.71.168:80 - Заголовок не найден
+127.170.13.161:80 - Welcome to XAMPP
+127.224.10.28:80 - Welcome to XAMPP
