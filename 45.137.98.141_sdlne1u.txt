@@ -3585,3 +3585,7 @@
 127.83.77.115:80 - Welcome to XAMPP
 104.17.252.79:80 - Direct IP access not allowed | Cloudflare
 101.132.193.37:80 - IIS Windows Server
+79.117.53.179:80 - Default Site
+60.249.190.173:80 - 401 Unauthorized
+127.93.81.70:80 - Welcome to XAMPP
+101.132.154.137:80 - 404 Not Found
