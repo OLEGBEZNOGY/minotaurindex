@@ -4786,3 +4786,51 @@
 38.12.199.74:80 - 403 Forbidden
 45.205.229.206:80 - 404 Not Found
 199.115.100.86:80 - ERROR: The requested URL could not be retrieved
+38.152.185.111:80 - ERROR: The requested URL could not be retrieved
+176.34.48.23:80 - 403 Forbidden
+52.52.170.164:80 - 403 Forbidden
+27.254.154.117:80 - IIS Windows Server
+172.122.90.14:80 - AXIS
+104.16.245.250:80 - Direct IP access not allowed | Cloudflare
+4.255.97.140:80 - Your Azure Function App is up and running.
+23.65.132.244:80 - Заголовок не найден
+192.241.145.131:80 - Not Acceptable!
+34.240.105.68:80 - 503 Service Temporarily Unavailable
+13.224.79.151:80 - Заголовок не найден
+38.11.179.58:80 - 404 Not Found
+104.232.97.108:80 - Заголовок не найден
+184.26.151.125:80 - Заголовок не найден
+95.96.7.224:80 - index
+104.82.79.67:80 - Заголовок не найден
+108.186.52.47:80 - Заголовок не найден
+54.199.215.191:80 - Заголовок не найден
+74.117.183.50:80 - 404 Not Found
+138.201.192.223:80 - 403 Forbidden
+52.217.233.100:80 - Amazon S3 - Cloud Object Storage  - AWS
+2.21.190.129:80 - Заголовок не найден
+172.217.131.105:80 - Error 404 (Not Found)!!1
+70.39.232.252:80 - InMotion Hosting
+23.56.13.236:80 - Заголовок не найден
+23.52.47.194:80 - Заголовок не найден
+41.180.64.86:80 - RouterOS router configuration page
+68.183.112.69:80 - 
+94.231.88.219:80 - 404 Not Found
+167.203.48.98:80 - 401 Unauthorized
+188.65.209.223:80 - IIS7
+108.163.132.164:80 - 404 Not Found
+200.88.40.168:80 - 
+154.39.171.42:80 - 400 Bad Request
+104.76.133.71:80 - Заголовок не найден
+195.242.116.171:80 - Cyber_Folks Lepsza szybkoÅÄ stron i wsparcie bez porÃ³wnania
+2.20.255.5:80 - Заголовок не найден
+20.76.62.180:80 - 404 Not Found
+115.79.24.172:80 - WorldClient
+34.249.60.124:80 - 503 Service Temporarily Unavailable
+148.72.76.79:80 - 403 Forbidden
+85.222.232.134:80 - Заголовок не найден
+79.214.139.46:80 - Заголовок не найден
+3.229.211.69:80 - Prime Care
+23.211.227.237:80 - Marriott Bonvoy Hotels | Book Directly &amp; Get Exclusive Rates
+13.85.191.128:80 - Your Azure Function App is up and running.
+213.176.63.149:80 - Заголовок не найден
+52.88.124.198:80 - 503 Service Temporarily Unavailable
