@@ -2959,3 +2959,40 @@
 220.124.213.164:80 - main page
 23.65.135.147:80 - Заголовок не найден
 39.105.121.77:80 - æ²¡ææ¾å°ç«ç¹
+172.232.146.98:80 - 404 Not Found
+52.12.126.75:80 - 400 The plain HTTP request was sent to HTTPS port
+127.35.91.185:80 - Welcome to XAMPP
+104.20.144.230:80 - Direct IP access not allowed | Cloudflare
+127.208.193.69:80 - Welcome to XAMPP
+23.211.17.58:80 - Заголовок не найден
+105.208.15.52:80 - .::Welcome to the Web-Based Configurator::.
+47.32.223.79:80 - 
+209.222.97.187:80 - Welcome to nginx!
+127.198.117.79:80 - Welcome to XAMPP
+104.20.250.81:80 - Direct IP access not allowed | Cloudflare
+3.160.195.228:80 - Заголовок не найден
+139.59.137.232:80 - Posytron - Ticketing System
+23.216.202.150:80 - Заголовок не найден
+46.109.195.130:80 - 
+127.21.117.117:80 - Welcome to XAMPP
+150.254.196.26:80 - Welcome to nginx!
+108.167.164.216:80 - Not Acceptable!
+23.35.208.145:80 - Заголовок не найден
+154.205.194.211:80 - Sorry, the website has been stopped
+127.46.109.115:80 - Welcome to XAMPP
+154.204.122.207:80 - 网站建设中，敬请期待
+65.109.128.194:80 - Заголовок не найден
+3.165.87.152:80 - Заголовок не найден
+198.251.71.85:80 - Web Server's Default Page
+127.79.228.116:80 - Welcome to XAMPP
+127.180.94.131:80 - Welcome to XAMPP
+198.59.144.75:80 - Заголовок не найден
+192.185.76.77:80 - Not Acceptable!
+127.230.43.16:80 - Welcome to XAMPP
+127.32.147.167:80 - Welcome to XAMPP
+127.173.219.133:80 - Welcome to XAMPP
+18.213.96.100:80 - AWS管理
+127.223.196.207:80 - Welcome to XAMPP
+52.239.143.36:80 - Заголовок не найден
+195.234.124.207:80 - 404 Not Found
+104.119.98.180:80 - Заголовок не найден
