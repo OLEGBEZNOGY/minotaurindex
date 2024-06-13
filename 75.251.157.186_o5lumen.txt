@@ -2220,3 +2220,55 @@
 138.66.37.255:80 - Apache2 Ubuntu Default Page: It works
 143.42.178.100:80 - 404 Not Found
 113.249.86.2:80 - Заголовок не найден
+163.209.59.1:80 - Заголовок не найден
+193.200.241.7:80 - 403 - Forbidden: Access is denied.
+18.64.45.218:80 - Заголовок не найден
+34.69.214.175:80 - Заголовок не найден
+123.249.38.237:80 - Welcome to nginx!
+82.100.6.179:80 - ParkovanÃ¡ domÃ©na 82.100.6.179
+89.233.104.167:80 - Web Server's Default Page
+195.8.250.90:80 - Default-WWW
+45.63.41.159:80 - 404 Not Found
+168.76.229.10:80 - Welcome to nginx!
+47.37.68.67:80 - 
+23.44.51.100:80 - Заголовок не найден
+125.130.227.173:80 - Заголовок не найден
+104.86.45.10:80 - Заголовок не найден
+104.136.205.30:80 - 
+104.70.74.39:80 - Заголовок не найден
+35.201.60.108:80 - 35.201.60.108.corp.google.com - Google Single Sign On: Sign into corp
+189.166.87.149:80 - 
+51.91.58.173:80 - Welcome to nginx!
+13.111.133.10:80 - 403 - Forbidden: Access is denied.
+64.227.184.42:80 - 403 Forbidden
+153.122.139.170:80 - ã¿ã©ãã°ã«ã¼ã
+49.4.95.28:80 - Заголовок не найден
+52.219.46.123:80 - Amazon S3 - Cloud Object Storage  - AWS
+104.252.198.237:80 - 404 Not Found
+51.75.254.166:80 - 404 Not Found
+157.7.189.33:80 - 403 Forbidden
+23.218.65.203:80 - Заголовок не найден
+209.151.152.186:80 - Заголовок не найден
+161.97.131.210:80 - Welcome to nginx!
+85.222.145.88:80 - Unable to Process Request
+23.251.74.92:80 - 
+106.14.135.1:80 - 404 Not Found
+104.18.56.100:80 - Direct IP access not allowed | Cloudflare
+109.196.169.130:80 - ERROR: The requested URL could not be retrieved
+154.213.69.35:80 - 404 Not Found
+93.41.228.134:80 - Заголовок не найден
+3.110.13.75:80 - Error | Drupal
+40.114.251.248:80 - root redirect
+162.159.11.134:80 - Direct IP access not allowed | Cloudflare
+23.214.224.90:80 - Заголовок не найден
+154.195.216.236:80 - æ²¡ææ¾å°ç«ç¹
+79.96.142.35:80 - BMLT Group Sp. z o.o.
+35.183.135.22:80 - Home | Professional Learning
+46.147.96.120:80 - RouterOS router configuration page
+14.99.5.165:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+23.43.36.111:80 - Заголовок не найден
+67.230.186.226:80 - 500 Internal Server Error
+18.165.119.136:80 - Заголовок не найден
+145.100.179.23:80 - Apache2 Debian Default Page: It works
+3.164.131.42:80 - Заголовок не найден
+3.210.59.51:80 - 503 Service Temporarily Unavailable
