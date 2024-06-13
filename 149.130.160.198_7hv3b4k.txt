@@ -9377,3 +9377,112 @@
 127.46.78.80:80 - IIS Windows Server
 127.26.255.89:80 - IIS Windows Server
 132.255.204.165:80 - Заголовок не найден
+5.130.146.4:80 - WEB SERVICE
+127.216.25.136:80 - IIS Windows Server
+74.208.223.217:80 - Заголовок не найден
+127.68.89.127:80 - IIS Windows Server
+193.30.123.31:80 - Apache2 Debian Default Page: It works
+156.250.132.2:80 - 404 Not Found
+154.197.149.11:80 - 无法访问此网站
+67.199.121.62:80 - IIS7
+54.192.170.235:80 - Заголовок не найден
+162.159.240.46:80 - Direct IP access not allowed | Cloudflare
+89.108.80.8:80 - Apache HTTP Server Test Page powered by CentOS
+190.173.104.128:80 - Заголовок не найден
+127.15.50.78:80 - IIS Windows Server
+118.27.37.203:80 - Welcome to nginx!
+90.48.3.124:80 - Заголовок не найден
+185.159.112.105:80 - ePMP
+127.126.123.87:80 - IIS Windows Server
+185.254.196.61:80 - 404 Not Found
+24.216.138.207:80 - 403 Forbidden
+127.64.217.152:80 - IIS Windows Server
+127.98.94.135:80 - IIS Windows Server
+18.173.150.114:80 - Заголовок не найден
+160.16.115.123:80 - 403 Forbidden
+127.97.8.50:80 - IIS Windows Server
+80.87.28.242:80 - Taper Studios, Long Lane
+203.204.231.207:80 - 
+104.88.224.104:80 - Заголовок не найден
+52.61.86.46:80 - Заголовок не найден
+135.181.250.240:80 - Welcome to nginx!
+121.173.29.230:80 - Заголовок не найден
+80.120.146.11:80 - 401 Authorization Required
+121.183.116.140:80 - WEB SERVICE
+127.145.8.64:80 - IIS Windows Server
+108.156.141.143:80 - Заголовок не найден
+176.118.211.60:80 - Document
+23.63.223.243:80 - Заголовок не найден
+127.113.94.154:80 - IIS Windows Server
+97.88.70.119:80 - 
+23.78.60.194:80 - Заголовок не найден
+46.152.170.75:80 - 
+52.219.47.147:80 - Amazon S3 - Cloud Object Storage  - AWS
+95.217.79.200:80 - Заголовок не найден
+127.37.116.230:80 - IIS Windows Server
+172.67.112.248:80 - Direct IP access not allowed | Cloudflare
+127.155.158.135:80 - IIS Windows Server
+51.68.201.152:80 - Заголовок не найден
+185.221.152.231:80 - 503 Service Temporarily Unavailable
+54.80.169.157:80 - Innobyte | Soluciones innovadoras en nuevas tecnologías
+127.192.51.255:80 - IIS Windows Server
+198.1.117.207:80 - Заголовок не найден
+127.153.208.167:80 - IIS Windows Server
+185.80.52.209:80 - Web Server's Default Page
+190.52.128.101:80 - Dirección General de Firma Digital y Comercio Electrónico
+127.164.94.87:80 - IIS Windows Server
+40.80.208.126:80 - FortiGate
+116.32.42.80:80 - Hello! Welcome to Synology Web Station!
+23.12.237.131:80 - Заголовок не найден
+23.50.116.174:80 - Заголовок не найден
+127.248.119.121:80 - IIS Windows Server
+54.209.32.230:80 - Заголовок не найден
+127.231.203.160:80 - IIS Windows Server
+23.32.41.207:80 - Заголовок не найден
+154.201.241.245:80 - 404 Not Found
+101.132.39.146:80 - Welcome to CentOS
+119.28.19.187:80 - Заголовок не найден
+23.207.222.131:80 - Заголовок не найден
+217.86.241.68:80 - Device Webserver
+188.21.206.66:80 - ACME Access Only
+52.14.66.151:80 - Заголовок не найден
+125.99.107.174:80 - IIS7
+127.145.56.133:80 - IIS Windows Server
+127.59.224.174:80 - IIS Windows Server
+185.38.160.105:80 - IIS Windows Server
+117.50.104.81:80 - HTTP Status 404 – Not Found
+59.127.19.118:80 - 
+199.44.82.199:80 - Заголовок не найден
+3.76.148.246:80 - Заголовок не найден
+127.116.81.141:80 - IIS Windows Server
+127.193.118.134:80 - IIS Windows Server
+127.179.115.91:80 - IIS Windows Server
+45.244.60.109:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#48;&#56;&#78;&#32;&#86;&#50;&#46;&#53;
+23.195.121.101:80 - Заголовок не найден
+20.113.1.133:80 - Заголовок не найден
+127.138.136.163:80 - IIS Windows Server
+127.237.206.123:80 - IIS Windows Server
+68.237.54.206:80 - Заголовок не найден
+154.197.189.226:80 - 404 Not Found
+52.204.205.16:80 - Заголовок не найден
+127.7.215.161:80 - IIS Windows Server
+91.226.251.171:80 - UsÅuga niedostÄpna
+127.155.141.135:80 - IIS Windows Server
+127.226.224.168:80 - IIS Windows Server
+127.103.85.56:80 - IIS Windows Server
+127.174.174.61:80 - IIS Windows Server
+4.42.62.176:80 - Instant WiFi
+23.196.140.71:80 - Заголовок не найден
+47.115.38.48:80 - 404 Not Found
+113.198.32.220:80 - L7
+154.37.73.33:80 - Apache HTTP Server Test Page powered by CentOS
+127.228.255.98:80 - IIS Windows Server
+59.127.131.72:80 - 401 Unauthorized
+184.28.112.195:80 - Заголовок не найден
+12.227.81.37:80 - Web Site Blocked
+114.116.201.197:80 - 403 Forbidden
+92.46.41.134:80 - Авторизация - Система прокторинга OES
+71.89.208.83:80 - index
+38.153.98.178:80 - ERROR: The requested URL could not be retrieved
+20.196.219.175:80 - Welcome to nginx!
+154.204.124.124:80 - 网站建设中，敬请期待
