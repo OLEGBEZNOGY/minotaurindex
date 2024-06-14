@@ -4082,3 +4082,48 @@
 127.92.65.75:80 - IIS Windows Server
 57.128.47.97:80 - Apache2 Ubuntu Default Page: It works
 172.122.107.235:80 - Заголовок не найден
+140.248.156.167:80 - Fastly error: unknown domain 140.248.156.167
+154.216.74.184:80 - 403 Forbidden
+127.161.104.233:80 - IIS Windows Server
+127.228.45.55:80 - IIS Windows Server
+43.153.171.87:80 - æ²¡ææ¾å°ç«ç¹
+127.205.165.172:80 - IIS Windows Server
+39.101.169.220:80 - Заголовок не найден
+192.126.136.213:80 - ERROR: The requested URL could not be retrieved
+104.206.107.113:80 - 403 Forbidden
+127.24.148.111:80 - IIS Windows Server
+182.42.120.23:80 - æ²¡ææ¾å°ç«ç¹
+159.89.127.31:80 - Заголовок не найден
+13.233.77.43:80 - Bitnami: Open Source. Simplified
+127.211.108.83:80 - IIS Windows Server
+127.62.111.172:80 - IIS Windows Server
+200.132.99.81:80 - 401 Unauthorized
+127.127.175.226:80 - IIS Windows Server
+38.154.74.176:80 - ERROR: The requested URL could not be retrieved
+23.224.80.62:80 - 请使用域名访问
+23.50.145.131:80 - Заголовок не найден
+185.18.108.217:80 - Welcome to nginx!
+103.230.126.71:80 - Заголовок не найден
+49.44.112.221:80 - Заголовок не найден
+127.6.6.18:80 - IIS Windows Server
+127.78.234.238:80 - IIS Windows Server
+2.23.195.23:80 - Заголовок не найден
+127.128.34.7:80 - IIS Windows Server
+23.8.157.252:80 - Заголовок не найден
+54.224.237.108:80 - Swagger UI
+3.164.60.203:80 - Заголовок не найден
+18.154.32.251:80 - Заголовок не найден
+23.198.176.225:80 - Заголовок не найден
+127.55.151.32:80 - IIS Windows Server
+38.180.136.69:80 - Welcome to nginx!
+164.160.118.230:80 - Please wait, the login page is opening...
+149.88.43.155:80 - 503 Service Temporarily Unavailable
+127.145.146.64:80 - IIS Windows Server
+127.183.158.54:80 - IIS Windows Server
+127.192.86.211:80 - IIS Windows Server
+127.78.123.112:80 - IIS Windows Server
+127.145.236.192:80 - IIS Windows Server
+127.224.0.166:80 - IIS Windows Server
+209.126.13.149:80 - Apache HTTP Server Test Page powered by CentOS
+108.139.50.241:80 - Заголовок не найден
+218.8.163.32:80 - Заголовок не найден
