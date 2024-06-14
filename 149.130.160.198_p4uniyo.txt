@@ -17569,3 +17569,41 @@ ay
 133.130.64.36:80 - 404 Error - Not Found
 168.76.246.48:80 - 404 Not Found
 103.57.86.142:80 - Error 404 (Not Found)!!1
+52.50.121.42:80 - Test Page for the Apache HTTP Server on the Amazon Linux AMI
+23.36.96.78:80 - Заголовок не найден
+127.211.174.15:80 - IIS Windows Server
+127.213.71.94:80 - IIS Windows Server
+52.85.102.207:80 - Заголовок не найден
+38.63.59.195:80 - Заголовок не найден
+79.113.134.4:80 - 
+127.31.195.95:80 - IIS Windows Server
+104.40.84.145:80 - Microsoft Azure Web App - Error 404
+188.165.26.42:80 - Заголовок не найден
+104.156.229.5:80 - Unknown Domain
+81.198.221.102:80 - Заголовок не найден
+103.44.48.161:80 - 
+127.102.135.90:80 - IIS Windows Server
+127.232.139.229:80 - IIS Windows Server
+47.96.13.105:80 - OneinStack - PHP/JAVAç¯å¢ä¸é®é¨ç½²å·¥å·
+117.0.220.198:80 - Заголовок не найден
+23.207.165.139:80 - Заголовок не найден
+127.201.210.88:80 - IIS Windows Server
+3.163.31.228:80 - Заголовок не найден
+127.188.179.11:80 - IIS Windows Server
+18.64.141.173:80 - Заголовок не найден
+104.81.163.160:80 - Заголовок не найден
+127.28.75.8:80 - IIS Windows Server
+164.132.147.149:80 - Error 503: server unavailable
+65.20.75.216:80 - Apache2 Ubuntu Default Page: It works
+23.208.222.143:80 - Заголовок не найден
+199.250.204.216:80 - Заголовок не найден
+127.254.87.125:80 - IIS Windows Server
+34.230.67.63:80 - 403 Forbidden
+54.230.171.78:80 - Заголовок не найден
+35.181.18.100:80 - Feria Virtual Youte 2021
+34.197.176.99:80 - HomeValue.com (Official Site of Home Value Dot Com)
+52.91.71.177:80 - 403 - Forbidden: Access is denied.
+127.225.207.203:80 - IIS Windows Server
+45.127.125.32:80 - 404 Not Found
+31.223.19.16:80 - Web Server's Default Page
+127.99.232.231:80 - IIS Windows Server
