@@ -626,3 +626,51 @@
 189.1.134.32:80 - Index of /
 23.222.255.156:80 - Заголовок не найден
 127.80.232.208:80 - Welcome to XAMPP
+117.135.242.214:80 - 403 Forbidden
+45.131.85.180:80 - Index of /
+127.219.15.47:80 - Welcome to XAMPP
+45.223.63.53:80 - Заголовок не найден
+154.23.16.181:80 - Заголовок не найден
+220.132.238.247:80 - Заголовок не найден
+127.142.216.123:80 - Welcome to XAMPP
+203.98.76.139:80 - RouterOS router configuration page
+3.254.248.229:80 - Заголовок не найден
+18.184.78.7:80 - 403 Forbidden
+44.205.254.224:80 - : : Cloudby4 : :
+127.31.26.143:80 - Welcome to XAMPP
+107.148.213.110:80 - Заголовок не найден
+127.157.251.131:80 - Welcome to XAMPP
+175.100.39.120:80 - 
+127.84.81.37:80 - Welcome to XAMPP
+23.210.151.223:80 - Заголовок не найден
+104.112.116.131:80 - Заголовок не найден
+127.57.251.153:80 - Welcome to XAMPP
+23.58.67.198:80 - Заголовок не найден
+23.229.128.222:80 - Заголовок не найден
+193.239.163.123:80 - Ameropa - title_suffix
+84.29.28.125:80 - Hello! Welcome to Synology Web Station!
+172.118.72.101:80 - 
+131.180.141.43:80 - Enter your username and password
+127.242.52.29:80 - Welcome to XAMPP
+127.95.35.34:80 - Welcome to XAMPP
+160.124.137.119:80 - æ²¡ææ¾å°ç«ç¹
+127.117.63.212:80 - Welcome to XAMPP
+103.153.12.164:80 - Please wait, the page is opening...
+50.86.157.249:80 - Apache2 Debian Default Page: It works
+127.219.128.148:80 - Welcome to XAMPP
+127.123.35.206:80 - Welcome to XAMPP
+104.161.146.108:80 - 404 URL Not Found
+89.189.177.19:80 - 500 Internal Server Error
+127.82.127.111:80 - Welcome to XAMPP
+119.3.117.8:80 - Заголовок не найден
+127.15.155.175:80 - Welcome to XAMPP
+127.165.198.114:80 - Welcome to XAMPP
+16.182.103.188:80 - Amazon S3 - Cloud Object Storage  - AWS
+54.191.111.142:80 - DisallowedHost
+          at /
+127.57.122.197:80 - Welcome to XAMPP
+127.35.159.190:80 - Welcome to XAMPP
+23.217.241.12:80 - Заголовок не найден
+13.249.67.89:80 - Заголовок не найден
+125.212.243.206:80 - Test Page for the Nginx HTTP Server
+47.253.30.130:80 - Заголовок не найден
