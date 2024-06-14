@@ -2934,3 +2934,13 @@
 23.195.62.190:80 - Заголовок не найден
 179.52.191.30:80 - 
 127.44.212.82:80 - IIS Windows Server
+114.32.147.126:80 - 401 Unauthorized
+127.85.169.223:80 - IIS Windows Server
+38.170.98.20:80 - ERROR: The requested URL could not be retrieved
+82.39.67.51:80 - index
+143.244.159.127:80 - Supply ERP
+68.171.218.139:80 - Заголовок не найден
+127.188.226.108:80 - IIS Windows Server
+210.149.73.152:80 - Service Unavailable
+143.204.124.231:80 - Заголовок не найден
+172.64.88.133:80 - Direct IP access not allowed | Cloudflare
