@@ -1855,3 +1855,508 @@ on App is up and running.
 50.86.156.204:80 - webpackSPA
 91.239.32.113:80 - Заголовок не найден
 20.89.170.19:80 - 404 Not Found
+23.204.6.156:80 - Заголовок не найден
+18.116.107.151:80 - 
+156.225.85.181:80 - æ­åï¼ç«ç¹åå»ºæåï¼
+44.15.14.130:80 - Power Controller
+57.128.24.233:80 - Index of /
+79.96.221.107:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+137.118.119.32:80 - Login
+5.157.60.181:80 - 407 Proxy Authentication Required
+211.224.233.9:80 - Plant Environment Control System
+154.220.42.102:80 - 404 Not Found
+170.239.200.218:80 - RouterOS router configuration page
+34.194.22.147:80 - Заголовок не найден
+101.43.77.85:80 - 400 Bad Request
+181.106.239.21:80 - 403 Forbidden
+65.8.214.171:80 - Заголовок не найден
+172.104.60.22:80 - Заголовок не найден
+158.101.12.221:80 - 404 Not Found
+190.176.59.160:80 - Заголовок не найден
+103.27.82.228:80 - Apache HTTP Server Test Page powered by CentOS
+18.136.202.109:80 - Заголовок не найден
+172.67.19.101:80 - Direct IP access not allowed | Cloudflare
+23.216.235.98:80 - Заголовок не найден
+154.19.195.91:80 - 404 Not Found
+191.85.112.254:80 - Заголовок не найден
+23.42.201.249:80 - Заголовок не найден
+38.31.193.72:80 - 404 Not Found
+38.28.238.173:80 - Captcha Challenge
+2.18.138.28:80 - Заголовок не найден
+23.60.118.152:80 - Заголовок не найден
+85.210.72.80:80 - Заголовок не найден
+54.149.106.235:80 - Заголовок не найден
+109.2.149.92:80 - 403 Forbidden
+5.39.28.137:80 - Заголовок не найден
+160.1.11.122:80 - Заголовок не найден
+186.132.255.21:80 - Заголовок не найден
+104.248.93.203:80 - Apache2 Ubuntu Default Page: It works
+34.254.141.157:80 - Заголовок не найден
+23.202.250.220:80 - Заголовок не найден
+87.190.28.131:80 - 403 Forbidden
+104.97.56.153:80 - Заголовок не найден
+184.50.221.54:80 - Заголовок не найден
+190.164.205.76:80 - Заголовок не найден
+76.221.161.80:80 - Index
+18.177.172.242:80 - Заголовок не найден
+101.35.192.218:80 - 404 Not Found
+74.140.206.10:80 - 
+65.36.51.236:80 - index
+59.110.52.25:80 - Заголовок не найден
+185.163.117.9:80 - 404 Not Found
+72.14.189.188:80 - $100 dollar deals network
+181.39.233.98:80 - RouterOS router configuration page
+61.135.174.133:80 - Заголовок не найден
+103.73.66.223:80 - Заголовок не найден
+34.197.183.84:80 - Заголовок не найден
+154.39.73.8:80 - 403 Forbidden
+8.131.247.235:80 - System Error
+155.159.55.142:80 - 404 Not Found
+45.39.51.9:80 - 404 Not Found
+8.140.245.199:80 - IIS Windows Server
+18.161.152.146:80 - Заголовок не найден
+23.73.122.95:80 - Заголовок не найден
+104.101.247.234:80 - Заголовок не найден
+34.141.129.215:80 - Заголовок не найден
+222.189.238.249:80 - æ²¡ææ¾å°ç«ç¹
+13.32.84.121:80 - Заголовок не найден
+118.190.158.196:80 - Заголовок не найден
+41.214.178.44:80 - Teltonika Networks
+44.195.186.72:80 - 404 Not Found
+193.33.229.111:80 - Заголовок не найден
+89.40.3.192:80 - 404 Not Found
+2.88.125.38:80 - Заголовок не найден
+121.89.215.205:80 - Заголовок не найден
+16.170.121.152:80 - Welcome
+172.64.170.152:80 - Direct IP access not allowed | Cloudflare
+154.30.214.244:80 - ERROR: The requested URL could not be retrieved
+38.153.235.10:80 - ERROR: The requested URL could not be retrieved
+100.20.54.170:80 - Заголовок не найден
+154.38.127.131:80 - 404 Not Found
+34.159.173.34:80 - 404 Not Found
+210.233.79.51:80 - RentalServer
+3.98.40.33:80 - Insul-Lite Manufacturing &#8211; Insulated Glass Manufacturing
+181.212.143.100:80 - WEB SERVICE
+222.194.24.187:80 - 404 Not Found
+4.182.12.108:80 - Your Azure Function App is up and running.
+104.248.76.98:80 - 404 Not Found
+54.145.180.64:80 - 503 Service Temporarily Unavailable
+133.130.31.195:80 - 403 Error - Forbidden
+37.24.214.46:80 - AXIS
+190.15.230.71:80 - Ubiquiti
+13.226.13.100:80 - Заголовок не найден
+137.117.249.76:80 - Microsoft Azure Web App - Error 404
+45.43.203.201:80 - Заголовок не найден
+104.71.154.54:80 - Заголовок не найден
+50.62.136.79:80 - GameX.gg – Your Guide To Anime, Gaming, and More
+187.85.77.225:80 - Alexandre Santos Massoterapeuta
+172.67.223.100:80 - Direct IP access not allowed | Cloudflare
+200.124.55.91:80 - Заголовок не найден
+160.121.63.4:80 - 404 Not Found
+108.157.200.91:80 - Заголовок не найден
+5.188.156.12:80 - 404 Not Found
+20.219.163.194:80 - 404 Not Found
+3.133.39.102:80 - 503 Service Temporarily Unavailable
+96.7.145.85:80 - Заголовок не найден
+76.145.184.76:80 - index
+111.229.97.86:80 - -默认图片 -->
+
+<body id=lanrentuku background="http://tu1.xingouka.com/Uploads/Attachment/2021-07-03/60df9b7b37b07.jpg"
+style=" background-repeat:no-repeat ;
+
+background-size:100% 100%; 
+
+background-attachment: fixed;"
+>
+
+<!-- 背景视频-默认颜色 -->
+   <body bgcolor="#000000"> 
+   
+   
+<!-- 首页/内页底部左侧特殊脚本 -->
+<div class="login_alert" id="login_alert">
+      
+</div>
+<link rel="stylesheet" href="/Public/Front/xinmeng/css/J1/player.css">
+    <script src="/Public/Front/xinmeng/css/J1/jquery.min.js"></script>
+    <script src="/Public/Front/xinmeng/css/J1/jquery.marquee.min.js"></script>
+    <script>
+        var id = ;
+        var	playlist = [{"id":"","title":"<b>欢迎光临</b>","artist":"","mp3":"http://music.163.com/song/media/outer/url?id="+id+".mp3","cover":"/Public/Front/static/images/music.png"}];
+          var isRotate = true;
+          var autoplay = true;
+        
+    </script>
+    <script src="/Public/Front/xinmeng/css/J1/player.js"></script>
+    <script>
+        function bgChange(){
+        	var lis= $('.lib');
+        	for(var i=0; i<lis.length; i+=2)
+        	lis[i].style.background = 'rgba(246, 246, 246, 0.5)';
+        }
+        window.onload = bgChange;
+    </script>
+
+<script>
+
+  document.createElement('video');
+
+</script>
+<style>
+video { display: block; }
+video#bgvid { 
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    background: url() no-repeat;
+    background-size: cover; 
+}
+.kss-login{
+    position:absolute;
+    top:10px;
+    float:left;
+    box-sizing:border-box;
+    padding:20px 10px;
+    width:300px;
+    width:380px;
+    height:280px;
+    height:280px;
+}
+.kss-threelogin{
+    margin-top:80px;
+    border-top: 1px solid #dcdcdc;
+    position: relative;
+}
+.kss-threelogin p{
+    font-size: 12px;
+    color: #505050;
+}
+.kss-loginbtns{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+}
+.kss-loginbtns a {
+    color: #484848;
+    width: 45px;
+    height: 28px;
+    padding-left: 35px;
+    display: block;
+    line-height: 28px;
+    margin: 0 10px;
+    border-radius: 5px;
+}
+.kss-loginbtns a:nth-child(1) {
+    background: url(/Public/Front/xinmeng/css/J1/qqdl.png) no-repeat left;
+}
+.kss-loginbtns a:nth-child(2) {
+    background: url(/Public/Front/xinmeng/css/J1/qqdl.png) no-repeat -84px 0;
+}
+.kss-maininfo-right img {
+    margin-bottom: 25px;
+    width: 265px;
+    height: 90px;
+    border-radius: 10px;
+    box-shadow: 0 10px 10px 10px rgba(0,0,0,.17);
+}
+.kss-login input{
+    margin-bottom:10px;
+    width:100%;
+    height:40px;
+    outline:0;
+    border:0 solid #a09e99;
+    border-bottom:0 solid #c0c3c8;
+    background:rgba(255,255,255,.3);
+    color:#fff;
+    font-size:16px;
+    line-height:38px;
+}
+.common-fluid {
+    position: relative;
+    width: 100%;
+}
+.common-footer {
+    margin-top: 530px;
+    border-top: 0 solid rgba(0,0,0,.1);
+}
+.common-container {
+    width: 980px;
+    position: relative;
+    margin: 0 auto;
+}
+.footer-box p {
+    text-align: center;
+    color: #333;
+    line-height: 30px;
+}
+.login_alert {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: 9999;
+    animation: show_alert_left 1.6s;
+    -webkit-animation: show_alert_left 1.6s;
+    -moz-animation: show_alert_left 1.6s;
+}
+.login_alert_close {
+    position: absolute;
+    top: -10px;
+    right: 0px;
+    z-index: 1;
+    cursor: pointer;
+}
+.login_alert_box {
+    background-color: rgba(0,0,0,0.6);
+    height: 60px;
+    width: 100%;
+    text-align: center;
+}
+.login_alert_box div {
+    color: #66CCFF;
+    font-size: 26px;
+    line-height: 60px;
+    cursor: default;
+    font-weight: bold;
+}
+.login_alert_box div a {
+    font-size: 20px;
+    line-height: 26px;
+    border-radius: 4px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px 20px;
+    color: #000;
+    background-color: #00CC99;
+}
+.login_alert_box div span {
+    font-size: 20px;
+}
+#kss_db1 {
+    color: #FF0000;
+    background-color: #FFCC33;
+    margin-left: 10px;
+}
+.login_alert_box div a {
+    border-radius: 4px;
+    font-size: 20px;
+    line-height: 26px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px 20px;
+}
+.Vidage__backdrop,.Vidage__image{position:absolute;top:0;right:0;bottom:0;left:0}
+.Vidage--allow .Vidage__video{display:block}
+.Vidage--allow .Vidage__image{display:none}
+.Vidage{position:fixed;top:0;right:0;bottom:0;left:0;z-index:-1}
+.Vidage,.Vidage__video{min-width:100%;min-height:100%}
+.Vida.kys2newindex-maininfoge__video{position:absolute;top:50%;left:50%;width:auto;height:auto;-webkit-transform:translateX(-50%) translateY(-50%);-ms-transform:translateX(-50%) translateY(-50%);-o-transform:translateX(-50%) translateY(-50%);transform:translateX(-50%) translateY(-50%);display:none}.Vidage__image{background-image:url(../fonts/pattern.svg);opacity:.1}
+body {
+    min-width:1200px;
+    cursor: url(/Public/Front/xinmeng/css/J1/huaji.png),default;
+}
+a:hover {
+    cursor: url(/Public/Front/xinmeng/css/J1/yinxian.png),pointer;
+}
+.common-container{width:980px}
+#dzyss a{color:#f00;}
+.newindex-mian{background: url(#);}
+</style>
+<style type="text/css">
+#cs_box {width:140px; height:220px; color:#FFF; position:fixed; right:10px; top:270px; border-radius:10px; z-index:1000}
+#cs_box span {height:20px; line-height:20px;display:block;}
+.cs_close {color:#FFF; position:absolute; right:10px; top:8px; cursor:pointer; font-size:20px;font-family:Verdana, Geneva, sans-serif}
+.cs_title {font-size:14px; margin:10px; font-weight:bold;}
+.cs_img {width:100px; height:100px; background:#FFF; margin:10px;background-image:url(http://demo.lanrenzhijia.com/2014/service1119/images/lanrenzhijia.jpg) }
+.cs_info {font-size:12px; margin:0px 10px; overflow:hidden; text-align:center;}
+.cs_btn {width:120px; height:37px; background:rgba(255, 152, 0, 0.5); margin:3px 0px; border-radius:1px; font-size:12px; line-height:37px; color:#FFF; text-align:center; cursor:pointer;}
+.cs_btn:hover { background: #ff8000; }
+</style>
+<script type="text/javascript" src="/Public/Front/xinmeng/css/J1/layui.js"></script>
+<script>
+	layui.use(['layer'],function(){
+		var layer = layui.layer;
+	})
+	$.ajax({
+		url:"index/index_tc",
+		success:function(res){
+			if(res.status == 1){
+				layer.open({
+				  type: 1,
+				  skin: '.layui-layer-dialog', //加上边框
+				  title:'信息',
+				  area: ['330px', 'auto'], //宽高
+				  content: '<div style="padding: 50px; line-height: 22px; font-weight: 300;">'+res.msg+'</div>',
+				  btn: ['QQ登录','关闭弹窗'],
+				  yes: function(index, layero){
+                    window.open("/addons/execute/_addons/third_login/_controller/oauth/_action/login/type/qq.html");
+                  },
+				  btnAlign: 'c',
+				});
+			}
+		}
+	})
+	
+</script>
+	
+
+
+
+        <script type="text/javascript">
+        $(function(){
+    		$('.qh_move').click(function(){
+    		    $.ajax({
+    		        url:"/index.php?s=/Index/changemob",
+    		        type:'post',
+    		        success:function(res){
+    		            if(res.status==1){
+    		                
+    		                setTimeout(function(){
+    		                    location.reload();
+    		                },600)
+    		            }
+    		        }
+    		    })
+    		});
+        })
+    </script>
+
+<!-- 底部 -->
+
+</div>
+</body>
+</html>
+2.23.120.185:80 - Заголовок не найден
+2.22.4.205:80 - Заголовок не найден
+160.202.64.92:80 - 403 Forbidden
+216.188.222.78:80 - Заголовок не найден
+18.65.52.61:80 - Заголовок не найден
+18.168.5.223:80 - 403 Forbidden
+141.94.68.40:80 - Apache2 Debian Default Page: It works
+45.223.98.75:80 - Заголовок не найден
+80.92.193.90:80 - Заголовок не найден
+203.83.11.228:80 - Заголовок не найден
+49.44.198.236:80 - Заголовок не найден
+45.223.45.165:80 - Заголовок не найден
+44.231.113.104:80 - Заголовок не найден
+3.234.77.100:80 - 404 Not Found
+174.137.51.190:80 - Welcome to nginx!
+93.190.127.90:80 - An Error Occurred: Method Not Allowed
+43.229.84.33:80 - Заголовок не найден
+45.38.69.183:80 - 403 Forbidden
+52.119.181.53:80 - Заголовок не найден
+218.150.79.148:80 - 
+18.172.113.65:80 - Заголовок не найден
+140.112.66.66:80 - Ganglia:: suzzallo Cluster Report
+184.51.122.226:80 - Заголовок не найден
+23.12.216.254:80 - Заголовок не найден
+91.228.220.138:80 - Продвинутые Облачные Сервисы для Бизнеса | Maxiplace
+186.6.220.244:80 - 
+45.223.181.92:80 - Заголовок не найден
+23.42.80.172:80 - Заголовок не найден
+67.20.254.140:80 - Заголовок не найден
+178.73.226.104:80 - 193.183.106.176 - Just another WordPress site
+4.190.8.26:80 - Azure Container App - Unavailable
+23.47.9.111:80 - Заголовок не найден
+143.198.128.117:80 - CM UHAUL DEMO TEST
+38.154.59.22:80 - ERROR: The requested URL could not be retrieved
+118.45.216.42:80 - NVR
+188.138.89.43:80 - schulte-michael.info &bull; Introduction
+182.73.27.186:80 - MDaemon Webmail
+157.52.181.47:80 - 404 Not Found
+156.239.225.227:80 - 403 Forbidden
+139.59.29.144:80 - Welcome to nginx!
+47.251.82.141:80 - User Login -
+
+            SAVEKEY Control System
+13.226.44.206:80 - Заголовок не найден
+143.92.58.159:80 - 404 Not Found
+3.165.109.130:80 - Заголовок не найден
+23.207.87.252:80 - Заголовок не найден
+101.76.233.110:80 - 404 Not Found
+2.17.185.67:80 - Заголовок не найден
+88.99.68.226:80 - Заголовок не найден
+172.82.132.91:80 - 404 Not Found
+44.237.27.87:80 - 403 Forbidden
+201.210.10.84:80 - 
+139.162.208.18:80 - 403 Forbidden
+101.43.234.11:80 - å¤§è¿æ°æå¤§å­¦å½å®¶æ°å§éç¹å®éªå®¤å­å¨ç³»ç»
+178.176.59.72:80 - Заголовок не найден
+44.219.146.92:80 - 
+103.254.223.118:80 - æ°å¾·é«
+18.161.198.8:80 - Заголовок не найден
+165.22.123.93:80 - Заголовок не найден
+200.139.74.57:80 - Web managerment Home
+105.69.196.136:80 - &#72;&#50;&#56;&#56;&#65;
+47.97.253.215:80 - Заголовок не найден
+45.145.228.81:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+23.204.171.219:80 - Заголовок не найден
+103.196.237.203:80 - Welcome to nginx!
+13.249.33.218:80 - Заголовок не найден
+72.2.51.121:80 - Заголовок не найден
+18.64.3.146:80 - Заголовок не найден
+23.51.75.76:80 - Заголовок не найден
+110.238.108.175:80 - 404 Not Found
+18.64.152.180:80 - Заголовок не найден
+34.248.154.203:80 - Burada sen ne dio&#x27;san o!
+66.11.207.21:80 - Заголовок не найден
+109.90.106.205:80 - Заголовок не найден
+89.58.7.65:80 - Web Server's Default Page
+45.152.199.225:80 - 407 Proxy Authentication Required
+209.182.236.250:80 - Заголовок не найден
+66.39.153.61:80 - 404 Not Found
+54.211.207.153:80 - ThumbNail Server
+222.104.43.152:80 - WEB SERVICE
+18.66.20.138:80 - Заголовок не найден
+116.103.253.124:80 - 
+209.52.85.122:80 - Заголовок не найден
+141.11.138.205:80 - Welcome to nginx!
+200.13.89.176:80 - {{pageTitle}}
+203.137.115.68:80 - Web Server's Default Page
+47.23.110.154:80 - Document Moved
+94.247.142.7:80 - Direct IP access not allowed | Cloudflare
+104.115.236.24:80 - Заголовок не найден
+37.216.242.211:80 - Error
+54.230.84.197:80 - Заголовок не найден
+147.30.241.111:80 - GPON Home Gateway
+52.85.123.65:80 - Заголовок не найден
+162.240.208.138:80 - Attention Required! | Cloudflare
+104.79.218.47:80 - Заголовок не найден
+212.100.102.114:80 - BASTEC
+205.185.122.191:80 - h
+104.100.32.235:80 - Заголовок не найден
+45.55.56.236:80 - Laravel
+78.140.140.250:80 - New website for Fozzy
+116.203.181.198:80 - Fotos DROEGE Holding
+23.34.123.224:80 - Заголовок не найден
+220.92.39.249:80 - 
+120.197.94.62:80 - Welcome to nginx!
+18.64.245.120:80 - Заголовок не найден
+209.16.102.129:80 - 403 Forbidden
+160.119.5.213:80 - Default
+13.226.234.54:80 - Заголовок не найден
+185.6.23.17:80 - ÐÐµ Ð¼Ð¾Ð»Ð¸Ð¼Ðµ Ð¿Ð¾ÑÐµÐºÐ°ÑÑÐµ...
+45.243.173.62:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#48;&#56;&#78;&#32;&#86;&#50;&#46;&#53;
+104.66.232.205:80 - Заголовок не найден
+38.207.165.110:80 - Заголовок не найден
+101.35.176.110:80 - 403 Forbidden
+15.204.225.74:80 - 404 Not Found
+18.65.66.77:80 - Заголовок не найден
+104.69.154.18:80 - Заголовок не найден
+23.247.18.65:80 - 403 Forbidden
+82.165.56.167:80 - 502 Bad Gateway
+108.157.198.0:80 - Заголовок не найден
+184.27.170.17:80 - Заголовок не найден
+221.182.203.6:80 - Заголовок не найден
