@@ -9990,3 +9990,48 @@
 52.170.216.28:80 - Заголовок не найден
 46.30.57.92:80 - 46.30.57.92
 154.21.220.28:80 - ERROR: The requested URL could not be retrieved
+127.250.50.191:80 - Welcome to XAMPP
+127.164.206.238:80 - Welcome to XAMPP
+87.249.204.22:80 - Login
+23.5.31.173:80 - Заголовок не найден
+54.207.127.55:80 - 500 Internal Server Error
+127.196.210.126:80 - Welcome to XAMPP
+184.27.57.224:80 - Заголовок не найден
+204.187.14.181:80 - Server Home Page
+23.62.94.99:80 - Заголовок не найден
+23.47.88.70:80 - Заголовок не найден
+20.162.90.163:80 - Your Azure Function App is up and running.
+127.1.119.109:80 - Welcome to XAMPP
+185.30.32.213:80 - webgo Webspace-Admin
+47.93.131.41:80 - HTTP Server Test Page
+202.118.6.96:80 - 404 Not Found
+23.51.0.239:80 - Заголовок не найден
+103.127.96.230:80 - Welcome to nginx!
+35.79.110.160:80 - Server error message
+5.9.38.27:80 - Archery Association Europe
+178.208.252.141:80 - Заголовок не найден
+127.102.202.160:80 - Welcome to XAMPP
+54.202.25.242:80 - Grand Junction Cooking Classes, Microgreens, Sourdough Bread
+191.102.164.137:80 - 407 Proxy Authentication Required
+127.83.166.44:80 - Welcome to XAMPP
+121.41.123.5:80 - 404 Not Found
+45.185.242.70:80 - 403 Forbidden
+54.252.210.174:80 - Web Site Not Found
+115.92.149.107:80 - Apache2 Ubuntu Default Page: It works
+79.96.199.120:80 - Заголовок не найден
+110.40.41.203:80 - 该网站暂无法访问
+47.176.230.66:80 - Document Moved
+164.132.91.177:80 - 403 Forbidden
+123.129.226.18:80 - Заголовок не найден
+127.156.209.97:80 - Welcome to XAMPP
+38.11.162.66:80 - 404 Not Found
+96.17.23.113:80 - Заголовок не найден
+34.107.227.208:80 - 502 Server Error
+63.158.251.205:80 - 403 - Forbidden: Access is denied.
+127.233.182.31:80 - Welcome to XAMPP
+127.149.72.87:80 - Welcome to XAMPP
+104.122.213.92:80 - Заголовок не найден
+23.221.102.216:80 - Заголовок не найден
+104.123.29.3:80 - Заголовок не найден
+170.244.189.40:80 - Заголовок не найден
+18.67.180.242:80 - Заголовок не найден
