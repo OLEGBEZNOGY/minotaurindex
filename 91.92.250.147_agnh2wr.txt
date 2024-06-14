@@ -3415,3 +3415,5 @@ Dalhousie University
 46.142.125.141:80 - Заголовок не найден
 216.71.30.112:80 - Poly - Configuration Utility
 104.121.5.229:80 - Заголовок не найден
+185.46.8.118:80 - IIS Windows Server
+122.117.36.226:80 - 401 Unauthorized
