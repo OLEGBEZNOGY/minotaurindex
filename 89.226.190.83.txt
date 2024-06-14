@@ -1774,3 +1774,4 @@
 148.69.137.43:80 - FTTx Next
 18.64.251.205:80 - Заголовок не найден
 147.251.124.170:80 - bio.tools Sum backend
+179.104.163.49:80 - SmartRIS - TDA TELEDIAGNOSTICOS AVANÃADOS
