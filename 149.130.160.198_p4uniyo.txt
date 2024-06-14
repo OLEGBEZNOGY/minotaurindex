@@ -16373,3 +16373,7 @@ ay
 127.246.85.99:80 - IIS Windows Server
 127.242.196.222:80 - IIS Windows Server
 23.201.215.66:80 - Заголовок не найден
+137.220.217.158:80 - 404 Not Found
+127.131.200.103:80 - IIS Windows Server
+5.134.5.225:80 - 405 Not Allowed
+104.19.152.92:80 - Direct IP access not allowed | Cloudflare
