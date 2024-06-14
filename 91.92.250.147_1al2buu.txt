@@ -3494,3 +3494,6 @@
 200.62.121.75:80 - PORTAL DE REVISTAS UAM
 18.141.202.182:80 - Login
 34.89.251.105:80 - Testing
+13.228.185.223:80 - Заголовок не найден
+172.104.171.103:80 - Welcome to nginx!
+79.96.75.121:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
