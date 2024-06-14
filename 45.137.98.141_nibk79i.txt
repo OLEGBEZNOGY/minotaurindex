@@ -8113,3 +8113,38 @@
 99.80.166.171:80 - Test Page for the Nginx HTTP Server on Amazon Linux
 5.78.70.244:80 - 404 Not Found
 127.182.23.143:80 - Welcome to XAMPP
+156.242.52.137:80 - 404 Not Found
+127.135.107.133:80 - Welcome to XAMPP
+67.248.121.94:80 - 
+212.115.62.179:80 - ERROR: The requested URL could not be retrieved
+127.212.45.244:80 - Welcome to XAMPP
+186.237.149.105:80 - &#70;&#54;&#55;&#48;&#76;
+167.249.96.14:80 - Заголовок не найден
+127.247.157.192:80 - Welcome to XAMPP
+127.185.192.198:80 - Welcome to XAMPP
+199.232.205.107:80 - Fastly error: unknown domain 199.232.205.107
+18.176.52.82:80 - ARAI LOGISTICS REAL LOGIN SERVICE
+127.96.91.205:80 - Welcome to XAMPP
+127.88.202.167:80 - Welcome to XAMPP
+127.206.236.133:80 - Welcome to XAMPP
+107.154.86.215:80 - Заголовок не найден
+127.77.0.105:80 - Welcome to XAMPP
+127.125.184.191:80 - Welcome to XAMPP
+149.18.80.196:80 - Заголовок не найден
+81.82.92.189:80 - Yealink T54W Phone
+127.14.11.179:80 - Welcome to XAMPP
+127.221.161.42:80 - Welcome to XAMPP
+127.212.105.147:80 - Welcome to XAMPP
+162.215.103.202:80 - Not Acceptable!
+162.0.235.193:80 - Заголовок не найден
+213.55.95.68:80 - ATS | AAU
+18.238.8.24:80 - Заголовок не найден
+59.127.10.151:80 - Заголовок не найден
+18.66.184.68:80 - Заголовок не найден
+138.68.165.219:80 - Moneygains Community
+31.184.201.158:80 - 403 Forbidden
+184.27.104.50:80 - Заголовок не найден
+3.131.27.57:80 - Заголовок не найден
+167.172.58.185:80 - 404 Not Found
+46.223.127.159:80 - Log In - Private Seafile
+77.31.148.32:80 - RouterOS router configuration page
