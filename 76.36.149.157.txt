@@ -6455,3 +6455,55 @@ A excelência na Advogacia
 103.41.47.13:80 - Sentral4D Situs Agen Slot Online serta Togel Online Terpercaya
 104.21.65.126:80 - Direct IP access not allowed | Cloudflare
 154.36.251.109:80 - 404 Not Found
+172.64.106.199:80 - Direct IP access not allowed | Cloudflare
+160.53.186.57:80 - Etat de Genève : site officiel de l'Administration Cantonale
+212.32.240.2:80 - Apache2 Debian Default Page: It works
+5.157.20.143:80 - 407 Proxy Authentication Required
+184.28.91.63:80 - Заголовок не найден
+124.239.148.13:80 - IIS Windows Server
+45.150.198.70:80 - 404 Not Found
+89.208.130.171:80 - 
+106.75.49.165:80 - Заголовок не найден
+52.85.75.209:80 - Заголовок не найден
+43.249.189.102:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+201.6.50.21:80 - Заголовок не найден
+209.18.90.237:80 - 500 - Internal server error.
+80.191.184.42:80 - Заголовок не найден
+43.132.80.20:80 - Заголовок не найден
+35.169.198.17:80 - Django packaged by Bitnami
+12.6.228.22:80 - DF WEB Logon
+39.37.102.209:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#54;&#56;&#78;&#32;&#86;&#50;&#46;&#50;
+31.7.37.148:80 - Заголовок не найден
+164.132.139.44:80 - Error 503: server unavailable
+185.176.26.120:80 - Direct IP access not allowed | Cloudflare
+18.188.137.77:80 - user&#039;s Blog! &#8211; Just another WordPress site
+37.224.54.212:80 - IIS Windows Server
+5.77.42.218:80 - Заголовок не найден
+34.253.60.79:80 - Заголовок не найден
+85.92.111.40:80 - FASTPANEL
+110.135.108.127:80 - Заголовок не найден
+18.164.12.174:80 - Заголовок не найден
+103.134.101.184:80 - Please wait, the page is opening...
+8.210.114.7:80 - Cozystay VRM
+18.64.73.206:80 - Заголовок не найден
+176.235.180.114:80 - IIS Windows Server
+104.71.213.130:80 - Заголовок не найден
+23.100.36.181:80 - Welcome to nginx!
+114.129.49.184:80 - VACRON NVR LOGIN
+18.66.209.152:80 - Заголовок не найден
+128.176.6.28:80 - Nicht gefunden - Not found
+54.153.215.65:80 - Заголовок не найден
+103.37.42.146:80 - æ²¡ææ¾å°ç«ç¹
+184.26.54.175:80 - Заголовок не найден
+121.46.31.21:80 - Заголовок не найден
+218.161.115.75:80 - 401 Unauthorized
+46.209.7.201:80 - Заголовок не найден
+77.52.177.113:80 - Welcome to nginx!
+101.43.87.176:80 - 404 Not Found
+104.148.74.17:80 - 404 Not Found
+18.161.113.178:80 - Заголовок не найден
+175.139.251.91:80 - Заголовок не найден
+154.26.227.72:80 - 403 Forbidden
+23.63.198.92:80 - Заголовок не найден
+196.51.103.6:80 - ERROR: The requested URL could not be retrieved
+202.172.30.247:80 - Заголовок не найден
