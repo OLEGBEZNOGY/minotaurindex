@@ -9992,3 +9992,132 @@
 127.93.27.82:80 - IIS Windows Server
 2.16.216.224:80 - Заголовок не найден
 127.146.71.13:80 - IIS Windows Server
+127.114.0.118:80 - IIS Windows Server
+143.95.251.32:80 - Web Server's Default Page
+154.30.203.121:80 - Заголовок не найден
+123.57.238.120:80 - Apache2 Ubuntu Default Page: It works
+172.67.17.188:80 - Direct IP access not allowed | Cloudflare
+199.59.174.119:80 - Web Site Blocked
+127.107.250.219:80 - IIS Windows Server
+127.26.119.11:80 - IIS Windows Server
+23.63.50.63:80 - Заголовок не найден
+87.227.219.47:80 - Заголовок не найден
+127.180.231.169:80 - IIS Windows Server
+111.84.185.191:80 - Заголовок не найден
+103.103.192.204:80 - Site Maintenance
+148.101.3.181:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#54;&#55;&#65;&#32;&#86;&#49;&#46;&#48;
+127.75.9.60:80 - IIS Windows Server
+127.61.176.106:80 - IIS Windows Server
+127.138.189.150:80 - IIS Windows Server
+127.200.240.47:80 - IIS Windows Server
+127.169.39.158:80 - IIS Windows Server
+104.103.173.203:80 - Заголовок не найден
+85.215.182.142:80 - 403 Forbidden
+139.180.172.233:80 - Unknown Domain
+219.152.96.69:80 - 404 Not Found
+127.16.57.117:80 - IIS Windows Server
+108.156.30.1:80 - Заголовок не найден
+127.159.224.166:80 - IIS Windows Server
+159.69.176.189:80 - WordPress &rsaquo; Error
+127.120.107.146:80 - IIS Windows Server
+103.142.24.21:80 - Công ty thiết kế website cao cấp tại TPHCM
+1.234.23.240:80 - Welcome to nginx!
+127.213.93.104:80 - IIS Windows Server
+222.81.121.168:80 - 403 Forbidden
+127.111.4.175:80 - IIS Windows Server
+47.105.33.180:80 - ç½ç«è®¿é®æ¥é
+127.230.163.69:80 - IIS Windows Server
+127.57.90.99:80 - IIS Windows Server
+23.60.187.13:80 - Заголовок не найден
+34.250.180.73:80 - Заголовок не найден
+177.92.99.149:80 - OrquestraBPM
+127.9.91.53:80 - IIS Windows Server
+110.45.200.162:80 - Заголовок не найден
+127.152.115.231:80 - IIS Windows Server
+187.188.212.103:80 - 
+38.177.193.226:80 - 404 Not Found
+184.29.50.15:80 - Заголовок не найден
+23.51.55.88:80 - Заголовок не найден
+216.218.208.175:80 - 403 Forbidden
+104.24.155.93:80 - Direct IP access not allowed | Cloudflare
+151.93.114.36:80 - Заголовок не найден
+108.157.49.35:80 - Заголовок не найден
+104.123.88.221:80 - Заголовок не найден
+127.243.176.139:80 - IIS Windows Server
+23.224.55.112:80 - Default Site
+38.63.42.244:80 - 404 Not Found
+174.129.40.166:80 - Заголовок не найден
+127.116.140.186:80 - IIS Windows Server
+127.252.199.144:80 - IIS Windows Server
+127.64.249.1:80 - IIS Windows Server
+54.159.75.47:80 - Welcome to nginx!
+104.91.72.127:80 - Заголовок не найден
+154.120.54.64:80 - Заголовок не найден
+117.254.151.56:80 - 
+23.59.195.73:80 - Заголовок не найден
+46.101.14.76:80 - 404 Not Found
+199.181.197.205:80 - Direct IP access not allowed | Cloudflare
+151.236.59.136:80 - AUM &#8211; Alleanza Universale Massonica
+185.39.26.54:80 - 500 Internal Server Error
+157.90.231.102:80 - Заголовок не найден
+195.246.110.135:80 - Welcome to nginx!
+119.12.32.41:80 - 403 Forbidden
+148.225.101.68:80 - En Construcci&oacute;n
+127.218.42.195:80 - IIS Windows Server
+91.107.146.100:80 - Заголовок не найден
+50.193.17.183:80 - 
+127.123.49.154:80 - IIS Windows Server
+127.108.135.136:80 - IIS Windows Server
+127.108.45.55:80 - IIS Windows Server
+127.14.105.111:80 - IIS Windows Server
+18.238.29.103:80 - Заголовок не найден
+76.122.116.144:80 - Заголовок не найден
+3.250.14.55:80 - Database Error
+127.115.137.255:80 - IIS Windows Server
+15.188.141.185:80 - Заголовок не найден
+108.157.135.20:80 - Заголовок не найден
+211.215.18.148:80 - Welcome to nginx!
+3.160.3.114:80 - Заголовок не найден
+4.175.241.114:80 - Your Azure Function App is up and running.
+127.156.170.135:80 - IIS Windows Server
+92.205.10.140:80 - Coming Soon
+18.170.160.149:80 - Заголовок не найден
+64.118.96.228:80 - IIS Windows Server
+23.198.135.6:80 - Заголовок не найден
+165.225.91.76:80 - Internet Security by Zscaler
+88.221.228.135:80 - Заголовок не найден
+81.169.155.95:80 - Web Server's Default Page
+38.177.238.83:80 - 404 Not Found
+127.173.159.33:80 - IIS Windows Server
+127.113.147.219:80 - IIS Windows Server
+23.21.37.43:80 - 403 Forbidden
+57.153.60.102:80 - Your Azure Function App is up and running.
+127.238.75.27:80 - IIS Windows Server
+124.222.1.216:80 - 403 Forbidden
+47.113.156.174:80 - Заголовок не найден
+127.77.169.52:80 - IIS Windows Server
+172.67.156.9:80 - Direct IP access not allowed | Cloudflare
+127.223.179.190:80 - IIS Windows Server
+127.146.124.221:80 - IIS Windows Server
+204.246.191.90:80 - Заголовок не найден
+23.9.198.67:80 - Заголовок не найден
+87.252.104.94:80 - 
+127.167.196.10:80 - IIS Windows Server
+18.64.146.40:80 - Заголовок не найден
+188.66.77.93:80 - Заголовок не найден
+38.174.128.243:80 - 404 Not Found
+192.126.177.127:80 - ERROR: The requested URL could not be retrieved
+167.86.75.124:80 - Заголовок не найден
+155.159.171.72:80 - 403 Forbidden
+119.148.26.85:80 - Заголовок не найден
+127.125.225.79:80 - IIS Windows Server
+23.37.181.49:80 - Заголовок не найден
+104.20.83.173:80 - Direct IP access not allowed | Cloudflare
+54.209.94.250:80 - 503 Service Temporarily Unavailable
+127.221.63.167:80 - IIS Windows Server
+96.16.127.107:80 - Заголовок не найден
+140.82.25.34:80 - Sign in · GitLab
+190.92.182.237:80 - Заголовок не найден
+127.104.214.172:80 - IIS Windows Server
+23.220.198.63:80 - Заголовок не найден
+142.132.154.98:80 - Заголовок не найден
