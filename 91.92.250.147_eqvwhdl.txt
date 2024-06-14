@@ -3318,3 +3318,8 @@
 38.55.229.205:80 - 404 Not Found
 212.1.123.12:80 - Welcome to nginx!
 103.3.115.162:80 - 403 Forbidden
+2.17.205.72:80 - Заголовок не найден
+34.135.131.58:80 - 404 Not Found
+52.156.100.163:80 - Your Azure Function App is up and running.
+185.238.75.188:80 - Kancelaria Adwokacka. Porady prawne. Consensus | Siemianowice Śląskie
+163.231.14.89:80 - Direct IP access not allowed | Cloudflare
