@@ -11217,3 +11217,28 @@
 104.85.158.73:80 - Заголовок не найден
 52.172.163.173:80 - IIS Windows Server
 154.22.150.52:80 - ERROR: The requested URL could not be retrieved
+141.95.19.143:80 - Web Server's Default Page
+46.130.113.159:80 - 
+127.141.154.198:80 - Welcome to XAMPP
+69.87.198.137:80 - 404 Not Found - 69.87.198.137
+2.18.73.144:80 - Заголовок не найден
+195.134.65.121:80 - 403 Forbidden
+52.70.217.196:80 - Заголовок не найден
+127.75.151.95:80 - Welcome to XAMPP
+20.94.77.204:80 - Not Found
+20.77.140.22:80 - Azure Container App - Unavailable
+127.22.215.127:80 - Welcome to XAMPP
+3.19.198.16:80 - Заголовок не найден
+172.64.29.192:80 - Direct IP access not allowed | Cloudflare
+34.223.149.48:80 - Заголовок не найден
+83.66.15.204:80 - Заголовок не найден
+127.22.167.202:80 - Welcome to XAMPP
+127.63.15.147:80 - Welcome to XAMPP
+108.142.114.254:80 - Your Azure Function App is up and running.
+127.38.127.76:80 - Welcome to XAMPP
+104.17.24.239:80 - Direct IP access not allowed | Cloudflare
+96.6.1.247:80 - Заголовок не найден
+127.215.254.155:80 - Welcome to XAMPP
+142.132.141.130:80 - Excalidraw | Hand-drawn look & feel â¢ Collaborative â¢ Secure
+74.84.118.145:80 - Common UI
+23.47.214.80:80 - Заголовок не найден
