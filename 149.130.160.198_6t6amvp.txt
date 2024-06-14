@@ -12000,3 +12000,117 @@
 88.209.208.2:80 - Заголовок не найден
 103.6.91.110:80 - 
 127.52.213.119:80 - IIS Windows Server
+127.137.60.143:80 - IIS Windows Server
+173.39.240.100:80 - Заголовок не найден
+156.245.43.236:80 - 404 Not Found
+91.206.30.194:80 - Страница по умолчанию
+197.162.12.29:80 - Protected Object
+104.75.97.74:80 - Заголовок не найден
+60.251.250.253:80 - IIS Windows Server
+184.30.70.181:80 - Заголовок не найден
+92.118.205.7:80 - 401 Authorization Required
+23.53.209.97:80 - Заголовок не найден
+103.249.39.127:80 - Please wait, the login page is opening...
+67.225.146.236:80 - Заголовок не найден
+108.156.102.68:80 - Заголовок не найден
+127.240.225.202:80 - IIS Windows Server
+141.95.105.35:80 - Web Server's Default Page
+37.49.177.114:80 - Заголовок не найден
+217.21.82.160:80 - 403 Forbidden
+54.71.151.64:80 - Заголовок не найден
+216.119.192.10:80 - Заголовок не найден
+203.87.122.21:80 - Заголовок не найден
+127.141.23.53:80 - IIS Windows Server
+1.92.97.212:80 - 404 Not Found
+127.129.226.45:80 - IIS Windows Server
+12.161.40.197:80 - Заголовок не найден
+127.172.193.203:80 - IIS Windows Server
+201.117.126.133:80 - Заголовок не найден
+127.145.42.246:80 - IIS Windows Server
+127.80.148.38:80 - IIS Windows Server
+208.89.216.130:80 - 404 Not Found
+2.17.95.150:80 - Заголовок не найден
+119.3.185.188:80 - Заголовок не найден
+127.101.29.224:80 - IIS Windows Server
+85.215.105.239:80 - Заголовок не найден
+79.170.152.119:80 - Apache HTTP Server Test Page powered by CentOS
+146.190.10.24:80 - 404 Not Found
+127.45.141.254:80 - IIS Windows Server
+127.171.130.84:80 - IIS Windows Server
+118.185.49.86:80 - IIS Windows Server
+198.108.220.174:80 - IIS Windows Server
+127.16.207.39:80 - IIS Windows Server
+127.70.8.22:80 - IIS Windows Server
+80.119.16.194:80 - LV223.org
+79.96.140.112:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+108.138.20.252:80 - Заголовок не найден
+125.88.186.48:80 - Заголовок не найден
+195.35.27.166:80 - 403 Forbidden
+184.84.34.212:80 - Заголовок не найден
+23.10.128.185:80 - Заголовок не найден
+168.119.253.188:80 - Sign in · GitLab
+179.52.187.10:80 - 
+127.165.24.31:80 - IIS Windows Server
+87.230.105.116:80 - Host Europe GmbH
+127.204.197.155:80 - IIS Windows Server
+127.33.160.165:80 - IIS Windows Server
+168.206.251.221:80 - 404 Not Found
+18.182.95.207:80 - Заголовок не найден
+166.204.52.130:80 - Заголовок не найден
+13.236.34.111:80 - 403 Forbidden
+74.208.124.168:80 - Darwynn
+50.2.183.231:80 - 403 Forbidden
+104.103.168.251:80 - Заголовок не найден
+127.229.132.107:80 - IIS Windows Server
+89.242.224.145:80 - Заголовок не найден
+140.82.23.202:80 - Заголовок не найден
+104.200.144.57:80 - Заголовок не найден
+104.102.97.47:80 - Заголовок не найден
+127.174.53.42:80 - IIS Windows Server
+127.33.49.130:80 - IIS Windows Server
+47.76.221.215:80 - 阿里云万网虚机IP访问报错提示
+38.11.161.119:80 - 404 Not Found
+23.37.131.68:80 - Заголовок не найден
+127.163.164.35:80 - IIS Windows Server
+127.101.66.238:80 - IIS Windows Server
+23.38.125.38:80 - Заголовок не найден
+23.64.187.103:80 - Заголовок не найден
+127.71.192.90:80 - IIS Windows Server
+23.35.41.176:80 - Заголовок не найден
+166.180.67.253:80 - Apache2 Ubuntu Default Page: It works
+127.243.245.133:80 - IIS Windows Server
+162.218.42.10:80 - ePMP
+46.5.220.144:80 - SynDS&nbsp;-&nbsp;Synology&nbsp;DiskStation
+116.62.153.201:80 - Заголовок не найден
+127.78.170.100:80 - IIS Windows Server
+3.163.189.187:80 - Заголовок не найден
+184.17.140.14:80 - Document Moved
+8.137.158.100:80 - Заголовок не найден
+108.156.16.231:80 - Заголовок не найден
+178.140.229.50:80 - Заголовок не найден
+18.64.8.217:80 - Заголовок не найден
+20.164.140.165:80 - Your Azure Function App is up and running.
+82.165.156.74:80 - Apache HTTP Server Test Page powered by CentOS
+198.46.226.156:80 - Page not found at /
+144.202.105.48:80 - [OFFICIAL] UltFone Software - Focus on Data Solution from iOS, Android, PC and Mac.
+51.52.166.34:80 - Заголовок не найден
+127.200.7.111:80 - IIS Windows Server
+34.111.219.124:80 - Welcome to OpenResty!
+101.76.223.98:80 - 404 Not Found
+127.129.225.131:80 - IIS Windows Server
+127.85.233.92:80 - IIS Windows Server
+173.208.43.167:80 - ERROR: The requested URL could not be retrieved
+134.65.249.67:80 - Apache2 Ubuntu Default Page: It works
+137.220.119.117:80 - 
+127.28.53.133:80 - IIS Windows Server
+69.61.67.225:80 - Stolen Amateur Porn Pics and Videos - GF Revenge - www.gfrevenge.com
+127.115.35.186:80 - IIS Windows Server
+121.184.226.96:80 - WEB SERVICE
+23.59.193.238:80 - Заголовок не найден
+127.121.168.121:80 - IIS Windows Server
+186.7.248.196:80 - 
+127.66.188.122:80 - IIS Windows Server
+106.39.246.3:80 - 403 Forbidden
+34.165.19.48:80 - Заголовок не найден
+104.81.236.70:80 - Заголовок не найден
+194.67.102.13:80 - ERROR: The requested URL could not be retrieved
