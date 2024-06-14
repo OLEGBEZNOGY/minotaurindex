@@ -8073,3 +8073,119 @@ ay
 136.144.28.176:80 - Башкирская слесарно-механическая компания
 59.126.147.217:80 - 
 18.215.197.135:80 - ADDY
+23.84.14.205:80 - 
+127.16.59.6:80 - IIS Windows Server
+176.255.198.9:80 - Заголовок не найден
+127.103.31.71:80 - IIS Windows Server
+78.110.96.24:80 - 403 Forbidden
+127.81.1.97:80 - IIS Windows Server
+35.174.122.243:80 - Test Page for the Apache HTTP Server
+127.71.169.172:80 - IIS Windows Server
+127.21.88.112:80 - IIS Windows Server
+127.23.63.188:80 - IIS Windows Server
+77.37.47.34:80 - Welcome to nginx!
+5.253.181.205:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+34.110.167.191:80 - Заголовок не найден
+127.116.237.161:80 - IIS Windows Server
+127.214.143.79:80 - IIS Windows Server
+31.18.21.204:80 - Заголовок не найден
+54.149.194.88:80 - Заголовок не найден
+139.45.224.189:80 - Authorization
+18.238.137.143:80 - Заголовок не найден
+8.29.23.106:80 - 
+216.194.115.83:80 - 500 Internal Server Error
+187.150.249.182:80 - WEB SERVICE
+104.104.93.238:80 - Заголовок не найден
+127.154.113.171:80 - IIS Windows Server
+3.162.188.151:80 - Заголовок не найден
+103.151.116.162:80 - Заголовок не найден
+165.75.20.152:80 - Web Site Blocked
+127.198.26.78:80 - IIS Windows Server
+52.22.214.202:80 - FarmServer
+44.231.225.56:80 - User&#039;s blog
+127.21.33.198:80 - IIS Windows Server
+127.25.65.124:80 - IIS Windows Server
+152.32.243.239:80 - 404 Not Found
+143.204.165.122:80 - Заголовок не найден
+103.127.78.212:80 - 
+103.20.215.223:80 - IIS Windows Server
+95.205.5.233:80 - IIS Windows
+127.30.122.112:80 - IIS Windows Server
+54.153.154.169:80 - Default Parallels Plesk Page
+23.65.40.245:80 - Заголовок не найден
+54.190.225.118:80 - Заголовок не найден
+127.220.212.244:80 - IIS Windows Server
+162.243.50.172:80 - Заголовок не найден
+94.234.200.224:80 - Teltonika Networks
+127.166.24.60:80 - IIS Windows Server
+128.104.50.78:80 - Creative Home \ Progressive — Responsive Multipurpose HTML Template
+49.13.7.10:80 - Web Server's Default Page
+103.39.135.206:80 - Apache2 Ubuntu Default Page: It works
+212.128.70.80:80 - Programación Avanzada
+83.170.79.135:80 - Заголовок не найден
+23.58.254.17:80 - Заголовок не найден
+104.83.128.106:80 - Заголовок не найден
+127.232.238.194:80 - IIS Windows Server
+121.172.4.225:80 - main page
+185.165.46.138:80 - Заголовок не найден
+127.152.216.33:80 - IIS Windows Server
+2.16.89.178:80 - Заголовок не найден
+47.128.221.68:80 - HeatXP.com
+104.75.98.197:80 - Заголовок не найден
+191.101.250.169:80 - 407 Proxy Authentication Required
+120.77.59.207:80 - è·¨å¢çµåè¾å©ç³»ç»V1.0
+45.58.136.4:80 - Account Suspended for PAY
+198.46.199.122:80 - Заголовок не найден
+108.159.121.79:80 - Заголовок не найден
+77.51.28.174:80 - Заголовок не найден
+23.94.178.186:80 - 500 Internal Server Error
+107.22.91.42:80 - Заголовок не найден
+173.39.249.98:80 - 404 Not Found
+20.97.84.123:80 - 404 Not Found
+3.163.230.37:80 - Заголовок не найден
+127.196.221.198:80 - IIS Windows Server
+127.127.2.13:80 - IIS Windows Server
+38.174.130.68:80 - ç½ç«ç»´æ¤ä¸­
+38.173.104.166:80 - 403 Forbidden
+35.171.130.58:80 - Embed Auth Sign In
+127.95.95.161:80 - IIS Windows Server
+127.4.138.215:80 - IIS Windows Server
+50.19.250.173:80 - Заголовок не найден
+23.216.198.158:80 - Заголовок не найден
+18.118.251.104:80 - Heaven's Gates Cherry Farm
+159.69.25.19:80 - Login - Adminer
+127.91.232.54:80 - IIS Windows Server
+127.204.31.26:80 - IIS Windows Server
+127.65.190.236:80 - IIS Windows Server
+47.96.78.97:80 - 404 Not Found
+127.36.82.21:80 - IIS Windows Server
+127.241.229.80:80 - IIS Windows Server
+127.33.161.117:80 - IIS Windows Server
+127.89.108.99:80 - IIS Windows Server
+84.234.96.220:80 - Заголовок не найден
+127.11.31.28:80 - IIS Windows Server
+20.23.130.207:80 - Your Azure Function App is up and running.
+54.230.202.209:80 - Заголовок не найден
+54.192.177.228:80 - Заголовок не найден
+127.193.221.118:80 - IIS Windows Server
+127.222.237.45:80 - IIS Windows Server
+127.148.141.141:80 - IIS Windows Server
+213.176.3.72:80 - Google
+23.214.141.197:80 - Заголовок не найден
+82.165.45.185:80 - Default Parallels Plesk Panel Page
+125.64.43.139:80 - IIS Windows Server
+127.52.83.250:80 - IIS Windows Server
+42.116.160.147:80 - 
+3.111.244.111:80 - investoo.co
+18.244.223.151:80 - Заголовок не найден
+23.7.64.116:80 - Заголовок не найден
+127.201.59.135:80 - IIS Windows Server
+60.205.189.179:80 - 404 Not Found
+95.232.161.59:80 - RC7020 browser check
+160.124.78.36:80 - æ²¡ææ¾å°ç«ç¹
+127.3.182.201:80 - IIS Windows Server
+127.6.38.62:80 - IIS Windows Server
+66.113.241.89:80 - Заголовок не найден
+127.218.29.145:80 - IIS Windows Server
+127.191.97.192:80 - IIS Windows Server
+87.98.148.76:80 - IsiGéo
