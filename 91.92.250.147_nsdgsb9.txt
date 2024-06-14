@@ -2259,3 +2259,5 @@
 78.203.236.208:80 - Freebox OS :: Identification
 35.174.85.73:80 - Apache2 Ubuntu Default Page: It works
 87.130.56.118:80 - Заголовок не найден
+13.39.237.87:80 - 401 Unauthorized
+122.248.247.25:80 - 403 Forbidden
