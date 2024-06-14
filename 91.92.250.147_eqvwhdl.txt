@@ -11009,3 +11009,14 @@ requested URL could not be retrieved
 23.45.15.151:80 - Заголовок не найден
 23.51.192.139:80 - Заголовок не найден
 92.204.242.38:80 - Apache2 Ubuntu Default Page: It works
+184.25.5.199:80 - Заголовок не найден
+47.111.169.78:80 - 404 Not Found
+91.235.66.12:80 - Success!
+43.198.220.177:80 - Заголовок не найден
+154.213.232.207:80 - 404 Not Found
+121.12.169.210:80 - Заголовок не найден
+52.221.55.209:80 - Заголовок не найден
+83.140.221.224:80 - Take our help and see usefulness of it when picking a writer!
+89.245.74.165:80 - Apache2 Ubuntu Default Page: It works
+88.45.230.106:80 - 403 Forbidden
+210.190.168.230:80 - 
