@@ -20580,3 +20580,122 @@ ay
 2.17.3.216:80 - Заголовок не найден
 127.28.140.138:80 - IIS Windows Server
 218.158.232.145:80 - Заголовок не найден
+194.95.134.37:80 - image2
+127.94.67.119:80 - IIS Windows Server
+83.235.173.91:80 - Apache2 Debian Default Page: It works
+201.6.108.34:80 - Заголовок не найден
+18.245.133.162:80 - Заголовок не найден
+154.212.42.156:80 - Заголовок не найден
+85.95.113.85:80 - Protected Object
+18.64.162.221:80 - Заголовок не найден
+127.214.230.96:80 - IIS Windows Server
+179.53.70.67:80 - 
+127.7.20.1:80 - IIS Windows Server
+155.254.19.66:80 - ERROR: The requested URL could not be retrieved
+47.35.91.152:80 - 
+111.229.178.240:80 - Welcome to nginx!
+127.56.229.183:80 - IIS Windows Server
+18.66.148.180:80 - Заголовок не найден
+127.112.252.145:80 - IIS Windows Server
+23.108.4.7:80 - 407 Proxy Authentication Required
+23.54.229.243:80 - Заголовок не найден
+141.101.90.109:80 - Direct IP access not allowed | Cloudflare
+173.208.180.26:80 - IIS Windows Server
+125.166.151.171:80 - RouterOS router configuration page
+34.85.149.72:80 - Заголовок не найден
+162.19.19.127:80 - Service indisponible | Service unavailable
+118.215.181.213:80 - Заголовок не найден
+23.64.148.32:80 - Заголовок не найден
+18.173.211.0:80 - Заголовок не найден
+127.25.2.236:80 - IIS Windows Server
+188.228.177.53:80 - 
+127.230.50.243:80 - IIS Windows Server
+193.108.160.36:80 - Not Found
+127.14.228.77:80 - IIS Windows Server
+159.223.13.203:80 - Заголовок не найден
+127.210.5.108:80 - IIS Windows Server
+13.110.40.132:80 - Unable to Process Request
+210.200.216.155:80 - Welcome to nginx!
+66.175.63.212:80 - Заголовок не найден
+127.47.54.218:80 - IIS Windows Server
+127.191.12.229:80 - IIS Windows Server
+45.55.49.212:80 - 500 Internal Server Error
+116.117.128.131:80 - å¤å¤è¯APPç®¡çå¹³å°
+151.101.166.67:80 - Fastly error: unknown domain 151.101.166.67
+52.146.81.170:80 - Заголовок не найден
+3.160.68.162:80 - Заголовок не найден
+18.217.175.221:80 - 403 Forbidden
+191.237.255.10:80 - Emissão 2º Via de Boleto
+74.87.71.147:80 - 
+127.202.90.189:80 - IIS Windows Server
+38.12.93.140:80 - 404 Not Found
+3.113.91.97:80 - phpinfo()
+127.147.89.150:80 - IIS Windows Server
+123.114.232.14:80 - Заголовок не найден
+23.40.180.246:80 - Заголовок не найден
+52.42.1.69:80 - 503 Service Temporarily Unavailable
+20.82.106.74:80 - Solar Supply Sweden AB
+158.220.89.25:80 - Welcome to nginx!
+3.6.189.65:80 - 404 Not Found
+172.66.144.142:80 - Direct IP access not allowed | Cloudflare
+18.214.54.208:80 - Заголовок не найден
+174.126.181.207:80 - Document Moved
+213.203.215.198:80 - Заголовок не найден
+104.76.101.165:80 - Заголовок не найден
+94.250.202.10:80 - Заголовок не найден
+127.246.224.40:80 - IIS Windows Server
+15.185.187.109:80 - Заголовок не найден
+127.81.152.145:80 - IIS Windows Server
+18.67.224.30:80 - Заголовок не найден
+23.210.168.38:80 - Заголовок не найден
+127.73.91.149:80 - IIS Windows Server
+39.38.239.23:80 - Заголовок не найден
+38.181.224.3:80 - æ²¡ææ¾å°ç«ç¹
+13.249.74.244:80 - Заголовок не найден
+47.118.170.66:80 - 403 Forbidden
+154.201.204.136:80 - Заголовок не найден
+127.162.106.201:80 - IIS Windows Server
+69.91.150.214:80 - Apache2 Ubuntu Default Page: It works
+127.14.158.113:80 - IIS Windows Server
+107.173.209.24:80 - 407 Proxy Authentication Required
+127.33.88.206:80 - IIS Windows Server
+54.37.148.174:80 - Apache2 Ubuntu Default Page: It works
+171.7.41.234:80 - RouterOS router configuration page
+35.72.85.155:80 - 株式会社松尾研究所
+107.148.152.41:80 - Заголовок не найден
+103.76.212.213:80 - AppAnywhere Remote Access
+18.221.211.18:80 - 404 Not Found
+5.157.23.250:80 - 407 Proxy Authentication Required
+127.58.133.64:80 - IIS Windows Server
+66.111.12.60:80 - IIS7
+23.205.242.50:80 - Заголовок не найден
+127.242.252.253:80 - IIS Windows Server
+180.179.34.234:80 - Home
+198.143.63.147:80 - Заголовок не найден
+170.133.165.179:80 - Заголовок не найден
+141.8.199.56:80 - 403 Forbidden
+127.69.251.108:80 - IIS Windows Server
+162.241.120.131:80 - Заголовок не найден
+77.95.237.168:80 - Заголовок не найден
+23.205.66.190:80 - Заголовок не найден
+23.61.178.213:80 - Заголовок не найден
+35.178.29.99:80 - Welcome to nginx!
+127.37.129.51:80 - IIS Windows Server
+174.142.222.208:80 - Pro Travel Network
+127.237.15.128:80 - IIS Windows Server
+34.111.112.102:80 - Заголовок не найден
+127.31.2.234:80 - IIS Windows Server
+79.96.80.145:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+127.203.190.228:80 - IIS Windows Server
+23.78.58.79:80 - Заголовок не найден
+65.21.182.136:80 - Заголовок не найден
+104.248.27.215:80 - Odoo
+127.184.55.103:80 - IIS Windows Server
+45.40.102.31:80 - Заголовок не найден
+34.138.94.181:80 - Site Not Configured | 404 Not Found
+134.209.4.59:80 - Log In &lsaquo; NTEN &#8212; WordPress
+34.210.154.159:80 - Заголовок не найден
+175.6.158.238:80 - Заголовок не найден
+127.248.44.50:80 - IIS Windows Server
+127.200.195.238:80 - IIS Windows Server
+127.248.22.51:80 - IIS Windows Server
