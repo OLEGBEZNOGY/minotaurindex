@@ -9053,3 +9053,6 @@ AIO-B2000-4+
 188.128.239.167:80 - Twoja strona oparta na Wordpressie
 196.51.162.107:80 - ERROR: The requested URL could not be retrieved
 23.202.254.164:80 - Заголовок не найден
+142.250.9.146:80 - Google
+47.106.211.252:80 - Welcome to nginx!
+156.250.234.72:80 - 403 Forbidden
