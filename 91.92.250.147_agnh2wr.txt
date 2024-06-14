@@ -3407,3 +3407,11 @@ Dalhousie University
 46.228.24.12:80 - 403 Forbidden
 212.248.75.140:80 - BearPass
 190.80.221.72:80 - 
+155.159.26.106:80 - 404 Not Found
+20.230.180.69:80 - Заголовок не найден
+23.192.233.176:80 - Заголовок не найден
+52.216.220.51:80 - Amazon S3 - Cloud Object Storage  - AWS
+185.109.1.183:80 - voxManager - Winet Voicetec Solutions AG
+46.142.125.141:80 - Заголовок не найден
+216.71.30.112:80 - Poly - Configuration Utility
+104.121.5.229:80 - Заголовок не найден
