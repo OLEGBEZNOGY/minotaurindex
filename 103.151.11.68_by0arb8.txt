@@ -1918,3 +1918,12 @@ and rigor necessary to be confident that such systems
 3.90.63.11:80 - Oculoplastic Surgeon Beverly Hills | Eyelid Surgery Los Angeles
 50.3.17.27:80 - 403 Forbidden
 23.222.203.86:80 - Заголовок не найден
+38.31.221.231:80 - 404 Not Found
+87.195.48.34:80 - WEB SERVICE
+66.39.105.156:80 - Заголовок не найден
+121.101.134.8:80 - RouterOS router configuration page
+207.192.175.203:80 - 
+38.174.250.134:80 - Заголовок не найден
+162.159.251.92:80 - Direct IP access not allowed | Cloudflare
+61.70.132.205:80 - 
+103.72.78.100:80 - VIZSION PARALLAX
