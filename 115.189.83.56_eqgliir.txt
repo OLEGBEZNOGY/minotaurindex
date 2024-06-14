@@ -5067,3 +5067,6 @@
 34.47.88.255:80 - BHSN.AI Copilot
 35.157.3.248:80 - Welcome to nginx!
 18.67.141.187:80 - Заголовок не найден
+168.119.62.101:80 - ISEK Ludwigslust: ISEK-Fortschreibung
+195.245.213.199:80 - Заголовок не найден
+104.20.80.47:80 - Direct IP access not allowed | Cloudflare
