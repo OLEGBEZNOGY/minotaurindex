@@ -7947,3 +7947,4 @@ AIO-B2000-4+
 159.135.41.209:80 - Coming Soon page
 50.3.4.178:80 - 403 Forbidden
 212.85.107.168:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+178.239.119.62:80 - Please wait, the page is opening...
