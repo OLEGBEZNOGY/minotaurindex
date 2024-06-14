@@ -8805,3 +8805,9 @@
 61.136.241.19:80 - 
 65.118.37.10:80 - Заголовок не найден
 162.144.189.100:80 - Not Acceptable!
+47.181.141.131:80 - Document Moved
+127.238.251.218:80 - Welcome to XAMPP
+127.169.151.67:80 - Welcome to XAMPP
+127.182.154.230:80 - Welcome to XAMPP
+151.101.120.45:80 - Fastly error: unknown domain 151.101.120.45
+192.177.178.238:80 - 403 Forbidden
