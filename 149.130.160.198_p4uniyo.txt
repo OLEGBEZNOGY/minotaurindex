@@ -3067,3 +3067,49 @@
 216.225.201.54:80 - noVNC
 118.215.187.19:80 - Заголовок не найден
 35.185.33.50:80 - Apache2 Ubuntu Default Page: It works
+136.226.108.81:80 - Internet Security by Zscaler
+211.250.49.125:80 - WEB SERVICE
+206.217.143.39:80 - nps error
+47.7.242.208:80 - 
+54.230.52.225:80 - Заголовок не найден
+20.253.133.11:80 - Azure Container App - Unavailable
+180.189.242.109:80 - 
+44.218.205.138:80 - Заголовок не найден
+173.236.115.197:80 - Заголовок не найден
+148.101.45.190:80 - 
+127.187.255.20:80 - IIS Windows Server
+185.229.247.170:80 - Firewall Notification
+184.26.147.81:80 - Заголовок не найден
+185.115.163.46:80 - Apache2 Ubuntu Default Page: It works
+83.98.155.31:80 - Trans-iX B.V. Webserver
+127.8.229.76:80 - IIS Windows Server
+94.34.32.169:80 - .::Welcome to the Web-Based Configurator::.
+127.76.80.144:80 - IIS Windows Server
+51.222.142.72:80 - Заголовок не найден
+72.73.225.77:80 - Заголовок не найден
+170.106.135.253:80 - Заголовок не найден
+127.152.22.107:80 - IIS Windows Server
+181.24.28.21:80 - Заголовок не найден
+91.201.4.133:80 - 404 Not Found!
+3.135.160.55:80 - MongoChat
+52.73.29.134:80 - Заголовок не найден
+23.35.232.149:80 - Заголовок не найден
+127.94.67.122:80 - IIS Windows Server
+127.160.28.79:80 - IIS Windows Server
+127.168.169.245:80 - IIS Windows Server
+127.255.16.207:80 - IIS Windows Server
+161.35.45.235:80 - Заголовок не найден
+141.148.61.5:80 - CRM_GLOBAL
+127.153.0.154:80 - IIS Windows Server
+50.3.174.57:80 - 403 Forbidden
+127.219.235.244:80 - IIS Windows Server
+18.158.22.226:80 - Chemarcus &#8211; My private site
+212.182.5.22:80 - Заголовок не найден
+20.204.185.62:80 - EyeUi
+97.76.247.245:80 - Document Moved
+92.222.114.148:80 - Login -  ERP
+80.235.115.67:80 - index
+54.90.123.118:80 - Entrar &#8211; Free Members
+103.189.227.57:80 - RouterOS router configuration page
+47.93.159.89:80 - IIS Windows Server
+168.206.201.133:80 - 404 Not Found
