@@ -6890,3 +6890,7 @@ Dalhousie University
 64.251.164.141:80 - Document Moved
 114.35.83.45:80 - 401 Unauthorized
 185.207.105.15:80 - Welcome to nginx!
+72.247.165.134:80 - Заголовок не найден
+103.60.13.158:80 - 404 Not Found
+205.201.25.50:80 - 403 - Forbidden: Access is denied.
+103.61.92.230:80 - 403 Forbidden
