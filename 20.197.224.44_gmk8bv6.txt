@@ -1383,3 +1383,4 @@
 5.249.154.220:80 - Apache2 Ubuntu Default Page: It works
 104.113.199.156:80 - Заголовок не найден
 18.246.208.246:80 - Home - Maxwell Hair Clinic
+34.200.42.101:80 - Page Not Found
