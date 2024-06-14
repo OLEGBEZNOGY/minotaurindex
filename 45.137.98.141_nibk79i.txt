@@ -6177,3 +6177,5 @@
 185.131.76.2:80 - Заголовок не найден
 160.124.186.156:80 - 404 Not Found
 54.90.22.206:80 - Laravel
+127.90.124.145:80 - Welcome to XAMPP
+104.26.2.251:80 - Direct IP access not allowed | Cloudflare
