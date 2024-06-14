@@ -11242,3 +11242,6 @@
 142.132.141.130:80 - Excalidraw | Hand-drawn look & feel â¢ Collaborative â¢ Secure
 74.84.118.145:80 - Common UI
 23.47.214.80:80 - Заголовок не найден
+127.199.18.57:80 - Welcome to XAMPP
+127.168.104.119:80 - Welcome to XAMPP
+162.241.244.88:80 - Not Acceptable!
