@@ -15486,3 +15486,49 @@ ay
 185.199.83.126:80 - 
 38.173.215.59:80 - 404 Not Found
 172.67.42.37:80 - Direct IP access not allowed | Cloudflare
+127.248.158.132:80 - IIS Windows Server
+52.32.2.149:80 - Collector
+127.103.167.227:80 - IIS Windows Server
+80.242.185.164:80 - 403 Forbidden
+104.23.100.199:80 - Direct IP access not allowed | Cloudflare
+127.160.192.239:80 - IIS Windows Server
+49.235.187.157:80 - 济南环昱商贸有限公司
+12.133.120.86:80 - Заголовок не найден
+211.253.25.207:80 - Заголовок не найден
+127.234.43.187:80 - IIS Windows Server
+23.50.47.69:80 - Заголовок не найден
+79.217.18.86:80 - FRITZ!Repeater 2400
+5.181.108.90:80 - 404 Not Found
+116.67.111.13:80 - Заголовок не найден
+23.198.84.235:80 - Заголовок не найден
+91.107.173.2:80 - 403 Forbidden
+163.172.62.198:80 - 404 Not Found
+47.117.137.163:80 - 404 Not Found
+104.140.222.194:80 - 403 Forbidden
+93.225.70.180:80 - LANCOM: Error - Access Forbidden
+152.136.171.224:80 - 403 Forbidden
+127.204.105.63:80 - IIS Windows Server
+127.213.25.34:80 - IIS Windows Server
+80.15.111.16:80 - 
+104.21.216.229:80 - Direct IP access not allowed | Cloudflare
+127.14.66.223:80 - IIS Windows Server
+23.208.108.6:80 - Заголовок не найден
+127.244.58.129:80 - IIS Windows Server
+12.51.240.237:80 - 
+23.209.4.114:80 - Заголовок не найден
+154.38.159.120:80 - ERROR: The requested URL could not be retrieved
+90.146.13.238:80 - Webinterface
+127.100.99.104:80 - IIS Windows Server
+95.100.227.146:80 - Заголовок не найден
+18.178.123.163:80 - Laravel
+127.198.109.124:80 - IIS Windows Server
+23.44.126.235:80 - Заголовок не найден
+3.24.249.244:80 - Home - 7Star Events
+96.6.235.77:80 - Заголовок не найден
+127.249.87.57:80 - IIS Windows Server
+127.67.119.175:80 - IIS Windows Server
+178.79.157.242:80 - Заголовок не найден
+93.150.60.58:80 - NethServer Enterprise
+127.53.39.83:80 - IIS Windows Server
+45.234.150.252:80 - 
+104.80.252.48:80 - Заголовок не найден
