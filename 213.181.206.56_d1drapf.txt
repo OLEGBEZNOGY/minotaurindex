@@ -22715,3 +22715,206 @@ lt page
 154.12.121.175:80 - ERROR: The requested URL could not be retrieved
 195.113.23.4:80 - Ústav teoretické fyziky MFF UK
 103.254.111.94:80 - 聯繫我們
+69.63.226.102:80 - Заголовок не найден
+139.59.120.149:80 - 404 Not Found
+127.139.201.63:80 - Welcome to XAMPP
+39.98.246.156:80 - 502 Bad Gateway
+47.13.33.54:80 - 
+157.112.72.121:80 - Заголовок не найден
+23.43.252.92:80 - Заголовок не найден
+108.159.108.160:80 - Заголовок не найден
+163.180.4.32:80 - Заголовок не найден
+3.22.163.251:80 - IIS Windows Server
+52.177.137.46:80 - Your Azure Function App is up and running.
+139.129.148.58:80 - ç½ç«è®¿é®æ¥é
+23.198.84.43:80 - Заголовок не найден
+3.210.250.254:80 - Web Site Not Found
+37.60.237.190:80 - 404 Not Found
+127.133.102.199:80 - Welcome to XAMPP
+158.69.124.178:80 - Craftealo &#8211; Servidor minecraft
+38.170.12.7:80 - Заголовок не найден
+74.121.143.253:80 - Заголовок не найден
+13.224.229.110:80 - Заголовок не найден
+34.252.148.215:80 - IIS Windows Server
+152.0.83.202:80 - 
+127.156.110.51:80 - Welcome to XAMPP
+5.37.56.138:80 - EduWave HE Login
+37.78.33.125:80 - Заголовок не найден
+185.219.23.175:80 - 404 Not Found
+47.94.184.220:80 - é¦é¡µ-é¶æçé¸¿
+23.7.46.182:80 - Заголовок не найден
+127.144.84.118:80 - Welcome to XAMPP
+212.227.206.115:80 - 502 Bad Gateway
+4.226.10.211:80 - Your Azure Function App is up and running.
+20.100.142.65:80 - Azure Container App - Unavailable
+207.150.216.84:80 - Заголовок не найден
+104.77.16.43:80 - Заголовок не найден
+46.30.206.21:80 - Test Page for the Apache HTTP Server on CentOS
+52.118.185.171:80 - Заголовок не найден
+127.19.198.210:80 - Welcome to XAMPP
+93.102.151.37:80 - 
+18.65.67.121:80 - Заголовок не найден
+121.46.133.110:80 - Заголовок не найден
+127.195.235.234:80 - Welcome to XAMPP
+152.42.155.11:80 - Заголовок не найден
+127.249.205.15:80 - Welcome to XAMPP
+54.195.168.247:80 - Test Page for the HTTP Server on Red Hat Enterprise Linux
+103.211.149.76:80 - Заголовок не найден
+127.3.104.31:80 - Welcome to XAMPP
+136.243.115.253:80 - My Yii Application
+127.24.215.62:80 - Welcome to XAMPP
+152.228.225.39:80 - IIS Windows Server
+127.250.200.80:80 - Welcome to XAMPP
+160.121.43.233:80 - æ²¡ææ¾å°ç«ç¹
+173.194.79.161:80 - Google
+115.22.154.163:80 - HCMSActiveX Viewer
+127.172.25.227:80 - Welcome to XAMPP
+13.33.149.88:80 - Заголовок не найден
+127.232.235.18:80 - Welcome to XAMPP
+127.145.16.150:80 - Welcome to XAMPP
+35.154.130.233:80 - 403 Forbidden
+127.143.225.203:80 - Welcome to XAMPP
+127.181.80.177:80 - Welcome to XAMPP
+127.37.94.188:80 - Welcome to XAMPP
+54.192.143.126:80 - Заголовок не найден
+127.84.248.50:80 - Welcome to XAMPP
+127.28.1.112:80 - Welcome to XAMPP
+127.180.53.145:80 - Welcome to XAMPP
+52.188.34.37:80 - Your Azure Function App is up and running.
+200.219.82.86:80 - Web managerment Home
+127.65.228.62:80 - Welcome to XAMPP
+127.41.193.5:80 - Welcome to XAMPP
+52.44.226.196:80 - Apache2 Ubuntu Default Page: It works
+143.204.188.2:80 - Заголовок не найден
+127.119.48.224:80 - Welcome to XAMPP
+18.117.225.250:80 - Заголовок не найден
+198.23.232.139:80 - Home
+127.66.131.42:80 - Welcome to XAMPP
+108.156.103.136:80 - Заголовок не найден
+23.204.201.197:80 - Заголовок не найден
+94.45.75.159:80 - Omega Project
+45.39.116.159:80 - IIS7
+127.5.186.138:80 - Welcome to XAMPP
+177.55.222.213:80 - Combo Livre Autoatendimento
+195.53.53.84:80 - 403 Forbidden
+216.92.56.237:80 - Home - Integrated Power Conversion and Power Management .....................................Return Home
+181.23.102.116:80 - WEB SERVICE
+68.206.59.188:80 - 
+127.249.125.14:80 - Welcome to XAMPP
+127.88.140.102:80 - Welcome to XAMPP
+66.228.32.42:80 - Apache2 Debian Default Page: It works
+127.171.76.42:80 - Welcome to XAMPP
+3.228.221.112:80 - Apache2 Ubuntu Default Page: It works
+127.133.56.176:80 - Welcome to XAMPP
+52.6.29.74:80 - Заголовок не найден
+127.12.209.29:80 - Welcome to XAMPP
+62.72.10.212:80 - 403 Forbidden
+200.29.109.163:80 - &#70;&#54;&#56;&#48;
+127.124.137.77:80 - Welcome to XAMPP
+195.228.224.75:80 - 403 Forbidden
+18.67.253.193:80 - Заголовок не найден
+127.128.56.228:80 - Welcome to XAMPP
+127.224.26.5:80 - Welcome to XAMPP
+8.210.219.29:80 - IIS Windows Server
+151.101.30.55:80 - Fastly error: unknown domain 151.101.30.55
+127.8.16.143:80 - Welcome to XAMPP
+127.251.246.93:80 - Welcome to XAMPP
+127.21.235.186:80 - Welcome to XAMPP
+18.164.240.207:80 - Заголовок не найден
+23.36.47.32:80 - Заголовок не найден
+127.101.120.40:80 - Welcome to XAMPP
+80.182.155.246:80 - ttyd - Terminal
+119.96.175.54:80 - 武汉众生源餐饮管理有限公司
+104.123.94.178:80 - Заголовок не найден
+13.111.228.220:80 - 403 - Forbidden: Access is denied.
+101.76.240.116:80 - 404 Not Found
+175.178.173.114:80 - æ±æ­ï¼ç«ç¹å·²æå
+159.255.32.243:80 - Apache2 Ubuntu Default Page: It works
+190.166.135.16:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#54;&#55;&#65;&#32;&#86;&#49;&#46;&#48;
+45.142.182.135:80 - Web Server's Default Page
+127.218.99.69:80 - Welcome to XAMPP
+23.204.89.12:80 - Заголовок не найден
+127.151.76.52:80 - Welcome to XAMPP
+127.75.251.178:80 - Welcome to XAMPP
+127.235.23.16:80 - Welcome to XAMPP
+127.47.102.238:80 - Welcome to XAMPP
+211.239.113.23:80 - pfSense - Login
+127.87.93.255:80 - Welcome to XAMPP
+23.194.0.117:80 - Заголовок не найден
+104.24.50.84:80 - Direct IP access not allowed | Cloudflare
+217.74.8.173:80 - Заголовок не найден
+168.76.108.54:80 - 404 Not Found
+173.232.213.133:80 - 403 Forbidden
+127.170.156.39:80 - Welcome to XAMPP
+23.204.232.76:80 - Заголовок не найден
+127.119.78.151:80 - Welcome to XAMPP
+104.87.173.32:80 - Заголовок не найден
+127.170.127.234:80 - Welcome to XAMPP
+127.59.87.27:80 - Welcome to XAMPP
+67.207.68.128:80 - Welcome to nginx!
+45.183.96.138:80 - Заголовок не найден
+176.106.232.40:80 - 403 Forbidden
+72.247.224.67:80 - Заголовок не найден
+178.128.82.251:80 - Заголовок не найден
+83.211.93.53:80 - Заголовок не найден
+171.102.11.24:80 - Заголовок не найден
+142.127.63.220:80 - Document Moved
+127.10.150.187:80 - Welcome to XAMPP
+127.224.232.236:80 - Welcome to XAMPP
+43.253.143.201:80 - Заголовок не найден
+18.230.107.82:80 - Заголовок не найден
+127.222.14.169:80 - Welcome to XAMPP
+127.121.113.169:80 - Welcome to XAMPP
+127.211.58.64:80 - Welcome to XAMPP
+76.223.20.208:80 - Home | The University of Aberdeen
+13.227.136.203:80 - Заголовок не найден
+97.86.131.11:80 - 
+104.234.1.177:80 - Access
+212.32.106.194:80 - Page not found
+38.11.174.22:80 - 404 Not Found
+127.96.148.211:80 - Welcome to XAMPP
+2.18.126.145:80 - Заголовок не найден
+3.122.106.94:80 - EsaqApp
+35.162.116.95:80 - Заголовок не найден
+176.65.224.147:80 - Заголовок не найден
+127.187.237.133:80 - Welcome to XAMPP
+127.130.111.191:80 - Welcome to XAMPP
+127.46.163.59:80 - Welcome to XAMPP
+122.2.210.224:80 - Заголовок не найден
+184.171.102.19:80 - Заголовок не найден
+3.93.195.68:80 - 502 Bad Gateway
+23.213.189.175:80 - Заголовок не найден
+44.216.230.112:80 - 503 Service Temporarily Unavailable
+127.241.121.251:80 - Welcome to XAMPP
+127.154.98.42:80 - Welcome to XAMPP
+127.48.133.121:80 - Welcome to XAMPP
+104.96.229.52:80 - Заголовок не найден
+178.128.237.76:80 - Заголовок не найден
+127.61.88.247:80 - Welcome to XAMPP
+23.214.41.225:80 - Заголовок не найден
+52.255.205.133:80 - IIS Windows Server
+154.39.160.10:80 - Заголовок не найден
+23.60.130.192:80 - Заголовок не найден
+185.229.31.25:80 - RouterOS router configuration page
+85.186.7.69:80 - Distribuitor uleiuri de motor si lubrifianti Mobil - Star Lubricants
+34.233.200.82:80 - Canary Login
+20.2.69.240:80 - BioGene - your professional &amp; reliable laboratory partner
+47.232.67.77:80 - 
+160.124.200.135:80 - æ²¡ææ¾å°ç«ç¹
+23.10.110.154:80 - Заголовок не найден
+127.4.200.134:80 - Welcome to XAMPP
+127.83.11.204:80 - Welcome to XAMPP
+127.11.55.208:80 - Welcome to XAMPP
+23.67.54.109:80 - Error
+52.8.108.156:80 - Заголовок не найден
+127.166.28.45:80 - Welcome to XAMPP
+127.112.99.179:80 - Welcome to XAMPP
+94.23.250.53:80 - Apache2 Debian Default Page: It works
+127.72.104.79:80 - Welcome to XAMPP
+173.8.85.209:80 - 
+127.212.225.93:80 - Welcome to XAMPP
+186.7.204.179:80 - 
+195.2.220.122:80 - INTERACTIVE SHOPPING MALL TV
+45.158.9.5:80 - Welcome to nginx!
+127.67.167.3:80 - Welcome to XAMPP
+127.70.88.255:80 - Welcome to XAMPP
