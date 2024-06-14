@@ -5488,3 +5488,43 @@
 184.85.118.134:80 - Заголовок не найден
 127.55.17.234:80 - Welcome to XAMPP
 158.199.155.103:80 - Заголовок не найден
+127.57.241.11:80 - Welcome to XAMPP
+190.123.210.216:80 - 407 Proxy Authentication Required
+127.234.54.67:80 - Welcome to XAMPP
+47.100.72.198:80 - Заголовок не найден
+95.179.236.82:80 - Заголовок не найден
+23.199.18.84:80 - Заголовок не найден
+23.202.218.135:80 - Заголовок не найден
+199.232.121.122:80 - Fastly error: unknown domain 199.232.121.122
+142.171.47.126:80 - æ²¡ææ¾å°ç«ç¹
+155.159.130.6:80 - 403 Forbidden
+76.8.40.117:80 - Document Error: Unauthorized
+64.131.69.74:80 - Error | Greater Los Angeles
+52.22.60.109:80 - Заголовок не найден
+104.71.159.172:80 - Заголовок не найден
+127.248.0.145:80 - Welcome to XAMPP
+154.6.49.186:80 - Apache2 Debian Default Page: It works
+38.38.231.112:80 - 404 Not Found
+127.97.126.235:80 - Welcome to XAMPP
+127.20.87.236:80 - Welcome to XAMPP
+127.208.5.78:80 - Welcome to XAMPP
+127.227.138.231:80 - Welcome to XAMPP
+127.63.229.84:80 - Welcome to XAMPP
+208.66.56.42:80 - Top Companies Business Directory Search Engine
+127.130.137.9:80 - Welcome to XAMPP
+127.76.204.6:80 - Welcome to XAMPP
+203.254.136.155:80 - L7
+18.164.147.128:80 - Заголовок не найден
+70.35.205.204:80 - PostNFly
+127.88.233.7:80 - Welcome to XAMPP
+83.65.27.122:80 - 403 Forbidden
+137.117.79.18:80 - Microsoft Azure Web App - Error 404
+127.249.47.107:80 - Welcome to XAMPP
+116.203.131.111:80 - Welcome to nginx!
+3.160.229.56:80 - Заголовок не найден
+61.147.168.170:80 - Заголовок не найден
+127.68.21.138:80 - Welcome to XAMPP
+23.195.34.112:80 - Заголовок не найден
+66.103.206.25:80 - Welcome to OpenResty!
+209.85.232.199:80 - Google
+202.194.194.161:80 - 404 Not Found
