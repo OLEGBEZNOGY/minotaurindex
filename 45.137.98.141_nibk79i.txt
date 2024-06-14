@@ -11799,3 +11799,46 @@
 127.29.21.203:80 - Welcome to XAMPP
 103.149.126.161:80 - RouterOS router configuration page
 20.88.186.128:80 - Заголовок не найден
+127.74.99.164:80 - Welcome to XAMPP
+127.222.217.255:80 - Welcome to XAMPP
+23.37.26.83:80 - Заголовок не найден
+47.99.50.41:80 - IIS Windows Server
+23.202.126.211:80 - Заголовок не найден
+127.69.103.113:80 - Welcome to XAMPP
+84.234.71.210:80 - Etusivu
+89.113.18.17:80 - Заголовок не найден
+43.199.6.12:80 - Welcome to nginx!
+127.141.233.196:80 - Welcome to XAMPP
+196.51.27.35:80 - ERROR: The requested URL could not be retrieved
+137.175.80.46:80 - Заголовок не найден
+127.196.211.226:80 - Welcome to XAMPP
+127.124.139.0:80 - Welcome to XAMPP
+127.105.205.89:80 - Welcome to XAMPP
+127.241.146.109:80 - Welcome to XAMPP
+185.114.21.48:80 - Web Server's Default Page
+159.75.76.82:80 - 404 Not Found
+127.134.7.104:80 - Welcome to XAMPP
+168.61.147.24:80 - Microsoft Azure Web App - Error 404
+61.152.107.81:80 - Заголовок не найден
+127.130.198.120:80 - Welcome to XAMPP
+127.27.160.206:80 - Welcome to XAMPP
+127.207.94.131:80 - Welcome to XAMPP
+104.20.251.237:80 - Direct IP access not allowed | Cloudflare
+127.152.81.0:80 - Welcome to XAMPP
+127.145.120.131:80 - Welcome to XAMPP
+139.159.176.65:80 - æ²¡ææ¾å°ç«ç¹
+47.97.63.207:80 - æ²¡ææ¾å°ç«ç¹
+23.39.120.246:80 - Заголовок не найден
+23.33.136.40:80 - Заголовок не найден
+127.73.107.151:80 - Welcome to XAMPP
+45.200.238.246:80 - 404 Not Found
+92.118.115.78:80 - 404 Not Found
+127.30.19.65:80 - Welcome to XAMPP
+127.118.31.145:80 - Welcome to XAMPP
+127.74.73.118:80 - Welcome to XAMPP
+52.251.73.176:80 - Заголовок не найден
+127.34.221.65:80 - Welcome to XAMPP
+23.163.210.33:80 - Заголовок не найден
+23.50.190.245:80 - Заголовок не найден
+23.10.160.211:80 - Заголовок не найден
+127.49.191.134:80 - Welcome to XAMPP
