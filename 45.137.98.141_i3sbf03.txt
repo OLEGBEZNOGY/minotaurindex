@@ -6409,3 +6409,38 @@
 82.112.189.19:80 - 403 Forbidden
 127.33.154.65:80 - Welcome to XAMPP
 127.67.11.180:80 - Welcome to XAMPP
+52.85.227.82:80 - Заголовок не найден
+103.133.51.206:80 - 
+199.96.52.192:80 - Заголовок не найден
+164.92.122.162:80 - Apache2 Ubuntu Default Page: It works
+220.141.102.30:80 - Заголовок не найден
+107.154.102.219:80 - Заголовок не найден
+18.64.31.91:80 - Заголовок не найден
+81.70.250.20:80 - 404 Not Found
+157.245.206.212:80 - EXHIBITION COMPANIES IN DUBAI | Stand Builders Dubai | EXHIBITION STAND DESIGN | EVENTS AND EXHIBITION COMPANIES IN DUBAI | Stand Contractors Dubai  | Exhibition stand contractors Dubai | kiosk builders in Dubai | Exhibitions 2024
+127.249.61.7:80 - Welcome to XAMPP
+133.130.25.93:80 - 403 Error - Forbidden
+127.159.132.193:80 - Welcome to XAMPP
+127.235.14.108:80 - Welcome to XAMPP
+78.46.241.248:80 - 403 Forbidden
+47.74.41.94:80 - Apache HTTP Server Test Page powered by CentOS
+172.67.113.50:80 - Direct IP access not allowed | Cloudflare
+2.22.28.140:80 - Заголовок не найден
+127.169.36.186:80 - Welcome to XAMPP
+15.164.117.190:80 - ::: SDP 2.0 :::
+154.23.68.148:80 - Заголовок не найден
+127.13.161.69:80 - Welcome to XAMPP
+34.80.128.27:80 - Заголовок не найден
+155.159.157.231:80 - 404 Not Found
+127.186.2.148:80 - Welcome to XAMPP
+18.238.144.167:80 - Заголовок не найден
+5.185.198.113:80 - Teltonika Networks
+69.57.163.114:80 - Заголовок не найден
+127.173.74.215:80 - Welcome to XAMPP
+74.46.228.2:80 - Login
+34.247.232.78:80 - Orbit
+38.152.112.65:80 - ERROR: The requested URL could not be retrieved
+127.172.221.111:80 - Welcome to XAMPP
+5.45.46.8:80 - 404 Not Found
+90.156.128.166:80 - Институт &quot;ШЕЛЬФ&quot;
+173.222.200.140:80 - Заголовок не найден
