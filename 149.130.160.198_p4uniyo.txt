@@ -21597,3 +21597,131 @@ ay
 23.62.196.127:80 - Заголовок не найден
 127.2.125.121:80 - IIS Windows Server
 127.216.243.55:80 - IIS Windows Server
+18.65.246.40:80 - Заголовок не найден
+187.84.95.205:80 - RouterOS router configuration page
+36.91.160.220:80 - 
+79.96.160.168:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+127.167.32.135:80 - IIS Windows Server
+222.206.12.8:80 - 404 Not Found
+127.232.236.160:80 - IIS Windows Server
+127.215.14.57:80 - IIS Windows Server
+111.51.113.29:80 - Заголовок не найден
+154.204.128.17:80 - 404 Not Found
+127.170.181.175:80 - IIS Windows Server
+51.154.18.135:80 - Заголовок не найден
+129.153.81.131:80 - 404 Not Found
+47.99.120.80:80 - 您访问的网站不存在
+127.207.225.134:80 - IIS Windows Server
+127.199.249.66:80 - IIS Windows Server
+49.51.251.142:80 - Roundcube Webmail :: Welcome to Roundcube Webmail
+127.75.190.232:80 - IIS Windows Server
+154.216.50.141:80 - 404 Not Found
+96.7.61.37:80 - Заголовок не найден
+94.23.200.51:80 - XWiki - XWiki - XWikiLogin
+206.162.235.116:80 - Web Site Blocked
+139.224.246.73:80 - Заголовок не найден
+127.44.84.147:80 - IIS Windows Server
+2.19.110.67:80 - Заголовок не найден
+127.165.2.158:80 - IIS Windows Server
+117.50.68.45:80 - 首页 - 国家建筑材料工业建材机械产品质量监督检验测试中心
+86.26.246.106:80 - 
+192.126.218.99:80 - ERROR: The requested URL could not be retrieved
+23.223.230.8:80 - Заголовок не найден
+212.50.95.50:80 - Заголовок не найден
+52.90.6.168:80 - Error
+127.161.218.161:80 - IIS Windows Server
+127.237.140.69:80 - IIS Windows Server
+104.85.251.171:80 - Заголовок не найден
+18.66.4.161:80 - Заголовок не найден
+38.242.232.230:80 - 500 Internal Server Error
+127.46.211.201:80 - IIS Windows Server
+127.170.65.138:80 - IIS Windows Server
+44.228.86.78:80 - Web Server's Default Page
+127.170.144.200:80 - IIS Windows Server
+82.156.156.12:80 - æ²¡ææ¾å°ç«ç¹
+104.81.198.236:80 - Заголовок не найден
+127.14.209.186:80 - IIS Windows Server
+38.92.188.113:80 - 500 Internal Server Error
+85.214.104.242:80 - Welcome to nginx!
+23.61.146.229:80 - Заголовок не найден
+165.22.216.121:80 - Заголовок не найден
+127.76.209.111:80 - IIS Windows Server
+2.20.72.117:80 - Заголовок не найден
+34.211.250.190:80 - MDbill | Online Patient Payment Portal | Patient Payment Portal
+74.48.179.79:80 - Заголовок не найден
+127.112.50.241:80 - IIS Windows Server
+34.241.128.52:80 - 404 Not Found
+94.152.130.64:80 - Заголовок не найден
+54.255.204.64:80 - Заголовок не найден
+187.16.144.135:80 - West Phone
+23.222.159.24:80 - Заголовок не найден
+127.34.244.234:80 - IIS Windows Server
+127.194.165.86:80 - IIS Windows Server
+218.185.224.220:80 - Заголовок не найден
+194.28.85.101:80 - Web Server's Default Page
+69.91.150.254:80 - Apache2 Ubuntu Default Page: It works
+153.0.199.196:80 - 403 Forbidden
+127.169.169.36:80 - IIS Windows Server
+127.30.5.239:80 - IIS Windows Server
+212.40.78.65:80 - BoosTech Informatika és Számítógép Szerviz
+82.156.187.204:80 - 404 Not Found
+23.40.22.73:80 - Заголовок не найден
+127.56.89.123:80 - IIS Windows Server
+3.36.115.118:80 - Website Unavailable
+132.148.208.164:80 - Togel Sidney | Pengeluaran Sdy | Data Sydney | Result Angka Keluaran Sdy Hari Ini
+211.13.140.207:80 - 403 Forbidden
+127.203.204.241:80 - IIS Windows Server
+65.9.66.78:80 - Заголовок не найден
+23.224.248.156:80 - 403 Forbidden
+69.80.226.216:80 - Welcome to nginx!
+127.129.25.189:80 - IIS Windows Server
+82.180.136.113:80 - All Fit Auto Body Parts 714-656-4699
+156.254.148.86:80 - 404 Not Found
+20.69.202.23:80 - 404 Not Found
+103.7.199.90:80 - 404 Not Found
+127.141.149.97:80 - IIS Windows Server
+127.82.11.236:80 - IIS Windows Server
+3.77.102.237:80 - 403 Forbidden
+47.120.17.118:80 - 404 Not Found
+187.102.198.67:80 - Заголовок не найден
+170.85.12.82:80 - Internet Security by Zscaler
+104.81.230.252:80 - Заголовок не найден
+112.30.224.83:80 - 403 Forbidden
+14.180.191.157:80 - 
+23.216.181.126:80 - Заголовок не найден
+41.204.161.167:80 - Jaramogi Oginga Odinga University of Science and Technology - JOOUST
+1.160.189.29:80 - Заголовок не найден
+127.69.206.78:80 - IIS Windows Server
+34.211.13.184:80 - Bad Request (400)
+110.242.68.157:80 - é¡µé¢ä¸å­å¨_ç¾åº¦æç´¢
+127.246.39.38:80 - IIS Windows Server
+127.197.235.184:80 - IIS Windows Server
+127.167.241.96:80 - IIS Windows Server
+52.45.114.64:80 - Заголовок не найден
+127.170.107.178:80 - IIS Windows Server
+18.173.195.101:80 - Заголовок не найден
+38.6.75.221:80 - 404 Not Found
+125.229.225.213:80 - 
+150.158.191.67:80 - æ¬è¯·æå¾
+2.22.174.186:80 - Заголовок не найден
+121.135.78.69:80 - Заголовок не найден
+23.37.172.56:80 - Заголовок не найден
+127.224.40.133:80 - IIS Windows Server
+89.204.198.25:80 - 
+54.185.245.113:80 - Welcome to nginx!
+96.126.117.247:80 - Artboard
+23.6.244.182:80 - Заголовок не найден
+54.189.203.26:80 - Home - Safe Pack and Store
+95.101.89.33:80 - Заголовок не найден
+173.222.193.33:80 - Заголовок не найден
+104.19.234.108:80 - Direct IP access not allowed | Cloudflare
+127.59.247.224:80 - IIS Windows Server
+23.58.200.193:80 - Заголовок не найден
+205.178.141.1:80 - 404
+46.242.189.152:80 - Strona w przygotowaniu
+108.160.150.161:80 - Заголовок не найден
+127.207.209.3:80 - IIS Windows Server
+90.241.207.36:80 - Default Site
+3.228.110.146:80 - 503 Service Temporarily Unavailable
+45.192.201.240:80 - æ²¡ææ¾å°ç«ç¹
+162.214.250.90:80 - æ²¡ææ¾å°ç«ç¹
