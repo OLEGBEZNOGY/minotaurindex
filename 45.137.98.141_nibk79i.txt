@@ -11842,3 +11842,7 @@
 23.50.190.245:80 - Заголовок не найден
 23.10.160.211:80 - Заголовок не найден
 127.49.191.134:80 - Welcome to XAMPP
+127.142.69.213:80 - Welcome to XAMPP
+80.7.230.99:80 - Hello! Welcome to Synology Web Station!
+127.166.30.12:80 - Welcome to XAMPP
+54.194.131.229:80 - OLY Be Pro
