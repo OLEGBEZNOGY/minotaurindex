@@ -9915,3 +9915,8 @@ requested URL could not be retrieved
 38.59.91.55:80 - è³å°å¨±ä¹
 205.209.112.170:80 - Welcome to nginx!
 51.178.129.4:80 - 404 Not Found
+64.85.109.61:80 - Apache2 Ubuntu Default Page: It works
+77.238.159.146:80 - 403 Forbidden
+223.252.44.134:80 - One moment, please...
+183.98.146.162:80 - HP 1820-8G Switch J9979A
+23.15.104.127:80 - Заголовок не найден
