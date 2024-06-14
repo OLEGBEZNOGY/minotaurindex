@@ -12398,3 +12398,33 @@
 169.61.47.70:80 - Welcome to nginx!
 127.69.94.88:80 - Welcome to XAMPP
 127.173.86.124:80 - Welcome to XAMPP
+127.71.24.178:80 - Welcome to XAMPP
+127.119.112.148:80 - Welcome to XAMPP
+3.228.63.208:80 - 403 Forbidden
+64.234.201.27:80 - Заголовок не найден
+176.255.209.68:80 - 403 Forbidden
+31.41.249.59:80 - 404 Not Found
+104.21.223.131:80 - Direct IP access not allowed | Cloudflare
+127.178.211.218:80 - Welcome to XAMPP
+127.122.39.223:80 - Welcome to XAMPP
+198.211.98.189:80 - Заголовок не найден
+168.206.19.61:80 - æ²¡ææ¾å°ç«ç¹
+34.74.186.12:80 - Apache2 Ubuntu Default Page: It works
+23.53.145.107:80 - Заголовок не найден
+127.116.213.37:80 - Welcome to XAMPP
+192.126.204.185:80 - ERROR: The requested URL could not be retrieved
+5.63.152.88:80 - 406 Not Acceptable
+54.88.217.9:80 - Universal Statistics
+108.158.111.50:80 - Заголовок не найден
+85.234.145.184:80 - Web Server's Default Page
+127.155.201.222:80 - Welcome to XAMPP
+174.138.181.117:80 - 
+23.197.15.124:80 - Заголовок не найден
+127.8.16.223:80 - Welcome to XAMPP
+220.135.36.94:80 - Заголовок не найден
+154.205.96.86:80 - Заголовок не найден
+5.190.151.131:80 - 
+23.195.33.111:80 - Заголовок не найден
+155.133.138.15:80 - 404 Vhost unknown.
+137.74.193.24:80 - Apache2 Debian Default Page: It works
+23.44.197.76:80 - Заголовок не найден
