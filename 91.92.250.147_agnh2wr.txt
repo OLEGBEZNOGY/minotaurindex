@@ -8048,3 +8048,7 @@ Dalhousie University
 222.121.192.237:80 - Gargoyle Router Management Utility
 52.211.20.235:80 - Ferrari Dealer's Area
 18.139.101.241:80 - Заголовок не найден
+184.50.92.48:80 - Заголовок не найден
+220.141.191.92:80 - 
+51.68.222.64:80 - Web Server's Default Page
+162.214.64.203:80 - Заголовок не найден
