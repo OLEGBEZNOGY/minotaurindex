@@ -21492,3 +21492,102 @@ ay
 161.116.80.45:80 - Front Page - Beepath
 47.251.20.119:80 - Заголовок не найден
 8.9.226.40:80 - Brother MFC-L9570CDW series
+4.157.155.86:80 - Заголовок не найден
+127.226.112.176:80 - IIS Windows Server
+127.66.229.140:80 - IIS Windows Server
+195.170.163.28:80 - 500 Internal Server Error
+170.85.6.227:80 - Internet Security by Zscaler
+127.155.169.195:80 - IIS Windows Server
+217.219.72.79:80 - 403 - Forbidden: Access is denied.
+39.100.106.37:80 - Заголовок не найден
+188.12.67.106:80 - .::Welcome to the Web-Based Configurator::.
+23.5.245.163:80 - Заголовок не найден
+127.198.57.194:80 - IIS Windows Server
+183.2.199.250:80 - 403 Forbidden
+150.195.4.207:80 - WEB SERVICE
+102.128.168.181:80 - RouterOS router configuration page
+20.251.132.158:80 - Your Azure Function App is up and running.
+1.51.251.14:80 - 404 Not Found
+223.85.19.193:80 - 403 Forbidden
+70.39.249.147:80 - Заголовок не найден
+127.113.202.40:80 - IIS Windows Server
+95.90.14.114:80 - Webinterface
+127.47.10.84:80 - IIS Windows Server
+127.219.4.43:80 - IIS Windows Server
+127.176.24.84:80 - IIS Windows Server
+16.182.32.28:80 - Amazon S3 - Cloud Object Storage  - AWS
+127.175.121.249:80 - IIS Windows Server
+127.223.200.37:80 - IIS Windows Server
+3.163.123.96:80 - Заголовок не найден
+85.13.235.23:80 - Apache2 Ubuntu Default Page: It works
+127.22.69.42:80 - IIS Windows Server
+127.109.145.223:80 - IIS Windows Server
+127.50.206.184:80 - IIS Windows Server
+104.103.161.232:80 - Заголовок не найден
+127.92.134.48:80 - IIS Windows Server
+80.95.208.183:80 - Заголовок не найден
+127.145.209.188:80 - IIS Windows Server
+157.230.60.95:80 - 403 Forbidden
+219.234.29.162:80 - 403 Forbidden
+174.138.44.230:80 - Заголовок не найден
+127.249.113.218:80 - IIS Windows Server
+184.29.93.88:80 - Заголовок не найден
+18.200.225.52:80 - Emerald Tracks - Irish And International MIDI Files And MP3 Backing Tracks
+127.119.44.52:80 - IIS Windows Server
+127.176.71.109:80 - IIS Windows Server
+38.11.124.177:80 - 404 Not Found
+149.100.147.221:80 - 403 Forbidden
+217.85.42.239:80 - 403 Forbidden
+108.139.189.21:80 - Заголовок не найден
+75.99.4.140:80 - Заголовок не найден
+18.67.75.113:80 - Заголовок не найден
+127.43.39.194:80 - IIS Windows Server
+127.108.10.176:80 - IIS Windows Server
+59.23.77.102:80 - WEB SERVICE
+104.66.82.185:80 - Заголовок не найден
+45.93.102.223:80 - 403 Forbidden
+127.102.16.229:80 - IIS Windows Server
+168.121.137.247:80 - Заголовок не найден
+104.22.31.234:80 - Direct IP access not allowed | Cloudflare
+127.59.219.61:80 - IIS Windows Server
+152.89.218.236:80 - Заголовок не найден
+127.125.28.141:80 - IIS Windows Server
+192.53.166.222:80 - My AI Guy &#8211; Next Generation IT Support
+45.201.253.86:80 - 404 Not Found
+127.154.213.27:80 - IIS Windows Server
+127.165.167.226:80 - IIS Windows Server
+127.55.145.160:80 - IIS Windows Server
+127.56.94.84:80 - IIS Windows Server
+122.192.127.65:80 - Заголовок не найден
+142.93.254.173:80 - Live Free America
+153.142.113.109:80 - Заголовок не найден
+82.156.248.179:80 - IIS Windows Server
+127.228.225.138:80 - IIS Windows Server
+103.195.150.182:80 - 404 Not Found
+127.233.75.66:80 - IIS Windows Server
+74.48.122.216:80 - Заголовок не найден
+196.12.182.142:80 - Заголовок не найден
+82.39.27.80:80 - Заголовок не найден
+193.122.87.108:80 - Apache2 Ubuntu Default Page: It works
+194.60.75.111:80 - Заголовок не найден
+114.45.77.57:80 - 
+18.172.178.157:80 - Заголовок не найден
+3.161.53.73:80 - Заголовок не найден
+127.64.239.221:80 - IIS Windows Server
+104.19.113.74:80 - Direct IP access not allowed | Cloudflare
+127.222.165.123:80 - IIS Windows Server
+134.16.88.25:80 - 
+199.15.174.15:80 - Temporarily Unavailable
+127.186.175.211:80 - IIS Windows Server
+127.204.176.19:80 - IIS Windows Server
+38.12.82.203:80 - 404 Not Found
+127.59.196.71:80 - IIS Windows Server
+127.139.215.98:80 - IIS Windows Server
+3.14.175.221:80 - Welcome to nginx!
+34.249.189.157:80 - Заголовок не найден
+52.87.36.81:80 - Заголовок не найден
+23.231.228.38:80 - Test Page for Apache Installation
+200.76.153.155:80 - Cerraduras Dexter - Candados - Alta Seguridad
+127.104.217.227:80 - IIS Windows Server
+39.98.53.128:80 - æºæ§æ ¡å¤æå¹ç®¡çå¹³å°
+162.215.113.122:80 - Not Acceptable!
