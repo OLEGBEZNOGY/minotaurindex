@@ -4712,3 +4712,87 @@
 27.155.69.8:80 - 403 Forbidden
 52.222.173.124:80 - Заголовок не найден
 34.234.241.15:80 - Заголовок не найден
+151.236.120.167:80 - Welcome to nginx!
+154.220.46.211:80 - 503 Service Temporarily Unavailable
+38.130.128.192:80 - Sage HRMS
+35.200.106.109:80 - Заголовок не найден
+181.177.110.56:80 - 407 Proxy Authentication Required
+154.22.201.166:80 - æ²¡ææ¾å°ç«ç¹
+194.254.225.48:80 - Index of /
+149.104.180.34:80 - 403 Forbidden
+74.48.138.20:80 - 404 Not Found
+52.222.197.71:80 - Заголовок не найден
+3.80.136.194:80 - Заголовок не найден
+170.133.164.55:80 - Заголовок не найден
+8.210.255.22:80 - Заголовок не найден
+1.94.12.223:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+3.34.227.5:80 - 404 Not Found
+18.164.181.23:80 - Заголовок не найден
+184.85.189.29:80 - Заголовок не найден
+173.242.25.164:80 - Заголовок не найден
+35.185.36.161:80 - BuyToAmerica - International shipping company
+86.107.97.65:80 - Welcome to nginx!
+23.210.198.47:80 - Заголовок не найден
+185.233.38.67:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+154.206.227.247:80 - 404 Not Found
+118.214.104.32:80 - Заголовок не найден
+81.26.132.161:80 - 403 Forbidden
+5.178.66.200:80 - Заголовок не найден
+20.219.214.232:80 - Заголовок не найден
+35.160.0.50:80 - 404 Not Found
+103.172.12.74:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+77.70.34.175:80 - 
+114.34.45.74:80 - Заголовок не найден
+18.172.170.29:80 - Заголовок не найден
+117.72.68.90:80 - 404 Not Found
+99.81.20.134:80 - Заголовок не найден
+186.62.114.186:80 - Заголовок не найден
+34.173.94.223:80 - 404 Not Found
+190.92.140.34:80 - Заголовок не найден
+52.85.40.239:80 - Заголовок не найден
+8.218.212.177:80 - æ²¡ææ¾å°ç«ç¹
+18.178.123.253:80 - Заголовок не найден
+120.83.183.233:80 - 404 Not Found
+193.48.57.182:80 - Bienvenue sur bigorneau
+108.158.154.96:80 - Заголовок не найден
+108.138.220.110:80 - Заголовок не найден
+104.95.184.215:80 - Заголовок не найден
+104.89.245.185:80 - Заголовок не найден
+154.64.207.3:80 - Заголовок не найден
+18.239.31.143:80 - Заголовок не найден
+13.228.73.88:80 - Apache2 Ubuntu Default Page: It works
+129.226.175.111:80 - Заголовок не найден
+113.11.114.15:80 - 
+176.124.220.29:80 - Welcome to nginx!
+155.159.161.6:80 - Заголовок не найден
+15.228.55.105:80 - Seed Analytics | Gestão de Dados
+104.17.236.45:80 - Direct IP access not allowed | Cloudflare
+23.225.248.188:80 - Заголовок не найден
+14.230.176.168:80 - Заголовок не найден
+23.59.90.59:80 - Заголовок не найден
+23.219.187.52:80 - Заголовок не найден
+103.6.198.131:80 - Welcome! Future Home of Another Amazing Website Powered by Exabytes
+103.4.35.157:80 - 403 Forbidden
+208.113.197.143:80 - Site not found &middot; DreamHost
+148.135.100.114:80 - NextChat
+54.187.98.167:80 - Buy Me A Unicorn
+154.198.210.12:80 - Заголовок не найден
+83.149.226.88:80 - Вестник ОИВТ РАН : Главная страница
+3.75.10.202:80 - Apache2 Ubuntu Default Page: It works
+172.87.198.109:80 - 404 Not Found
+2.186.114.17:80 - RouterOS router configuration page
+95.217.210.20:80 - Flow Catering - Catering, juhlat, tilaisuus, juhlasuunnittelu, tilaus, ruoka, juoma, helsinki, vantaa, espoo, pääkaupunkiseutu, juhlapalvelu, pito, palvelu, tapahtuma, flow, somistus, yritysjuhla, hyvä, laadukas
+54.210.242.219:80 - 403 Forbidden
+52.16.107.232:80 - Заголовок не найден
+172.64.131.160:80 - Direct IP access not allowed | Cloudflare
+212.129.38.38:80 - Apache2 Debian Default Page: It works
+104.104.185.165:80 - Заголовок не найден
+223.197.163.66:80 - Заголовок не найден
+184.24.60.114:80 - Заголовок не найден
+18.223.154.141:80 - The Book Dealer's Corner
+65.9.160.242:80 - Заголовок не найден
+201.148.67.37:80 - Заголовок не найден
+188.128.188.47:80 - Nowe Osiny - Karmel OpatrznoÅci BoÅ¼ej i Niepokalanego Serca Maryi
+14.235.254.119:80 - 
+104.22.79.61:80 - Direct IP access not allowed | Cloudflare
+35.208.160.103:80 - Apache2 Debian Default Page: It works
