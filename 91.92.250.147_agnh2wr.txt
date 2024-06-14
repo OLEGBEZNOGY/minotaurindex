@@ -6871,3 +6871,18 @@ Dalhousie University
 81.134.114.100:80 - 404 Not Found
 5.200.132.124:80 - 
 47.104.105.2:80 - 403 Forbidden
+67.200.117.12:80 - 404 Not Found
+5.189.157.253:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+23.43.187.231:80 - Заголовок не найден
+197.145.200.0:80 - &#72;&#50;&#56;&#56;&#65;
+99.84.51.18:80 - Заголовок не найден
+67.197.155.40:80 - Initializing...
+18.133.8.218:80 - HC
+82.97.157.59:80 - 401 Unauthorized
+34.193.96.233:80 - Welcome to nginx!
+34.127.76.68:80 - Nightscout
+103.252.188.47:80 - Universitas Stikubank (UNISBANK) Semarang &#8211; Digital Youth Entrepreneurial University
+108.156.116.49:80 - Заголовок не найден
+104.85.232.210:80 - Заголовок не найден
+20.242.178.204:80 - Заголовок не найден
+191.98.224.5:80 - RouterOS router configuration page
