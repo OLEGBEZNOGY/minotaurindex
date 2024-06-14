@@ -11132,3 +11132,5 @@ ay
 104.90.98.216:80 - Заголовок не найден
 162.159.253.194:80 - Direct IP access not allowed | Cloudflare
 112.216.28.52:80 - 500 - ³»ºÎ ¼­¹ö ¿À·ù.
+127.12.97.204:80 - IIS Windows Server
+127.133.254.226:80 - IIS Windows Server
