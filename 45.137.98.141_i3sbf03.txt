@@ -9508,3 +9508,33 @@
 127.106.249.19:80 - Welcome to XAMPP
 38.174.128.101:80 - 404 Not Found
 170.238.127.115:80 - IIS Windows Server
+127.77.241.195:80 - Welcome to XAMPP
+176.111.128.245:80 - Shared IP
+191.52.236.95:80 - RouterOS router configuration page
+184.25.240.161:80 - Заголовок не найден
+127.33.100.5:80 - Welcome to XAMPP
+127.50.47.141:80 - Welcome to XAMPP
+127.104.26.70:80 - Welcome to XAMPP
+127.46.98.239:80 - Welcome to XAMPP
+178.60.215.52:80 - 403 Forbidden
+47.41.6.117:80 - 
+127.22.140.160:80 - Welcome to XAMPP
+15.207.231.248:80 - Maintenance
+127.90.160.172:80 - Welcome to XAMPP
+127.173.137.117:80 - Welcome to XAMPP
+23.53.163.105:80 - Заголовок не найден
+133.88.4.157:80 - 403 Forbidden
+5.145.25.28:80 - IIS Windows
+38.31.224.252:80 - 404 Not Found
+127.125.167.100:80 - Welcome to XAMPP
+82.208.18.86:80 - Webnode Website Builder | Build a Website for Free
+127.60.2.74:80 - Welcome to XAMPP
+23.32.121.208:80 - Заголовок не найден
+154.39.108.58:80 - Заголовок не найден
+148.66.135.93:80 - Заголовок не найден
+127.191.223.119:80 - Welcome to XAMPP
+23.197.164.104:80 - Заголовок не найден
+127.190.51.47:80 - Welcome to XAMPP
+77.164.122.7:80 - ACME Access Only
+187.225.92.114:80 - 
+5.45.85.49:80 - Success!
