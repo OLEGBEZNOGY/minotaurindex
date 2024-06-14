@@ -8781,3 +8781,86 @@
 104.22.48.24:80 - Direct IP access not allowed | Cloudflare
 23.99.192.132:80 - Microsoft Azure Web App - Error 404
 186.129.110.115:80 - Заголовок не найден
+219.231.161.46:80 - 404 Not Found
+54.91.161.187:80 - Encuesta de satisfacción Lumen
+96.17.32.206:80 - Заголовок не найден
+104.19.170.201:80 - Direct IP access not allowed | Cloudflare
+40.113.96.46:80 - Microsoft Azure Web App - Error 404
+168.119.38.142:80 - mailcow UI
+52.251.76.149:80 - Заголовок не найден
+138.68.97.133:80 - 404 Not Found
+23.215.200.219:80 - Заголовок не найден
+69.201.2.218:80 - 
+99.86.12.33:80 - Заголовок не найден
+116.80.122.178:80 - 403 Forbidden
+103.126.6.136:80 - IIS Windows Server
+146.255.100.63:80 - Web Server's Default Page
+159.203.40.81:80 - 403 Forbidden
+184.25.39.205:80 - Заголовок не найден
+23.47.93.204:80 - Заголовок не найден
+34.71.66.106:80 - Заголовок не найден
+189.28.128.3:80 - Заголовок не найден
+79.164.150.208:80 - Заголовок не найден
+92.55.229.49:80 - 
+52.216.57.171:80 - Amazon S3 - Cloud Object Storage  - AWS
+122.117.141.70:80 - 
+18.195.51.210:80 - Rechtsanwalt David Rother, Berlin
+195.251.201.104:80 - HP LaserJet P2055dn&nbsp;&nbsp;&nbsp;195.251.201.104
+20.105.216.0:80 - Microsoft Azure Web App - Error 404
+24.134.35.169:80 - LANCOM: Error - Access Forbidden
+89.35.34.9:80 - StgMt's Site
+requested URL could not be retrieved
+172.169.18.111:80 - Welcome to nginx!
+18.172.185.94:80 - Заголовок не найден
+20.80.245.242:80 - 401 - Unauthorized: Access is denied due to invalid credentials.
+107.149.170.129:80 - Заголовок не найден
+213.215.162.108:80 - Заголовок не найден
+38.63.5.105:80 - 403 Forbidden
+185.130.161.233:80 - 403 Forbidden
+80.211.202.214:80 - Apache2 Debian Default Page: It works
+173.39.243.105:80 - Заголовок не найден
+3.234.104.18:80 - Заголовок не найден
+52.85.223.86:80 - Заголовок не найден
+118.215.188.127:80 - Заголовок не найден
+161.132.101.252:80 - Colegio Alpamayo - Biblioteca /  catalog
+23.59.202.99:80 - Заголовок не найден
+104.106.58.83:80 - Заголовок не найден
+54.151.92.61:80 - 首页 - 德天下官网
+5.182.84.74:80 - Direct IP access not allowed | Cloudflare
+54.236.107.135:80 - CSBG Tribal Online Resource Center
+104.233.63.92:80 - Заголовок не найден
+190.176.188.207:80 - Заголовок не найден
+18.164.28.65:80 - Заголовок не найден
+104.206.85.84:80 - 403 Forbidden
+104.82.85.12:80 - Заголовок не найден
+104.248.194.79:80 - Заголовок не найден
+198.20.84.174:80 - One moment, please...
+85.241.150.185:80 - 
+23.2.89.51:80 - Заголовок не найден
+45.207.100.72:80 - 404 Not Found
+23.33.156.6:80 - Заголовок не найден
+60.43.157.221:80 - きんしん保険サービス
+15.207.146.195:80 - Amazon Kendra
+188.122.0.47:80 - RouterOS router configuration page
+193.134.210.109:80 - Заголовок не найден
+38.152.242.43:80 - Заголовок не найден
+202.73.224.142:80 - Error 404 (Not Found)!!1
+38.128.248.134:80 - Заголовок не найден
+18.141.84.10:80 - Welcome to nginx!
+165.227.239.152:80 - Welcome to Order.eu.com
+103.82.41.230:80 - Document Moved
+3.86.248.135:80 - Заголовок не найден
+154.197.152.67:80 - æ²¡ææ¾å°ç«ç¹
+5.102.135.61:80 - Web Server's Default Page
+45.60.69.232:80 - Заголовок не найден
+20.103.115.245:80 - Your Azure Function App is up and running.
+107.173.107.191:80 - ERROR: The requested URL could not be retrieved
+79.139.56.53:80 - Заголовок не найден
+138.197.139.219:80 - Заголовок не найден
+208.97.137.73:80 - Site not found &middot; DreamHost
+101.207.251.35:80 - 403 Forbidden
+94.14.167.69:80 - webpackSPA
+54.93.233.197:80 - Byggkollen &#8211; Daglig rapportering för byggbranschen
+3.139.221.245:80 - 503 Service Temporarily Unavailable
+194.36.138.25:80 - Web Server's Default Page
+153.120.186.157:80 - Object not found!
