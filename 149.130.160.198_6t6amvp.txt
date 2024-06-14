@@ -9907,3 +9907,84 @@
 127.246.34.226:80 - IIS Windows Server
 127.106.170.114:80 - IIS Windows Server
 127.80.174.251:80 - IIS Windows Server
+127.40.161.34:80 - IIS Windows Server
+127.186.119.246:80 - IIS Windows Server
+127.71.157.103:80 - IIS Windows Server
+127.15.151.68:80 - IIS Windows Server
+45.223.28.213:80 - Заголовок не найден
+23.10.142.110:80 - Заголовок не найден
+95.100.227.251:80 - Заголовок не найден
+189.190.91.149:80 - Заголовок не найден
+118.215.182.178:80 - Заголовок не найден
+5.44.220.174:80 - Заголовок не найден
+142.132.156.231:80 - Заголовок не найден
+153.246.80.67:80 - IIS Windows Server
+63.250.54.248:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+63.47.48.90:80 - Intuicom XC400
+79.79.159.235:80 - .::Welcome to the Web-Based Configurator::.
+95.100.224.19:80 - Заголовок не найден
+107.22.225.182:80 - Заголовок не найден
+127.180.44.145:80 - IIS Windows Server
+210.117.149.229:80 - Заголовок не найден
+38.63.6.44:80 - 403 Forbidden
+34.79.188.209:80 - Заголовок не найден
+143.204.47.200:80 - Заголовок не найден
+52.14.216.66:80 - Database Error
+77.65.213.83:80 - Odkrywamy Zakryte &#8211; Odkrywamy Zakryte to alternatywny portal dla świadomych ludzi
+127.109.36.248:80 - IIS Windows Server
+4.246.1.108:80 - Azure Container App - Unavailable
+154.37.248.244:80 - ERROR: The requested URL could not be retrieved
+127.195.175.201:80 - IIS Windows Server
+127.36.90.37:80 - IIS Windows Server
+134.56.211.163:80 - XPanel
+156.250.101.53:80 - 404 Not Found
+213.158.148.51:80 - ÖKK – Die Krankenkasse mit gesunden Bündnerverstand
+54.93.35.139:80 - IIS Windows Server
+173.223.135.237:80 - Заголовок не найден
+127.231.10.101:80 - IIS Windows Server
+154.204.159.205:80 - 404 Not Found
+152.228.219.17:80 - Apache2 Debian Default Page: It works
+18.234.166.229:80 - Welcome to nginx!
+223.6.217.21:80 - ç½ç«è®¿é®æ¥é
+127.129.35.201:80 - IIS Windows Server
+127.216.125.68:80 - IIS Windows Server
+18.189.242.88:80 - 404 Not Found
+127.146.202.246:80 - IIS Windows Server
+127.181.63.11:80 - IIS Windows Server
+185.86.15.74:80 - Welcome to nginx!
+127.246.197.109:80 - IIS Windows Server
+127.152.137.30:80 - IIS Windows Server
+179.125.205.208:80 - F670L
+144.76.67.195:80 - Web Server's Default Page
+159.93.217.58:80 - ТСЖ ЖК «Фрегат»
+156.240.35.184:80 - Заголовок не найден
+18.230.181.211:80 - 404 Not Found
+54.194.43.154:80 - Заголовок не найден
+104.125.220.78:80 - Заголовок не найден
+127.215.230.8:80 - IIS Windows Server
+127.149.72.153:80 - IIS Windows Server
+142.171.181.104:80 - 404 Not Found
+20.67.27.110:80 - 502 Bad Gateway
+194.249.1.188:80 - 404 Not Found
+103.72.146.222:80 - å¯çè¯·æ±æ¦æªéç¥
+185.150.114.105:80 - Заголовок не найден
+210.100.227.189:80 - main page
+46.148.143.134:80 - Заголовок не найден
+127.172.252.139:80 - IIS Windows Server
+88.221.134.217:80 - Заголовок не найден
+192.185.124.120:80 - Not Acceptable!
+195.24.66.222:80 - Ð¢Ð¾ÑÐ³Ð¾Ð²Ð°Ñ Ð¼Ð°ÑÐºÐ° Ð ÑÑÐ¾Ð»ÐµÐ¾ÑÐ¸Ð¼
+93.48.234.162:80 - TiAlarm WebServer
+200.6.250.140:80 - Document Error: Unauthorized
+5.45.176.40:80 - Apache2 Ubuntu Default Page: It works
+79.96.138.186:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+85.235.149.22:80 - Заголовок не найден
+127.195.223.206:80 - IIS Windows Server
+20.205.146.235:80 - Welcome to your Strapi app
+128.199.55.78:80 - Заголовок не найден
+105.68.244.163:80 - &#72;&#50;&#56;&#56;&#65;
+127.22.211.176:80 - IIS Windows Server
+192.169.170.122:80 - Coming Soon
+23.203.137.113:80 - Заголовок не найден
+127.152.94.46:80 - IIS Windows Server
+34.200.79.155:80 - Laravel
