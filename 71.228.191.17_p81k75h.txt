@@ -16305,3 +16305,135 @@ music and hula dancing
 107.163.17.79:80 - æ²¡ææ¾å°ç«ç¹
 167.114.143.147:80 - Welcome to nginx!
 148.255.26.187:80 - 
+54.237.203.83:80 - Welcome to My Website
+204.114.64.199:80 - Заголовок не найден
+15.164.18.233:80 - Заголовок не найден
+74.208.169.98:80 - Заголовок не найден
+36.133.192.218:80 - ä¸­åé³åäº§åæ¸å
+185.145.12.81:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+213.57.159.185:80 - WEB SERVICE
+94.232.158.199:80 - RouterOS router configuration page
+74.50.70.203:80 - Заголовок не найден
+96.9.31.173:80 - 403 Forbidden
+147.135.109.17:80 - Заголовок не найден
+45.221.108.221:80 - 403 Forbidden
+27.102.102.57:80 - 403 Forbidden
+201.239.252.199:80 - Заголовок не найден
+77.87.125.6:80 - Заголовок не найден
+23.195.148.221:80 - Заголовок не найден
+104.20.8.71:80 - Direct IP access not allowed | Cloudflare
+42.193.42.69:80 - Заголовок не найден
+44.198.161.111:80 - Заголовок не найден
+52.73.9.4:80 - No such app
+164.155.164.141:80 - 403 Forbidden
+13.201.160.165:80 - Overseas Education Consultants In Ahmedabad, Education Consultant in Ahmedabad, study abroad consultants in ahmedabad, australia student visa consultants in ahmedabad, canada student visa consultants in ahmedabad, foreign education consultants in ahmedabad, abroad education consultants in ahmedabad, Overseas Education Consultants Ahmedabad, Study Abroad Consultants in Ahmedabad, leading education Consultant in Ahmedabad, Study Abroad Consultants in Ahmedabad, Student Visa Consultant in Ahmedabad, overseas consultancy in ahmedabad, foreign educational institution in ahmedabad, Education At Abroad Ahmedabad, australia student visa agent in ahmedabad, TOP Visa consultants in Ahmedabad, student visa consultancy services in Ahmedabad, Best Education Consultants in Ahmedabad, Top Education Consultants in Ahmedabad, Top 10 Education Consultant in Ahmedabad, Leading Education Consultant in Ahmedabad, Overseas Education in Ahmedabad, Best Overseas Education in Ahmedabad, Top Overseas Education in Ahmedabad, Visa for foreign education in ahmedabad
+184.30.108.88:80 - Заголовок не найден
+23.65.169.229:80 - Заголовок не найден
+190.176.111.219:80 - Заголовок не найден
+121.196.199.60:80 - 404 Not Found
+167.86.121.171:80 - Заголовок не найден
+213.159.50.209:80 - Заголовок не найден
+104.99.53.175:80 - Заголовок не найден
+183.171.14.131:80 - Apache2 Debian Default Page: It works
+23.215.89.101:80 - Заголовок не найден
+18.155.122.104:80 - Заголовок не найден
+23.79.26.209:80 - Заголовок не найден
+185.81.3.216:80 - Apache HTTP Server Test Page powered by CentOS
+112.74.189.50:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+42.192.167.136:80 - electrical-addequipment-web
+217.114.42.95:80 - DDoS-Guard
+198.82.215.83:80 - Заголовок не найден
+23.35.186.215:80 - Заголовок не найден
+176.99.183.235:80 - 403 Forbidden
+120.79.115.229:80 - HTTP Status 404 – Not Found
+23.23.141.23:80 - 403 Forbidden
+209.240.139.51:80 - Заголовок не найден
+13.124.228.198:80 - 403 Forbidden
+4.156.55.109:80 - Your Azure Function App is up and running.
+79.175.169.187:80 - Заголовок не найден
+104.106.105.30:80 - Заголовок не найден
+103.167.89.114:80 - Welcome to nginx!
+168.235.64.250:80 - Apache2 Debian Default Page: It works
+104.96.87.60:80 - Заголовок не найден
+181.48.21.140:80 - WEB SERVICE
+140.82.51.122:80 - 403 Forbidden
+141.193.124.18:80 - Заголовок не найден
+107.154.131.181:80 - Заголовок не найден
+197.52.15.57:80 - 
+44.232.14.19:80 - Apache2 Ubuntu Default Page: It works
+23.11.229.202:80 - Заголовок не найден
+23.42.136.222:80 - Заголовок не найден
+103.148.151.148:80 - IIS7
+79.96.34.217:80 - Заголовок не найден
+47.93.62.238:80 - æ¶å»å³æ³¨ äººäººç¯ä¿
+202.46.92.243:80 - Welcome to XAMPP
+23.53.237.145:80 - Заголовок не найден
+23.216.229.78:80 - Заголовок не найден
+172.87.198.205:80 - 404 Not Found
+102.41.28.176:80 - 
+178.80.55.220:80 - RouterOS router configuration page
+76.152.199.215:80 - DVR ActiveX Viewer
+112.161.81.247:80 - main page
+23.45.145.233:80 - Заголовок не найден
+3.90.210.4:80 - AMC Connect
+3.165.117.34:80 - Заголовок не найден
+23.43.180.11:80 - Заголовок не найден
+27.75.66.206:80 - 
+18.164.111.83:80 - Заголовок не найден
+95.217.72.123:80 - 403 Forbidden
+38.14.88.202:80 - 检测中
+85.143.214.40:80 - Заголовок не найден
+75.2.29.28:80 - Заголовок не найден
+147.154.37.70:80 - Заголовок не найден
+104.16.158.184:80 - Direct IP access not allowed | Cloudflare
+172.202.238.67:80 - Заголовок не найден
+158.51.193.202:80 - 403 Forbidden
+18.239.88.80:80 - Заголовок не найден
+66.162.181.179:80 - Заголовок не найден
+170.155.168.253:80 - Webmail del Instituto de Obra Médico Asistencial
+178.158.147.37:80 - 403 Forbidden
+52.116.132.173:80 - Заголовок не найден
+104.30.128.27:80 - Заголовок не найден
+66.96.182.22:80 - Заголовок не найден
+89.223.120.174:80 - Default Site
+212.83.61.132:80 - Заголовок не найден
+24.230.33.37:80 - Intelligent Switch
+38.38.120.137:80 - 404 Not Found
+131.226.212.40:80 - Заголовок не найден
+196.51.17.91:80 - ERROR: The requested URL could not be retrieved
+222.78.110.80:80 - YNæºæ§æ ¡å­
+104.106.170.219:80 - Заголовок не найден
+145.239.106.238:80 - Connexion
+121.46.141.93:80 - Заголовок не найден
+122.222.252.232:80 - Заголовок не найден
+23.40.167.49:80 - Заголовок не найден
+13.33.194.34:80 - Заголовок не найден
+159.192.166.213:80 - 403 Forbidden
+61.213.168.109:80 - Заголовок не найден
+192.165.170.79:80 - 
+23.204.34.242:80 - Заголовок не найден
+34.231.84.252:80 - Spotwise Login
+89.117.151.144:80 - Заголовок не найден
+65.108.215.36:80 - Welcome to nginx!
+160.1.34.167:80 - 403 Forbidden
+212.63.145.90:80 - Web Server's Default Page
+13.226.26.184:80 - Заголовок не найден
+23.5.255.104:80 - Заголовок не найден
+20.189.113.229:80 - Заголовок не найден
+54.186.85.201:80 - Nexus Repository Manager
+31.6.220.197:80 - 
+202.214.188.97:80 - Заголовок не найден
+82.64.73.143:80 - Заголовок не найден
+130.93.110.103:80 - Apache Tomcat/8.5.75
+51.89.208.152:80 - Coming soon
+103.14.23.136:80 - Page not found
+65.8.225.37:80 - Заголовок не найден
+54.163.209.77:80 - LFAN - Admininistracion Cliente
+70.60.67.43:80 - 
+13.37.83.87:80 - Заголовок не найден
+222.194.57.98:80 - 404 Not Found
+23.63.15.124:80 - Заголовок не найден
+216.10.251.90:80 - Заголовок не найден
+50.16.220.230:80 - Заголовок не найден
+23.51.65.116:80 - Заголовок не найден
+154.214.116.134:80 - 404 Not Found
