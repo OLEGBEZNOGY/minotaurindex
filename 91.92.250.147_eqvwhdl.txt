@@ -13172,3 +13172,6 @@ requested URL could not be retrieved
 18.189.198.32:80 - 502 Bad Gateway
 3.110.179.138:80 - Заголовок не найден
 195.208.158.54:80 - 403 - Forbidden: Access is denied.
+103.130.144.115:80 - Apache HTTP Server Test Page powered by CentOS
+13.113.238.63:80 - 404 Not Found
+81.214.248.95:80 - Заголовок не найден
