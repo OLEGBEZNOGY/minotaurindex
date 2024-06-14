@@ -9056,3 +9056,4 @@ AIO-B2000-4+
 142.250.9.146:80 - Google
 47.106.211.252:80 - Welcome to nginx!
 156.250.234.72:80 - 403 Forbidden
+77.55.84.29:80 - Domain  is hosted on netart.com servers
