@@ -856,3 +856,5 @@
 43.140.250.103:80 - 404 Not Found
 13.111.137.13:80 - Error
 5.182.23.217:80 - Apache2 Ubuntu Default Page: It works
+84.149.228.88:80 - 403 - Verboten: Zugriff verweigert.
+4.157.62.132:80 - Заголовок не найден
