@@ -10121,3 +10121,36 @@
 127.104.214.172:80 - IIS Windows Server
 23.220.198.63:80 - Заголовок не найден
 142.132.154.98:80 - Заголовок не найден
+67.205.77.217:80 - Заголовок не найден
+47.98.96.219:80 - Заголовок не найден
+127.210.18.244:80 - IIS Windows Server
+185.65.96.167:80 - Aday - La plateforme n°1 de services de veille-médias
+46.149.201.17:80 - Welcome to OpenResty!
+46.231.32.176:80 - Заголовок не найден
+127.48.35.45:80 - IIS Windows Server
+3.163.2.152:80 - Заголовок не найден
+127.97.28.222:80 - IIS Windows Server
+186.6.238.19:80 - 
+127.96.67.74:80 - IIS Windows Server
+127.105.144.70:80 - IIS Windows Server
+5.75.151.182:80 - Test Page for the Centmin Mod Nginx HTTP Server
+213.202.72.155:80 - IIS Windows Server
+127.224.252.27:80 - IIS Windows Server
+127.219.97.176:80 - IIS Windows Server
+190.176.109.27:80 - Заголовок не найден
+127.38.112.9:80 - IIS Windows Server
+127.126.238.43:80 - IIS Windows Server
+45.38.175.205:80 - Заголовок не найден
+148.101.211.94:80 - 
+173.15.4.185:80 - Заголовок не найден
+23.210.140.19:80 - Заголовок не найден
+3.109.233.43:80 - Apache2 Ubuntu Default Page: It works
+127.5.60.31:80 - IIS Windows Server
+52.26.109.181:80 - Заголовок не найден
+127.118.71.208:80 - IIS Windows Server
+108.139.244.166:80 - Заголовок не найден
+38.63.159.168:80 - Заголовок не найден
+76.9.251.148:80 - Login
+122.34.26.141:80 - 
+127.57.247.202:80 - IIS Windows Server
+222.234.155.184:80 - Realtek Semiconductor Corp. | WIRELESS ROUTER
