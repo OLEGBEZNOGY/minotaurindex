@@ -1170,3 +1170,4 @@
 20.71.104.106:80 - 502 Bad Gateway
 204.246.177.62:80 - Заголовок не найден
 92.123.29.170:80 - Заголовок не найден
+65.49.50.26:80 - National Dance Institute - National Dance Institute
