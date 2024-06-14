@@ -105,3 +105,56 @@
 127.178.53.60:80 - IIS Windows Server
 127.41.243.98:80 - IIS Windows Server
 127.10.24.166:80 - IIS Windows Server
+5.133.192.198:80 - Database Error
+127.84.119.160:80 - IIS Windows Server
+104.104.138.184:80 - Заголовок не найден
+52.39.102.149:80 - Заголовок не найден
+127.246.48.42:80 - IIS Windows Server
+127.70.71.164:80 - IIS Windows Server
+154.39.138.184:80 - é³ä¹è§£é - By IXarea
+158.101.65.63:80 - Welcome to nginx!
+184.70.86.250:80 - TransparentSmoke.com &#8211; Whether it&#039;s Whisky or Whiskey, the goal is enjoyment. Live, Love, Drink!
+18.65.130.166:80 - Заголовок не найден
+138.59.142.89:80 - Error 404 (Not Found)!!1
+154.12.235.195:80 - Заголовок не найден
+186.227.202.80:80 - Заголовок не найден
+212.73.158.79:80 - Please wait, the page is opening...
+130.208.139.56:80 - Заголовок не найден
+127.170.252.217:80 - IIS Windows Server
+198.143.50.223:80 - Заголовок не найден
+127.129.74.11:80 - IIS Windows Server
+52.173.205.183:80 - Microsoft Azure Web App - Error 404
+107.154.224.195:80 - Заголовок не найден
+104.206.105.132:80 - 403 Forbidden
+5.134.13.226:80 - Заголовок не найден
+127.131.244.146:80 - IIS Windows Server
+163.30.79.5:80 - Apache Tomcat/7.0.96
+127.161.40.18:80 - IIS Windows Server
+127.10.188.216:80 - IIS Windows Server
+196.51.185.232:80 - ERROR: The requested URL could not be retrieved
+99.192.159.179:80 - 404 Not Found
+18.65.126.97:80 - Заголовок не найден
+114.67.204.103:80 - Заголовок не найден
+127.118.135.138:80 - IIS Windows Server
+127.164.247.138:80 - IIS Windows Server
+220.94.141.108:80 - main page
+202.238.246.16:80 - å¤§å®¹éã¯ã©ã¦ãåã¹ãã¬ã¼ã¸ï¼è»¢éæã¼ã­åï¼ -IIJãªãã¸ã§ã¯ãã¹ãã¬ã¼ã¸ãµã¼ãã¹
+3.72.241.175:80 - xingWebAppBackend
+199.232.52.186:80 - Fastly error: unknown domain 199.232.52.186
+47.115.215.226:80 - 404 Not Found
+103.85.226.170:80 - æ²¡ææ¾å°ç«ç¹
+127.77.69.128:80 - IIS Windows Server
+23.42.188.44:80 - Заголовок не найден
+23.203.236.66:80 - Заголовок не найден
+127.73.249.182:80 - IIS Windows Server
+109.115.81.62:80 - index
+151.101.52.207:80 - Fastly error: unknown domain 151.101.52.207
+175.141.206.132:80 - Заголовок не найден
+127.198.218.93:80 - IIS Windows Server
+127.238.119.176:80 - IIS Windows Server
+91.105.59.163:80 - 
+127.55.29.172:80 - IIS Windows Server
+139.84.162.116:80 - RM Group of Education - Best Career Counselling Guidance Platform
+40.78.120.49:80 - Microsoft Azure Web App - Error 404
+127.166.176.103:80 - IIS Windows Server
+104.111.197.211:80 - Заголовок не найден
