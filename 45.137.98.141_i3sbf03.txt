@@ -4122,3 +4122,7 @@
 83.56.42.215:80 - Test Page for Apache Installation
 173.89.84.81:80 - 
 52.165.172.179:80 - Microsoft Azure Web App - Error 404
+47.100.228.95:80 - IIS Windows Server
+96.32.54.91:80 - 
+139.59.34.52:80 - Welcome to nginx!
+13.225.5.196:80 - Заголовок не найден
