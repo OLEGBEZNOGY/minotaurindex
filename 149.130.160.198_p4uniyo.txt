@@ -6135,3 +6135,65 @@
 172.101.32.89:80 - 
 127.143.51.130:80 - IIS Windows Server
 38.12.118.194:80 - 404 Not Found
+5.75.227.142:80 - Web Server's Default Page
+127.20.153.252:80 - IIS Windows Server
+23.56.58.150:80 - Заголовок не найден
+23.36.210.91:80 - Заголовок не найден
+185.3.216.85:80 - 403 Forbidden
+185.60.133.254:80 - Заголовок не найден
+23.197.90.230:80 - Заголовок не найден
+127.81.158.207:80 - IIS Windows Server
+127.145.127.73:80 - IIS Windows Server
+208.106.187.97:80 - Заголовок не найден
+222.117.17.135:80 - Gargoyle Router Management Utility
+80.211.147.160:80 - LocoControlRoom
+23.223.11.239:80 - Заголовок не найден
+154.219.5.152:80 - Direct IP access not allowed | Cloudflare
+23.59.138.189:80 - Заголовок не найден
+184.28.181.36:80 - Заголовок не найден
+127.81.90.24:80 - IIS Windows Server
+104.117.62.193:80 - Заголовок не найден
+168.158.195.158:80 - 401 Unauthorized
+95.217.239.55:80 - 404 Not Found
+195.231.68.137:80 - Web Server's Default Page
+127.115.152.94:80 - IIS Windows Server
+210.140.226.152:80 - ããããã¼ã¸&nbsp;|&nbsp;å·åæå¬å¼ãã¼ã ãã¼ã¸
+43.141.132.11:80 - Заголовок не найден
+45.39.116.79:80 - IIS7
+127.75.114.181:80 - IIS Windows Server
+127.5.243.162:80 - IIS Windows Server
+106.52.87.145:80 - 500 - ÄÚ²¿·þÎñÆ÷´íÎó¡£
+127.188.68.234:80 - IIS Windows Server
+210.159.87.78:80 - 403 Forbidden
+104.120.221.154:80 - Заголовок не найден
+23.65.174.106:80 - Заголовок не найден
+96.2.131.206:80 - Web Site Blocked
+127.117.141.84:80 - IIS Windows Server
+127.74.131.240:80 - IIS Windows Server
+127.124.38.168:80 - IIS Windows Server
+14.166.124.29:80 - 
+162.251.120.214:80 - Welcome to nginx!
+127.95.149.145:80 - IIS Windows Server
+152.89.162.42:80 - 401 Authorization Required
+127.69.19.172:80 - IIS Windows Server
+185.241.39.100:80 - Заголовок не найден
+18.235.91.135:80 - 403 Forbidden
+104.86.164.78:80 - Заголовок не найден
+104.19.144.55:80 - Direct IP access not allowed | Cloudflare
+127.130.244.50:80 - IIS Windows Server
+61.125.141.67:80 - Заголовок не найден
+122.116.234.168:80 - 
+123.56.106.168:80 - 400 Request Header Or Cookie Too Large
+18.175.105.0:80 - Заголовок не найден
+104.248.33.246:80 - Welcome to nginx!
+124.221.14.104:80 - 404 Not Found
+217.144.103.168:80 - 404 Not Found
+127.103.249.11:80 - IIS Windows Server
+127.157.65.97:80 - IIS Windows Server
+99.84.107.230:80 - Заголовок не найден
+74.84.152.27:80 - Index of /
+52.27.197.115:80 - AquaClusters - Issue Tracking, Wiki Books, Discussions and Questions &amp; Answers | AquaFold
+127.252.142.134:80 - IIS Windows Server
+127.38.143.9:80 - IIS Windows Server
+127.70.23.27:80 - IIS Windows Server
+125.229.106.116:80 - WEB SERVICE
