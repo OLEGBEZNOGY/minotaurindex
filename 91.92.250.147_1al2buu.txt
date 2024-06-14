@@ -7948,3 +7948,8 @@ AIO-B2000-4+
 50.3.4.178:80 - 403 Forbidden
 212.85.107.168:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
 178.239.119.62:80 - Please wait, the page is opening...
+125.74.3.198:80 - 403 Forbidden
+104.248.157.162:80 - Bing
+154.23.90.238:80 - 404 Not Found
+101.71.4.180:80 - IIS Windows Server
+23.192.171.53:80 - Заголовок не найден
