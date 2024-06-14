@@ -5105,3 +5105,42 @@
 23.49.194.228:80 - Заголовок не найден
 104.104.37.102:80 - Заголовок не найден
 172.66.207.190:80 - Direct IP access not allowed | Cloudflare
+193.238.86.185:80 - RouterOS
+14.103.41.129:80 - Welcome to nginx!
+167.172.93.235:80 - 404 Not Found
+161.69.55.169:80 - Заголовок не найден
+23.194.220.15:80 - Заголовок не найден
+146.185.219.135:80 - الأخبار العالمية والمراجعات الإلكترونية ومعلومات اللعبة| ilikehuawei.com
+13.249.151.153:80 - Заголовок не найден
+127.28.103.75:80 - IIS Windows Server
+127.235.136.113:80 - IIS Windows Server
+65.121.87.171:80 - 404 Not Found
+206.233.207.30:80 - 404 Not Found
+23.8.44.52:80 - Заголовок не найден
+127.16.96.175:80 - IIS Windows Server
+127.201.147.110:80 - IIS Windows Server
+127.71.128.184:80 - IIS Windows Server
+127.17.125.30:80 - IIS Windows Server
+127.211.3.66:80 - IIS Windows Server
+192.252.151.74:80 - Resource not found
+95.179.180.247:80 - Заголовок не найден
+67.205.114.147:80 - TRACTOSOFT SYSTEMS &#x2d; Software para control de transporte de carga
+13.232.146.160:80 - Заголовок не найден
+47.104.95.113:80 - Welcome to nginx!
+3.99.69.241:80 - 404 Not Found
+127.220.163.195:80 - IIS Windows Server
+3.8.94.16:80 - MLD Advisory Group
+23.197.134.29:80 - Заголовок не найден
+68.178.247.19:80 - Coming Soon
+127.30.48.190:80 - IIS Windows Server
+62.72.166.17:80 - Direct IP access not allowed | Cloudflare
+152.195.33.238:80 - 404 - Not Found
+23.57.17.25:80 - Заголовок не найден
+127.63.90.213:80 - IIS Windows Server
+40.86.241.30:80 - Your Azure Function App is up and running.
+62.72.9.66:80 - Apache2 Ubuntu Default Page: It works
+185.208.131.111:80 - 403 Forbidden
+103.230.157.99:80 - Benefit Central
+108.138.214.17:80 - Заголовок не найден
+149.100.142.27:80 - 404 Not Found
+54.144.98.218:80 - Заголовок не найден
