@@ -20100,3 +20100,6 @@ Allen County, Indiana.
 23.214.222.77:80 - Заголовок не найден
 139.224.238.234:80 - 500 Internal Server Error
 127.154.183.99:80 - Welcome to XAMPP
+181.188.213.74:80 - Welcome to nginx!
+23.198.128.114:80 - Заголовок не найден
+20.80.221.157:80 - Azure Container App - Unavailable
