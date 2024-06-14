@@ -1,0 +1,28 @@
+54.234.185.138:80 - PetClinic :: a Spring Framework demonstration
+65.20.78.171:80 - 明泰實業有限公司
+3.164.226.172:80 - Заголовок не найден
+16.63.121.141:80 - Заголовок не найден
+162.159.42.2:80 - Direct IP access not allowed | Cloudflare
+81.0.206.221:80 - Заголовок не найден
+54.213.243.134:80 - Welcome to nginx!
+173.237.77.178:80 - Nodecraft - Game Servers Done Right
+107.163.218.180:80 - 404 Not Found
+104.19.196.0:80 - Direct IP access not allowed | Cloudflare
+175.100.89.210:80 - 
+190.84.230.72:80 - Comrex ACCESS
+18.172.12.156:80 - Заголовок не найден
+223.122.110.63:80 - Заголовок не найден
+104.21.59.16:80 - Direct IP access not allowed | Cloudflare
+79.200.101.175:80 - 
+178.238.6.9:80 - 404 Not Found
+84.217.32.37:80 - Hello! Welcome to Synology Web Station!
+5.44.245.27:80 - 403 Forbidden
+72.179.98.45:80 - 
+35.160.43.230:80 - Заголовок не найден
+146.120.83.43:80 - Welcome to nginx!
+23.13.146.239:80 - Заголовок не найден
+3.215.207.3:80 - Заголовок не найден
+43.245.37.227:80 - 403 Forbidden
+104.156.245.43:80 - Basket Bros | Alt link at www.dunk.monster
+23.213.165.230:80 - Заголовок не найден
+122.51.77.92:80 - Заголовок не найден
