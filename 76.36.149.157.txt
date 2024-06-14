@@ -7898,3 +7898,26 @@ A excelência na Advogacia
 172.66.137.72:80 - Direct IP access not allowed | Cloudflare
 72.175.20.218:80 - 
 121.162.20.43:80 - main page
+54.201.149.192:80 - Заголовок не найден
+191.84.230.59:80 - Заголовок не найден
+38.181.34.50:80 - 400 Bad Request
+124.221.128.227:80 - 404 Not Found
+57.128.114.94:80 - Заголовок не найден
+167.82.13.4:80 - Fastly error: unknown domain 167.82.13.4
+184.26.193.129:80 - Заголовок не найден
+185.12.248.113:80 - Home - 194.68.17.35
+91.155.22.194:80 - 
+18.165.175.88:80 - Заголовок не найден
+104.23.107.46:80 - Direct IP access not allowed | Cloudflare
+209.59.164.31:80 - 403 Forbidden
+52.140.21.255:80 - Your Azure Function App is up and running.
+106.52.157.212:80 - Заголовок не найден
+80.71.28.10:80 - Заголовок не найден
+43.198.80.50:80 - Заголовок не найден
+104.17.168.85:80 - Direct IP access not allowed | Cloudflare
+121.5.253.173:80 - buddy的个人小站
+43.206.71.226:80 - 503 Service Temporarily Unavailable
+42.116.160.99:80 - 
+37.152.153.131:80 - 
+43.253.222.46:80 - Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports &amp; Videos
+120.79.128.198:80 - 403 Forbidden
