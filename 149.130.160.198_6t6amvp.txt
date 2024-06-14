@@ -3948,3 +3948,137 @@
 127.65.175.145:80 - IIS Windows Server
 119.238.248.52:80 - SECURILOCK�W
 104.83.38.30:80 - Заголовок не найден
+106.12.151.161:80 - 404 Not Found
+127.229.208.177:80 - IIS Windows Server
+23.38.227.112:80 - Заголовок не найден
+104.90.201.131:80 - Заголовок не найден
+104.76.75.140:80 - Заголовок не найден
+172.245.136.95:80 - Заголовок не найден
+165.232.97.29:80 - 404 Not Found
+62.80.175.55:80 - RouterOS router configuration page
+127.175.218.176:80 - IIS Windows Server
+188.241.75.121:80 - Заголовок не найден
+23.207.137.131:80 - Заголовок не найден
+193.137.46.168:80 - Заголовок не найден
+127.101.24.48:80 - IIS Windows Server
+103.24.86.254:80 - Please wait, the login page is opening...
+127.240.22.9:80 - IIS Windows Server
+164.90.198.110:80 - Заголовок не найден
+3.78.156.193:80 - 404 Not Found
+18.64.10.233:80 - Заголовок не найден
+104.24.222.219:80 - Direct IP access not allowed | Cloudflare
+35.223.8.237:80 - Заголовок не найден
+59.110.158.94:80 - 专注EDI和MFT解决方案 - 为企业提供电子数据交换EDI和文件传输MFT、文件网关和B2B集成解决方案
+187.132.241.94:80 - 
+63.44.106.227:80 - 1700 Crotona Park East -> Login
+89.213.5.221:80 - Alife RP
+91.230.230.246:80 - Welcome to nginx!
+127.79.28.35:80 - IIS Windows Server
+123.195.178.81:80 - 
+45.78.28.5:80 - Welcome to nginx!
+127.60.78.56:80 - IIS Windows Server
+127.20.39.91:80 - IIS Windows Server
+127.42.107.228:80 - IIS Windows Server
+94.20.59.167:80 - Заголовок не найден
+77.55.78.24:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+212.43.110.25:80 - 
+199.232.88.129:80 - Fastly error: unknown domain 199.232.88.129
+159.69.234.173:80 - Apache HTTP Server Test Page powered by CentOS
+18.244.199.52:80 - Заголовок не найден
+18.238.142.163:80 - Заголовок не найден
+104.71.177.153:80 - Заголовок не найден
+127.153.82.207:80 - IIS Windows Server
+152.136.167.187:80 - 403 Forbidden
+89.116.250.23:80 - Direct IP access not allowed | Cloudflare
+127.183.96.98:80 - IIS Windows Server
+96.7.1.223:80 - Заголовок не найден
+127.32.195.112:80 - IIS Windows Server
+127.81.69.79:80 - IIS Windows Server
+210.189.174.216:80 - Заголовок не найден
+127.90.99.152:80 - IIS Windows Server
+108.223.67.14:80 - Заголовок не найден
+66.220.5.224:80 - HURRICANE ELECTRIC
+104.76.132.110:80 - Заголовок не найден
+127.84.111.92:80 - IIS Windows Server
+127.19.194.66:80 - IIS Windows Server
+190.189.145.173:80 - Заголовок не найден
+52.168.142.48:80 - Microsoft Azure Web App - Error 404
+122.117.197.105:80 - 
+103.195.210.6:80 - 404 Not Found
+2.18.57.244:80 - Заголовок не найден
+34.122.153.122:80 - 404 Not Found
+127.66.167.83:80 - IIS Windows Server
+146.88.173.190:80 - Заголовок не найден
+23.58.70.197:80 - Заголовок не найден
+85.143.252.74:80 - Welcome to nginx!
+192.81.208.66:80 - Default Site
+127.133.22.97:80 - IIS Windows Server
+127.3.226.97:80 - IIS Windows Server
+127.111.144.73:80 - IIS Windows Server
+127.175.238.233:80 - IIS Windows Server
+127.109.14.202:80 - IIS Windows Server
+23.63.120.4:80 - Заголовок не найден
+156.253.15.231:80 - Заголовок не найден
+47.111.246.205:80 - 3d-cloud-platform-frontend
+91.219.221.204:80 - RouterOS router configuration page
+104.20.66.75:80 - Direct IP access not allowed | Cloudflare
+127.252.112.12:80 - IIS Windows Server
+127.50.225.145:80 - IIS Windows Server
+177.44.136.111:80 - Intelbras
+104.20.129.240:80 - Direct IP access not allowed | Cloudflare
+198.200.62.156:80 - æ²¡ææ¾å°ç«ç¹
+127.99.4.170:80 - IIS Windows Server
+132.148.45.170:80 - CHANGE Adventure Camp | CHANGE Adventure Camp
+34.195.248.35:80 - Home - Top 10 Anti Virus Soft
+127.162.185.66:80 - IIS Windows Server
+127.241.166.87:80 - IIS Windows Server
+23.49.62.99:80 - Заголовок не найден
+99.18.160.147:80 - Login
+127.91.168.84:80 - IIS Windows Server
+1.175.169.48:80 - 
+20.218.156.224:80 - Sign in · GitLab
+92.123.166.96:80 - Заголовок не найден
+127.53.56.253:80 - IIS Windows Server
+8.215.152.102:80 - 阿里云 Web应用防火墙
+213.16.88.60:80 - Заголовок не найден
+23.195.229.188:80 - Заголовок не найден
+127.230.212.120:80 - IIS Windows Server
+127.111.87.149:80 - IIS Windows Server
+104.24.56.111:80 - Direct IP access not allowed | Cloudflare
+127.2.8.210:80 - IIS Windows Server
+127.230.179.92:80 - IIS Windows Server
+2.23.196.32:80 - Заголовок не найден
+127.136.157.147:80 - IIS Windows Server
+127.69.51.45:80 - IIS Windows Server
+127.205.229.117:80 - IIS Windows Server
+72.255.2.23:80 - Заголовок не найден
+43.139.158.96:80 - Welcome to nginx!
+179.52.141.151:80 - 
+127.208.50.240:80 - IIS Windows Server
+82.223.83.23:80 - Santé Sécurité et risques professionnels au travail
+18.161.101.60:80 - Заголовок не найден
+116.198.224.68:80 - 404 Not Found
+104.16.219.234:80 - Direct IP access not allowed | Cloudflare
+160.124.136.242:80 - 404 Not Found
+127.99.42.112:80 - IIS Windows Server
+127.82.224.249:80 - IIS Windows Server
+23.53.78.155:80 - Заголовок не найден
+127.251.162.121:80 - IIS Windows Server
+157.230.107.240:80 - Заголовок не найден
+127.26.186.82:80 - IIS Windows Server
+45.84.206.99:80 - Oops, something lost
+119.45.24.237:80 - æ²¡ææ¾å°ç«ç¹
+92.205.16.156:80 - Web Server's Default Page
+74.70.228.130:80 - index
+37.255.229.86:80 - WEB SERVICE
+127.224.73.219:80 - IIS Windows Server
+78.141.233.96:80 - Заголовок не найден
+186.6.133.50:80 - 
+127.249.91.212:80 - IIS Windows Server
+13.32.115.47:80 - Заголовок не найден
+47.88.106.240:80 - Заголовок не найден
+127.39.19.48:80 - IIS Windows Server
+123.60.159.135:80 - &#2894;&#13420;&#21392;&#33910;&#36479;&#47694;&#31900;&#62603;&#49230;&#18510;
+127.92.65.75:80 - IIS Windows Server
+57.128.47.97:80 - Apache2 Ubuntu Default Page: It works
+172.122.107.235:80 - Заголовок не найден
