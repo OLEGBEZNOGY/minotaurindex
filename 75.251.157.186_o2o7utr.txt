@@ -10860,3 +10860,20 @@ Mediamonitor.it powered by +voce
 54.240.176.51:80 - Заголовок не найден
 184.29.132.249:80 - Заголовок не найден
 179.97.0.209:80 - 500 Internal Server Error
+38.162.109.207:80 - 403 Forbidden
+184.26.65.74:80 - Заголовок не найден
+136.244.64.79:80 - Unknown Domain
+154.217.17.99:80 - æ²¡ææ¾å°ç«ç¹
+52.200.205.176:80 - Ricardo Taveira
+178.32.98.229:80 - 404 Not Found
+23.37.224.217:80 - Заголовок не найден
+74.208.129.210:80 - Ad+ for Publishers - Website, APP, Video, CTV, Audio Monetization by Ad Plus
+64.32.117.19:80 - 
+35.178.85.136:80 - 503 Service Temporarily Unavailable
+23.199.186.73:80 - Заголовок не найден
+188.213.171.43:80 - Заголовок не найден
+148.135.93.213:80 - Welcome to nginx!
+192.126.192.98:80 - ERROR: The requested URL could not be retrieved
+23.202.137.14:80 - Заголовок не найден
+87.110.222.235:80 - 403 Forbidden
+193.19.179.153:80 - 500 Internal Server Error
