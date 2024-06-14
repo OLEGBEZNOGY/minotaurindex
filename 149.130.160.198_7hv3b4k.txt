@@ -12371,3 +12371,110 @@
 68.171.52.31:80 - Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
 104.252.192.78:80 - 404 Not Found
 45.66.89.2:80 - 404 Not Found
+127.133.15.118:80 - IIS Windows Server
+44.198.33.202:80 - Apache2 Ubuntu Default Page: It works
+190.176.222.74:80 - Заголовок не найден
+119.29.219.96:80 - 营养配餐系统 -- 登录
+17.253.53.73:80 - Заголовок не найден
+23.225.90.49:80 - æ­åï¼ç«ç¹åå»ºæåï¼
+82.223.204.21:80 - Web Server's Default Page
+76.153.26.153:80 - 
+184.24.1.183:80 - Заголовок не найден
+127.45.46.37:80 - IIS Windows Server
+169.62.150.27:80 - Download driver, Firmware and software - DriversWizard.com
+186.113.6.10:80 - Заголовок не найден
+127.78.240.183:80 - IIS Windows Server
+81.56.223.100:80 - Заголовок не найден
+127.148.142.139:80 - IIS Windows Server
+148.101.56.49:80 - 
+154.220.236.31:80 - 404 Not Found
+45.146.27.173:80 - Apache2 Debian Default Page: It works
+127.199.218.138:80 - IIS Windows Server
+104.90.248.176:80 - Заголовок не найден
+50.118.161.91:80 - 404 Not Found
+74.143.70.33:80 - 
+23.91.73.111:80 - Заголовок не найден
+86.214.26.104:80 - 
+3.93.207.226:80 - Welcome to nginx!
+163.1.42.46:80 - Firewall Notification
+96.44.169.71:80 - Page not found
+127.15.16.8:80 - IIS Windows Server
+5.161.77.139:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+85.10.156.129:80 - Заголовок не найден
+127.211.127.84:80 - IIS Windows Server
+127.199.194.252:80 - IIS Windows Server
+96.91.120.177:80 - WEB SERVICE
+127.116.222.156:80 - IIS Windows Server
+127.141.74.184:80 - IIS Windows Server
+77.68.123.200:80 - Web Server's Default Page
+127.10.119.254:80 - IIS Windows Server
+216.169.79.131:80 - Login Page
+18.66.135.161:80 - Заголовок не найден
+148.0.225.147:80 - 
+127.222.227.211:80 - IIS Windows Server
+127.205.176.42:80 - IIS Windows Server
+127.41.58.83:80 - IIS Windows Server
+162.191.238.150:80 - Building Operation
+18.155.255.250:80 - Заголовок не найден
+39.56.9.178:80 - Заголовок не найден
+52.64.208.12:80 - Заголовок не найден
+127.211.192.247:80 - IIS Windows Server
+185.170.113.220:80 - Aifinity &#8211; Eine weitere WordPress-Website
+216.185.214.155:80 - Test Page for the Centmin Mod Nginx HTTP Server
+23.41.191.82:80 - Заголовок не найден
+118.214.43.231:80 - Заголовок не найден
+45.196.220.173:80 - 404 Not Found
+63.34.252.51:80 - Заголовок не найден
+18.154.218.239:80 - Заголовок не найден
+18.64.144.155:80 - Заголовок не найден
+52.49.148.110:80 - Touch
+35.224.80.37:80 - Site Not Configured | 404 Not Found
+67.251.68.84:80 - 
+127.240.186.97:80 - IIS Windows Server
+167.94.170.41:80 - 403 Forbidden
+3.113.127.40:80 - 400 The plain HTTP request was sent to HTTPS port
+107.163.46.207:80 - 400 Bad Request
+127.55.89.251:80 - IIS Windows Server
+23.212.113.165:80 - Заголовок не найден
+140.99.209.85:80 - Apache2 Ubuntu Default Page: It works
+3.131.200.235:80 - Заголовок не найден
+159.192.170.255:80 - &#72;&#56;&#49;&#48;&#50;&#69;
+103.41.91.90:80 - Apache2 Ubuntu Default Page: It works
+212.230.231.219:80 - 
+127.242.206.126:80 - IIS Windows Server
+52.85.157.170:80 - Заголовок не найден
+18.67.222.238:80 - Заголовок не найден
+69.163.238.163:80 - Site not found &middot; DreamHost
+127.160.4.83:80 - IIS Windows Server
+127.198.250.103:80 - IIS Windows Server
+120.76.217.71:80 - 403 Forbidden
+210.24.43.146:80 - 403 - Forbidden: Access is denied.
+23.47.76.209:80 - Заголовок не найден
+185.25.95.12:80 - Заголовок не найден
+69.51.68.50:80 - Заголовок не найден
+3.162.6.10:80 - Заголовок не найден
+127.159.251.35:80 - IIS Windows Server
+127.71.148.161:80 - IIS Windows Server
+127.248.51.176:80 - IIS Windows Server
+31.45.34.175:80 - Заголовок не найден
+54.192.124.20:80 - Заголовок не найден
+54.207.15.155:80 - Laravel
+190.166.224.1:80 - 
+83.169.30.69:80 - Host Europe GmbH
+69.55.55.208:80 - phpinfo()
+95.100.65.8:80 - Заголовок не найден
+38.47.228.181:80 - 请使用域名访问
+2.192.161.44:80 - 
+104.67.190.176:80 - Заголовок не найден
+74.72.145.61:80 - 
+127.176.139.184:80 - IIS Windows Server
+104.25.151.37:80 - Direct IP access not allowed | Cloudflare
+127.55.80.238:80 - IIS Windows Server
+82.180.153.62:80 - 403 Forbidden
+52.0.204.17:80 - DentalEZ - Smart Utility
+14.94.13.124:80 - main page
+104.206.246.164:80 - 404 Not Found
+52.235.19.120:80 - Your Azure Function App is up and running.
+128.173.78.119:80 - Заголовок не найден
+133.236.227.67:80 - Заголовок не найден
+119.3.240.176:80 - æ²¡ææ¾å°ç«ç¹
