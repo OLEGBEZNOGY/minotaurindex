@@ -391,3 +391,118 @@
 38.33.39.97:80 - Заголовок не найден
 162.214.252.72:80 - æ²¡ææ¾å°ç«ç¹
 104.22.28.236:80 - Direct IP access not allowed | Cloudflare
+13.249.68.56:80 - Заголовок не найден
+95.179.183.207:80 - FASTPANEL
+129.146.49.206:80 - 502 Bad Gateway
+35.75.74.204:80 - 403 Forbidden
+78.141.219.226:80 - Заголовок не найден
+4.149.230.188:80 - Your Azure Function App is up and running.
+76.191.114.249:80 - Index of /
+85.207.58.138:80 - Заголовок не найден
+138.44.66.220:80 - ACME Access Only
+79.172.235.77:80 - 
+3.16.161.38:80 - Apache2 Ubuntu Default Page: Why so serious
+112.186.32.166:80 - IIS7
+162.144.18.132:80 - Not Acceptable!
+104.16.120.248:80 - Direct IP access not allowed | Cloudflare
+208.71.105.159:80 - 403 Forbidden
+66.150.186.188:80 - Заголовок не найден
+201.219.74.155:80 - .::Welcome to the Web-Based Configurator::.
+52.73.234.179:80 - Error
+64.22.72.184:80 - Заголовок не найден
+91.190.224.44:80 - 403 Forbidden
+92.46.93.99:80 - GPON Home Gateway
+65.21.106.223:80 - 404 Not Found
+20.157.191.178:80 - Заголовок не найден
+204.13.48.99:80 - Coming Soon
+18.154.33.124:80 - Заголовок не найден
+20.94.160.131:80 - Заголовок не найден
+93.115.119.168:80 - Hop Garden | Acasa
+84.16.87.51:80 - web host not found
+52.254.112.0:80 - StarRez Housing
+201.221.187.128:80 - 
+35.86.26.66:80 - Заголовок не найден
+179.53.177.199:80 - 
+196.14.119.23:80 - Заголовок не найден
+104.116.122.30:80 - Заголовок не найден
+129.213.131.175:80 - Заголовок не найден
+20.105.119.63:80 - Your Azure Function App is up and running.
+164.46.38.181:80 - 403 Forbidden ã¢ã¯ã»ã¹ãç¦æ­¢ããã¦ãã¾ã
+184.30.96.120:80 - Заголовок не найден
+193.70.115.176:80 - Accès Web CKEL
+67.199.17.55:80 - Artin Services, Inc.  |  artinservices.com &copy;2007 Artin Services, Inc. 
+
+                &#8226; Artin services proudly provides quality services in: Roofing 
+
+                &#8226; Siding &#8226; Guttering &#8226; Windows, &amp; Skylights 
+
+                &#8226; to the areas of : Springfield &#8226; Burke &#8226; Woodbridge 
+
+                &#8226; Dalecity &#8226; Manassas &#8226; lorton &#8226; Alexandria 
+
+                &#8226; Arlington &#8226; Falls church &#8226; great falls &#8226; 
+
+                mclean &#8226; Fairfax &#8226; Reston, &amp; Centerville in Virginia 
+
+                &#8226; and all of Montgomery county Maryland.
+35.200.74.78:80 - Apache HTTP Server Test Page powered by CentOS
+156.240.48.198:80 - 403 Forbidden
+37.151.4.11:80 - GPON Home Gateway
+104.85.138.154:80 - Заголовок не найден
+109.71.214.39:80 - Ubiquiti
+13.124.1.95:80 - Welcome to LiveRe.com
+192.161.182.56:80 - Заголовок не найден
+3.23.122.103:80 - Member Site
+2.22.157.189:80 - Заголовок не найден
+88.220.84.98:80 - 
+23.206.152.228:80 - Заголовок не найден
+103.120.58.31:80 - Please wait, the login page is loading...
+18.238.189.118:80 - Заголовок не найден
+94.23.173.98:80 - mailcow UI
+216.59.19.45:80 - Заголовок не найден
+66.220.16.187:80 - HURRICANE ELECTRIC
+38.174.183.7:80 - Welcome to nginx!
+192.185.28.188:80 - Not Acceptable!
+23.9.77.145:80 - Заголовок не найден
+106.51.1.225:80 - 
+23.194.18.211:80 - Заголовок не найден
+154.91.62.156:80 - 404 Not Found
+23.222.62.119:80 - Заголовок не найден
+45.32.181.183:80 - Заголовок не найден
+142.234.202.188:80 - 407 Proxy Authentication Required
+1.54.118.206:80 - ERP SOF
+95.167.161.62:80 - 404 Not Found
+38.28.169.117:80 - 403 Forbidden
+109.71.246.146:80 - 404 Not Found
+2.22.188.234:80 - Заголовок не найден
+38.152.207.191:80 - ERROR: The requested URL could not be retrieved
+34.251.94.23:80 - Welcome to nginx!
+23.208.59.85:80 - Заголовок не найден
+23.202.239.63:80 - Заголовок не найден
+63.142.180.202:80 - Заголовок не найден
+23.15.60.33:80 - Заголовок не найден
+14.0.86.45:80 - 403 Forbidden
+185.33.86.68:80 - 403 Forbidden
+72.247.170.162:80 - Заголовок не найден
+128.245.83.103:80 - 403 - Forbidden: Access is denied.
+67.217.49.36:80 - 404 Not Found
+194.213.123.147:80 - 
+3.129.82.126:80 - Welcome to MeganSoft Internet of Things.
+23.45.8.54:80 - Заголовок не найден
+167.160.169.246:80 - Apache HTTP Server Test Page powered by CentOS
+184.74.149.130:80 - Document Moved
+146.75.97.152:80 - Fastly error: unknown domain 146.75.97.152
+23.64.177.131:80 - Заголовок не найден
+51.158.26.95:80 - Index of /
+151.101.72.113:80 - Fastly error: unknown domain 151.101.72.113
+38.48.202.152:80 - 404 Not Found
+104.84.18.47:80 - Заголовок не найден
+184.30.61.69:80 - Заголовок не найден
+18.197.71.232:80 - Welcome to nginx!
+103.37.110.160:80 - Заголовок не найден
+51.81.52.204:80 - Welcome to nginx!
+46.166.92.5:80 - Школа - Главная страница
+23.231.190.132:80 - 404 Not Found
+104.104.93.151:80 - Заголовок не найден
+96.9.51.252:80 - 403 Forbidden
+43.155.188.44:80 - Заголовок не найден
