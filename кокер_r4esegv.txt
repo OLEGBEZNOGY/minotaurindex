@@ -1,0 +1,10 @@
+212.141.104.202:80 - Determining Broadband Network Type
+207.34.202.148:80 - Determining Broadband Network Type
+45.183.102.33:80 - Determining Broadband Network Type
+212.88.13.120:80 - Determining Broadband Network Type
+62.68.64.166:80 - Determining Broadband Network Type
+115.15.67.136:80 - Server Error
+19.216.200.160:80 - Server Error
+2.244.16.22:80 - Server Error
+83.204.133.156:80 - Server Error
+3.105.208.134:80 - Server Error
