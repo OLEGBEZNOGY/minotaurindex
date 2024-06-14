@@ -20699,3 +20699,47 @@ ay
 127.248.44.50:80 - IIS Windows Server
 127.200.195.238:80 - IIS Windows Server
 127.248.22.51:80 - IIS Windows Server
+127.248.180.250:80 - IIS Windows Server
+127.26.253.174:80 - IIS Windows Server
+127.179.157.55:80 - IIS Windows Server
+109.221.80.103:80 - Заголовок не найден
+79.96.196.14:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+69.164.210.77:80 - 404 Not Found
+43.159.131.47:80 - 404 Not Found
+127.54.178.112:80 - IIS Windows Server
+149.129.141.61:80 - Заголовок не найден
+104.221.135.227:80 - 404 Not Found
+8.130.23.243:80 - Заголовок не найден
+20.121.111.251:80 - Заголовок не найден
+127.41.135.115:80 - IIS Windows Server
+104.112.47.27:80 - Заголовок не найден
+127.247.98.15:80 - IIS Windows Server
+23.215.239.103:80 - Заголовок не найден
+162.243.197.81:80 - Заголовок не найден
+4.234.18.179:80 - Your Azure Function App is up and running.
+127.34.127.15:80 - IIS Windows Server
+104.206.39.51:80 - 403 Forbidden
+107.191.57.102:80 - Заголовок не найден
+45.148.20.108:80 - Error
+38.154.96.145:80 - ERROR: The requested URL could not be retrieved
+178.168.44.150:80 - 403 Forbidden
+15.207.48.97:80 - Заголовок не найден
+127.71.11.39:80 - IIS Windows Server
+23.231.238.74:80 - æ²¡ææ¾å°ç«ç¹
+127.130.30.136:80 - IIS Windows Server
+127.102.173.47:80 - IIS Windows Server
+172.67.142.238:80 - Direct IP access not allowed | Cloudflare
+127.17.29.23:80 - IIS Windows Server
+127.67.228.45:80 - IIS Windows Server
+198.199.110.4:80 - 404 Not Found
+127.82.186.178:80 - IIS Windows Server
+111.202.147.241:80 - Заголовок не найден
+87.98.224.249:80 - Apache2 Debian Default Page: It works
+141.101.90.7:80 - Direct IP access not allowed | Cloudflare
+184.50.183.118:80 - Заголовок не найден
+188.88.231.68:80 - InfluxDB
+38.63.9.211:80 - 404 Not Found
+161.111.205.44:80 - Заголовок не найден
+127.250.248.121:80 - IIS Windows Server
+143.198.132.3:80 - Home | AFY Test
+20.103.219.234:80 - Your Azure Function App is up and running.
