@@ -8233,3 +8233,45 @@
 210.95.105.151:80 - Заголовок не найден
 154.216.96.111:80 - 403 Forbidden
 88.212.138.150:80 - IIS Windows Server
+135.148.118.18:80 - 401 Authorization Required
+49.191.211.156:80 - Заголовок не найден
+122.216.138.96:80 - 403 Forbidden
+18.155.135.107:80 - Заголовок не найден
+184.24.136.55:80 - Заголовок не найден
+18.102.153.1:80 - 502 Bad Gateway
+153.127.198.103:80 - Apache HTTP Server Test Page powered by CentOS
+146.190.125.49:80 - Te asesoramos GRATIS con tu plan de salud - AsesoraIsapre.cl
+127.39.243.13:80 - Welcome to XAMPP
+199.232.215.199:80 - Fastly error: unknown domain 199.232.215.199
+127.8.41.64:80 - Welcome to XAMPP
+79.96.24.44:80 - Заголовок не найден
+127.87.103.95:80 - Welcome to XAMPP
+148.0.179.176:80 - 
+23.53.217.13:80 - Заголовок не найден
+23.235.130.231:80 - 403 Forbidden
+127.219.164.155:80 - Welcome to XAMPP
+77.238.122.187:80 - Заголовок не найден
+41.0.34.166:80 - Web Filter Violation
+190.158.141.78:80 - Заголовок не найден
+73.168.111.13:80 - 
+40.68.159.99:80 - Microsoft Azure Web App - Error 404
+167.172.236.202:80 - SLOT HACKER&gt; SLOT HACKER, SLOTHACKER, daftar SLOT HACKER, link alterna
+
+ &ndash; SLOT HACKER
+160.8.41.51:80 - 404 URL Not Found
+127.244.144.249:80 - Welcome to XAMPP
+68.171.35.70:80 - Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
+127.1.119.64:80 - Welcome to XAMPP
+222.127.76.108:80 - Заголовок не найден
+23.4.132.75:80 - Заголовок не найден
+68.33.57.147:80 - index
+198.200.37.120:80 - Заголовок не найден
+185.85.248.21:80 - Access forbidden!
+54.77.246.51:80 - Заголовок не найден
+119.200.45.33:80 - IIS Windows
+127.204.223.237:80 - Welcome to XAMPP
+168.158.199.59:80 - Заголовок не найден
+111.75.178.200:80 - 404 Not Found
+23.220.91.80:80 - Заголовок не найден
+142.93.154.17:80 - Welcome to nginx!
+172.105.52.11:80 - 502 Bad Gateway
