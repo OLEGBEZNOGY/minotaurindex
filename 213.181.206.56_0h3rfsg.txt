@@ -6787,3 +6787,204 @@
 127.72.109.179:80 - Welcome to XAMPP
 127.76.99.63:80 - Welcome to XAMPP
 121.37.134.128:80 - Welcome to nginx!
+3.230.214.209:80 - Заголовок не найден
+175.100.0.21:80 - 
+13.39.169.209:80 - Заголовок не найден
+159.203.95.201:80 - About | Ian Fitzpatrick
+129.93.168.83:80 - Заголовок не найден
+219.99.220.182:80 - Заголовок не найден
+92.222.73.171:80 - Core + Admin Template | Core + Admin Template
+52.217.236.65:80 - Amazon S3 - Cloud Object Storage  - AWS
+127.133.210.118:80 - Welcome to XAMPP
+108.156.97.114:80 - Заголовок не найден
+127.177.21.142:80 - Welcome to XAMPP
+127.95.216.50:80 - Welcome to XAMPP
+127.27.192.176:80 - Welcome to XAMPP
+127.120.220.60:80 - Welcome to XAMPP
+134.213.243.179:80 - 403 Forbidden
+136.228.245.6:80 - Page Restricted
+87.242.106.22:80 - FASTPANEL
+127.28.81.226:80 - Welcome to XAMPP
+45.43.231.217:80 - 鼎盛平台官网入口_鼎盛平台app下载-鼎盛app下载安装
+40.86.180.139:80 - Page Redirection
+127.244.37.115:80 - Welcome to XAMPP
+127.53.150.34:80 - Welcome to XAMPP
+212.236.202.165:80 - Apache HTTP Server Test Page powered by CentOS
+185.228.232.14:80 - Coming Soon - news.blackhatworld.com
+84.19.161.97:80 - Fahrbücherei Kreis Plön | Fahrbüchereien
+182.40.55.13:80 - Заголовок не найден
+79.96.150.73:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+127.185.18.239:80 - Welcome to XAMPP
+69.85.66.211:80 - Ubiquiti
+127.66.246.131:80 - Welcome to XAMPP
+68.114.88.12:80 - 
+23.21.51.1:80 - 404 Not Found
+150.242.14.242:80 - Web Server's Default Page
+23.215.152.81:80 - Заголовок не найден
+23.200.212.193:80 - Заголовок не найден
+110.41.217.235:80 - Заголовок не найден
+141.226.173.22:80 - Logon
+107.185.159.28:80 - index
+127.204.228.40:80 - Welcome to XAMPP
+3.161.156.66:80 - Заголовок не найден
+127.47.237.195:80 - Welcome to XAMPP
+116.178.75.207:80 - 403 Forbidden
+108.158.242.187:80 - Заголовок не найден
+127.249.36.215:80 - Welcome to XAMPP
+95.100.5.44:80 - Заголовок не найден
+127.26.43.72:80 - Welcome to XAMPP
+198.15.188.41:80 - 500 Internal Server Error
+18.233.61.71:80 - 404 Not Found
+94.152.62.223:80 - Заголовок не найден
+127.33.56.86:80 - Welcome to XAMPP
+192.81.217.150:80 - aquaron/anle
+191.102.30.155:80 - ZC-521
+193.246.162.24:80 - Login – Nextcloud
+50.225.43.92:80 - index
+127.193.26.199:80 - Welcome to XAMPP
+111.32.202.205:80 - 403 Forbidden
+15.184.196.253:80 - 503 Service Temporarily Unavailable
+88.247.206.63:80 - 
+104.25.16.253:80 - Direct IP access not allowed | Cloudflare
+184.67.230.226:80 - 
+96.233.157.199:80 - Southeastern Mass Paws Of Comfort Lions Club
+1.171.212.249:80 - Заголовок не найден
+87.255.228.98:80 - RouterOS router configuration page
+96.43.135.3:80 - Virtualmin
+4.225.78.3:80 - Your Azure Function App is up and running.
+127.187.226.99:80 - Welcome to XAMPP
+24.234.19.230:80 - Document Moved
+51.116.169.13:80 - SFTP Gateway
+202.229.133.84:80 - Заголовок не найден
+127.227.99.9:80 - Welcome to XAMPP
+127.21.0.237:80 - Welcome to XAMPP
+67.205.45.242:80 - tlhheliskiing.com is almost here!
+185.29.24.47:80 - Web Server's Default Page
+127.231.177.215:80 - Welcome to XAMPP
+125.229.147.149:80 - Заголовок не найден
+127.150.208.117:80 - Welcome to XAMPP
+118.214.240.23:80 - Заголовок не найден
+18.65.113.220:80 - Заголовок не найден
+127.233.92.103:80 - Welcome to XAMPP
+196.168.29.130:80 - RouterOS router configuration page
+173.223.212.16:80 - Заголовок не найден
+127.250.77.116:80 - Welcome to XAMPP
+67.227.136.63:80 - 403 Forbidden
+118.214.108.70:80 - Заголовок не найден
+152.89.128.79:80 - ERROR: The requested URL could not be retrieved
+23.211.184.92:80 - Заголовок не найден
+47.108.254.206:80 - 阿里云万网虚机IP访问报错提示
+118.47.221.59:80 - 춘천시 시내버스노선
+127.181.215.175:80 - Welcome to XAMPP
+24.183.217.241:80 - 
+1.180.27.187:80 - 403 - Forbidden
+127.84.28.208:80 - Welcome to XAMPP
+69.85.67.216:80 - Ubiquiti
+127.105.193.111:80 - Welcome to XAMPP
+38.99.114.39:80 - IIS Windows Server
+127.68.10.10:80 - Welcome to XAMPP
+127.225.160.21:80 - Welcome to XAMPP
+127.214.39.253:80 - Welcome to XAMPP
+18.244.121.29:80 - Заголовок не найден
+3.80.42.220:80 - Заголовок не найден
+127.106.248.115:80 - Welcome to XAMPP
+47.100.83.94:80 - vel-admin-web
+127.8.16.184:80 - Welcome to XAMPP
+127.4.27.248:80 - Welcome to XAMPP
+54.222.242.239:80 - Welcome to nginx!
+184.31.155.12:80 - Заголовок не найден
+127.111.230.100:80 - Welcome to XAMPP
+38.196.130.44:80 - 500 Internal Server Error
+104.123.200.212:80 - Заголовок не найден
+211.87.202.220:80 - 404 Not Found
+94.152.11.102:80 - Domena utrzymywana jest w cyber_Folks
+212.109.204.240:80 - Welcome to nginx!
+172.67.104.203:80 - Direct IP access not allowed | Cloudflare
+3.105.190.198:80 - IIS Windows Server
+157.230.7.142:80 - Default Site
+77.71.113.211:80 - Revive Adserver
+23.222.8.109:80 - Заголовок не найден
+23.40.3.22:80 - Заголовок не найден
+67.9.39.97:80 - 
+23.213.175.38:80 - Заголовок не найден
+69.144.217.227:80 - Заголовок не найден
+181.25.5.43:80 - Заголовок не найден
+59.126.65.59:80 - 
+136.144.140.27:80 - Touchpix converter
+23.215.239.106:80 - Заголовок не найден
+179.53.161.34:80 - 
+23.193.250.143:80 - Заголовок не найден
+2.23.237.94:80 - Заголовок не найден
+117.68.72.180:80 - 403 Forbidden
+52.218.96.27:80 - Amazon S3 - Cloud Object Storage  - AWS
+20.8.230.80:80 - Your Azure Function App is up and running.
+127.182.78.181:80 - Welcome to XAMPP
+157.90.181.222:80 - FiveM Server
+13.250.82.169:80 - Заголовок не найден
+88.112.108.32:80 - Заголовок не найден
+85.214.174.197:80 - Apache2 Ubuntu Default Page: It works
+143.110.230.137:80 - Xseed Api Documentation
+18.244.123.118:80 - Заголовок не найден
+104.223.12.254:80 - Page not found
+23.37.23.186:80 - Заголовок не найден
+127.96.160.48:80 - Welcome to XAMPP
+43.245.54.73:80 - 
+4.189.94.26:80 - Your Azure Function App is up and running.
+132.226.253.157:80 - Aguarde...
+127.96.226.211:80 - Welcome to XAMPP
+23.37.124.188:80 - Заголовок не найден
+127.62.97.87:80 - Welcome to XAMPP
+108.156.38.179:80 - Заголовок не найден
+1.234.72.236:80 - Заголовок не найден
+127.104.113.169:80 - Welcome to XAMPP
+188.166.53.131:80 - Заголовок не найден
+43.143.73.244:80 - Заголовок не найден
+184.27.139.67:80 - Заголовок не найден
+136.228.227.73:80 - Заголовок не найден
+85.236.158.207:80 - Заголовок не найден
+203.159.35.51:80 - Заголовок не найден
+66.195.75.75:80 - Заголовок не найден
+176.235.232.119:80 - PostOffice | Database Server
+35.153.111.205:80 - Заголовок не найден
+127.43.17.243:80 - Welcome to XAMPP
+51.222.19.142:80 - Centro Educativo Sibarita: Ingresar al sitio
+104.42.126.35:80 - Заголовок не найден
+78.47.63.129:80 - 404 Not Found
+190.199.72.232:80 - 
+127.183.100.155:80 - Welcome to XAMPP
+18.65.167.80:80 - Заголовок не найден
+34.252.172.70:80 - 503 Service Temporarily Unavailable
+138.68.89.227:80 - Würzburg Toastmasters Rhetoric Club
+173.194.68.145:80 - Google
+188.15.178.172:80 - FreePBX Administration
+118.42.53.14:80 - 
+23.192.100.48:80 - Заголовок не найден
+142.250.189.25:80 - Google
+149.96.145.4:80 - 403 Forbidden
+173.222.227.126:80 - Заголовок не найден
+23.199.41.43:80 - Заголовок не найден
+186.7.242.233:80 - 
+127.17.206.222:80 - Welcome to XAMPP
+101.42.150.128:80 - 404 Not Found
+45.32.115.85:80 - Bing
+127.62.129.251:80 - Welcome to XAMPP
+185.221.104.211:80 - 185.221.104.211
+103.170.158.196:80 - Please wait, the page is opening...
+23.53.48.84:80 - Заголовок не найден
+172.233.80.194:80 - Заголовок не найден
+34.91.26.118:80 - 404 Not Found
+108.158.169.92:80 - Заголовок не найден
+147.161.161.8:80 - Internet Security by Zscaler
+57.151.35.60:80 - Azure Container App - Unavailable
+127.43.79.14:80 - Welcome to XAMPP
+18.165.222.130:80 - Заголовок не найден
+23.202.240.72:80 - Заголовок не найден
+18.244.63.196:80 - Заголовок не найден
+195.137.153.63:80 - ePMP
+127.107.39.11:80 - Welcome to XAMPP
+127.203.160.227:80 - Welcome to XAMPP
+160.120.126.70:80 - 
+180.14.192.207:80 - WV-S6530 Network Camera
+163.181.199.161:80 - 403 Forbidden
+71.10.3.174:80 - 
+218.61.163.86:80 - Заголовок не найден
