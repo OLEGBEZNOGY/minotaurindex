@@ -3942,3 +3942,9 @@
 127.199.113.236:80 - IIS Windows Server
 127.110.198.187:80 - IIS Windows Server
 218.7.16.119:80 - é»é¾æ±çå¸å¿æºæ§åæ°è±¡ä¸ºåæå¡ç³»ç»
+127.112.24.255:80 - IIS Windows Server
+127.194.181.98:80 - IIS Windows Server
+185.185.71.237:80 - Apache2 Ubuntu Default Page: It works
+127.65.175.145:80 - IIS Windows Server
+119.238.248.52:80 - SECURILOCK�W
+104.83.38.30:80 - Заголовок не найден
