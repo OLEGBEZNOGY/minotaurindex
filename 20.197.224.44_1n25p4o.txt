@@ -4391,3 +4391,5 @@
 217.61.5.188:80 - Bikini Barista and coffee stands where you can find them - Bikini Baristas
 2.17.184.73:80 - Заголовок не найден
 185.93.38.72:80 - Test Page for the HTTP Server on Red Hat Enterprise Linux
+154.203.105.149:80 - 403 Forbidden
+23.12.0.230:80 - Заголовок не найден
