@@ -6077,3 +6077,27 @@ A excelência na Advogacia
 94.159.2.202:80 - Apache HTTP Server Test Page powered by CentOS
 84.253.117.44:80 - 404 Not Found
 1.94.73.208:80 - Заголовок не найден
+59.5.129.136:80 - 
+148.113.163.112:80 - 403 Forbidden
+50.57.253.23:80 - Coming Soon page
+115.71.237.26:80 - Apache HTTP Server Test Page powered by CentOS
+175.107.196.153:80 - Web Server's Default Page
+45.66.124.116:80 - Î ÎµÏÎ¹Î¼Î­Î½ÎµÏÎµ, Î±Î½Î¿Î¯Î³ÎµÎ¹ Î· ÏÎµÎ»Î¯Î´Î± ÏÏÎ½Î´ÎµÏÎ·Ï...
+167.235.30.50:80 - Заголовок не найден
+104.21.48.116:80 - Direct IP access not allowed | Cloudflare
+23.193.166.101:80 - Заголовок не найден
+54.66.42.96:80 - Apache2 Ubuntu Default Page: It works
+154.56.33.126:80 - 403 Forbidden
+178.174.58.91:80 - Index page
+184.30.12.10:80 - Заголовок не найден
+38.253.138.184:80 - 
+65.9.162.173:80 - Заголовок не найден
+23.197.49.65:80 - Заголовок не найден
+185.41.39.195:80 - Document Moved
+13.227.85.32:80 - Заголовок не найден
+66.11.118.236:80 - Apache2 Ubuntu Default Page: It works
+38.54.153.17:80 - Заголовок не найден
+23.57.235.213:80 - Заголовок не найден
+38.38.222.84:80 - Welcome to nginx!
+208.113.150.83:80 - Site not found &middot; DreamHost
+185.207.89.199:80 - GlassFish Server - Server Running
