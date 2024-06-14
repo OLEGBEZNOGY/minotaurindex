@@ -13675,3 +13675,37 @@
 23.195.178.97:80 - Заголовок не найден
 59.111.140.105:80 - 403 Forbidden
 23.208.251.123:80 - Заголовок не найден
+127.101.180.224:80 - Welcome to XAMPP
+187.243.248.170:80 - Veritiv - Navojoa, Mexico
+161.132.47.114:80 - Заголовок не найден
+127.125.146.184:80 - Welcome to XAMPP
+144.253.25.139:80 - 
+122.166.186.25:80 - 
+127.184.224.92:80 - Welcome to XAMPP
+127.78.58.72:80 - Welcome to XAMPP
+127.168.104.149:80 - Welcome to XAMPP
+123.249.36.47:80 - Заголовок не найден
+127.122.235.235:80 - Welcome to XAMPP
+104.21.6.208:80 - Direct IP access not allowed | Cloudflare
+127.148.144.192:80 - Welcome to XAMPP
+113.198.54.147:80 - L7
+13.114.123.219:80 - No such app
+104.19.3.113:80 - Direct IP access not allowed | Cloudflare
+127.169.49.86:80 - Welcome to XAMPP
+156.234.187.125:80 - 404 Not Found
+127.234.249.164:80 - Welcome to XAMPP
+181.188.45.101:80 - 
+23.56.224.185:80 - Заголовок не найден
+175.6.42.142:80 - Заголовок не найден
+127.165.53.217:80 - Welcome to XAMPP
+178.73.247.210:80 - rts | Just another WordPress site
+127.22.124.88:80 - Welcome to XAMPP
+104.83.64.55:80 - Заголовок не найден
+5.75.196.170:80 - 403 - Forbidden: Access is denied.
+18.155.55.171:80 - Заголовок не найден
+127.250.91.41:80 - Welcome to XAMPP
+192.99.167.223:80 - Apache2 Debian Default Page: It works
+103.102.7.136:80 - Global travel
+93.93.118.25:80 - Web Server's Default Page
+18.141.199.37:80 - Dá»ch vá»¥ Sim/Tháº»
+184.31.98.118:80 - Заголовок не найден
