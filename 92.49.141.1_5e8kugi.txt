@@ -19,3 +19,4 @@
 45.196.254.122:80 - æ²¡ææ¾å°ç«ç¹
 85.13.136.51:80 - 503 Service Temporarily Unavailable
 185.246.66.96:80 - Маркетплейс товаров и услуг Gesbes.website
+80.254.191.108:80 - Web Server's Default Page
