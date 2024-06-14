@@ -746,3 +746,5 @@
 113.171.206.238:80 - Error 404 (Not Found)!!1
 203.23.104.13:80 - Direct IP access not allowed | Cloudflare
 104.16.192.119:80 - Direct IP access not allowed | Cloudflare
+18.236.248.211:80 - GEMA Health
+107.147.216.159:80 - Заголовок не найден
