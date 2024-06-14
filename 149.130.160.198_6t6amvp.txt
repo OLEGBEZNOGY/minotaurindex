@@ -7998,3 +7998,134 @@
 20.185.144.251:80 - 502 Bad Gateway
 209.143.91.143:80 - Заголовок не найден
 121.197.37.37:80 - ç½ç«è®¿é®æ¥é
+64.176.213.210:80 - Clean Blog - Start Bootstrap Theme
+4.255.81.7:80 - 404 Not Found
+85.214.25.29:80 - Web Server's Default Page
+4.158.126.190:80 - Azure Container App - Unavailable
+14.234.147.7:80 - WEB
+127.115.230.164:80 - IIS Windows Server
+127.188.85.114:80 - IIS Windows Server
+189.172.176.61:80 - WEB SERVICE
+127.5.201.105:80 - IIS Windows Server
+3.165.160.146:80 - Заголовок не найден
+62.129.229.156:80 - Amadeus Kancelaria Prawnicza Wroc�aw, ca�odobowe porady prawne On-Line, obs�uga prawna przedsi�biorstw, windykacja, s�d arbitra�owy
+75.65.39.87:80 - 
+23.46.76.24:80 - Заголовок не найден
+3.164.33.29:80 - Заголовок не найден
+66.115.184.26:80 - TGP6.COM - FREE SEX TGP - TGP 6!
+34.80.4.227:80 - Заголовок не найден
+3.220.68.244:80 - Заголовок не найден
+39.97.97.113:80 - RPA Console
+146.71.57.130:80 - 404 Not Found
+109.69.108.223:80 - 407 Proxy Authentication Required
+52.29.16.190:80 - Loading ITFin...
+127.39.105.132:80 - IIS Windows Server
+20.224.233.248:80 - IIS Windows Server
+127.215.29.208:80 - IIS Windows Server
+212.174.37.17:80 - Заголовок не найден
+184.28.33.27:80 - Заголовок не найден
+23.47.213.87:80 - Заголовок не найден
+161.34.15.203:80 - ãã²ãã¨ãºãããããã½ã³ã³æå®¤ãâåéé¡å¤§æ·çºã®ãã½ã³ã³æå®¤â
+127.151.207.95:80 - IIS Windows Server
+68.171.55.50:80 - Default Parallels Plesk Panel Page
+127.100.164.69:80 - IIS Windows Server
+23.58.116.107:80 - Заголовок не найден
+156.239.8.107:80 - 404 Not Found
+179.27.152.230:80 - Apache HTTP Server Test Page powered by CentOS
+176.211.77.84:80 - 
+38.38.161.252:80 - Заголовок не найден
+18.188.231.99:80 - Заголовок не найден
+127.187.30.30:80 - IIS Windows Server
+187.115.205.117:80 - Web managerment Home
+127.37.70.0:80 - IIS Windows Server
+8.209.133.31:80 - Заголовок не найден
+63.134.236.96:80 - Заголовок не найден
+23.50.42.4:80 - Заголовок не найден
+129.211.1.244:80 - Sorry, the website has been stopped
+127.239.147.93:80 - IIS Windows Server
+193.86.185.218:80 - Forbidden
+20.89.105.226:80 - Заголовок не найден
+127.42.33.18:80 - IIS Windows Server
+34.254.84.132:80 - Could not load page
+52.9.111.110:80 - FileMaker Website
+184.31.174.81:80 - Заголовок не найден
+127.209.214.48:80 - IIS Windows Server
+154.197.235.176:80 - 404 Not Found
+127.168.228.117:80 - IIS Windows Server
+127.80.153.205:80 - IIS Windows Server
+122.102.32.164:80 - 
+158.69.112.80:80 - 403 Forbidden
+64.113.168.229:80 - Document Moved
+38.31.232.195:80 - 404 Not Found
+127.193.55.68:80 - IIS Windows Server
+127.253.167.46:80 - IIS Windows Server
+127.189.26.6:80 - IIS Windows Server
+85.153.79.193:80 - Index of /
+104.91.70.90:80 - Заголовок не найден
+35.154.31.233:80 - Заголовок не найден
+103.141.97.67:80 - ç¡å¹ãªURLã§ã
+127.25.55.157:80 - IIS Windows Server
+127.43.90.186:80 - IIS Windows Server
+127.235.94.46:80 - IIS Windows Server
+127.8.111.166:80 - IIS Windows Server
+52.70.241.122:80 - Заголовок не найден
+38.47.152.177:80 - Заголовок не найден
+24.88.211.133:80 - 
+104.198.70.228:80 - Apache2 Debian Default Page: It works
+127.145.134.122:80 - IIS Windows Server
+160.121.111.212:80 - 404 Not Found
+18.64.254.177:80 - Заголовок не найден
+89.161.134.110:80 - Заголовок не найден
+218.230.243.242:80 - 401 -  Àª èÜ¹ñ: iîñª³øÅ é½ßAANZXªÛ³êÜµ½B
+127.211.64.186:80 - IIS Windows Server
+127.42.27.194:80 - IIS Windows Server
+184.29.134.179:80 - Заголовок не найден
+212.34.158.108:80 - IIS7
+127.134.163.251:80 - IIS Windows Server
+104.80.58.22:80 - Заголовок не найден
+18.102.154.247:80 - Page Not Found
+127.21.68.146:80 - IIS Windows Server
+186.57.127.16:80 - Заголовок не найден
+192.250.246.33:80 - 404 Not Found
+154.213.141.245:80 - 403 Forbidden
+127.201.124.255:80 - IIS Windows Server
+127.121.46.29:80 - IIS Windows Server
+127.160.6.121:80 - IIS Windows Server
+23.76.33.121:80 - Заголовок не найден
+54.232.248.210:80 - Заголовок не найден
+90.84.242.89:80 - Заголовок не найден
+152.199.39.103:80 - 404 - Not Found
+81.100.139.95:80 - 
+127.118.203.163:80 - IIS Windows Server
+152.99.169.102:80 - Заголовок не найден
+3.27.46.79:80 - Spring Boot on AWS
+127.59.252.238:80 - IIS Windows Server
+173.44.229.222:80 - 403 Forbidden
+127.244.172.175:80 - IIS Windows Server
+127.206.66.151:80 - IIS Windows Server
+121.36.214.162:80 - å¨æ¸ éç®¡çå¹³å°
+127.167.237.166:80 - IIS Windows Server
+45.248.146.136:80 - 
+119.91.63.208:80 - Welcome to nginx!
+52.84.103.78:80 - Заголовок не найден
+23.207.50.44:80 - Заголовок не найден
+127.223.152.197:80 - IIS Windows Server
+127.1.69.69:80 - IIS Windows Server
+120.46.211.254:80 - 加载中
+91.198.175.30:80 - RouterOS router configuration page
+45.95.90.202:80 - 401 Unauthorized
+104.69.134.95:80 - Заголовок не найден
+170.114.45.133:80 - Direct IP access not allowed | Cloudflare
+106.14.169.222:80 - ZEYA TECH &#8211; Focus on AI and Big Data
+150.158.46.51:80 - æ²¡ææ¾å°ç«ç¹
+185.163.105.153:80 - Apache2 Ubuntu Default Page: It works
+127.148.97.115:80 - IIS Windows Server
+94.136.150.220:80 - NPort Web Console
+8.138.114.162:80 - 欢迎登录兴游竞技管理系统
+185.253.217.242:80 - ROSOB.RU
+154.19.241.85:80 - 403 Forbidden
+104.99.53.41:80 - Заголовок не найден
+127.121.171.141:80 - IIS Windows Server
+5.75.176.107:80 - AutologgStaging &#8211; Just another WordPress site
+127.217.7.59:80 - IIS Windows Server
+107.179.27.89:80 - 404 Not Found
