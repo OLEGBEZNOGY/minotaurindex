@@ -2830,3 +2830,111 @@
 18.217.246.195:80 - 404 Not Found
 134.34.50.218:80 - Brother MFC-L3750CDW series
 172.67.62.17:80 - Direct IP access not allowed | Cloudflare
+185.93.3.75:80 - 403 Forbidden
+181.224.128.203:80 - Заголовок не найден
+23.46.218.224:80 - Заголовок не найден
+104.80.231.149:80 - Заголовок не найден
+38.63.209.210:80 - 404 Not Found
+103.80.240.204:80 - eFinance Bontang
+52.21.97.227:80 - FileMaker Website
+173.201.183.101:80 - Coming Soon
+92.123.181.162:80 - Заголовок не найден
+23.39.250.202:80 - Заголовок не найден
+54.177.219.31:80 - School Manager
+204.232.162.25:80 - Заголовок не найден
+85.153.23.192:80 - Index of /
+210.89.187.141:80 - Заголовок не найден
+104.25.62.134:80 - Direct IP access not allowed | Cloudflare
+200.58.106.19:80 - Dattachat
+96.56.29.181:80 - IIS Windows
+34.143.48.38:80 - Apache2 Debian Default Page: It works
+194.67.101.87:80 - ERROR: The requested URL could not be retrieved
+95.217.32.68:80 - 404 Not Found
+13.56.230.90:80 - Resurface
+65.49.192.232:80 - Welcome to nginx!
+93.127.169.78:80 - 403 Forbidden
+212.237.126.84:80 - RouterOS router configuration page
+69.192.41.127:80 - Заголовок не найден
+43.203.54.120:80 - Заголовок не найден
+65.8.134.48:80 - Заголовок не найден
+104.92.145.24:80 - Заголовок не найден
+46.101.185.136:80 - Заголовок не найден
+52.7.3.189:80 - Metabase
+52.245.232.10:80 - Your Azure Function App is up and running.
+15.207.254.122:80 - award &#8211; Customisation like whatever you want
+139.162.19.76:80 - Apache2 Ubuntu Default Page: It works
+104.253.232.228:80 - 404 Not Found
+199.232.170.254:80 - Fastly error: unknown domain 199.232.170.254
+121.152.85.237:80 - Заголовок не найден
+38.107.84.134:80 - Site Information Page
+104.112.107.189:80 - Заголовок не найден
+164.177.13.231:80 - Document Moved
+3.229.127.99:80 - 503 Service Temporarily Unavailable
+204.246.157.104:80 - Заголовок не найден
+138.185.34.76:80 - Default Site
+108.156.80.206:80 - Заголовок не найден
+34.193.210.84:80 - Заголовок не найден
+65.8.132.143:80 - Заголовок не найден
+3.232.12.139:80 - 503 Service Temporarily Unavailable
+23.196.174.9:80 - Заголовок не найден
+196.51.253.239:80 - ERROR: The requested URL could not be retrieved
+152.231.79.102:80 - WEB SERVICE
+23.200.14.218:80 - Заголовок не найден
+194.135.91.40:80 - The Best Queue Management System - AKIS Technologies
+52.8.54.90:80 - Заголовок не найден
+104.21.57.221:80 - Direct IP access not allowed | Cloudflare
+23.53.55.93:80 - Заголовок не найден
+104.69.63.152:80 - Заголовок не найден
+2.18.39.248:80 - Заголовок не найден
+104.71.116.219:80 - Заголовок не найден
+92.246.139.76:80 - Apache2 Ubuntu Default Page: It works
+20.255.132.194:80 - Заголовок не найден
+23.211.43.207:80 - Заголовок не найден
+173.222.200.135:80 - Заголовок не найден
+88.198.1.75:80 - Heim
+168.206.127.218:80 - 404 Not Found
+86.120.196.146:80 - RouterOS router configuration page
+5.9.196.245:80 - Attention Required! | Cloudflare
+184.27.92.160:80 - Заголовок не найден
+194.195.9.114:80 - Заголовок не найден
+107.158.149.63:80 - Home
+54.239.180.110:80 - Заголовок не найден
+18.164.83.253:80 - Заголовок не найден
+23.26.66.135:80 - Заголовок не найден
+104.20.223.21:80 - Direct IP access not allowed | Cloudflare
+18.136.126.50:80 - RabbitMQ Management
+23.204.82.206:80 - Заголовок не найден
+149.104.185.59:80 - 404 Not Found
+38.165.122.138:80 - 404 Not Found
+148.255.165.189:80 - 
+190.147.251.129:80 - Playpoint - Diversiòn a tu alcance!
+62.144.46.248:80 - Заголовок не найден
+99.142.69.205:80 - AT&T WiFi Portal
+171.248.33.41:80 - 
+3.0.81.55:80 - Test Page for the Apache HTTP Server on Amazon Linux AMI
+20.198.212.211:80 - 404 Not Found
+79.96.18.158:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+63.33.215.0:80 - RStudio: Browser Not Supported
+104.87.230.42:80 - Заголовок не найден
+104.27.207.229:80 - Direct IP access not allowed | Cloudflare
+217.194.212.107:80 - Domain Default page
+3.112.175.0:80 - 502 Bad Gateway
+13.127.176.205:80 - Login - 
+            MSKVY
+52.219.132.113:80 - Amazon S3 - Cloud Object Storage  - AWS
+209.126.105.137:80 - Заголовок не найден
+23.92.24.240:80 - Заголовок не найден
+207.188.232.136:80 - Заголовок не найден
+104.96.160.68:80 - Заголовок не найден
+96.7.183.148:80 - Заголовок не найден
+172.221.236.205:80 - 
+18.144.120.194:80 - FileMaker Website
+123.17.208.251:80 - 
+13.226.101.156:80 - Заголовок не найден
+188.128.229.110:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+43.155.96.101:80 - Welcome to nginx!
+207.246.80.231:80 - Заголовок не найден
+154.23.19.126:80 - 404 Not Found
+2.23.118.112:80 - Заголовок не найден
+40.74.182.126:80 - 403 Forbidden
+80.247.244.64:80 - SCB
