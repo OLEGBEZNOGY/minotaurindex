@@ -13101,3 +13101,9 @@
 185.141.153.23:80 - Apache2 Ubuntu Default Page: It works
 218.32.119.1:80 - 401 Unauthorized
 185.126.36.9:80 - Заголовок не найден
+188.68.62.226:80 - Заголовок не найден
+127.64.181.172:80 - Welcome to XAMPP
+54.166.129.15:80 - The page can not be found
+104.114.156.50:80 - Заголовок не найден
+166.169.80.82:80 - Web Administration Interface
+127.53.59.74:80 - Welcome to XAMPP
