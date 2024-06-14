@@ -18859,3 +18859,568 @@ Allen County, Indiana.
 18.218.174.252:80 - Aidby
 127.87.127.121:80 - Welcome to XAMPP
 23.7.21.26:80 - Заголовок не найден
+23.57.241.29:80 - Заголовок не найден
+127.254.228.231:80 - Welcome to XAMPP
+176.195.216.16:80 - Заголовок не найден
+40.115.77.251:80 - Microsoft Azure Web App - Error 404
+54.254.66.214:80 - Заголовок не найден
+127.139.160.151:80 - Welcome to XAMPP
+139.150.73.13:80 - 비즈제주 관리자
+42.62.62.192:80 - 403 Forbidden
+127.43.17.139:80 - Welcome to XAMPP
+3.140.41.61:80 - 503 Service Temporarily Unavailable
+211.87.239.43:80 - 404 Not Found
+127.177.186.150:80 - Welcome to XAMPP
+20.31.235.3:80 - Your Azure Function App is up and running.
+127.235.89.170:80 - Welcome to XAMPP
+127.53.95.141:80 - Welcome to XAMPP
+77.238.105.244:80 - 
+127.201.9.210:80 - Welcome to XAMPP
+154.21.171.145:80 - ERROR: The requested URL could not be retrieved
+4.188.108.171:80 - Your Azure Function App is up and running.
+156.240.1.54:80 - 500 Internal Server Error
+127.60.126.114:80 - Welcome to XAMPP
+127.172.50.102:80 - Welcome to XAMPP
+127.253.86.221:80 - Welcome to XAMPP
+127.58.92.44:80 - Welcome to XAMPP
+199.21.115.190:80 - Welcome to nginx!
+104.99.190.55:80 - Заголовок не найден
+127.111.110.163:80 - Welcome to XAMPP
+3.123.220.106:80 - Заголовок не найден
+65.1.52.146:80 - Ayurvedic Herbal Beauty Products | Deliver Across 20+ Countries
+104.195.6.174:80 - æ­åï¼ç«ç¹åå»ºæåï¼
+47.197.82.119:80 - 
+127.245.201.30:80 - Welcome to XAMPP
+185.115.95.210:80 - 403 - Forbidden: Access is denied.
+127.174.241.87:80 - Welcome to XAMPP
+108.158.165.139:80 - Заголовок не найден
+3.225.156.134:80 - IIS Windows Server
+47.134.40.111:80 - 
+137.175.18.19:80 - Заголовок не найден
+127.172.83.201:80 - Welcome to XAMPP
+24.70.70.200:80 - Заголовок не найден
+18.181.56.207:80 - 403 Forbidden
+142.11.194.14:80 - Заголовок не найден
+13.67.177.93:80 - IIS Windows Server
+49.212.163.117:80 - Top Page | VEGNAVI
+127.138.19.92:80 - Welcome to XAMPP
+127.146.214.218:80 - Welcome to XAMPP
+127.194.224.217:80 - Welcome to XAMPP
+127.192.56.101:80 - Welcome to XAMPP
+127.234.27.118:80 - Welcome to XAMPP
+127.125.84.201:80 - Welcome to XAMPP
+127.75.63.164:80 - Welcome to XAMPP
+108.180.165.144:80 - 
+82.80.253.10:80 - DNS.CO.IL
+23.212.149.94:80 - Заголовок не найден
+127.52.87.56:80 - Welcome to XAMPP
+54.36.103.58:80 - Заголовок не найден
+127.8.71.196:80 - Welcome to XAMPP
+192.254.161.50:80 - Заголовок не найден
+127.169.120.129:80 - Welcome to XAMPP
+127.106.55.39:80 - Welcome to XAMPP
+127.241.238.66:80 - Welcome to XAMPP
+190.173.211.201:80 - Заголовок не найден
+127.174.236.140:80 - Welcome to XAMPP
+127.1.110.252:80 - Welcome to XAMPP
+16.16.14.46:80 - Заголовок не найден
+23.212.23.86:80 - Заголовок не найден
+127.191.213.24:80 - Welcome to XAMPP
+127.12.145.102:80 - Welcome to XAMPP
+217.86.179.30:80 - - Error - 403
+109.109.181.15:80 - 403 Forbidden
+127.241.94.232:80 - Welcome to XAMPP
+124.146.171.32:80 - Заголовок не найден
+64.91.230.141:80 - Maverick Business Insider - Make More Money, Have More Fun, Give More Back
+104.193.59.67:80 - Steve's Web Site
+64.111.58.144:80 - Заголовок не найден
+91.203.194.109:80 - Redmine
+202.65.244.53:80 - Заголовок не найден
+127.69.218.43:80 - Welcome to XAMPP
+159.69.175.152:80 - OnApp
+178.128.10.81:80 - 404 Not Found
+127.169.237.237:80 - Welcome to XAMPP
+2.185.142.23:80 - Web Client
+20.109.249.135:80 - Microsoft Azure Web App - Error 404
+127.88.8.253:80 - Welcome to XAMPP
+54.224.246.52:80 - 403 Forbidden
+123.195.196.221:80 - Заголовок не найден
+196.191.67.243:80 - 
+127.154.202.69:80 - Welcome to XAMPP
+104.27.42.63:80 - Direct IP access not allowed | Cloudflare
+127.173.45.16:80 - Welcome to XAMPP
+127.122.163.166:80 - Welcome to XAMPP
+127.233.18.63:80 - Welcome to XAMPP
+193.8.203.182:80 - Apache2 Ubuntu Default Page: It works
+174.102.75.196:80 - 
+190.172.89.221:80 - Заголовок не найден
+18.139.133.47:80 - QQ8788 Trung TÃ¢m CÃ¡ CÆ°á»£c BÃ³ng ÄÃ¡ VÃ  Casino HÃ ng Äáº§u ChÃ¢u Ã
+23.44.92.78:80 - Заголовок не найден
+47.105.36.59:80 - 网站建设中...
+127.238.102.65:80 - Welcome to XAMPP
+18.165.253.45:80 - Заголовок не найден
+23.209.48.81:80 - Заголовок не найден
+103.167.108.223:80 - Lautan Rezeki Mulia Logistic Inventory System
+54.82.6.145:80 - Unbundled Attorney Training &#8211; Unbundled Attorney Training Resource Center
+127.131.112.16:80 - Welcome to XAMPP
+128.199.43.102:80 - 403 Forbidden
+127.221.46.239:80 - Welcome to XAMPP
+154.22.162.188:80 - 404 Not Found
+96.17.70.113:80 - Заголовок не найден
+65.207.26.160:80 - Northern Virginia Realtors
+38.182.189.223:80 - 403 Forbidden
+127.167.21.123:80 - Welcome to XAMPP
+38.28.218.32:80 - Заголовок не найден
+23.36.220.148:80 - Заголовок не найден
+127.130.75.71:80 - Welcome to XAMPP
+201.96.175.100:80 - PFPNNA-SNDIF
+148.101.218.27:80 - 
+141.94.167.222:80 - Vittascience
+216.92.155.165:80 - 403 Forbidden
+23.195.200.243:80 - Заголовок не найден
+38.12.200.170:80 - 404 Not Found
+173.12.146.21:80 - Заголовок не найден
+127.156.61.69:80 - Welcome to XAMPP
+20.75.180.89:80 - Your Azure Function App is up and running.
+172.64.42.209:80 - Direct IP access not allowed | Cloudflare
+74.129.116.59:80 - 
+127.187.46.27:80 - Welcome to XAMPP
+73.72.31.97:80 - 
+80.92.31.89:80 - Компас КОЛУМБ Columbus для эхолота. Компас Колумб купить. Электронный компас Колумб для эхолота
+4.151.57.166:80 - Metabase
+23.207.146.167:80 - Заголовок не найден
+127.121.161.162:80 - Welcome to XAMPP
+31.204.152.165:80 - Заголовок не найден
+14.163.162.13:80 - 
+127.244.160.134:80 - Welcome to XAMPP
+127.212.211.116:80 - Welcome to XAMPP
+8.138.91.43:80 - Streamlit
+100.1.129.254:80 - Заголовок не найден
+104.70.80.61:80 - Заголовок не найден
+2.192.28.227:80 - Saia PCD Web-Server
+127.79.37.224:80 - Welcome to XAMPP
+52.85.146.75:80 - Заголовок не найден
+4.255.8.1:80 - Заголовок не найден
+83.169.25.198:80 - Host Europe GmbH
+3.98.202.166:80 - 403 Forbidden
+148.51.197.40:80 - Fleet.NET 2.28.1572.0
+64.145.90.143:80 - Bandwidth Speed Test
+127.223.143.111:80 - Welcome to XAMPP
+127.4.162.186:80 - Welcome to XAMPP
+46.38.253.188:80 - FASTPANEL
+203.147.65.227:80 - 403 Forbidden
+127.87.108.233:80 - Welcome to XAMPP
+127.38.168.222:80 - Welcome to XAMPP
+178.229.158.48:80 - Заголовок не найден
+15.185.159.213:80 - Welcome to your Strapi app
+23.57.37.96:80 - Заголовок не найден
+120.24.159.149:80 - ç½ç«è®¿é®æ¥é
+85.128.202.144:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+120.138.27.137:80 - Заголовок не найден
+119.73.205.182:80 - WEB SERVICE
+184.24.38.52:80 - Заголовок не найден
+127.31.34.221:80 - Welcome to XAMPP
+100.24.208.166:80 - 403 Forbidden
+116.196.95.201:80 - 403 Forbidden
+178.163.128.106:80 - Teltonika Networks
+155.97.101.97:80 - Login - BP-70C31
+151.236.108.173:80 - Заголовок не найден
+199.232.111.28:80 - Fastly error: unknown domain 199.232.111.28
+127.78.142.47:80 - Welcome to XAMPP
+159.138.31.160:80 - Not available
+127.131.135.101:80 - Welcome to XAMPP
+154.201.242.214:80 - å¤§æ»¡è´¯æ£ç
+188.22.39.109:80 - IIS Windows
+185.250.243.8:80 - IIS Windows Server
+154.91.50.230:80 - æ²¡ææ¾å°ç«ç¹
+65.182.97.158:80 - Заголовок не найден
+18.238.127.62:80 - Заголовок не найден
+127.249.96.136:80 - Welcome to XAMPP
+43.203.230.90:80 - 404 Not Found
+81.16.130.89:80 - ERROR: The requested URL could not be retrieved
+193.194.155.211:80 - 
+64.150.187.211:80 - Web Server's Default Page
+103.69.122.218:80 - 404 Not Found
+127.12.57.24:80 - Welcome to XAMPP
+163.172.82.74:80 - d37.org.com &mdash; Coming Soon
+184.26.220.56:80 - Заголовок не найден
+89.23.115.36:80 - Ð¢ÐµÑÐ½Ð¾Ð»Ð¾Ð³Ð¸Ð¸ Ð¾Ð±ÑÐ°Ð±Ð¾ÑÐºÐ¸ Ð´Ð°Ð½Ð½ÑÑ / Big Data Whale
+199.101.110.155:80 - Welcome to nginx!
+127.219.223.69:80 - Welcome to XAMPP
+23.49.94.192:80 - Заголовок не найден
+2.21.27.78:80 - J.P. Morgan Log in
+3.128.151.237:80 - Waada
+127.180.241.76:80 - Welcome to XAMPP
+127.95.172.167:80 - Welcome to XAMPP
+122.117.168.78:80 - WEB SERVICE
+38.98.53.3:80 - Infinitely Virtual Cloud Portal
+127.187.205.189:80 - Welcome to XAMPP
+185.82.139.253:80 - Web Client
+127.96.181.82:80 - Welcome to XAMPP
+159.255.32.189:80 - Apache2 Ubuntu Default Page: It works
+54.228.220.86:80 - Заголовок не найден
+43.251.106.227:80 - 404 Not Found
+139.162.13.202:80 - 403 Forbidden
+127.202.36.61:80 - Welcome to XAMPP
+127.251.162.236:80 - Welcome to XAMPP
+127.71.174.55:80 - Welcome to XAMPP
+62.3.15.242:80 - Welcome to nginx!
+23.206.102.196:80 - Заголовок не найден
+38.165.37.66:80 - æ²¡ææ¾å°ç«ç¹
+23.197.47.240:80 - Заголовок не найден
+104.22.64.67:80 - Direct IP access not allowed | Cloudflare
+127.10.196.27:80 - Welcome to XAMPP
+213.187.9.24:80 - bEffect VoIP
+212.97.233.132:80 - 
+127.250.83.86:80 - Welcome to XAMPP
+127.69.150.244:80 - Welcome to XAMPP
+127.165.44.163:80 - Welcome to XAMPP
+35.154.127.198:80 - Welcome to nginx!
+23.35.179.18:80 - Заголовок не найден
+127.95.112.48:80 - Welcome to XAMPP
+192.241.204.203:80 - Cursos KFM
+148.255.223.10:80 - 
+39.42.208.174:80 - Заголовок не найден
+20.248.143.174:80 - Заголовок не найден
+104.74.60.235:80 - Заголовок не найден
+190.253.94.185:80 - movistar
+127.223.4.123:80 - Welcome to XAMPP
+153.120.50.105:80 - 沖縄の求人は｜沖縄総合求人サイトAgre（アグレ）【公式】
+184.28.85.6:80 - Заголовок не найден
+46.244.111.128:80 - 
+127.112.241.137:80 - Welcome to XAMPP
+66.42.125.192:80 - login
+81.180.72.215:80 - Apache2 Debian Default Page: It works
+127.98.189.27:80 - Welcome to XAMPP
+104.47.164.84:80 - Microsoft Azure Web App - Error 404
+50.116.2.142:80 - Apache2 Ubuntu Default Page: It works
+221.120.48.33:80 - Заголовок не найден
+108.186.103.231:80 - 404 Not Found
+127.116.129.12:80 - Welcome to XAMPP
+127.254.89.255:80 - Welcome to XAMPP
+54.177.110.40:80 - 403 Forbidden
+127.71.159.115:80 - Welcome to XAMPP
+54.78.178.226:80 - Заголовок не найден
+127.217.183.192:80 - Welcome to XAMPP
+127.3.205.68:80 - Welcome to XAMPP
+189.22.248.67:80 - Заголовок не найден
+127.176.250.231:80 - Welcome to XAMPP
+127.151.2.118:80 - Welcome to XAMPP
+43.134.85.217:80 - 404 Not Found
+37.8.145.109:80 - Welcome to nginx!
+137.59.120.140:80 - RouterOS router configuration page
+34.149.186.252:80 - Заголовок не найден
+127.43.218.3:80 - Welcome to XAMPP
+127.213.192.123:80 - Welcome to XAMPP
+185.31.67.188:80 - ConnectWise ScreenConnect Remote Support Software
+47.100.238.202:80 - 503 Service Temporarily Unavailable
+127.142.246.40:80 - Welcome to XAMPP
+74.213.186.140:80 - 403 Forbidden
+127.89.138.46:80 - Welcome to XAMPP
+43.252.173.149:80 - Заголовок не найден
+136.243.231.134:80 - Заголовок не найден
+127.162.118.32:80 - Welcome to XAMPP
+18.202.154.26:80 - 503 Service Temporarily Unavailable
+50.45.146.71:80 - Заголовок не найден
+34.102.255.46:80 - Заголовок не найден
+127.98.252.209:80 - Welcome to XAMPP
+104.198.255.236:80 - 401 Authorization Required
+54.238.191.130:80 - 勁緻物理治療所 | 台北市 中山區 內湖區 物理治療所 | 酸痛、運動傷害、復健、運動訓練、手術後復健
+127.222.31.180:80 - Welcome to XAMPP
+122.155.148.54:80 - 404 Not Found
+127.184.138.25:80 - Welcome to XAMPP
+127.189.140.143:80 - Welcome to XAMPP
+38.174.230.147:80 - 404 Not Found
+46.101.170.233:80 - Offline
+54.184.193.84:80 - Заголовок не найден
+127.110.8.63:80 - Welcome to XAMPP
+127.134.128.103:80 - Welcome to XAMPP
+127.85.114.123:80 - Welcome to XAMPP
+23.225.95.9:80 - Заголовок не найден
+184.24.103.131:80 - Заголовок не найден
+127.171.241.213:80 - Welcome to XAMPP
+23.49.1.19:80 - Заголовок не найден
+23.195.40.237:80 - Заголовок не найден
+130.162.147.0:80 - YKê±´ê¸° ERPëª¨ë°ì¼
+2.17.251.73:80 - Заголовок не найден
+185.206.34.35:80 - Заголовок не найден
+92.122.61.223:80 - Заголовок не найден
+127.251.239.162:80 - Welcome to XAMPP
+45.60.157.45:80 - Заголовок не найден
+104.71.170.230:80 - Заголовок не найден
+209.41.162.166:80 - Заголовок не найден
+127.51.168.163:80 - Welcome to XAMPP
+186.132.220.139:80 - Заголовок не найден
+23.42.216.4:80 - Заголовок не найден
+127.143.214.167:80 - Welcome to XAMPP
+127.251.198.247:80 - Welcome to XAMPP
+114.35.71.144:80 - DVR Components Download
+83.103.248.27:80 - RouterOS router configuration page
+106.15.195.200:80 - 上海星矩信息技术有限公司
+127.172.37.166:80 - Welcome to XAMPP
+104.19.185.43:80 - Direct IP access not allowed | Cloudflare
+179.43.121.134:80 - 
+173.222.194.227:80 - Заголовок не найден
+104.233.139.136:80 - 404 Not Found
+98.13.196.140:80 - Заголовок не найден
+2.23.75.68:80 - Заголовок не найден
+167.114.63.189:80 - Заголовок не найден
+203.64.81.250:80 - RouterOS router configuration page
+143.64.60.145:80 - 404 Not Found
+199.232.84.185:80 - Fastly error: unknown domain 199.232.84.185
+127.190.250.32:80 - Welcome to XAMPP
+124.70.217.168:80 - Welcome to CentOS
+18.66.37.131:80 - Заголовок не найден
+121.186.15.141:80 - 
+23.206.101.59:80 - Заголовок не найден
+38.165.108.52:80 - æ²¡ææ¾å°ç«ç¹
+18.155.108.147:80 - Заголовок не найден
+5.9.167.162:80 - Apache2 Debian Default Page: It works
+66.151.99.111:80 - Заголовок не найден
+104.206.135.213:80 - 403 Forbidden
+34.122.3.171:80 - 404 Not Found
+103.240.99.245:80 - Please wait, the login page is opening...
+127.188.39.134:80 - Welcome to XAMPP
+127.235.6.244:80 - Welcome to XAMPP
+185.30.141.58:80 - Заголовок не найден
+127.90.93.99:80 - Welcome to XAMPP
+127.193.172.183:80 - Welcome to XAMPP
+127.152.219.165:80 - Welcome to XAMPP
+164.92.85.4:80 - 502 Bad Gateway
+176.97.77.128:80 - Заголовок не найден
+23.210.150.24:80 - Заголовок не найден
+104.21.76.244:80 - Direct IP access not allowed | Cloudflare
+156.224.133.210:80 - 404 Not Found
+221.157.222.77:80 - main page
+172.224.168.71:80 - Заголовок не найден
+85.214.237.69:80 - Web Server's Default Page
+104.23.122.112:80 - Direct IP access not allowed | Cloudflare
+185.47.29.206:80 - The web site is under construction
+212.162.83.37:80 - Заголовок не найден
+20.170.74.199:80 - Microsoft Azure Web App - Error 404
+103.196.160.233:80 - 
+127.132.209.44:80 - Welcome to XAMPP
+176.82.221.224:80 - {{Options.completeTitle()}}
+91.196.64.153:80 - 404 - Not Found
+82.165.104.11:80 - Welcome to "koa mastermind"!
+168.206.249.61:80 - 404 Not Found
+86.18.127.173:80 - Hello! Welcome to Synology Web Station!
+104.96.157.62:80 - Заголовок не найден
+127.224.37.206:80 - Welcome to XAMPP
+200.33.246.56:80 - macOS Server
+212.55.51.98:80 - Document Moved
+92.46.195.194:80 - GPON Home Gateway
+127.107.158.66:80 - Welcome to XAMPP
+68.178.145.240:80 - 403 Forbidden
+108.162.194.45:80 - Direct IP access not allowed | Cloudflare
+127.167.39.138:80 - Welcome to XAMPP
+127.38.43.190:80 - Welcome to XAMPP
+104.117.183.63:80 - Заголовок не найден
+127.168.40.3:80 - Welcome to XAMPP
+99.84.227.38:80 - Заголовок не найден
+15.197.254.23:80 - Заголовок не найден
+165.227.157.227:80 - 404 Not Found
+23.48.125.20:80 - Заголовок не найден
+104.25.70.30:80 - Direct IP access not allowed | Cloudflare
+127.92.9.23:80 - Welcome to XAMPP
+84.104.29.213:80 - 
+179.52.39.33:80 - 
+47.95.34.170:80 - Welcome to nginx!
+47.116.44.174:80 - 500 Internal Server Error
+92.14.213.78:80 - Заголовок не найден
+47.76.156.108:80 - æ²¡ææ¾å°ç«ç¹
+35.75.244.253:80 - 403 - Â³êÄ¢Ü¹ñ: ANZXªÛ³êÜµ½B
+127.254.85.211:80 - Welcome to XAMPP
+127.165.6.183:80 - Welcome to XAMPP
+36.91.161.84:80 - 
+104.123.79.229:80 - Заголовок не найден
+23.66.204.18:80 - Заголовок не найден
+34.165.73.84:80 - Заголовок не найден
+108.186.70.99:80 - 403 Forbidden
+127.192.37.135:80 - Welcome to XAMPP
+127.227.159.213:80 - Welcome to XAMPP
+121.182.77.233:80 - Заголовок не найден
+168.62.176.236:80 - Заголовок не найден
+127.195.121.106:80 - Welcome to XAMPP
+195.103.152.42:80 - NethServer
+8.147.105.195:80 - Заголовок не найден
+199.232.218.217:80 - Fastly error: unknown domain 199.232.218.217
+38.207.115.150:80 - Заголовок не найден
+79.96.12.26:80 - Database Error
+52.194.116.249:80 - 401 Unauthorized
+127.212.193.152:80 - Welcome to XAMPP
+179.61.200.94:80 - Bloom Therapy
+103.76.86.136:80 - Home
+3.127.118.216:80 - Kinderpedia
+109.70.252.71:80 - Заголовок не найден
+127.7.151.19:80 - Welcome to XAMPP
+34.93.81.30:80 - DYNOVE WIZARDS IN SOFTWARE SOLUTIONS & AI
+101.200.220.148:80 - å»ä¹è¾«å¿
+50.87.117.164:80 - Not Acceptable!
+160.119.79.245:80 - 401 Unauthorized
+66.113.136.21:80 - phpMyAdmin
+89.168.27.23:80 - Welcome to nginx!
+104.81.170.23:80 - Заголовок не найден
+153.126.204.87:80 - Заголовок не найден
+23.39.9.138:80 - Заголовок не найден
+23.44.200.157:80 - Заголовок не найден
+168.119.105.13:80 - Welcome to nginx!
+47.244.28.4:80 - 404 Not Found
+36.253.24.66:80 - Lincoln Apps
+185.149.101.5:80 - 403 Forbidden
+52.193.229.130:80 - 502 Bad Gateway
+168.206.194.125:80 - 404 Not Found
+127.194.7.67:80 - Welcome to XAMPP
+173.241.96.166:80 - Заголовок не найден
+186.57.133.22:80 - Заголовок не найден
+127.30.45.169:80 - Welcome to XAMPP
+42.187.214.120:80 - Server error message
+38.13.193.67:80 - 
+20.93.227.85:80 - Azure Container App - Unavailable
+127.119.70.232:80 - Welcome to XAMPP
+127.159.213.87:80 - Welcome to XAMPP
+127.217.238.158:80 - Welcome to XAMPP
+192.40.37.164:80 - Заголовок не найден
+186.130.116.108:80 - Заголовок не найден
+127.156.140.225:80 - Welcome to XAMPP
+34.252.151.90:80 - Заголовок не найден
+127.96.223.60:80 - Welcome to XAMPP
+209.16.101.78:80 - 403 Forbidden
+107.174.78.154:80 - ç¶æ¯èé³ä¹ä¼
+127.104.118.172:80 - Welcome to XAMPP
+111.230.87.12:80 - 
+127.165.219.54:80 - Welcome to XAMPP
+50.2.182.152:80 - 403 Forbidden
+23.196.235.221:80 - Заголовок не найден
+127.48.125.142:80 - Welcome to XAMPP
+77.74.55.142:80 - Drents Parlement | Home
+127.190.165.195:80 - Welcome to XAMPP
+47.90.22.161:80 - Заголовок не найден
+127.203.209.5:80 - Welcome to XAMPP
+127.165.155.180:80 - Welcome to XAMPP
+188.214.144.59:80 - Заголовок не найден
+127.140.120.234:80 - Welcome to XAMPP
+127.43.79.160:80 - Welcome to XAMPP
+127.105.74.240:80 - Welcome to XAMPP
+127.16.228.175:80 - Welcome to XAMPP
+127.172.84.204:80 - Welcome to XAMPP
+23.37.153.90:80 - Заголовок не найден
+81.7.19.248:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+127.98.225.141:80 - Welcome to XAMPP
+193.158.208.120:80 - Connection denied by Geolocation
+78.69.253.105:80 - hue personal wireless lighting
+127.190.70.94:80 - Welcome to XAMPP
+23.8.149.179:80 - Заголовок не найден
+127.38.104.96:80 - Welcome to XAMPP
+78.47.69.171:80 - ds046.patsplanet.com &mdash;  Domain default page
+195.244.57.35:80 - Заголовок не найден
+85.172.55.222:80 - 
+85.187.220.101:80 - Please wait, the page is opening...
+94.152.150.139:80 - Optimal
+18.198.70.82:80 - Sign in · GitLab
+80.11.203.111:80 - 
+108.138.110.158:80 - Заголовок не найден
+127.151.157.108:80 - Welcome to XAMPP
+167.203.48.44:80 - 401 Unauthorized
+24.38.143.170:80 - Document Moved
+127.121.188.102:80 - Welcome to XAMPP
+172.104.199.238:80 - Artboard
+127.8.0.214:80 - Welcome to XAMPP
+147.53.251.55:80 - RouterOS router configuration page
+176.124.210.185:80 - Wie luistert, weet meer - NPO Radio 1
+20.114.80.46:80 - Your Azure Function App is up and running.
+46.28.47.171:80 - 403 Forbidden
+127.128.183.55:80 - Welcome to XAMPP
+44.209.143.255:80 - 404 Not Found
+18.155.95.105:80 - Заголовок не найден
+120.77.78.183:80 - Welcome to nginx!
+85.193.92.126:80 - 404 Not Found
+127.94.81.194:80 - Welcome to XAMPP
+14.49.195.149:80 - main page
+127.83.204.60:80 - Welcome to XAMPP
+109.168.9.99:80 - 403 Forbidden
+52.68.14.133:80 - 503 Service Temporarily Unavailable
+209.54.116.184:80 - 401 Unauthorized
+3.137.135.234:80 - 404 Not Found
+23.220.13.150:80 - Заголовок не найден
+115.187.186.243:80 - Заголовок не найден
+127.106.48.70:80 - Welcome to XAMPP
+127.59.106.184:80 - Welcome to XAMPP
+156.224.130.130:80 - 404 Not Found
+52.24.134.102:80 - Welcome to CentOS
+127.69.212.77:80 - Welcome to XAMPP
+54.64.68.123:80 - Заголовок не найден
+127.6.45.185:80 - Welcome to XAMPP
+43.207.183.12:80 - HCMUE FIT-AI Project - H3
+188.225.46.113:80 - Index of /
+121.42.115.213:80 - ç½ç«è®¿é®æ¥é
+104.47.152.21:80 - Заголовок не найден
+127.197.252.155:80 - Welcome to XAMPP
+127.238.190.86:80 - Welcome to XAMPP
+127.34.108.63:80 - Welcome to XAMPP
+127.32.173.182:80 - Welcome to XAMPP
+50.31.98.146:80 - Заголовок не найден
+127.103.18.159:80 - Welcome to XAMPP
+23.63.178.237:80 - Заголовок не найден
+127.72.125.228:80 - Welcome to XAMPP
+136.144.238.186:80 - De gemeente is er voor u, aan de balie of gewoon vanuit huis | gemeente Haarlemmermeer
+154.64.103.182:80 - Заголовок не найден
+127.149.45.110:80 - Welcome to XAMPP
+185.55.249.172:80 - Заголовок не найден
+2.23.27.111:80 - Заголовок не найден
+222.110.161.101:80 - IIS Windows
+184.51.242.5:80 - Заголовок не найден
+35.154.14.186:80 - All About Mutual Funds | Basics Investment Information
+127.214.5.85:80 - Welcome to XAMPP
+154.195.252.73:80 - 404 Not Found
+127.101.237.49:80 - Welcome to XAMPP
+4.249.149.247:80 - Your Azure Function App is up and running.
+78.109.142.243:80 - Apache2 Ubuntu Default Page: It works
+104.165.64.163:80 - 403 Forbidden
+202.7.187.162:80 - Заголовок не найден
+2.21.235.40:80 - Заголовок не найден
+127.153.72.100:80 - Welcome to XAMPP
+127.176.118.244:80 - Welcome to XAMPP
+23.59.157.35:80 - Заголовок не найден
+127.18.118.59:80 - Welcome to XAMPP
+23.200.214.219:80 - Заголовок не найден
+62.210.4.147:80 - Welcome to nginx!
+127.205.47.14:80 - Welcome to XAMPP
+50.3.57.35:80 - 403 Forbidden
+38.33.24.217:80 - 404 Not Found
+23.198.229.165:80 - Заголовок не найден
+3.165.133.30:80 - Заголовок не найден
+54.236.103.86:80 - Заголовок не найден
+127.127.85.200:80 - Welcome to XAMPP
+133.242.48.254:80 - Заголовок не найден
+164.46.53.83:80 - 403 Forbidden ã¢ã¯ã»ã¹ãç¦æ­¢ããã¦ãã¾ã
+127.117.155.94:80 - Welcome to XAMPP
+127.100.1.31:80 - Welcome to XAMPP
+23.11.60.101:80 - Заголовок не найден
+127.48.236.96:80 - Welcome to XAMPP
+190.82.117.210:80 - Access forbidden!
+127.233.205.115:80 - Welcome to XAMPP
+127.244.187.246:80 - Welcome to XAMPP
+104.104.154.5:80 - Заголовок не найден
+171.102.241.146:80 - Заголовок не найден
+127.11.151.118:80 - Welcome to XAMPP
+127.181.215.17:80 - Welcome to XAMPP
+103.240.6.85:80 - Заголовок не найден
+93.200.202.211:80 - Hallo! Herzlich Willkommen bei Synology Web Station!
+127.126.111.141:80 - Welcome to XAMPP
+127.33.170.252:80 - Welcome to XAMPP
+43.128.75.104:80 - 404 Not Found
+104.122.82.227:80 - Заголовок не найден
+127.131.20.40:80 - Welcome to XAMPP
+108.141.96.106:80 - Your Azure Function App is up and running.
+14.189.109.179:80 - 
+59.110.54.102:80 - Nexus Repository Manager
+74.112.194.189:80 - Error
+34.195.37.3:80 - Заголовок не найден
+187.192.145.240:80 - 
+148.139.64.16:80 - 403 Forbidden
+23.58.162.186:80 - Заголовок не найден
+127.34.85.78:80 - Welcome to XAMPP
+23.42.105.195:80 - Заголовок не найден
+185.76.142.194:80 - NethServer Enterprise
+23.221.244.213:80 - Заголовок не найден
