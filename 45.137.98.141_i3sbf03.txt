@@ -15756,3 +15756,6 @@ test-server2.pingpong.net
 23.63.66.22:80 - 403 Forbidden
 127.12.224.194:80 - Welcome to XAMPP
 23.64.30.19:80 - Заголовок не найден
+127.81.218.138:80 - Welcome to XAMPP
+127.227.34.88:80 - Welcome to XAMPP
+151.236.124.217:80 - Welcome to nginx!
