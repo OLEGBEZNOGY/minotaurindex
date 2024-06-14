@@ -3244,3 +3244,32 @@
 162.248.4.117:80 - 404 Not Found
 23.111.178.59:80 - Stefan Wild
 96.44.142.92:80 - Заголовок не найден
+84.53.184.179:80 - Заголовок не найден
+45.56.98.20:80 - Impact Hub Brasil
+185.58.96.76:80 - Web Server's Default Page
+156.250.129.211:80 - 404 Not Found
+52.218.232.144:80 - Amazon S3 - Cloud Object Storage  - AWS
+109.107.101.124:80 - 
+38.181.91.7:80 - Welcome to nginx!
+13.115.15.237:80 - Заголовок не найден
+141.148.74.152:80 - Big Country Expat Fansite - A fan site dedicated to the old soldier, Big Country Expat, also known as the Intrepid Reporter!
+54.159.105.254:80 - Loading...
+148.139.87.53:80 - 403 Forbidden
+45.76.250.173:80 - Unknown Domain
+93.158.76.229:80 - Talent Circle - UK Filmmakers, Crew, Actors & Performers - Film & TV Jobs, Resources & Notices
+176.124.12.13:80 - RouterOS router configuration page
+89.252.162.93:80 - Заголовок не найден
+35.205.150.94:80 - Apache2 Debian Default Page: It works
+34.106.102.194:80 - Apache2 Debian Default Page: It works
+18.160.3.143:80 - Заголовок не найден
+45.85.23.75:80 - Delen Private Bank - Web Page Blocked
+23.13.23.45:80 - Заголовок не найден
+23.13.67.86:80 - Заголовок не найден
+146.148.235.138:80 - 404 Not Found
+211.253.86.185:80 - 사지방
+208.52.147.204:80 - Just a moment...
+161.35.24.66:80 - Transfers and tours in Georgia | StarTrip.ge
+24.240.181.246:80 - 403 Forbidden
+187.110.132.13:80 - vb_telecom.dns100
+104.16.233.149:80 - Direct IP access not allowed | Cloudflare
+166.155.83.249:80 - Index page
