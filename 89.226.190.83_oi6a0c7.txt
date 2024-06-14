@@ -320,3 +320,5 @@
 163.5.56.213:80 - Apache2 Ubuntu Default Page: It works
 95.86.15.11:80 - IIS Windows Server
 52.218.238.49:80 - Amazon S3 - Cloud Object Storage  - AWS
+184.25.215.246:80 - Заголовок не найден
+76.69.133.207:80 - WEB SERVICE
