@@ -11564,3 +11564,54 @@
 127.129.63.103:80 - IIS Windows Server
 127.168.94.222:80 - IIS Windows Server
 127.171.82.203:80 - IIS Windows Server
+116.228.162.39:80 - 
+18.245.132.112:80 - Заголовок не найден
+99.84.2.4:80 - Заголовок не найден
+127.148.228.69:80 - IIS Windows Server
+200.141.253.210:80 - Заголовок не найден
+129.132.145.108:80 - Website not found!
+104.248.244.101:80 - WordPress &rsaquo; Error
+38.110.46.235:80 - Заголовок не найден
+127.241.21.126:80 - IIS Windows Server
+52.195.149.182:80 - 401 Unauthorized
+127.19.207.111:80 - IIS Windows Server
+127.249.142.99:80 - IIS Windows Server
+13.32.157.165:80 - Заголовок не найден
+89.34.219.66:80 - Apache2 Ubuntu Default Page: It works
+60.205.173.23:80 - 阿里云 Web应用防火墙
+35.86.39.191:80 - 404 Not Found
+20.13.227.120:80 - Your Azure Function App is up and running.
+163.129.16.168:80 - Заголовок не найден
+173.255.229.119:80 - WXY
+190.124.224.147:80 - 503 Service Temporarily Unavailable
+92.245.175.24:80 - 403 Forbidden
+127.165.152.23:80 - IIS Windows Server
+127.218.254.66:80 - IIS Windows Server
+127.207.202.215:80 - IIS Windows Server
+116.80.105.176:80 - Заголовок не найден
+127.49.43.21:80 - IIS Windows Server
+160.124.91.175:80 - Заголовок не найден
+127.241.188.14:80 - IIS Windows Server
+47.76.90.54:80 - Заголовок не найден
+82.202.238.251:80 - 404 Not Found
+137.220.228.100:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+127.133.135.66:80 - IIS Windows Server
+18.165.227.84:80 - Заголовок не найден
+67.199.12.164:80 - Заголовок не найден
+18.216.96.93:80 - Fill It Local
+127.106.83.124:80 - IIS Windows Server
+51.159.54.32:80 - Serveur Dedibox en maintenance
+117.203.150.221:80 - Заголовок не найден
+185.142.229.2:80 - Заголовок не найден
+34.250.112.77:80 - Index of /
+127.131.45.120:80 - IIS Windows Server
+45.41.9.24:80 - 域名45.41.9.24未授权联系Kelink.Com富甲天下
+127.193.141.37:80 - IIS Windows Server
+36.92.240.42:80 - SIAKAD | Log in
+165.227.82.79:80 - Заголовок не найден
+35.197.42.151:80 - WordPress on Google Compute Engine
+23.43.112.210:80 - Заголовок не найден
+104.17.153.42:80 - Direct IP access not allowed | Cloudflare
+64.85.167.194:80 - Nextcloud
+89.253.228.74:80 - Заголовок не найден
+127.87.244.244:80 - IIS Windows Server
