@@ -3121,3 +3121,88 @@
 82.197.68.56:80 - Заголовок не найден
 2.17.171.131:80 - Заголовок не найден
 18.172.8.88:80 - Заголовок не найден
+13.224.156.235:80 - Заголовок не найден
+60.251.62.6:80 - Заголовок не найден
+104.70.91.86:80 - Заголовок не найден
+52.29.216.185:80 - 403 Forbidden
+107.148.154.57:80 - Заголовок не найден
+34.210.227.143:80 - Заголовок не найден
+159.65.131.234:80 - Apache2 Ubuntu Default Page: It works
+104.25.104.67:80 - Direct IP access not allowed | Cloudflare
+102.209.85.250:80 - Apache HTTP Server Test Page powered by CentOS
+184.50.209.208:80 - Заголовок не найден
+18.157.191.40:80 - Default Site
+159.192.152.54:80 - 403 Forbidden
+46.137.28.145:80 - Заголовок не найден
+23.0.93.120:80 - Заголовок не найден
+116.206.202.56:80 - Please wait, the login page is opening...
+23.34.177.161:80 - Заголовок не найден
+17.248.168.70:80 - 400 Bad Request
+184.86.161.112:80 - Заголовок не найден
+104.93.86.134:80 - Заголовок не найден
+3.217.207.15:80 - Grafana
+108.181.188.77:80 - Заголовок не найден
+192.64.52.26:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+108.139.115.254:80 - Заголовок не найден
+154.217.147.46:80 - Заголовок не найден
+103.12.69.214:80 - 404 Not Found
+213.133.104.22:80 - konsoleH :: Login
+77.196.237.8:80 - Centrale
+31.151.6.211:80 - index
+168.206.224.161:80 - æ²¡ææ¾å°ç«ç¹
+182.236.111.187:80 - Default Parallels Plesk Panel Page
+103.129.127.76:80 - Apache2 Ubuntu Default Page: It works
+27.124.116.214:80 - Заголовок не найден
+66.85.189.204:80 - Downloadable Videos from the Catfight Haven
+23.43.233.203:80 - Заголовок не найден
+27.140.122.104:80 - IPC
+23.196.128.78:80 - Заголовок не найден
+45.249.165.105:80 - Please wait, the login page is opening...
+18.161.19.59:80 - Заголовок не найден
+65.21.136.138:80 - this is a mail-in-a-box
+78.150.52.23:80 - .::Welcome to the Web-Based Configurator::.
+146.190.112.24:80 - Заголовок не найден
+122.248.219.134:80 - Заголовок не найден
+34.139.240.32:80 - Chattanooga Medical Malpractice
+54.230.44.26:80 - Заголовок не найден
+178.62.229.181:80 - deltabulk.ottu.net
+47.37.95.51:80 - 
+104.22.43.164:80 - Direct IP access not allowed | Cloudflare
+89.161.148.59:80 - Strona w przygotowaniu...
+140.150.226.229:80 - Index of /
+157.230.90.78:80 - Заголовок не найден
+213.167.213.175:80 - 403 Forbidden
+35.170.155.164:80 - 403 - Forbidden: Access is denied.
+104.116.163.22:80 - Заголовок не найден
+38.12.63.24:80 - 404 Not Found
+38.11.95.246:80 - 404 Not Found
+77.90.164.141:80 - Заголовок не найден
+104.248.19.229:80 - 503 Service Temporarily Unavailable
+82.64.176.251:80 - Заголовок не найден
+52.177.128.106:80 - 403 - Forbidden: Access is denied.
+140.238.239.154:80 - 400 The plain HTTP request was sent to HTTPS port
+44.238.240.49:80 - Заголовок не найден
+103.197.186.170:80 - 403 Forbidden
+184.84.101.79:80 - Заголовок не найден
+162.144.119.31:80 - Firehouse Financial Communications LLC ::: Cutting costs. Boosting compliance. Easing workloads. Ending confusion. In ways you never imagined. Firehouse. Simplification for business.
+23.49.74.253:80 - Заголовок не найден
+104.17.167.64:80 - Direct IP access not allowed | Cloudflare
+12.7.118.139:80 - Temperature@lert Wifi Edition Internet Connection Setup
+38.177.216.71:80 - Заголовок не найден
+162.159.246.96:80 - Direct IP access not allowed | Cloudflare
+23.95.137.121:80 - Welcome to nginx!
+154.53.35.111:80 - 502 Bad Gateway
+67.212.71.60:80 - Заголовок не найден
+23.58.96.226:80 - Заголовок не найден
+210.101.72.43:80 - Заголовок не найден
+86.73.254.198:80 - Заголовок не найден
+18.239.197.35:80 - Заголовок не найден
+51.132.159.247:80 - Azure Container App - Unavailable
+213.5.156.36:80 - Заголовок не найден
+20.105.79.138:80 - Заголовок не найден
+107.182.82.208:80 - .::Welcome to the Web-Based Configurator::.
+23.220.26.246:80 - Заголовок не найден
+213.64.110.27:80 - Document Error: Forbidden
+62.245.237.194:80 - 403 Forbidden
+104.155.231.190:80 - Pitt
+40.176.104.129:80 - Welcome to nginx!
