@@ -1042,3 +1042,164 @@
 104.251.216.126:80 - Odoo
 216.163.243.215:80 - Corporate Systems ESS Password Services
 182.161.235.95:80 - Заголовок не найден
+186.61.142.35:80 - Заголовок не найден
+59.124.158.241:80 - Заголовок не найден
+16.171.168.41:80 - Laravel
+81.170.177.8:80 - Заголовок не найден
+3.219.139.67:80 - Stanley Black &amp; Decker Auto Promotions
+200.10.172.43:80 - Falabella Somdimac
+213.226.200.175:80 - 
+108.157.204.7:80 - Заголовок не найден
+69.163.239.174:80 - phpMyAdmin
+52.213.209.255:80 - Vectary - Build interactive 3D and AR solutions online
+202.241.168.117:80 - 403 - 許可されていません: アクセスが拒否されました。
+23.196.55.159:80 - Заголовок не найден
+18.244.143.181:80 - Заголовок не найден
+51.195.143.103:80 - Заголовок не найден
+13.113.228.248:80 - 403 Forbidden
+124.71.28.134:80 - Welcome to nginx!
+217.61.14.206:80 - Home - Dynamic ID S.r.l.
+104.210.92.0:80 - Microsoft Azure Web App - Error 404
+154.214.75.188:80 - 404 Not Found
+174.138.102.14:80 - 503: No ddev back-end site available
+96.9.49.21:80 - 403 Forbidden
+156.250.14.26:80 - æ²¡ææ¾å°ç«ç¹
+210.130.189.56:80 - 403 Forbidden
+2.23.35.50:80 - Заголовок не найден
+23.199.164.184:80 - Заголовок не найден
+46.243.184.33:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+1.157.153.253:80 - Hello! Welcome to Synology Web Station!
+23.202.151.51:80 - Заголовок не найден
+131.153.21.15:80 - 403 Forbidden
+66.113.239.243:80 - Заголовок не найден
+93.119.1.2:80 - Заголовок не найден
+104.25.143.199:80 - Direct IP access not allowed | Cloudflare
+34.111.234.145:80 - Заголовок не найден
+110.183.64.34:80 - 
+167.99.241.101:80 - 404 Not Found
+167.86.100.165:80 - Заголовок не найден
+34.36.42.228:80 - Заголовок не найден
+114.115.236.72:80 - Welcome to nginx!
+52.39.8.172:80 - 404: Not Found
+13.226.168.176:80 - Заголовок не найден
+1.81.4.5:80 - Заголовок не найден
+57.181.44.200:80 - 503 Service Temporarily Unavailable
+82.57.55.151:80 - SARA ELECTRONIC INSTRUMENTS
+185.41.1.17:80 - Welcome to nginx!
+185.232.84.85:80 - Заголовок не найден
+91.108.4.188:80 - 404 Not Found
+23.212.107.110:80 - Заголовок не найден
+104.23.137.25:80 - Direct IP access not allowed | Cloudflare
+35.78.155.38:80 - 403 Forbidden
+212.185.173.11:80 - Заголовок не найден
+38.181.180.14:80 - 404 Not Found
+190.47.15.188:80 - 
+23.201.241.76:80 - Заголовок не найден
+43.201.234.131:80 - Заголовок не найден
+185.199.9.2:80 - Заголовок не найден
+104.98.13.141:80 - Заголовок не найден
+70.33.220.60:80 - 404 Not Found
+62.129.217.222:80 - ZPU WAKO - Obróbka plastyczna, perforacja, perforowanie, wykrawanie, konstrukcje autobusowe, konstrukcje szkieletowe, spawanie dowolnych konstrukcji, obróbka plastyczna, perforacja, perforowanie, wykrawanie, konstrukcje autobusowe, konstrukcje szkieletowe, spawanie dowolnych konstrukcji
+13.92.199.201:80 - Website Unavailable
+65.20.157.235:80 - Заголовок не найден
+184.85.85.241:80 - Заголовок не найден
+172.64.91.123:80 - Direct IP access not allowed | Cloudflare
+152.0.155.70:80 - 
+82.64.101.188:80 - Freebox OS :: Identification
+18.160.57.5:80 - Заголовок не найден
+156.240.225.235:80 - 404 Not Found
+88.26.238.44:80 - Заголовок не найден
+82.165.184.92:80 - Index of /
+82.174.177.154:80 - Apache2 Debian Default Page: It works
+192.0.79.53:80 - WordPress.com Developer Resources &#8211; Create cool applications that integrate with WordPress.com
+219.100.49.113:80 - Заголовок не найден
+2.21.252.253:80 - Заголовок не найден
+209.127.147.111:80 - Заголовок не найден
+222.85.156.181:80 - 贵阳节水网
+208.86.252.114:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+54.150.70.255:80 - 503 Service Temporarily Unavailable
+104.75.116.79:80 - Заголовок не найден
+176.66.89.99:80 - Document Moved
+213.239.241.57:80 - Domain nicht verfÃ¼gbar | Domain not available
+47.253.94.219:80 - 
+54.200.145.43:80 - 403 Forbidden
+62.109.19.116:80 - 404 Not Found
+45.66.238.116:80 - ERROR: The requested URL could not be retrieved
+151.101.154.114:80 - Fastly error: unknown domain 151.101.154.114
+23.219.188.10:80 - Заголовок не найден
+203.214.151.151:80 - Заголовок не найден
+149.28.153.229:80 - Sách online -
+216.39.243.14:80 - Заголовок не найден
+169.48.194.19:80 - Apache HTTP Server Test Page powered by CentOS
+65.116.81.154:80 - Заголовок не найден
+123.207.2.201:80 - Apache2 Ubuntu Default Page: It works
+2.16.167.140:80 - Заголовок не найден
+54.203.37.105:80 - 503 Service Temporarily Unavailable
+86.122.122.44:80 - 
+184.87.189.14:80 - Заголовок не найден
+23.211.38.253:80 - Заголовок не найден
+82.146.40.109:80 - Заголовок не найден
+184.30.43.146:80 - Заголовок не найден
+192.3.237.126:80 - 500 Internal Server Error
+192.185.180.89:80 - Not Acceptable!
+23.60.56.226:80 - Заголовок не найден
+104.18.138.93:80 - Direct IP access not allowed | Cloudflare
+154.23.152.113:80 - 404 Not Found
+104.79.41.86:80 - Заголовок не найден
+125.227.0.22:80 - æ²¡ææ¾å°ç«ç¹
+3.210.148.48:80 - Заголовок не найден
+205.198.47.148:80 - Заголовок не найден
+42.117.80.10:80 - 
+154.23.136.104:80 - Заголовок не найден
+198.252.102.239:80 - Заголовок не найден
+83.150.215.57:80 - Web Server's Default Page
+103.86.136.124:80 - IIS Windows Server
+173.27.10.198:80 - Congratulations!
+89.39.209.56:80 - 401 Unauthorized
+23.62.132.59:80 - Заголовок не найден
+162.218.64.51:80 - Page not found
+2.207.212.204:80 - Connection denied by Geolocation
+154.194.146.121:80 - 404 Not Found
+34.149.10.94:80 - simplestyle_purple
+154.30.243.185:80 - Заголовок не найден
+167.71.241.149:80 - 
+76.158.10.64:80 - Bidwell Trail Checker
+23.202.29.92:80 - Заголовок не найден
+49.13.63.233:80 - Default Site
+52.16.220.234:80 - Заголовок не найден
+23.54.89.172:80 - Заголовок не найден
+47.74.131.245:80 - 403 Forbidden
+52.69.108.125:80 - root
+42.192.15.33:80 - Welcome to nginx!
+18.155.82.10:80 - Заголовок не найден
+117.235.84.204:80 - RouterOS router configuration page
+23.19.99.248:80 - ERROR: The requested URL could not be retrieved
+8.147.104.121:80 - 500 Internal Server Error
+38.38.113.68:80 - Заголовок не найден
+52.61.170.247:80 - 404 Not Found
+155.159.187.151:80 - 404 Not Found
+47.122.4.34:80 - æ²¡ææ¾å°ç«ç¹
+92.36.230.68:80 - Заголовок не найден
+122.117.26.229:80 - WEB SERVICE
+35.160.106.228:80 - Заголовок не найден
+91.65.88.172:80 - Заголовок не найден
+12.147.102.213:80 - AT&T WiFi Portal
+164.90.129.152:80 - Apache2 Debian Default Page: It works
+139.9.54.74:80 - Sorry, the website has been stopped
+47.108.165.181:80 - IIS Windows Server
+186.113.251.182:80 - Access forbidden!
+2.22.206.198:80 - Заголовок не найден
+51.158.152.195:80 - Serveur Dedibox en maintenance
+104.110.250.202:80 - Заголовок не найден
+45.60.89.213:80 - Заголовок не найден
+192.36.154.244:80 - Database Error
+109.110.172.222:80 - 500 Internal Server Error
+79.96.125.168:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+119.29.14.177:80 - 登入
+124.240.231.230:80 - Заголовок не найден
+23.73.110.214:80 - Заголовок не найден
+69.54.233.27:80 - Заголовок не найден
+23.205.129.128:80 - Заголовок не найден
+3.226.128.64:80 - 403 Forbidden
+89.248.192.91:80 - Заголовок не найден
+54.218.69.26:80 - EcomPulse
