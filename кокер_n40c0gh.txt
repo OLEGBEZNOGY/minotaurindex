@@ -17141,3 +17141,29 @@ Brklyn - Brklyn-Media - PBS
 148.62.61.70:80 - 401 - Unauthorized: Access is denied due to invalid credentials.
 95.179.141.241:80 - Заголовок не найден
 108.157.47.196:80 - Заголовок не найден
+23.49.151.73:80 - Заголовок не найден
+18.67.109.40:80 - Заголовок не найден
+137.184.22.238:80 - Blueprint Online
+104.85.25.63:80 - Заголовок не найден
+64.182.95.49:80 - MoneyMorning-News.com
+78.46.160.124:80 - Willkommen - Frank Soldan Zahnarztpraxis
+64.176.209.86:80 - Unknown Domain
+41.59.189.49:80 - System Login
+23.42.59.8:80 - Заголовок не найден
+61.84.111.209:80 - Заголовок не найден
+51.148.140.88:80 - No-name domain on port 80!
+192.169.179.229:80 - IIS Windows Server
+81.70.254.89:80 - 403 Forbidden
+128.245.129.80:80 - 403 - Forbidden: Access is denied.
+103.121.39.132:80 - 
+172.247.231.212:80 - 403 Forbidden
+34.197.57.239:80 - Dimensionamento de Brigada
+46.102.158.170:80 - ERROR: The requested URL could not be retrieved
+35.201.55.132:80 - 35.201.55.132.corp.google.com - Google Single Sign On: Sign into corp
+18.173.149.190:80 - Заголовок не найден
+161.97.172.33:80 - Заголовок не найден
+64.85.68.190:80 - Apache2 Ubuntu Default Page: It works
+184.58.130.40:80 - 
+188.3.74.189:80 - Заголовок не найден
+154.19.93.100:80 - 404 Not Found
+23.193.217.151:80 - Заголовок не найден
