@@ -5783,3 +5783,21 @@ ess not allowed | Cloudflare
 23.211.140.198:80 - Заголовок не найден
 104.160.74.199:80 - Заголовок не найден
 144.196.228.158:80 - Заголовок не найден
+52.5.79.88:80 - Web Site Not Found
+85.13.217.219:80 - Заголовок не найден
+35.154.193.93:80 - 403 Forbidden
+20.52.192.100:80 - 404 Not Found
+23.206.94.109:80 - Заголовок не найден
+192.252.144.189:80 - Resource not found
+58.221.40.187:80 - 403 Forbidden
+162.212.168.118:80 - 407 Proxy Authentication Required
+208.97.150.226:80 - Site not found &middot; DreamHost
+77.83.165.85:80 - ERROR: The requested URL could not be retrieved
+15.168.193.202:80 - Заголовок не найден
+149.172.1.94:80 - Default Site
+197.155.168.164:80 - &#90;&#84;&#69;&#71;&#70;&#54;&#56;&#48;
+104.20.133.254:80 - Direct IP access not allowed | Cloudflare
+35.190.24.75:80 - Welcome to nginx!
+84.158.203.50:80 - Заголовок не найден
+152.0.114.70:80 - 
+199.232.43.78:80 - Fastly error: unknown domain 199.232.43.78
