@@ -10423,3 +10423,39 @@ owed | Cloudflare
 222.194.26.218:80 - 404 Not Found
 192.53.169.143:80 - OneGolf New South Wales
 154.195.250.94:80 - 403 Forbidden
+23.62.235.16:80 - Заголовок не найден
+208.96.234.128:80 - WEB SERVICE
+192.225.228.135:80 - Welcome to Teach
+121.199.68.177:80 - 阿里云万网虚机IP访问报错提示
+199.232.193.253:80 - Fastly error: unknown domain 199.232.193.253
+52.45.155.181:80 - Database Error
+23.219.230.153:80 - Заголовок не найден
+104.18.133.169:80 - Direct IP access not allowed | Cloudflare
+52.83.85.137:80 - Заголовок не найден
+23.32.206.197:80 - Заголовок не найден
+13.227.77.211:80 - Заголовок не найден
+173.26.97.11:80 - Congratulations!
+104.18.212.144:80 - Direct IP access not allowed | Cloudflare
+61.40.64.136:80 - IIS Windows
+180.149.243.237:80 - Default Parallels Plesk Page
+172.232.11.165:80 - Onetrak Digital Forensics Corporation
+23.10.59.75:80 - Заголовок не найден
+91.215.41.37:80 - DDoS-Guard
+167.218.117.135:80 - Redirecting...
+77.226.235.99:80 - DEPOT - Portal
+3.216.250.92:80 - 403 Forbidden
+203.17.70.0:80 - 403 Forbidden
+161.97.145.110:80 - Apache2 Ubuntu Default Page: It works
+184.24.252.122:80 - Заголовок не найден
+165.227.79.90:80 - 404 Not Found
+45.223.177.233:80 - Заголовок не найден
+154.28.140.147:80 - ERROR: The requested URL could not be retrieved
+122.117.149.67:80 - 
+23.108.50.233:80 - 407 Proxy Authentication Required
+108.139.109.82:80 - Заголовок не найден
+46.37.119.64:80 - 404 Not Found
+23.41.3.144:80 - Заголовок не найден
+89.18.195.135:80 - 406 Not Acceptable
+101.35.134.166:80 - 宽敬科技 &#8211; KJKJO.com
+77.188.58.217:80 - Заголовок не найден
+104.24.229.219:80 - Direct IP access not allowed | Cloudflare
