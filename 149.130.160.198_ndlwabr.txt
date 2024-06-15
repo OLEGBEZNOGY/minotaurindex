@@ -3077,3 +3077,208 @@
 127.159.189.38:80 - IIS Windows Server
 156.241.162.70:80 - 403 Forbidden
 104.104.123.36:80 - Заголовок не найден
+200.55.209.154:80 - Заголовок не найден
+104.129.207.36:80 - Internet Security by Zscaler
+127.111.127.78:80 - IIS Windows Server
+146.56.162.152:80 - 403 Forbidden
+127.208.242.90:80 - IIS Windows Server
+2.23.104.60:80 - Заголовок не найден
+207.180.200.33:80 - IIS Windows Server
+78.155.25.129:80 - 403 Forbidden
+152.36.205.66:80 - CP9000 (192.168.1.2)
+190.174.6.11:80 - Заголовок не найден
+127.12.48.143:80 - IIS Windows Server
+206.85.17.250:80 - 403 Forbidden
+23.106.91.85:80 - Заголовок не найден
+45.79.25.112:80 - Gopher Menu
+103.2.224.119:80 - Apache HTTP Server Test Page powered by CentOS
+44.214.49.186:80 - Bad Request (400)
+93.184.216.25:80 - 404 - Not Found
+177.86.99.10:80 - Welcome to nginx!
+183.120.99.237:80 - HCMSActiveX Viewer
+13.32.178.86:80 - Заголовок не найден
+18.192.132.35:80 - 403 Forbidden
+54.160.114.25:80 - Заголовок не найден
+68.117.228.133:80 - 
+127.176.30.249:80 - IIS Windows Server
+127.49.120.108:80 - IIS Windows Server
+108.143.225.185:80 - 503 Service Temporarily Unavailable
+127.64.18.229:80 - IIS Windows Server
+99.84.136.215:80 - Заголовок не найден
+173.208.130.2:80 - 500 - Internal server error.
+13.233.35.90:80 - D. Y. Patil
+159.65.14.133:80 - Welcome to nginx!
+18.67.210.213:80 - Заголовок не найден
+51.15.165.75:80 - Заголовок не найден
+127.192.196.208:80 - IIS Windows Server
+127.64.21.111:80 - IIS Windows Server
+127.117.89.163:80 - IIS Windows Server
+127.171.226.154:80 - IIS Windows Server
+195.201.148.23:80 - CHEERIO Entertainment - SUPER FAST, FANCY, RELIABLE AND FRESH CONTENT CREATOR
+46.217.164.205:80 - WEB SERVICE
+127.152.176.10:80 - IIS Windows Server
+47.245.29.134:80 - 403 Forbidden
+65.9.91.132:80 - Заголовок не найден
+127.202.32.0:80 - IIS Windows Server
+220.92.8.71:80 - 
+127.72.199.107:80 - IIS Windows Server
+127.96.251.180:80 - IIS Windows Server
+127.244.170.78:80 - IIS Windows Server
+66.33.207.92:80 - Site not found &middot; DreamHost
+127.133.115.168:80 - IIS Windows Server
+23.14.48.75:80 - Заголовок не найден
+91.236.74.8:80 - RouterOS router configuration page
+127.237.94.77:80 - IIS Windows Server
+38.28.223.149:80 - Заголовок не найден
+104.89.160.112:80 - Заголовок не найден
+14.161.25.42:80 - Заголовок не найден
+127.27.64.209:80 - IIS Windows Server
+127.164.165.104:80 - IIS Windows Server
+3.165.98.88:80 - Заголовок не найден
+192.3.51.67:80 - Oryx
+23.51.58.17:80 - Заголовок не найден
+62.68.1.74:80 - Заголовок не найден
+85.128.238.187:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+212.85.60.255:80 - Vigor Login Page
+47.99.72.244:80 - 1001å§æ¬æ
+81.223.111.185:80 - 403 Forbidden
+188.128.206.96:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+43.156.1.233:80 - Welcome to nginx!
+23.55.241.38:80 - Заголовок не найден
+127.123.242.193:80 - IIS Windows Server
+54.169.39.53:80 - Заголовок не найден
+52.18.199.120:80 - 404 Not Found
+217.76.158.119:80 - Web Server's Default Page
+127.166.209.240:80 - IIS Windows Server
+127.245.40.52:80 - IIS Windows Server
+127.181.120.176:80 - IIS Windows Server
+23.196.133.195:80 - Заголовок не найден
+127.53.80.5:80 - IIS Windows Server
+106.15.248.157:80 - 403 Forbidden
+3.160.30.199:80 - Заголовок не найден
+68.52.186.232:80 - 
+127.53.62.149:80 - IIS Windows Server
+194.247.132.142:80 - DDoS-Guard
+23.209.112.46:80 - Заголовок не найден
+127.157.73.107:80 - IIS Windows Server
+78.129.138.29:80 - Заголовок не найден
+127.60.161.13:80 - IIS Windows Server
+127.145.175.133:80 - IIS Windows Server
+192.177.152.73:80 - 403 Forbidden
+4.71.135.245:80 - 403 Forbidden
+23.6.5.191:80 - Заголовок не найден
+135.181.192.9:80 - Apache2 Ubuntu Default Page: It works
+127.133.8.59:80 - IIS Windows Server
+205.134.164.229:80 - Заголовок не найден
+127.58.51.221:80 - IIS Windows Server
+127.228.143.192:80 - IIS Windows Server
+127.110.191.41:80 - IIS Windows Server
+54.192.232.170:80 - Заголовок не найден
+204.19.20.55:80 - Заголовок не найден
+127.66.194.232:80 - IIS Windows Server
+127.71.196.214:80 - IIS Windows Server
+104.88.173.144:80 - Заголовок не найден
+127.177.18.0:80 - IIS Windows Server
+209.235.131.15:80 - Заголовок не найден
+65.1.206.233:80 - Заголовок не найден
+4.189.216.25:80 - Заголовок не найден
+127.49.208.254:80 - IIS Windows Server
+38.153.83.15:80 - Заголовок не найден
+115.79.238.167:80 - MobiProxy
+197.15.245.192:80 - 
+183.201.218.136:80 - Заголовок не найден
+110.10.81.24:80 - 403 Forbidden
+104.24.18.144:80 - Direct IP access not allowed | Cloudflare
+54.166.64.119:80 - WeatherBug JSON Data Service Calls
+82.180.37.101:80 - .::Welcome to the Web-Based Configurator::.
+20.241.222.201:80 - Заголовок не найден
+158.140.195.140:80 - 404 Not Found
+187.130.107.73:80 - Заголовок не найден
+104.221.194.221:80 - 404 Not Found
+54.230.212.161:80 - Заголовок не найден
+184.84.159.197:80 - Заголовок не найден
+128.199.197.152:80 - Заголовок не найден
+127.101.88.97:80 - IIS Windows Server
+13.229.169.146:80 - Minerva Redmine
+23.65.43.191:80 - Заголовок не найден
+104.248.67.89:80 - 404 Not Found
+23.2.211.116:80 - Заголовок не найден
+13.64.135.150:80 - Заголовок не найден
+127.73.105.159:80 - IIS Windows Server
+3.142.102.154:80 - Заголовок не найден
+87.225.110.86:80 - VasyaNetwork
+135.148.70.4:80 - 500 Internal Server Error
+154.195.243.125:80 - æ²¡ææ¾å°ç«ç¹
+127.65.178.194:80 - IIS Windows Server
+162.214.115.236:80 - 404 Not Found
+127.216.145.108:80 - IIS Windows Server
+3.109.187.230:80 - Заголовок не найден
+127.232.177.225:80 - IIS Windows Server
+54.86.23.121:80 - Welcome to nginx!
+160.124.35.81:80 - 404 Not Found
+23.209.227.88:80 - Заголовок не найден
+173.48.108.50:80 - ACME Access Only
+211.44.226.167:80 - Заголовок не найден
+192.203.139.100:80 - L7
+210.48.64.182:80 - Заголовок не найден
+18.165.1.172:80 - Заголовок не найден
+192.185.90.92:80 - Not Acceptable!
+104.67.38.12:80 - Заголовок не найден
+209.208.226.10:80 - Temporarily Unavailable
+89.35.138.241:80 - Заголовок не найден
+192.177.25.32:80 - 403 Forbidden
+127.214.102.190:80 - IIS Windows Server
+4.246.169.173:80 - Apache2 Ubuntu Default Page: It works
+127.126.99.223:80 - IIS Windows Server
+148.101.156.71:80 - 
+45.200.244.77:80 - æ²¡ææ¾å°ç«ç¹
+127.90.32.143:80 - IIS Windows Server
+116.255.21.196:80 - Заголовок не найден
+23.223.215.73:80 - Заголовок не найден
+127.169.2.179:80 - IIS Windows Server
+50.28.39.141:80 - Заголовок не найден
+127.241.71.108:80 - IIS Windows Server
+127.225.247.140:80 - IIS Windows Server
+103.182.158.180:80 - RouterOS router configuration page
+127.147.185.145:80 - IIS Windows Server
+127.202.45.170:80 - IIS Windows Server
+18.64.52.2:80 - Заголовок не найден
+178.167.89.137:80 - Заголовок не найден
+127.115.134.160:80 - IIS Windows Server
+113.161.141.172:80 - Home Page
+190.51.195.207:80 - Заголовок не найден
+127.243.107.214:80 - IIS Windows Server
+127.160.38.177:80 - IIS Windows Server
+178.216.201.88:80 - 
+34.210.198.114:80 - Apache2 Ubuntu Default Page: It works
+69.20.89.226:80 - Заголовок не найден
+127.218.49.168:80 - IIS Windows Server
+127.28.150.201:80 - IIS Windows Server
+127.118.170.214:80 - IIS Windows Server
+212.85.122.2:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+3.129.25.138:80 - Заголовок не найден
+18.239.86.108:80 - Заголовок не найден
+34.80.148.78:80 - Заголовок не найден
+108.186.39.77:80 - 404 Not Found
+100.38.245.131:80 - Document Moved
+117.80.147.211:80 - 403 Forbidden
+18.238.236.253:80 - Заголовок не найден
+185.124.136.185:80 - 403 Forbidden
+23.54.34.39:80 - Заголовок не найден
+40.115.244.204:80 - IIS Windows Server
+23.42.89.33:80 - Заголовок не найден
+127.67.113.63:80 - IIS Windows Server
+34.96.119.94:80 - 502
+157.107.129.37:80 - 403 Forbidden
+127.123.213.63:80 - IIS Windows Server
+2.22.37.41:80 - Заголовок не найден
+51.178.229.12:80 - Ineldea - STC Nutrition
+154.39.24.249:80 - ERROR: The requested URL could not be retrieved
+151.59.119.0:80 - 
+66.36.234.18:80 - 403 Forbidden
+127.225.125.249:80 - IIS Windows Server
+127.11.213.234:80 - IIS Windows Server
+193.234.22.219:80 - Under Construction
+209.97.191.5:80 - www.realest.pro | 522: Connection timed out
+127.189.97.162:80 - IIS Windows Server
+127.72.100.132:80 - IIS Windows Server
