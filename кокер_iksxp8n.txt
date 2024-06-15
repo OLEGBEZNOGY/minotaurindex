@@ -7002,3 +7002,12 @@ Context: {"exception":{}}
 65.254.248.96:80 - Заголовок не найден
 52.172.187.52:80 - Web Server's Default Page
 195.15.210.74:80 - web host not found
+162.255.165.113:80 - Заголовок не найден
+160.248.80.182:80 - データベースエラー
+75.150.184.75:80 - 
+212.19.102.2:80 - Заголовок не найден
+123.57.53.69:80 - Заголовок не найден
+34.173.159.166:80 - Apache2 Debian Default Page: It works
+35.195.207.5:80 - Site Not Configured | 404 Not Found
+72.167.58.19:80 - RHG CARES
+185.115.179.222:80 - Domain nicht verfÃ¼gbar | Domain not available
