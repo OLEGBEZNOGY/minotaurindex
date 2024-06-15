@@ -7346,3 +7346,6 @@ are
 72.20.193.177:80 - Web Viewer for Samsung DVR
 47.92.135.216:80 - 404 Not Found
 152.0.151.200:80 - 
+172.64.193.146:80 - Direct IP access not allowed | Cloudflare
+79.127.240.23:80 - Заголовок не найден
+220.133.43.75:80 - 
