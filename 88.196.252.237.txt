@@ -1810,3 +1810,108 @@
 212.33.37.6:80 - LIWEST – Wir verbinden Menschen.
 23.225.87.212:80 - 403 Forbidden
 149.88.71.238:80 - 404 Not Found
+185.144.156.52:80 - Welcome to nginx!
+18.202.26.128:80 - 404 Not Found
+133.167.116.86:80 - Apache HTTP Server Test Page powered by CentOS
+172.64.38.221:80 - Direct IP access not allowed | Cloudflare
+18.234.168.168:80 - Retail Leaders
+51.161.140.205:80 - Success!
+149.104.34.108:80 - iOS超级签名
+72.247.138.96:80 - Заголовок не найден
+82.65.3.184:80 - 404 Not Found
+23.37.192.126:80 - Заголовок не найден
+180.101.136.47:80 - 403 Forbidden
+184.26.182.13:80 - Заголовок не найден
+69.57.163.104:80 - Web Server's Default Page
+176.249.84.140:80 - Intelligent Digital Security System
+59.151.58.252:80 - Web user login
+199.241.137.162:80 - Apache2 Ubuntu Default Page: It works
+106.14.119.142:80 - 403 Forbidden
+190.167.15.151:80 - 
+138.3.240.38:80 - Welcome to nginx!
+85.31.235.144:80 - Welcome to nginx!
+23.222.214.219:80 - Заголовок не найден
+120.220.191.35:80 - Заголовок не найден
+151.244.90.15:80 - WEB SERVICE
+34.207.8.128:80 - 503 Service Temporarily Unavailable
+186.132.58.135:80 - Заголовок не найден
+116.92.246.67:80 - Заголовок не найден
+77.76.26.188:80 - Заголовок не найден
+186.132.57.218:80 - Заголовок не найден
+13.225.128.174:80 - Заголовок не найден
+193.205.194.91:80 - RSLab
+23.209.124.69:80 - Заголовок не найден
+98.250.170.201:80 - Заголовок не найден
+49.212.72.218:80 - 403 Forbidden
+103.80.131.37:80 - Apache2 Ubuntu Default Page: It works
+23.51.161.79:80 - Заголовок не найден
+151.101.241.141:80 - Fastly error: unknown domain 151.101.241.141
+54.151.91.237:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+112.106.119.194:80 - Заголовок не найден
+192.111.155.46:80 - Apache HTTP Server Test Page powered by CentOS
+103.147.26.86:80 - 403 Forbidden
+99.192.177.172:80 - Заголовок не найден
+104.68.30.191:80 - Заголовок не найден
+116.204.72.131:80 - Заголовок не найден
+186.250.95.111:80 - O host n&#227;o possui configura&#231;&#227;o: 186.250.95.111:80
+20.119.201.133:80 - HTTP Server Test Page powered by CentOS
+188.225.76.232:80 - FASTPANEL
+136.0.111.38:80 - Заголовок не найден
+23.58.29.183:80 - Заголовок не найден
+134.213.55.29:80 - Заголовок не найден
+154.38.25.111:80 - ERROR: The requested URL could not be retrieved
+23.221.106.162:80 - Заголовок не найден
+3.220.186.9:80 - Choose Your Country - My WU℠ | Western Union®
+37.61.191.138:80 - DASAN
+91.49.244.184:80 - 
+185.127.231.23:80 - 404 Not Found
+38.12.137.253:80 - Заголовок не найден
+116.203.47.96:80 - Login &#8211; Unbored Training
+161.117.201.133:80 - 503 Service Temporarily Unavailable
+38.153.95.143:80 - ERROR: The requested URL could not be retrieved
+201.55.49.21:80 - Corpo de Bombeiros
+148.72.176.78:80 - Index of /
+108.94.91.247:80 - Hello! Welcome to Synology Web Station!
+112.213.84.25:80 - Заголовок не найден
+43.159.138.46:80 - IIS Windows Server
+85.121.54.152:80 - 500 Internal Server Error
+208.76.48.2:80 - 403 Forbidden
+218.195.117.111:80 - 
+186.6.239.75:80 - 
+168.206.240.18:80 - æ²¡ææ¾å°ç«ç¹
+108.158.12.95:80 - Заголовок не найден
+162.243.135.46:80 - Заголовок не найден
+23.32.203.145:80 - Заголовок не найден
+52.211.120.51:80 - Заголовок не найден
+184.164.135.171:80 - Заголовок не найден
+38.152.138.149:80 - ERROR: The requested URL could not be retrieved
+198.154.99.85:80 - IIS7
+5.23.98.162:80 - Welcome to nginx!
+74.15.20.104:80 - 
+77.95.1.210:80 - Заголовок не найден
+69.206.50.185:80 - 
+152.0.95.29:80 - 
+2.20.234.193:80 - Заголовок не найден
+198.37.113.68:80 - Reddit - Dive into anything
+209.124.79.186:80 - Заголовок не найден
+50.57.247.50:80 - Coming Soon page
+156.67.214.20:80 - 404 Not Found
+199.187.22.237:80 - 403 Forbidden
+62.210.100.12:80 - Apache2 Ubuntu Default Page: It works
+4.158.126.180:80 - Your Azure Function App is up and running.
+104.25.201.81:80 - Direct IP access not allowed | Cloudflare
+88.201.241.246:80 - 
+52.95.251.231:80 - Oportunidades exponenciais para as startups - 205 Ventures
+91.108.243.4:80 - FASTPANEL
+143.233.248.176:80 - Заголовок не найден
+100.26.137.243:80 - Selenium Grid
+206.54.190.30:80 - New website for Fozzy
+145.239.142.55:80 - Apache2 Ubuntu Default Page: It works
+108.142.54.54:80 - Заголовок не найден
+219.251.168.228:80 - main page
+18.165.14.139:80 - Заголовок не найден
+35.78.229.128:80 - 404 Not Found
+47.92.5.244:80 - Apache2 Ubuntu Default Page: It works
+104.91.122.154:80 - Заголовок не найден
+95.215.242.220:80 - Заголовок не найден
+104.25.207.234:80 - Direct IP access not allowed | Cloudflare
