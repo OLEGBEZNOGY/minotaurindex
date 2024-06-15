@@ -16030,3 +16030,20 @@ Brklyn - Brklyn-Media - PBS
 99.83.224.198:80 - 404 Not Found
 212.227.194.14:80 - Web Server's Default Page
 154.92.224.45:80 - 404 Not Found
+179.52.32.255:80 - 
+51.222.35.133:80 - Test Page for the Centmin Mod Nginx HTTP Server
+104.86.39.135:80 - Заголовок не найден
+13.111.164.33:80 - 403 - Forbidden: Access is denied.
+178.77.242.141:80 - Internet pro Vás | Brnonet.eu
+47.240.62.102:80 - LNMPä¸é®å®è£å by Licess
+118.43.99.57:80 - WEB SERVICE
+108.157.105.215:80 - Заголовок не найден
+3.115.147.218:80 - Заголовок не найден
+154.30.216.162:80 - ERROR: The requested URL could not be retrieved
+13.249.58.251:80 - Заголовок не найден
+194.44.139.100:80 - RouterOS router configuration page
+37.220.18.25:80 - ERROR: The requested URL could not be retrieved
+142.4.127.91:80 - Заголовок не найден
+202.188.215.34:80 - 
+162.209.190.130:80 - 403 Forbidden
+80.96.7.16:80 - One moment, please...
