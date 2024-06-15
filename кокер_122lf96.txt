@@ -4614,3 +4614,22 @@ ess not allowed | Cloudflare
 50.112.146.40:80 - Заголовок не найден
 203.117.115.165:80 - 403 - Forbidden: Access is denied.
 104.75.117.206:80 - Заголовок не найден
+172.233.218.175:80 - Christian Boxing Academy
+23.198.36.17:80 - Заголовок не найден
+18.141.35.158:80 - Welcome to nginx!
+148.252.118.165:80 - Apache2 Ubuntu Default Page: It works
+24.207.208.207:80 - 
+84.38.67.100:80 - vserver2243.vserver-on.de | KeyHelp
+154.201.149.82:80 - 404 Not Found
+24.171.244.146:80 - 
+45.8.31.13:80 - 404 Not Found
+94.62.143.193:80 - Заголовок не найден
+70.64.124.105:80 - 
+103.50.206.241:80 - Welcome to nginx!
+69.91.200.10:80 - Заголовок не найден
+192.185.38.247:80 - Not Acceptable!
+129.174.134.74:80 - Заголовок не найден
+69.30.219.10:80 - IIS Windows Server
+51.38.56.65:80 - Apache2 Debian Default Page: It works
+142.160.94.235:80 - Jellyfin
+151.101.95.21:80 - Fastly error: unknown domain 151.101.95.21
