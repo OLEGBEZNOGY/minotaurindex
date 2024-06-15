@@ -8445,3 +8445,6 @@
 200.41.5.210:80 - 400 The plain HTTP request was sent to HTTPS port
 18.172.196.112:80 - Заголовок не найден
 23.38.225.40:80 - Заголовок не найден
+51.195.126.227:80 - Site YapÄ±m AÅamasÄ±nda
+20.67.210.156:80 - Microsoft Azure Web App - Error 404
+91.219.16.103:80 - 403 Forbidden
