@@ -8900,3 +8900,220 @@
 127.6.153.90:80 - IIS Windows Server
 23.206.50.222:80 - Заголовок не найден
 164.90.159.171:80 - BHR - Portal Suite
+52.128.43.230:80 - Contact ActiveCampaign - Support and Sales
+168.119.39.196:80 - 404 Not Found
+127.239.61.142:80 - IIS Windows Server
+118.126.65.176:80 - æ­åï¼ç«ç¹åå»ºæåï¼111111111111111111111111111111111111111111111111111
+127.45.160.15:80 - IIS Windows Server
+16.170.234.248:80 - Laravel
+54.175.208.216:80 - GroundTruth Blueprints
+127.153.27.52:80 - IIS Windows Server
+38.14.190.27:80 - Заголовок не найден
+172.121.63.81:80 - 403 Forbidden
+172.233.128.111:80 - Заголовок не найден
+104.17.218.227:80 - Direct IP access not allowed | Cloudflare
+127.106.33.238:80 - IIS Windows Server
+67.222.135.23:80 - 500 Internal Server Error
+20.165.18.29:80 - Your Azure Function App is up and running.
+127.137.174.113:80 - IIS Windows Server
+172.232.132.38:80 - this is a mail-in-a-box
+127.129.42.110:80 - IIS Windows Server
+127.144.46.96:80 - IIS Windows Server
+91.239.26.244:80 - Apache2 Ubuntu Default Page: It works
+213.246.40.157:80 - Заголовок не найден
+78.129.200.132:80 - Заголовок не найден
+63.228.131.75:80 - Заголовок не найден
+107.150.27.103:80 - Заголовок не найден
+127.73.183.137:80 - IIS Windows Server
+35.233.1.77:80 - 404 Not Found
+66.226.76.234:80 - Заголовок не найден
+127.176.33.14:80 - IIS Windows Server
+185.187.64.134:80 - 403 Forbidden
+104.18.88.110:80 - Direct IP access not allowed | Cloudflare
+101.37.130.4:80 - Test Page for the Nginx HTTP Server on Fedora
+104.97.32.93:80 - Заголовок не найден
+127.250.218.226:80 - IIS Windows Server
+127.130.165.124:80 - IIS Windows Server
+127.199.148.192:80 - IIS Windows Server
+127.47.75.55:80 - IIS Windows Server
+49.156.181.25:80 - 404 Not Found
+18.192.238.190:80 - Заголовок не найден
+37.44.16.228:80 - 404 Not Found
+102.67.70.232:80 - Заголовок не найден
+3.127.19.99:80 - 404 Not Found
+139.129.246.212:80 - Заголовок не найден
+127.4.89.214:80 - IIS Windows Server
+54.197.138.216:80 - Заголовок не найден
+127.165.213.42:80 - IIS Windows Server
+154.23.73.212:80 - Заголовок не найден
+35.227.241.219:80 - 403 Forbidden
+18.155.161.180:80 - Заголовок не найден
+127.160.40.248:80 - IIS Windows Server
+127.113.133.48:80 - IIS Windows Server
+191.82.33.228:80 - Заголовок не найден
+168.90.197.47:80 - 407 Proxy Authentication Required
+127.147.55.208:80 - IIS Windows Server
+127.233.157.141:80 - IIS Windows Server
+45.192.79.40:80 - 404 Not Found
+23.111.124.100:80 - ultracity
+52.31.12.61:80 - PSA CFGv3 mocks server
+3.86.247.104:80 - 404 Not Found
+184.30.209.18:80 - Заголовок не найден
+127.190.253.213:80 - IIS Windows Server
+85.194.71.107:80 - Web Page Blocked
+23.196.136.40:80 - Заголовок не найден
+31.132.55.248:80 - Apache2 Ubuntu Default Page: It works
+23.197.246.124:80 - Заголовок не найден
+203.245.40.131:80 - Заголовок не найден
+83.16.110.86:80 - Drukarnia online - druk kalendarzy, katalogów, toreb papierowych, elementów dekoracji wnętrz i innych
+191.83.217.78:80 - Заголовок не найден
+120.48.112.136:80 - 吉林国艺苑科技有限公司
+54.215.108.190:80 - 403 Forbidden
+180.229.178.79:80 - Заголовок не найден
+207.244.118.15:80 - 407 Proxy Authentication Required
+176.224.88.35:80 - Заголовок не найден
+218.208.48.252:80 - 502 Bad Gateway
+91.218.209.246:80 - RouterOS router configuration page
+188.128.148.254:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+127.33.211.107:80 - IIS Windows Server
+72.167.143.20:80 - Заголовок не найден
+185.162.250.75:80 - s4.be-on.de
+127.161.161.81:80 - IIS Windows Server
+104.140.156.63:80 - 403 Forbidden
+206.119.11.9:80 - 404
+35.246.46.45:80 - Заголовок не найден
+104.248.108.44:80 - Apache2 Ubuntu Default Page: It works
+143.110.250.251:80 - Заголовок не найден
+127.226.68.110:80 - IIS Windows Server
+104.81.238.236:80 - Заголовок не найден
+62.193.43.189:80 - Заголовок не найден
+47.104.206.90:80 - æ²¡ææ¾å°ç«ç¹
+38.45.132.248:80 - Заголовок не найден
+185.150.17.233:80 - Заголовок не найден
+3.163.158.18:80 - Заголовок не найден
+218.247.95.190:80 - 403 Forbidden
+127.95.58.55:80 - IIS Windows Server
+127.47.127.39:80 - IIS Windows Server
+18.239.48.198:80 - Заголовок не найден
+13.224.53.24:80 - Заголовок не найден
+34.250.229.98:80 - Заголовок не найден
+139.28.170.198:80 - 500 Internal Server Error
+127.16.174.79:80 - IIS Windows Server
+165.225.195.77:80 - Internet Security by Zscaler
+72.42.246.204:80 - Заголовок не найден
+127.210.161.95:80 - IIS Windows Server
+193.255.70.84:80 - Заголовок не найден
+154.89.111.220:80 - æ²¡ææ¾å°ç«ç¹
+220.146.222.98:80 - Web Client
+99.84.254.168:80 - Заголовок не найден
+127.135.159.68:80 - IIS Windows Server
+179.53.232.73:80 - 
+127.208.127.177:80 - IIS Windows Server
+157.7.188.188:80 - 403 Forbidden
+46.89.55.195:80 - Заголовок не найден
+18.136.150.207:80 - Welcome to nginx!
+45.94.171.111:80 - Welcome to XAMPP
+80.69.162.236:80 - Заголовок не найден
+127.68.84.150:80 - IIS Windows Server
+127.73.254.252:80 - IIS Windows Server
+23.7.190.86:80 - Заголовок не найден
+43.128.90.16:80 - Заголовок не найден
+127.70.57.7:80 - IIS Windows Server
+154.223.117.140:80 - 404 Not Found
+199.232.171.192:80 - Заголовок не найден
+120.79.68.213:80 - æ²¡ææ¾å°ç«ç¹
+35.184.121.92:80 - Test Page for the Nginx HTTP Server on EPEL
+208.34.243.211:80 - Заголовок не найден
+5.157.32.34:80 - 407 Proxy Authentication Required
+212.58.20.199:80 - Заголовок не найден
+45.66.189.39:80 - æ¾³é¨å¨å°¼æ¯äºº
+61.169.51.101:80 - 统一身份认证中心
+127.90.32.105:80 - IIS Windows Server
+219.218.98.182:80 - 404 Not Found
+77.44.91.193:80 - Welcome to nginx!
+81.217.227.197:80 - supra IPC-20C
+104.20.59.85:80 - Direct IP access not allowed | Cloudflare
+127.226.63.182:80 - IIS Windows Server
+121.156.0.22:80 - Заголовок не найден
+87.79.4.253:80 - Заголовок не найден
+127.244.205.143:80 - IIS Windows Server
+104.206.73.198:80 - 403 Forbidden
+104.165.90.59:80 - 403 Forbidden
+54.208.230.233:80 - DisallowedHost
+          at /
+94.130.32.164:80 - Web Server's Default Page
+151.248.113.233:80 - Welcome to nginx!
+127.182.230.209:80 - IIS Windows Server
+24.166.228.141:80 - 
+108.139.224.3:80 - Заголовок не найден
+43.156.20.108:80 - Cloudreve
+178.239.122.198:80 - Please wait, the page is opening...
+2.20.233.252:80 - Заголовок не найден
+202.146.226.237:80 - Sistem KUSP  - Login
+173.17.9.255:80 - Заголовок не найден
+168.76.148.114:80 - æ²¡ææ¾å°ç«ç¹
+103.52.16.141:80 - Apache2 Ubuntu Default Page: It works
+127.232.213.187:80 - IIS Windows Server
+74.81.87.42:80 - Заголовок не найден
+176.99.241.39:80 - Заголовок не найден
+154.39.24.171:80 - ERROR: The requested URL could not be retrieved
+180.163.67.245:80 - Welcome to CentOS
+127.186.35.220:80 - IIS Windows Server
+217.160.233.26:80 - 403 Forbidden
+96.9.37.251:80 - 403 Forbidden
+18.65.222.160:80 - Заголовок не найден
+37.24.15.37:80 - Заголовок не найден
+69.14.248.128:80 - Заголовок не найден
+162.222.225.80:80 - Default Parallels Plesk Panel Page
+42.101.79.69:80 - 403 Forbidden
+23.10.49.216:80 - Заголовок не найден
+127.167.184.12:80 - IIS Windows Server
+83.234.93.163:80 - Заголовок не найден
+13.54.173.83:80 - Login - ClubConnect
+148.63.152.25:80 - Заголовок не найден
+127.226.104.123:80 - IIS Windows Server
+127.236.18.241:80 - IIS Windows Server
+109.120.182.45:80 - mailcow UI
+18.66.6.33:80 - Заголовок не найден
+127.194.229.139:80 - IIS Windows Server
+127.23.203.96:80 - IIS Windows Server
+127.92.165.130:80 - IIS Windows Server
+127.50.8.19:80 - IIS Windows Server
+127.13.31.131:80 - IIS Windows Server
+13.59.80.49:80 - 503 - Service Unavailable From ThreatX
+151.244.51.191:80 - WEB SERVICE
+18.207.197.165:80 - Artboard
+3.163.1.155:80 - Заголовок не найден
+138.201.222.244:80 - Welcome to nginx!
+127.169.68.59:80 - IIS Windows Server
+127.72.113.149:80 - IIS Windows Server
+23.209.110.182:80 - Заголовок не найден
+50.2.175.130:80 - 404 Not Found
+127.144.231.51:80 - IIS Windows Server
+52.21.109.215:80 - Заголовок не найден
+209.38.138.37:80 - Estoico365 - Método do Estoicismo Diário
+24.144.86.46:80 - 404 Not Found
+23.7.133.27:80 - Заголовок не найден
+3.231.144.241:80 - Заголовок не найден
+168.70.116.102:80 - 
+207.192.143.93:80 - 
+190.145.43.130:80 - 
+142.250.77.224:80 - Google
+127.164.241.201:80 - IIS Windows Server
+127.116.233.218:80 - IIS Windows Server
+127.230.46.198:80 - IIS Windows Server
+47.243.111.229:80 - Заголовок не найден
+127.190.110.191:80 - IIS Windows Server
+173.194.195.120:80 - Google
+80.87.195.25:80 - Welcome to nginx!
+127.214.183.9:80 - IIS Windows Server
+14.34.243.148:80 - 
+127.134.125.74:80 - IIS Windows Server
+127.126.24.129:80 - IIS Windows Server
+23.218.195.42:80 - Заголовок не найден
+124.158.108.236:80 - 
+79.96.159.195:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+127.51.158.253:80 - IIS Windows Server
+71.6.36.66:80 - ACME Access Only
+80.72.16.155:80 - 403 Forbidden
+178.128.118.122:80 - Website Unavailable
