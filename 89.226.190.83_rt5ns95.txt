@@ -1288,3 +1288,5 @@
 46.41.167.120:80 - Strona w przygotowaniu
 8.9.162.216:80 - ePMP
 91.126.69.195:80 - ownCloud
+104.140.45.22:80 - 403 Forbidden
+87.185.150.79:80 - 503 Service Temporarily Unavailable
