@@ -2470,3 +2470,48 @@
 52.76.46.124:80 - 918 Kiss
 99.84.18.85:80 - Заголовок не найден
 104.166.87.157:80 - 404 Not Found
+20.81.28.137:80 - 404 Not Found
+192.185.40.161:80 - Not Acceptable!
+51.89.138.6:80 - Best Luggage Storage
+13.250.134.137:80 - 503 Service Temporarily Unavailable
+127.101.44.19:80 - Welcome to XAMPP
+127.183.202.223:80 - Welcome to XAMPP
+127.212.69.5:80 - Welcome to XAMPP
+127.176.160.213:80 - Welcome to XAMPP
+108.136.173.190:80 - Apache2 Ubuntu Default Page: It works
+208.110.73.212:80 - 404 - ÕÒ²»µ½ÎÄ¼þ»òÄ¿Â¼¡£
+62.47.23.132:80 - Заголовок не найден
+23.194.148.31:80 - Заголовок не найден
+89.161.167.157:80 - ADWOKAT OSTRÃW WIELKOPOLSKI | Kancelaria Adwokacka | Prawnicy
+127.195.83.23:80 - Welcome to XAMPP
+75.109.32.37:80 - Заголовок не найден
+18.209.66.72:80 - Welcome to nginx!
+213.128.28.44:80 - RouterOS
+127.222.67.175:80 - Welcome to XAMPP
+68.40.255.110:80 - Default Site
+127.15.29.48:80 - Welcome to XAMPP
+127.57.190.128:80 - Welcome to XAMPP
+116.255.168.96:80 - Заголовок не найден
+127.104.169.234:80 - Welcome to XAMPP
+127.135.152.26:80 - Welcome to XAMPP
+47.94.232.11:80 - 403 Forbidden
+66.97.33.83:80 - Заголовок не найден
+127.210.133.11:80 - Welcome to XAMPP
+23.203.161.9:80 - Заголовок не найден
+154.92.67.120:80 - æ²¡ææ¾å°ç«ç¹
+18.100.243.78:80 - Заголовок не найден
+37.187.76.22:80 - Apache2 Debian Default Page: It works
+127.198.250.153:80 - Welcome to XAMPP
+109.232.102.28:80 - .::Welcome to the Web-Based Configurator::.
+118.215.122.244:80 - Заголовок не найден
+38.152.165.154:80 - ERROR: The requested URL could not be retrieved
+60.188.12.33:80 - Заголовок не найден
+18.245.87.84:80 - Заголовок не найден
+155.159.254.184:80 - 403 Forbidden
+3.125.176.49:80 - Hypofriend is Germany’s Clever Online Mortgage Broker
+18.161.225.24:80 - Заголовок не найден
+65.8.187.196:80 - Заголовок не найден
+127.196.126.120:80 - Welcome to XAMPP
+127.120.115.196:80 - Welcome to XAMPP
+194.30.31.68:80 - Informe-diagn&oacute;stico
+127.148.156.222:80 - Welcome to XAMPP
