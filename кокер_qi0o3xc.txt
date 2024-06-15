@@ -9977,3 +9977,52 @@ and photos of Daniel G. Beckett, Jr.
 20.201.122.28:80 - Home | Toddynho
 15.156.32.161:80 - 403 Forbidden
 177.84.136.105:80 - RouterOS router configuration page
+23.204.4.121:80 - Заголовок не найден
+146.196.64.196:80 - Welcome to nginx!
+96.83.127.121:80 - Document Moved
+51.75.140.117:80 - 503 Service Temporarily Unavailable
+23.50.137.144:80 - Заголовок не найден
+104.153.149.156:80 - Page not found
+162.220.13.142:80 - Заголовок не найден
+107.158.30.66:80 - 403 Forbidden
+23.216.176.106:80 - Заголовок не найден
+159.69.231.26:80 - Web Server's Default Page
+23.49.108.73:80 - Заголовок не найден
+183.230.40.201:80 - Error
+38.92.178.87:80 - Заголовок не найден
+92.123.175.70:80 - Заголовок не найден
+59.127.70.109:80 - 
+154.118.39.235:80 - RouterOS router configuration page
+23.222.19.167:80 - Заголовок не найден
+95.173.189.198:80 - Siemens Vakfı
+152.228.171.12:80 - iconeo.fr | Agence de communication internet - Bordeaux rive droite
+185.230.140.209:80 - 503 Service Temporarily Unavailable
+52.78.119.235:80 - Заголовок не найден
+98.98.247.113:80 - Заголовок не найден
+212.35.217.196:80 - 403 Forbidden
+54.94.128.160:80 - Заголовок не найден
+104.18.188.168:80 - Direct IP access not allowed | Cloudflare
+23.35.203.221:80 - Заголовок не найден
+5.250.248.179:80 - 403 Forbidden
+122.9.147.116:80 - Welcome to nginx!
+47.94.242.102:80 - Заголовок не найден
+52.84.126.41:80 - Заголовок не найден
+23.51.116.18:80 - Заголовок не найден
+52.198.225.215:80 - Заголовок не найден
+188.0.239.122:80 - Schimbator Cloud
+38.153.202.182:80 - ERROR: The requested URL could not be retrieved
+117.177.132.148:80 - 403 Forbidden
+23.49.218.235:80 - Заголовок не найден
+108.158.166.160:80 - Заголовок не найден
+104.19.107.9:80 - Direct IP access not allowed | Cloudflare
+172.83.72.53:80 - Direct IP access not allowed | Cloudflare
+213.200.50.109:80 - Title
+146.75.5.153:80 - Fastly error: unknown domain 146.75.5.153
+183.253.2.146:80 - Welcome to nginx!
+23.34.112.223:80 - Заголовок не найден
+50.4.127.185:80 - 
+2.19.87.139:80 - Заголовок не найден
+73.84.153.97:80 - 
+54.172.181.135:80 - Testing Server Status
+13.225.139.228:80 - Заголовок не найден
+180.150.228.147:80 - Apache HTTP Server Test Page powered by CentOS
