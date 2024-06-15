@@ -6950,3 +6950,20 @@ ess not allowed | Cloudflare
 64.44.198.236:80 - YourBrand
 45.223.177.66:80 - Заголовок не найден
 35.186.236.115:80 - 502 Server Error
+153.122.150.22:80 - 1991 @®ïÐ ëããë / IÈøÊvjOAX^WIATEhvf[X
+43.218.19.93:80 - 404 Not Found
+1.94.74.196:80 - Заголовок не найден
+162.214.90.166:80 - Somicro Informática LTDA
+144.91.98.163:80 - IIS Windows Server
+62.129.201.147:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+23.10.41.126:80 - Заголовок не найден
+47.238.6.58:80 - Direct IP access not allowed | Cloudflare
+18.172.88.121:80 - Заголовок не найден
+84.237.207.115:80 - 
+23.79.55.6:80 - Заголовок не найден
+152.0.205.14:80 - 
+101.132.178.103:80 - 403 Forbidden
+199.96.4.58:80 - Заголовок не найден
+95.59.26.243:80 - 404 Not Found
+172.67.200.140:80 - Direct IP access not allowed | Cloudflare
+156.54.176.95:80 - Home - Aedes
