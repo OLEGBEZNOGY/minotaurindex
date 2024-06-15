@@ -6918,3 +6918,9 @@ Brklyn - Brklyn-Media - PBS
 24.208.95.39:80 - 
 24.199.123.189:80 - 502 Bad Gateway
 61.222.126.52:80 - Microsoft Internet Information Services 8
+196.51.69.239:80 - ERROR: The requested URL could not be retrieved
+104.68.98.154:80 - Заголовок не найден
+23.212.248.75:80 - Заголовок не найден
+13.232.209.88:80 - 503 Service Temporarily Unavailable
+23.198.128.214:80 - Заголовок не найден
+159.65.146.92:80 - 404 Not Found
