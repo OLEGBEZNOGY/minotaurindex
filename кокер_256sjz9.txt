@@ -2221,3 +2221,7 @@ t Found
 108.157.149.246:80 - Заголовок не найден
 34.32.61.196:80 - Login
 23.34.157.143:80 - Заголовок не найден
+169.150.234.66:80 - Nodecraft - Game Servers Done Right
+157.230.186.120:80 - Leading online store for best products | vIDEO GAMES AND ACCESSORIES SONY
+188.165.123.94:80 - IIS7
+45.32.76.79:80 - Welcome to nginx!
