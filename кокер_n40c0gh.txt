@@ -11487,3 +11487,13 @@ Brklyn - Brklyn-Media - PBS
 35.153.164.193:80 - 403 Forbidden
 178.128.127.30:80 - easybet789 wallet เว็บตรง สล็อต คาสิโน auto wallet easybet เครดิตฟรี
 1.117.71.119:80 - æ²¡ææ¾å°ç«ç¹
+212.124.124.253:80 - 
+23.197.80.15:80 - Error
+192.185.67.219:80 - Not Acceptable!
+157.7.151.121:80 - 404 Error - Not Found
+104.18.231.239:80 - Direct IP access not allowed | Cloudflare
+110.43.70.185:80 - 
+104.93.92.46:80 - Заголовок не найден
+184.25.236.43:80 - Заголовок не найден
+152.136.153.80:80 - Welcome to nginx!
+65.1.84.58:80 - Apache2 Ubuntu Default Page: It works
