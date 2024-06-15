@@ -9245,3 +9245,16 @@ ess not allowed | Cloudflare
 76.228.212.58:80 - index
 18.165.10.31:80 - Заголовок не найден
 103.50.206.225:80 - Apache HTTP Server Test Page powered by CentOS
+35.189.224.206:80 - Apache2 Ubuntu Default Page: It works
+91.92.82.90:80 - WEB SERVICE
+184.86.156.171:80 - Заголовок не найден
+207.243.150.125:80 - 
+85.159.117.169:80 - Page not found
+118.139.162.83:80 - NMI | Nishabd Madhyam Initiatives
+5.75.140.32:80 - Заголовок не найден
+47.95.214.12:80 - ç½ç«è®¿é®æ¥é
+23.205.186.158:80 - Заголовок не найден
+52.186.101.127:80 - Microsoft Azure Web App - Error 404
+74.208.135.198:80 - Apache HTTP Server Test Page powered by CentOS
+188.165.58.249:80 - Domain Default page
+43.138.132.113:80 - å®æ§å®å¨å¨è¯¢
