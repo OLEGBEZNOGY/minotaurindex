@@ -8128,3 +8128,23 @@ No service configured for this hostname
 142.251.47.73:80 - Google
 162.209.207.212:80 - 403 Forbidden
 208.113.146.17:80 - phpMyAdmin
+54.237.94.121:80 - 400 The plain HTTP request was sent to HTTPS port
+82.151.199.95:80 - 403 Forbidden
+88.216.66.72:80 - Direct IP access not allowed | Cloudflare
+155.159.98.141:80 - 404 Not Found
+212.52.183.214:80 - WebDream Zabbix Server: Zabbix
+66.98.43.108:80 - 
+176.126.164.221:80 - Менталка-Войти
+4.152.45.131:80 - Your Azure Function App is up and running.
+78.61.237.195:80 - Document Error: Not Found
+2.17.129.119:80 - Заголовок не найден
+116.97.36.147:80 - 
+108.138.98.204:80 - Заголовок не найден
+81.94.245.217:80 - Заголовок не найден
+159.89.124.4:80 - 404 Not Found
+104.106.190.143:80 - Заголовок не найден
+108.158.38.165:80 - Заголовок не найден
+45.76.159.55:80 - HAPinUS Blog
+52.1.57.254:80 - Заголовок не найден
+155.94.217.194:80 - 400 The plain HTTP request was sent to HTTPS port
+89.107.231.129:80 - Заголовок не найден
