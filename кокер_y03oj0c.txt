@@ -1074,3 +1074,33 @@
 94.248.255.11:80 - 
 45.200.251.179:80 - 404 Not Found
 154.39.73.16:80 - 403 Forbidden
+167.82.92.211:80 - Fastly error: unknown domain 167.82.92.211
+136.226.3.17:80 - Internet Security by Zscaler
+34.117.27.1:80 - 403
+2.136.9.120:80 - Web Portal
+152.42.176.10:80 - Заголовок не найден
+207.150.209.34:80 - Заголовок не найден
+46.149.77.38:80 - Welcome to nginx!
+3.109.232.106:80 - IIS Windows Server
+107.149.136.99:80 - 404 Not Found
+182.16.47.220:80 - Welcome
+205.134.181.87:80 - Заголовок не найден
+71.132.32.196:80 - Заголовок не найден
+154.36.200.163:80 - 400 Bad Request
+104.207.33.242:80 - 502 Bad Gateway
+192.126.241.1:80 - ERROR: The requested URL could not be retrieved
+220.132.157.58:80 - 
+87.245.216.156:80 - Заголовок не найден
+23.216.225.254:80 - Заголовок не найден
+178.33.45.88:80 - Welcome to nginx!
+81.24.82.71:80 - Apache2 Debian Default Page: It works
+39.100.109.113:80 - 403 Forbidden
+66.154.79.170:80 - 403 Forbidden
+205.186.141.30:80 - Business-Class Web Hosting by (mt) Media Temple
+4.207.86.224:80 - Заголовок не найден
+83.147.0.68:80 - Bandwidth Speed Test
+222.103.59.215:80 - main page
+23.198.157.176:80 - Заголовок не найден
+51.38.107.142:80 - Slot Mania Olympus Situs Judi Online Resmi Terpercaya - Windomino
+18.223.205.195:80 - 502 Bad Gateway
+92.122.72.201:80 - Заголовок не найден
