@@ -1961,3 +1961,14 @@
 154.198.34.90:80 - 401 Unauthorized
 17.248.229.192:80 - 400 Bad Request
 81.196.132.190:80 - Centrul de Formare Profesionala R&amp;B Consulting
+64.112.61.173:80 - Apache HTTP Server Test Page powered by CentOS
+35.157.25.96:80 - Заголовок не найден
+45.118.134.190:80 - Welcome to CentOS
+85.209.1.212:80 - 401 Authorization Required
+186.6.125.178:80 - 
+161.97.130.67:80 - Заголовок не найден
+104.112.137.87:80 - Заголовок не найден
+52.218.118.19:80 - Amazon S3 - Cloud Object Storage  - AWS
+162.19.155.73:80 - Caddy works!
+189.190.91.149:80 - Заголовок не найден
+209.61.196.128:80 - Coming Soon - Another Domain Hosted by SuperbHosting.net!
