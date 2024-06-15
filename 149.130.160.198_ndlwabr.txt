@@ -1242,3 +1242,194 @@
 184.85.231.104:80 - Заголовок не найден
 34.100.209.57:80 - 404 Page Not Found
 18.218.93.96:80 - Verisult Skill Assessment
+213.175.164.106:80 - RouterOS router configuration page
+188.50.136.157:80 - Заголовок не найден
+103.224.33.186:80 - PSG Institute of Technology and Applied Research
+5.250.253.194:80 - IIS Windows Server
+117.56.229.11:80 - Заголовок не найден
+202.109.194.189:80 - Заголовок не найден
+104.93.86.163:80 - Заголовок не найден
+127.64.108.133:80 - IIS Windows Server
+74.222.14.69:80 - 404 Not Found
+96.7.0.186:80 - Заголовок не найден
+223.130.140.34:80 - OPEN EMS
+103.97.197.17:80 - IIS Windows Server
+3.110.33.135:80 - 404 Not Found
+47.116.213.47:80 - Welcome to nginx!
+127.209.117.195:80 - IIS Windows Server
+123.60.223.156:80 - Заголовок не найден
+52.218.57.181:80 - Amazon S3 - Cloud Object Storage  - AWS
+60.205.230.215:80 - 云帆视界 Blog &#8211; 拿风跃云，中江举帆
+127.3.246.180:80 - IIS Windows Server
+127.121.52.12:80 - IIS Windows Server
+104.20.217.248:80 - Direct IP access not allowed | Cloudflare
+127.32.103.174:80 - IIS Windows Server
+50.116.18.222:80 - MWI Labs &#8211; The pioneer of wellness hair and skin care
+54.174.129.85:80 - 403 - Forbidden: Access is denied.
+23.5.240.128:80 - Заголовок не найден
+127.112.162.217:80 - IIS Windows Server
+154.220.26.88:80 - 404 Not Found
+190.190.182.212:80 - 
+176.171.162.185:80 - 
+127.186.112.87:80 - IIS Windows Server
+127.173.32.252:80 - IIS Windows Server
+127.21.31.114:80 - IIS Windows Server
+23.95.246.106:80 - 404 Not Found
+127.218.97.148:80 - IIS Windows Server
+67.208.59.176:80 - Application Blocked
+216.229.53.227:80 - 404 - File or directory not found.
+127.4.198.145:80 - IIS Windows Server
+127.230.182.16:80 - IIS Windows Server
+47.104.77.225:80 - ç½ç«è®¿é®æ¥é
+127.6.52.94:80 - IIS Windows Server
+81.177.33.63:80 - 403 Forbidden
+37.187.225.136:80 - Welcome to nginx!
+81.16.119.199:80 - فرم ورود
+109.168.87.163:80 - Заголовок не найден
+127.83.98.162:80 - IIS Windows Server
+38.182.174.73:80 - 403 Forbidden
+127.169.148.94:80 - IIS Windows Server
+34.194.38.216:80 - 503 Service Temporarily Unavailable
+127.131.156.208:80 - IIS Windows Server
+127.117.120.184:80 - IIS Windows Server
+143.204.171.145:80 - Заголовок не найден
+157.148.114.197:80 - Заголовок не найден
+54.77.136.144:80 - Xtram &#8211; Xtram Manage your finances
+127.151.229.71:80 - IIS Windows Server
+77.244.106.149:80 - Заголовок не найден
+54.239.192.54:80 - Заголовок не найден
+147.124.212.38:80 - Odoo
+127.123.178.220:80 - IIS Windows Server
+154.58.35.239:80 - 
+45.120.69.62:80 - Заголовок не найден
+23.36.33.169:80 - UNKNOWN
+151.237.77.187:80 - Please wait, the login page is opening...
+127.201.222.199:80 - IIS Windows Server
+2.132.108.185:80 - error
+127.110.169.60:80 - IIS Windows Server
+81.223.26.170:80 - Заголовок не найден
+211.87.216.92:80 - 404 Not Found
+50.193.177.1:80 - DVR Components Download
+127.52.128.153:80 - IIS Windows Server
+159.89.8.67:80 - OutdoorSee - Track and share your outdoor activities
+23.40.45.213:80 - Заголовок не найден
+116.203.34.187:80 - 403 Forbidden
+217.229.98.215:80 - Заголовок не найден
+47.75.195.156:80 - IIS Windows Server
+127.4.208.19:80 - IIS Windows Server
+104.22.48.232:80 - Direct IP access not allowed | Cloudflare
+23.6.71.110:80 - Заголовок не найден
+121.181.17.232:80 - main page
+18.210.210.237:80 - Заголовок не найден
+127.27.106.109:80 - IIS Windows Server
+127.128.77.109:80 - IIS Windows Server
+162.127.7.124:80 - Login
+18.161.86.114:80 - Заголовок не найден
+54.192.204.193:80 - Заголовок не найден
+127.46.120.13:80 - IIS Windows Server
+127.27.13.175:80 - IIS Windows Server
+127.86.215.118:80 - IIS Windows Server
+127.209.39.13:80 - IIS Windows Server
+127.246.155.205:80 - IIS Windows Server
+139.224.3.208:80 - Welcome to tengine!
+157.7.129.32:80 - 404 Not Found
+131.196.135.131:80 - 
+51.254.126.36:80 - Apache2 Ubuntu Default Page: It works
+213.176.40.212:80 - Заголовок не найден
+181.177.173.24:80 - 
+127.84.37.131:80 - IIS Windows Server
+23.57.84.199:80 - Заголовок не найден
+108.156.144.176:80 - Заголовок не найден
+127.246.157.156:80 - IIS Windows Server
+127.62.118.57:80 - IIS Windows Server
+127.119.176.30:80 - IIS Windows Server
+18.165.7.132:80 - Заголовок не найден
+127.38.226.100:80 - IIS Windows Server
+127.9.197.82:80 - IIS Windows Server
+116.111.222.202:80 - WEB SERVICE
+43.158.204.80:80 - Free CSS template by ChocoTemplates.com
+23.210.20.36:80 - Заголовок не найден
+127.76.255.225:80 - IIS Windows Server
+204.44.86.77:80 - HTML SiteMap
+107.158.31.43:80 - 403 Forbidden
+127.158.121.180:80 - IIS Windows Server
+3.140.175.93:80 - Jazz Numbers
+127.242.90.242:80 - IIS Windows Server
+127.120.152.105:80 - IIS Windows Server
+96.17.82.3:80 - Заголовок не найден
+49.128.220.50:80 - 404 Not Found
+127.72.54.61:80 - IIS Windows Server
+127.171.102.209:80 - IIS Windows Server
+23.4.189.92:80 - Заголовок не найден
+199.167.254.130:80 - 403 Forbidden
+58.247.8.156:80 - Заголовок не найден
+23.57.245.225:80 - Заголовок не найден
+23.11.213.20:80 - Заголовок не найден
+192.232.208.119:80 - Заголовок не найден
+106.14.90.138:80 - Заголовок не найден
+81.196.156.125:80 - Tamplarie lemn stratificat &#8211; Calitate superioara. Garantie 5 ani!
+213.176.86.67:80 - Заголовок не найден
+104.94.162.172:80 - Заголовок не найден
+108.177.158.110:80 - ERROR: The requested URL could not be retrieved
+127.115.166.126:80 - IIS Windows Server
+162.240.9.34:80 - Заголовок не найден
+89.111.146.28:80 - ÐÑÐ¸Ð±ÐºÐ° - Ð½ÐµÑ Ð½Ð¸ Ð¾Ð´Ð½Ð¾Ð³Ð¾ ÑÐ°Ð¹ÑÐ°
+127.122.29.134:80 - IIS Windows Server
+127.132.251.231:80 - IIS Windows Server
+23.222.11.121:80 - Заголовок не найден
+127.218.50.81:80 - IIS Windows Server
+127.122.112.107:80 - IIS Windows Server
+127.63.72.7:80 - IIS Windows Server
+186.166.138.49:80 - RouterOS router configuration page
+127.202.55.76:80 - IIS Windows Server
+104.20.85.34:80 - Direct IP access not allowed | Cloudflare
+170.249.195.130:80 - Заголовок не найден
+127.139.224.212:80 - IIS Windows Server
+127.62.63.85:80 - IIS Windows Server
+147.219.189.22:80 - 
+104.82.97.63:80 - Заголовок не найден
+46.242.185.39:80 - Strona w przygotowaniu
+14.53.103.188:80 - main page
+66.70.134.176:80 - Заголовок не найден
+127.119.188.213:80 - IIS Windows Server
+127.245.123.71:80 - IIS Windows Server
+127.84.93.157:80 - IIS Windows Server
+107.161.182.11:80 - Заголовок не найден
+67.225.132.77:80 - Keto Health Goals
+125.252.242.155:80 - Заголовок не найден
+18.165.6.234:80 - Заголовок не найден
+104.105.34.171:80 - Заголовок не найден
+160.202.116.22:80 - 404 Not Found
+127.208.1.97:80 - IIS Windows Server
+85.153.16.107:80 - Index of /
+127.149.217.230:80 - IIS Windows Server
+38.59.4.105:80 - 404 Not Found
+176.53.67.89:80 - Заголовок не найден
+127.200.40.63:80 - IIS Windows Server
+104.18.180.28:80 - Direct IP access not allowed | Cloudflare
+23.215.126.228:80 - Заголовок не найден
+38.14.62.136:80 - 404 Not Found
+23.82.28.123:80 - 407 Proxy Authentication Required
+83.96.160.76:80 - Заголовок не найден
+107.158.117.24:80 - 407 Proxy Authentication Required
+172.67.88.99:80 - Direct IP access not allowed | Cloudflare
+3.215.7.253:80 - 403 Forbidden
+172.214.172.105:80 - Your Azure Function App is up and running.
+127.60.45.29:80 - IIS Windows Server
+23.10.191.93:80 - Заголовок не найден
+127.54.222.25:80 - IIS Windows Server
+50.28.10.236:80 - Заголовок не найден
+184.31.134.146:80 - Заголовок не найден
+34.197.44.133:80 - Ledbury - MTO
+104.69.167.74:80 - Заголовок не найден
+127.149.254.177:80 - IIS Windows Server
+132.205.204.105:80 - Заголовок не найден
+127.70.206.52:80 - IIS Windows Server
+127.153.239.212:80 - IIS Windows Server
+20.13.104.241:80 - Azure Container App - Unavailable
+127.247.155.225:80 - IIS Windows Server
+127.240.87.185:80 - IIS Windows Server
+23.1.218.30:80 - Заголовок не найден
+3.160.64.187:80 - Заголовок не найден
+127.192.185.251:80 - IIS Windows Server
+51.75.246.209:80 - 404 Not Found
