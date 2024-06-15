@@ -15457,3 +15457,38 @@ SIP Client
 208.97.151.134:80 - Site not found &middot; DreamHost
 87.146.23.18:80 - Заголовок не найден
 39.136.61.90:80 - 403 Forbidden
+127.199.212.97:80 - Welcome to XAMPP
+127.202.191.225:80 - Welcome to XAMPP
+104.140.34.161:80 - 403 Forbidden
+23.195.243.69:80 - Заголовок не найден
+127.157.75.168:80 - Welcome to XAMPP
+127.48.203.120:80 - Welcome to XAMPP
+124.158.10.33:80 - 404 Not Found
+3.111.217.198:80 - Заголовок не найден
+127.95.148.1:80 - Welcome to XAMPP
+208.122.221.176:80 - System Status
+127.187.227.174:80 - Welcome to XAMPP
+127.25.155.2:80 - Welcome to XAMPP
+104.16.102.144:80 - Direct IP access not allowed | Cloudflare
+13.70.73.108:80 - 403 - Forbidden: Access is denied.
+85.240.129.207:80 - VIVOTEK ND9441
+46.201.150.155:80 - WEB SERVICE
+140.143.219.25:80 - Заголовок не найден
+127.59.61.97:80 - Welcome to XAMPP
+127.142.145.88:80 - Welcome to XAMPP
+89.33.236.147:80 - Заголовок не найден
+45.33.109.205:80 - 403 Forbidden
+23.13.50.153:80 - Заголовок не найден
+127.253.123.172:80 - Welcome to XAMPP
+127.113.223.159:80 - Welcome to XAMPP
+127.27.36.56:80 - Welcome to XAMPP
+152.136.124.153:80 - 子鱼的博客
+122.28.54.164:80 - Заголовок не найден
+23.57.72.159:80 - Заголовок не найден
+69.162.225.241:80 - Default Site
+127.187.188.61:80 - Welcome to XAMPP
+47.198.195.201:80 - Hello! Welcome to Synology Web Station!
+127.7.141.38:80 - Welcome to XAMPP
+127.69.194.191:80 - Welcome to XAMPP
+156.241.183.224:80 - IIS Windows Server
+23.65.56.59:80 - Заголовок не найден
