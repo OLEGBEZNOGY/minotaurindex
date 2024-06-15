@@ -2252,3 +2252,10 @@
 157.245.61.73:80 - Web Server's Default Page
 23.73.233.47:80 - Заголовок не найден
 95.217.134.236:80 - 404 Not Found
+34.79.85.215:80 - Agencia Virtual Waterfy
+18.239.209.247:80 - Заголовок не найден
+14.65.97.5:80 - main page
+34.118.84.197:80 - EventUI
+167.114.212.174:80 - SAN Internet
+13.115.109.77:80 - Welcome to your Strapi app
+191.102.178.86:80 - 407 Proxy Authentication Required
