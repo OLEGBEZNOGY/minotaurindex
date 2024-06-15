@@ -20662,3 +20662,12 @@ Brklyn - Brklyn-Media - PBS
 146.56.232.23:80 - 寻思
 188.128.173.252:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
 160.8.114.135:80 - 404 URL Not Found
+89.161.200.43:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+73.8.93.68:80 - Login
+182.180.141.151:80 - IIS Windows Server
+23.46.35.240:80 - Заголовок не найден
+23.62.194.124:80 - Заголовок не найден
+47.242.233.191:80 - Заголовок не найден
+104.89.118.23:80 - Заголовок не найден
+85.112.232.186:80 - Apache2 Ubuntu Default Page: It works
+47.74.5.126:80 - 404 Not Found
