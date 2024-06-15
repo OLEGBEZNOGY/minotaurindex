@@ -1,0 +1,33 @@
+38.154.95.89:80 - ERROR: The requested URL could not be retrieved
+117.247.167.51:80 - RouterOS router configuration page
+23.201.254.119:80 - Заголовок не найден
+139.59.61.214:80 - Document
+107.158.59.220:80 - 403 Forbidden
+172.66.216.241:80 - Direct IP access not allowed | Cloudflare
+23.53.74.93:80 - Заголовок не найден
+54.168.150.40:80 - Welcome to nginx!
+142.132.134.173:80 - Заголовок не найден
+139.162.39.179:80 - Welcome to nginx!
+3.9.187.138:80 - Betxfair
+185.26.185.43:80 - Apache2 Ubuntu Default Page: It works
+23.221.245.159:80 - Заголовок не найден
+1.246.216.122:80 - CMS Web Viewer
+173.232.91.49:80 - 403 Forbidden
+3.164.142.175:80 - Заголовок не найден
+81.171.25.143:80 - Заголовок не найден
+46.142.50.248:80 - Welcome to nginx!
+196.51.1.211:80 - ERROR: The requested URL could not be retrieved
+211.46.23.173:80 - Заголовок не найден
+154.213.248.250:80 - 404 Not Found
+23.72.187.242:80 - Заголовок не найден
+23.203.19.163:80 - Заголовок не найден
+31.172.78.120:80 - Welcome to nginx!
+154.213.74.14:80 - Welcome to nginx!
+52.215.32.10:80 - Заголовок не найден
+23.210.190.43:80 - Заголовок не найден
+43.203.91.80:80 - Заголовок не найден
+194.205.93.25:80 - Find a Commercial Property in Northern Ireland | Commercial Property Finder
+52.46.175.49:80 - Page Not Found
+45.195.202.135:80 - 请使用域名访问
+104.82.117.106:80 - Заголовок не найден
+50.3.209.21:80 - 403 Forbidden
