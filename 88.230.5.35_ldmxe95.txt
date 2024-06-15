@@ -1203,3 +1203,5 @@
 154.38.146.38:80 - ERROR: The requested URL could not be retrieved
 104.80.236.104:80 - Заголовок не найден
 104.27.73.171:80 - Direct IP access not allowed | Cloudflare
+3.217.148.69:80 - 404 Not Found
+162.240.41.46:80 - Заголовок не найден
