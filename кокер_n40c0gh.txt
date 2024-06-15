@@ -13737,3 +13737,9 @@ Brklyn - Brklyn-Media - PBS
 223.197.201.242:80 - 
 145.131.201.111:80 - Inloggen | KNMP Kennisbank
 38.49.30.101:80 - 404 Not Found
+87.101.196.57:80 - 403 Forbidden
+18.239.142.25:80 - Заголовок не найден
+100.24.160.221:80 - Заголовок не найден
+60.251.36.55:80 - Заголовок не найден
+178.63.180.124:80 - Web Server's Default Page
+104.16.232.216:80 - Direct IP access not allowed | Cloudflare
