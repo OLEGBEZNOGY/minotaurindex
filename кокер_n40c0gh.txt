@@ -12651,3 +12651,9 @@ Brklyn - Brklyn-Media - PBS
 110.34.1.73:80 - IIS Windows
 23.217.228.64:80 - Заголовок не найден
 104.104.111.140:80 - Заголовок не найден
+185.181.196.60:80 - DDoSX - 185.181.196.60 is not configured
+54.226.176.229:80 - Global Talent Network | Rock Content
+156.241.169.227:80 - 403 Forbidden
+218.219.255.79:80 - Заголовок не найден
+107.158.200.219:80 - 407 Proxy Authentication Required
+107.150.25.186:80 - Home
