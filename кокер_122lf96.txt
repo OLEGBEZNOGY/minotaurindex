@@ -1195,3 +1195,9 @@ ess not allowed | Cloudflare
 154.56.216.164:80 - 500 Internal Server Error
 54.178.153.232:80 - Заголовок не найден
 104.207.35.205:80 - 502 Bad Gateway
+192.34.0.234:80 - 401 Unauthorized
+63.195.173.193:80 - AT&T WiFi Portal
+45.55.32.119:80 - Forwarding Page
+190.14.153.3:80 - Index of /
+152.69.223.50:80 - 502 Bad Gateway
+54.162.107.22:80 - Nutritionist Pro™ | Diet Analysis, Food Label, Menu Creation Software
