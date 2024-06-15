@@ -2256,3 +2256,8 @@
 45.82.122.241:80 - Web Server's Default Page
 162.214.101.235:80 - Заголовок не найден
 54.251.210.179:80 - Заголовок не найден
+150.60.38.245:80 - Заголовок не найден
+52.54.86.43:80 - Apache2 Debian Default Page: It works
+52.33.48.170:80 - 404 Not Found
+185.199.108.77:80 - Fastly error: unknown domain 185.199.108.77
+104.20.42.99:80 - Direct IP access not allowed | Cloudflare
