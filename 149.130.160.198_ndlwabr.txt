@@ -10378,3 +10378,191 @@
 45.249.165.92:80 - Please wait, the login page is opening...
 127.199.3.248:80 - IIS Windows Server
 58.152.116.56:80 - WEB SERVICE
+4.156.187.190:80 - Your Azure Function App is up and running.
+127.142.192.144:80 - IIS Windows Server
+127.13.69.235:80 - IIS Windows Server
+176.255.232.156:80 - Заголовок не найден
+15.204.64.164:80 - 404 Not Found
+34.34.17.227:80 - 404 Not Found
+127.255.53.167:80 - IIS Windows Server
+131.153.57.18:80 - IIS Windows Server
+34.110.241.209:80 - 502 Server Error
+156.213.80.241:80 - 
+47.28.10.134:80 - 
+99.86.6.244:80 - Заголовок не найден
+202.130.202.29:80 - Заголовок не найден
+127.157.120.129:80 - IIS Windows Server
+164.90.231.15:80 - Welcome to nginx!
+107.163.15.229:80 - 404 Not Found
+34.107.185.92:80 - Заголовок не найден
+52.64.102.124:80 - 502 Bad Gateway
+117.175.209.146:80 - 403 Forbidden
+108.138.185.206:80 - Заголовок не найден
+127.87.87.59:80 - IIS Windows Server
+104.105.81.112:80 - Заголовок не найден
+83.174.226.167:80 - Заголовок не найден
+216.147.183.8:80 - 401 Unauthorized
+179.53.166.42:80 - 
+104.120.104.124:80 - Заголовок не найден
+54.37.223.206:80 - ...
+72.11.153.207:80 - Заголовок не найден
+127.41.154.61:80 - IIS Windows Server
+200.40.135.136:80 - Заголовок не найден
+127.110.201.205:80 - IIS Windows Server
+127.97.5.165:80 - IIS Windows Server
+107.175.116.44:80 - Page not found
+220.135.54.46:80 - 401 Unauthorized
+89.44.32.67:80 - Web Server's Default Page
+77.220.92.244:80 - Maitance message
+23.201.8.93:80 - Заголовок не найден
+127.142.247.37:80 - IIS Windows Server
+23.221.22.173:80 - Заголовок не найден
+189.125.110.178:80 - 400 - Bad Request - Qlik Sense
+20.70.118.202:80 - Заголовок не найден
+185.220.175.229:80 - Заголовок не найден
+84.205.192.67:80 - Redmine
+127.222.143.127:80 - IIS Windows Server
+127.45.240.167:80 - IIS Windows Server
+104.24.151.221:80 - Direct IP access not allowed | Cloudflare
+23.198.102.150:80 - Заголовок не найден
+23.214.116.162:80 - Заголовок не найден
+140.211.166.45:80 - Apache2 Debian Default Page: It works
+23.47.224.5:80 - Заголовок не найден
+154.213.158.120:80 - æ²¡ææ¾å°ç«ç¹
+2.19.73.120:80 - Заголовок не найден
+65.109.0.190:80 - 404 Not Found
+31.192.234.101:80 - æ­åï¼ç«ç¹åå»ºæåï¼
+84.247.147.93:80 - Octaneware Inventory
+184.29.207.45:80 - Заголовок не найден
+127.76.37.153:80 - IIS Windows Server
+125.230.222.188:80 - 
+127.33.70.160:80 - IIS Windows Server
+127.178.173.30:80 - IIS Windows Server
+127.16.145.201:80 - IIS Windows Server
+172.66.217.4:80 - Direct IP access not allowed | Cloudflare
+174.138.117.118:80 - Заголовок не найден
+176.255.196.80:80 - Заголовок не найден
+186.7.91.217:80 - 
+13.33.126.129:80 - Заголовок не найден
+23.198.174.100:80 - Заголовок не найден
+127.2.168.90:80 - IIS Windows Server
+127.6.21.122:80 - IIS Windows Server
+23.207.41.173:80 - Заголовок не найден
+145.239.245.141:80 - 404 Not Found
+18.164.254.160:80 - Заголовок не найден
+127.27.152.68:80 - IIS Windows Server
+178.89.112.63:80 - GPON Home Gateway
+178.13.125.10:80 - 404 Not Found
+127.219.212.86:80 - IIS Windows Server
+188.128.159.114:80 - NowoÅci - ROTECH Kutno
+134.236.103.45:80 - &#72;&#56;&#49;&#48;&#50;&#69;
+46.242.203.207:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+23.205.142.218:80 - Заголовок не найден
+190.43.249.40:80 - 403 Forbidden
+69.85.152.170:80 - Document Moved
+5.161.108.194:80 - Website Unavailable
+212.26.132.214:80 - Success!
+104.81.227.97:80 - Заголовок не найден
+121.250.221.123:80 - 404 Not Found
+221.158.183.51:80 - WEB SERVICE
+127.59.216.165:80 - IIS Windows Server
+13.231.63.158:80 - Заголовок не найден
+212.33.245.145:80 - Welcome to nginx!
+104.74.178.174:80 - Заголовок не найден
+127.214.172.189:80 - IIS Windows Server
+142.91.223.54:80 - Заголовок не найден
+184.30.134.43:80 - Заголовок не найден
+5.180.68.47:80 - Firewall Notification
+3.231.185.94:80 - Welcome to nginx!
+2.20.235.113:80 - Заголовок не найден
+127.73.15.98:80 - IIS Windows Server
+18.66.181.63:80 - Заголовок не найден
+149.102.151.187:80 - Welcome to nginx!
+14.128.45.30:80 - 400
+52.92.200.26:80 - Amazon S3 - Cloud Object Storage  - AWS
+108.139.164.231:80 - Заголовок не найден
+127.65.84.246:80 - IIS Windows Server
+137.184.80.136:80 - Find A House Church | Create or Find a House Church Nearby
+127.151.144.109:80 - IIS Windows Server
+172.64.111.166:80 - Direct IP access not allowed | Cloudflare
+112.127.128.46:80 - ç½ç«è®¿é®æ¥é
+127.159.237.183:80 - IIS Windows Server
+23.42.94.73:80 - Заголовок не найден
+127.75.126.9:80 - IIS Windows Server
+172.233.190.157:80 - Opalstack: no site here.... yet!
+69.28.234.148:80 - Welcome to Dairy Farmers of Canada
+127.148.88.74:80 - IIS Windows Server
+192.99.91.14:80 - Заголовок не найден
+157.205.195.49:80 - æ ªå¼ä¼ç¤¾æ±æ¹ç£æ¥­ ï¼æ¿æ©ï¼å»æåå¥ï¼ã¬ã©åå¥ãç£æ¥­å»æ£ç©ä¸­éå¦çï¼äºæ¬¡è£½åããªãµã¤ã¯ã«
+149.100.147.95:80 - 403 Forbidden
+127.222.156.52:80 - IIS Windows Server
+127.83.102.63:80 - IIS Windows Server
+1.34.168.37:80 - 
+93.174.26.103:80 - 
+127.237.16.247:80 - IIS Windows Server
+104.20.48.184:80 - Direct IP access not allowed | Cloudflare
+127.180.220.20:80 - IIS Windows Server
+139.9.35.193:80 - AriaNg
+127.237.154.170:80 - IIS Windows Server
+3.12.95.217:80 - Page not found at /
+20.102.126.184:80 - Заголовок не найден
+187.244.20.204:80 - Error 404 (Not Found)!!1
+23.207.46.223:80 - Заголовок не найден
+159.223.194.250:80 - React App
+127.127.21.233:80 - IIS Windows Server
+127.101.216.179:80 - IIS Windows Server
+202.194.20.81:80 - 404 Not Found
+127.36.169.132:80 - IIS Windows Server
+173.222.115.189:80 - Заголовок не найден
+143.204.47.12:80 - Заголовок не найден
+127.37.16.254:80 - IIS Windows Server
+154.214.114.183:80 - 404 Not Found
+127.90.246.130:80 - IIS Windows Server
+154.9.57.243:80 - ERROR: The requested URL could not be retrieved
+127.228.166.61:80 - IIS Windows Server
+139.84.230.190:80 - 404 Not Found
+54.248.152.23:80 - 401 Unauthorized
+79.120.194.180:80 - SMTP.HU levÃ©lkÃ¼ldÅ szolgÃ¡ltatÃ¡s ãáµá´µá´¾á´¾ã
+41.44.125.152:80 - 
+185.235.122.75:80 - Заголовок не найден
+103.192.174.17:80 - RouterOS router configuration page
+104.104.93.45:80 - Заголовок не найден
+198.23.207.156:80 - ERROR: The requested URL could not be retrieved
+127.17.65.125:80 - IIS Windows Server
+127.41.200.202:80 - IIS Windows Server
+47.100.127.131:80 - LNMPä¸é®å®è£å by Licess
+100.34.44.17:80 - 
+87.123.249.85:80 - Заголовок не найден
+104.37.160.209:80 - Document Moved
+51.158.63.19:80 - Заголовок не найден
+127.229.7.64:80 - IIS Windows Server
+91.134.209.173:80 - Success!
+64.91.250.53:80 - Заголовок не найден
+67.7.130.3:80 - Access to this page has been denied.
+127.30.142.252:80 - IIS Windows Server
+104.237.2.104:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+18.164.102.226:80 - Заголовок не найден
+127.175.38.11:80 - IIS Windows Server
+23.39.7.20:80 - Заголовок не найден
+127.250.179.4:80 - IIS Windows Server
+80.211.36.234:80 - Заголовок не найден
+127.31.156.197:80 - IIS Windows Server
+62.216.238.168:80 - PTTI XPM-01
+127.29.150.27:80 - IIS Windows Server
+127.173.19.84:80 - IIS Windows Server
+43.138.160.68:80 - 403 Forbidden
+31.129.97.21:80 - Apache2 Ubuntu Default Page: It works
+127.152.28.96:80 - IIS Windows Server
+127.110.223.83:80 - IIS Windows Server
+95.101.167.228:80 - Заголовок не найден
+104.24.45.100:80 - Direct IP access not allowed | Cloudflare
+64.182.109.42:80 - Заголовок не найден
+127.15.130.29:80 - IIS Windows Server
+23.51.48.221:80 - Заголовок не найден
+8.222.171.47:80 - 404 Not Found
+176.120.64.14:80 - Success!
+127.24.44.110:80 - IIS Windows Server
+54.163.116.214:80 - Iniciar sesión
+144.126.242.147:80 - Welcome to nginx!
+127.158.38.70:80 - IIS Windows Server
+23.196.229.91:80 - Заголовок не найден
