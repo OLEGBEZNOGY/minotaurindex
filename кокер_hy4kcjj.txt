@@ -6858,3 +6858,5 @@ Login
 121.78.127.49:80 - ì¹ìì ë³´ | ê³¼ê±°ì ë¬¸ 1966 - 2008
 52.138.177.241:80 - 403 - Forbidden: Access is denied.
 134.122.90.188:80 - 404 Not Found
+54.66.105.157:80 - 404 Not Found
+104.23.104.141:80 - Direct IP access not allowed | Cloudflare
