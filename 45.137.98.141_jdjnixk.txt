@@ -596,3 +596,38 @@
 127.62.52.210:80 - Welcome to XAMPP
 127.162.248.99:80 - Welcome to XAMPP
 146.75.76.67:80 - Fastly error: unknown domain 146.75.76.67
+192.254.227.82:80 - Not Acceptable!
+174.128.129.109:80 - Error 404 (Not Found)!!1
+85.153.50.170:80 - Index of /
+47.101.204.64:80 - 404 Not Found
+172.105.99.150:80 - Apache HTTP Server Test Page powered by CentOS
+51.159.191.161:80 - 503 Service Temporarily Unavailable
+142.171.157.213:80 - Заголовок не найден
+127.31.42.68:80 - Welcome to XAMPP
+147.255.129.86:80 - Заголовок не найден
+71.70.164.134:80 - Web Viewer for Samsung DVR
+18.154.84.146:80 - Заголовок не найден
+38.59.52.126:80 - LNMPä¸é®å®è£å by Licess
+127.164.225.112:80 - Welcome to XAMPP
+54.68.120.240:80 - No such app
+127.119.5.50:80 - Welcome to XAMPP
+20.51.87.6:80 - Your Azure Function App is up and running.
+91.137.62.132:80 - Заголовок не найден
+15.235.14.63:80 - Welcome to nginx!
+127.49.156.110:80 - Welcome to XAMPP
+91.103.249.51:80 - Our Company
+3.125.240.239:80 - Заголовок не найден
+74.48.138.162:80 - Welcome to nginx!
+127.64.212.103:80 - Welcome to XAMPP
+23.208.134.224:80 - Заголовок не найден
+127.165.75.153:80 - Welcome to XAMPP
+127.49.156.27:80 - Welcome to XAMPP
+222.101.79.74:80 - Заголовок не найден
+127.63.156.207:80 - Welcome to XAMPP
+73.13.181.79:80 - 
+150.160.254.53:80 - 403 Forbidden
+127.253.160.193:80 - Welcome to XAMPP
+168.206.100.130:80 - 404 Not Found
+127.176.142.3:80 - Welcome to XAMPP
+52.85.146.11:80 - Заголовок не найден
+127.34.215.9:80 - Welcome to XAMPP
