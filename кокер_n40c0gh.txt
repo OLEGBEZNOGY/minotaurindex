@@ -11497,3 +11497,6 @@ Brklyn - Brklyn-Media - PBS
 184.25.236.43:80 - Заголовок не найден
 152.136.153.80:80 - Welcome to nginx!
 65.1.84.58:80 - Apache2 Ubuntu Default Page: It works
+143.64.39.219:80 - Welcome to nginx!
+103.243.25.107:80 - IIS7
+212.129.177.73:80 - Welcome to nginx!
