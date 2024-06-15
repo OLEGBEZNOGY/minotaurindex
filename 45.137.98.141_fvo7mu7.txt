@@ -1,0 +1,7 @@
+35.232.201.167:80 - Apache2 Debian Default Page: It works
+127.122.142.224:80 - Welcome to XAMPP
+127.22.20.222:80 - Welcome to XAMPP
+127.7.33.189:80 - Welcome to XAMPP
+49.13.195.120:80 - Squirro ID
+149.28.149.11:80 - Заголовок не найден
+157.52.247.125:80 - 404 Not Found
