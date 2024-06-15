@@ -1107,3 +1107,7 @@
 116.203.54.19:80 - Apache2 Debian Default Page: It works
 59.31.215.78:80 - WEB SERVICE
 39.136.182.136:80 - 403 Forbidden
+185.66.173.180:80 - Default Parallels Plesk Page
+45.150.33.11:80 - Заголовок не найден
+107.149.181.12:80 - 404 Not Found
+106.245.183.164:80 - main page
