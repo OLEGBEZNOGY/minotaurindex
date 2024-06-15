@@ -2648,3 +2648,16 @@
 104.16.21.127:80 - Direct IP access not allowed | Cloudflare
 177.115.194.150:80 - Apache2 Ubuntu Default Page: It works
 16.170.99.78:80 - 404 Not Found
+218.157.221.39:80 - 
+182.92.216.111:80 - 502 Bad Gateway
+121.163.165.115:80 - Заголовок не найден
+23.52.34.109:80 - Заголовок не найден
+18.238.229.105:80 - Заголовок не найден
+23.63.49.212:80 - Заголовок не найден
+23.209.235.78:80 - Заголовок не найден
+37.97.246.55:80 - Klant Login
+23.111.189.255:80 - Welcome to NC Wineries &amp; Estates - NorthCarolinaWineriesandEstates.com
+191.6.223.191:80 - Site Hospedado na KingHost | Data Center no Brasil
+164.46.58.54:80 - 403 Forbidden ã¢ã¯ã»ã¹ãç¦æ­¢ããã¦ãã¾ã
+3.130.138.210:80 - Seqrite Data Privacy
+49.50.88.144:80 - 500 - Internal server error.
