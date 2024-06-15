@@ -8294,3 +8294,34 @@
 104.200.19.225:80 - Apache2 Ubuntu Default Page: It works
 8.137.116.65:80 - Welcome to CentOS
 47.107.85.78:80 - Ant Design Pro
+102.134.44.33:80 - 403 Forbidden
+49.159.128.14:80 - Заголовок не найден
+160.124.52.144:80 - Sorry, the website has been stopped
+23.38.157.201:80 - Заголовок не найден
+95.59.213.26:80 - GPON Home Gateway
+2.20.73.235:80 - Заголовок не найден
+184.31.70.75:80 - Заголовок не найден
+3.227.158.175:80 - Acadian FCU
+31.223.108.209:80 - .::Welcome to the Web-Based Configurator::.
+104.238.29.84:80 - Заголовок не найден
+74.125.128.200:80 - Google
+23.65.49.209:80 - Заголовок не найден
+68.61.135.188:80 - Default Site
+135.125.243.146:80 - Apache HTTP Server Test Page powered by CentOS
+23.231.215.36:80 - IIS Windows Server
+192.250.231.111:80 - Заголовок не найден
+35.171.153.22:80 - HTTP Status 404 – Not Found
+35.200.151.10:80 - Pascal Computers
+104.112.100.59:80 - Заголовок не найден
+108.165.235.204:80 - 403 Forbidden
+51.89.168.81:80 - 502 Bad Gateway
+178.217.14.114:80 - 
+92.27.117.183:80 - Technicolor Gateway - Login
+15.206.40.158:80 - Feezital - Hyperlocal Shopping Marketplace Site for Connecting Nearby store & Products to Shoppers in Near Me. Best Offer Products!
+38.48.204.156:80 - 404 Not Found
+113.180.16.136:80 - 
+103.2.119.189:80 - Заголовок не найден
+52.206.1.251:80 - 404 Not Found
+23.10.166.124:80 - Заголовок не найден
+96.8.30.114:80 - Attention Required! | Cloudflare
+23.8.37.173:80 - Заголовок не найден
