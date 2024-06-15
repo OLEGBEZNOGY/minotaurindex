@@ -995,3 +995,106 @@
 104.91.3.146:80 - Заголовок не найден
 142.112.86.28:80 - ACME Access Only
 43.128.94.11:80 - Facecask
+207.136.13.238:80 - 
+168.206.3.148:80 - æ²¡ææ¾å°ç«ç¹
+76.182.179.192:80 - 503 Service Not Available
+23.59.146.34:80 - Заголовок не найден
+50.233.106.166:80 - Log In - Juniper Web Device Manager
+23.41.189.145:80 - Заголовок не найден
+3.164.35.176:80 - Заголовок не найден
+188.128.174.243:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+46.60.49.144:80 - Заголовок не найден
+78.133.116.205:80 - Заголовок не найден
+23.35.11.147:80 - Заголовок не найден
+152.53.18.67:80 - Welcome to nginx!
+154.39.67.143:80 - æ²¡ææ¾å°ç«ç¹
+185.94.166.49:80 - Welcome to nginx!
+23.198.82.32:80 - Заголовок не найден
+116.212.136.232:80 - Service Form | Sign In
+23.219.217.132:80 - Заголовок не найден
+64.227.10.83:80 - phpMyAdmin
+3.160.188.50:80 - Заголовок не найден
+104.81.123.19:80 - Заголовок не найден
+84.52.97.8:80 - 404 Not Found
+176.165.23.110:80 - Apache2 Ubuntu Default Page: It works
+23.38.217.166:80 - Заголовок не найден
+210.143.103.68:80 - æµæ¾å¸åæ¨é²ç½æå ±ã·ã¹ãã
+158.51.43.167:80 - Annuity Wealth &#8211; We believe in the power of strategic, collaborative personalized design to create solutions, with a keen focus on managing risk.
+81.198.64.151:80 - 502 Bad Gateway
+38.11.17.226:80 - æ²¡ææ¾å°ç«ç¹
+45.32.158.100:80 - Заголовок не найден
+97.96.84.153:80 - 
+136.243.144.14:80 - Заголовок не найден
+3.138.167.114:80 - 502 Bad Gateway
+184.25.199.215:80 - Заголовок не найден
+20.68.194.217:80 - IIS Windows Server
+14.229.159.197:80 - 
+47.106.186.123:80 - 404 Not Found
+155.159.159.33:80 - 404 Not Found
+93.189.30.11:80 - Willkommen bei der ÖH - Österreichische Hochschüler_innenschaft
+54.255.19.128:80 - RRD - Metrics
+156.238.219.77:80 - 404 not found
+117.72.44.86:80 - æ²¡ææ¾å°ç«ç¹
+196.51.255.54:80 - ERROR: The requested URL could not be retrieved
+45.242.79.214:80 - Заголовок не найден
+65.108.56.235:80 - Warning [refreshed every 30 sec.]
+202.124.61.92:80 - Заголовок не найден
+192.126.184.142:80 - ERROR: The requested URL could not be retrieved
+38.75.133.145:80 - TurnKey LAMP
+5.79.90.20:80 - 403 Forbidden
+103.230.102.166:80 - Please wait, the page is opening...
+47.98.236.223:80 - IIS7
+84.205.141.232:80 - Leaderboard OUAT
+203.254.134.72:80 - Заголовок не найден
+103.138.56.193:80 - {{deviceinfo.board_type}} {{deviceinfo.nsp_display_name}} {{home.system_control_center}}
+199.58.212.46:80 - Web Server's Default Page
+23.199.213.150:80 - Заголовок не найден
+218.32.154.135:80 - WEB SERVICE
+156.250.125.243:80 - 404 Not Found
+39.102.203.8:80 - Заголовок не найден
+34.97.20.17:80 - Заголовок не найден
+136.243.149.6:80 - Apache Tomcat/7.0.70 - Error report
+185.232.128.129:80 - 403 Forbidden
+201.229.166.120:80 - 
+18.117.86.236:80 - VRAI TECHNOLOGIES - Award-Winning Privacy, Performance and Protection for Identity, Device and Network
+38.63.189.60:80 - Welcome to nginx!
+23.40.136.55:80 - Заголовок не найден
+162.241.118.22:80 - Not Acceptable!
+184.51.123.176:80 - Заголовок не найден
+8.218.166.109:80 - 404 Not Found
+154.55.149.153:80 - 404 Not Found
+44.195.163.63:80 - Заголовок не найден
+45.79.193.208:80 - 404 Not Found
+134.122.11.158:80 - 404 Not Found
+104.27.49.193:80 - Direct IP access not allowed | Cloudflare
+114.214.44.107:80 - 404 Not Found
+23.216.253.190:80 - Заголовок не найден
+140.127.176.96:80 - Åwªï¨Ï¥Î¯Á¤Þ¼ÐÅÒ¦¡ÂsÄý
+139.196.231.12:80 - 403 Forbidden
+176.236.216.130:80 - Welcome to nginx!
+52.205.246.74:80 - Test Page for the Apache HTTP Server on the Amazon Linux AMI
+13.225.188.188:80 - Заголовок не найден
+104.87.64.75:80 - Заголовок не найден
+54.71.77.86:80 - 403 Forbidden
+103.167.204.62:80 - Please wait, the page is opening...
+80.13.45.128:80 - WEB SERVICE
+104.21.25.229:80 - Direct IP access not allowed | Cloudflare
+89.44.121.197:80 - ACN Piese Utilaje &#8226; Piese de Schimb si Consumabile pentru Utilaje
+212.90.158.84:80 - FÃ¼r diese Domain wurden keine Inhalte hinterlegt.
+122.117.213.7:80 - Заголовок не найден
+52.136.234.220:80 - Microsoft Azure Web App - Error 404
+43.230.168.124:80 - IIS7
+77.65.213.80:80 - Заголовок не найден
+82.180.129.196:80 - 403 Forbidden
+54.154.101.17:80 - Заголовок не найден
+79.115.231.134:80 - 
+54.38.93.40:80 - Aloa | Identifiez-vous
+139.84.163.99:80 - Ultrasound
+160.202.80.171:80 - 404 Not Found
+23.42.63.106:80 - Заголовок не найден
+23.203.242.35:80 - Заголовок не найден
+119.245.207.146:80 - Заголовок не найден
+176.66.126.101:80 - KeContact M20
+174.96.239.21:80 - 
+104.108.116.96:80 - Заголовок не найден
+41.143.16.228:80 - 
