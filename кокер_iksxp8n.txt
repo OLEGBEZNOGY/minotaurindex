@@ -2428,3 +2428,7 @@ Context: {"exception":{}}
 95.101.163.228:80 - Заголовок не найден
 87.158.61.37:80 - Webinterface
 135.125.209.27:80 - Web Server's Default Page
+23.12.198.232:80 - Заголовок не найден
+23.210.139.62:80 - Заголовок не найден
+40.76.157.111:80 - Your Azure Function App is up and running.
+148.66.19.35:80 - 403 Forbidden
