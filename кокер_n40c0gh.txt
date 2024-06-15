@@ -19521,3 +19521,9 @@ Brklyn - Brklyn-Media - PBS
 200.10.37.13:80 - 407 Proxy Authentication Required
 173.232.252.45:80 - 403 Forbidden
 23.48.141.198:80 - Заголовок не найден
+195.209.81.198:80 - 503 Service Temporarily Unavailable
+158.177.66.146:80 - Заголовок не найден
+63.237.77.106:80 - Заголовок не найден
+38.63.229.44:80 - Заголовок не найден
+176.9.21.35:80 - ERROR: The requested URL could not be retrieved
+34.221.173.27:80 - Octate AI, The Social B2B Marketplace
