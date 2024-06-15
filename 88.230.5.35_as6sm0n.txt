@@ -1258,3 +1258,4 @@
 5.133.219.85:80 - Database Error
 23.45.175.71:80 - Заголовок не найден
 45.235.95.245:80 - RouterOS router configuration page
+38.68.65.72:80 - 403 - Forbidden: Access is denied.
