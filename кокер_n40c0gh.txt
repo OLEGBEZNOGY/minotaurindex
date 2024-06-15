@@ -9280,3 +9280,8 @@ Brklyn - Brklyn-Media - PBS
 186.128.6.62:80 - Заголовок не найден
 52.39.47.116:80 - Demo Application
 194.37.81.219:80 - Apache2 Debian Default Page: It works
+156.235.98.131:80 - 403 Forbidden
+187.145.179.3:80 - 
+211.110.12.15:80 - 403 Forbidden
+62.151.183.82:80 - Acceso web
+23.58.21.161:80 - Заголовок не найден
