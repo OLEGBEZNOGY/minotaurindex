@@ -9722,3 +9722,242 @@
 186.215.218.159:80 - Заголовок не найден
 34.120.76.62:80 - 502
 52.214.59.213:80 - POST data
+41.190.246.150:80 - RouterOS router configuration page
+127.17.31.218:80 - IIS Windows Server
+220.142.79.137:80 - Заголовок не найден
+127.29.122.4:80 - IIS Windows Server
+104.24.92.249:80 - Direct IP access not allowed | Cloudflare
+192.229.71.109:80 - è³å°å¨±ä¹
+51.138.230.60:80 - Microsoft Azure Web App - Error 404
+18.162.110.122:80 - 404 Not Found
+127.97.77.187:80 - IIS Windows Server
+72.247.100.234:80 - Заголовок не найден
+13.249.179.171:80 - Заголовок не найден
+18.64.251.31:80 - Заголовок не найден
+180.71.244.223:80 - Hello! Welcome to Synology Web Station!
+127.196.176.28:80 - IIS Windows Server
+38.63.252.148:80 - 404 Not Found
+143.198.50.78:80 - {{title}}
+127.235.162.57:80 - IIS Windows Server
+179.38.74.157:80 - Заголовок не найден
+104.17.233.69:80 - Direct IP access not allowed | Cloudflare
+127.244.165.250:80 - IIS Windows Server
+23.59.146.43:80 - Заголовок не найден
+194.87.87.150:80 - Заголовок не найден
+23.192.249.59:80 - Заголовок не найден
+220.132.237.190:80 - index
+127.92.71.138:80 - IIS Windows Server
+154.89.64.73:80 - 404 Not Found
+23.53.244.47:80 - Заголовок не найден
+51.210.231.13:80 - Заголовок не найден
+76.148.72.53:80 - Заголовок не найден
+127.137.20.154:80 - IIS Windows Server
+154.89.67.7:80 - 404 Not Found
+104.103.67.136:80 - Заголовок не найден
+23.3.70.27:80 - Заголовок не найден
+127.250.24.100:80 - IIS Windows Server
+117.205.123.193:80 - Заголовок не найден
+127.89.143.97:80 - IIS Windows Server
+127.127.153.123:80 - IIS Windows Server
+127.123.81.76:80 - IIS Windows Server
+91.107.212.236:80 - Заголовок не найден
+104.66.127.8:80 - Заголовок не найден
+161.49.26.174:80 - Заголовок не найден
+127.169.230.241:80 - IIS Windows Server
+3.9.250.13:80 - Заголовок не найден
+127.216.172.239:80 - IIS Windows Server
+127.84.162.214:80 - IIS Windows Server
+127.167.85.106:80 - IIS Windows Server
+167.71.77.33:80 - PANGKALANTOTO&gt; PANGKALANTOTO, PANGKALAN TOTO, daftar PANGKALANTOTO, li
+
+ &ndash; PANGKALANTOTO
+185.157.25.88:80 - Заголовок не найден
+23.61.140.224:80 - Заголовок не найден
+104.79.210.171:80 - Заголовок не найден
+194.4.168.227:80 - ERROR: The requested URL could not be retrieved
+127.250.231.16:80 - IIS Windows Server
+127.143.202.32:80 - IIS Windows Server
+127.97.147.243:80 - IIS Windows Server
+45.11.238.211:80 - Apache HTTP Server Test Page powered by CentOS
+199.87.245.48:80 - 404 Not Found
+47.110.18.203:80 - 温州市建筑质监科学研究所
+47.108.175.234:80 - 404 Not Found
+75.84.233.96:80 - index
+127.214.62.118:80 - IIS Windows Server
+127.86.58.81:80 - IIS Windows Server
+208.112.77.37:80 - Заголовок не найден
+127.122.11.208:80 - IIS Windows Server
+127.100.112.233:80 - IIS Windows Server
+127.28.93.92:80 - IIS Windows Server
+52.222.212.73:80 - Заголовок не найден
+150.60.240.75:80 - 照屋内科医院
+52.112.84.7:80 - Заголовок не найден
+127.214.61.133:80 - IIS Windows Server
+160.124.107.164:80 - 403 Forbidden
+54.192.22.58:80 - Заголовок не найден
+188.240.54.63:80 - Web Server's Default Page
+127.188.68.162:80 - IIS Windows Server
+44.235.76.138:80 - Заголовок не найден
+136.142.31.53:80 - Заголовок не найден
+23.193.11.51:80 - Заголовок не найден
+127.21.115.116:80 - IIS Windows Server
+206.233.141.18:80 - 404 Not Found
+101.66.247.184:80 - Заголовок не найден
+127.101.234.234:80 - IIS Windows Server
+170.244.48.11:80 - Заголовок не найден
+127.90.5.170:80 - IIS Windows Server
+127.139.135.157:80 - IIS Windows Server
+23.222.144.171:80 - Заголовок не найден
+127.145.85.66:80 - IIS Windows Server
+23.218.155.143:80 - Заголовок не найден
+38.181.183.77:80 - MNO Sports_MNO Sports News Slot
+43.201.3.52:80 - 503 Service Temporarily Unavailable
+190.167.133.33:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#54;&#55;&#65;&#32;&#86;&#49;&#46;&#48;
+149.96.22.11:80 - 403 Forbidden
+18.160.91.232:80 - Заголовок не найден
+212.191.64.190:80 - Biblioteka Cyfrowa / Digital Library
+64.227.19.105:80 - 404 Not Found
+195.228.249.119:80 - 403 Forbidden
+173.232.25.113:80 - 403 Forbidden
+175.24.227.180:80 - 404 Not Found
+23.42.138.52:80 - Заголовок не найден
+96.118.49.76:80 - Заголовок не найден
+167.71.36.233:80 - Powered by CapRover
+127.119.197.200:80 - IIS Windows Server
+3.131.163.216:80 - 404 Not Found
+121.42.13.90:80 - ç«ç¹åå»ºæå-phpstudy for windows
+168.76.54.195:80 - æ²¡ææ¾å°ç«ç¹
+127.63.129.196:80 - IIS Windows Server
+127.159.85.113:80 - IIS Windows Server
+40.115.38.181:80 - IIS Windows Server
+51.38.185.106:80 - Apache2 Debian Default Page: It works
+54.185.20.41:80 - Justine Griffin | VIOLINIST // SINGER // SESSION MUSICIAN
+127.76.114.243:80 - IIS Windows Server
+45.160.26.186:80 - 
+119.45.212.9:80 - 404 Not Found
+167.235.241.219:80 - 502 Bad Gateway
+127.173.41.187:80 - IIS Windows Server
+173.223.37.11:80 - Заголовок не найден
+63.34.119.156:80 - 404 Not Found
+127.111.81.226:80 - IIS Windows Server
+3.109.57.50:80 - classicculture
+127.64.23.30:80 - IIS Windows Server
+72.175.160.94:80 - ACME Access Only
+127.139.91.244:80 - IIS Windows Server
+13.214.238.52:80 - Заголовок не найден
+18.138.216.218:80 - Заголовок не найден
+127.37.177.168:80 - IIS Windows Server
+92.123.12.165:80 - Заголовок не найден
+213.216.0.106:80 - Index of /
+127.237.63.235:80 - IIS Windows Server
+127.114.34.149:80 - IIS Windows Server
+127.25.251.117:80 - IIS Windows Server
+99.86.3.15:80 - Заголовок не найден
+127.14.197.242:80 - IIS Windows Server
+96.64.215.233:80 - Document Moved
+38.63.14.173:80 - Заголовок не найден
+148.255.147.136:80 - 
+54.95.111.3:80 - 503 Service Temporarily Unavailable
+86.177.38.34:80 - 
+52.26.196.80:80 - Заголовок не найден
+202.8.116.240:80 - Please wait, the login page is opening...
+184.84.174.14:80 - Заголовок не найден
+18.167.37.75:80 - Welcome to nginx!
+127.77.145.221:80 - IIS Windows Server
+54.192.113.120:80 - Заголовок не найден
+45.227.162.19:80 - Заголовок не найден
+2.16.174.111:80 - Заголовок не найден
+49.213.230.129:80 - ::: Login :::
+191.81.184.82:80 - Заголовок не найден
+184.28.197.177:80 - Заголовок не найден
+94.198.50.234:80 - Test Page for the HTTP Server on AlmaLinux
+85.128.166.173:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+104.254.247.35:80 - 403 Forbidden
+60.205.30.168:80 - 阿里云万网虚机IP访问报错提示
+127.221.241.44:80 - IIS Windows Server
+54.216.224.70:80 - Заголовок не найден
+127.45.74.194:80 - IIS Windows Server
+127.8.31.222:80 - IIS Windows Server
+191.102.154.97:80 - 407 Proxy Authentication Required
+127.201.127.33:80 - IIS Windows Server
+179.127.16.108:80 - IIS Windows Server
+54.174.234.92:80 - 403 Forbidden
+170.187.143.65:80 - Live SP Tours
+127.168.91.183:80 - IIS Windows Server
+75.103.68.193:80 - Заголовок не найден
+123.31.38.149:80 - Заголовок не найден
+18.154.25.97:80 - Заголовок не найден
+127.88.171.141:80 - IIS Windows Server
+143.110.213.70:80 - Welcome to nginx!
+108.156.232.43:80 - Заголовок не найден
+172.67.98.117:80 - Direct IP access not allowed | Cloudflare
+34.152.14.65:80 - Mautic
+170.130.73.203:80 - 
+127.54.94.243:80 - IIS Windows Server
+127.118.202.245:80 - IIS Windows Server
+127.95.122.189:80 - IIS Windows Server
+127.205.101.236:80 - IIS Windows Server
+91.212.45.158:80 - 401 Unauthorized
+127.47.183.128:80 - IIS Windows Server
+110.41.179.30:80 - Welcome to nginx!
+23.58.21.195:80 - Заголовок не найден
+18.155.40.121:80 - Заголовок не найден
+127.190.33.171:80 - IIS Windows Server
+127.209.67.139:80 - IIS Windows Server
+45.132.242.1:80 - Apache2 Debian Default Page: It works
+127.142.217.163:80 - IIS Windows Server
+222.97.233.26:80 - NVR
+127.51.211.147:80 - IIS Windows Server
+46.21.234.204:80 - Hosting Provider voor E-commerce &amp; Webshops - Hypernode
+23.34.249.44:80 - Заголовок не найден
+46.16.59.141:80 - -
+47.101.66.157:80 - è®¡ç®ææå­¦åä¼-ä¸­å½ææç ç©¶å­¦ä¼
+20.2.161.58:80 - 400 Bad Request
+220.126.13.210:80 - Gargoyle Router Management Utility
+83.29.26.3:80 - Заголовок не найден
+127.103.213.108:80 - IIS Windows Server
+127.255.141.231:80 - IIS Windows Server
+121.254.160.228:80 - Заголовок не найден
+38.6.208.111:80 - 404 Not Found
+3.161.31.142:80 - Заголовок не найден
+127.58.214.251:80 - IIS Windows Server
+2.23.30.134:80 - Заголовок не найден
+127.37.222.86:80 - IIS Windows Server
+3.140.148.63:80 - Error
+127.208.13.175:80 - IIS Windows Server
+103.51.147.107:80 - 404 Not Found
+183.239.109.139:80 - 503 Service Temporarily Unavailable
+104.19.251.247:80 - Direct IP access not allowed | Cloudflare
+127.168.148.225:80 - IIS Windows Server
+52.37.94.68:80 - Заголовок не найден
+65.133.128.119:80 - Sign In - CardioSolv GOGs
+40.122.104.249:80 - Заголовок не найден
+23.195.92.31:80 - Заголовок не найден
+140.143.160.167:80 - ENZOANI官网
+13.226.174.92:80 - Заголовок не найден
+192.199.39.178:80 - IIS Windows Server
+211.21.48.219:80 - Welcome to nginx!
+23.39.29.106:80 - Заголовок не найден
+88.200.21.149:80 - Nextcloud
+152.0.39.243:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#54;&#55;&#65;&#32;&#86;&#49;&#46;&#48;
+127.27.81.148:80 - IIS Windows Server
+127.15.203.53:80 - IIS Windows Server
+222.98.58.131:80 - 
+89.213.227.158:80 - Apache2 Debian Default Page: It works
+184.24.88.104:80 - Заголовок не найден
+18.223.81.190:80 - ADBCS - AWS Delivery Blackout Cloud Service
+194.247.31.88:80 - Заголовок не найден
+206.183.113.124:80 - Western Montana Area VI Agency on Aging
+127.34.79.142:80 - IIS Windows Server
+52.74.68.137:80 - Заголовок не найден
+127.79.216.72:80 - IIS Windows Server
+168.119.116.238:80 - Ninox
+208.97.57.105:80 - 7 Elite Academy
+43.203.107.164:80 - Bad Request (400)
+23.37.39.231:80 - Заголовок не найден
+34.244.127.4:80 - 503 Service Unavailable
+1.34.18.150:80 - 
+8.142.109.209:80 - WCP免费开源知识管理系统
+54.68.158.252:80 - 403 Forbidden
+127.26.157.16:80 - IIS Windows Server
+46.175.155.47:80 - ERROR: The requested URL could not be retrieved
