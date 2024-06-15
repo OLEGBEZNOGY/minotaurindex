@@ -1269,3 +1269,6 @@
 18.163.39.119:80 - 8彩娱乐欢迎您
 205.193.191.52:80 - Bureau de la traduction – Outil de compr&eacute;hension linguistique / Translation Bureau – Language Comprehension Tool
 2.22.58.167:80 - Заголовок не найден
+182.185.9.49:80 - Заголовок не найден
+20.8.254.205:80 - Your Azure Function App is up and running.
+52.187.33.42:80 - Microsoft Azure Web App - Error 404
