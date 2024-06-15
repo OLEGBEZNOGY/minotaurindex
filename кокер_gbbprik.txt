@@ -998,3 +998,67 @@
 108.139.61.141:80 - Заголовок не найден
 186.128.98.251:80 - Заголовок не найден
 121.40.197.46:80 - Заголовок не найден
+3.122.66.238:80 - HTTP Status 404 – Not Found
+212.185.50.78:80 - 403 Forbidden
+149.100.140.14:80 - 403 Forbidden
+3.115.75.250:80 - JupyterHub
+50.210.249.1:80 - Document Moved
+139.196.229.127:80 - 404 Not Found
+50.2.196.110:80 - 403 Forbidden
+78.24.184.64:80 - Home
+165.231.164.76:80 - 407 Proxy Authentication Required
+3.67.140.200:80 - Заголовок не найден
+93.126.7.187:80 - WEB SERVICE
+193.203.189.76:80 - 403 Forbidden
+87.120.131.96:80 - Please wait, the login page is opening...
+46.243.171.145:80 - index
+1.72.206.165:80 - Заголовок не найден
+58.225.205.192:80 - DVR ActiveX Viewer
+162.215.209.95:80 - Web Server's Default Page
+52.22.158.145:80 - Welcome to nginx!
+116.105.68.106:80 - WEB SERVICE
+182.16.15.3:80 - 403 Forbidden
+31.47.124.181:80 - Заголовок не найден
+43.229.133.162:80 - Apache2 Ubuntu Default Page: It works
+20.207.240.191:80 - 404 Not Found
+104.232.72.6:80 - 404 Not Found
+119.199.237.152:80 - 
+35.211.61.215:80 - Заголовок не найден
+212.47.227.27:80 - Welcome to nginx!
+88.215.108.170:80 - Document Moved
+202.6.225.89:80 - Niaga-Synology&nbsp;-&nbsp;Synology&nbsp;NAS
+192.163.192.178:80 - Заголовок не найден
+104.112.32.191:80 - Заголовок не найден
+18.161.159.173:80 - Заголовок не найден
+81.71.39.187:80 - 未找到视图“Index”或其母版视图，或没有视图引擎支持搜索的位置。搜索了以下位置: <br>~/Views/Home/Index.cshtml<br>~/Views/Home/Index.vbhtml<br>~/Views/Shared/Index.cshtml<br>~/Views/Shared/Index.vbhtml<br>~/Views/Home/Index.aspx<br>~/Views/Home/Index.ascx<br>~/Views/Shared/Index.aspx<br>~/Views/Shared/Index.ascx
+94.168.101.44:80 - Hello! Welcome to Synology Web Station!
+201.229.193.96:80 - 
+116.92.212.110:80 - 
+34.237.80.93:80 - Apache2 Ubuntu Default Page: It works
+13.225.55.194:80 - Заголовок не найден
+86.120.199.171:80 - IIS7
+94.156.170.82:80 - Please wait, the page is opening...
+5.190.137.5:80 - 
+108.138.45.218:80 - Заголовок не найден
+64.5.99.118:80 - K RIDLEY TECHNOLOGY
+15.229.77.199:80 - 502 Bad Gateway
+142.93.48.94:80 - Заголовок не найден
+211.23.21.212:80 - 
+119.193.155.160:80 - CMS Web Viewer
+173.249.48.51:80 - Powered by CapRover
+2.17.213.233:80 - Заголовок не найден
+198.23.132.148:80 - 407 Proxy Authentication Required
+23.35.206.64:80 - Заголовок не найден
+18.245.69.239:80 - Заголовок не найден
+185.225.251.86:80 - Заголовок не найден
+91.205.85.156:80 - Заголовок не найден
+65.8.27.162:80 - Заголовок не найден
+3.112.120.203:80 - Заголовок не найден
+218.25.54.44:80 - Заголовок не найден
+79.96.17.239:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+152.228.128.181:80 - Welcome to nginx!
+3.16.198.94:80 - Ben Szymanski
+5.63.154.34:80 - ERROR: The requested URL could not be retrieved
+3.163.250.145:80 - Заголовок не найден
+20.23.187.231:80 - Your Azure Function App is up and running.
+13.111.42.172:80 - 403 - Forbidden: Access is denied.
