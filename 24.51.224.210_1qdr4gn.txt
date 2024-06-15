@@ -4490,3 +4490,22 @@
 154.198.216.21:80 - Welcome to nginx!
 78.136.121.168:80 - 500 Internal Server Error
 13.82.84.236:80 - SAP Commerce Cloud - Forbidden
+199.4.110.121:80 - Apache2 Ubuntu Default Page: It works
+54.37.82.76:80 - Welcome to nginx!
+60.164.222.40:80 - Заголовок не найден
+173.21.192.74:80 - 
+194.61.73.109:80 - Заголовок не найден
+23.215.230.34:80 - Заголовок не найден
+121.36.57.129:80 - Welcome to nginx!
+5.236.25.6:80 - 
+8.209.109.211:80 - CJdropshipping - Dropshipping from Worldwide to Worldwide!
+23.67.140.245:80 - Заголовок не найден
+63.197.90.233:80 - AT&T WiFi Portal
+34.222.130.175:80 - Forbidden
+69.90.141.33:80 - Blaze Bayley | official
+95.100.63.95:80 - Заголовок не найден
+104.233.229.228:80 - Supreme Master Television - SMTV - English
+173.255.192.123:80 - 403 Forbidden
+154.204.212.16:80 - 404 Not Found
+159.192.139.28:80 - 403 Forbidden
+212.50.234.217:80 - Google
