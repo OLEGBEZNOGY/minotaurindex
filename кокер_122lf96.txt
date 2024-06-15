@@ -8144,3 +8144,14 @@ ess not allowed | Cloudflare
 104.206.243.146:80 - Smart Stay Properties
 23.59.139.6:80 - Заголовок не найден
 96.125.165.178:80 - Заголовок не найден
+178.212.64.132:80 - 
+99.84.250.167:80 - Заголовок не найден
+129.227.66.236:80 - IIS Windows Server
+167.82.62.201:80 - Fastly error: unknown domain 167.82.62.201
+103.13.98.93:80 - Home Page
+54.247.207.101:80 - Заголовок не найден
+3.229.14.12:80 - Заголовок не найден
+13.248.163.144:80 - 503 Service Temporarily Unavailable
+72.20.114.241:80 - Login
+103.107.182.150:80 - IIS Windows Server
+154.12.194.223:80 - ERROR: The requested URL could not be retrieved
