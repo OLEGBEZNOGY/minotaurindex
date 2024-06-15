@@ -2212,3 +2212,12 @@ t Found
 46.242.254.130:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
 196.51.199.112:80 - ERROR: The requested URL could not be retrieved
 24.179.85.223:80 - 
+66.39.91.10:80 - Steadi-On: Video Production with an Emphasis on Steadicam Operation
+38.86.210.120:80 - Заголовок не найден
+20.188.40.195:80 - Apache2 Ubuntu Default Page: It works
+161.0.9.21:80 - 407 Proxy Authentication Required
+62.72.52.4:80 - 403 Forbidden
+156.239.220.8:80 - Заголовок не найден
+108.157.149.246:80 - Заголовок не найден
+34.32.61.196:80 - Login
+23.34.157.143:80 - Заголовок не найден
