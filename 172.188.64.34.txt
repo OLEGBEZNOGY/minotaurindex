@@ -10645,3 +10645,5 @@ owed | Cloudflare
 63.195.171.58:80 - AT&T WiFi Portal
 220.241.180.46:80 - Заголовок не найден
 40.76.193.210:80 - IIS Windows Server
+124.71.25.158:80 - 403 Forbidden
+52.22.86.12:80 - 503 Service Temporarily Unavailable
