@@ -18326,3 +18326,9 @@ Brklyn - Brklyn-Media - PBS
 101.13.2.175:80 - 
 103.54.124.114:80 - Welcome to nginx!
 80.141.229.212:80 - Document Error: Not Found
+123.27.15.20:80 - 
+200.91.42.64:80 - CAP S.A. Principal Grupo Minero Siderúrgico de Chile
+23.23.156.220:80 - Заголовок не найден
+104.110.1.10:80 - Заголовок не найден
+210.44.209.135:80 - 404 Not Found
+3.130.106.230:80 - 403 Forbidden
