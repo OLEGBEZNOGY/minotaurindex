@@ -3993,3 +3993,16 @@ No service configured for this hostname
 45.43.50.231:80 - 203 Non-Authoritative Information
 95.100.210.47:80 - Заголовок не найден
 158.101.87.97:80 - 403 Forbidden
+27.2.226.77:80 - Error 404 (Not Found)!!1
+96.9.33.192:80 - 403 Forbidden
+95.100.73.25:80 - Заголовок не найден
+64.57.77.181:80 - Service Unavailable
+23.202.250.104:80 - Заголовок не найден
+104.168.11.5:80 - 404 Not Found
+23.199.189.244:80 - Заголовок не найден
+103.18.173.116:80 - Заголовок не найден
+68.183.88.253:80 - Ethically run luxury hand-embroidery atelier
+172.66.138.186:80 - Direct IP access not allowed | Cloudflare
+104.88.187.218:80 - Заголовок не найден
+23.50.79.52:80 - Заголовок не найден
+190.121.138.81:80 - Grupo Sulogistica
