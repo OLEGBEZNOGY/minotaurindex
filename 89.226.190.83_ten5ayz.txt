@@ -826,3 +826,4 @@
 98.142.105.133:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
 3.225.234.82:80 - Заголовок не найден
 104.89.189.162:80 - Заголовок не найден
+109.205.20.186:80 - 500 Internal Server Error
