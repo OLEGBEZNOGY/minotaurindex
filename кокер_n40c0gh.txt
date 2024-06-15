@@ -5746,3 +5746,18 @@ Brklyn - Brklyn-Media - PBS
 18.65.158.139:80 - Заголовок не найден
 195.211.61.186:80 - 
 166.140.236.93:80 - Index page
+13.50.52.87:80 - Заголовок не найден
+14.225.253.73:80 - ChÆ¡i Uno Online - ChoiUno.Online
+104.18.172.69:80 - Direct IP access not allowed | Cloudflare
+186.151.238.163:80 - ownCloud
+150.60.5.208:80 - Заголовок не найден
+194.59.28.192:80 - Please wait, the page is opening...
+188.128.147.241:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+104.22.60.235:80 - Direct IP access not allowed | Cloudflare
+3.23.150.99:80 - 404 Not Found
+18.238.175.28:80 - Заголовок не найден
+104.20.236.92:80 - Direct IP access not allowed | Cloudflare
+38.38.161.118:80 - Заголовок не найден
+104.115.213.159:80 - Заголовок не найден
+18.164.254.6:80 - Заголовок не найден
+13.50.202.208:80 - 404 Not Found
