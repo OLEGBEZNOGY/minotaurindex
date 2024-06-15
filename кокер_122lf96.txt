@@ -8099,3 +8099,25 @@ ess not allowed | Cloudflare
 154.12.204.156:80 - ERROR: The requested URL could not be retrieved
 45.88.202.205:80 - Domain Setup
 110.34.3.179:80 - IIS Windows Server
+18.65.68.109:80 - Заголовок не найден
+195.201.251.3:80 - Giriş - Mibew Messenger
+212.93.146.18:80 - Заголовок не найден
+152.0.164.150:80 - 
+20.121.147.190:80 - Заголовок не найден
+18.161.246.153:80 - Заголовок не найден
+186.151.200.181:80 - UMG Jutiapa -
+ - Login
+84.143.48.46:80 - WebViewer
+37.130.153.15:80 - Заголовок не найден
+108.156.130.39:80 - Заголовок не найден
+156.224.180.90:80 - 404 Not Found
+109.71.183.124:80 - Заголовок не найден
+38.170.23.140:80 - ERROR: The requested URL could not be retrieved
+144.126.236.192:80 - Bebepure
+151.74.28.235:80 - DVSwitch Dashboard
+47.76.169.5:80 - 404 Not Found
+37.197.185.212:80 - Заголовок не найден
+104.19.82.9:80 - Direct IP access not allowed | Cloudflare
+117.242.45.114:80 - WEB SERVICE
+154.9.52.186:80 - ERROR: The requested URL could not be retrieved
+160.75.159.4:80 - Index of /
