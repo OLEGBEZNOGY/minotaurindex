@@ -1433,3 +1433,186 @@
 3.160.64.187:80 - Заголовок не найден
 127.192.185.251:80 - IIS Windows Server
 51.75.246.209:80 - 404 Not Found
+60.205.145.239:80 - Заголовок не найден
+104.198.80.234:80 - 株式会社 フォーカスシステムズ | デジタルビジネスソリューション
+186.7.145.113:80 - 
+147.139.200.240:80 - Home - 8commerce
+127.170.204.19:80 - IIS Windows Server
+127.243.173.209:80 - IIS Windows Server
+127.42.68.251:80 - IIS Windows Server
+37.34.54.217:80 - Заголовок не найден
+13.49.65.167:80 - Welcome to nginx!
+3.11.55.36:80 - Заголовок не найден
+127.141.205.177:80 - IIS Windows Server
+127.251.161.50:80 - IIS Windows Server
+219.233.46.219:80 - Заголовок не найден
+23.222.26.47:80 - Заголовок не найден
+23.205.180.154:80 - Заголовок не найден
+127.28.22.46:80 - IIS Windows Server
+123.125.99.241:80 - 403 Forbidden
+209.94.63.192:80 - 403 Forbidden
+108.178.4.213:80 - Заголовок не найден
+192.129.253.252:80 - Заголовок не найден
+127.166.224.88:80 - IIS Windows Server
+154.6.168.42:80 - Заголовок не найден
+20.165.5.43:80 - Your Azure Function App is up and running.
+104.76.104.142:80 - Заголовок не найден
+220.134.60.41:80 - Заголовок не найден
+54.183.246.151:80 - 503 Service Unavailable
+118.127.220.100:80 - CMS Web Viewer
+127.124.35.163:80 - IIS Windows Server
+23.50.18.46:80 - Заголовок не найден
+45.192.240.124:80 - 4118coom云顶(中国)有限公司
+127.244.141.39:80 - IIS Windows Server
+160.202.100.176:80 - 404 Not Found
+51.91.11.74:80 - 400 The plain HTTP request was sent to HTTPS port
+23.198.177.211:80 - Заголовок не найден
+192.237.197.248:80 - IIS Windows Server
+127.214.141.74:80 - IIS Windows Server
+108.157.218.13:80 - Заголовок не найден
+127.204.243.154:80 - IIS Windows Server
+127.54.104.160:80 - IIS Windows Server
+91.144.20.75:80 - RouterOS router configuration page
+69.192.33.48:80 - Заголовок не найден
+207.148.127.77:80 - Apache2 Ubuntu Default Page: It works
+127.233.77.104:80 - IIS Windows Server
+104.98.99.205:80 - Заголовок не найден
+122.116.198.110:80 - 
+35.186.237.87:80 - 404 Not Found
+127.196.1.240:80 - IIS Windows Server
+3.160.25.96:80 - Заголовок не найден
+52.141.22.143:80 - APPSRAY
+23.44.78.27:80 - Заголовок не найден
+207.204.242.26:80 - Bandwidth Speed Test
+104.100.206.245:80 - Заголовок не найден
+23.59.167.89:80 - Заголовок не найден
+127.37.145.230:80 - IIS Windows Server
+116.211.201.26:80 - Welcome to OpenResty!
+18.244.69.59:80 - Заголовок не найден
+96.250.92.3:80 - Web Site Blocked
+8.134.66.202:80 - 404 Not Found
+191.234.187.99:80 - Microsoft Azure Web App - Error 404
+3.160.66.139:80 - Заголовок не найден
+127.188.99.5:80 - IIS Windows Server
+127.15.246.153:80 - IIS Windows Server
+38.174.240.143:80 - Заголовок не найден
+127.198.11.30:80 - IIS Windows Server
+127.35.211.76:80 - IIS Windows Server
+23.200.222.78:80 - Заголовок не найден
+127.128.26.71:80 - IIS Windows Server
+184.26.241.58:80 - Заголовок не найден
+154.206.146.35:80 - æ²¡ææ¾å°ç«ç¹
+127.30.118.147:80 - IIS Windows Server
+124.222.135.232:80 - 500 - ÄÚ²¿·þÎñÆ÷´íÎó¡£
+127.178.49.176:80 - IIS Windows Server
+18.66.98.121:80 - Заголовок не найден
+144.126.136.139:80 - Welcome to nginx!
+23.202.242.36:80 - Заголовок не найден
+104.87.78.95:80 - Заголовок не найден
+160.124.229.48:80 - 404 Not Found
+85.112.84.106:80 - 404 Not Found
+179.50.60.103:80 - Sian Manager -     Inicio de sesión
+23.235.150.83:80 - 404 Not Found
+148.255.7.10:80 - 
+127.66.116.53:80 - IIS Windows Server
+165.246.73.199:80 - Welcome to XAMPP
+127.156.12.231:80 - IIS Windows Server
+127.171.125.252:80 - IIS Windows Server
+23.49.189.22:80 - Заголовок не найден
+140.122.146.191:80 - HP Color LaserJet MFP M283fdw&nbsp;&nbsp;&nbsp;140.122.146.191
+52.53.132.200:80 - HTTP Status 404 – Not Found
+34.196.52.191:80 - Заголовок не найден
+47.108.77.166:80 - IPFS
+4.4.173.197:80 - Instant WiFi
+211.222.34.21:80 - 
+49.232.203.174:80 - 403 Forbidden
+73.76.255.16:80 - 
+127.139.155.7:80 - IIS Windows Server
+13.232.23.73:80 - 404 Not Found
+211.38.79.8:80 - main page
+117.18.6.214:80 - Welcome to MailAmigos.com Ultimate Email Marketing Solution
+127.27.123.224:80 - IIS Windows Server
+127.191.176.188:80 - IIS Windows Server
+167.71.227.159:80 - Sign in | Easy Forms
+127.157.25.144:80 - IIS Windows Server
+5.251.6.196:80 - GPON Home Gateway
+212.70.131.55:80 - ÐÐ¾Ð»Ñ Ð¸Ð·ÑÐ°ÐºÐ°Ð¹ÑÐµ, Ð½Ð°ÑÐ°Ð»Ð½Ð°ÑÐ° ÑÑÑÐ°Ð½Ð¸ÑÐ° ÑÐµ Ð·Ð°ÑÐµÐ¶Ð´Ð°...
+85.130.163.201:80 - WEB SERVICE
+104.105.93.32:80 - Заголовок не найден
+83.252.68.78:80 - Заголовок не найден
+158.247.19.104:80 - Trust &amp; Safety Policies
+119.39.81.205:80 - Заголовок не найден
+162.142.17.11:80 - 403 Forbidden
+216.218.192.170:80 - Apache2 Ubuntu Default Page: It works
+104.22.2.233:80 - Direct IP access not allowed | Cloudflare
+168.119.166.153:80 - Startseite - OKAY Ybbs
+20.215.82.108:80 - Azure Container App - Unavailable
+38.11.20.211:80 - 404 Not Found
+104.122.205.16:80 - Заголовок не найден
+127.28.141.183:80 - IIS Windows Server
+185.97.203.41:80 - 403 Forbidden
+104.16.68.166:80 - Direct IP access not allowed | Cloudflare
+178.17.169.22:80 - Index of /
+34.36.129.110:80 - ARESGACOR: Situs Slot Online &amp; Link Slot Gacor Terbaru Gampang Menang Hari Ini Terbaru di Indonesia
+165.3.39.28:80 - 403 Forbidden
+83.175.127.58:80 - Document Moved
+23.56.148.112:80 - Заголовок не найден
+127.98.200.252:80 - IIS Windows Server
+23.38.93.203:80 - Заголовок не найден
+47.40.60.237:80 - Default Site
+127.127.173.71:80 - IIS Windows Server
+184.28.43.147:80 - Заголовок не найден
+127.129.148.25:80 - IIS Windows Server
+127.100.239.232:80 - IIS Windows Server
+47.110.44.45:80 - ç½ç«è®¿é®æ¥é
+127.208.179.183:80 - IIS Windows Server
+39.98.177.84:80 - 404 Not Found
+127.128.33.85:80 - IIS Windows Server
+51.195.138.223:80 - Заголовок не найден
+206.238.175.31:80 - 404 Not Found
+127.245.246.43:80 - IIS Windows Server
+127.87.150.4:80 - IIS Windows Server
+66.198.247.108:80 - Заголовок не найден
+127.3.148.192:80 - IIS Windows Server
+216.36.237.125:80 - Заголовок не найден
+34.117.23.210:80 - Заголовок не найден
+41.76.212.231:80 - IIS Windows Server
+23.65.130.169:80 - Заголовок не найден
+127.152.162.47:80 - IIS Windows Server
+38.12.108.7:80 - 404 Not Found
+148.72.177.162:80 - RÃ¡dio Elshadday
+127.226.96.87:80 - IIS Windows Server
+127.109.128.236:80 - IIS Windows Server
+50.65.123.27:80 - 
+127.21.148.104:80 - IIS Windows Server
+127.176.170.252:80 - IIS Windows Server
+47.99.42.253:80 - Заголовок не найден
+127.26.230.118:80 - IIS Windows Server
+127.5.45.98:80 - IIS Windows Server
+23.50.147.203:80 - Заголовок не найден
+127.86.10.205:80 - IIS Windows Server
+95.100.17.186:80 - Заголовок не найден
+127.162.82.99:80 - IIS Windows Server
+172.175.34.223:80 - Your Azure Function App is up and running.
+127.140.97.209:80 - IIS Windows Server
+127.124.190.191:80 - IIS Windows Server
+187.230.31.63:80 - 
+146.247.227.147:80 - Parent - 80.248.225.246
+108.139.124.109:80 - Заголовок не найден
+127.217.43.88:80 - IIS Windows Server
+127.125.94.157:80 - IIS Windows Server
+176.99.9.242:80 - 401 Authorization Required
+127.167.191.237:80 - IIS Windows Server
+127.181.48.67:80 - IIS Windows Server
+23.12.222.179:80 - Заголовок не найден
+139.82.20.43:80 - Заголовок не найден
+23.59.32.151:80 - Заголовок не найден
+144.91.80.10:80 - Apache HTTP Server Test Page powered by CentOS
+127.95.79.219:80 - IIS Windows Server
+104.124.109.210:80 - Заголовок не найден
+45.117.76.219:80 - Web Server's Default Page
+74.123.152.75:80 - Luminate: Site Not Found
+74.63.193.243:80 - Заголовок не найден
+152.0.92.20:80 - 
+5.135.237.185:80 - Заголовок не найден
+127.195.195.4:80 - IIS Windows Server
