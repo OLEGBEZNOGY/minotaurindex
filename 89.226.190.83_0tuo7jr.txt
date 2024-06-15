@@ -5395,3 +5395,4 @@
 104.83.98.157:80 - Заголовок не найден
 77.55.146.76:80 - Domena  jest utrzymywana na serwerach nazwa.pl
 172.247.133.86:80 - 403 Forbidden
+173.232.206.248:80 - 500 Internal Server Error
