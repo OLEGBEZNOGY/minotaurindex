@@ -12780,3 +12780,10 @@ ess not allowed | Cloudflare
 79.106.136.193:80 - 
 147.182.172.235:80 - 404 Not Found
 18.238.127.85:80 - Заголовок не найден
+103.2.115.95:80 - Welcome to nginx!
+217.72.202.135:80 - Web Server's Default Page
+2.18.44.210:80 - Error
+85.128.223.46:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+8.134.254.247:80 - 404 Not Found
+119.3.57.189:80 - Заголовок не найден
+38.33.69.252:80 - Заголовок не найден
