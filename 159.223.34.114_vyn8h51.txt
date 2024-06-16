@@ -2597,3 +2597,20 @@
 158.101.104.167:80 - Test Page for the Nginx HTTP Server on Fedora
 3.89.173.226:80 - Заголовок не найден
 45.78.21.60:80 - Welcome to nginx!
+77.37.224.29:80 - 403 Forbidden
+24.10.90.220:80 - Заголовок не найден
+116.110.109.17:80 - Заголовок не найден
+96.9.3.8:80 - 403 Forbidden
+38.242.211.80:80 - Default Site
+2.186.186.13:80 - Заголовок не найден
+103.68.22.133:80 - Please wait, the login page is opening...
+95.216.169.150:80 - Sign in · GitLab
+47.123.116.132:80 - 403 Forbidden
+65.120.34.66:80 - index
+20.103.37.161:80 - SAP Commerce Cloud - Forbidden
+88.121.0.89:80 - Заголовок не найден
+103.164.219.203:80 - Taspen
+219.117.250.114:80 - 403 Forbidden
+4.71.108.216:80 - 403 - Forbidden: Access is denied.
+141.147.30.61:80 - Apache2 Ubuntu Default Page: It works
+104.114.146.5:80 - Заголовок не найден
