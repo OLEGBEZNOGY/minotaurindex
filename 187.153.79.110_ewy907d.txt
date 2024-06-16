@@ -563,3 +563,141 @@
 127.244.59.40:80 - IIS Windows
 127.102.116.50:80 - IIS Windows
 127.196.145.163:80 - IIS Windows
+129.153.112.240:80 - 403
+190.167.44.145:80 - 
+23.214.249.18:80 - Заголовок не найден
+127.130.136.244:80 - IIS Windows
+127.95.143.225:80 - IIS Windows
+127.86.152.200:80 - IIS Windows
+101.35.248.163:80 - Welcome to nginx!
+220.134.65.219:80 - index
+23.52.239.197:80 - Заголовок не найден
+103.160.204.34:80 - Direct IP access not allowed | Cloudflare
+104.82.72.252:80 - Заголовок не найден
+39.55.186.144:80 - Заголовок не найден
+172.105.43.164:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+127.173.95.149:80 - IIS Windows
+127.67.175.87:80 - IIS Windows
+127.116.140.126:80 - IIS Windows
+23.45.32.89:80 - Заголовок не найден
+127.69.42.245:80 - IIS Windows
+23.74.20.78:80 - Заголовок не найден
+127.127.195.87:80 - IIS Windows
+18.165.81.3:80 - Заголовок не найден
+127.167.220.170:80 - IIS Windows
+127.49.120.221:80 - IIS Windows
+54.252.244.125:80 - Заголовок не найден
+127.235.176.175:80 - IIS Windows
+127.110.188.2:80 - IIS Windows
+66.190.44.10:80 - Document Moved
+23.78.10.59:80 - Заголовок не найден
+127.213.35.209:80 - IIS Windows
+192.151.198.236:80 - 403 Forbidden
+204.10.65.94:80 - Future Website: Duvys Media, Web Design and Development
+190.174.54.77:80 - Заголовок не найден
+127.107.141.152:80 - IIS Windows
+127.27.102.184:80 - IIS Windows
+127.174.216.33:80 - IIS Windows
+127.79.118.47:80 - IIS Windows
+127.189.173.229:80 - IIS Windows
+23.198.100.110:80 - Заголовок не найден
+54.85.163.65:80 - Заголовок не найден
+67.202.98.21:80 - 500 Internal Server Error
+23.44.47.5:80 - Заголовок не найден
+23.222.46.246:80 - Заголовок не найден
+111.13.235.184:80 - Welcome to tengine!
+165.225.27.98:80 - Internet Security by Zscaler
+154.198.215.159:80 - æ²¡ææ¾å°ç«ç¹
+38.63.167.227:80 - 403 Forbidden
+18.245.41.59:80 - Заголовок не найден
+127.245.32.110:80 - IIS Windows
+54.38.94.10:80 - FileMaker Website
+127.214.152.104:80 - IIS Windows
+45.143.186.67:80 - STARFACE VoIP Software
+127.68.209.123:80 - IIS Windows
+8.208.79.124:80 - Apache HTTP Server Test Page powered by CentOS
+203.76.152.54:80 - Заголовок не найден
+18.245.126.55:80 - Заголовок не найден
+5.230.70.150:80 - Aj Read: Íè-Íè
+149.28.41.60:80 - Unknown Domain
+127.250.124.88:80 - IIS Windows
+75.75.236.51:80 - 403 Forbidden
+108.138.89.18:80 - Заголовок не найден
+96.7.106.101:80 - Заголовок не найден
+127.109.179.127:80 - IIS Windows
+127.16.197.44:80 - IIS Windows
+127.71.157.91:80 - IIS Windows
+127.80.150.245:80 - IIS Windows
+104.122.110.156:80 - Заголовок не найден
+23.60.52.147:80 - Заголовок не найден
+46.22.37.244:80 - Web Server's Default Page
+127.89.244.12:80 - IIS Windows
+148.101.205.173:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#54;&#55;&#65;&#32;&#86;&#49;&#46;&#48;
+85.128.176.80:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+127.91.142.47:80 - IIS Windows
+127.160.60.73:80 - IIS Windows
+127.91.83.27:80 - IIS Windows
+54.183.58.101:80 - 503 - Service Unavailable From ThreatX
+129.132.145.107:80 - Website not found!
+151.101.145.98:80 - Fastly error: unknown domain 151.101.145.98
+127.1.210.98:80 - IIS Windows
+127.7.164.133:80 - IIS Windows
+127.6.12.13:80 - IIS Windows
+127.134.57.8:80 - IIS Windows
+127.240.6.151:80 - IIS Windows
+127.86.96.223:80 - IIS Windows
+127.105.188.12:80 - IIS Windows
+127.83.65.224:80 - IIS Windows
+127.13.73.72:80 - IIS Windows
+127.119.202.225:80 - IIS Windows
+127.12.167.118:80 - IIS Windows
+127.214.88.54:80 - IIS Windows
+45.193.61.250:80 - Welcome to nginx!
+104.25.201.138:80 - Direct IP access not allowed | Cloudflare
+47.97.106.19:80 - IIS Windows Server
+127.102.95.214:80 - IIS Windows
+24.180.158.12:80 - 
+127.190.62.80:80 - IIS Windows
+154.37.51.137:80 - 500 Internal Server Error
+127.21.30.230:80 - IIS Windows
+127.119.21.102:80 - IIS Windows
+127.159.91.76:80 - IIS Windows
+127.165.167.178:80 - IIS Windows
+127.130.232.82:80 - IIS Windows
+71.41.119.174:80 - 
+127.98.166.176:80 - IIS Windows
+52.222.185.232:80 - Заголовок не найден
+127.141.221.240:80 - IIS Windows
+127.139.139.3:80 - IIS Windows
+172.64.9.193:80 - Direct IP access not allowed | Cloudflare
+127.199.72.82:80 - IIS Windows
+127.161.36.202:80 - IIS Windows
+127.254.73.172:80 - IIS Windows
+127.5.68.92:80 - IIS Windows
+127.112.244.209:80 - IIS Windows
+127.205.83.14:80 - IIS Windows
+127.139.169.43:80 - IIS Windows
+127.148.66.108:80 - IIS Windows
+23.197.120.178:80 - Заголовок не найден
+192.230.81.42:80 - Заголовок не найден
+193.247.117.37:80 - Заголовок не найден
+127.226.205.231:80 - IIS Windows
+198.200.62.247:80 - æ²¡ææ¾å°ç«ç¹
+182.178.40.70:80 - Заголовок не найден
+127.159.238.113:80 - IIS Windows
+127.173.212.70:80 - IIS Windows
+127.93.235.54:80 - IIS Windows
+14.128.136.37:80 - 403 Forbidden
+104.123.29.12:80 - Заголовок не найден
+127.110.212.23:80 - IIS Windows
+127.59.32.105:80 - IIS Windows
+127.38.32.211:80 - IIS Windows
+14.133.81.7:80 - Заголовок не найден
+127.116.93.47:80 - IIS Windows
+127.19.38.73:80 - IIS Windows
+127.178.98.108:80 - IIS Windows
+211.226.189.63:80 - Gargoyle Router Management Utility
+88.218.248.201:80 - 404 Page not found
+127.44.150.164:80 - IIS Windows
+127.84.210.29:80 - IIS Windows
+165.231.212.245:80 - 407 Proxy Authentication Required
