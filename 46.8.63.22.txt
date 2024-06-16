@@ -4309,3 +4309,48 @@ works of art from the 17th and 18th century
 184.87.97.246:80 - Заголовок не найден
 167.99.178.230:80 - Welcome to nginx!
 111.205.249.68:80 - Green-GPT
+80.147.61.63:80 - Заголовок не найден
+163.182.138.182:80 - 403 Forbidden
+206.127.97.95:80 - Заголовок не найден
+52.7.250.218:80 - 404 Not Found
+18.134.28.34:80 - 502 Bad Gateway
+220.176.36.95:80 - æ²¡ææ¾å°ç«ç¹
+157.7.130.125:80 - Apache HTTP Server Test Page powered by CentOS
+151.101.255.78:80 - Fastly error: unknown domain 151.101.255.78
+8.137.119.56:80 - é¡ºåä¼ åª
+113.171.12.186:80 - Заголовок не найден
+183.194.211.37:80 - 403 Forbidden
+71.236.221.254:80 - Default Site
+118.215.184.54:80 - Заголовок не найден
+96.6.35.234:80 - Заголовок не найден
+34.218.157.70:80 - Заголовок не найден
+207.58.128.229:80 - The Walking Dead Forum | RoamersAndLurkers.com
+116.177.250.241:80 - 403 Forbidden
+81.71.140.143:80 - Заголовок не найден
+38.14.123.47:80 - 404 Not Found
+104.108.157.111:80 - Заголовок не найден
+18.172.14.137:80 - Заголовок не найден
+54.38.174.87:80 - Заголовок не найден
+91.104.181.136:80 - Заголовок не найден
+104.42.97.40:80 - Заголовок не найден
+119.194.127.85:80 - 
+47.104.98.3:80 - ç½ç«è®¿é®æ¥é
+104.164.175.117:80 - 404 Not Found
+196.51.171.87:80 - ERROR: The requested URL could not be retrieved
+104.91.85.19:80 - Заголовок не найден
+94.237.13.28:80 - Welcome to nginx!
+45.146.25.86:80 - Apache2 Debian Default Page: It works
+82.214.156.211:80 - 
+183.98.148.6:80 - Hello! Welcome to Synology Web Station!
+118.33.233.110:80 - CMS Web Viewer
+3.36.169.7:80 - 503 Service Temporarily Unavailable
+65.52.169.196:80 - IIS Windows Server
+107.154.37.176:80 - Заголовок не найден
+69.91.178.56:80 - Apache2 Ubuntu Default Page: It works
+154.12.209.26:80 - ERROR: The requested URL could not be retrieved
+79.96.59.155:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+172.67.87.134:80 - Direct IP access not allowed | Cloudflare
+148.255.35.200:80 - 
+38.6.139.154:80 - 404 Not Found
+72.247.200.148:80 - Заголовок не найден
+172.64.18.168:80 - Direct IP access not allowed | Cloudflare
