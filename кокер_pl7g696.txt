@@ -2138,3 +2138,119 @@
 2.19.34.83:80 - Заголовок не найден
 52.79.35.69:80 - Welcome to nginx!
 220.156.160.46:80 - 403 Forbidden
+45.150.35.93:80 - Заголовок не найден
+179.38.57.79:80 - Заголовок не найден
+98.97.99.123:80 - 
+159.203.158.141:80 - 404 Not Found
+106.14.136.109:80 - Заголовок не найден
+104.248.71.255:80 - Заголовок не найден
+3.162.211.55:80 - Заголовок не найден
+104.18.219.66:80 - Direct IP access not allowed | Cloudflare
+208.106.242.101:80 - Заголовок не найден
+92.123.113.12:80 - Заголовок не найден
+3.164.62.103:80 - Заголовок не найден
+18.136.209.93:80 - Website Unavailable
+23.50.187.120:80 - Заголовок не найден
+151.236.26.28:80 - Заголовок не найден
+5.9.77.18:80 - Web Server's Default Page
+75.148.180.139:80 - Заголовок не найден
+202.32.114.41:80 - ããã»ã¦ããã¼ã¹ å¬å¼éè²©ãµã¤ã|NANO universe CATALOG
+85.13.148.213:80 - 503 Service Temporarily Unavailable
+49.51.70.153:80 - 404 Not Found
+95.82.248.59:80 - Заголовок не найден
+104.168.251.182:80 - Заголовок не найден
+68.179.128.8:80 - 
+213.177.92.111:80 - Web Viewer for Samsung DVR
+66.39.8.38:80 - Lullabies from Singing to Me
+157.7.185.73:80 - TSU Moodle
+77.235.63.146:80 - Account Suspended
+35.200.157.177:80 - Заголовок не найден
+162.215.114.14:80 - Not Acceptable!
+202.172.30.172:80 - Заголовок не найден
+46.242.213.23:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+202.171.68.131:80 - Заголовок не найден
+104.114.97.231:80 - Заголовок не найден
+192.229.210.202:80 - 404 - Not Found
+77.116.97.48:80 - Заголовок не найден
+95.101.143.155:80 - Заголовок не найден
+200.88.228.140:80 - 
+69.30.193.19:80 - eCAMM | Welcome
+82.98.147.249:80 - EstÃ¡s accediendo a una IP compartida por varios hostings
+51.16.91.139:80 - Welcome to nginx!
+38.152.29.134:80 - Заголовок не найден
+157.15.51.162:80 - ERROR: Not Found
+209.127.122.232:80 - Заголовок не найден
+23.204.213.180:80 - Заголовок не найден
+20.239.7.29:80 - Your Azure Function App is up and running.
+69.49.232.39:80 - Not Acceptable!
+147.91.1.79:80 - RCUB Media portal | Media portal Računarskog centra Univerziteta u Beogradu
+195.178.54.187:80 - Заголовок не найден
+38.33.52.201:80 - IIS Windows Server
+34.102.222.42:80 - Заголовок не найден
+23.208.253.252:80 - Заголовок не найден
+79.96.136.219:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+23.50.184.217:80 - Заголовок не найден
+38.153.245.133:80 - ERROR: The requested URL could not be retrieved
+79.113.139.24:80 - 500 Error
+45.14.64.216:80 - Caddy works!
+2.186.127.233:80 - Forbidden
+121.99.240.78:80 - Заголовок не найден
+154.23.210.237:80 - Заголовок не найден
+212.109.220.155:80 - Site not found
+44.207.26.208:80 - 503 Service Temporarily Unavailable
+207.246.113.186:80 - 404 Not Found
+23.45.175.77:80 - Заголовок не найден
+122.53.138.32:80 - Philippine Broadcasting Service
+162.252.141.53:80 - 403 Forbidden
+54.225.103.167:80 - 404 Not Found
+187.95.84.170:80 - UN1200X-AC
+64.59.80.206:80 - The website you are trying to reach is Coming Soon!!!  Hosted by Way3.com
+104.88.160.52:80 - Заголовок не найден
+23.205.55.132:80 - Заголовок не найден
+79.96.211.207:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+47.92.140.217:80 - 503 Service Temporarily Unavailable
+211.115.110.29:80 - Apache HTTP Server Test Page powered by CentOS
+18.180.216.200:80 - Заголовок не найден
+35.221.70.203:80 - Apache2 Ubuntu Default Page: It works
+212.98.190.66:80 - 403 Forbidden
+78.192.177.50:80 - Checking Language...
+20.206.146.75:80 - Заголовок не найден
+220.116.101.131:80 - Заголовок не найден
+104.27.10.137:80 - Direct IP access not allowed | Cloudflare
+35.91.248.2:80 - Apache2 Ubuntu Default Page: It works
+151.237.66.240:80 - Please wait, the page is opening...
+34.206.179.37:80 - Заголовок не найден
+206.130.133.59:80 - Заголовок не найден
+23.53.135.238:80 - Заголовок не найден
+52.123.159.199:80 - Заголовок не найден
+52.118.98.163:80 - Заголовок не найден
+51.16.175.32:80 - Заголовок не найден
+140.238.0.17:80 - Default Site
+192.18.138.91:80 - Welcome to nginx!
+52.221.133.5:80 - Заголовок не найден
+45.77.174.38:80 - Web Server's Default Page
+104.120.228.15:80 - Заголовок не найден
+8.137.147.229:80 - Welcome to nginx!
+38.21.247.159:80 - 403 Forbidden
+101.201.61.184:80 - Welcome to OpenResty!
+104.20.218.235:80 - Direct IP access not allowed | Cloudflare
+183.107.149.208:80 - Заголовок не найден
+185.109.0.42:80 - Ayrix Billing
+78.47.156.201:80 - 403 Forbidden
+38.11.213.213:80 - 404 Not Found
+23.202.142.85:80 - Заголовок не найден
+71.46.239.43:80 - index
+54.232.1.50:80 - Welcome to Symfony!
+104.120.111.183:80 - Заголовок не найден
+154.12.209.68:80 - ERROR: The requested URL could not be retrieved
+23.33.178.226:80 - Заголовок не найден
+161.35.200.90:80 - WebPushr - Web Push Notification
+120.55.70.195:80 - 500 Internal Server Error
+23.88.122.125:80 - IIS Windows Server
+18.164.138.101:80 - Заголовок не найден
+5.62.57.52:80 - 403 Forbidden
+23.195.81.16:80 - Заголовок не найден
+175.97.171.218:80 - 403 Forbidden
+23.210.22.107:80 - Заголовок не найден
+45.139.114.98:80 - Minecraft Server mieten &amp; Prepaid Gameserver &mdash; MC-HOST24
+163.53.249.55:80 - Web Server's Default Page
