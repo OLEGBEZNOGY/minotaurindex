@@ -1281,3 +1281,16 @@
 110.78.152.205:80 - 403 Forbidden
 89.108.64.17:80 - Welcome to nginx!
 108.157.141.150:80 - Заголовок не найден
+75.119.220.167:80 - Site not found &middot; DreamHost
+104.104.130.53:80 - Заголовок не найден
+23.62.112.55:80 - Заголовок не найден
+23.199.184.211:80 - Заголовок не найден
+133.125.20.167:80 - e-package
+164.155.193.117:80 - 404 Not Found
+23.56.25.72:80 - Заголовок не найден
+23.209.109.186:80 - Заголовок не найден
+52.193.131.135:80 - No such app
+40.143.210.115:80 - Tel Aviv University Overseas Students Portal Login
+209.141.41.65:80 - Apache2 Ubuntu Default Page: It works
+129.151.180.232:80 - Test Page for the Nginx HTTP Server on Oracle Linux
+52.217.126.180:80 - Amazon S3 - Cloud Object Storage  - AWS
