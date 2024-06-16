@@ -21975,3 +21975,173 @@
 206.146.68.46:80 - Заголовок не найден
 169.45.70.241:80 - Заголовок не найден
 127.215.214.230:80 - Welcome to XAMPP
+209.23.13.32:80 - Apache HTTP Server Test Page powered by CentOS
+3.82.22.198:80 - Integrated Management System
+127.234.66.85:80 - Welcome to XAMPP
+43.134.18.222:80 - 403 Forbidden
+127.208.246.33:80 - Welcome to XAMPP
+104.110.21.20:80 - Заголовок не найден
+18.155.172.189:80 - Заголовок не найден
+149.104.35.135:80 - 403 Forbidden
+211.221.70.8:80 - Заголовок не найден
+190.20.206.118:80 - movistar
+23.47.14.223:80 - Заголовок не найден
+45.205.215.22:80 - Welcome to nginx!
+3.161.135.102:80 - Заголовок не найден
+35.167.168.116:80 - Заголовок не найден
+65.9.126.196:80 - Заголовок не найден
+127.41.182.254:80 - Welcome to XAMPP
+165.225.92.95:80 - Internet Security by Zscaler
+127.132.31.92:80 - Welcome to XAMPP
+95.217.46.21:80 - IIS Windows Server
+2.17.139.45:80 - Заголовок не найден
+179.36.113.125:80 - Заголовок не найден
+127.159.94.3:80 - Welcome to XAMPP
+65.108.65.56:80 - Cloudron - Not Found
+185.217.94.96:80 - Заголовок не найден
+127.26.42.233:80 - Welcome to XAMPP
+201.229.167.48:80 - 
+134.209.106.36:80 - 404 Not Found
+127.161.209.233:80 - Welcome to XAMPP
+75.119.207.244:80 - Заголовок не найден
+127.247.73.28:80 - Welcome to XAMPP
+127.60.80.172:80 - Welcome to XAMPP
+127.178.209.79:80 - Welcome to XAMPP
+23.205.60.234:80 - Заголовок не найден
+23.204.12.221:80 - Заголовок не найден
+101.132.68.94:80 - æ±æ­ï¼ç«ç¹å·²æå
+38.55.46.121:80 - 404 Not Found
+127.18.192.155:80 - Welcome to XAMPP
+127.240.75.15:80 - Welcome to XAMPP
+13.224.244.236:80 - Заголовок не найден
+5.9.58.145:80 - Web Server's Default Page
+127.132.67.106:80 - Welcome to XAMPP
+127.83.114.232:80 - Welcome to XAMPP
+127.215.134.240:80 - Welcome to XAMPP
+23.73.101.212:80 - Заголовок не найден
+79.96.213.33:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+127.125.234.222:80 - Welcome to XAMPP
+45.60.254.146:80 - Заголовок не найден
+27.54.140.236:80 - Заголовок не найден
+2.194.177.49:80 - Document Error: Page not found
+193.70.105.90:80 - Apache2 Debian Default Page: It works
+104.81.220.250:80 - Заголовок не найден
+108.138.92.44:80 - Заголовок не найден
+127.27.143.235:80 - Welcome to XAMPP
+154.27.137.20:80 - 404 Not Found
+23.193.93.163:80 - Заголовок не найден
+188.3.111.58:80 - Заголовок не найден
+127.86.153.217:80 - Welcome to XAMPP
+127.138.241.178:80 - Welcome to XAMPP
+80.69.42.106:80 - 
+127.83.211.143:80 - Welcome to XAMPP
+18.132.124.172:80 - Заголовок не найден
+192.154.108.30:80 - 
+43.163.202.129:80 - 404 Not Found
+23.5.250.159:80 - Заголовок не найден
+127.38.210.145:80 - Welcome to XAMPP
+127.55.178.137:80 - Welcome to XAMPP
+108.158.12.186:80 - Заголовок не найден
+127.37.123.163:80 - Welcome to XAMPP
+77.93.216.99:80 - Apache2 Debian Default Page: It works
+207.180.227.20:80 - Welcome to nginx!
+185.215.106.57:80 - Заголовок не найден
+185.83.167.65:80 - Firewall Notification
+61.19.254.54:80 - Enterprise Web Hosting
+219.218.122.252:80 - 404 Not Found
+127.175.157.157:80 - Welcome to XAMPP
+127.104.119.188:80 - Welcome to XAMPP
+217.83.215.218:80 - Заголовок не найден
+127.232.3.178:80 - Welcome to XAMPP
+38.97.225.143:80 - Quality Test
+120.96.82.76:80 - Заголовок не найден
+127.88.86.220:80 - Welcome to XAMPP
+146.148.138.229:80 - 404 Not Found
+54.38.220.184:80 - Moniker | Contact Verification Suspension Page
+202.161.126.203:80 - index
+127.152.125.164:80 - Welcome to XAMPP
+117.104.252.160:80 - Identity Authentication System
+127.192.10.204:80 - Welcome to XAMPP
+127.25.116.124:80 - Welcome to XAMPP
+127.218.199.163:80 - Welcome to XAMPP
+127.18.221.169:80 - Welcome to XAMPP
+127.41.98.29:80 - Welcome to XAMPP
+23.39.84.183:80 - Заголовок не найден
+190.116.44.190:80 - Заголовок не найден
+104.17.153.115:80 - Direct IP access not allowed | Cloudflare
+89.38.96.141:80 - 401 Authorization Required
+34.49.167.229:80 - Заголовок не найден
+109.124.253.113:80 - 404 Not Found
+127.24.24.13:80 - Welcome to XAMPP
+47.108.43.122:80 - Заголовок не найден
+34.193.172.104:80 - Заголовок не найден
+23.202.11.67:80 - Заголовок не найден
+127.241.184.99:80 - Welcome to XAMPP
+194.56.34.179:80 - Secure Login Service
+68.40.81.176:80 - IIS Windows Server
+141.98.11.55:80 - Apache2 Ubuntu Default Page: It works
+46.231.19.43:80 - Welcome to nginx!
+127.52.111.192:80 - Welcome to XAMPP
+54.92.44.224:80 - [404] そのページは存在しません。
+64.69.40.50:80 - FASTPANEL
+3.130.184.31:80 - Welcome to nginx!
+127.236.166.170:80 - Welcome to XAMPP
+127.166.125.186:80 - Welcome to XAMPP
+190.73.182.23:80 - Заголовок не найден
+212.237.23.183:80 - 404 Not Found
+127.193.22.66:80 - Welcome to XAMPP
+127.44.159.44:80 - Welcome to XAMPP
+83.138.218.105:80 - WEB SERVICE
+45.64.3.51:80 - SGS E-LEARNING
+127.30.41.224:80 - Welcome to XAMPP
+54.195.226.13:80 - Заголовок не найден
+104.16.108.49:80 - Direct IP access not allowed | Cloudflare
+127.152.47.254:80 - Welcome to XAMPP
+178.250.168.18:80 - Parallels Client for Web
+185.179.157.206:80 - Baza Sportiva Eicon | Baza Sportiva Targoviste
+51.81.119.191:80 - Webmasters.com | Cheap Domains, Web Hosting, Servers & Website Design
+4.192.75.112:80 - Your Azure Function App is up and running.
+47.104.37.154:80 - Заголовок не найден
+104.106.176.27:80 - Заголовок не найден
+23.42.40.224:80 - Заголовок не найден
+127.105.68.50:80 - Welcome to XAMPP
+127.83.253.37:80 - Welcome to XAMPP
+3.109.185.106:80 - Login :: Damn Vulnerable Web Application (DVWA) v1.10 *Development*
+87.212.42.137:80 - Заголовок не найден
+68.183.125.15:80 - Oops - Error 500
+65.52.177.148:80 - Index of /
+127.161.4.69:80 - Welcome to XAMPP
+198.27.77.99:80 - Sign in · GitLab
+65.109.9.88:80 - Baby Tux
+127.246.244.105:80 - Welcome to XAMPP
+127.211.85.216:80 - Welcome to XAMPP
+23.94.236.24:80 - 404 Not Found
+127.181.23.147:80 - Welcome to XAMPP
+221.181.137.66:80 - Заголовок не найден
+23.220.58.128:80 - Заголовок не найден
+82.64.56.84:80 - Domoticz
+45.76.144.226:80 - Заголовок не найден
+127.125.204.225:80 - Welcome to XAMPP
+92.222.232.73:80 - Заголовок не найден
+104.131.40.166:80 - 
+127.153.11.31:80 - Welcome to XAMPP
+23.66.49.39:80 - Заголовок не найден
+127.150.104.4:80 - Welcome to XAMPP
+18.238.137.67:80 - Заголовок не найден
+127.141.218.41:80 - Welcome to XAMPP
+187.85.77.217:80 - A Cabral Embalagens - Caixas de Papelão
+74.94.26.185:80 - Document Moved
+109.91.148.185:80 - 404 Not Found
+18.206.9.96:80 - Заголовок не найден
+127.42.210.126:80 - Welcome to XAMPP
+23.66.140.149:80 - Заголовок не найден
+127.11.225.30:80 - Welcome to XAMPP
+62.135.109.179:80 - Document Moved
+23.220.159.220:80 - Заголовок не найден
+104.120.133.230:80 - Заголовок не найден
+127.62.52.249:80 - Welcome to XAMPP
+3.165.10.125:80 - Заголовок не найден
+51.75.196.23:80 - Welcome to nginx!
+170.130.131.76:80 - 403 Forbidden
+66.244.65.200:80 - 
+52.187.51.241:80 - Microsoft Azure Web App - Error 404
