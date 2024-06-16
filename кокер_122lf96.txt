@@ -11496,3 +11496,27 @@ ess not allowed | Cloudflare
 143.244.191.232:80 - HDIF &#8211; Human Development Innovation Fund
 116.202.186.173:80 - Welcome to nginx!
 13.224.222.112:80 - Заголовок не найден
+23.49.230.165:80 - Заголовок не найден
+130.185.109.203:80 - Заголовок не найден
+3.123.237.243:80 - Cloud Essentials for Everyone
+54.230.227.172:80 - Заголовок не найден
+162.240.68.214:80 - Заголовок не найден
+122.222.60.233:80 - 401 Authorization Required
+203.205.21.137:80 - Заголовок не найден
+81.169.129.51:80 - Web Server's Default Page
+47.95.1.25:80 - Заголовок не найден
+136.144.241.135:80 - Apache2 Ubuntu Default Page: It works
+57.128.122.66:80 - Заголовок не найден
+173.199.123.225:80 - Unknown Domain
+20.80.138.99:80 - Заголовок не найден
+62.54.221.235:80 - IIS Windows Server
+63.250.38.185:80 - Заголовок не найден
+20.231.247.195:80 - Заголовок не найден
+64.176.210.163:80 - Apache2 Ubuntu Default Page: It works
+52.216.56.108:80 - Amazon S3 - Cloud Object Storage  - AWS
+107.158.72.78:80 - Заголовок не найден
+98.116.199.188:80 - Parallels User Portal
+124.221.149.180:80 - Niko's Blog
+192.3.217.88:80 - ERROR: The requested URL could not be retrieved
+189.3.134.48:80 - Error
+148.135.100.109:80 - Заголовок не найден
