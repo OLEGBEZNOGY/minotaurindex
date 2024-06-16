@@ -7478,3 +7478,22 @@
 104.21.106.162:80 - Direct IP access not allowed | Cloudflare
 23.198.159.107:80 - Заголовок не найден
 51.79.43.94:80 - This server is powered by PebbleHost!
+85.215.152.108:80 - 403 Forbidden
+38.11.94.168:80 - æ²¡ææ¾å°ç«ç¹
+108.156.70.29:80 - Заголовок не найден
+79.172.229.114:80 - 
+120.27.149.52:80 - Заголовок не найден
+187.86.63.34:80 - Заголовок не найден
+104.88.165.198:80 - Заголовок не найден
+112.74.162.110:80 - Not Found
+181.214.154.6:80 - Заголовок не найден
+114.70.194.70:80 - Заголовок не найден
+186.27.147.191:80 - welcome
+68.171.41.38:80 - Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
+3.163.134.122:80 - Заголовок не найден
+23.206.245.134:80 - Заголовок не найден
+62.72.36.5:80 - Pixellyverse Alpha
+23.44.251.180:80 - Заголовок не найден
+52.213.77.132:80 - Login
+154.38.18.137:80 - ERROR: The requested URL could not be retrieved
+5.135.250.119:80 - Accueil > ALEDA - Agence Locale de lÉnergie du Département de lAriège > 09000 ST JEAN DE VERGES Cedex > 09 - Ariège
