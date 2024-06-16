@@ -6345,3 +6345,87 @@
 101.182.178.8:80 - 
 35.172.212.113:80 - Welcome to nginx!
 112.165.222.97:80 - 
+34.208.15.49:80 - 503 Service Temporarily Unavailable
+145.239.71.54:80 - Web Server's Default Page
+156.250.112.162:80 - æ²¡ææ¾å°ç«ç¹
+104.70.95.103:80 - Заголовок не найден
+47.89.140.15:80 - Заголовок не найден
+186.88.31.99:80 - 
+35.85.35.107:80 - Welcome to CentOS
+138.201.47.126:80 - IIS Windows Server
+103.177.9.48:80 - RouterOS router configuration page
+23.38.17.39:80 - Заголовок не найден
+96.7.101.189:80 - Заголовок не найден
+173.241.204.94:80 - Заголовок не найден
+162.159.240.82:80 - Direct IP access not allowed | Cloudflare
+20.210.171.144:80 - Заголовок не найден
+54.247.47.172:80 - 502 Bad Gateway
+64.233.187.81:80 - Google
+13.126.214.67:80 - Заголовок не найден
+23.223.131.137:80 - Заголовок не найден
+13.232.27.63:80 - 404 Not Found
+104.21.22.237:80 - Direct IP access not allowed | Cloudflare
+94.26.58.53:80 - НИНКН:
+
+            Начало
+20.253.81.36:80 - Your Azure Function App is up and running.
+51.210.184.251:80 - Nimbo API demo - crop identification
+123.56.132.83:80 - Заголовок не найден
+3.67.167.45:80 - Welcome to nginx!
+177.93.204.201:80 - Заголовок не найден
+72.188.5.32:80 - 
+54.239.186.116:80 - Заголовок не найден
+45.83.107.112:80 - Apache2 Ubuntu Default Page: It works
+138.201.58.142:80 - Заголовок не найден
+13.226.30.83:80 - Заголовок не найден
+52.222.181.115:80 - Заголовок не найден
+154.214.92.55:80 - 404 Not Found
+23.220.211.10:80 - Заголовок не найден
+173.254.88.92:80 - Not Acceptable!
+52.29.117.244:80 - Заголовок не найден
+173.198.31.202:80 - CMS Web Viewer
+64.176.84.72:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+23.39.148.54:80 - Заголовок не найден
+23.209.241.34:80 - Заголовок не найден
+117.53.153.219:80 - Default Site
+223.109.174.133:80 - Заголовок не найден
+18.213.243.95:80 - Заголовок не найден
+50.3.244.166:80 - 403 Forbidden
+85.215.99.178:80 - Web Server's Default Page
+36.139.36.20:80 - 404 Not Found
+103.35.204.74:80 - 403 Forbidden
+23.231.218.29:80 - 404 Not Found
+103.195.238.12:80 - 404 Not Found
+50.20.254.219:80 - Just a moment...
+193.178.43.12:80 - 404 Not Found
+65.36.182.210:80 - Заголовок не найден
+45.76.223.250:80 - Your request has been blocked. This could be
+
+                        due to several reasons.
+23.0.17.5:80 - Заголовок не найден
+63.195.193.39:80 - AT&T WiFi Portal
+50.2.109.134:80 - 403 Forbidden
+117.220.101.68:80 - RouterOS router configuration page
+3.160.177.58:80 - Заголовок не найден
+45.192.250.187:80 - æ²¡ææ¾å°ç«ç¹
+79.96.152.241:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+45.119.164.213:80 - Welcome to CentOS
+3.0.191.204:80 - Four Leaves Digital &#8211; Full-stack digital marketing agency.
+72.246.152.208:80 - Заголовок не найден
+178.62.72.196:80 - Web Server's Default Page
+104.25.193.130:80 - Direct IP access not allowed | Cloudflare
+149.28.147.168:80 - 503 Service Temporarily Unavailable
+79.96.212.70:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+212.2.238.53:80 - 403 Forbidden
+107.20.124.233:80 - Заголовок не найден
+3.139.95.216:80 - Moonsplain &#8211; Something up with the moon? You&#039;ll see it here first.
+23.54.152.94:80 - Заголовок не найден
+125.229.165.132:80 - Заголовок не найден
+184.87.104.103:80 - Заголовок не найден
+15.188.27.65:80 - Jovital
+23.192.75.65:80 - Заголовок не найден
+102.214.145.39:80 - RouterOS router configuration page
+40.118.125.189:80 - Index of /
+66.78.45.213:80 - Bandwidth Speed Test
+199.232.11.33:80 - Fastly error: unknown domain 199.232.11.33
+18.173.3.119:80 - Заголовок не найден
