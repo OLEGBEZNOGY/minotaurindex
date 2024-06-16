@@ -6378,3 +6378,125 @@
 121.179.91.233:80 - WEB SERVICE
 185.116.60.68:80 - Web Server's Default Page
 51.222.29.186:80 - Заголовок не найден
+131.108.18.236:80 - 407 Proxy Authentication Required
+71.43.122.154:80 - 401 Unauthorized
+23.73.118.217:80 - Заголовок не найден
+104.19.32.240:80 - Direct IP access not allowed | Cloudflare
+147.229.133.148:80 - Заголовок не найден
+202.176.0.96:80 - Заголовок не найден
+111.84.162.234:80 - Заголовок не найден
+178.90.183.253:80 - GPON Home Gateway
+120.78.197.130:80 - The page you're looking for could not be found (404)
+104.71.254.41:80 - Заголовок не найден
+97.87.96.114:80 - 
+185.136.183.251:80 - Adobe Connect Central Login
+23.96.20.163:80 - IIS Windows Server
+18.154.233.185:80 - Заголовок не найден
+213.174.6.5:80 - Apache2 Ubuntu Default Page: It works
+18.214.183.238:80 - FastAPI - Swagger UI
+142.251.208.191:80 - Google
+128.199.149.161:80 - Shadowsock Yang Terbaik Untuk Anda Dan Yang Perlu Anda Ketahui
+189.234.234.108:80 - 
+2.21.186.203:80 - Заголовок не найден
+192.163.187.28:80 - æ²¡ææ¾å°ç«ç¹
+44.194.202.214:80 - Sign In | Aravenda
+195.225.253.120:80 - Please wait, the page is opening...
+47.120.87.191:80 - Заголовок не найден
+106.52.2.240:80 - 404 Not Found
+40.126.234.250:80 - Microsoft Azure Web App - Error 404
+114.70.192.22:80 - Заголовок не найден
+104.232.65.115:80 - æ²¡ææ¾å°ç«ç¹
+160.124.83.77:80 - 404 Not Found
+179.43.138.202:80 - ERROR: The requested URL could not be retrieved
+173.93.79.54:80 - 
+108.181.252.195:80 - 
+23.77.132.250:80 - Заголовок не найден
+82.157.56.188:80 - 404 Not Found
+108.61.216.253:80 - Unknown Domain
+47.32.233.101:80 - 
+23.50.107.103:80 - Заголовок не найден
+71.89.48.186:80 - 
+47.105.120.245:80 - vue-element-admin
+208.80.122.171:80 - Lost Redirection
+193.19.119.13:80 - 403 Forbidden
+154.220.52.234:80 - 404 Not Found
+35.156.200.144:80 - Web Server's Default Page
+81.71.155.78:80 - æ²¡ææ¾å°ç«ç¹
+185.246.65.198:80 - Apache2 Ubuntu Default Page: It works
+23.224.10.126:80 - Заголовок не найден
+31.14.21.98:80 - ValoriNutritie.ro :: Calcularea declarației nutriționale pentru restaurante! 🥕 🥒 🥙
+125.186.141.7:80 - Заголовок не найден
+175.155.225.153:80 - Заголовок не найден
+71.95.145.63:80 - 
+3.136.216.37:80 - Заголовок не найден
+172.66.171.123:80 - Direct IP access not allowed | Cloudflare
+54.194.193.216:80 - Заголовок не найден
+18.218.225.20:80 - Заголовок не найден
+217.117.157.115:80 - Comparateur de prix Cherchons.com - Tendances et Promotions
+111.180.192.46:80 - Заголовок не найден
+54.177.71.111:80 - 404
+103.216.0.249:80 - 403 - Forbidden: Access is denied.
+211.86.60.32:80 - 404 Not Found
+104.85.27.180:80 - Заголовок не найден
+220.136.110.145:80 - 
+52.111.240.16:80 - 404 Not Found
+95.132.125.186:80 - 403 Forbidden
+104.77.238.175:80 - Заголовок не найден
+198.27.83.126:80 - Web Server's Default Page
+54.230.127.164:80 - Заголовок не найден
+54.172.101.242:80 - C2 - Initial Registration
+122.192.132.57:80 - Заголовок не найден
+203.177.21.206:80 - Dunkin Donuts - Order Portal [Development Version]
+212.25.178.143:80 - 404 Not Found
+97.101.172.176:80 - 
+103.225.62.80:80 - Заголовок не найден
+52.89.171.195:80 - 403 Forbidden
+59.14.220.59:80 - Gargoyle Router Management Utility
+120.25.242.175:80 - ä½æåå£«
+27.101.17.53:80 - Заголовок не найден
+81.196.221.213:80 - 
+54.213.212.182:80 - 404 Not Found
+139.180.152.155:80 - Unknown Domain
+199.232.162.121:80 - Fastly error: unknown domain 199.232.162.121
+220.79.50.10:80 - WEB SERVICE
+154.212.33.30:80 - Welcome to nginx!
+116.63.179.5:80 - Welcome to nginx!
+217.12.89.17:80 - 404 Not Found
+211.149.215.237:80 - å¾æ±æ­ï¼ä¸è½ç´æ¥ä½¿ç¨IPè®¿é®ç½ç«
+104.16.203.187:80 - Direct IP access not allowed | Cloudflare
+52.85.78.121:80 - Заголовок не найден
+52.217.50.40:80 - Amazon S3 - Cloud Object Storage  - AWS
+104.96.240.143:80 - Заголовок не найден
+192.253.225.148:80 - Test Page for Apache Installation
+38.38.180.218:80 - 404 Not Found
+65.20.105.69:80 - Artboard
+99.80.226.152:80 - 502 Bad Gateway
+18.211.113.34:80 - 502 Bad Gateway
+103.80.225.73:80 - RouterOS router configuration page
+183.236.60.86:80 - 403 Forbidden
+217.113.54.34:80 - Zammad Helpdesk
+220.133.23.82:80 - IIS Windows Server
+184.26.219.62:80 - Заголовок не найден
+213.130.155.54:80 - Apache HTTP Server Test Page powered by CentOS
+197.53.148.200:80 - 
+167.235.27.115:80 - 404 Not Found
+23.22.156.4:80 - 
+93.125.106.75:80 - Streamline Webmail :: Welcome to Streamline Webmail
+185.161.112.154:80 - RouterOS router configuration page
+104.21.220.21:80 - Direct IP access not allowed | Cloudflare
+23.221.190.36:80 - Заголовок не найден
+143.244.88.208:80 - Trust &amp; Safety Policies
+5.9.147.167:80 - Заголовок не найден
+184.29.134.6:80 - Заголовок не найден
+17.179.241.84:80 - 403 Forbidden
+173.71.113.227:80 - Заголовок не найден
+107.163.153.168:80 - 404
+85.127.218.214:80 - Hello! Welcome to Synology Web Station!
+195.16.90.69:80 - Заголовок не найден
+133.125.0.55:80 - Заголовок не найден
+104.122.212.59:80 - Заголовок не найден
+206.189.13.14:80 - 404 Not Found
+221.116.164.142:80 - Brother MFC-J6583CDW
+184.26.79.152:80 - Заголовок не найден
+47.242.0.46:80 - Заголовок не найден
+74.80.33.132:80 - Заголовок не найден
