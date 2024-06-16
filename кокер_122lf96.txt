@@ -12723,3 +12723,24 @@ ess not allowed | Cloudflare
 4.172.17.72:80 - Azure Container App - Unavailable
 52.187.29.124:80 - Skyleader 2 management system
 162.218.233.122:80 - Document Moved
+188.172.20.32:80 - SMA Cluster Controller
+88.151.102.110:80 - 503 Service Unavailable
+193.252.50.164:80 - 
+162.159.21.53:80 - Direct IP access not allowed | Cloudflare
+1.252.185.80:80 - main page
+154.213.54.11:80 - 404 Not Found
+211.87.236.143:80 - 404 Not Found
+122.116.244.157:80 - 
+23.214.249.191:80 - Заголовок не найден
+104.80.230.110:80 - Заголовок не найден
+80.86.174.20:80 - Verein-im-Netz	  Vereinssoftware, Vereinsprogramm, Mitgliederverwaltung
+192.186.184.76:80 - Заголовок не найден
+45.55.151.92:80 - Заголовок не найден
+108.158.48.203:80 - Заголовок не найден
+104.20.68.218:80 - Direct IP access not allowed | Cloudflare
+196.51.168.176:80 - ERROR: The requested URL could not be retrieved
+72.190.100.146:80 - 
+45.197.53.18:80 - Заголовок не найден
+164.90.151.247:80 - 404 Not Found
+101.132.248.151:80 - Заголовок не найден
+154.23.124.232:80 - Заголовок не найден
