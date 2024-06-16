@@ -8660,3 +8660,95 @@
 52.35.52.172:80 - Apache2 Ubuntu Default Page: It works
 162.214.47.154:80 - 404
 37.140.195.29:80 - PayKeeper
+82.180.133.103:80 - Welcome to nginx!
+84.53.167.147:80 - Заголовок не найден
+176.250.18.146:80 - 
+52.213.128.51:80 - 503 Service Temporarily Unavailable
+210.224.104.15:80 - ã¤ã³ã¿ã¼ãããã¾ã»ãã°
+103.197.149.171:80 - Page not found
+154.92.89.6:80 - 403 Forbidden
+139.255.43.102:80 - Taspen
+35.185.34.105:80 - Site Not Configured | 404 Not Found
+45.87.228.159:80 - 404 Not Found
+91.233.114.242:80 - Dane Kontaktowe
+104.195.137.34:80 - Заголовок не найден
+82.117.231.63:80 - Panel Serwera
+104.196.193.97:80 - DNS Update Required
+66.42.90.243:80 - Unknown Domain
+3.225.134.189:80 - Reece Business Portal
+146.19.5.165:80 - Subcribe and Anti-Spam and Privacy for 146.19.5.165
+184.30.10.232:80 - Заголовок не найден
+107.154.140.250:80 - Заголовок не найден
+173.223.1.88:80 - Заголовок не найден
+210.59.192.172:80 - 
+18.154.188.68:80 - Заголовок не найден
+156.245.8.94:80 - Welcome to nginx!
+3.161.110.52:80 - Заголовок не найден
+18.172.63.157:80 - Заголовок не найден
+34.37.15.112:80 - Apache2 Debian Default Page: It works
+92.123.165.91:80 - Заголовок не найден
+84.180.102.195:80 - Default Site
+35.132.199.136:80 - 
+95.181.148.221:80 - Forbidden
+42.61.22.202:80 - Panimex Trading Pte Ltd
+42.116.103.137:80 - Vigor Login Page
+23.218.61.68:80 - Заголовок не найден
+192.34.67.200:80 - IIS Windows Server
+23.209.12.221:80 - Заголовок не найден
+52.217.71.118:80 - Amazon S3 - Cloud Object Storage  - AWS
+46.31.78.186:80 - 
+186.132.175.84:80 - WEB SERVICE
+52.216.178.11:80 - Amazon S3 - Cloud Object Storage  - AWS
+47.133.116.180:80 - 
+103.14.121.153:80 - IIS Windows Server
+91.51.51.63:80 - Welcome to larstragl.spacetechnology.net
+34.251.57.156:80 - Заголовок не найден
+23.62.241.115:80 - Заголовок не найден
+52.74.15.149:80 - Заголовок не найден
+104.80.199.173:80 - Заголовок не найден
+50.3.171.87:80 - 403 Forbidden
+162.212.158.70:80 - Заголовок не найден
+97.74.81.132:80 - Apache2 Ubuntu Default Page: It works
+88.99.172.135:80 - Database Error
+104.71.78.144:80 - Заголовок не найден
+3.22.16.69:80 - Заголовок не найден
+13.232.146.109:80 - 404 Not Found
+4.157.186.224:80 - Заголовок не найден
+27.131.148.80:80 - 403 Forbidden
+38.170.22.39:80 - ERROR: The requested URL could not be retrieved
+79.137.104.18:80 - Narodowy Instytut Samorządu Terytorialnego
+203.255.4.93:80 - ì´ íì´ì§ì ì°ê²°í  ì ìì
+192.227.163.153:80 - Home
+196.247.16.237:80 - 407 Proxy Authentication Required
+213.32.93.33:80 - Заголовок не найден
+52.34.136.60:80 - Заголовок не найден
+89.221.212.91:80 - Web Server's Default Page
+24.144.85.250:80 - MAHKOTA188 LINK UTAMA AKSES SLOT MAHKOTA 188 SLOT 4D 2024
+23.225.82.92:80 - 403 Forbidden
+35.185.167.168:80 - Attention Required! | Cloudflare
+72.14.249.255:80 - Error 404 (Not Found)!!1
+184.25.175.63:80 - Заголовок не найден
+185.248.142.142:80 - Homepage of abnehmen.just-me-coach.de
+20.46.191.78:80 - Microsoft Azure Web App - Error 404
+194.195.210.129:80 - Apache HTTP Server Test Page powered by CentOS
+35.161.97.160:80 - Заголовок не найден
+120.157.219.31:80 - Teltonika Networks
+23.202.27.150:80 - Заголовок не найден
+166.140.171.36:80 - Заголовок не найден
+75.103.66.4:80 - Заголовок не найден
+3.127.2.44:80 - CONVELOP &#8211; we make apps
+188.0.158.102:80 - Заголовок не найден
+104.22.10.19:80 - Direct IP access not allowed | Cloudflare
+54.175.188.51:80 - 403 Forbidden
+150.253.98.102:80 - Document Moved
+104.20.255.10:80 - Direct IP access not allowed | Cloudflare
+141.26.142.24:80 - Status der Dienste der Universität Koblenz
+200.48.102.122:80 - IIS Windows Server
+84.237.140.185:80 - 
+103.143.248.2:80 - 404 Not Found
+184.30.208.95:80 - Заголовок не найден
+51.145.10.53:80 - 
+87.171.237.124:80 - Заголовок не найден
+80.6.67.237:80 - Apache2 Ubuntu Default Page: It works
+108.158.136.101:80 - Заголовок не найден
+35.197.39.188:80 - 404 Not Found
