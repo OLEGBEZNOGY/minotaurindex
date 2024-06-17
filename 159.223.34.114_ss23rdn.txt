@@ -8527,3 +8527,11 @@
 146.59.156.20:80 - Apache2 Debian Default Page: It works
 193.171.76.39:80 - Medizinische UniversitÃ¤t Innsbruck
 200.88.179.117:80 - ZXHN H108N V2.5
+23.33.152.235:80 - Заголовок не найден
+170.64.133.228:80 - Quiz
+5.22.193.7:80 - 401 - Unauthorized: Access is denied due to invalid credentials.
+198.46.244.216:80 - ERROR: The requested URL could not be retrieved
+23.203.115.103:80 - Заголовок не найден
+23.44.120.209:80 - Заголовок не найден
+23.206.252.190:80 - Заголовок не найден
+108.61.207.51:80 - Imperial Barbershop
