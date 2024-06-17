@@ -179,3 +179,16 @@
 65.9.71.153:80 - Заголовок не найден
 166.161.46.17:80 - Windows CE
 64.71.37.53:80 - Заголовок не найден
+54.230.9.25:80 - Заголовок не найден
+23.40.8.47:80 - Заголовок не найден
+23.202.132.208:80 - Заголовок не найден
+131.196.82.2:80 - RouterOS router configuration page
+196.51.48.130:80 - ERROR: The requested URL could not be retrieved
+213.9.28.107:80 - Apache2 Ubuntu Default Page: It works
+104.25.207.153:80 - Direct IP access not allowed | Cloudflare
+44.232.84.92:80 - 503 Service Temporarily Unavailable
+54.220.156.39:80 - 404
+104.165.231.62:80 - 403 Forbidden
+108.227.22.193:80 - 
+152.0.123.18:80 - 
+46.109.76.142:80 - 
