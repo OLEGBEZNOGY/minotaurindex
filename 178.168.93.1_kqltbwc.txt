@@ -237,3 +237,11 @@
 104.116.99.50:80 - Заголовок не найден
 195.181.247.246:80 - ysv-foorumi.com &bull; Etusivu
 95.217.21.72:80 - Заголовок не найден
+184.29.69.79:80 - Заголовок не найден
+54.162.67.67:80 - TURN AROUND!
+45.58.159.54:80 - 403 - Forbidden: Access is denied.
+185.77.225.4:80 - Welcome to MailAmigos.com Ultimate Email Marketing Solution
+47.158.159.155:80 - 
+80.254.54.53:80 - Заголовок не найден
+149.154.66.9:80 - Apache2 Ubuntu Default Page: It works
+87.189.69.190:80 - LANCOM: WEBconfig
