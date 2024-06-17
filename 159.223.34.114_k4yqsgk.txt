@@ -1,0 +1,18 @@
+132.174.255.6:80 - Заголовок не найден
+34.150.128.225:80 - Welcome to nginx!
+194.177.31.200:80 - 
+156.251.241.154:80 - Заголовок не найден
+2.23.55.170:80 - Заголовок не найден
+170.249.200.40:80 - 401 Unauthorized
+59.158.198.241:80 - Apache HTTP Server Test Page powered by CentOS
+58.97.47.171:80 - à¸ªà¸¢à¸²à¸¡à¸à¸µà¸§à¸µ à¸à¸´à¸à¸´à¸à¸­à¸¥ à¸ªà¹à¸à¸£à¹ - Siam T.V. Digital Store
+104.18.209.135:80 - Direct IP access not allowed | Cloudflare
+191.203.231.152:80 - Заголовок не найден
+116.203.79.2:80 - Default Site
+46.100.5.45:80 - RouterOS router configuration page
+67.199.150.124:80 - Заголовок не найден
+62.196.79.77:80 - index
+45.77.34.212:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+213.176.83.82:80 - Заголовок не найден
+185.31.115.119:80 - Welcome to nginx!
+159.135.26.69:80 - IIS Windows Server
