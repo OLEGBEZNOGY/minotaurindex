@@ -5064,3 +5064,25 @@
 195.199.241.140:80 - Beretty&oacute;&uacute;jfalui Szakk&eacute;pz&eacute;si Centrum Karacs Ferenc Gimn&aacute;zium, Technikum, Szakk&eacute;pz&ouml; Iskola
 124.191.150.231:80 - 
 92.123.6.3:80 - Заголовок не найден
+50.2.59.144:80 - 403 Forbidden
+139.129.150.136:80 - 阿里云万网虚机IP访问报错提示
+150.95.139.224:80 - 日本非破壊検査協会
+170.82.236.106:80 - 403 Forbidden
+18.160.23.8:80 - Заголовок не найден
+172.245.208.222:80 - Help You Support is coming soon
+67.207.95.45:80 - CEC Manager
+206.53.57.118:80 - Apache2 Ubuntu Default Page: It works
+88.1.205.65:80 - Store Manager
+184.26.201.223:80 - Заголовок не найден
+85.214.97.20:80 - Akawolke - Fast da
+192.126.151.2:80 - ERROR: The requested URL could not be retrieved
+13.232.126.253:80 - Home - DoubleVerify
+3.97.36.92:80 - Заголовок не найден
+24.16.52.84:80 - 
+207.127.91.121:80 - 404 Not Found
+184.94.134.252:80 - ePMP
+149.156.75.212:80 - Apache2 Ubuntu Default Page: It works
+122.1.121.173:80 - Заголовок не найден
+68.183.136.45:80 - Welcome to nginx!
+188.251.97.161:80 - Document Error: Site or Page Not Found
+41.185.102.69:80 - Заголовок не найден
