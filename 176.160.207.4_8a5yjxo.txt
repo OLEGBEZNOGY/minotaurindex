@@ -1,0 +1,20 @@
+50.255.121.25:80 - index
+47.75.104.38:80 - My Platform
+118.155.212.52:80 - ¼Ã®sºæÌãÒ Cvg¡Ã ÜÂÈªÈ
+113.28.163.219:80 - Заголовок не найден
+94.180.58.43:80 - 
+185.209.161.112:80 - Apache2 Debian Default Page: It works
+23.36.170.50:80 - Заголовок не найден
+161.117.187.249:80 - 500 Internal Server Error
+95.110.195.125:80 - USCE - Ufficio Speciale Condono Edilizio
+81.181.14.158:80 - 500 Internal Server Error
+111.13.191.224:80 - 405 Not Allowed
+187.94.164.39:80 - F670L
+5.251.6.177:80 - GPON Home Gateway
+38.38.7.231:80 - 403 Forbidden
+23.51.33.246:80 - Заголовок не найден
+159.65.148.206:80 - 403 Forbidden
+64.91.254.43:80 - Заголовок не найден
+52.201.83.187:80 - Appointment
+23.227.39.206:80 - Direct IP access not allowed | Cloudflare
+93.158.109.144:80 - ADADA – The UK iGaming Association
