@@ -13292,3 +13292,44 @@ B100-4-AIO – WOA-TV
 23.19.73.87:80 - Calling App | Mobile VoIP Calls + Text on iOS and Android | Talkatone
 18.161.123.238:80 - Заголовок не найден
 103.93.150.33:80 - 403 Forbidden
+45.7.230.226:80 - Academia SGS Chile
+192.243.60.102:80 - 403 Forbidden
+219.118.203.127:80 - OKABATA.COM
+147.235.57.235:80 - Заголовок не найден
+80.87.105.234:80 - 403 Forbidden
+67.199.170.24:80 - Apache2 Ubuntu Default Page: It works
+34.205.118.154:80 - Page not found
+66.190.64.57:80 - 
+52.78.139.58:80 - 404 Not Found
+42.125.149.202:80 - Заголовок не найден
+13.249.50.99:80 - Заголовок не найден
+114.30.84.78:80 - 
+108.60.209.57:80 - Заголовок не найден
+101.234.134.32:80 - Заголовок не найден
+198.57.151.114:80 - Not Acceptable!
+2.184.238.25:80 - WEB SERVICE
+59.80.45.44:80 - Заголовок не найден
+8.218.245.208:80 - 加速器
+95.129.177.207:80 - 404 - Ôàéë èëè êàòàëîã íå íàéäåí.
+124.221.30.105:80 - 404 Not Found
+47.90.73.234:80 - Заголовок не найден
+212.124.177.40:80 - Ark r  v2.10
+208.100.56.25:80 - Account Suspended
+194.58.104.246:80 - Apache2 Ubuntu Default Page: It works
+3.163.21.90:80 - Заголовок не найден
+52.14.172.61:80 - Infinite Skies | Crypto Exchange &#8211; Instant Cryptocurrency Exchanges. Fast, secure, and private. Swap crypto now at the best exchange rate with Infinite Skies
+154.195.95.135:80 - 400 Bad Request
+23.204.208.69:80 - Заголовок не найден
+146.70.207.158:80 - ERROR: The requested URL could not be retrieved
+23.223.127.227:80 - Заголовок не найден
+183.240.14.38:80 - Заголовок не найден
+66.85.162.241:80 - Index of /
+105.68.207.33:80 - &#72;&#50;&#56;&#56;&#65;
+54.38.191.242:80 - 503 Service Temporarily Unavailable
+23.51.88.28:80 - Заголовок не найден
+218.11.1.252:80 - 403 Forbidden
+156.241.51.54:80 - 400 Bad Request
+23.61.151.94:80 - Заголовок не найден
+186.7.139.87:80 - Заголовок не найден
+210.117.138.201:80 - L7
+103.71.77.132:80 - Please wait, the login page is opening...
