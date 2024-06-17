@@ -20834,3 +20834,220 @@ Käufer
 127.98.27.167:80 - Welcome to XAMPP
 114.115.141.162:80 - 在线学习培训系统 - 移动在线培训 - Powered By EduSoho
 31.210.48.38:80 - Web Server's Default Page
+127.147.226.74:80 - Welcome to XAMPP
+127.34.21.106:80 - Welcome to XAMPP
+149.30.218.78:80 - 404 Not Found
+176.133.3.108:80 - Заголовок не найден
+18.244.162.101:80 - Заголовок не найден
+127.152.208.74:80 - Welcome to XAMPP
+127.9.55.100:80 - Welcome to XAMPP
+127.115.125.159:80 - Welcome to XAMPP
+54.230.71.235:80 - Заголовок не найден
+18.154.33.216:80 - Заголовок не найден
+127.173.50.243:80 - Welcome to XAMPP
+127.232.248.96:80 - Welcome to XAMPP
+40.76.0.48:80 - IIS Windows Server
+194.59.29.98:80 - Please wait, the page is opening...
+38.154.8.122:80 - ERROR: The requested URL could not be retrieved
+66.76.162.62:80 - index
+52.175.195.213:80 - Microsoft Azure Web App - Error 404
+127.18.106.198:80 - Welcome to XAMPP
+47.106.27.255:80 - OpenGame 高效运营平台 登录
+127.180.76.48:80 - Welcome to XAMPP
+127.161.52.177:80 - Welcome to XAMPP
+218.185.224.142:80 - Заголовок не найден
+148.163.65.248:80 - Apache2 Ubuntu Default Page: It works
+163.181.94.214:80 - 403 Forbidden
+127.98.188.23:80 - Welcome to XAMPP
+5.135.29.236:80 - Apache2 Debian Default Page: It works on vm doli
+91.200.100.140:80 - Web Server's Default Page
+121.43.55.144:80 - 500 Internal Server Error
+217.195.152.144:80 - Заголовок не найден
+71.195.50.100:80 - 
+130.105.58.9:80 - Заголовок не найден
+38.173.65.22:80 - Заголовок не найден
+191.80.218.173:80 - Заголовок не найден
+173.52.216.52:80 - Заголовок не найден
+172.104.21.242:80 - Apache2 Ubuntu Default Page: It works
+127.158.15.124:80 - Welcome to XAMPP
+127.235.31.149:80 - Welcome to XAMPP
+23.3.190.223:80 - Заголовок не найден
+54.210.16.84:80 - 404 Not Found
+127.214.44.191:80 - Welcome to XAMPP
+127.174.187.131:80 - Welcome to XAMPP
+38.48.254.77:80 - Заголовок не найден
+41.158.242.118:80 - 
+23.212.199.54:80 - Заголовок не найден
+18.67.190.98:80 - Заголовок не найден
+127.227.14.143:80 - Welcome to XAMPP
+127.16.213.166:80 - Welcome to XAMPP
+185.6.0.82:80 - 
+195.8.239.198:80 - Web Server's Default Page
+127.82.157.12:80 - Welcome to XAMPP
+23.200.184.126:80 - Заголовок не найден
+127.78.148.161:80 - Welcome to XAMPP
+66.252.2.7:80 - Заголовок не найден
+104.27.31.114:80 - Direct IP access not allowed | Cloudflare
+54.94.37.184:80 - Home - Cozinha da Tia
+54.93.176.104:80 - 404 Not Found
+23.34.96.213:80 - Заголовок не найден
+50.16.216.242:80 - 503 Service Temporarily Unavailable
+5.22.220.243:80 - InstaCash Webshop Payment API
+23.14.115.178:80 - Заголовок не найден
+172.93.52.49:80 - 403 Forbidden
+178.61.153.123:80 - Заголовок не найден
+157.205.208.150:80 - Tt[
+64.32.10.124:80 - æ²¡ææ¾å°ç«ç¹
+112.167.95.8:80 - CMS Web Viewer
+2.22.139.240:80 - Заголовок не найден
+127.94.108.121:80 - Welcome to XAMPP
+127.34.184.113:80 - Welcome to XAMPP
+155.159.75.134:80 - 
+189.233.241.189:80 - Заголовок не найден
+202.148.52.32:80 - Smart Edge
+127.234.79.248:80 - Welcome to XAMPP
+127.228.185.9:80 - Welcome to XAMPP
+23.210.156.170:80 - Заголовок не найден
+185.2.101.72:80 - IIS Windows Server
+127.139.68.129:80 - Welcome to XAMPP
+127.132.168.221:80 - Welcome to XAMPP
+127.43.138.225:80 - Welcome to XAMPP
+104.32.189.246:80 - 
+37.187.19.205:80 - Welcome to nginx!
+112.74.75.38:80 - Welcome to nginx!
+162.247.155.199:80 - Softaculous Webuzo | Default Website Page
+104.18.49.88:80 - Direct IP access not allowed | Cloudflare
+92.122.74.167:80 - Заголовок не найден
+67.205.20.207:80 - Site not found &middot; DreamHost
+127.192.61.189:80 - Welcome to XAMPP
+89.37.141.11:80 - 404 Not Found
+51.68.19.104:80 - Заголовок не найден
+127.106.217.103:80 - Welcome to XAMPP
+222.29.77.144:80 - 403
+18.164.72.29:80 - Заголовок не найден
+127.189.192.237:80 - Welcome to XAMPP
+159.203.3.248:80 - Welcome to nginx!
+161.202.19.197:80 - IIS Windows Server
+151.80.160.12:80 - Index of /
+80.244.166.21:80 - Test Page for the Apache HTTP Server on CloudLinux
+91.80.175.101:80 - 401 Unauthorized
+39.106.251.155:80 - 503 Service Temporarily Unavailable
+60.188.59.250:80 - 404 Not Found
+178.79.191.7:80 - analytics.harcourt-brown.co.uk &mdash;  Domain default page
+170.100.202.167:80 - Apache2 Ubuntu Default Page: It works
+127.78.188.148:80 - Welcome to XAMPP
+154.22.19.31:80 - ERROR: The requested URL could not be retrieved
+50.198.142.38:80 - IIS Windows
+104.103.217.74:80 - Заголовок не найден
+127.203.89.114:80 - Welcome to XAMPP
+127.156.147.202:80 - Welcome to XAMPP
+127.249.1.77:80 - Welcome to XAMPP
+208.67.249.228:80 - Заголовок не найден
+97.64.18.62:80 - æ²¡ææ¾å°ç«ç¹
+104.120.86.220:80 - Заголовок не найден
+184.160.203.151:80 - Hiru Exodus
+184.31.175.104:80 - Заголовок не найден
+127.119.248.61:80 - Welcome to XAMPP
+127.14.9.2:80 - Welcome to XAMPP
+75.75.203.131:80 - Заголовок не найден
+156.242.15.199:80 - Заголовок не найден
+4.158.18.234:80 - Your Azure Function App is up and running.
+23.36.77.164:80 - Заголовок не найден
+34.49.102.236:80 - Welcome to nginx!
+5.9.234.28:80 - radio 88.6 | Rock Radio hören » radio 88.6 ist dein Rock-Radiosender
+87.110.236.44:80 - Lieliskas iespējas | Izmanto tās un iegūsti vairāk
+5.255.221.18:80 - 410 Gone
+108.187.228.105:80 - Sorry, the website has been stopped
+149.160.59.31:80 - Заголовок не найден
+184.27.226.89:80 - Заголовок не найден
+175.214.120.243:80 - WEB SERVICE
+127.43.64.224:80 - Welcome to XAMPP
+23.218.51.173:80 - Заголовок не найден
+18.239.99.85:80 - Заголовок не найден
+82.66.247.231:80 - 
+127.203.70.74:80 - Welcome to XAMPP
+23.22.193.131:80 - Заголовок не найден
+127.155.143.177:80 - Welcome to XAMPP
+127.42.16.211:80 - Welcome to XAMPP
+127.168.136.131:80 - Welcome to XAMPP
+159.89.170.33:80 - Welcome to nginx!
+50.19.106.72:80 - Заголовок не найден
+23.12.22.59:80 - Заголовок не найден
+127.87.163.227:80 - Welcome to XAMPP
+127.212.204.117:80 - Welcome to XAMPP
+127.137.251.243:80 - Welcome to XAMPP
+95.216.212.214:80 - SRG
+23.63.179.184:80 - Заголовок не найден
+127.78.121.29:80 - Welcome to XAMPP
+176.96.92.34:80 - 403 Forbidden
+23.96.115.21:80 - Microsoft Azure Web App - Error 404
+171.249.175.1:80 - WEB SERVICE
+23.51.67.76:80 - Заголовок не найден
+127.191.63.20:80 - Welcome to XAMPP
+38.12.215.177:80 - Заголовок не найден
+195.226.127.98:80 - Заголовок не найден
+127.143.226.194:80 - Welcome to XAMPP
+38.47.253.133:80 - æ²¡ææ¾å°ç«ç¹
+86.40.10.168:80 - .::Welcome to the Web-Based Configurator::.
+82.156.13.102:80 - æ²¡ææ¾å°ç«ç¹
+127.248.24.255:80 - Welcome to XAMPP
+8.29.23.82:80 - Document Moved
+127.40.235.192:80 - Welcome to XAMPP
+127.11.48.97:80 - Welcome to XAMPP
+104.25.56.142:80 - Direct IP access not allowed | Cloudflare
+78.79.199.17:80 - 500 Internal Server Error
+212.25.61.211:80 - 
+127.159.232.96:80 - Welcome to XAMPP
+127.223.206.215:80 - Welcome to XAMPP
+54.150.133.74:80 - 502 Bad Gateway
+18.66.181.155:80 - Заголовок не найден
+23.216.108.16:80 - Заголовок не найден
+127.184.179.131:80 - Welcome to XAMPP
+127.49.240.191:80 - Welcome to XAMPP
+127.218.111.32:80 - Welcome to XAMPP
+210.117.143.30:80 - Заголовок не найден
+122.40.225.212:80 - Заголовок не найден
+23.1.145.225:80 - Заголовок не найден
+184.107.23.230:80 - movair
+178.185.177.66:80 - Заголовок не найден
+136.243.202.131:80 - Servietten hier günstig online kaufen
+127.233.154.134:80 - Welcome to XAMPP
+127.235.124.243:80 - Welcome to XAMPP
+23.57.20.158:80 - Заголовок не найден
+127.80.212.59:80 - Welcome to XAMPP
+127.229.120.234:80 - Welcome to XAMPP
+127.21.163.217:80 - Welcome to XAMPP
+79.11.169.215:80 - .::Welcome to the Web-Based Configurator::.
+161.35.42.73:80 - Заголовок не найден
+194.143.225.92:80 - 400 Bad Request
+67.222.21.221:80 - Заголовок не найден
+127.3.239.159:80 - Welcome to XAMPP
+127.87.226.12:80 - Welcome to XAMPP
+5.157.81.32:80 - Заголовок не найден
+24.50.146.2:80 - Login
+127.75.190.200:80 - Welcome to XAMPP
+127.183.72.116:80 - Welcome to XAMPP
+127.200.125.239:80 - Welcome to XAMPP
+127.50.144.221:80 - Welcome to XAMPP
+127.34.6.222:80 - Welcome to XAMPP
+54.230.153.206:80 - Заголовок не найден
+104.68.20.232:80 - Заголовок не найден
+3.164.68.215:80 - Заголовок не найден
+23.66.37.86:80 - Заголовок не найден
+143.110.190.26:80 - Заголовок не найден
+127.181.239.191:80 - Welcome to XAMPP
+83.143.245.149:80 - ERROR: The requested URL could not be retrieved
+103.211.170.133:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+42.186.30.203:80 - 503 Service Temporarily Unavailable
+78.56.228.99:80 - Welcome to nginx!
+127.155.162.189:80 - Welcome to XAMPP
+104.195.51.176:80 - æ­åï¼ç«ç¹åå»ºæåï¼
+104.165.161.31:80 - 403 Forbidden
+89.161.145.161:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+127.177.54.226:80 - Welcome to XAMPP
+20.211.126.116:80 - Welcome to nginx!
+38.174.108.124:80 - Заголовок не найден
+127.42.64.194:80 - Welcome to XAMPP
+23.221.197.13:80 - Заголовок не найден
+156.225.81.140:80 - æ²¡ææ¾å°ç«ç¹
+127.80.28.194:80 - Welcome to XAMPP
