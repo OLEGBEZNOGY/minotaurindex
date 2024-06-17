@@ -3150,3 +3150,17 @@
 13.69.250.38:80 - Заголовок не найден
 184.84.205.23:80 - Заголовок не найден
 54.231.225.50:80 - Amazon S3 - Cloud Object Storage  - AWS
+177.22.85.212:80 - 
+211.241.255.134:80 - 404 Not Found
+151.236.66.95:80 - 403 Forbidden
+173.222.166.123:80 - Заголовок не найден
+13.124.89.203:80 - Davinci Project Corporation
+46.21.231.48:80 - Hosting Provider voor E-commerce &amp; Webshops - Hypernode
+157.7.107.112:80 - 403 Error - Forbidden
+18.239.128.65:80 - Заголовок не найден
+151.101.14.237:80 - Page Not Found
+3.89.239.255:80 - Test Page for the Apache HTTP Server on the Amazon Linux AMI
+5.98.234.98:80 - 
+134.228.135.246:80 - hue personal wireless lighting
+47.6.213.159:80 - 
+104.27.47.116:80 - Direct IP access not allowed | Cloudflare
