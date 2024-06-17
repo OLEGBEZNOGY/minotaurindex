@@ -4480,3 +4480,11 @@ Front-end, Web Developer, Java | Kodilla.com
 168.119.184.157:80 - 404 Not Found
 23.241.155.56:80 - 
 152.136.123.34:80 - Welcome to nginx!
+209.126.7.132:80 - IIS Windows Server
+81.130.101.66:80 - Заголовок не найден
+23.36.254.215:80 - Заголовок не найден
+213.209.129.172:80 - Coming Soon - blockchainmining.club
+85.128.174.189:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+23.44.249.114:80 - Заголовок не найден
+117.216.158.237:80 - Заголовок не найден
+210.221.253.17:80 - IIS Windows
