@@ -1346,3 +1346,177 @@
 178.168.103.5:80 - 
 96.17.80.137:80 - Заголовок не найден
 23.216.209.153:80 - Заголовок не найден
+198.2.200.170:80 - 403 Forbidden
+24.247.117.201:80 - 
+220.104.106.181:80 - Web Client Pro
+18.67.166.62:80 - Заголовок не найден
+184.26.158.81:80 - Заголовок не найден
+137.83.50.245:80 - Заголовок не найден
+154.31.163.170:80 - 403 Forbidden
+184.87.205.118:80 - Заголовок не найден
+104.101.154.149:80 - Заголовок не найден
+79.96.116.203:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+154.217.68.123:80 - 403 Forbidden
+108.158.37.167:80 - Заголовок не найден
+20.234.255.225:80 - 404 Not Found
+194.0.124.158:80 - RouterOS router configuration page
+188.128.237.201:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+104.81.202.236:80 - Заголовок не найден
+3.138.47.76:80 - Заголовок не найден
+23.199.238.62:80 - Заголовок не найден
+15.206.48.22:80 - Virtuele Suite
+54.165.45.15:80 - 503 Service Temporarily Unavailable
+201.90.48.14:80 - 
+38.175.195.133:80 - 404 Not Found
+178.91.81.241:80 - GPON Home Gateway
+14.241.206.20:80 - Заголовок не найден
+173.230.246.118:80 - Заголовок не найден
+85.10.139.57:80 - DisallowedHost
+          at /
+114.108.134.123:80 - Заголовок не найден
+104.91.124.118:80 - Заголовок не найден
+3.133.175.131:80 - Заголовок не найден
+23.63.173.20:80 - Заголовок не найден
+38.154.42.145:80 - Index of /
+181.200.35.117:80 - Заголовок не найден
+208.85.18.203:80 - Web Server's Default Page
+50.81.244.32:80 - 
+45.235.5.131:80 - SELIGANET/AKNET
+38.95.107.10:80 - bt365ÓéÀÖ³¡/365ÌåÓýÍ¶×¢ÑÇÖÞ/365betÖ÷Ò³
+104.237.159.187:80 - Virtualmin
+64.57.79.50:80 - Service Unavailable
+23.205.185.119:80 - Заголовок не найден
+211.57.201.134:80 - IIS Windows Server
+39.45.124.203:80 - Заголовок не найден
+38.38.89.159:80 - Заголовок не найден
+99.86.91.143:80 - Заголовок не найден
+54.190.94.237:80 - Заголовок не найден
+35.221.178.141:80 - 404 Not Found
+154.213.75.18:80 - Welcome to nginx!
+18.161.251.83:80 - Заголовок не найден
+203.119.7.19:80 - Welcome to nginx!
+52.27.34.45:80 - Заголовок не найден
+23.79.121.103:80 - Заголовок не найден
+23.33.76.93:80 - Заголовок не найден
+23.57.4.7:80 - Заголовок не найден
+103.66.216.84:80 - æ²¡ææ¾å°ç«ç¹
+173.232.26.113:80 - 403 Forbidden
+15.165.134.218:80 - Codly LOOP
+125.134.52.183:80 - Заголовок не найден
+91.122.100.22:80 - Welcome to nginx!
+50.241.209.182:80 - Login
+116.206.109.31:80 - 
+14.40.81.84:80 - Заголовок не найден
+94.46.45.113:80 - Roundcube Webmail :: Welcome to Roundcube Webmail
+114.32.85.100:80 - WEB SERVICE
+54.231.195.176:80 - Amazon S3 - Cloud Object Storage  - AWS
+107.175.48.174:80 - 500 Internal Server Error
+118.214.247.162:80 - Заголовок не найден
+23.33.12.226:80 - Заголовок не найден
+45.154.33.171:80 - Заголовок не найден
+20.118.148.134:80 - Azure Container App - Unavailable
+5.161.109.193:80 - Plausible · Web analytics
+139.59.142.179:80 - 404 Not Found
+81.28.80.106:80 - 403 - Forbidden
+162.254.144.199:80 - Apache HTTP Server Test Page powered by CentOS
+20.82.66.166:80 - Заголовок не найден
+23.38.24.102:80 - Заголовок не найден
+183.106.11.134:80 - Заголовок не найден
+195.167.161.117:80 - 403 Forbidden
+23.52.87.138:80 - Заголовок не найден
+88.119.213.2:80 - Login
+172.211.190.204:80 - Azure Container App - Unavailable
+202.230.170.13:80 - Заголовок не найден
+3.28.41.227:80 - 404 Not Found
+74.117.60.70:80 - æ²¡ææ¾å°ç«ç¹
+64.196.250.135:80 - Заголовок не найден
+174.109.178.126:80 - 
+104.85.46.42:80 - Заголовок не найден
+23.204.248.160:80 - Заголовок не найден
+157.7.138.169:80 - Posex - Estimated Image Generator for Pose2Image
+92.123.28.166:80 - Заголовок не найден
+174.87.17.155:80 - 
+23.53.179.18:80 - Заголовок не найден
+154.12.20.182:80 - è¯è´¹åå¼
+77.60.29.21:80 - Заголовок не найден
+45.33.33.105:80 - 403 Forbidden
+45.79.110.22:80 - Welcome to nginx!
+52.29.172.83:80 - Заголовок не найден
+13.225.106.80:80 - Заголовок не найден
+23.192.168.172:80 - Заголовок не найден
+158.199.171.21:80 - Заголовок не найден
+190.166.138.199:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#54;&#55;&#65;&#32;&#86;&#49;&#46;&#48;
+108.156.144.225:80 - Заголовок не найден
+128.136.182.217:80 - Questblue - Cloud Communications Platform for Voice, Text &amp; Fax
+3.108.191.60:80 - Заголовок не найден
+94.176.239.83:80 - Patrick
+166.88.197.95:80 - Notes
+198.20.186.223:80 - ERROR: The requested URL could not be retrieved
+85.215.131.149:80 - MeridianRoleplay
+64.40.12.236:80 - Заголовок не найден
+104.97.78.108:80 - Заголовок не найден
+154.7.86.77:80 - 404 Not Found
+18.232.249.229:80 - Заголовок не найден
+181.177.135.147:80 - 
+18.159.35.158:80 - 401 Unauthorized
+5.157.5.221:80 - 407 Proxy Authentication Required
+3.162.176.8:80 - Заголовок не найден
+82.196.66.14:80 - Заголовок не найден
+3.22.248.92:80 - Bitnami NGINX Open Source
+104.19.253.75:80 - Direct IP access not allowed | Cloudflare
+45.138.132.77:80 - The stream or file &quot;/var/www/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: SQLSTATE[42S02]: Base table or view not found: 1146 Table &#039;laravel.provinces&#039; doesn&#039;t exist (Connection: mysql, SQL: select * from `provinces` where `provinces`.`deleted_at` is null)
+Context: {&quot;exception&quot;:{&quot;errorInfo&quot;:[&quot;42S02&quot;,1146,&quot;Table &#039;laravel.provinces&#039; doesn&#039;t exist&quot;],&quot;connectionName&quot;:&quot;mysql&quot;}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+212.116.254.202:80 - Apache HTTP Server Test Page powered by CentOS
+34.97.53.152:80 - Test Page for the Nginx HTTP Server on Rocky Linux
+91.238.19.107:80 - Заголовок не найден
+52.66.202.41:80 - Welcome to nginx!
+69.160.168.221:80 - 404 Not Found
+23.197.132.15:80 - Заголовок не найден
+78.131.30.237:80 - 
+148.255.170.87:80 - 
+43.207.251.124:80 - Заголовок не найден
+23.46.47.119:80 - Заголовок не найден
+24.56.90.102:80 - WEB SERVICE
+104.81.74.133:80 - Заголовок не найден
+13.32.185.135:80 - Заголовок не найден
+104.110.3.192:80 - Заголовок не найден
+99.151.4.115:80 - 
+104.64.161.56:80 - Заголовок не найден
+23.47.209.107:80 - Заголовок не найден
+23.196.110.89:80 - Заголовок не найден
+104.119.72.169:80 - Заголовок не найден
+87.191.147.75:80 - LANCOM 1793VAW - BsBpLancom: Login
+193.17.22.117:80 - 403 Forbidden
+23.222.16.86:80 - Заголовок не найден
+18.161.215.189:80 - Заголовок не найден
+99.84.179.95:80 - Заголовок не найден
+198.58.96.205:80 - Apache HTTP Server Test Page powered by CentOS
