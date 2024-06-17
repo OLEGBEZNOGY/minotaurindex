@@ -1,0 +1,243 @@
+195.154.235.92:80 - 403 Forbidden
+54.173.176.49:80 - GLPI - Autenticação
+122.155.14.90:80 - Success!
+127.13.250.241:80 - IIS Windows Server
+154.55.226.55:80 - Заголовок не найден
+54.80.102.8:80 - Заголовок не найден
+23.79.91.215:80 - Заголовок не найден
+127.173.63.55:80 - IIS Windows Server
+127.175.127.224:80 - IIS Windows Server
+103.194.187.133:80 - æ²¡ææ¾å°ç«ç¹
+127.60.184.203:80 - IIS Windows Server
+42.194.131.81:80 - 登录
+13.249.215.46:80 - Заголовок не найден
+3.161.178.173:80 - Заголовок не найден
+73.211.222.232:80 - 
+79.140.188.105:80 - Rick Astley - Never Gonna Give You Up (Official Music Video) - YouTube
+172.214.255.163:80 - Заголовок не найден
+127.147.167.203:80 - IIS Windows Server
+34.204.193.62:80 - 404 Not Found
+4.182.92.68:80 - 404 Not Found
+127.157.79.72:80 - IIS Windows Server
+72.47.83.13:80 - HTTP 401 Unauthorized
+127.125.176.193:80 - IIS Windows Server
+193.233.133.85:80 - Заголовок не найден
+88.221.103.204:80 - Заголовок не найден
+18.67.31.6:80 - Заголовок не найден
+23.32.246.60:80 - Заголовок не найден
+172.247.215.234:80 - 403 Forbidden
+104.69.216.122:80 - Заголовок не найден
+127.146.69.248:80 - IIS Windows Server
+127.93.222.88:80 - IIS Windows Server
+223.204.58.217:80 - 
+23.40.150.248:80 - Заголовок не найден
+23.100.40.99:80 - Microsoft Azure Web App - Error 404
+127.44.246.207:80 - IIS Windows Server
+52.14.61.38:80 - Welcome to nginx!
+85.104.106.112:80 - index
+127.24.31.154:80 - IIS Windows Server
+18.154.128.232:80 - Заголовок не найден
+122.252.135.59:80 - Заголовок не найден
+38.55.114.107:80 - 404 Not Found
+64.227.55.153:80 - 404 Not Found
+18.161.138.168:80 - Заголовок не найден
+49.12.232.226:80 - 401 Unauthorized
+8.130.47.40:80 - Baize Site - Home
+127.236.227.173:80 - IIS Windows Server
+3.219.152.63:80 - Заголовок не найден
+18.164.163.218:80 - Заголовок не найден
+207.204.26.161:80 - 403 Forbidden
+120.27.244.216:80 - 404 Not Found
+203.107.41.46:80 - 410 Gone
+18.239.129.246:80 - Заголовок не найден
+143.89.175.40:80 - Welcome to your Strapi app
+23.40.79.28:80 - Заголовок не найден
+24.93.201.239:80 - 
+159.203.118.45:80 - COOP FRANCK
+180.184.174.245:80 - 404 Not Found
+127.223.109.122:80 - IIS Windows Server
+127.10.139.1:80 - IIS Windows Server
+34.228.15.210:80 - Success!
+45.128.158.110:80 - Заголовок не найден
+23.40.144.197:80 - Заголовок не найден
+121.233.208.96:80 - Заголовок не найден
+156.243.3.212:80 - IIS7
+127.73.51.199:80 - IIS Windows Server
+167.172.4.215:80 - Login | App Studio
+108.166.119.71:80 - Redshift Groups
+195.34.110.201:80 - ÐÐ¾Ð»Ñ Ð¸Ð·ÑÐ°ÐºÐ°Ð¹ÑÐµ, Ð½Ð°ÑÐ°Ð»Ð½Ð°ÑÐ° ÑÑÑÐ°Ð½Ð¸ÑÐ° ÑÐµ Ð·Ð°ÑÐµÐ¶Ð´Ð°...
+96.7.237.48:80 - Заголовок не найден
+72.188.31.50:80 - Заголовок не найден
+127.55.168.56:80 - IIS Windows Server
+127.86.56.235:80 - IIS Windows Server
+72.167.9.89:80 - Заголовок не найден
+47.56.33.52:80 - Заголовок не найден
+99.84.188.143:80 - Заголовок не найден
+127.150.2.0:80 - IIS Windows Server
+104.19.122.8:80 - Direct IP access not allowed | Cloudflare
+118.139.160.155:80 - Bienvenue sur le portail du Programme National de Développement Participatif (PNDP)
+5.196.224.32:80 - &lt;wex/&gt;
+149.104.58.60:80 - 403 Forbidden
+127.59.15.214:80 - IIS Windows Server
+127.179.22.160:80 - IIS Windows Server
+127.139.3.67:80 - IIS Windows Server
+193.53.246.49:80 - 193.53.246.49
+127.59.190.1:80 - IIS Windows Server
+144.196.229.104:80 - Заголовок не найден
+109.160.53.18:80 - Заголовок не найден
+2.16.89.22:80 - Заголовок не найден
+18.66.172.200:80 - Заголовок не найден
+189.97.216.12:80 - Заголовок не найден
+118.201.122.89:80 - Web user login
+18.221.109.149:80 - Journal Pocket
+2.22.6.88:80 - Заголовок не найден
+20.125.104.54:80 - Your Azure Function App is up and running.
+212.37.83.116:80 - RouterOS router configuration page
+127.14.181.209:80 - IIS Windows Server
+127.140.44.36:80 - IIS Windows Server
+34.248.45.228:80 - 404 Not Found
+3.143.184.56:80 - Apache2 Ubuntu Default Page: It works
+104.76.94.188:80 - Заголовок не найден
+23.202.190.121:80 - Заголовок не найден
+42.193.219.158:80 - 403 Forbidden
+45.141.77.172:80 - 403 Forbidden
+154.209.105.221:80 - Заголовок не найден
+196.51.197.21:80 - ERROR: The requested URL could not be retrieved
+127.214.49.3:80 - IIS Windows Server
+127.213.67.135:80 - IIS Windows Server
+5.61.254.241:80 - 403 Forbidden
+108.186.100.102:80 - Заголовок не найден
+18.160.170.145:80 - Заголовок не найден
+40.74.245.201:80 - Microsoft Azure Web App - Error 404
+103.102.73.204:80 - 
+104.16.116.31:80 - Direct IP access not allowed | Cloudflare
+52.219.206.54:80 - Amazon S3 - Cloud Object Storage  - AWS
+106.52.249.50:80 - 404 Not Found
+54.201.141.151:80 - 403 Forbidden
+148.101.94.28:80 - 
+211.62.125.211:80 - 
+127.155.138.2:80 - IIS Windows Server
+52.21.59.13:80 - Заголовок не найден
+127.201.249.254:80 - IIS Windows Server
+95.168.184.37:80 - Заголовок не найден
+35.183.170.119:80 - Unauthorized
+127.6.49.67:80 - IIS Windows Server
+127.53.54.74:80 - IIS Windows Server
+116.48.164.128:80 - Opening...
+165.22.62.146:80 - Apache2 Ubuntu Default Page: It works
+127.37.62.87:80 - IIS Windows Server
+106.151.33.14:80 - HITACHI Management
+52.212.184.13:80 - Apache Tomcat/10.1.19
+193.112.253.28:80 - Welcome to OpenResty!
+37.6.230.216:80 - IIS Windows
+36.91.16.109:80 - 
+127.54.154.15:80 - IIS Windows Server
+127.176.99.122:80 - IIS Windows Server
+127.226.116.85:80 - IIS Windows Server
+127.77.22.202:80 - IIS Windows Server
+193.142.59.12:80 - Web Server's Default Page
+127.10.5.38:80 - IIS Windows Server
+1.33.173.199:80 - 國學院大學ラグビーフットボール部
+127.125.66.251:80 - IIS Windows Server
+127.185.151.114:80 - IIS Windows Server
+137.184.124.207:80 - Apache2 Ubuntu Default Page: It works
+23.35.220.10:80 - Заголовок не найден
+127.143.85.38:80 - IIS Windows Server
+127.85.125.38:80 - IIS Windows Server
+23.202.211.214:80 - Заголовок не найден
+13.35.127.227:80 - Заголовок не найден
+127.33.24.109:80 - IIS Windows Server
+127.11.255.36:80 - IIS Windows Server
+127.109.65.128:80 - IIS Windows Server
+127.129.228.129:80 - IIS Windows Server
+144.76.184.123:80 - Заголовок не найден
+127.75.201.85:80 - IIS Windows Server
+54.230.122.169:80 - Заголовок не найден
+120.77.15.33:80 - ç½ç«è®¿é®æ¥é
+18.160.29.199:80 - Заголовок не найден
+127.142.15.85:80 - IIS Windows Server
+195.133.226.30:80 - Заголовок не найден
+127.70.14.154:80 - IIS Windows Server
+156.241.145.219:80 - 403 Forbidden
+177.22.127.58:80 - welcome
+50.2.62.103:80 - 403 Forbidden
+96.92.221.241:80 - Заголовок не найден
+5.188.222.29:80 - Welcome to nginx!
+168.76.96.46:80 - 403 Forbidden
+23.218.167.97:80 - Заголовок не найден
+23.56.14.183:80 - Заголовок не найден
+127.197.178.84:80 - IIS Windows Server
+127.228.111.152:80 - IIS Windows Server
+93.177.126.6:80 - NOC Login
+127.26.7.54:80 - IIS Windows Server
+185.211.125.3:80 - 403 Forbidden
+104.17.133.54:80 - Direct IP access not allowed | Cloudflare
+94.73.170.128:80 - 403 - Forbidden: Access is denied.
+127.226.154.98:80 - IIS Windows Server
+120.79.251.150:80 - 404 NOT FOUND
+34.140.104.247:80 - CM Faro
+127.66.92.20:80 - IIS Windows Server
+129.158.60.227:80 - 404 Not Found
+23.10.142.251:80 - Заголовок не найден
+184.24.211.57:80 - Заголовок не найден
+54.94.48.44:80 - Smart Serial Number
+13.225.175.228:80 - Заголовок не найден
+127.203.182.255:80 - IIS Windows Server
+127.4.205.214:80 - IIS Windows Server
+111.69.42.156:80 - Welcome to nginx!
+154.223.107.26:80 - 404 Not Found
+127.187.61.86:80 - IIS Windows Server
+107.151.82.172:80 - æ²¡ææ¾å°ç«ç¹
+13.57.53.46:80 - Welcome to nginx!
+127.11.242.141:80 - IIS Windows Server
+208.86.169.136:80 - 
+127.239.205.196:80 - IIS Windows Server
+127.114.132.3:80 - IIS Windows Server
+23.60.228.34:80 - Заголовок не найден
+127.130.27.181:80 - IIS Windows Server
+127.253.84.33:80 - IIS Windows Server
+163.180.212.153:80 - Welcome to nginx!
+184.151.248.99:80 - Заголовок не найден
+127.11.163.68:80 - IIS Windows Server
+69.192.10.182:80 - Заголовок не найден
+127.167.80.34:80 - IIS Windows Server
+13.215.89.111:80 - 403 Forbidden
+127.112.141.141:80 - IIS Windows Server
+85.93.89.124:80 - Domain Default page
+81.201.220.201:80 - Заголовок не найден
+52.244.179.240:80 - Your Azure Function App is up and running.
+52.38.18.38:80 - Apache2 Ubuntu Default Page: It works
+15.236.68.25:80 - BientÃ´t disponible
+144.24.59.97:80 - Welcome to nginx!
+23.192.229.84:80 - Заголовок не найден
+193.170.191.183:80 - 403 Forbidden
+127.107.235.42:80 - IIS Windows Server
+127.66.154.135:80 - IIS Windows Server
+39.98.201.167:80 - 502 Bad Gateway
+148.6.74.104:80 - Sign in · GitLab
+51.38.144.89:80 - IIS Windows
+212.115.61.133:80 - ERROR: The requested URL could not be retrieved
+23.217.237.28:80 - Заголовок не найден
+69.28.78.240:80 - Заголовок не найден
+58.151.14.102:80 - Заголовок не найден
+127.198.230.198:80 - IIS Windows Server
+152.0.247.216:80 - 
+127.162.144.127:80 - IIS Windows Server
+75.27.153.63:80 - IIS Windows Server
+127.67.232.200:80 - IIS Windows Server
+129.232.187.234:80 - Site Not Found
+127.160.133.106:80 - IIS Windows Server
+127.193.206.64:80 - IIS Windows Server
+127.2.40.181:80 - IIS Windows Server
+152.0.73.251:80 - Заголовок не найден
+49.50.243.51:80 - Заголовок не найден
+23.213.102.92:80 - Заголовок не найден
+34.249.66.178:80 - Sign in ã» Cloudflare Access
+81.28.232.56:80 - Unknown address
+108.138.186.61:80 - Заголовок не найден
+46.101.101.28:80 - Apache2 Ubuntu Default Page: It works
+127.17.131.132:80 - IIS Windows Server
+23.199.84.134:80 - Заголовок не найден
+95.101.243.239:80 - Заголовок не найден
+141.0.171.38:80 - Заголовок не найден
+46.34.138.146:80 - Главная
