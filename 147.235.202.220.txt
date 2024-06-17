@@ -6330,3 +6330,50 @@
 193.140.241.42:80 - DİCLE ÜNİVERSİTESİ ULUSLARARASI ÖĞRENCİ BAŞVURU SİSTEMİ
 187.139.10.185:80 - 
 94.156.220.167:80 - Welcome to nginx!
+3.222.163.107:80 - 503 Service Temporarily Unavailable
+195.93.148.123:80 - RouterOS router configuration page
+84.179.186.111:80 - Wohnung f&uuml;r WG
+77.55.133.31:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+176.146.156.130:80 - Hello! Welcome to Synology Web Station!
+172.223.38.226:80 - 
+86.164.14.116:80 - 
+2.19.140.155:80 - Заголовок не найден
+104.16.245.25:80 - Direct IP access not allowed | Cloudflare
+23.222.180.35:80 - Заголовок не найден
+104.121.16.29:80 - Заголовок не найден
+212.187.120.56:80 - 
+121.161.50.8:80 - ë¦¬ëª¨í¸ UI (Top Page):&nbsp;MF4700 Series&nbsp;:&nbsp;MF4700 Series
+23.42.251.153:80 - Заголовок не найден
+107.215.169.18:80 - 
+35.227.213.127:80 - Заголовок не найден
+79.143.184.136:80 - Apache2 Ubuntu Default Page: It works
+23.53.201.208:80 - Заголовок не найден
+62.204.155.209:80 - 
+23.196.168.207:80 - Заголовок не найден
+8.28.40.131:80 - 403 Forbidden
+125.228.154.142:80 - 
+34.36.0.146:80 - Заголовок не найден
+13.37.66.82:80 - 404 Not Found
+18.172.161.215:80 - Заголовок не найден
+111.68.32.95:80 - Заголовок не найден
+4.158.116.33:80 - Заголовок не найден
+14.32.60.65:80 - 
+104.24.1.74:80 - Direct IP access not allowed | Cloudflare
+177.54.195.152:80 - &#70;&#54;&#55;&#48;&#76;
+193.124.56.153:80 - 
+51.17.41.61:80 - Заголовок не найден
+2.18.48.132:80 - Заголовок не найден
+8.129.73.77:80 - 
+185.107.90.40:80 - Success!
+4.175.184.252:80 - Your Azure Function App is up and running.
+20.4.131.87:80 - Z-App
+2.16.219.35:80 - Заголовок не найден
+82.200.167.72:80 - Ð¡Ð­Ð "Ð¢ÐµÐ·Ð¸Ñ"
+18.160.117.62:80 - Заголовок не найден
+178.253.26.38:80 - Welcome to nginx!
+65.0.85.226:80 - Langues Des Champions - Kenya’s Premier and Leading Linguistic Platform
+34.29.16.27:80 - Craft Holsters® | Custom Made Leather Holsters
+152.97.91.116:80 - Заголовок не найден
+77.81.50.3:80 - 500 Internal Server Error
+92.37.99.228:80 - Default Site
+54.197.63.226:80 - TribalPages - Family Trees
