@@ -4935,3 +4935,11 @@
 20.201.64.158:80 - Заголовок не найден
 149.210.160.213:80 - SurgeMail Welcome Page
 167.71.230.233:80 - Welcome to nginx!
+192.151.229.180:80 - Заголовок не найден
+93.191.242.79:80 - Заголовок не найден
+188.128.156.140:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+181.169.36.146:80 - Iniciar sesión – SPARTA
+109.176.196.103:80 - 403 Forbidden
+207.58.144.187:80 - IIS Windows Server
+4.225.160.53:80 - Заголовок не найден
+104.25.191.131:80 - Direct IP access not allowed | Cloudflare
