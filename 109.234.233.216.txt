@@ -4836,3 +4836,6 @@
 190.60.32.251:80 - Apache2 Ubuntu Default Page: It works
 150.129.3.2:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
 35.244.149.53:80 - 502
+149.12.129.242:80 - RouterOS router configuration page
+50.49.192.175:80 - Web Viewer for Samsung DVR
+50.3.144.83:80 - 403 Forbidden
