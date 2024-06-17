@@ -1920,3 +1920,6 @@
 34.227.56.96:80 - Apache2 Debian Default Page: It works
 23.43.137.191:80 - Заголовок не найден
 200.88.83.180:80 - 
+210.114.19.172:80 - Apache2 Ubuntu Default Page: It works
+52.60.74.133:80 - 404 Not Found
+192.185.157.141:80 - Not Acceptable!
