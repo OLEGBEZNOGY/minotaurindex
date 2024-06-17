@@ -1,0 +1,123 @@
+5.189.239.97:80 - IIS Windows Server
+109.228.37.70:80 - Web Server's Default Page
+116.196.100.20:80 - 400 Bad Request
+104.27.8.226:80 - Direct IP access not allowed | Cloudflare
+127.128.239.237:80 - IIS Windows
+34.224.22.3:80 - Employee Directory
+127.46.59.32:80 - IIS Windows
+127.38.231.50:80 - IIS Windows
+77.246.241.103:80 - Заголовок не найден
+127.137.56.238:80 - IIS Windows
+127.32.1.96:80 - IIS Windows
+127.121.165.66:80 - IIS Windows
+104.19.172.132:80 - Direct IP access not allowed | Cloudflare
+54.207.53.206:80 - 
+127.36.72.189:80 - IIS Windows
+113.198.56.73:80 - L7
+127.74.19.118:80 - IIS Windows
+127.237.229.239:80 - IIS Windows
+154.202.44.41:80 - Заголовок не найден
+127.195.64.213:80 - IIS Windows
+127.70.121.155:80 - IIS Windows
+13.127.193.24:80 - Gadgetmart
+127.122.58.116:80 - IIS Windows
+18.117.25.205:80 - Заголовок не найден
+217.74.246.219:80 - iRZ Mobile Router
+127.18.4.127:80 - IIS Windows
+173.94.12.38:80 - 
+127.110.228.171:80 - IIS Windows
+100.34.121.11:80 - 
+45.60.190.193:80 - Заголовок не найден
+127.164.244.79:80 - IIS Windows
+103.138.0.107:80 - SonicWall - Authentication
+47.97.9.252:80 - 403 - ½ûÖ¹·ÃÎÊ: ·ÃÎÊ±»¾Ü¾ø¡£
+127.110.248.142:80 - IIS Windows
+127.140.109.133:80 - IIS Windows
+185.213.152.4:80 - 404 Not Found
+127.0.86.101:80 - IIS Windows
+75.103.74.176:80 - Index of /
+20.67.214.221:80 - 404 Not Found
+127.30.69.58:80 - IIS Windows
+127.139.94.22:80 - IIS Windows
+202.41.172.212:80 - Заголовок не найден
+127.145.147.217:80 - IIS Windows
+127.202.116.60:80 - IIS Windows
+127.18.36.55:80 - IIS Windows
+23.66.144.124:80 - Заголовок не найден
+127.42.122.155:80 - IIS Windows
+127.227.78.4:80 - IIS Windows
+89.58.16.205:80 - Заголовок не найден
+20.78.228.144:80 - Azure Container App - Unavailable
+127.178.95.192:80 - IIS Windows
+127.197.50.60:80 - IIS Windows
+127.46.207.32:80 - IIS Windows
+127.46.142.144:80 - IIS Windows
+127.214.43.2:80 - IIS Windows
+127.162.67.66:80 - IIS Windows
+127.218.51.151:80 - IIS Windows
+127.124.15.222:80 - IIS Windows
+127.13.137.151:80 - IIS Windows
+127.3.162.36:80 - IIS Windows
+127.99.135.32:80 - IIS Windows
+188.39.191.26:80 - IIS Windows Server
+123.253.164.179:80 - Заголовок не найден
+20.70.18.191:80 - Artboard
+38.170.86.195:80 - ERROR: The requested URL could not be retrieved
+127.110.66.50:80 - IIS Windows
+127.196.216.245:80 - IIS Windows
+127.55.145.86:80 - IIS Windows
+127.4.76.79:80 - IIS Windows
+3.21.179.219:80 - 404 Not Found
+94.228.205.48:80 - F623
+127.9.55.173:80 - IIS Windows
+127.162.205.160:80 - IIS Windows
+127.101.230.197:80 - IIS Windows
+127.86.255.144:80 - IIS Windows
+127.137.74.45:80 - IIS Windows
+127.96.37.250:80 - IIS Windows
+127.193.193.194:80 - IIS Windows
+127.92.74.56:80 - IIS Windows
+127.220.77.15:80 - IIS Windows
+127.73.147.230:80 - IIS Windows
+127.12.49.253:80 - IIS Windows
+127.16.89.120:80 - IIS Windows
+127.16.22.208:80 - IIS Windows
+127.228.70.253:80 - IIS Windows
+127.75.169.8:80 - IIS Windows
+127.134.176.1:80 - IIS Windows
+127.31.219.115:80 - IIS Windows
+199.232.131.54:80 - Fastly error: unknown domain 199.232.131.54
+127.174.237.132:80 - IIS Windows
+154.9.51.210:80 - ERROR: The requested URL could not be retrieved
+127.60.5.0:80 - IIS Windows
+140.248.130.70:80 - Fastly error: unknown domain 140.248.130.70
+197.44.115.11:80 - 
+156.234.239.61:80 - 404 Not Found
+23.52.42.137:80 - Заголовок не найден
+154.28.148.239:80 - ERROR: The requested URL could not be retrieved
+120.136.11.118:80 - ç¡å¹ãªURLã§ã
+179.161.5.111:80 - Заголовок не найден
+45.244.103.87:80 - Заголовок не найден
+127.64.229.224:80 - IIS Windows
+84.191.65.101:80 - Заголовок не найден
+127.11.213.117:80 - IIS Windows
+127.164.199.61:80 - IIS Windows
+18.196.205.33:80 - Apache HTTP Server Test Page powered by CentOS
+13.227.70.199:80 - Заголовок не найден
+34.117.61.73:80 - Sign in - Google Accounts
+201.177.75.53:80 - Заголовок не найден
+70.40.221.96:80 - Not Acceptable!
+85.204.69.216:80 - Заголовок не найден
+127.5.19.243:80 - IIS Windows
+38.182.174.61:80 - 403 Forbidden
+127.140.157.167:80 - IIS Windows
+127.10.138.85:80 - IIS Windows
+127.244.70.35:80 - IIS Windows
+127.225.209.52:80 - IIS Windows
+217.18.58.189:80 - 404 Not Found
+77.153.170.174:80 - Заголовок не найден
+127.60.93.95:80 - IIS Windows
+127.252.97.11:80 - IIS Windows
+127.199.47.158:80 - IIS Windows
+45.128.158.71:80 - Заголовок не найден
+34.215.232.231:80 - Заголовок не найден
