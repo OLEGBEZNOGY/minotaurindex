@@ -4488,3 +4488,277 @@ Front-end, Web Developer, Java | Kodilla.com
 23.44.249.114:80 - Заголовок не найден
 117.216.158.237:80 - Заголовок не найден
 210.221.253.17:80 - IIS Windows
+38.59.47.91:80 - 404 Not Found
+104.104.28.4:80 - Заголовок не найден
+199.119.203.60:80 - ERROR: The requested URL could not be retrieved
+73.101.68.80:80 - Pennsylvania ZMA
+87.247.248.141:80 - LoRa WAN System
+23.205.30.107:80 - Заголовок не найден
+108.138.207.227:80 - Заголовок не найден
+54.187.147.9:80 - Заголовок не найден
+151.101.146.135:80 - Fastly error: unknown domain 151.101.146.135
+216.173.77.57:80 - 500 Internal Server Error
+37.48.122.23:80 - Заголовок не найден
+139.216.77.157:80 - Заголовок не найден
+206.130.100.82:80 - Заголовок не найден
+18.228.245.155:80 - RogÃ©rio Portela da Luz
+73.30.124.133:80 - 
+83.143.223.86:80 - Doomsday
+42.29.52.195:80 - Login to <!--#exec cmd="xmlp_web system\\common model"-->
+50.2.52.51:80 - 403 Forbidden
+81.248.25.221:80 - 
+80.77.85.230:80 - Заголовок не найден
+154.198.201.109:80 - 404 Not Found
+141.26.141.149:80 - Status der Dienste der Universität Koblenz
+146.75.64.62:80 - Fastly error: unknown domain 146.75.64.62
+23.42.241.208:80 - Заголовок не найден
+190.171.175.97:80 - Заголовок не найден
+166.130.160.39:80 - 
+130.18.152.193:80 - IIS Windows Server
+23.200.176.158:80 - Заголовок не найден
+3.162.170.31:80 - Заголовок не найден
+162.215.240.74:80 - Not Acceptable!
+121.188.169.98:80 - Заголовок не найден
+59.127.4.96:80 - 
+47.106.165.65:80 - 深圳市康捷登科技有限公司
+106.14.60.42:80 - æ²¡ææ¾å°ç«ç¹
+104.192.4.150:80 - Web Server's Default Page
+45.115.105.101:80 - Please wait, the login page is opening...
+160.121.82.188:80 - 403 Forbidden
+5.199.174.25:80 - Web Server's Default Page
+87.107.138.2:80 - RouterOS router configuration page
+2.18.101.35:80 - Заголовок не найден
+18.173.161.213:80 - Заголовок не найден
+18.189.230.186:80 - Заголовок не найден
+205.196.223.42:80 - Site not found &middot; DreamHost
+45.8.211.92:80 - Direct IP access not allowed | Cloudflare
+216.249.109.112:80 - The Tudors
+18.232.183.249:80 - Заголовок не найден
+23.213.109.170:80 - Заголовок не найден
+75.89.4.226:80 - 
+104.68.59.193:80 - Заголовок не найден
+108.138.100.128:80 - Заголовок не найден
+125.228.9.120:80 - WEB SERVICE
+192.155.188.50:80 - Заголовок не найден
+45.60.239.106:80 - Заголовок не найден
+95.216.50.181:80 - Заголовок не найден
+52.84.67.200:80 - Заголовок не найден
+195.42.183.58:80 - Заголовок не найден
+150.95.227.162:80 - 403 error - Forbidden
+34.204.82.166:80 - Заголовок не найден
+23.199.50.134:80 - Заголовок не найден
+23.39.79.208:80 - Заголовок не найден
+216.128.183.160:80 - Заголовок не найден
+72.27.68.118:80 - 
+34.160.236.151:80 - Заголовок не найден
+23.51.214.14:80 - Заголовок не найден
+46.44.198.7:80 - Заголовок не найден
+80.78.192.140:80 - Welcome to nginx!
+91.96.114.138:80 - Hello! Welcome to Synology Web Station!
+91.243.48.12:80 - The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-06-17.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-06-17.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-06-17.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-06-17.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-06-17.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-06-17.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-06-17.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-06-17.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-06-17.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-06-17.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-06-17.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-06-17.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: file_put_contents(/home/user/www/kinobaza/storage/framework/sessions/eY6Enu9sZz2BJ5bX10MnbnEHXzCFyIlxisETTDza): Failed to open stream: Permission denied
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+85.105.254.43:80 - 
+62.153.162.253:80 - 400 The plain HTTP request was sent to HTTPS port
+45.152.204.165:80 - Anmelden – Stuttgarter Cloud
+159.89.27.233:80 - 404 Not Found
+107.158.225.82:80 - Заголовок не найден
+18.212.9.154:80 - Dash Enterprise
+161.69.67.156:80 - Заголовок не найден
+151.101.71.54:80 - Fastly error: unknown domain 151.101.71.54
+104.83.133.154:80 - Заголовок не найден
+23.45.226.72:80 - Заголовок не найден
+186.128.246.56:80 - Заголовок не найден
+3.163.201.49:80 - Заголовок не найден
+139.162.93.169:80 - Attention Required! | Cloudflare
+43.153.170.174:80 - Welcome to nginx!
+181.192.8.212:80 - NetDvrV3
+34.232.155.27:80 - Client Portal CMS
+188.93.237.52:80 - Заголовок не найден
+91.155.24.169:80 - 
+178.63.85.74:80 - Welcome to nginx!
+186.67.14.192:80 - Заголовок не найден
+108.138.15.112:80 - Заголовок не найден
+23.210.70.4:80 - Заголовок не найден
+93.175.103.13:80 - Заголовок не найден
+91.201.215.35:80 - Zabbx server: Zabbix
+92.53.118.76:80 - 502 Bad Gateway
+27.148.139.204:80 - Заголовок не найден
+23.73.15.78:80 - Заголовок не найден
+54.239.186.98:80 - Заголовок не найден
+101.37.174.122:80 - Заголовок не найден
+47.115.75.153:80 - Welcome to nginx!
+104.91.11.80:80 - Заголовок не найден
+172.64.196.75:80 - Direct IP access not allowed | Cloudflare
+23.198.26.45:80 - Заголовок не найден
+106.53.103.70:80 - 404 Not Found
+206.119.29.15:80 - 404 Not Found
+180.71.46.235:80 - Заголовок не найден
+176.32.93.206:80 - 503 Service Temporarily Unavailable
+222.194.69.150:80 - 404 Not Found
+66.170.180.254:80 - Roadking Gps
+52.224.13.19:80 - Заголовок не найден
+18.238.27.229:80 - Заголовок не найден
+64.225.17.210:80 - Access forbidden!
+23.56.200.3:80 - Заголовок не найден
+3.11.138.113:80 - 403 Forbidden
+198.27.92.192:80 - Заголовок не найден
+20.123.252.211:80 - Your Azure Function App is up and running.
+188.92.40.98:80 - Server Configuration Error
+38.11.39.144:80 - 404 Not Found
+104.123.223.8:80 - Заголовок не найден
+50.16.25.119:80 - Заголовок не найден
+52.56.55.118:80 - Welcome to nginx!
+134.175.200.52:80 - è¿ä½åå­¦
+18.164.192.217:80 - Заголовок не найден
+81.163.21.163:80 - Index of /
+52.78.213.57:80 - 통시의학회
+87.106.165.147:80 - 404 Not Found
+172.67.184.199:80 - Direct IP access not allowed | Cloudflare
+108.49.240.166:80 - Julie and Patrick
+121.43.150.60:80 - ç½ç«è®¿é®æ¥é
+104.206.17.94:80 - 403 Forbidden
+120.92.51.103:80 - Заголовок не найден
+34.102.206.116:80 - Welcome to nginx!
+104.81.100.234:80 - Заголовок не найден
+23.35.136.248:80 - Заголовок не найден
+154.9.60.4:80 - ERROR: The requested URL could not be retrieved
+59.25.222.42:80 - Заголовок не найден
+5.35.114.58:80 - 403 Forbidden
+5.20.5.254:80 - Error 404 (Not Found)!!1
+64.227.74.186:80 - Not Found
+198.41.215.147:80 - Direct IP access not allowed | Cloudflare
+107.150.70.227:80 - 407 Proxy Authentication Required
+38.48.243.195:80 - Welcome to nginx!
+38.207.50.218:80 - 404 Not Found
+184.51.96.49:80 - Заголовок не найден
+168.76.39.22:80 - æ²¡ææ¾å°ç«ç¹
+74.208.212.200:80 - IIS Windows Server
+23.44.28.193:80 - Заголовок не найден
+24.155.39.13:80 - 
+176.103.71.208:80 - 
+23.211.5.78:80 - Заголовок не найден
+221.167.29.222:80 - 
+101.43.160.199:80 - æ²¡ææ¾å°ç«ç¹
+104.19.157.132:80 - Direct IP access not allowed | Cloudflare
+8.219.49.244:80 - Заголовок не найден
+14.128.0.85:80 - 403 Forbidden
+121.188.98.39:80 - main page
+59.27.4.247:80 - Заголовок не найден
+167.82.111.182:80 - Fastly error: unknown domain 167.82.111.182
+96.7.9.62:80 - Заголовок не найден
+103.2.133.184:80 - Please wait, the login page is opening...
+49.79.176.142:80 - Заголовок не найден
+72.52.157.184:80 - 403 Forbidden
+45.221.110.112:80 - 403 Forbidden
+18.100.30.190:80 - Canal de Denuncias
+192.185.32.145:80 - Not Acceptable!
+68.178.166.237:80 - Заголовок не найден
+121.43.157.216:80 - IIS7
+38.55.210.225:80 - 404 Not Found
+82.197.80.211:80 - 403 Forbidden
+210.135.148.65:80 - ÆÁÅçÆî¥í¡¼¥¿¥ê¡¼¥¯¥é¥Ö
+173.236.255.218:80 - Site not found &middot; DreamHost
+104.253.137.136:80 - 404 Not Found
+24.240.68.178:80 - 
+185.168.111.14:80 - Заголовок не найден
+39.106.186.56:80 - 404 Not Found
+44.240.210.8:80 - 403 Forbidden
+54.211.123.133:80 - Заголовок не найден
+58.199.57.59:80 - Заголовок не найден
+123.108.79.131:80 - 404 Not Found
+23.57.55.98:80 - Заголовок не найден
+144.85.236.95:80 - Заголовок не найден
+186.6.219.111:80 - 
+23.215.17.232:80 - Заголовок не найден
+188.128.169.76:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+104.211.67.49:80 - Заголовок не найден
+23.205.178.18:80 - Заголовок не найден
+52.44.77.185:80 - Заголовок не найден
+173.44.218.135:80 - ERROR: The requested URL could not be retrieved
+221.161.155.6:80 - Gargoyle Router Management Utility
+59.25.119.38:80 - HTTP 상태 404 – 찾을 수 없음
+154.41.225.21:80 - 403 Forbidden
+193.70.74.242:80 - Welcome to nginx!
+61.82.238.76:80 - Заголовок не найден
+94.138.36.250:80 - Заголовок не найден
+177.137.30.107:80 - Заголовок не найден
+120.76.139.62:80 - LNMPä¸é®å®è£å by Licess
+68.219.15.245:80 - Azure Container App - Unavailable
+112.186.203.139:80 - Заголовок не найден
+65.8.50.240:80 - Заголовок не найден
+45.87.231.119:80 - æ²¡ææ¾å°ç«ç¹
+23.217.186.60:80 - Заголовок не найден
+8.134.187.192:80 - é¿ç¨³å¾®ä¿¡å¬ä¼å·ç®¡çç³»ç»
+38.63.148.229:80 - 404 Not Found
+44.207.163.61:80 - 403 Forbidden
+129.211.11.160:80 - 404 Not Found
+23.47.156.237:80 - Заголовок не найден
+63.247.66.101:80 - Заголовок не найден
+107.182.184.147:80 - Tiny Tiny RSS : Login
+190.173.195.142:80 - Заголовок не найден
+66.220.22.93:80 - Welcome to nginx!
+50.253.196.115:80 - WebMail - Web Mail Client
+178.239.127.153:80 - Please wait, the page is opening...
+146.99.80.218:80 - Заголовок не найден
+23.200.184.185:80 - Заголовок не найден
+5.206.227.53:80 - 404 Not Found
+36.25.244.38:80 - 403 Forbidden
+38.181.158.220:80 - 404 Not Found
+23.42.198.139:80 - Заголовок не найден
+154.204.139.175:80 - 404 Not Found
+23.64.23.70:80 - Заголовок не найден
+195.231.0.83:80 - Mia Bag | Home page
+18.154.24.80:80 - Заголовок не найден
+23.216.126.62:80 - Заголовок не найден
+77.221.72.182:80 - 
+199.232.140.26:80 - Fastly error: unknown domain 199.232.140.26
+84.30.151.167:80 - index
+154.201.135.86:80 - 404 Not Found
+213.146.71.8:80 - HTTP 403
+20.240.141.60:80 - Заголовок не найден
+74.80.154.140:80 - Заголовок не найден
+18.205.16.79:80 - Заголовок не найден
+23.44.226.215:80 - Заголовок не найден
+52.27.40.2:80 - Заголовок не найден
+85.214.223.199:80 - Web Server's Default Page
+91.92.254.184:80 - Заголовок не найден
+39.39.121.50:80 - Заголовок не найден
+34.73.124.231:80 - Michal Kloda &#8211; Fotograf Pardubice
+81.171.168.147:80 - NorthStar® | Fugro
+95.179.168.30:80 - Unknown Domain
+120.26.248.79:80 - 阿里云万网虚机IP访问报错提示
+54.36.138.71:80 - Web Server's Default Page
+216.131.83.63:80 - 403 Forbidden
+52.189.33.24:80 - Заголовок не найден
+101.132.171.213:80 - 403 Forbidden
+128.140.11.133:80 - Welcome to nginx!
+134.213.138.103:80 - bh360 | Login
+212.180.220.42:80 - 404 Not Found
+34.213.53.100:80 - Monitoramento - Engeselt
+95.100.136.125:80 - Заголовок не найден
+45.60.253.150:80 - Заголовок не найден
+107.154.110.34:80 - Заголовок не найден
+93.114.99.219:80 - Заголовок не найден
