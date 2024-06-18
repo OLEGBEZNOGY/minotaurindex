@@ -1404,3 +1404,43 @@
 3.8.139.8:80 - Home - Batsford Arboretum in The Cotswolds
 38.54.235.8:80 - Заголовок не найден
 118.163.230.119:80 - 401 Unauthorized
+178.239.123.203:80 - Please wait, the page is opening...
+154.39.182.35:80 - Заголовок не найден
+122.11.162.93:80 - eVision Live
+58.72.225.247:80 - 
+54.37.154.254:80 - Welcome to nginx!
+23.226.117.153:80 - Заголовок не найден
+54.151.196.165:80 - Apache2 Ubuntu Default Page: It works
+95.100.57.52:80 - Заголовок не найден
+99.81.162.106:80 - Заголовок не найден
+46.125.71.23:80 - Заголовок не найден
+38.11.7.222:80 - 404 Not Found
+184.169.238.191:80 - Welcome to OpenResty!
+152.70.211.78:80 - Welcome to nginx!
+176.120.221.4:80 - 
+23.14.195.209:80 - Заголовок не найден
+38.48.143.22:80 - Заголовок не найден
+54.172.106.56:80 - Futures Without Violence
+88.198.234.227:80 - Login
+172.64.163.27:80 - Direct IP access not allowed | Cloudflare
+136.143.246.41:80 - 404 Not Found
+104.16.160.185:80 - Direct IP access not allowed | Cloudflare
+71.15.154.46:80 - 
+95.31.210.69:80 - Заголовок не найден
+18.221.215.176:80 - Artboard
+108.138.86.90:80 - Заголовок не найден
+89.203.191.17:80 - 500 Internal Server Error
+23.218.116.203:80 - Заголовок не найден
+20.205.171.214:80 - 404 Not Found
+104.17.75.226:80 - Direct IP access not allowed | Cloudflare
+104.27.4.154:80 - Direct IP access not allowed | Cloudflare
+54.39.87.147:80 - Welcome to nginx!
+199.232.143.161:80 - Fastly error: unknown domain 199.232.143.161
+159.75.113.61:80 - 404 Not Found
+31.13.140.175:80 - ePMP
+189.4.10.191:80 - pfSense - Login
+14.52.89.197:80 - main page
+62.234.38.12:80 - Maicong Software
+206.189.184.126:80 - Заголовок не найден
+109.74.194.59:80 - Website Unavailable
+160.248.184.194:80 - LimeSurvey
