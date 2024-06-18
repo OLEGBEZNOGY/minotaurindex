@@ -1227,3 +1227,4 @@
 196.51.49.13:80 - ERROR: The requested URL could not be retrieved
 37.230.203.58:80 - Заголовок не найден
 165.232.153.221:80 - 404 Not Found
+173.234.154.248:80 - 407 Proxy Authentication Required
