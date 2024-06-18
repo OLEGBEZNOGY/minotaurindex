@@ -9151,3 +9151,14 @@
 140.248.55.38:80 - Fastly error: unknown domain 140.248.55.38
 216.197.113.145:80 - Centage | Formula-Free FP&amp;A Software
 23.194.80.54:80 - Заголовок не найден
+107.154.169.67:80 - Заголовок не найден
+103.221.232.14:80 - 407 Proxy Authentication Required
+127.230.13.244:80 - IIS Windows
+127.85.149.2:80 - IIS Windows
+23.37.165.82:80 - Заголовок не найден
+127.180.123.53:80 - IIS Windows
+79.23.128.54:80 - Заголовок не найден
+127.18.31.40:80 - IIS Windows
+51.11.114.229:80 - Your Azure Function App is up and running.
+38.173.115.172:80 - Заголовок не найден
+52.65.5.122:80 - Apache2 Ubuntu Default Page: It works
