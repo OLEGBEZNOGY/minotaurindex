@@ -4345,3 +4345,165 @@
 82.165.60.94:80 - Web Server's Default Page
 185.97.115.98:80 - IIS Windows Server
 40.91.124.174:80 - TURN AROUND!
+78.25.120.228:80 - DVR Components Download
+173.197.82.218:80 - IIS Windows Server
+104.80.9.219:80 - Заголовок не найден
+1.173.154.79:80 - 动态网
+23.218.84.242:80 - Заголовок не найден
+79.141.164.3:80 - 403 Forbidden
+108.139.29.140:80 - Заголовок не найден
+3.8.195.88:80 - 403 Forbidden
+62.146.2.222:80 - Login – Nextcloud
+216.58.240.163:80 - Заголовок не найден
+69.197.161.149:80 - mail1.scimedexpertpublisher.com &mdash;  Host default page
+221.160.73.243:80 - 
+38.156.73.4:80 - Super Speed Radius
+192.185.54.147:80 - Not Acceptable!
+82.130.92.74:80 - Заголовок не найден
+109.237.132.82:80 - Заголовок не найден
+182.213.222.33:80 - CMS Web Viewer
+156.237.180.2:80 - Apache HTTP Server Test Page powered by CentOS
+14.225.236.20:80 - 500 Internal Server Error
+103.217.133.77:80 - Please wait, the login page is opening...
+201.229.141.118:80 - 
+217.68.225.130:80 - IIS Windows Server
+103.196.60.20:80 - 403 Forbidden
+23.46.131.249:80 - Заголовок не найден
+185.173.235.124:80 - Заголовок не найден
+148.230.255.51:80 - RouterOS router configuration page
+44.224.230.161:80 - Recent questions - Mepanet
+45.150.115.176:80 - Заголовок не найден
+98.13.135.23:80 - 
+5.181.48.89:80 - 404 Not Found
+2.17.181.216:80 - Заголовок не найден
+190.92.178.154:80 - Заголовок не найден
+103.136.148.19:80 - Apache2 Ubuntu Default Page: It works
+213.219.65.2:80 - Estland (213.219.65.2) - ZyXEL ZyWALL 5 Internet Security Appliance
+211.198.170.10:80 - 403 - Forbidden
+36.255.120.225:80 - Заголовок не найден
+185.121.2.225:80 - Заголовок не найден
+104.76.24.84:80 - Заголовок не найден
+166.144.59.252:80 - Login
+54.250.17.60:80 - EIKO_Parking_DEMO001 &#8211; Just another DEMO site
+77.26.199.233:80 - SonicWall - Authentication
+188.117.228.31:80 - Defender Sports streams
+69.54.228.213:80 - Заголовок не найден
+88.255.125.82:80 - IIS Windows Server
+38.11.101.87:80 - ç½ç«ç»´æ¤ä¸­
+23.203.118.8:80 - Заголовок не найден
+13.248.211.247:80 - Sample Site
+188.151.49.74:80 - 404 - Not Found
+52.90.82.164:80 - Welcome to nginx!
+178.128.211.68:80 - 503 Service Temporarily Unavailable
+160.121.42.140:80 - 404 Not Found
+103.127.135.137:80 - Apache2 Ubuntu Default Page: It works
+160.202.64.44:80 - 403 Forbidden
+172.67.189.53:80 - Direct IP access not allowed | Cloudflare
+43.245.171.22:80 - 403 - Forbidden: Access is denied.
+103.171.57.123:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+58.186.99.254:80 - BUFFALO
+66.22.216.130:80 - Заголовок не найден
+72.174.132.201:80 - 
+23.208.37.145:80 - Заголовок не найден
+156.245.74.152:80 - æ²¡ææ¾å°ç«ç¹
+195.85.114.192:80 - Login
+192.236.193.70:80 - Заголовок не найден
+196.25.144.253:80 - 
+157.7.222.174:80 - 403 Forbidden
+162.251.82.139:80 - Direct IP access not allowed | Cloudflare
+51.79.248.227:80 - Sorry, the website has been stopped
+64.234.201.150:80 - Remington Furniture
+107.154.179.198:80 - Заголовок не найден
+23.199.130.129:80 - Заголовок не найден
+116.241.137.45:80 - 
+23.37.177.80:80 - Заголовок не найден
+91.243.50.11:80 - The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-06-18.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-06-18.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-06-18.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-06-18.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-06-18.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-06-18.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-06-18.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-06-18.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-06-18.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-06-18.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-06-18.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-06-18.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: file_put_contents(/home/user/www/kinobaza/storage/framework/sessions/FoLZyW1cYHI5lhkILUx8W67l9gJa4faICUSCeYQI): Failed to open stream: Permission denied
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+36.233.53.201:80 - Заголовок не найден
+37.139.111.249:80 - 
+172.67.141.20:80 - Direct IP access not allowed | Cloudflare
+87.106.232.83:80 - Web Server's Default Page
+8.217.168.106:80 - Заголовок не найден
+113.198.35.152:80 - L7
+3.24.119.21:80 - 403 Forbidden
+13.235.181.252:80 - 503 Service Temporarily Unavailable
+184.84.159.42:80 - Заголовок не найден
+103.206.247.141:80 - Заголовок не найден
+45.231.172.76:80 - RouterOS
+190.117.241.8:80 - Document Error: Not Found
+182.55.245.241:80 - Linksys Smart Wi-Fi
+176.35.123.245:80 - 
+15.164.211.183:80 - 404 Not Found
+20.234.48.126:80 - 404 Not Found
+52.222.239.27:80 - Заголовок не найден
+2.21.238.205:80 - Заголовок не найден
+18.235.55.158:80 - Заголовок не найден
+201.96.99.237:80 - Заголовок не найден
+108.138.92.139:80 - Заголовок не найден
+18.164.51.0:80 - Заголовок не найден
+85.105.18.224:80 - 403 Forbidden
+82.147.71.128:80 - 404 Not Found
+52.26.41.164:80 - Заголовок не найден
+104.107.151.242:80 - Заголовок не найден
+71.79.152.55:80 - 
+158.69.64.5:80 - 404 Not Found
+173.44.62.12:80 - 403 Forbidden
+158.108.64.60:80 - Welcome to webhost7.agro.ku.ac.th
+46.188.51.60:80 - 403 Forbidden
+38.31.198.75:80 - 404 Not Found
+107.23.195.169:80 - Заголовок не найден
+103.60.194.168:80 - Заголовок не найден
+18.238.244.103:80 - Заголовок не найден
+47.206.164.229:80 - Connection denied by Geolocation
+94.35.140.225:80 - .::Welcome to the Web-Based Configurator::.
+181.79.7.69:80 - 
+2.58.85.245:80 - Welcome to XAMPP
+104.209.41.6:80 - Заголовок не найден
+65.49.50.6:80 - 
+23.220.185.204:80 - Заголовок не найден
+143.198.148.160:80 - 404 Not Found
+75.119.152.214:80 - Success!
+98.67.132.96:80 - Your Azure Function App is up and running.
+52.86.75.190:80 - Заголовок не найден
+199.232.222.68:80 - Fastly error: unknown domain 199.232.222.68
+52.149.196.116:80 - Your Azure Function App is up and running.
+18.141.245.81:80 - Заголовок не найден
+23.194.78.232:80 - Заголовок не найден
+208.186.112.76:80 - Apache HTTP Server Test Page powered by CentOS
+23.39.59.172:80 - Заголовок не найден
+20.6.155.212:80 - Apache2 Ubuntu Default Page: It works
+198.12.92.197:80 - 404 Not Found
+186.130.50.244:80 - Заголовок не найден
+195.248.191.120:80 - 403 Forbidden
+199.250.203.249:80 - Заголовок не найден
+156.59.136.248:80 - 403 Forbidden
+23.36.215.120:80 - Заголовок не найден
+66.22.236.6:80 - Заголовок не найден
+155.159.70.6:80 - 403 Forbidden
+82.78.112.14:80 - RS000922 MI TUNARI 3
+2.22.101.86:80 - Заголовок не найден
+80.122.129.194:80 - ACME Access Only
+192.53.169.58:80 - Cloudron - Not Found
