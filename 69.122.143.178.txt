@@ -4941,3 +4941,4 @@ sted URL could not be retrieved
 20.113.166.75:80 - 403 Forbidden
 61.91.126.56:80 - Заголовок не найден
 52.218.217.122:80 - Amazon S3 - Cloud Object Storage  - AWS
+194.15.113.97:80 - 500 Internal Server Error
