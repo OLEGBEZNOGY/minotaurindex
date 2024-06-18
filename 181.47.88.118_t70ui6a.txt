@@ -985,3 +985,23 @@
 161.71.92.157:80 - 403 - Forbidden: Access is denied.
 127.145.242.151:80 - IIS Windows
 203.23.103.72:80 - Direct IP access not allowed | Cloudflare
+18.102.131.215:80 - Заголовок не найден
+47.243.183.44:80 - Заголовок не найден
+127.147.24.142:80 - IIS Windows
+195.201.142.122:80 - Web Server's Default Page
+52.84.78.28:80 - Заголовок не найден
+134.236.192.208:80 - 403 Forbidden
+190.199.74.113:80 - 
+150.60.198.67:80 - ãã¬ãçªçµå¶ä½ä¼ç¤¾ FILM Design Works
+134.158.191.8:80 - WithSecureâ¢ Policy Manager Proxy
+127.237.62.107:80 - IIS Windows
+127.101.185.240:80 - IIS Windows
+61.96.175.197:80 - Заголовок не найден
+154.216.190.67:80 - 403 Forbidden
+127.68.43.163:80 - IIS Windows
+80.80.176.232:80 - 403 Forbidden
+127.19.122.113:80 - IIS Windows
+195.225.77.77:80 - Web Server's Default Page
+178.128.29.189:80 - 503 Service Temporarily Unavailable
+34.232.215.79:80 - Заголовок не найден
+192.185.59.2:80 - Not Acceptable!
