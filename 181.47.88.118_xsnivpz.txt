@@ -10484,3 +10484,30 @@ products such as budweiser in South Brunswick, NJ.
 127.53.88.136:80 - IIS Windows
 127.183.213.24:80 - IIS Windows
 104.247.160.129:80 - Home â® 434 BiliÅim ve DanÄ±ÅmanlÄ±k Hizmetleri
+127.56.224.24:80 - IIS Windows
+127.168.146.13:80 - IIS Windows
+35.156.131.192:80 - 403 Forbidden
+5.250.130.191:80 - GPON Home Gateway
+81.21.206.180:80 - FreePBX Administration
+202.62.80.43:80 - Document Moved
+139.196.140.161:80 - 500 Internal Server Error
+104.20.59.63:80 - Direct IP access not allowed | Cloudflare
+192.185.108.7:80 - Not Acceptable!
+127.176.226.37:80 - IIS Windows
+148.59.252.149:80 - Document Moved
+127.162.244.6:80 - IIS Windows
+34.80.68.198:80 - Welcome to nginx!
+127.109.209.62:80 - IIS Windows
+127.245.230.225:80 - IIS Windows
+18.154.138.196:80 - Заголовок не найден
+127.111.149.44:80 - IIS Windows
+18.154.45.152:80 - Заголовок не найден
+74.50.86.20:80 - Заголовок не найден
+127.122.111.183:80 - IIS Windows
+127.66.129.153:80 - IIS Windows
+127.129.82.43:80 - IIS Windows
+43.139.170.174:80 - æ²¡ææ¾å°ç«ç¹
+127.242.5.58:80 - IIS Windows
+52.81.143.12:80 - 404 Not Found
+13.224.125.184:80 - Заголовок не найден
+23.41.208.168:80 - Заголовок не найден
