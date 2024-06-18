@@ -2194,3 +2194,8 @@
 1.34.81.140:80 - WEB SERVICE
 154.22.243.124:80 - 404 Not Found
 127.254.41.218:80 - IIS Windows
+127.224.228.110:80 - IIS Windows
+50.3.91.99:80 - 407 Proxy Authentication Required
+38.162.67.224:80 - 403 Forbidden
+127.166.17.80:80 - IIS Windows
+18.161.36.26:80 - Заголовок не найден
