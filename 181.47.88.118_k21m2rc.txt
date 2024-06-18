@@ -10180,3 +10180,10 @@
 127.131.163.198:80 - IIS Windows
 127.201.86.235:80 - IIS Windows
 150.136.74.238:80 - Apache2 Ubuntu Default Page: It works
+212.59.90.9:80 - Заголовок не найден
+46.161.38.237:80 - 404 Not Found
+47.105.38.136:80 - ç½ç«è®¿é®æ¥é
+45.60.152.9:80 - Заголовок не найден
+104.20.131.182:80 - Direct IP access not allowed | Cloudflare
+54.164.162.59:80 - 502 Bad Gateway
+64.64.153.233:80 - Document Moved
