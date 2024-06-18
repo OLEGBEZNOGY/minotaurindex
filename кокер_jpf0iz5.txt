@@ -271,3 +271,108 @@
 178.236.239.96:80 - Welcome to nginx!
 2.18.128.35:80 - Заголовок не найден
 66.206.37.200:80 - Заголовок не найден
+46.41.166.183:80 - Strona w przygotowaniu
+209.250.238.149:80 - 404 Not Found
+8.138.59.37:80 - ç½ç»å®å¨æå¡å¹³å°
+65.155.14.221:80 - Web Site Blocked
+113.198.41.38:80 - L7
+91.149.218.241:80 - Coming Soon - 988hotline.illinois.gov
+45.87.121.50:80 - Apache2 Ubuntu Default Page: It works
+13.127.183.226:80 - Mobeix
+162.214.64.44:80 - Заголовок не найден
+45.204.88.9:80 - 404 Not Found
+99.84.14.183:80 - Заголовок не найден
+192.3.32.135:80 - ERROR: The requested URL could not be retrieved
+1.159.24.6:80 - IIS Windows Server
+82.20.224.241:80 - WEB SERVICE
+202.138.165.88:80 - Заголовок не найден
+192.250.231.99:80 - Заголовок не найден
+69.163.193.124:80 - phpMyAdmin
+108.156.226.173:80 - Заголовок не найден
+23.52.26.204:80 - Заголовок не найден
+195.179.239.210:80 - 403 Forbidden
+64.187.234.190:80 - ERROR: The requested URL could not be retrieved
+162.159.34.143:80 - Direct IP access not allowed | Cloudflare
+134.209.87.156:80 - Заголовок не найден
+66.39.13.46:80 - Sealie Software
+104.25.149.110:80 - Direct IP access not allowed | Cloudflare
+3.139.202.140:80 - X Tracking
+43.153.110.196:80 - IIS Windows Server
+108.143.6.218:80 - Заголовок не найден
+38.108.103.146:80 - 403 - Forbidden: Access is denied.
+20.211.114.95:80 - 
+66.35.110.172:80 - Web Site Blocked
+65.108.223.237:80 - Success!
+51.145.116.223:80 - Заголовок не найден
+18.172.137.159:80 - Заголовок не найден
+20.221.33.58:80 - Заголовок не найден
+82.223.175.231:80 - Заголовок не найден
+40.76.218.124:80 - IIS Windows Server
+78.47.124.75:80 - Заголовок не найден
+107.149.116.131:80 - Заголовок не найден
+134.236.63.118:80 - 403 Forbidden
+23.221.109.67:80 - Заголовок не найден
+103.183.243.154:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+190.215.49.123:80 - Apache2 Debian Default Page: It works
+75.2.28.99:80 - 404 Not Found
+121.190.220.218:80 - CMS Web Viewer
+104.81.127.98:80 - Заголовок не найден
+192.177.188.129:80 - 404 Not Found
+162.248.155.102:80 - Hillbilly Weather Station
+104.140.155.16:80 - 403 Forbidden
+54.218.70.22:80 - Sign in to your account
+171.67.71.84:80 - Stanford Internet Research
+116.62.136.43:80 - Archery
+23.205.71.40:80 - Заголовок не найден
+91.107.156.134:80 - Заголовок не найден
+104.122.112.83:80 - Заголовок не найден
+181.199.86.33:80 - Заголовок не найден
+98.235.90.143:80 - 
+173.247.26.55:80 - Barix Streaming Client
+5.157.21.69:80 - 407 Proxy Authentication Required
+54.231.135.187:80 - Amazon S3 - Cloud Object Storage  - AWS
+118.214.140.197:80 - Заголовок не найден
+185.22.92.91:80 - Not Found
+52.0.103.68:80 - The page you were looking for doesn't exist (404)
+80.249.145.102:80 - MSL-Auth
+18.189.71.157:80 - Заголовок не найден
+54.230.124.244:80 - Заголовок не найден
+23.211.175.101:80 - Заголовок не найден
+182.92.175.151:80 - 404 Not Found
+77.55.167.245:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+167.203.48.57:80 - 401 Unauthorized
+193.107.77.43:80 - Заголовок не найден
+162.33.163.141:80 - Заголовок не найден
+217.11.81.34:80 - Заголовок не найден
+211.225.92.35:80 - IIS Windows
+104.21.92.121:80 - Direct IP access not allowed | Cloudflare
+18.64.18.6:80 - Заголовок не найден
+52.216.113.170:80 - Amazon S3 - Cloud Object Storage  - AWS
+3.164.10.163:80 - Заголовок не найден
+3.21.107.230:80 - Заголовок не найден
+67.231.252.56:80 - Заголовок не найден
+45.38.182.5:80 - Заголовок не найден
+170.254.250.70:80 - RouterOS router configuration page
+44.210.10.37:80 - eCornell | Log in
+45.64.227.42:80 - Please wait, the login page is opening...
+23.59.156.208:80 - Заголовок не найден
+52.15.164.149:80 - Welcome to your Strapi app
+8.222.167.158:80 - 403 Forbidden
+45.112.243.162:80 - Please wait, the login page is opening...
+75.131.169.40:80 - 
+38.152.81.15:80 - ERROR: The requested URL could not be retrieved
+185.2.163.59:80 - Page not found
+52.12.202.169:80 - Заголовок не найден
+203.101.225.41:80 - 404 Not Found
+51.107.238.177:80 - Microsoft Azure Web App - Error 404
+4.152.74.18:80 - Your Azure Function App is up and running.
+218.145.70.150:80 - Заголовок не найден
+37.140.99.68:80 - 
+47.107.47.254:80 - 404 Not Found
+184.50.113.133:80 - Заголовок не найден
+49.7.87.130:80 - 403 Forbidden
+170.39.76.38:80 - Заголовок не найден
+173.66.167.137:80 - Hello! Welcome to Synology Web Station!
+89.161.154.122:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+37.251.182.238:80 - Заголовок не найден
+36.37.134.215:80 - 
