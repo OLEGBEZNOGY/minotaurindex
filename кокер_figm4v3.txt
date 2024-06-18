@@ -13623,3 +13623,139 @@
 46.0.237.47:80 - Default Site
 175.111.56.7:80 - 
 213.218.240.124:80 - Заголовок не найден
+185.101.204.87:80 - Заголовок не найден
+123.156.199.6:80 - 403 Forbidden
+220.133.166.41:80 - 
+181.47.254.229:80 - 404 Not Found
+185.179.216.71:80 - Apache2 Ubuntu Default Page: It works
+77.55.142.243:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+184.27.175.49:80 - Заголовок не найден
+88.198.38.85:80 - Заголовок не найден
+86.162.60.189:80 - Apache2 Ubuntu Default Page: It works
+54.152.56.6:80 - Welcome to WildFly
+220.133.124.9:80 - 
+60.167.226.164:80 - 403 Forbidden
+3.219.10.122:80 - 503 Service Temporarily Unavailable
+123.193.151.217:80 - Remote Surveillance, Any time &amp; Any where
+23.44.189.104:80 - Заголовок не найден
+185.17.144.97:80 - citrusbreeze.digital &mdash; Coming Soon
+20.212.110.185:80 - 403 Forbidden
+13.228.19.5:80 - User&#039;s blog
+176.58.99.191:80 - Nigeria - ICDL Africa
+213.171.65.95:80 - Xelion Phone System
+95.216.215.163:80 - Powered by CapRover
+217.128.145.245:80 - Заголовок не найден
+46.117.247.34:80 - Заголовок не найден
+188.213.20.223:80 - cyber_Folks
+199.232.21.80:80 - Fastly error: unknown domain 199.232.21.80
+119.8.153.27:80 - Aula Virtual Caja Huancayo: Entrar al sitio
+85.102.178.226:80 - 
+69.163.236.125:80 - Homepage - Heart+Mind Strategies
+23.206.163.139:80 - Заголовок не найден
+167.172.151.79:80 - Laravel
+200.90.145.92:80 - ONT-4GE-2VW
+23.203.96.157:80 - Заголовок не найден
+212.50.85.78:80 - RouterOS router configuration page
+200.23.135.91:80 - Welcome to nginx!
+104.159.254.173:80 - 
+35.241.40.149:80 - MadChef
+43.207.152.226:80 - Sample Deployment
+142.93.249.222:80 - 403 Forbidden
+192.162.103.121:80 - Login to Cacti
+62.154.241.208:80 - 401 Unauthorized
+207.244.244.252:80 - server ghost
+156.234.10.73:80 - 404 Not Found
+38.11.215.180:80 - 404 Not Found
+27.125.203.105:80 - 
+193.168.5.249:80 - HTML SiteMap
+77.68.119.21:80 - Jeff's links page on Ionos
+104.71.70.30:80 - Заголовок не найден
+221.145.159.235:80 - Заголовок не найден
+80.28.101.47:80 - Zimbra Web Client Sign In
+40.119.134.139:80 - IIS Windows Server
+2.19.137.165:80 - Заголовок не найден
+108.165.48.130:80 - Заголовок не найден
+38.154.115.81:80 - ERROR: The requested URL could not be retrieved
+23.50.157.246:80 - Заголовок не найден
+211.22.247.20:80 - 403 Forbidden
+23.111.184.102:80 - IIS Windows Server
+23.59.22.12:80 - Заголовок не найден
+195.159.128.162:80 - Firewall Authentication
+161.117.177.251:80 - Error
+4.176.45.226:80 - Microsoft Azure Web App - Error 404
+45.150.165.106:80 - 403 Forbidden
+188.128.225.36:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+68.178.222.113:80 - Coming Soon
+23.193.226.114:80 - Заголовок не найден
+85.105.241.129:80 - 
+84.22.119.5:80 - Заголовок не найден
+154.209.114.149:80 - Welcome to nginx!
+94.46.30.74:80 - Заголовок не найден
+185.234.69.152:80 - MovEx Client Portal
+13.235.0.221:80 - Заголовок не найден
+58.144.241.47:80 - Заголовок не найден
+169.255.6.150:80 - RouterOS router configuration page
+23.220.233.208:80 - Заголовок не найден
+78.139.107.134:80 - Заголовок не найден
+38.33.215.104:80 - 403 Forbidden
+5.44.104.222:80 - Web Server's Default Page
+46.18.43.28:80 - Заголовок не найден
+148.101.158.82:80 - 
+106.127.135.137:80 - Заголовок не найден
+5.161.69.204:80 - Заголовок не найден
+121.41.80.109:80 - 403 Forbidden
+45.152.46.183:80 - 403 Forbidden
+47.106.251.214:80 - 404 Not Found
+156.213.39.114:80 - 
+85.16.72.220:80 - 403 - Verboten: Zugriff verweigert.
+74.208.39.161:80 - Web Server's Default Page
+172.120.58.203:80 - 403 Forbidden
+87.97.95.113:80 - Заголовок не найден
+104.68.96.150:80 - Заголовок не найден
+112.120.113.91:80 - 403 Forbidden
+148.251.51.59:80 - 403 Forbidden
+52.219.111.140:80 - Amazon S3 - Cloud Object Storage  - AWS
+34.201.160.107:80 - HTTP 403 : Forbidden
+45.223.174.248:80 - Заголовок не найден
+23.196.234.237:80 - Заголовок не найден
+172.65.220.254:80 - Direct IP access not allowed | Cloudflare
+124.10.1.203:80 - Заголовок не найден
+108.158.136.202:80 - Заголовок не найден
+219.84.212.10:80 - WEB SERVICE
+198.145.132.28:80 - Apache2 Ubuntu Default Page: It works
+193.105.234.139:80 - Заголовок не найден
+43.247.40.164:80 - Please wait, the login page is opening...
+43.143.139.64:80 - Welcome to OpenResty!
+35.166.15.208:80 - Заголовок не найден
+99.238.236.227:80 - WEB SERVICE
+149.96.32.218:80 - 403 Forbidden
+122.10.112.183:80 - Заголовок не найден
+104.196.168.51:80 - Site Not Configured | 404 Not Found
+63.117.97.160:80 - Заголовок не найден
+168.119.159.120:80 - 403 Forbidden
+136.226.250.165:80 - Internet Security by Zscaler
+174.141.239.167:80 - IIS Windows Server
+103.206.125.98:80 - 404 Not Found
+209.182.238.208:80 - 404 Not Found
+178.18.214.243:80 - Заголовок не найден
+112.161.71.13:80 - main page
+23.226.123.232:80 - Заголовок не найден
+23.215.249.36:80 - Заголовок не найден
+131.150.128.178:80 - 
+114.215.87.232:80 - WearinOS
+163.172.75.247:80 - Serveur Dedibox en maintenance
+23.205.10.149:80 - Заголовок не найден
+3.115.94.196:80 - HTTP Server Test Page powered by CentOS
+34.192.33.35:80 - Registro Nacional de Turismo - RNT
+3.20.124.168:80 - Заголовок не найден
+23.51.43.178:80 - Заголовок не найден
+139.13.101.130:80 - IIS7
+194.160.76.119:80 - AGLO solutions
+31.129.51.135:80 - Morion Tech
+208.78.220.154:80 - IIS Windows Server
+54.152.102.120:80 - Wholesale cell phone repair parts from China-Ipartsexpert.com
+43.154.49.224:80 - 500 Internal Server Error
+49.158.220.5:80 - DVR
+107.158.6.136:80 - 403 Forbidden
+109.75.177.149:80 - 
+161.71.61.93:80 - Error
