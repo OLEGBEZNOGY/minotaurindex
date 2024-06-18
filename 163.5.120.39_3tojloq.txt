@@ -3760,3 +3760,217 @@
 127.24.24.242:80 - Welcome to XAMPP
 127.175.62.255:80 - Welcome to XAMPP
 89.165.6.136:80 - Welcome to nginx!
+196.51.97.117:80 - ERROR: The requested URL could not be retrieved
+91.215.191.172:80 - Index of /
+3.75.105.216:80 - Заголовок не найден
+99.84.20.132:80 - Заголовок не найден
+89.117.228.93:80 - 403 Forbidden
+91.203.4.151:80 - ÐÐ°Ð±Ð»Ð¾ÐºÐ¸ÑÐ¾Ð²Ð°Ð½Ð½ÑÐ¹ Ð´Ð¾Ð¼ÐµÐ½
+60.255.143.198:80 - 403 Forbidden
+78.47.22.46:80 - Заголовок не найден
+127.229.211.15:80 - Welcome to XAMPP
+127.202.146.54:80 - Welcome to XAMPP
+116.63.145.207:80 - Welcome to nginx!
+94.241.141.43:80 - 404 Not Found
+127.235.129.42:80 - Welcome to XAMPP
+103.234.121.161:80 - Заголовок не найден
+127.48.25.52:80 - Welcome to XAMPP
+188.66.127.86:80 - 403 - Forbidden
+185.137.122.2:80 - 403 Forbidden
+127.197.135.244:80 - Welcome to XAMPP
+106.15.218.252:80 - 403 Forbidden
+173.254.92.108:80 - Not Acceptable!
+188.166.166.73:80 - 502 Bad Gateway
+127.126.190.218:80 - Welcome to XAMPP
+20.50.187.124:80 - Заголовок не найден
+127.156.69.198:80 - Welcome to XAMPP
+127.212.207.36:80 - Welcome to XAMPP
+23.94.107.25:80 - Welcome to nginx!
+20.67.216.250:80 - Microsoft Azure Web App - Error 404
+127.109.232.224:80 - Welcome to XAMPP
+104.238.173.196:80 - Unknown Domain
+95.173.178.198:80 - Заголовок не найден
+127.14.41.113:80 - Welcome to XAMPP
+185.84.180.25:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+127.209.21.145:80 - Welcome to XAMPP
+127.251.183.0:80 - Welcome to XAMPP
+183.77.175.170:80 - Заголовок не найден
+127.138.205.205:80 - Welcome to XAMPP
+64.85.208.206:80 - 
+127.191.247.40:80 - Welcome to XAMPP
+127.179.212.224:80 - Welcome to XAMPP
+18.64.178.139:80 - Заголовок не найден
+149.143.67.62:80 - Заголовок не найден
+72.194.238.231:80 - Document Moved
+108.157.184.254:80 - Заголовок не найден
+71.85.149.11:80 - 
+127.86.122.8:80 - Welcome to XAMPP
+104.91.113.10:80 - Заголовок не найден
+151.14.29.6:80 - Заголовок не найден
+127.228.87.183:80 - Welcome to XAMPP
+13.249.45.10:80 - Заголовок не найден
+127.189.252.143:80 - Welcome to XAMPP
+83.234.34.4:80 - Спутниковый провайдер: спутниковый Интернет, передача данных, технологическая связь, VSAT, ООО " Байкитская космическая связь-Искра"
+193.135.59.17:80 - 403 Forbidden
+127.182.70.213:80 - Welcome to XAMPP
+186.189.234.1:80 - Instituto Católico Superior - Sistema Web
+196.247.225.126:80 - 407 Proxy Authentication Required
+127.20.144.41:80 - Welcome to XAMPP
+23.111.141.5:80 - IIS Windows Server
+104.104.133.239:80 - Заголовок не найден
+154.209.52.62:80 - 404 Not Found
+94.177.146.30:80 - 403 Forbidden
+127.193.52.204:80 - Welcome to XAMPP
+127.72.121.52:80 - Welcome to XAMPP
+3.89.214.108:80 - Заголовок не найден
+139.175.236.201:80 - Заголовок не найден
+127.28.36.158:80 - Welcome to XAMPP
+101.35.88.193:80 - 404 Not Found
+138.113.222.248:80 - Welcome to nginx!
+194.33.40.226:80 - Index of /
+23.40.87.78:80 - Заголовок не найден
+127.42.227.230:80 - Welcome to XAMPP
+127.205.59.232:80 - Welcome to XAMPP
+154.44.23.170:80 - å¯åè·³è½¬æç¤ºæ404çèå¤©ç½äºä¸»é¢å¨ç»æ¨¡æ¿
+120.26.219.198:80 - Apache2 Ubuntu Default Page: It works
+104.206.35.168:80 - ERROR: The requested URL could not be retrieved
+50.211.149.102:80 - Welcome to nginx!
+84.247.3.234:80 - Заголовок не найден
+120.96.38.120:80 - Заголовок не найден
+127.176.124.35:80 - Welcome to XAMPP
+127.53.62.141:80 - Welcome to XAMPP
+127.153.147.29:80 - Welcome to XAMPP
+43.200.228.25:80 - Test Page for the Nginx HTTP Server on Amazon Linux
+190.147.82.116:80 - Заголовок не найден
+47.111.221.39:80 - 登录页面
+5.134.14.122:80 - Заголовок не найден
+127.18.29.241:80 - Welcome to XAMPP
+127.84.29.202:80 - Welcome to XAMPP
+127.100.171.55:80 - Welcome to XAMPP
+194.146.142.11:80 - 403 Forbidden
+52.195.182.143:80 - User&#039;s blog
+23.33.139.117:80 - Заголовок не найден
+18.66.82.148:80 - Заголовок не найден
+127.40.9.26:80 - Welcome to XAMPP
+127.80.92.255:80 - Welcome to XAMPP
+127.233.192.152:80 - Welcome to XAMPP
+127.29.148.102:80 - Welcome to XAMPP
+220.241.214.246:80 - AppServ Open Project 2.5.10
+107.161.90.74:80 - Заголовок не найден
+3.161.187.13:80 - Заголовок не найден
+211.159.221.21:80 - Заголовок не найден
+135.125.180.186:80 - 
+104.23.124.206:80 - Direct IP access not allowed | Cloudflare
+151.101.46.150:80 - Access to this page has been denied.
+127.192.253.134:80 - Welcome to XAMPP
+127.18.50.137:80 - Welcome to XAMPP
+154.39.231.184:80 - 404 Not Found
+156.229.11.99:80 - æ²¡ææ¾å°ç«ç¹
+127.168.59.73:80 - Welcome to XAMPP
+84.188.21.147:80 - 401 - Nicht autorisiert: Zugriff aufgrund ungültiger Anmeldeinformationen verweigert.
+127.101.38.18:80 - Welcome to XAMPP
+104.90.253.189:80 - Заголовок не найден
+67.22.195.240:80 - UniFi Protect
+127.52.197.164:80 - Welcome to XAMPP
+50.16.231.8:80 - Заголовок не найден
+82.149.187.6:80 - Заголовок не найден
+196.51.5.90:80 - ERROR: The requested URL could not be retrieved
+153.95.92.75:80 - Заголовок не найден
+192.145.234.151:80 - PCB Assembly USA - Electronic Manufacturing Services Company | Titan Circuits
+127.30.77.196:80 - Welcome to XAMPP
+127.178.166.119:80 - Welcome to XAMPP
+23.79.56.218:80 - Заголовок не найден
+103.175.217.34:80 - Welcome to nginx!
+127.115.192.23:80 - Welcome to XAMPP
+196.51.119.96:80 - ERROR: The requested URL could not be retrieved
+127.156.225.237:80 - Welcome to XAMPP
+127.60.206.5:80 - Welcome to XAMPP
+23.61.240.203:80 - Заголовок не найден
+127.28.141.190:80 - Welcome to XAMPP
+127.54.46.174:80 - Welcome to XAMPP
+1.246.195.35:80 - main page
+18.245.206.11:80 - Заголовок не найден
+127.78.254.67:80 - Welcome to XAMPP
+23.43.140.137:80 - Заголовок не найден
+20.60.196.2:80 - Заголовок не найден
+218.32.157.41:80 - 401 Unauthorized
+127.140.78.177:80 - Welcome to XAMPP
+104.165.143.213:80 - 403 Forbidden
+62.183.2.204:80 - Заголовок не найден
+72.247.69.176:80 - Заголовок не найден
+127.147.89.35:80 - Welcome to XAMPP
+89.108.117.20:80 - Заголовок не найден
+127.71.11.105:80 - Welcome to XAMPP
+127.18.194.18:80 - Welcome to XAMPP
+84.199.85.101:80 - 
+199.232.54.182:80 - Fastly error: unknown domain 199.232.54.182
+139.196.54.23:80 - è¥ä¾ç®¡çç³»ç»
+184.27.142.248:80 - Заголовок не найден
+127.75.113.7:80 - Welcome to XAMPP
+197.220.84.164:80 - Заголовок не найден
+93.145.127.166:80 - IIS Windows Server
+127.46.224.40:80 - Welcome to XAMPP
+104.16.198.159:80 - Direct IP access not allowed | Cloudflare
+23.48.29.17:80 - Заголовок не найден
+3.161.132.84:80 - Заголовок не найден
+136.144.142.72:80 - Заголовок не найден
+122.114.174.210:80 - 404 Not Found
+47.111.152.66:80 - 403 Forbidden
+127.190.154.50:80 - Welcome to XAMPP
+62.26.7.156:80 - Заголовок не найден
+184.86.158.130:80 - Заголовок не найден
+111.48.120.185:80 - Заголовок не найден
+188.128.157.50:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+190.80.196.127:80 - 
+127.189.173.146:80 - Welcome to XAMPP
+20.72.221.15:80 - Microsoft Azure Web App - Error 404
+127.249.2.226:80 - Welcome to XAMPP
+88.80.145.83:80 - Заголовок не найден
+127.216.47.181:80 - Welcome to XAMPP
+104.16.247.207:80 - Direct IP access not allowed | Cloudflare
+127.145.15.106:80 - Welcome to XAMPP
+144.21.32.143:80 - 404 Not Found
+107.148.5.210:80 - Заголовок не найден
+2.22.228.218:80 - Заголовок не найден
+137.184.240.75:80 - 404 Not Found
+18.239.237.30:80 - Заголовок не найден
+201.182.85.66:80 - RouterOS
+104.115.23.248:80 - Заголовок не найден
+127.112.59.21:80 - Welcome to XAMPP
+200.58.107.129:80 - Заголовок не найден
+101.201.120.85:80 - 明日科技
+127.176.56.224:80 - Welcome to XAMPP
+4.228.145.55:80 - Заголовок не найден
+54.209.114.145:80 - Theta App
+50.28.8.164:80 - Domain Default page
+23.219.209.241:80 - Заголовок не найден
+127.175.133.102:80 - Welcome to XAMPP
+23.46.226.7:80 - Заголовок не найден
+190.119.238.31:80 - 404 Not Found
+96.43.102.137:80 - Заголовок не найден
+133.125.86.96:80 - HTTP Server Test Page powered by: Rocky Linux
+77.55.158.157:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+127.94.186.92:80 - Welcome to XAMPP
+127.32.78.231:80 - Welcome to XAMPP
+199.67.85.148:80 - 400 Bad Request
+50.113.51.157:80 - hue personal wireless lighting
+45.204.116.12:80 - Sorry, the website has been stopped
+117.24.6.80:80 - è¯¥ç½ç«ææ¶æ æ³è¿è¡è®¿é®
+127.171.33.30:80 - Welcome to XAMPP
+23.211.81.53:80 - Заголовок не найден
+195.154.60.107:80 - Заголовок не найден
+43.203.41.29:80 - HTTP Status 404 – Not Found
+116.62.53.193:80 - ç½ç«è®¿é®æ¥é
+52.216.42.100:80 - Amazon S3 - Cloud Object Storage  - AWS
+109.238.165.79:80 - Welcome to nginx!
+127.142.56.129:80 - Welcome to XAMPP
+3.108.223.38:80 - 404 Not Found
+108.158.214.103:80 - Заголовок не найден
+184.28.177.142:80 - Заголовок не найден
+89.47.56.248:80 - Direct IP access not allowed | Cloudflare
+43.206.191.184:80 - Заголовок не найден
+104.89.115.233:80 - Заголовок не найден
+20.115.82.11:80 - Apache2 Ubuntu Default Page: It works
+127.126.113.141:80 - Welcome to XAMPP
+54.74.197.237:80 - BT Digital - Better Life
+184.30.90.68:80 - Заголовок не найден
