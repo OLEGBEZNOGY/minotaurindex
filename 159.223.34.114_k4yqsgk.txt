@@ -6788,3 +6788,19 @@ Systems
 96.6.233.200:80 - Заголовок не найден
 212.114.114.71:80 - Заголовок не найден
 2.20.68.233:80 - Заголовок не найден
+18.173.185.82:80 - Заголовок не найден
+23.22.4.254:80 - 404 Not Found
+23.64.244.184:80 - Заголовок не найден
+134.122.20.31:80 - Hyperlink Forum - A course platform and online school built for seriously effective learning.
+143.89.17.177:80 - Online Learning Platform
+103.21.97.103:80 - Apache HTTP Server Test Page powered by CentOS
+5.39.117.62:80 - Connexion | Déclaration des éléments variables | SCB
+134.236.161.231:80 - &#72;&#56;&#49;&#48;&#50;&#69;
+153.120.32.61:80 - 401 Unauthorized
+101.132.117.239:80 - 403 Forbidden
+47.102.113.117:80 - 403 - ½ûÖ¹·ÃÎÊ: ·ÃÎÊ±»¾Ü¾ø¡£
+151.1.24.105:80 - Home - dpsonline* | Agenzia di comunicazione web marketing Genova
+159.223.213.65:80 - Sign in · GitLab
+184.50.71.197:80 - Заголовок не найден
+23.36.133.30:80 - Заголовок не найден
+18.244.82.220:80 - Заголовок не найден
