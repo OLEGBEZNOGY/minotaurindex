@@ -13067,3 +13067,14 @@
 178.203.26.80:80 - benserver&nbsp;-&nbsp;Synology&nbsp;DiskStation
 127.59.152.61:80 - IIS Windows
 127.96.230.242:80 - IIS Windows
+23.202.149.245:80 - Заголовок не найден
+94.224.138.89:80 - 
+52.16.196.14:80 - Apache2 Ubuntu Default Page: It works
+154.205.123.84:80 - 404 Not Found
+170.85.8.138:80 - Internet Security by Zscaler
+104.107.233.186:80 - Заголовок не найден
+180.222.164.243:80 - Заголовок не найден
+127.132.45.215:80 - IIS Windows
+45.67.35.149:80 - FASTPANEL
+127.13.248.137:80 - IIS Windows
+127.104.26.203:80 - IIS Windows
