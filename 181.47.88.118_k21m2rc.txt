@@ -20974,3 +20974,16 @@
 182.92.109.35:80 - 403 Forbidden
 194.12.14.231:80 - Web Server's Default Page
 204.52.191.19:80 - Заголовок не найден
+77.111.127.85:80 - Заголовок не найден
+161.117.83.163:80 - Apache HTTP Server Test Page powered by CentOS
+185.240.28.86:80 - 404 Not Found
+94.125.163.204:80 - Votre serveur Flex
+77.55.92.46:80 - Domain  is hosted on netart.com servers
+79.137.35.186:80 - Chez Isaline, Maison de coiffure végétale
+54.194.105.197:80 - Заголовок не найден
+127.219.53.115:80 - IIS Windows
+103.66.9.207:80 - Please wait, the login page is opening...
+120.89.95.117:80 - Solis Trading :: Login Page
+13.226.113.81:80 - Заголовок не найден
+152.160.217.194:80 - Заголовок не найден
+212.89.57.28:80 - Test Page for the HTTP Server on AlmaLinux
