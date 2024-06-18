@@ -11532,3 +11532,17 @@ products such as budweiser in South Brunswick, NJ.
 104.247.194.141:80 - 404 Not Found
 127.228.136.194:80 - IIS Windows
 101.132.187.81:80 - EduChat
+34.96.123.163:80 - 403 Forbidden
+13.248.167.116:80 - 503 Service Temporarily Unavailable
+20.116.226.169:80 - 502 Bad Gateway
+49.12.201.80:80 - Default Site
+45.33.116.48:80 - ip-45-33-116-48.cloudezapp.io
+127.228.31.27:80 - IIS Windows
+3.163.8.94:80 - Заголовок не найден
+206.233.177.190:80 - IIS Windows Server
+59.110.172.27:80 - é¿æä¸ä¸­æç½
+194.87.146.183:80 - Welcome to nginx!
+61.70.130.252:80 - Заголовок не найден
+186.6.154.183:80 - 
+127.202.139.10:80 - IIS Windows
+127.155.67.155:80 - IIS Windows
