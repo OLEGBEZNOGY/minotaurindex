@@ -2299,3 +2299,5 @@ sted URL could not be retrieved
 13.249.182.29:80 - Заголовок не найден
 107.175.12.69:80 - 407 Proxy Authentication Required
 192.151.243.232:80 - 管理后台-后台管理-登陆
+78.84.18.112:80 - RouterOS router configuration page
+61.208.203.45:80 - Заголовок не найден
