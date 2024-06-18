@@ -9381,3 +9381,19 @@ products such as budweiser in South Brunswick, NJ.
 127.106.10.8:80 - IIS Windows
 199.232.180.193:80 - Fastly error: unknown domain 199.232.180.193
 200.50.171.254:80 - Error 404 (Not Found)!!1
+134.186.52.41:80 - 404 - File or directory not found.
+127.114.125.125:80 - IIS Windows
+65.207.26.204:80 - Заголовок не найден
+127.242.25.61:80 - IIS Windows
+119.194.135.143:80 - Заголовок не найден
+23.40.183.101:80 - Заголовок не найден
+45.4.173.186:80 - My Blog &#8211; My WordPress Blog
+127.206.79.154:80 - IIS Windows
+198.12.240.68:80 - Home &#8211; CRT Meetings
+127.214.190.137:80 - IIS Windows
+170.130.247.167:80 - 403 Forbidden
+20.86.17.203:80 - 404 Not Found
+23.217.56.117:80 - Заголовок не найден
+47.100.34.6:80 - 403 Forbidden
+46.36.37.161:80 - IIS Windows
+114.214.57.73:80 - 404 Not Found
