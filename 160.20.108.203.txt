@@ -8718,3 +8718,18 @@
 45.76.245.191:80 - Заголовок не найден
 84.51.11.208:80 - IIS Windows Server
 128.140.3.213:80 - Elastic
+110.253.188.169:80 - 404 Not Found
+75.119.145.211:80 - 404 Not Found
+212.8.249.74:80 - Заголовок не найден
+164.90.161.208:80 - Welcome to your Strapi app
+15.185.63.216:80 - Заголовок не найден
+160.124.249.16:80 - 404 Not Found
+38.63.109.150:80 - 404 Not Found
+38.48.143.40:80 - ç½ç«ç»´æ¤ä¸­
+23.223.222.109:80 - Заголовок не найден
+172.105.180.185:80 - Bunbury Golf South West WA
+194.60.248.158:80 - Error 404 (Not Found)!!1
+79.173.87.17:80 - 401 Authorization Required
+74.201.177.106:80 - Заголовок не найден
+46.242.196.58:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+104.20.15.229:80 - Direct IP access not allowed | Cloudflare
