@@ -601,3 +601,11 @@
 213.131.254.42:80 - Заголовок не найден
 87.101.82.192:80 - ERROR: The requested URL could not be retrieved
 170.187.200.211:80 - 503 Service Temporarily Unavailable
+104.65.82.51:80 - Заголовок не найден
+99.209.138.83:80 - Web Site Blocked
+23.203.179.206:80 - Заголовок не найден
+194.6.210.210:80 - maxcluster - Optimized E-Commerce Hosting
+76.99.149.47:80 - Заголовок не найден
+213.202.216.237:80 - Web Server's Default Page
+23.45.6.240:80 - Заголовок не найден
+154.64.254.32:80 - 404 Not Found
