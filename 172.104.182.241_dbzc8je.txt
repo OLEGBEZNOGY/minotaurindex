@@ -7272,3 +7272,98 @@
 52.87.145.131:80 - 502 Bad Gateway
 188.128.195.30:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
 54.213.25.54:80 - Заголовок не найден
+159.89.178.153:80 - HTTP Server Test Page powered by CentOS
+98.149.144.140:80 - 
+27.174.155.40:80 - 401 Unauthorized
+52.58.127.46:80 - HFCENTA
+18.210.177.5:80 - 404 Not Found
+173.233.71.7:80 - Заголовок не найден
+13.35.87.56:80 - Заголовок не найден
+13.33.29.167:80 - Заголовок не найден
+104.22.59.172:80 - Direct IP access not allowed | Cloudflare
+23.214.29.78:80 - Заголовок не найден
+173.205.126.18:80 - Hunt & Hunt Engineering Corp.- Engineering & Environmental Consultants
+35.94.59.159:80 - SniperInsights - Voted #1 Product Research & PPC Software For Amazon Sellers!
+82.138.10.174:80 - 401 Authorization Required
+35.214.213.151:80 - Walsingham Training - Diplomacy and Cultural Training
+45.197.61.125:80 - Welcome to nginx!
+23.192.196.96:80 - Заголовок не найден
+45.86.181.219:80 - Доступ к сайту невозможен
+50.2.82.107:80 - 403 Forbidden
+79.27.70.171:80 - Default Site
+154.12.121.98:80 - ERROR: The requested URL could not be retrieved
+151.241.219.194:80 - Заголовок не найден
+196.51.242.83:80 - ERROR: The requested URL could not be retrieved
+23.218.200.21:80 - Заголовок не найден
+45.114.225.3:80 - Заголовок не найден
+192.3.25.135:80 - 407 Proxy Authentication Required
+192.148.221.46:80 - IIS Windows Server
+74.208.177.155:80 - Web Server's Default Page
+184.191.191.212:80 - Document Moved
+23.52.117.202:80 - Заголовок не найден
+98.64.188.221:80 - Your Azure Function App is up and running.
+195.78.33.197:80 - Apache2 Debian Default Page: It works
+172.175.32.98:80 - Azure Container App - Unavailable
+128.245.81.144:80 - 403 - Forbidden: Access is denied.
+157.21.225.141:80 - EVMS Medical Group
+47.12.98.203:80 - 
+38.63.246.113:80 - Заголовок не найден
+78.97.193.125:80 - 
+23.58.253.224:80 - Заголовок не найден
+189.247.210.186:80 - Заголовок не найден
+104.91.109.211:80 - Заголовок не найден
+184.29.132.130:80 - Заголовок не найден
+203.122.4.121:80 - NETGEAR ReadyNAS
+96.16.223.244:80 - Заголовок не найден
+58.190.158.36:80 - Заголовок не найден
+23.12.185.203:80 - Заголовок не найден
+87.101.82.71:80 - ERROR: The requested URL could not be retrieved
+121.191.215.214:80 - 
+165.140.8.83:80 - Apache2 Ubuntu Default Page: It works
+52.213.169.174:80 - mailcow UI
+23.8.78.239:80 - Заголовок не найден
+14.68.106.34:80 - 
+61.4.115.252:80 - 414 Request-URI Too Large
+156.67.28.94:80 - 404 Not Found
+47.12.235.227:80 - 
+18.154.131.201:80 - Заголовок не найден
+54.192.58.72:80 - Заголовок не найден
+213.149.80.233:80 - Default Site
+23.12.194.21:80 - Заголовок не найден
+138.2.132.49:80 - Заголовок не найден
+130.180.30.6:80 - LANCOM: Error - Access Forbidden
+104.20.157.215:80 - Direct IP access not allowed | Cloudflare
+34.234.190.201:80 - 503 Service Temporarily Unavailable
+184.50.149.67:80 - Заголовок не найден
+23.2.181.253:80 - Заголовок не найден
+38.152.84.124:80 - Заголовок не найден
+23.197.132.47:80 - Заголовок не найден
+160.124.207.23:80 - 404 Not Found
+18.130.219.227:80 - Заголовок не найден
+123.205.28.150:80 - WEB SERVICE
+192.155.92.120:80 - Opalstack: no site here.... yet!
+129.0.63.110:80 - RouterOS router configuration page
+23.212.26.172:80 - Заголовок не найден
+3.38.97.89:80 - test用サイト
+18.67.199.175:80 - Заголовок не найден
+220.134.104.18:80 - Заголовок не найден
+206.183.123.79:80 - Заголовок не найден
+188.26.96.192:80 - 
+23.53.218.113:80 - Заголовок не найден
+52.149.239.46:80 - Your Azure Function App is up and running.
+83.68.241.120:80 - Building Operation WebStation
+35.156.0.70:80 - 404 Not Found
+47.197.231.41:80 - Login
+23.201.210.21:80 - Заголовок не найден
+178.79.245.11:80 - Welcome to nginx!
+13.33.180.16:80 - Заголовок не найден
+184.8.146.249:80 - Server Error
+49.49.94.140:80 - RouterOS router configuration page
+104.96.93.18:80 - Заголовок не найден
+104.208.86.11:80 - 7906
+203.127.105.47:80 - Hitachi Business Information | OT x IT Solutions: Hitachi in India
+84.53.133.38:80 - Заголовок не найден
+189.112.107.38:80 - Web managerment Home
+13.249.208.195:80 - Заголовок не найден
+35.74.66.120:80 - Заголовок не найден
+20.197.113.177:80 - Login Dashboard
