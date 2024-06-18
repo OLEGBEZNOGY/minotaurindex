@@ -4975,3 +4975,7 @@
 43.229.215.114:80 - IIS Windows Server
 127.203.151.65:80 - IIS Windows
 184.25.210.101:80 - Заголовок не найден
+47.244.166.74:80 - 404 Not Found
+51.83.106.131:80 - Apache2 Debian Default Page: It works
+154.212.34.13:80 - åå¢WAF
+127.117.8.47:80 - IIS Windows
