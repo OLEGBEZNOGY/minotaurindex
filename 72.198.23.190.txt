@@ -1413,3 +1413,12 @@ entication Required
 118.190.104.195:80 - Apache Tomcat/7.0.54 - Error report
 
 3.251.27.35:80 - Заголовок не найден
+124.221.174.16:80 - Apache HTTP Server Test Page powered by CentOS
+160.124.181.238:80 - Заголовок не найден
+77.49.226.212:80 - .::Welcome to the Web-Based Configurator::.
+158.175.187.170:80 - Заголовок не найден
+137.74.207.61:80 - Apache2 Ubuntu Default Page: It works
+38.54.236.45:80 - Заголовок не найден
+217.12.210.223:80 - Заголовок не найден
+211.86.55.213:80 - 404 Not Found
+63.116.120.75:80 - 403 Forbidden
