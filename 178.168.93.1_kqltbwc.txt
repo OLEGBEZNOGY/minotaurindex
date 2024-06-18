@@ -469,3 +469,13 @@
 23.81.12.204:80 - Заголовок не найден
 5.35.28.159:80 - Welcome to nginx!
 172.183.104.109:80 - 
+58.19.160.25:80 - 404 Not Found
+201.91.87.18:80 - 
+217.160.109.123:80 - H&eacute;bergement, enregistrement de nom de domaine et services internet par 1&amp;1 Internet
+23.208.101.130:80 - Заголовок не найден
+52.10.189.118:80 - 503 Service Temporarily Unavailable
+61.7.228.143:80 - ARIT - TEN by Lect.Jakkraphong Khampha
+217.26.50.238:80 - Seite nicht verfügbar
+3.130.226.78:80 - user&#039;s Blog! &#8211; Just another WordPress site TESTING
+94.158.179.35:80 - Заголовок не найден
+208.175.131.65:80 - 
