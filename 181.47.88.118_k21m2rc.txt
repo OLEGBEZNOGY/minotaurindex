@@ -18638,3 +18638,8 @@
 127.79.89.78:80 - IIS Windows
 212.66.35.105:80 - Welcome to nginx!
 104.77.15.151:80 - Заголовок не найден
+127.196.164.141:80 - IIS Windows
+104.79.240.249:80 - Заголовок не найден
+127.166.162.62:80 - IIS Windows
+195.93.239.42:80 - Apache HTTP Server Test Page powered by CentOS
+127.174.180.32:80 - IIS Windows
