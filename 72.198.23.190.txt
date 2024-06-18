@@ -1315,3 +1315,7 @@
 31.13.230.143:80 - Welcome to nginx!
 146.75.32.164:80 - Fastly error: unknown domain 146.75.32.164
 52.86.80.81:80 - 404 Not Found
+104.118.150.67:80 - Заголовок не найден
+194.36.33.74:80 - 503 Service Temporarily Unavailable
+8.134.70.244:80 - 404 Not Found
+162.19.20.55:80 - Default Site
