@@ -4266,3 +4266,21 @@
 108.157.177.159:80 - Заголовок не найден
 103.119.21.2:80 - Заголовок не найден
 45.167.34.31:80 - Заголовок не найден
+157.230.213.230:80 - CONCEPTS
+51.75.120.146:80 - Welcome to  paclido-smartcity.com!
+133.242.139.174:80 - Apache HTTP Server Test Page powered by CentOS
+99.84.210.207:80 - Заголовок не найден
+197.243.22.67:80 - adminc.kezalab.rw
+3.165.154.242:80 - Заголовок не найден
+116.204.237.79:80 - Заголовок не найден
+199.232.248.48:80 - Fastly error: unknown domain 199.232.248.48
+51.81.178.67:80 - Error 503: server unavailable
+38.152.30.254:80 - ERROR: The requested URL could not be retrieved
+5.62.63.12:80 - 403 Forbidden
+104.17.98.23:80 - Direct IP access not allowed | Cloudflare
+20.223.47.196:80 - Заголовок не найден
+109.75.134.219:80 - 401 Authorization Required
+102.159.254.186:80 - 403 Forbidden
+24.236.192.125:80 - 
+193.221.195.91:80 - Coming Soon - minecraft.jp.net
+162.159.40.190:80 - Direct IP access not allowed | Cloudflare
