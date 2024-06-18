@@ -1607,3 +1607,21 @@
 134.209.108.156:80 - Welcome to nginx!
 158.199.128.77:80 - Заголовок не найден
 34.223.64.152:80 - Wowza Streaming Engine 4 Subscription Edition 4.8.18+1 build20220318091926
+23.50.255.50:80 - Заголовок не найден
+184.94.128.144:80 - ePMP
+2.134.165.203:80 - GPON Home Gateway
+54.230.83.31:80 - Заголовок не найден
+20.12.124.19:80 - EJBCA Enterprise | PKI by Keyfactor
+81.92.195.251:80 - ERROR: The requested URL could not be retrieved
+179.36.206.24:80 - Заголовок не найден
+194.140.199.32:80 - Apache2 Ubuntu Default Page: It works
+18.161.222.72:80 - Заголовок не найден
+138.197.224.98:80 - 404 Not Found
+47.106.200.192:80 - Заголовок не найден
+173.194.187.167:80 - Error 404 (Not Found)!!1
+79.225.61.216:80 - Apache2 Debian Default Page: It works
+152.195.13.13:80 - 404 - Not Found
+5.181.80.110:80 - Welcome to nginx!
+184.86.1.175:80 - Заголовок не найден
+23.193.207.193:80 - Заголовок не найден
+129.148.27.22:80 - Access forbidden!
