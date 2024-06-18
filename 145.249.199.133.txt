@@ -2929,3 +2929,8 @@
 43.225.191.164:80 - 407 Proxy Authentication Required
 168.119.228.110:80 - Заголовок не найден
 162.240.227.61:80 - Заголовок не найден
+116.12.51.216:80 - 403 Forbidden
+54.148.195.146:80 - Заголовок не найден
+47.242.251.103:80 - 404 Not Found
+157.167.92.150:80 - Unreportable error
+154.3.77.47:80 - Apache HTTP Server Test Page powered by CentOS
