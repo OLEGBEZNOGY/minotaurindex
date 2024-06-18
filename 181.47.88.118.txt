@@ -1569,3 +1569,19 @@
 52.25.8.101:80 - Welcome to OpenShift
 218.247.95.246:80 - 403 Forbidden
 108.157.47.0:80 - Заголовок не найден
+207.204.53.132:80 - Web Page Under Construction
+151.101.73.153:80 - Fastly error: unknown domain 151.101.73.153
+122.17.179.90:80 - _Þì§ÌfBXJEgXgA t[hb|pi^Hi^¸÷EN
+127.79.176.154:80 - IIS Windows
+156.250.77.8:80 - 404 Not Found
+82.208.189.104:80 - 
+201.219.111.227:80 - .::Welcome to the Web-Based Configurator::.
+127.231.225.181:80 - IIS Windows
+196.51.186.159:80 - ERROR: The requested URL could not be retrieved
+54.86.147.243:80 - 502 Bad Gateway
+47.116.209.87:80 - 系统运维数据网站软件
+127.97.19.11:80 - IIS Windows
+127.135.198.162:80 - IIS Windows
+23.196.24.44:80 - Заголовок не найден
+127.89.138.127:80 - IIS Windows
+38.14.39.23:80 - 403 Forbidden
