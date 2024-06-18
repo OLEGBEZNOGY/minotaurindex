@@ -1777,3 +1777,46 @@
 167.172.208.111:80 - Web Server's Default Page
 81.250.168.115:80 - Заголовок не найден
 18.172.147.116:80 - Заголовок не найден
+23.94.96.21:80 - Welcome to nginx!
+23.61.212.108:80 - Заголовок не найден
+141.94.22.16:80 - 404 Not Found
+36.55.238.5:80 - Apache HTTP Server Test Page powered by CentOS
+194.242.23.72:80 - 403 - Forbidden: Access is denied.
+24.165.212.225:80 - 401 - Unauthorized
+52.17.50.227:80 - 404 Not Found
+154.28.143.247:80 - ERROR: The requested URL could not be retrieved
+124.156.112.131:80 - Заголовок не найден
+18.154.63.171:80 - Заголовок не найден
+39.99.185.218:80 - Welcome to nginx!
+45.33.18.207:80 - Заголовок не найден
+104.69.87.105:80 - Заголовок не найден
+13.224.90.16:80 - Заголовок не найден
+8.140.160.39:80 - BATTER
+77.55.139.195:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+146.75.100.155:80 - Fastly error: unknown domain 146.75.100.155
+54.254.29.55:80 - Homepage - NYP AI Public Affairs
+167.71.2.190:80 - SLOT HACKER &gt; SLOT HACKER, SLOTHACKER, daftar SLOT HACKER, link altern
+
+ &ndash; SLOT HACKER
+49.212.150.47:80 - Заголовок не найден
+38.182.192.23:80 - 404
+23.39.119.134:80 - Заголовок не найден
+103.100.7.105:80 - Please wait, the login page is opening...
+80.153.155.249:80 - 403 Forbidden
+34.223.216.223:80 - Заголовок не найден
+65.9.58.244:80 - Заголовок не найден
+111.250.194.113:80 - Заголовок не найден
+119.9.70.35:80 - Service Unavailable
+3.141.39.126:80 - Заголовок не найден
+103.229.182.2:80 - Заголовок не найден
+195.136.152.175:80 - 
+190.61.111.132:80 - Заголовок не найден
+216.222.203.54:80 - Brumos Motor Cars: Media Site
+156.235.1.130:80 - 404 Not Found
+95.100.55.58:80 - Заголовок не найден
+216.10.240.44:80 - Not Acceptable!
+52.95.175.32:80 - Amazon S3 - Cloud Object Storage  - AWS
+52.193.120.169:80 - Заголовок не найден
+139.99.236.55:80 - Welcome to Drupal | Drupal
+195.20.233.86:80 - Test Page for the HTTP Server on AlmaLinux
+104.252.200.25:80 - 403 Forbidden
