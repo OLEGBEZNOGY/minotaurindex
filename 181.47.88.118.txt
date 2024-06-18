@@ -1585,3 +1585,18 @@
 23.196.24.44:80 - Заголовок не найден
 127.89.138.127:80 - IIS Windows
 38.14.39.23:80 - 403 Forbidden
+120.72.85.69:80 - IIS Windows Server
+47.89.41.108:80 - CCL Technology Limited
+127.26.100.9:80 - IIS Windows
+24.250.85.204:80 - VenturePoint Property - Remote Web Access
+127.25.176.75:80 - IIS Windows
+127.207.233.134:80 - IIS Windows
+127.234.226.234:80 - IIS Windows
+23.44.37.54:80 - Заголовок не найден
+127.101.127.125:80 - IIS Windows
+42.1.60.80:80 - Заголовок не найден
+23.3.70.142:80 - Заголовок не найден
+127.70.169.59:80 - IIS Windows
+103.89.168.193:80 - RouterOS router configuration page
+213.146.254.82:80 - Fehler: Web Access für Remotedesktop kann nicht angezeigt werden.
+18.161.169.0:80 - Заголовок не найден
