@@ -188,3 +188,8 @@
 112.127.48.239:80 - ç½ç«è®¿é®æ¥é
 51.250.75.247:80 - An Error Occurred: Forbidden
 5.161.145.255:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+34.67.84.19:80 - Apache2 Ubuntu Default Page: It works
+18.139.60.169:80 - 404 Not Found
+104.103.217.190:80 - Заголовок не найден
+154.198.154.219:80 - Welcome to nginx!
+39.108.49.22:80 - Заголовок не найден
