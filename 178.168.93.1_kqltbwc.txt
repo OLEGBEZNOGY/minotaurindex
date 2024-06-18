@@ -556,3 +556,21 @@
 96.7.65.248:80 - Заголовок не найден
 8.137.48.239:80 - 403
 155.159.24.168:80 - 403 Forbidden
+95.214.234.197:80 - Account Suspended
+186.6.128.140:80 - 
+178.176.58.94:80 - 
+8.134.140.33:80 - Заголовок не найден
+65.108.220.219:80 - Welcome to nginx!
+170.178.186.67:80 - Welcome to nginx!
+16.12.36.64:80 - Amazon S3 - Cloud Object Storage  - AWS
+220.202.53.162:80 - 400 The plain HTTP request was sent to HTTPS port
+84.15.55.16:80 - 
+67.227.156.172:80 - Заголовок не найден
+151.101.38.107:80 - Fastly error: unknown domain 151.101.38.107
+218.213.216.111:80 - ä¼ºæå¨æ§å¶å°
+150.95.25.126:80 - Apache2 Ubuntu Default Page: It works
+34.214.142.5:80 - 503 Service Temporarily Unavailable
+103.247.141.209:80 - 401 Unauthorized
+103.211.221.191:80 - Заголовок не найден
+52.188.91.133:80 - Welcome to nginx!
+218.40.196.105:80 - Web Server's Default Page
