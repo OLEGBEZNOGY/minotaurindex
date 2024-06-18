@@ -16675,3 +16675,18 @@ Red Hat Enterprise Linux
 23.33.134.26:80 - Заголовок не найден
 157.90.195.240:80 - Die Frau am Grill | Das BBQ &amp; FOOD Magazin
 18.165.63.154:80 - Заголовок не найден
+137.175.49.219:80 - Welcome to nginx!
+213.214.4.235:80 - Apache2 Debian Default Page: It works
+178.62.198.161:80 - Заголовок не найден
+23.99.130.215:80 - Microsoft Azure Web App - Error 404
+104.117.54.53:80 - Заголовок не найден
+45.117.81.6:80 - 
+54.151.106.149:80 - Clinicalwallet
+186.33.227.216:80 - Заголовок не найден
+101.76.249.242:80 - 404 Not Found
+18.65.227.112:80 - Заголовок не найден
+144.76.141.71:80 - 401 - Nicht autorisiert: Zugriff aufgrund ungültiger Anmeldeinformationen verweigert.
+120.240.64.190:80 - 403 Forbidden
+172.232.15.36:80 - Not Found
+104.16.112.223:80 - Direct IP access not allowed | Cloudflare
+104.79.223.147:80 - Заголовок не найден
