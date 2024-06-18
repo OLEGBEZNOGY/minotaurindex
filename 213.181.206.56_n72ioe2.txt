@@ -2813,3 +2813,200 @@
 206.172.192.32:80 - Pterodactyl
 210.48.31.246:80 - 403 Forbidden
 146.59.234.94:80 - Welcome to nginx!
+125.229.125.125:80 - 
+127.91.192.18:80 - Welcome to XAMPP
+182.183.246.135:80 - Заголовок не найден
+104.119.39.150:80 - Заголовок не найден
+54.248.166.55:80 - 403 Forbidden
+54.230.132.231:80 - Заголовок не найден
+127.144.244.25:80 - Welcome to XAMPP
+103.251.150.101:80 - Заголовок не найден
+127.220.79.134:80 - Welcome to XAMPP
+23.51.77.19:80 - Заголовок не найден
+127.64.158.35:80 - Welcome to XAMPP
+34.116.138.66:80 - 404 Not Found
+44.240.168.196:80 - Заголовок не найден
+127.188.12.113:80 - Welcome to XAMPP
+44.213.103.82:80 - Apache2 Debian Default Page: It works
+127.150.251.76:80 - Welcome to XAMPP
+127.176.119.239:80 - Welcome to XAMPP
+180.131.1.63:80 - 403 Forbidden
+185.41.242.102:80 - Page not found | Servebolt
+127.162.8.168:80 - Welcome to XAMPP
+184.24.60.75:80 - Заголовок не найден
+90.214.136.159:80 - WEB
+127.25.253.139:80 - Welcome to XAMPP
+104.253.13.215:80 - 403 Forbidden
+216.158.209.237:80 - ERROR: The requested URL could not be retrieved
+104.243.44.148:80 - Welcome to nginx!
+18.142.107.5:80 - Заголовок не найден
+127.146.15.176:80 - Welcome to XAMPP
+2.22.197.214:80 - Заголовок не найден
+67.225.240.100:80 - Web Server's Default Page
+127.66.206.227:80 - Welcome to XAMPP
+142.169.24.15:80 - IIS Windows Server
+104.72.76.92:80 - Заголовок не найден
+132.248.103.8:80 - Históricos Exámenes: Ingresar al sitio
+71.195.119.77:80 - Document Moved
+156.213.179.80:80 - 
+23.43.22.16:80 - Заголовок не найден
+45.77.25.134:80 - 403 Forbidden
+127.113.233.34:80 - Welcome to XAMPP
+192.185.31.135:80 - Not Acceptable!
+139.64.173.166:80 - Index of /
+127.127.222.71:80 - Welcome to XAMPP
+127.174.220.28:80 - Welcome to XAMPP
+80.82.124.167:80 - This website is no longer available
+168.206.170.196:80 - Заголовок не найден
+186.129.178.166:80 - Заголовок не найден
+44.215.31.83:80 - Заголовок не найден
+127.70.118.241:80 - Welcome to XAMPP
+186.0.193.206:80 - Powered by Sislander
+23.198.91.76:80 - Заголовок не найден
+2.20.16.88:80 - Заголовок не найден
+194.254.137.100:80 - CAS - Central Authentication Service
+127.50.200.113:80 - Welcome to XAMPP
+134.95.55.7:80 - This page intentionally left blank (default)
+119.207.217.221:80 - main page
+127.54.92.182:80 - Welcome to XAMPP
+184.170.174.243:80 - 404 Not Found
+67.199.253.73:80 - 403 - Forbidden: Access is denied.
+5.204.133.109:80 - 
+23.9.156.221:80 - Заголовок не найден
+190.92.171.99:80 - Заголовок не найден
+3.67.4.145:80 - Заголовок не найден
+127.29.185.208:80 - Welcome to XAMPP
+127.33.222.132:80 - Welcome to XAMPP
+127.23.152.226:80 - Welcome to XAMPP
+198.23.61.106:80 - 404 Not Found
+136.226.2.101:80 - Internet Security by Zscaler
+127.144.242.233:80 - Welcome to XAMPP
+127.228.155.109:80 - Welcome to XAMPP
+2.20.58.231:80 - Заголовок не найден
+43.207.137.200:80 - Заголовок не найден
+127.49.242.94:80 - Welcome to XAMPP
+44.220.7.196:80 - Заголовок не найден
+127.75.82.84:80 - Welcome to XAMPP
+104.19.240.57:80 - Direct IP access not allowed | Cloudflare
+99.86.33.113:80 - Заголовок не найден
+18.64.115.197:80 - Заголовок не найден
+18.164.110.213:80 - Заголовок не найден
+18.244.177.81:80 - Заголовок не найден
+52.78.17.159:80 - SIMHANSOL SERVER
+119.245.207.224:80 - Заголовок не найден
+118.27.193.214:80 - IIS Windows Server
+3.140.78.235:80 - title
+127.227.226.77:80 - Welcome to XAMPP
+127.180.177.222:80 - Welcome to XAMPP
+127.228.141.143:80 - Welcome to XAMPP
+167.82.14.252:80 - Fastly error: unknown domain 167.82.14.252
+54.163.248.207:80 - Overview - CopperEgg
+190.166.181.49:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#54;&#55;&#65;&#32;&#86;&#49;&#46;&#48;
+127.43.171.213:80 - Welcome to XAMPP
+108.159.118.242:80 - Заголовок не найден
+190.203.222.3:80 - 
+212.174.15.12:80 - Webfilter Violation
+82.81.201.77:80 - IIS Windows Server
+156.226.51.141:80 - 404 Not Found
+35.187.102.110:80 - 503 Service Temporarily Unavailable
+23.46.195.86:80 - Заголовок не найден
+127.147.21.170:80 - Welcome to XAMPP
+127.126.148.18:80 - Welcome to XAMPP
+138.201.62.74:80 - 403 Forbidden
+65.8.211.146:80 - Заголовок не найден
+108.139.109.245:80 - Заголовок не найден
+4.246.213.7:80 - 503 Service Temporarily Unavailable
+70.35.202.192:80 - Web Server's Default Page
+3.110.50.102:80 - 404 Not Found
+18.211.108.219:80 - Заголовок не найден
+127.97.149.64:80 - Welcome to XAMPP
+127.108.144.81:80 - Welcome to XAMPP
+127.59.254.205:80 - Welcome to XAMPP
+161.35.23.198:80 - Заголовок не найден
+127.201.24.137:80 - Welcome to XAMPP
+18.158.27.172:80 - Заголовок не найден
+127.178.16.231:80 - Welcome to XAMPP
+18.154.144.3:80 - Заголовок не найден
+149.18.22.7:80 - Index of /
+127.122.63.230:80 - Welcome to XAMPP
+23.51.73.113:80 - Заголовок не найден
+151.101.182.227:80 - Fastly error: unknown domain 151.101.182.227
+2.23.77.254:80 - Заголовок не найден
+71.91.55.99:80 - 
+158.160.141.4:80 - 404 Not Found
+127.92.170.101:80 - Welcome to XAMPP
+199.232.16.107:80 - Fastly error: unknown domain 199.232.16.107
+127.170.101.136:80 - Welcome to XAMPP
+127.194.196.62:80 - Welcome to XAMPP
+104.118.30.111:80 - Заголовок не найден
+127.206.181.217:80 - Welcome to XAMPP
+159.69.37.248:80 - Emmas_Housemusic &#8211; Because evil people have no songs &#8211; Indiepop findings and radio
+47.98.153.85:80 - Welcome to nginx!
+127.39.94.172:80 - Welcome to XAMPP
+142.93.221.19:80 - Home &raquo;
+13.49.189.207:80 - 503 Service Temporarily Unavailable
+99.79.192.183:80 - Web Server's Default Page
+194.0.175.249:80 - IIS Windows Server
+127.233.26.174:80 - Welcome to XAMPP
+192.227.135.181:80 - Forbidden!
+54.88.198.192:80 - 404 Not Found
+127.210.142.15:80 - Welcome to XAMPP
+108.156.55.91:80 - Заголовок не найден
+35.157.60.165:80 - Start - intratool®
+154.198.135.4:80 - 404 Not Found
+127.50.183.163:80 - Welcome to XAMPP
+74.143.235.140:80 - 
+178.90.52.124:80 - GPON Home Gateway
+193.163.35.46:80 - 404 Not Found
+32.219.207.105:80 - Login
+127.228.144.187:80 - Welcome to XAMPP
+151.101.99.247:80 - Fastly error: unknown domain 151.101.99.247
+186.130.70.173:80 - Заголовок не найден
+127.71.83.207:80 - Welcome to XAMPP
+23.36.224.97:80 - Заголовок не найден
+70.40.193.193:80 - Not Acceptable!
+35.188.183.195:80 - Pro-ficiency Library
+23.201.69.11:80 - Заголовок не найден
+127.32.8.103:80 - Welcome to XAMPP
+78.185.76.152:80 - WEB SERVICE
+104.160.73.51:80 - Заголовок не найден
+54.248.64.184:80 - Error
+23.196.148.146:80 - Заголовок не найден
+52.85.116.239:80 - Заголовок не найден
+114.251.8.103:80 - 身份认证系统
+154.197.92.73:80 - ç½ç«è¯·æ±åºé
+66.39.134.70:80 - Заголовок не найден
+23.198.238.30:80 - Заголовок не найден
+127.64.24.80:80 - Welcome to XAMPP
+3.165.76.199:80 - Заголовок не найден
+189.247.210.205:80 - Заголовок не найден
+127.192.68.115:80 - Welcome to XAMPP
+127.140.19.10:80 - Welcome to XAMPP
+3.39.20.180:80 - Заголовок не найден
+194.195.124.156:80 - The DevilBox
+52.222.23.230:80 - Заголовок не найден
+127.9.83.104:80 - Welcome to XAMPP
+95.217.42.163:80 - Заголовок не найден
+127.210.32.95:80 - Welcome to XAMPP
+5.157.60.108:80 - Заголовок не найден
+127.54.195.184:80 - Welcome to XAMPP
+45.14.84.93:80 - 
+176.178.156.37:80 - 
+127.5.23.30:80 - Welcome to XAMPP
+151.101.39.83:80 - Fastly error: unknown domain 151.101.39.83
+170.130.105.138:80 - 403 Forbidden
+45.147.167.197:80 - Apache2 Ubuntu Default Page: It works
+120.77.9.201:80 - æ²¡ææ¾å°ç«ç¹
+108.138.36.87:80 - Заголовок не найден
+167.98.233.125:80 - Error: Unable to display RD Web Access
+23.247.201.44:80 - Apache2 Ubuntu Default Page: It works
+44.221.187.159:80 - 403 Forbidden
+34.101.84.117:80 - Error
+81.46.245.72:80 - dominios, alojamiento web, servidores dedicados, redes corporativas de datos (vpn, mpls y adsl) - acens
+81.0.199.117:80 - 401 Authorization Required
+117.120.50.220:80 - Apache HTTP Server Test Page powered by CentOS
+166.67.200.128:80 - IIS Windows Server
+217.72.137.115:80 - Nutrilo GmbH Nutrilo GmbH - Herzlich willkommen
+127.109.113.105:80 - Welcome to XAMPP
+3.161.61.82:80 - Заголовок не найден
+54.192.27.64:80 - Заголовок не найден
