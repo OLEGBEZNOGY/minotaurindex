@@ -533,3 +533,11 @@
 101.132.158.46:80 - 403 Forbidden
 120.253.255.173:80 - Error 404 (Not Found)!!1
 89.163.230.159:80 - Заголовок не найден
+118.163.85.174:80 - IIS Windows Server
+199.255.237.160:80 - Заголовок не найден
+157.230.200.132:80 - Plataforma de Reporting
+18.213.74.129:80 - Заголовок не найден
+129.227.104.253:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+23.40.171.181:80 - Заголовок не найден
+84.196.221.93:80 - Hello! Welcome to Synology Web Station!
+103.205.87.142:80 - 404 Not Found
