@@ -2310,3 +2310,9 @@
 198.58.109.10:80 - 403 Forbidden
 15.237.37.13:80 - DVBA - Damn Vulnerable Banking Application
 82.222.169.115:80 - Заголовок не найден
+18.65.222.111:80 - Заголовок не найден
+151.101.64.147:80 - Fastly error: unknown domain 151.101.64.147
+114.34.88.44:80 - 
+43.129.222.199:80 - æ²¡ææ¾å°ç«ç¹
+139.177.202.211:80 - Website Unavailable
+217.116.196.76:80 - 503 Service Temporarily Unavailable
