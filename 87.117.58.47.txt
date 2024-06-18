@@ -1112,3 +1112,4 @@
 23.60.30.254:80 - Заголовок не найден
 212.34.239.49:80 - WiFi Internet Yerevan Armenia - Swithch Net
 206.233.145.243:80 - 403 Forbidden
+85.128.185.144:80 - Domena  jest utrzymywana na serwerach nazwa.pl
