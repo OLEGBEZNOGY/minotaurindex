@@ -7314,3 +7314,18 @@
 210.123.54.100:80 - HTTP Server Test Page powered by: Rocky Linux
 23.61.174.34:80 - Заголовок не найден
 104.115.216.205:80 - Заголовок не найден
+212.2.114.42:80 - Заголовок не найден
+37.16.95.33:80 - Web Server's Default Page
+113.3.58.228:80 - 403 Forbidden
+92.204.37.82:80 - 404 Not Found
+20.247.237.156:80 - Your Azure Function App is up and running.
+127.82.166.165:80 - IIS Windows
+99.86.14.214:80 - Заголовок не найден
+127.63.184.242:80 - IIS Windows
+127.69.124.123:80 - IIS Windows
+185.214.241.53:80 - 404 Not Found
+127.76.49.237:80 - IIS Windows
+127.166.78.236:80 - IIS Windows
+127.213.245.36:80 - IIS Windows
+218.29.159.67:80 - 无法找到资源。
+138.68.19.248:80 - Melchor.MX - Web Services
