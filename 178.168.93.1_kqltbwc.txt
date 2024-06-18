@@ -294,3 +294,15 @@
 3.163.91.21:80 - Заголовок не найден
 20.105.113.223:80 - Microsoft Azure Web App - Error 404
 18.143.251.119:80 - 404 Not Found
+199.250.239.174:80 - 
+165.231.98.7:80 - 407 Proxy Authentication Required
+104.83.138.178:80 - Заголовок не найден
+72.142.178.246:80 - Заголовок не найден
+104.199.175.12:80 - AI ArtTech Lab Official website
+159.65.120.11:80 - I Have New Blogs -
+18.140.80.76:80 - TopWorks
+104.19.152.182:80 - Direct IP access not allowed | Cloudflare
+71.94.8.240:80 - 
+92.123.58.251:80 - Заголовок не найден
+208.167.248.249:80 - Welcome to nginx!
+207.204.22.146:80 - 403 Forbidden
