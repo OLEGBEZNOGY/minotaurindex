@@ -11942,3 +11942,14 @@
 202.83.127.239:80 - Error 404 (Not Found)!!1
 92.122.36.143:80 - Заголовок не найден
 23.21.171.171:80 - 403 Forbidden
+20.107.165.47:80 - Заголовок не найден
+104.19.133.200:80 - Direct IP access not allowed | Cloudflare
+116.74.69.158:80 - Device Client
+13.66.25.158:80 - Заголовок не найден
+104.24.78.50:80 - Direct IP access not allowed | Cloudflare
+20.203.71.100:80 - Your Azure Function App is up and running.
+104.19.65.201:80 - Direct IP access not allowed | Cloudflare
+103.110.236.196:80 - 
+20.12.111.45:80 - IIS Windows Server
+4.175.234.231:80 - Your Azure Function App is up and running.
+117.194.48.68:80 - 
