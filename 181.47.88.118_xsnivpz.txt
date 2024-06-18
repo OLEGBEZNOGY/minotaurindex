@@ -15732,3 +15732,19 @@ products such as budweiser in South Brunswick, NJ.
 107.23.164.25:80 - Welcome to nginx!
 4.152.114.131:80 - Your Azure Function App is up and running.
 127.180.168.124:80 - IIS Windows
+51.38.104.22:80 - 503 Service Temporarily Unavailable
+23.77.27.43:80 - Заголовок не найден
+104.114.147.19:80 - Заголовок не найден
+104.16.226.219:80 - Direct IP access not allowed | Cloudflare
+104.114.221.235:80 - Заголовок не найден
+104.252.157.170:80 - 404 Not Found
+47.103.140.80:80 - Welcome to nginx!
+163.171.131.220:80 - 403 Forbidden
+82.81.245.159:80 - Заголовок не найден
+159.69.40.92:80 - 404 Not Found
+157.197.167.44:80 - Заголовок не найден
+51.15.11.65:80 - Apache2 Ubuntu Default Page: It works
+127.175.226.133:80 - IIS Windows
+127.63.178.26:80 - IIS Windows
+178.32.109.254:80 - Заголовок не найден
+104.20.207.156:80 - Direct IP access not allowed | Cloudflare
