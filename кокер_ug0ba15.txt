@@ -4427,3 +4427,160 @@
 45.149.90.224:80 - Заголовок не найден
 164.68.104.171:80 - Aukcio.ro :: Kezdőlap
 90.189.193.172:80 - 403 Forbidden
+52.226.91.197:80 - Microsoft Azure Web App - Error 404
+77.225.21.151:80 - Заголовок не найден
+101.53.130.244:80 - Заголовок не найден
+18.172.94.42:80 - Заголовок не найден
+166.180.36.100:80 - ICG-150 -> Login
+3.127.215.209:80 - user&#039;s Blog! &#8211; Just another WordPress site
+95.143.196.244:80 - Welcome to nginx!
+120.46.201.207:80 - Apache Tomcat/6.0.41 - Error report
+38.156.245.122:80 - ePMP
+86.62.59.17:80 - ERROR: The requested URL could not be retrieved
+192.241.219.180:80 - Emoncms - user login
+85.128.237.58:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+75.103.126.73:80 - Заголовок не найден
+103.5.144.171:80 - 404 Not Found
+184.174.39.27:80 - Stream Hosting Panel
+148.101.164.4:80 - 
+68.183.141.195:80 - seemyfont
+59.27.107.178:80 - WEB SERVICE
+192.185.157.253:80 - Not Acceptable!
+61.72.149.91:80 - Заголовок не найден
+54.200.189.168:80 - 404 Not Found
+60.221.194.194:80 - 403 Forbidden
+13.247.85.222:80 - Bi-me - Customer Portal
+65.109.214.40:80 - Welcome to nginx!
+104.16.95.106:80 - Direct IP access not allowed | Cloudflare
+99.86.156.130:80 - Заголовок не найден
+91.209.39.21:80 - Заголовок не найден
+116.203.96.152:80 - Success!
+90.145.213.1:80 - WIND Internet - Website nog niet beschikbaar
+92.62.237.174:80 - 
+175.206.221.67:80 - CMS Web Viewer
+220.132.195.206:80 - 401 Unauthorized
+217.15.169.99:80 - 403 Forbidden
+24.24.52.3:80 - Time Warner Cable (Residential) Speed Test
+178.18.37.151:80 - 403 Forbidden
+52.85.102.88:80 - Заголовок не найден
+75.137.166.88:80 - 
+181.105.70.121:80 - Заголовок не найден
+64.176.225.55:80 - Materio - Material Design React Admin Template
+216.58.137.48:80 - Заголовок не найден
+23.235.194.31:80 - Apache2 Ubuntu Default Page: It works
+23.42.174.46:80 - Заголовок не найден
+148.255.16.208:80 - 
+18.244.180.95:80 - Заголовок не найден
+211.87.204.34:80 - 404 Not Found
+89.161.228.81:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+129.151.224.157:80 - Заголовок не найден
+150.164.90.125:80 - Заголовок не найден
+52.62.238.176:80 - Заголовок не найден
+103.16.139.186:80 - Welcome to nginx!
+176.96.241.198:80 - ÐÐ¾Ð±ÑÐ¾ Ð¿Ð¾Ð¶Ð°Ð»Ð¾Ð²Ð°ÑÑ
+23.198.18.246:80 - Заголовок не найден
+154.197.227.226:80 - Welcome to nginx!
+54.230.64.0:80 - Заголовок не найден
+34.194.39.104:80 - Заголовок не найден
+20.167.28.220:80 - Your Azure Function App is up and running.
+20.23.122.44:80 - Azure Container App - Unavailable
+20.124.166.32:80 - Your Azure Function App is up and running.
+41.87.88.137:80 - {{deviceinfo.board_type}} {{deviceinfo.nsp_display_name}} {{home.system_control_center}}
+68.117.52.116:80 - 
+23.220.213.174:80 - Заголовок не найден
+201.131.154.63:80 - WEB SERVICE
+50.255.212.161:80 - 
+172.241.57.39:80 - Заголовок не найден
+190.98.160.25:80 - Заголовок не найден
+128.245.194.89:80 - 403 - Forbidden: Access is denied.
+34.231.52.194:80 - Emilcott Technologies
+104.252.123.68:80 - 403 Forbidden
+24.166.58.156:80 - 
+173.222.49.43:80 - Заголовок не найден
+27.159.90.65:80 - 403 Forbidden
+88.199.145.10:80 - Заголовок не найден
+23.223.153.34:80 - Заголовок не найден
+35.74.6.96:80 - 503 Service Temporarily Unavailable
+18.245.70.32:80 - Заголовок не найден
+54.200.133.106:80 - Smart Dealer
+141.237.103.115:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#48;&#56;&#78;&#32;&#86;&#50;&#46;&#53;
+20.31.226.190:80 - Microsoft Azure Web App - Error 404
+106.105.114.188:80 - Заголовок не найден
+167.99.221.118:80 - Casino Alpino Italia: Una recensione onesta delle caratteristiche
+142.171.160.142:80 - 404 Not Found
+52.198.205.42:80 - 403 - Â³êÄ¢Ü¹ñ: ANZXªÛ³êÜµ½B
+52.45.119.74:80 - Crawler
+96.17.194.28:80 - Заголовок не найден
+181.22.124.133:80 - Заголовок не найден
+167.172.76.252:80 - ASIAHOKI77: Situs Judi Slot Online Terpercaya Jackpot Hari Ini dengan RTP Tinggi
+193.164.222.9:80 - 403 Forbidden
+18.165.196.43:80 - Заголовок не найден
+45.194.53.141:80 - Direct IP access not allowed | Cloudflare
+152.86.30.145:80 - IIS Windows
+34.205.43.18:80 - Заголовок не найден
+108.138.26.239:80 - Заголовок не найден
+46.207.252.115:80 - Apache2 Debian Default Page: It works
+54.192.107.0:80 - Заголовок не найден
+89.44.232.248:80 - DEXROM - Ambalaje deșeuri, Echipamente medicale, Dezinfectanti si Biocide
+99.86.125.33:80 - Заголовок не найден
+68.66.236.242:80 - Заголовок не найден
+52.140.131.61:80 - Your Azure Function App is up and running.
+185.2.89.22:80 - 403 Forbidden
+23.1.102.207:80 - Заголовок не найден
+95.170.154.10:80 - Заголовок не найден
+120.46.40.22:80 - 500 Internal Server Error
+218.50.87.206:80 - 
+38.38.106.227:80 - IIS Windows Server
+190.99.177.149:80 - &#70;&#54;&#56;&#48;
+70.167.192.35:80 - Заголовок не найден
+187.62.100.173:80 - Заголовок не найден
+221.12.141.126:80 - 
+154.220.54.237:80 - 403 Forbidden
+104.154.68.241:80 - Index of /
+142.112.24.244:80 - IIS Windows Server
+118.233.165.167:80 - 401 Unauthorized
+81.201.218.218:80 - Заголовок не найден
+167.86.82.13:80 - Заголовок не найден
+118.27.8.239:80 - Apache HTTP Server Test Page powered by CentOS
+37.252.9.177:80 - Success!
+121.137.3.92:80 - Today
+38.60.94.14:80 - 404 Not Found
+35.75.213.19:80 - 403 - Forbidden: Access is denied.
+24.7.164.216:80 - Заголовок не найден
+43.205.145.237:80 - Event Management System
+34.238.29.162:80 - Заголовок не найден
+116.67.75.165:80 - Заголовок не найден
+34.102.189.25:80 - Заголовок не найден
+20.76.26.160:80 - Microsoft Azure Web App - Error 404
+70.16.155.46:80 - 
+138.185.40.245:80 - nPerfServer
+15.184.239.101:80 - 404 Not Found
+20.141.147.219:80 - Your Azure Function App is up and running.
+192.121.187.168:80 - Заголовок не найден
+101.62.196.134:80 - Заголовок не найден
+3.0.12.163:80 - Welcome to nginx!
+96.6.3.184:80 - Заголовок не найден
+74.120.248.112:80 - 401 Authorization Required
+168.206.24.28:80 - 404 Not Found
+79.198.107.64:80 - 
+104.18.142.233:80 - Direct IP access not allowed | Cloudflare
+187.255.186.194:80 - Intelbras
+180.222.184.208:80 - Web Server's Default Page
+136.226.196.235:80 - Заголовок не найден
+104.23.120.187:80 - Direct IP access not allowed | Cloudflare
+170.72.44.149:80 - Заголовок не найден
+117.236.226.25:80 - MAHE Off Campus Centre, Bengaluru
+15.156.54.200:80 - Заголовок не найден
+23.207.100.57:80 - Заголовок не найден
+199.168.252.230:80 - IIS Windows Server
+3.86.245.169:80 - Walqalum - IT Startup &amp; Software Solutions
+20.163.170.14:80 - Pond &amp; Company - Top Ranked Engineering, Architecture, Planning &amp; Construction Mangement Firm - Pond &amp; Company
+156.245.53.254:80 - 尊龙凯时·(中国)人生就是搏!
+154.40.54.102:80 - IIS Windows Server
+23.217.83.60:80 - Заголовок не найден
+62.204.61.10:80 - Заголовок не найден
+179.91.57.176:80 - Заголовок не найден
+68.238.59.5:80 - 
+189.198.158.61:80 - Заголовок не найден
+199.16.96.93:80 - SonicWall - Authentication
+134.122.216.237:80 - Sorry, the website has been stopped
