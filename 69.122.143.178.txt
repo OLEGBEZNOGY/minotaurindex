@@ -2138,3 +2138,5 @@ sted URL could not be retrieved
 152.0.127.43:80 - 
 103.121.213.52:80 - IIS Windows Server
 196.51.3.184:80 - ERROR: The requested URL could not be retrieved
+111.62.134.49:80 - 403 Forbidden
+18.238.165.44:80 - Заголовок не найден
