@@ -23828,3 +23828,12 @@ Automation Systems
 127.95.191.18:80 - IIS Windows
 64.226.107.190:80 - Administrador
 47.115.216.170:80 - Заголовок не найден
+123.18.107.87:80 - 
+20.191.170.130:80 - Заголовок не найден
+78.89.154.234:80 - 
+127.241.132.229:80 - IIS Windows
+127.176.83.5:80 - IIS Windows
+104.19.80.190:80 - Direct IP access not allowed | Cloudflare
+127.24.74.40:80 - IIS Windows
+85.215.68.128:80 - Web Server's Default Page
+140.248.175.104:80 - Fastly error: unknown domain 140.248.175.104
