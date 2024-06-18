@@ -979,3 +979,9 @@
 127.104.32.212:80 - IIS Windows
 127.12.105.79:80 - IIS Windows
 202.75.87.193:80 - Server Unavailiable
+184.25.7.250:80 - Заголовок не найден
+18.155.255.9:80 - Заголовок не найден
+173.233.93.23:80 - Заголовок не найден
+161.71.92.157:80 - 403 - Forbidden: Access is denied.
+127.145.242.151:80 - IIS Windows
+203.23.103.72:80 - Direct IP access not allowed | Cloudflare
