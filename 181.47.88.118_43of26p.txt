@@ -7166,3 +7166,24 @@
 151.236.64.218:80 - 403 Forbidden
 54.179.117.151:80 - Заголовок не найден
 154.90.50.247:80 - Apache2 Ubuntu Default Page: It works
+103.217.229.16:80 - Please wait, the login page is opening...
+101.37.159.157:80 - 
+66.7.218.148:80 - Account Suspended
+23.207.150.80:80 - Заголовок не найден
+104.206.118.227:80 - 403 Forbidden
+127.216.104.9:80 - IIS Windows
+172.121.41.84:80 - 403 Forbidden
+115.126.120.68:80 - Заголовок не найден
+77.76.144.77:80 - Crash Info Center - alhpa prerelease
+196.51.129.42:80 - ERROR: The requested URL could not be retrieved
+103.173.48.63:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+156.234.43.216:80 - 404 Not Found
+46.101.111.242:80 - 404 Not Found
+107.148.122.29:80 - IIS Windows Server
+107.158.127.150:80 - 403 Forbidden
+127.121.5.200:80 - IIS Windows
+185.21.43.112:80 - phpMyAdmin
+127.73.39.161:80 - IIS Windows
+127.91.255.65:80 - IIS Windows
+3.161.2.19:80 - Заголовок не найден
+83.12.85.8:80 - 404 Not Found
