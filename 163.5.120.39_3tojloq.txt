@@ -4784,3 +4784,193 @@
 23.222.161.44:80 - Заголовок не найден
 18.67.119.151:80 - Заголовок не найден
 96.87.248.138:80 - Login
+172.120.249.30:80 - 403 Forbidden
+127.238.242.158:80 - Welcome to XAMPP
+135.181.157.3:80 - Log In - AzuraCast
+18.239.86.187:80 - Заголовок не найден
+4.153.102.241:80 - Your Azure Function App is up and running.
+191.101.173.83:80 - Заголовок не найден
+217.172.98.124:80 - Заголовок не найден
+127.33.253.232:80 - Welcome to XAMPP
+3.248.137.190:80 - Заголовок не найден
+38.253.104.161:80 - 
+127.20.232.180:80 - Welcome to XAMPP
+64.223.132.99:80 - Заголовок не найден
+52.8.122.252:80 - 500 - Internal server error.
+139.224.100.142:80 - 503 Service Temporarily Unavailable
+37.156.248.107:80 - Protected Object
+127.222.54.62:80 - Welcome to XAMPP
+178.254.35.52:80 - Apache2 Ubuntu Default Page: It works
+187.174.129.23:80 - Agropecuaria El Avi&oacute;n S de PR de RL - Pollo y Huevo - Cresta Dorada - Yema Dorada
+204.242.1.170:80 - Apache HTTP Server Test Page powered by CentOS
+23.212.41.138:80 - Заголовок не найден
+127.237.50.135:80 - Welcome to XAMPP
+82.179.85.236:80 - Заголовок не найден
+52.41.63.112:80 - 404 Not Found
+45.79.84.74:80 - Заголовок не найден
+127.150.220.57:80 - Welcome to XAMPP
+23.41.109.234:80 - Заголовок не найден
+154.214.123.100:80 - Заголовок не найден
+154.205.212.239:80 - 404 Not Found
+36.99.40.237:80 - 500 Internal Server Error
+104.140.108.32:80 - 403 Forbidden
+127.114.185.59:80 - Welcome to XAMPP
+47.251.7.253:80 - æ²¡ææ¾å°ç«ç¹
+198.23.48.253:80 - 412 Error
+127.194.102.194:80 - Welcome to XAMPP
+127.55.173.38:80 - Welcome to XAMPP
+65.189.253.188:80 - 
+127.94.157.140:80 - Welcome to XAMPP
+127.62.13.20:80 - Welcome to XAMPP
+127.12.169.95:80 - Welcome to XAMPP
+127.136.103.160:80 - Welcome to XAMPP
+194.177.60.17:80 - Fonds d&#039;investissement, plus de 30 ans d&#039;expertise | LBO France
+127.228.80.88:80 - Welcome to XAMPP
+127.61.165.29:80 - Welcome to XAMPP
+13.224.187.64:80 - Заголовок не найден
+104.18.62.101:80 - Direct IP access not allowed | Cloudflare
+91.222.137.196:80 - 403 Forbidden
+178.183.216.95:80 - Teltonika Networks
+79.143.188.22:80 - code-server login
+127.202.60.146:80 - Welcome to XAMPP
+23.192.46.73:80 - Заголовок не найден
+191.96.54.116:80 - 403 Forbidden
+127.53.29.134:80 - Welcome to XAMPP
+39.107.122.47:80 - ç½ç«è®¿é®æ¥é
+154.214.71.104:80 - 404 Not Found
+120.46.139.215:80 - Заголовок не найден
+127.175.151.118:80 - Welcome to XAMPP
+127.141.99.17:80 - Welcome to XAMPP
+156.242.44.194:80 - 404 Not Found
+210.91.207.123:80 - Заголовок не найден
+127.94.82.212:80 - Welcome to XAMPP
+127.191.32.239:80 - Welcome to XAMPP
+127.132.162.18:80 - Welcome to XAMPP
+127.118.249.8:80 - Welcome to XAMPP
+54.191.242.54:80 - bottomUP - Status
+31.177.46.17:80 - RouterOS router configuration page
+127.165.227.2:80 - Welcome to XAMPP
+18.244.75.187:80 - Заголовок не найден
+194.147.47.17:80 - Заголовок не найден
+62.244.110.180:80 - Commande poulet / pintade
+152.0.86.64:80 - 
+31.129.45.39:80 - Welcome to nginx!
+81.70.97.177:80 - WebStack.cc - è®¾è®¡å¸ç½åå¯¼èª
+127.50.83.123:80 - Welcome to XAMPP
+127.217.133.144:80 - Welcome to XAMPP
+71.199.91.60:80 - 
+79.116.47.201:80 - Page Redirection
+104.90.201.40:80 - Заголовок не найден
+108.61.212.33:80 - Apache2 Debian Default Page: It works
+104.129.164.180:80 - Direct IP access not allowed | Cloudflare
+154.216.50.69:80 - 403 Forbidden
+127.62.211.111:80 - Welcome to XAMPP
+104.91.100.167:80 - Заголовок не найден
+182.181.198.105:80 - Заголовок не найден
+127.105.55.67:80 - Welcome to XAMPP
+91.107.181.167:80 - 403 Forbidden
+71.198.255.70:80 - 
+127.136.94.109:80 - Welcome to XAMPP
+127.22.89.42:80 - Welcome to XAMPP
+23.65.147.115:80 - Заголовок не найден
+23.12.215.71:80 - Заголовок не найден
+38.85.250.103:80 - 403 Forbidden
+127.117.152.130:80 - Welcome to XAMPP
+221.167.161.228:80 - CMS Web Viewer
+127.217.234.18:80 - Welcome to XAMPP
+162.245.219.177:80 - gbopro.ga &mdash; Coming Soon
+51.105.52.225:80 - 403 - Forbidden: Access is denied.
+18.188.24.207:80 - Conscious Home
+127.158.169.95:80 - Welcome to XAMPP
+45.160.67.56:80 - Iniciar sessÃ£o
+181.24.193.247:80 - Заголовок не найден
+127.134.3.106:80 - Welcome to XAMPP
+104.64.120.188:80 - Заголовок не найден
+102.22.253.179:80 - Заголовок не найден
+23.49.210.107:80 - Заголовок не найден
+104.89.188.178:80 - Заголовок не найден
+127.117.160.27:80 - Welcome to XAMPP
+23.65.200.230:80 - Заголовок не найден
+127.206.65.164:80 - Welcome to XAMPP
+167.82.34.141:80 - Fastly error: unknown domain 167.82.34.141
+23.67.23.57:80 - Заголовок не найден
+127.69.63.34:80 - Welcome to XAMPP
+104.22.42.237:80 - Direct IP access not allowed | Cloudflare
+71.82.76.222:80 - 
+162.251.24.112:80 - 
+34.207.194.110:80 - Заголовок не найден
+187.72.48.49:80 - .::INFINITY ADMINISTRADORA::. - Home
+3.31.97.6:80 - Заголовок не найден
+127.9.124.69:80 - Welcome to XAMPP
+127.182.125.176:80 - Welcome to XAMPP
+127.160.109.158:80 - Welcome to XAMPP
+157.197.178.243:80 - Заголовок не найден
+127.36.186.181:80 - Welcome to XAMPP
+18.210.83.162:80 - Заголовок не найден
+96.16.116.157:80 - Заголовок не найден
+127.116.40.97:80 - Welcome to XAMPP
+68.142.107.37:80 - Заголовок не найден
+127.19.83.12:80 - Welcome to XAMPP
+127.201.171.62:80 - Welcome to XAMPP
+23.195.43.60:80 - Заголовок не найден
+74.129.43.79:80 - 
+51.254.118.37:80 - Заголовок не найден
+45.223.191.58:80 - Заголовок не найден
+23.21.123.188:80 - 503 Service Unavailable
+127.17.91.77:80 - Welcome to XAMPP
+127.156.151.170:80 - Welcome to XAMPP
+127.141.55.168:80 - Welcome to XAMPP
+127.131.248.233:80 - Welcome to XAMPP
+188.50.167.70:80 - Smacc Login
+127.212.104.231:80 - Welcome to XAMPP
+76.242.112.21:80 - 500 - Internal server error.
+154.64.12.220:80 - 403 Forbidden
+127.135.193.131:80 - Welcome to XAMPP
+127.236.53.230:80 - Welcome to XAMPP
+95.209.140.188:80 - BASTEC
+127.216.122.126:80 - Welcome to XAMPP
+127.89.185.238:80 - Welcome to XAMPP
+127.240.89.220:80 - Welcome to XAMPP
+85.14.179.230:80 - Identification
+159.203.17.11:80 - 7METER - Permainan Terupdate Jackpot Terbesar IDN Sports
+127.116.64.138:80 - Welcome to XAMPP
+74.208.235.27:80 - IIS Windows Server
+46.29.162.29:80 - Welcome to MailAmigos.com Ultimate Email Marketing Solution
+3.71.22.245:80 - Transporting24
+127.34.61.89:80 - Welcome to XAMPP
+213.124.208.21:80 - Apache2 Debian Default Page: It works
+20.197.105.68:80 - 404 Not Found
+50.87.60.229:80 - Not Acceptable!
+127.62.116.85:80 - Welcome to XAMPP
+104.168.225.16:80 - Заголовок не найден
+112.109.20.140:80 - RouterOS router configuration page
+195.201.254.232:80 - biblioteca Base – Sociedad Insular para la Promoción de las Personas con Discapacidad, S.L.
+20.204.184.165:80 - 404 Not Found
+176.119.45.251:80 - Заголовок не найден
+203.235.99.96:80 - Заголовок не найден
+104.16.177.143:80 - Direct IP access not allowed | Cloudflare
+221.122.85.90:80 - Заголовок не найден
+192.138.218.96:80 - oops
+82.138.75.44:80 - 
+13.250.63.56:80 - Welcome to nginx!
+121.40.241.108:80 - æ­åï¼ç«ç¹åå»ºæåï¼
+35.176.211.105:80 - IDU from LexisNexis
+127.62.96.75:80 - Welcome to XAMPP
+222.254.188.233:80 - 
+178.208.84.71:80 - Ð¡Ð°Ð¹Ñ Ð·Ð°Ð±Ð»Ð¾ÐºÐ¸ÑÐ¾Ð²Ð°Ð½ Ð¸Ð»Ð¸ ÐµÑÐµ Ð½Ðµ Ð°ÐºÑÐ¸Ð²Ð¸ÑÐ¾Ð²Ð°Ð»ÑÑ
+104.86.48.149:80 - Заголовок не найден
+71.81.244.191:80 - 
+178.154.220.65:80 - 404 Not Found
+4.236.80.179:80 - Заголовок не найден
+127.254.124.30:80 - Welcome to XAMPP
+127.110.32.217:80 - Welcome to XAMPP
+38.55.175.209:80 - 404 Not Found
+104.20.223.170:80 - Direct IP access not allowed | Cloudflare
+104.24.234.47:80 - Direct IP access not allowed | Cloudflare
+127.26.238.183:80 - Welcome to XAMPP
+31.129.100.89:80 - Welcome to nginx!
+127.145.76.111:80 - Welcome to XAMPP
+127.216.147.173:80 - Welcome to XAMPP
+82.165.59.127:80 - Web Server's Default Page
+81.83.1.120:80 - Заголовок не найден
+34.244.180.191:80 - Sign in · GitLab
