@@ -10940,3 +10940,64 @@
 222.208.171.241:80 - 四川省仁寿县第二高级职业中学（仁寿县职业教育中心）-
 172.93.48.233:80 - Welcome to CentOS
 3.166.41.2:80 - Заголовок не найден
+185.81.211.101:80 - Hello! Welcome to Synology Web Station!
+52.64.75.60:80 - HTTP Status 400 – Bad Request
+104.126.120.125:80 - Заголовок не найден
+61.84.37.191:80 - Заголовок не найден
+95.33.54.22:80 - Заголовок не найден
+73.127.135.113:80 - MicahB.Dev | Home Page
+185.36.94.202:80 - Заголовок не найден
+23.192.93.65:80 - Заголовок не найден
+34.214.31.177:80 - Заголовок не найден
+77.37.92.149:80 - 403 Forbidden
+2.133.170.235:80 - GPON Home Gateway
+104.104.92.197:80 - Заголовок не найден
+5.255.126.103:80 - 404 Not Found
+184.27.144.81:80 - Заголовок не найден
+77.94.37.54:80 - RouterOS
+72.247.165.105:80 - Заголовок не найден
+158.140.219.115:80 - 404 Not Found
+203.45.93.191:80 - IIS Windows Server
+14.116.224.70:80 - 502 Bad Gateway
+45.76.33.242:80 - Welcome to nginx!
+173.37.148.220:80 - Заголовок не найден
+172.67.94.80:80 - Direct IP access not allowed | Cloudflare
+91.212.219.143:80 - Acciai Speciali Terni: Laminati piani in acciaio inossidabile
+85.128.147.188:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+20.242.247.83:80 - Your Azure Function App is up and running.
+122.237.104.85:80 - Заголовок не найден
+199.232.200.111:80 - Fastly error: unknown domain 199.232.200.111
+54.192.172.46:80 - Заголовок не найден
+115.126.46.24:80 - 
+216.144.123.63:80 - Заголовок не найден
+18.164.163.222:80 - Заголовок не найден
+104.93.15.50:80 - Заголовок не найден
+45.172.146.21:80 - Intelbras
+23.35.223.95:80 - Заголовок не найден
+23.192.173.106:80 - Заголовок не найден
+201.89.88.10:80 - HTTP Server Test Page powered by: Rocky Linux
+157.245.95.128:80 - Agencia TBS
+162.159.140.227:80 - Direct IP access not allowed | Cloudflare
+188.128.165.141:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+109.111.167.219:80 - Заголовок не найден
+45.207.82.147:80 - 404 Not Found
+151.236.62.196:80 - IIS Windows Server
+149.200.254.74:80 - IIS Windows Server
+110.40.209.18:80 - 403 Forbidden
+91.107.121.131:80 - Success!
+119.29.207.57:80 - 403 Forbidden
+73.193.151.242:80 - 
+124.248.175.173:80 - TOTOLINK Corp. | WIRELESS ROUTER
+23.53.204.30:80 - Заголовок не найден
+179.53.100.91:80 - 
+104.24.59.186:80 - Direct IP access not allowed | Cloudflare
+132.247.110.96:80 - Apache2 Ubuntu Default Page: It works
+173.255.166.82:80 - Bandwidth Speed Test
+209.38.72.180:80 - Заголовок не найден
+91.151.88.145:80 - Web Server's Default Page
+104.87.32.142:80 - Заголовок не найден
+60.205.211.23:80 - ç½ç«è®¿é®æ¥é
+212.6.81.21:80 - Заголовок не найден
+44.221.1.201:80 - Bonvenon al Esperanto-USA! - Esperanto-USA
+186.7.160.1:80 - 
+200.123.123.194:80 - 
