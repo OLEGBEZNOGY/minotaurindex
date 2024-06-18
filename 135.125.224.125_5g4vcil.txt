@@ -4645,3 +4645,51 @@ ult Page
 85.217.182.51:80 - Заголовок не найден
 193.144.12.25:80 - COnTic | Cognició & Context i les Tecnologies de la Informació i la comunicació
 104.110.176.143:80 - Заголовок не найден
+80.211.158.210:80 - Welcome to CentOS
+65.9.36.237:80 - Заголовок не найден
+18.238.13.131:80 - Заголовок не найден
+23.73.5.137:80 - Заголовок не найден
+3.74.152.197:80 - Pega Enablement
+35.197.10.39:80 - Site Not Configured | 404 Not Found
+97.75.165.179:80 - IIS Windows Server
+146.148.42.200:80 - Argo CD
+13.94.63.102:80 - 404 Not Found
+103.16.139.225:80 - Welcome to nginx!
+20.245.134.205:80 - Microsoft Azure Web App - Error 404
+189.26.4.146:80 - Заголовок не найден
+61.97.186.11:80 - 503 Service Temporarily Unavailable
+35.170.75.3:80 - Home - Martin General Contracting Inc.
+2.20.237.118:80 - Заголовок не найден
+131.159.2.92:80 - SSP of RBG TUM
+36.66.49.234:80 - 403 Forbidden
+200.123.196.11:80 - NDT (Network Diagnostic Tool) Server from Measurement Lab
+202.195.206.48:80 - 江苏科技大学
+104.85.29.124:80 - Заголовок не найден
+34.234.190.119:80 - 404 Not Found
+95.216.68.112:80 - Заголовок не найден
+183.181.60.158:80 - Apache HTTP Server Test Page powered by CentOS
+20.47.39.166:80 - Заголовок не найден
+88.198.217.64:80 - 403 Forbidden
+89.241.79.48:80 - .::Welcome to the Web-Based Configurator::.
+23.212.196.211:80 - Заголовок не найден
+172.64.81.86:80 - Direct IP access not allowed | Cloudflare
+110.164.68.114:80 - CloudTA
+23.235.135.157:80 - æ²¡ææ¾å°ç«ç¹
+108.6.250.19:80 - Web Site Blocked
+23.102.231.209:80 - Welcome to OpenResty!
+52.57.247.99:80 - Vinfinity - The ultimate wine app and bar
+72.246.31.180:80 - Заголовок не найден
+186.39.156.49:80 - Заголовок не найден
+141.26.67.9:80 - Status der Dienste der Universität Koblenz
+119.28.11.183:80 - æ²¡ææ¾å°ç«ç¹
+199.232.119.51:80 - Fastly error: unknown domain 199.232.119.51
+192.243.85.30:80 - Error Page
+160.217.2.22:80 - Apache2 Debian Default Page: It works
+18.209.135.141:80 - 503 Service Temporarily Unavailable
+113.21.127.136:80 - 403 Forbidden
+62.129.238.247:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+152.195.39.186:80 - 404 - Not Found
+18.172.182.174:80 - Заголовок не найден
+153.126.206.174:80 - 403 Forbidden
+166.70.211.174:80 - Заголовок не найден
+83.222.176.197:80 - Please wait, the page is opening...
