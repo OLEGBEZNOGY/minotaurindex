@@ -5137,3 +5137,24 @@
 184.30.159.69:80 - Заголовок не найден
 8.215.155.244:80 - 阿里云 Web应用防火墙
 60.251.162.26:80 - DVR Components Download
+74.208.157.63:80 - Web Server's Default Page
+38.177.234.228:80 - 404 Not Found
+47.76.141.199:80 - æ²¡ææ¾å°ç«ç¹
+190.111.249.159:80 - Comisi&oacute;n Federal de Impuestos
+34.144.205.159:80 - 403 Forbidden
+23.212.25.229:80 - Заголовок не найден
+104.117.40.41:80 - Заголовок не найден
+190.117.98.62:80 - Sistema de Administracion - Mediweb
+23.214.227.219:80 - Заголовок не найден
+102.68.15.102:80 - Заголовок не найден
+43.200.0.0:80 - 404 Not Found
+35.73.109.51:80 - Test Page for the Nginx HTTP Server on EPEL
+154.194.162.53:80 - 404 Not Found
+184.29.121.134:80 - Заголовок не найден
+52.15.122.85:80 - PayID Server
+46.100.97.182:80 - Заголовок не найден
+63.250.47.64:80 - Заголовок не найден
+54.37.117.122:80 - Apache2 Ubuntu Default Page: It works
+43.251.103.50:80 - 403 Forbidden
+104.140.208.194:80 - ERROR: The requested URL could not be retrieved
+95.217.239.174:80 - Ylläs250 | Tervetuloa jäseneksi!
