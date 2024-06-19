@@ -2440,3 +2440,87 @@
 127.197.196.240:80 - Oppidum - BR
 85.187.204.13:80 - Please wait, the login page is opening...
 13.234.176.49:80 - Заголовок не найден
+20.88.184.190:80 - Заголовок не найден
+88.214.194.36:80 - Заголовок не найден
+52.89.101.123:80 - The page you were looking for doesn't exist (404)
+172.85.188.20:80 - Device Client
+18.177.7.190:80 - 404 Not Found
+127.39.176.229:80 - Oppidum - BR
+127.192.152.96:80 - Oppidum - BR
+185.229.118.38:80 - Account Suspended
+127.78.97.6:80 - Oppidum - BR
+127.200.245.148:80 - Oppidum - BR
+219.254.124.123:80 - main page
+172.121.122.21:80 - 404 Not Found
+127.227.98.58:80 - Oppidum - BR
+127.36.93.67:80 - Oppidum - BR
+127.190.143.152:80 - Oppidum - BR
+127.85.210.244:80 - Oppidum - BR
+127.128.87.25:80 - Oppidum - BR
+154.215.113.2:80 - 404 Not Found
+150.230.81.20:80 - Surf. Riachuelo - WebPedidos
+151.101.166.128:80 - Fastly error: unknown domain 151.101.166.128
+104.64.160.29:80 - Заголовок не найден
+127.15.234.48:80 - Oppidum - BR
+127.130.102.43:80 - Oppidum - BR
+127.80.92.162:80 - Oppidum - BR
+20.8.78.245:80 - Microsoft Azure Web App - Error 404
+79.27.9.241:80 - 
+162.159.137.38:80 - Direct IP access not allowed | Cloudflare
+23.55.246.224:80 - Заголовок не найден
+194.233.95.52:80 - 403 Forbidden
+127.183.244.238:80 - Oppidum - BR
+47.101.153.238:80 - Заголовок не найден
+167.235.72.214:80 - Startseite - Enreach Innovation
+127.141.27.161:80 - Oppidum - BR
+127.27.141.183:80 - Oppidum - BR
+43.198.28.153:80 - 香港文憑試教育工作者協會 － 2023/2024 全港聯校模擬考試
+127.102.64.185:80 - Oppidum - BR
+18.233.38.150:80 - 503 Service Temporarily Unavailable
+173.88.211.223:80 - 
+127.77.238.73:80 - Oppidum - BR
+83.9.137.236:80 - 300Mbps Wireless N ADSL2+ Modem Router TD-W8960N
+103.156.148.5:80 - 403 - Forbidden: Access is denied.
+127.122.237.251:80 - Oppidum - BR
+127.31.246.173:80 - Oppidum - BR
+23.9.219.169:80 - Заголовок не найден
+47.92.243.92:80 - Welcome to nginx!
+85.210.90.17:80 - 404 Not Found
+3.74.39.43:80 - Bahn - Fahrplan & Live Tracking - Verbindung
+45.232.77.242:80 - Заголовок не найден
+103.11.212.248:80 - Direct IP access not allowed | Cloudflare
+99.192.144.57:80 - Shared IP
+52.43.210.69:80 - Welcome to nginx!
+127.204.186.98:80 - Oppidum - BR
+13.50.214.3:80 - Elastic Beanstalk
+91.13.205.40:80 - Welcome to nginx!
+5.181.134.93:80 - Apache2 Ubuntu Default Page: It works
+105.69.153.118:80 - &#72;&#50;&#56;&#56;&#65;
+127.81.180.49:80 - Oppidum - BR
+65.9.150.57:80 - Заголовок не найден
+149.56.142.44:80 - Welcome to nginx!
+199.26.77.196:80 - 403 - Forbidden: Access is denied.
+3.17.47.47:80 - Заголовок не найден
+18.238.7.222:80 - Заголовок не найден
+23.214.49.109:80 - Заголовок не найден
+18.154.173.197:80 - Заголовок не найден
+107.154.116.22:80 - Заголовок не найден
+13.236.245.184:80 - Заголовок не найден
+139.60.4.84:80 - Welcome to 139.60.4.84
+23.53.204.241:80 - Заголовок не найден
+158.178.200.28:80 - Welcome to nginx!
+127.200.186.82:80 - Oppidum - BR
+54.252.239.148:80 - Website Unavailable
+38.38.139.82:80 - 404 Not Found
+178.254.37.161:80 - Apache2 Ubuntu Default Page: It works
+72.239.35.252:80 - 
+172.120.72.114:80 - 404 Not Found
+41.220.29.70:80 - Заголовок не найден
+51.158.100.16:80 - Performers Collective Online
+45.223.172.194:80 - Заголовок не найден
+127.192.58.229:80 - Oppidum - BR
+127.56.71.55:80 - Oppidum - BR
+122.117.29.22:80 - Заголовок не найден
+5.10.25.143:80 - Заголовок не найден
+90.153.70.91:80 - FRITZ!Repeater 2400
+127.136.114.120:80 - Oppidum - BR
