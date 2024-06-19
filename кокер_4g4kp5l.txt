@@ -1028,3 +1028,149 @@
 65.108.86.208:80 - 404 Not Found
 192.186.103.18:80 - Document Moved
 124.221.212.109:80 - 403 Forbidden
+198.41.194.190:80 - Direct IP access not allowed | Cloudflare
+207.174.213.215:80 - Not Acceptable!
+144.196.139.21:80 - Заголовок не найден
+91.219.84.49:80 - Apache2 Ubuntu Default Page: It works
+23.40.168.85:80 - Заголовок не найден
+38.181.160.144:80 - 404 Not Found
+134.209.137.157:80 - Заголовок не найден
+178.128.232.116:80 - Canadian Youth Nutritional Education Association
+158.199.159.74:80 - BRAIN BOAT
+47.91.11.179:80 - TP-LINK Nano WR702N
+45.32.246.143:80 - Welcome to OpenResty!
+39.108.221.214:80 - æ²¡ææ¾å°ç«ç¹
+50.93.200.229:80 - ååäº¤æ-ååå±ç¤ºé¡µ,åå(domainName)æå¯è½åºå®
+2.22.73.223:80 - Заголовок не найден
+23.14.72.39:80 - Заголовок не найден
+35.190.57.35:80 - Заголовок не найден
+49.13.5.146:80 - Welcome to nginx!
+103.175.138.71:80 - Please wait, the login page is opening...
+166.168.218.48:80 - 
+103.86.103.25:80 - 403 Forbidden
+195.110.58.216:80 - Заголовок не найден
+77.238.87.222:80 - Please wait, the page is opening...
+65.1.223.139:80 - Apache2 Ubuntu Default Page: It works
+160.16.91.181:80 - 403 Forbidden
+3.124.83.208:80 - 503 Service Temporarily Unavailable
+23.53.149.143:80 - Заголовок не найден
+143.47.62.150:80 - 404 Not Found
+104.18.241.39:80 - Direct IP access not allowed | Cloudflare
+13.85.15.46:80 - Microsoft Azure Web App - Error 404
+201.217.192.245:80 - 403 - Forbidden: Access is denied.
+54.231.198.77:80 - Amazon S3 - Cloud Object Storage  - AWS
+222.211.66.14:80 - 403 Forbidden
+223.111.22.234:80 - 503 Service Temporarily Unavailable
+23.77.134.155:80 - Заголовок не найден
+104.71.90.235:80 - Заголовок не найден
+82.15.22.12:80 - Заголовок не найден
+49.212.233.88:80 - ãããã®ããã¼ã¸ããµã¼ã
+138.197.12.142:80 - 404 Not Found
+38.38.83.170:80 - 404 Not Found
+186.7.117.137:80 - 
+153.35.52.226:80 - 403 Forbidden
+104.18.153.107:80 - Direct IP access not allowed | Cloudflare
+38.18.158.135:80 - 
+212.85.114.220:80 - Wynajem ig³ofiltrów, us³ugi odwodnieniowe
+23.48.119.206:80 - Заголовок не найден
+156.253.111.103:80 - 404 Not Found
+23.5.0.231:80 - Заголовок не найден
+65.108.212.170:80 - Заголовок не найден
+35.175.158.52:80 - CSV File Testing And Schema Generation - Openbridge
+170.106.176.251:80 - æ²¡ææ¾å°ç«ç¹
+211.120.162.243:80 - ATHD DVR
+38.63.231.46:80 - Welcome to nginx!
+103.214.110.34:80 - ZAHID.HOST
+111.70.3.95:80 - WEB SERVICE
+23.7.128.220:80 - Заголовок не найден
+142.93.204.74:80 - Заголовок не найден
+2.17.119.36:80 - Заголовок не найден
+13.227.2.239:80 - Заголовок не найден
+52.69.197.8:80 - 401 Authorization Required
+171.237.102.229:80 - WEB SERVICE
+136.226.81.85:80 - Internet Security by Zscaler
+93.119.14.183:80 - Shared IP
+154.3.76.106:80 - Apache HTTP Server Test Page powered by CentOS
+210.79.174.24:80 - Заголовок не найден
+104.16.157.54:80 - Direct IP access not allowed | Cloudflare
+162.55.57.192:80 - iqlang - Se Connecter
+92.123.238.227:80 - Заголовок не найден
+38.35.84.243:80 - Welcome to nginx!
+40.83.95.105:80 - 404 未找到!
+52.54.113.235:80 - YOUR IT SOLUTION FOR TOMORROW
+18.67.236.71:80 - Заголовок не найден
+124.156.152.50:80 - 404 Not Found
+39.98.162.53:80 - Заголовок не найден
+173.175.160.22:80 - 
+138.201.85.252:80 - Coming Soon - warranty.com.se
+153.126.206.210:80 - Заголовок не найден
+104.67.181.254:80 - Заголовок не найден
+64.57.65.112:80 - Service Unavailable
+104.25.255.116:80 - Direct IP access not allowed | Cloudflare
+23.58.77.106:80 - Заголовок не найден
+104.24.51.253:80 - Direct IP access not allowed | Cloudflare
+2.23.229.118:80 - Заголовок не найден
+104.104.83.223:80 - Заголовок не найден
+104.20.1.114:80 - Direct IP access not allowed | Cloudflare
+186.214.209.129:80 - IIS Windows Server
+13.36.218.76:80 - Apache2 Ubuntu Default Page: It works
+23.58.164.26:80 - Заголовок не найден
+137.117.12.39:80 - Заголовок не найден
+78.21.168.148:80 - Заголовок не найден
+199.232.199.122:80 - Fastly error: unknown domain 199.232.199.122
+15.204.158.160:80 - Welcome to nginx!
+66.154.80.211:80 - JAV CUBE - javcube.com
+185.10.190.246:80 - Zimbra Web Client Sign In
+54.167.123.85:80 - Artboard
+173.222.194.21:80 - Заголовок не найден
+88.102.225.110:80 - 
+211.151.6.107:80 - Заголовок не найден
+38.154.78.206:80 - ERROR: The requested URL could not be retrieved
+103.227.163.118:80 - Заголовок не найден
+154.92.66.14:80 - 404 Not Found
+108.62.70.41:80 - ERROR: The requested URL could not be retrieved
+125.19.35.234:80 - IMT Admissions 2016
+149.104.35.20:80 - 403 Forbidden
+194.58.39.136:80 - Apache2 Ubuntu Default Page: It works
+120.48.70.98:80 - åå°ç®¡çç³»ç»
+210.150.235.217:80 - DG-SC385 Network Camera
+23.235.132.40:80 - æ²¡ææ¾å°ç«ç¹
+172.121.131.244:80 - 404 Not Found
+158.51.231.21:80 - Заголовок не найден
+64.226.115.108:80 - Aptivera - Software Development Services
+104.105.45.218:80 - Заголовок не найден
+85.217.234.2:80 - Заголовок не найден
+156.67.73.92:80 - 403 Forbidden
+212.64.14.34:80 - 403 Forbidden
+62.129.203.157:80 - RW Technik
+143.137.81.116:80 - F660
+156.239.4.212:80 - 404 Not Found
+93.32.27.57:80 - Aethra Telecommunications Operating System 5
+104.102.6.55:80 - Заголовок не найден
+47.108.188.5:80 - 404 Not Found
+124.43.57.90:80 - 
+23.74.20.197:80 - Заголовок не найден
+38.207.205.48:80 - 404 Not Found
+36.150.127.73:80 - 404 Not Found
+94.199.254.85:80 - Заголовок не найден
+104.107.107.88:80 - Заголовок не найден
+154.194.170.185:80 - Заголовок не найден
+169.136.105.110:80 - 403 Forbidden
+104.140.123.230:80 - 403 Forbidden
+8.217.84.69:80 - ç½ç«è®¿é®æ¥é
+185.31.79.99:80 - Her flytter snart en ny kunde ind | Powerhosting - Service du kan regne med
+47.104.6.31:80 - ç½ç«è®¿é®æ¥é
+202.61.249.197:80 - 404 Not Found
+61.139.94.31:80 - 403 Forbidden
+159.69.183.104:80 - 404 Not Found
+114.214.57.223:80 - 404 Not Found
+210.44.220.104:80 - 404 Not Found
+104.19.31.53:80 - Direct IP access not allowed | Cloudflare
+209.182.218.13:80 - IIS Windows Server
+23.98.146.22:80 - 403 - Forbidden: Access is denied.
+212.118.41.221:80 - Apache2 Ubuntu Default Page: It works
+202.26.159.210:80 - Welcome to Japan Open Grid
+184.30.82.102:80 - Заголовок не найден
+62.113.109.234:80 - Success!
+184.87.97.147:80 - Заголовок не найден
+15.253.7.42:80 - Заголовок не найден
