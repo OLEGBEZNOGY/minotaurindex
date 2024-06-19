@@ -1,0 +1,1094 @@
+127.70.223.39:80 - IIS Windows
+127.65.64.69:80 - IIS Windows
+127.239.194.200:80 - IIS Windows
+127.208.205.147:80 - IIS Windows
+127.115.102.58:80 - IIS Windows
+127.139.112.94:80 - IIS Windows
+127.209.194.198:80 - IIS Windows
+127.57.132.243:80 - IIS Windows
+127.201.13.100:80 - IIS Windows
+127.219.95.52:80 - IIS Windows
+127.76.10.53:80 - IIS Windows
+127.223.99.98:80 - IIS Windows
+127.244.124.28:80 - IIS Windows
+127.182.67.140:80 - IIS Windows
+127.92.198.67:80 - IIS Windows
+127.221.166.246:80 - IIS Windows
+127.144.248.180:80 - IIS Windows
+127.227.175.43:80 - IIS Windows
+127.202.237.168:80 - IIS Windows
+127.58.83.83:80 - IIS Windows
+127.251.217.202:80 - IIS Windows
+127.127.57.162:80 - IIS Windows
+127.158.158.145:80 - IIS Windows
+127.234.93.95:80 - IIS Windows
+127.242.160.47:80 - IIS Windows
+127.237.146.156:80 - IIS Windows
+127.193.135.89:80 - IIS Windows
+127.225.106.178:80 - IIS Windows
+127.249.210.174:80 - IIS Windows
+127.27.29.231:80 - IIS Windows
+127.157.249.82:80 - IIS Windows
+127.5.94.152:80 - IIS Windows
+127.167.38.124:80 - IIS Windows
+127.234.36.127:80 - IIS Windows
+127.152.89.229:80 - IIS Windows
+127.99.193.125:80 - IIS Windows
+127.221.189.14:80 - IIS Windows
+127.252.215.4:80 - IIS Windows
+127.83.125.63:80 - IIS Windows
+127.247.16.121:80 - IIS Windows
+127.209.93.84:80 - IIS Windows
+127.80.138.110:80 - IIS Windows
+127.241.1.37:80 - IIS Windows
+127.76.61.83:80 - IIS Windows
+127.253.65.102:80 - IIS Windows
+127.6.61.23:80 - IIS Windows
+127.124.127.91:80 - IIS Windows
+127.133.39.142:80 - IIS Windows
+127.224.90.86:80 - IIS Windows
+127.205.130.164:80 - IIS Windows
+127.89.70.98:80 - IIS Windows
+127.162.226.237:80 - IIS Windows
+127.123.213.167:80 - IIS Windows
+127.93.236.0:80 - IIS Windows
+127.211.136.205:80 - IIS Windows
+127.180.139.100:80 - IIS Windows
+127.122.170.166:80 - IIS Windows
+127.77.149.167:80 - IIS Windows
+127.21.55.228:80 - IIS Windows
+127.4.26.134:80 - IIS Windows
+127.19.5.60:80 - IIS Windows
+127.56.86.148:80 - IIS Windows
+127.40.155.179:80 - IIS Windows
+127.108.240.11:80 - IIS Windows
+127.227.46.35:80 - IIS Windows
+127.117.89.58:80 - IIS Windows
+127.63.222.255:80 - IIS Windows
+127.51.90.136:80 - IIS Windows
+127.191.105.37:80 - IIS Windows
+127.126.133.216:80 - IIS Windows
+127.141.174.166:80 - IIS Windows
+127.233.191.86:80 - IIS Windows
+127.233.131.48:80 - IIS Windows
+127.3.45.158:80 - IIS Windows
+127.91.113.223:80 - IIS Windows
+127.135.55.232:80 - IIS Windows
+127.241.111.82:80 - IIS Windows
+127.246.145.66:80 - IIS Windows
+127.26.249.208:80 - IIS Windows
+127.147.33.152:80 - IIS Windows
+127.229.97.49:80 - IIS Windows
+127.198.31.74:80 - IIS Windows
+127.194.227.249:80 - IIS Windows
+127.61.146.189:80 - IIS Windows
+127.233.213.23:80 - IIS Windows
+127.32.218.113:80 - IIS Windows
+127.84.252.76:80 - IIS Windows
+127.154.82.191:80 - IIS Windows
+127.187.140.224:80 - IIS Windows
+127.109.173.125:80 - IIS Windows
+127.152.154.32:80 - IIS Windows
+127.25.145.145:80 - IIS Windows
+127.206.81.137:80 - IIS Windows
+127.47.145.117:80 - IIS Windows
+127.222.110.79:80 - IIS Windows
+127.32.189.198:80 - IIS Windows
+127.113.236.85:80 - IIS Windows
+127.186.184.135:80 - IIS Windows
+127.75.175.45:80 - IIS Windows
+127.111.226.24:80 - IIS Windows
+127.44.59.119:80 - IIS Windows
+127.25.165.232:80 - IIS Windows
+127.226.12.102:80 - IIS Windows
+127.158.72.36:80 - IIS Windows
+127.228.16.165:80 - IIS Windows
+127.187.226.162:80 - IIS Windows
+127.77.185.234:80 - IIS Windows
+127.91.126.231:80 - IIS Windows
+127.223.181.151:80 - IIS Windows
+127.191.0.62:80 - IIS Windows
+127.212.124.1:80 - IIS Windows
+127.18.103.114:80 - IIS Windows
+127.138.132.236:80 - IIS Windows
+127.7.219.83:80 - IIS Windows
+127.226.243.111:80 - IIS Windows
+127.219.11.55:80 - IIS Windows
+127.112.111.223:80 - IIS Windows
+127.211.164.221:80 - IIS Windows
+127.131.140.101:80 - IIS Windows
+127.120.76.254:80 - IIS Windows
+127.146.65.58:80 - IIS Windows
+127.149.30.204:80 - IIS Windows
+127.177.240.220:80 - IIS Windows
+127.169.79.99:80 - IIS Windows
+127.69.34.148:80 - IIS Windows
+127.63.27.186:80 - IIS Windows
+127.179.94.197:80 - IIS Windows
+127.114.178.227:80 - IIS Windows
+127.183.182.201:80 - IIS Windows
+127.202.214.160:80 - IIS Windows
+127.17.65.161:80 - IIS Windows
+127.152.252.1:80 - IIS Windows
+127.229.152.234:80 - IIS Windows
+127.220.221.92:80 - IIS Windows
+127.58.101.74:80 - IIS Windows
+127.156.28.67:80 - IIS Windows
+127.85.93.60:80 - IIS Windows
+127.44.203.246:80 - IIS Windows
+127.39.255.253:80 - IIS Windows
+127.245.62.138:80 - IIS Windows
+127.51.107.107:80 - IIS Windows
+127.205.237.253:80 - IIS Windows
+127.221.18.205:80 - IIS Windows
+127.251.57.46:80 - IIS Windows
+127.19.245.90:80 - IIS Windows
+127.5.162.191:80 - IIS Windows
+127.57.203.153:80 - IIS Windows
+127.16.69.177:80 - IIS Windows
+127.4.161.60:80 - IIS Windows
+127.118.228.195:80 - IIS Windows
+127.83.224.116:80 - IIS Windows
+127.203.122.246:80 - IIS Windows
+127.242.28.182:80 - IIS Windows
+127.89.202.26:80 - IIS Windows
+127.116.128.173:80 - IIS Windows
+127.100.92.28:80 - IIS Windows
+127.1.157.190:80 - IIS Windows
+127.103.49.120:80 - IIS Windows
+127.16.61.52:80 - IIS Windows
+127.39.151.56:80 - IIS Windows
+127.89.254.224:80 - IIS Windows
+127.80.184.79:80 - IIS Windows
+127.207.5.202:80 - IIS Windows
+127.35.123.140:80 - IIS Windows
+127.230.50.132:80 - IIS Windows
+127.99.175.121:80 - IIS Windows
+127.93.12.239:80 - IIS Windows
+127.149.97.151:80 - IIS Windows
+127.223.87.13:80 - IIS Windows
+127.18.157.198:80 - IIS Windows
+127.164.204.34:80 - IIS Windows
+127.141.141.243:80 - IIS Windows
+127.124.45.54:80 - IIS Windows
+127.126.27.244:80 - IIS Windows
+127.75.39.251:80 - IIS Windows
+127.44.21.25:80 - IIS Windows
+127.156.255.3:80 - IIS Windows
+127.130.87.1:80 - IIS Windows
+127.200.99.224:80 - IIS Windows
+127.187.165.148:80 - IIS Windows
+127.122.238.218:80 - IIS Windows
+127.6.129.199:80 - IIS Windows
+127.123.95.210:80 - IIS Windows
+127.210.145.138:80 - IIS Windows
+127.253.247.126:80 - IIS Windows
+127.119.207.42:80 - IIS Windows
+127.17.161.44:80 - IIS Windows
+127.239.29.215:80 - IIS Windows
+127.157.238.158:80 - IIS Windows
+127.31.96.203:80 - IIS Windows
+127.59.35.149:80 - IIS Windows
+127.28.36.61:80 - IIS Windows
+127.122.5.173:80 - IIS Windows
+127.197.124.224:80 - IIS Windows
+127.219.222.125:80 - IIS Windows
+127.240.49.170:80 - IIS Windows
+127.131.138.69:80 - IIS Windows
+127.185.158.15:80 - IIS Windows
+127.70.5.193:80 - IIS Windows
+127.198.71.219:80 - IIS Windows
+127.73.170.111:80 - IIS Windows
+127.67.12.160:80 - IIS Windows
+127.241.167.83:80 - IIS Windows
+127.25.13.171:80 - IIS Windows
+127.244.22.182:80 - IIS Windows
+127.157.129.234:80 - IIS Windows
+127.145.165.43:80 - IIS Windows
+127.104.8.55:80 - IIS Windows
+127.37.44.220:80 - IIS Windows
+127.254.124.208:80 - IIS Windows
+127.50.171.134:80 - IIS Windows
+127.90.107.46:80 - IIS Windows
+127.245.138.206:80 - IIS Windows
+127.226.161.180:80 - IIS Windows
+127.232.217.125:80 - IIS Windows
+127.42.32.51:80 - IIS Windows
+127.187.38.196:80 - IIS Windows
+127.57.68.109:80 - IIS Windows
+127.215.249.52:80 - IIS Windows
+127.68.219.212:80 - IIS Windows
+127.201.5.179:80 - IIS Windows
+127.96.98.29:80 - IIS Windows
+127.58.94.122:80 - IIS Windows
+127.146.98.84:80 - IIS Windows
+127.14.54.104:80 - IIS Windows
+127.232.150.3:80 - IIS Windows
+127.18.0.133:80 - IIS Windows
+127.65.163.35:80 - IIS Windows
+127.189.212.152:80 - IIS Windows
+127.100.238.69:80 - IIS Windows
+127.230.250.118:80 - IIS Windows
+127.87.158.59:80 - IIS Windows
+127.42.55.63:80 - IIS Windows
+127.218.109.40:80 - IIS Windows
+127.36.120.109:80 - IIS Windows
+127.141.112.167:80 - IIS Windows
+127.5.187.137:80 - IIS Windows
+127.31.231.242:80 - IIS Windows
+127.12.176.168:80 - IIS Windows
+127.12.35.113:80 - IIS Windows
+127.44.17.72:80 - IIS Windows
+127.56.122.165:80 - IIS Windows
+127.139.213.39:80 - IIS Windows
+127.92.5.129:80 - IIS Windows
+127.189.42.171:80 - IIS Windows
+127.235.35.141:80 - IIS Windows
+127.128.12.200:80 - IIS Windows
+127.49.14.98:80 - IIS Windows
+127.220.159.243:80 - IIS Windows
+127.144.88.193:80 - IIS Windows
+127.198.228.127:80 - IIS Windows
+127.163.54.232:80 - IIS Windows
+127.127.201.174:80 - IIS Windows
+127.248.6.146:80 - IIS Windows
+127.40.175.77:80 - IIS Windows
+127.75.137.93:80 - IIS Windows
+127.237.80.80:80 - IIS Windows
+127.203.100.9:80 - IIS Windows
+127.132.194.204:80 - IIS Windows
+127.58.200.56:80 - IIS Windows
+127.223.215.73:80 - IIS Windows
+127.209.1.206:80 - IIS Windows
+127.60.142.12:80 - IIS Windows
+127.199.191.227:80 - IIS Windows
+127.62.97.206:80 - IIS Windows
+127.72.198.67:80 - IIS Windows
+127.213.29.14:80 - IIS Windows
+127.155.139.91:80 - IIS Windows
+127.108.45.188:80 - IIS Windows
+127.181.135.118:80 - IIS Windows
+127.106.111.211:80 - IIS Windows
+127.69.78.237:80 - IIS Windows
+127.10.7.194:80 - IIS Windows
+127.54.132.138:80 - IIS Windows
+127.200.238.244:80 - IIS Windows
+127.71.155.162:80 - IIS Windows
+127.99.196.54:80 - IIS Windows
+127.35.147.235:80 - IIS Windows
+127.75.249.229:80 - IIS Windows
+127.173.241.183:80 - IIS Windows
+127.127.206.137:80 - IIS Windows
+127.255.134.63:80 - IIS Windows
+127.38.5.167:80 - IIS Windows
+127.77.80.180:80 - IIS Windows
+127.73.37.159:80 - IIS Windows
+127.132.237.233:80 - IIS Windows
+127.164.88.235:80 - IIS Windows
+127.253.165.118:80 - IIS Windows
+127.238.135.131:80 - IIS Windows
+127.194.224.183:80 - IIS Windows
+127.119.3.250:80 - IIS Windows
+127.75.48.166:80 - IIS Windows
+127.138.242.115:80 - IIS Windows
+127.57.148.189:80 - IIS Windows
+127.121.123.60:80 - IIS Windows
+127.32.90.231:80 - IIS Windows
+127.65.67.216:80 - IIS Windows
+127.83.36.238:80 - IIS Windows
+127.134.117.29:80 - IIS Windows
+127.105.223.164:80 - IIS Windows
+127.61.63.163:80 - IIS Windows
+127.194.51.69:80 - IIS Windows
+127.122.134.245:80 - IIS Windows
+127.227.128.42:80 - IIS Windows
+127.98.122.97:80 - IIS Windows
+127.239.3.232:80 - IIS Windows
+127.63.37.4:80 - IIS Windows
+127.194.15.232:80 - IIS Windows
+127.5.146.124:80 - IIS Windows
+127.223.50.77:80 - IIS Windows
+127.138.227.108:80 - IIS Windows
+127.234.205.25:80 - IIS Windows
+127.177.216.138:80 - IIS Windows
+127.48.208.173:80 - IIS Windows
+127.102.227.105:80 - IIS Windows
+127.69.255.99:80 - IIS Windows
+127.98.189.179:80 - IIS Windows
+127.69.15.166:80 - IIS Windows
+127.162.124.219:80 - IIS Windows
+127.85.51.103:80 - IIS Windows
+127.64.171.228:80 - IIS Windows
+127.174.76.219:80 - IIS Windows
+127.90.228.65:80 - IIS Windows
+127.120.93.132:80 - IIS Windows
+127.121.238.16:80 - IIS Windows
+127.2.20.112:80 - IIS Windows
+127.150.156.236:80 - IIS Windows
+127.22.208.225:80 - IIS Windows
+127.59.49.24:80 - IIS Windows
+127.35.108.36:80 - IIS Windows
+127.2.114.24:80 - IIS Windows
+127.73.203.66:80 - IIS Windows
+127.127.233.58:80 - IIS Windows
+127.10.34.147:80 - IIS Windows
+127.228.220.140:80 - IIS Windows
+127.49.88.182:80 - IIS Windows
+127.224.175.129:80 - IIS Windows
+127.174.32.40:80 - IIS Windows
+127.159.224.134:80 - IIS Windows
+127.91.197.148:80 - IIS Windows
+127.110.247.77:80 - IIS Windows
+127.38.169.188:80 - IIS Windows
+127.63.94.211:80 - IIS Windows
+127.190.111.56:80 - IIS Windows
+127.151.246.98:80 - IIS Windows
+127.146.175.18:80 - IIS Windows
+127.197.178.21:80 - IIS Windows
+127.216.194.50:80 - IIS Windows
+127.207.127.240:80 - IIS Windows
+127.190.120.176:80 - IIS Windows
+127.96.91.147:80 - IIS Windows
+127.8.147.158:80 - IIS Windows
+127.84.125.44:80 - IIS Windows
+127.70.154.162:80 - IIS Windows
+127.136.125.133:80 - IIS Windows
+127.8.26.215:80 - IIS Windows
+127.57.143.198:80 - IIS Windows
+127.233.192.51:80 - IIS Windows
+127.122.233.64:80 - IIS Windows
+127.3.44.221:80 - IIS Windows
+127.173.165.12:80 - IIS Windows
+127.68.149.234:80 - IIS Windows
+127.71.13.17:80 - IIS Windows
+127.25.36.12:80 - IIS Windows
+127.52.62.37:80 - IIS Windows
+127.1.206.126:80 - IIS Windows
+127.173.246.64:80 - IIS Windows
+127.191.195.7:80 - IIS Windows
+127.166.34.241:80 - IIS Windows
+127.186.227.46:80 - IIS Windows
+127.171.187.6:80 - IIS Windows
+127.221.188.17:80 - IIS Windows
+127.124.201.99:80 - IIS Windows
+127.131.218.154:80 - IIS Windows
+127.147.28.146:80 - IIS Windows
+127.38.61.2:80 - IIS Windows
+127.33.26.134:80 - IIS Windows
+127.173.159.105:80 - IIS Windows
+127.0.204.121:80 - IIS Windows
+127.95.130.110:80 - IIS Windows
+127.201.133.168:80 - IIS Windows
+127.153.57.252:80 - IIS Windows
+127.129.228.79:80 - IIS Windows
+127.81.40.93:80 - IIS Windows
+127.85.74.225:80 - IIS Windows
+127.220.217.103:80 - IIS Windows
+127.209.78.228:80 - IIS Windows
+127.108.73.137:80 - IIS Windows
+127.190.2.39:80 - IIS Windows
+127.109.180.20:80 - IIS Windows
+127.172.72.196:80 - IIS Windows
+127.2.83.45:80 - IIS Windows
+127.157.13.163:80 - IIS Windows
+127.131.88.161:80 - IIS Windows
+127.110.210.123:80 - IIS Windows
+127.28.167.136:80 - IIS Windows
+127.201.95.224:80 - IIS Windows
+127.129.245.26:80 - IIS Windows
+127.120.148.223:80 - IIS Windows
+127.143.56.239:80 - IIS Windows
+127.58.102.196:80 - IIS Windows
+127.186.189.55:80 - IIS Windows
+127.63.246.252:80 - IIS Windows
+127.129.211.0:80 - IIS Windows
+127.2.36.194:80 - IIS Windows
+127.24.156.89:80 - IIS Windows
+127.217.99.0:80 - IIS Windows
+127.157.130.255:80 - IIS Windows
+127.88.201.87:80 - IIS Windows
+127.96.172.236:80 - IIS Windows
+127.222.241.144:80 - IIS Windows
+127.58.153.134:80 - IIS Windows
+127.146.23.248:80 - IIS Windows
+127.225.215.145:80 - IIS Windows
+127.25.214.20:80 - IIS Windows
+127.159.25.180:80 - IIS Windows
+127.135.75.112:80 - IIS Windows
+127.105.170.98:80 - IIS Windows
+127.209.125.240:80 - IIS Windows
+127.177.115.114:80 - IIS Windows
+127.7.127.14:80 - IIS Windows
+127.167.245.15:80 - IIS Windows
+127.67.242.49:80 - IIS Windows
+127.180.47.63:80 - IIS Windows
+127.177.144.181:80 - IIS Windows
+127.109.218.164:80 - IIS Windows
+127.200.203.208:80 - IIS Windows
+127.70.172.196:80 - IIS Windows
+127.154.233.8:80 - IIS Windows
+127.89.66.158:80 - IIS Windows
+127.54.123.194:80 - IIS Windows
+127.139.65.160:80 - IIS Windows
+127.11.162.238:80 - IIS Windows
+127.45.109.241:80 - IIS Windows
+127.176.176.99:80 - IIS Windows
+127.98.101.25:80 - IIS Windows
+127.124.63.88:80 - IIS Windows
+127.122.86.163:80 - IIS Windows
+127.135.194.80:80 - IIS Windows
+127.103.207.125:80 - IIS Windows
+127.151.67.123:80 - IIS Windows
+127.130.129.220:80 - IIS Windows
+127.119.211.214:80 - IIS Windows
+127.246.69.225:80 - IIS Windows
+127.137.71.120:80 - IIS Windows
+127.47.34.111:80 - IIS Windows
+127.83.141.88:80 - IIS Windows
+127.158.158.137:80 - IIS Windows
+127.116.195.80:80 - IIS Windows
+127.45.44.233:80 - IIS Windows
+127.54.168.192:80 - IIS Windows
+127.61.220.140:80 - IIS Windows
+127.24.160.226:80 - IIS Windows
+127.47.108.49:80 - IIS Windows
+127.246.228.245:80 - IIS Windows
+127.136.199.243:80 - IIS Windows
+127.230.64.121:80 - IIS Windows
+127.83.209.72:80 - IIS Windows
+127.39.64.223:80 - IIS Windows
+127.18.253.82:80 - IIS Windows
+127.195.177.202:80 - IIS Windows
+127.46.247.126:80 - IIS Windows
+127.213.186.145:80 - IIS Windows
+127.120.186.164:80 - IIS Windows
+127.29.213.153:80 - IIS Windows
+127.253.80.28:80 - IIS Windows
+127.28.167.253:80 - IIS Windows
+127.231.212.58:80 - IIS Windows
+127.163.184.73:80 - IIS Windows
+127.50.65.141:80 - IIS Windows
+127.21.157.200:80 - IIS Windows
+127.163.227.0:80 - IIS Windows
+127.94.156.117:80 - IIS Windows
+127.20.118.226:80 - IIS Windows
+127.45.50.45:80 - IIS Windows
+127.112.39.84:80 - IIS Windows
+127.184.2.117:80 - IIS Windows
+127.116.136.152:80 - IIS Windows
+127.2.21.123:80 - IIS Windows
+127.143.224.67:80 - IIS Windows
+127.223.252.35:80 - IIS Windows
+127.237.61.67:80 - IIS Windows
+127.197.39.21:80 - IIS Windows
+127.13.195.11:80 - IIS Windows
+127.20.2.216:80 - IIS Windows
+127.222.202.9:80 - IIS Windows
+127.200.218.220:80 - IIS Windows
+127.4.235.251:80 - IIS Windows
+127.59.250.26:80 - IIS Windows
+127.59.209.12:80 - IIS Windows
+127.91.66.8:80 - IIS Windows
+127.196.248.157:80 - IIS Windows
+127.87.43.233:80 - IIS Windows
+127.205.181.117:80 - IIS Windows
+127.215.231.208:80 - IIS Windows
+127.51.187.108:80 - IIS Windows
+127.127.20.32:80 - IIS Windows
+127.165.106.239:80 - IIS Windows
+127.88.137.211:80 - IIS Windows
+127.47.23.189:80 - IIS Windows
+127.232.133.166:80 - IIS Windows
+127.210.0.120:80 - IIS Windows
+127.75.179.226:80 - IIS Windows
+127.229.179.158:80 - IIS Windows
+127.111.193.188:80 - IIS Windows
+127.64.108.26:80 - IIS Windows
+127.88.211.230:80 - IIS Windows
+127.243.145.214:80 - IIS Windows
+127.247.39.111:80 - IIS Windows
+127.135.17.38:80 - IIS Windows
+127.95.21.253:80 - IIS Windows
+127.50.50.143:80 - IIS Windows
+127.176.96.239:80 - IIS Windows
+127.164.88.53:80 - IIS Windows
+127.134.168.153:80 - IIS Windows
+127.163.217.95:80 - IIS Windows
+127.136.96.17:80 - IIS Windows
+127.167.186.222:80 - IIS Windows
+127.89.78.188:80 - IIS Windows
+127.74.55.179:80 - IIS Windows
+127.182.99.215:80 - IIS Windows
+127.13.28.231:80 - IIS Windows
+127.87.19.215:80 - IIS Windows
+127.118.69.179:80 - IIS Windows
+127.158.233.246:80 - IIS Windows
+127.103.140.165:80 - IIS Windows
+127.232.184.252:80 - IIS Windows
+127.131.110.226:80 - IIS Windows
+127.12.241.252:80 - IIS Windows
+127.63.186.241:80 - IIS Windows
+127.71.23.187:80 - IIS Windows
+127.33.121.44:80 - IIS Windows
+127.230.242.118:80 - IIS Windows
+127.235.6.190:80 - IIS Windows
+127.147.160.79:80 - IIS Windows
+127.85.61.35:80 - IIS Windows
+127.138.229.106:80 - IIS Windows
+127.47.38.58:80 - IIS Windows
+127.247.145.40:80 - IIS Windows
+127.96.208.223:80 - IIS Windows
+127.57.23.155:80 - IIS Windows
+127.28.214.178:80 - IIS Windows
+127.78.167.83:80 - IIS Windows
+127.38.15.33:80 - IIS Windows
+127.116.142.76:80 - IIS Windows
+127.23.161.242:80 - IIS Windows
+127.210.236.36:80 - IIS Windows
+127.143.13.15:80 - IIS Windows
+127.197.23.228:80 - IIS Windows
+127.196.36.209:80 - IIS Windows
+127.169.100.153:80 - IIS Windows
+127.189.207.145:80 - IIS Windows
+127.47.92.225:80 - IIS Windows
+127.160.50.53:80 - IIS Windows
+127.118.22.86:80 - IIS Windows
+127.89.120.185:80 - IIS Windows
+127.41.83.77:80 - IIS Windows
+127.172.39.120:80 - IIS Windows
+127.122.42.174:80 - IIS Windows
+127.12.44.66:80 - IIS Windows
+127.44.115.138:80 - IIS Windows
+127.4.77.48:80 - IIS Windows
+127.22.140.201:80 - IIS Windows
+127.183.94.168:80 - IIS Windows
+127.181.147.87:80 - IIS Windows
+127.211.217.143:80 - IIS Windows
+127.123.36.93:80 - IIS Windows
+127.149.246.84:80 - IIS Windows
+127.16.16.37:80 - IIS Windows
+127.210.141.87:80 - IIS Windows
+127.142.7.75:80 - IIS Windows
+127.181.116.153:80 - IIS Windows
+127.41.159.208:80 - IIS Windows
+127.173.16.141:80 - IIS Windows
+127.37.158.224:80 - IIS Windows
+127.146.192.212:80 - IIS Windows
+127.68.176.27:80 - IIS Windows
+127.31.195.231:80 - IIS Windows
+127.123.144.62:80 - IIS Windows
+127.87.241.139:80 - IIS Windows
+127.188.38.35:80 - IIS Windows
+127.44.122.115:80 - IIS Windows
+127.136.66.40:80 - IIS Windows
+127.120.204.179:80 - IIS Windows
+127.25.30.211:80 - IIS Windows
+127.162.103.34:80 - IIS Windows
+127.176.47.119:80 - IIS Windows
+127.67.141.94:80 - IIS Windows
+127.21.61.50:80 - IIS Windows
+127.41.212.249:80 - IIS Windows
+127.200.41.100:80 - IIS Windows
+127.96.39.36:80 - IIS Windows
+127.175.253.140:80 - IIS Windows
+127.96.195.124:80 - IIS Windows
+127.15.127.44:80 - IIS Windows
+127.99.238.132:80 - IIS Windows
+127.208.203.50:80 - IIS Windows
+127.99.201.79:80 - IIS Windows
+127.208.190.146:80 - IIS Windows
+127.153.44.90:80 - IIS Windows
+127.142.170.244:80 - IIS Windows
+127.153.145.2:80 - IIS Windows
+127.90.123.205:80 - IIS Windows
+127.62.100.68:80 - IIS Windows
+127.71.221.84:80 - IIS Windows
+127.11.150.218:80 - IIS Windows
+127.121.150.176:80 - IIS Windows
+127.145.222.167:80 - IIS Windows
+127.233.76.78:80 - IIS Windows
+127.1.57.81:80 - IIS Windows
+127.105.121.18:80 - IIS Windows
+127.175.215.28:80 - IIS Windows
+127.162.216.193:80 - IIS Windows
+127.125.170.16:80 - IIS Windows
+127.0.107.246:80 - IIS Windows
+127.23.167.181:80 - IIS Windows
+127.18.36.212:80 - IIS Windows
+127.7.247.74:80 - IIS Windows
+127.26.198.11:80 - IIS Windows
+127.2.249.3:80 - IIS Windows
+127.37.234.232:80 - IIS Windows
+127.205.248.33:80 - IIS Windows
+127.185.100.219:80 - IIS Windows
+52.8.83.58:80 - Заголовок не найден
+103.247.226.220:80 - Welcome to nginx!
+127.120.214.88:80 - IIS Windows
+127.180.118.147:80 - IIS Windows
+207.204.247.172:80 - Bandwidth Speed Test
+127.117.215.186:80 - IIS Windows
+23.79.184.148:80 - Заголовок не найден
+23.62.185.86:80 - Заголовок не найден
+3.160.64.92:80 - Заголовок не найден
+127.158.91.21:80 - IIS Windows
+47.236.112.215:80 - 404 Not Found
+210.180.118.111:80 - PHP 7.3.33 - phpinfo()
+172.104.106.166:80 - 500 Internal Server Error
+211.250.252.241:80 - Заголовок не найден
+127.150.63.20:80 - IIS Windows
+46.250.210.149:80 - Заголовок не найден
+116.62.5.198:80 - 503 Service Temporarily Unavailable
+127.71.121.58:80 - IIS Windows
+3.231.123.194:80 - 403 Forbidden
+54.241.131.244:80 - Test Page for the Apache HTTP Server
+199.96.29.229:80 - IIS Windows Server
+47.97.187.121:80 - ModernWMS
+127.0.120.28:80 - IIS Windows
+104.67.6.189:80 - Заголовок не найден
+18.238.214.45:80 - Заголовок не найден
+61.231.68.223:80 - Welcome to nginx!
+127.79.50.115:80 - IIS Windows
+23.95.82.136:80 - Forbidden!
+127.255.224.149:80 - IIS Windows
+34.78.187.53:80 - Database not found
+127.207.67.64:80 - IIS Windows
+127.208.50.249:80 - IIS Windows
+127.159.41.12:80 - IIS Windows
+144.217.64.24:80 - Web Server's Default Page
+54.198.15.143:80 - Заголовок не найден
+23.34.70.180:80 - Заголовок не найден
+75.131.142.88:80 - 
+18.173.189.130:80 - Заголовок не найден
+127.206.42.68:80 - IIS Windows
+137.184.144.231:80 - 404 Not Found
+20.150.79.165:80 - Заголовок не найден
+127.66.78.165:80 - IIS Windows
+127.58.11.97:80 - IIS Windows
+127.168.224.146:80 - IIS Windows
+127.210.156.197:80 - IIS Windows
+104.100.68.94:80 - Заголовок не найден
+127.200.150.80:80 - IIS Windows
+162.241.207.208:80 - Заголовок не найден
+118.27.110.148:80 - Apache HTTP Server Test Page powered by CentOS
+184.87.177.57:80 - Заголовок не найден
+188.166.232.70:80 - Data Pengeluaran HK 2024 &#187; Data Hongkong Terbaru
+23.37.210.203:80 - Заголовок не найден
+127.171.92.249:80 - IIS Windows
+77.68.78.225:80 - Web Server's Default Page
+70.119.1.2:80 - 
+38.170.45.143:80 - Заголовок не найден
+60.14.96.18:80 - Welcome to nginx!
+127.60.71.88:80 - IIS Windows
+127.11.87.31:80 - IIS Windows
+18.164.6.70:80 - Заголовок не найден
+52.196.252.182:80 - Заголовок не найден
+43.243.245.168:80 - Заголовок не найден
+103.143.22.205:80 - RouterOS router configuration page
+38.14.121.201:80 - 404 Not Found
+127.4.157.170:80 - IIS Windows
+18.154.239.34:80 - Заголовок не найден
+127.127.99.87:80 - IIS Windows
+50.2.120.247:80 - 403 Forbidden
+52.217.77.68:80 - Amazon S3 - Cloud Object Storage  - AWS
+127.20.64.52:80 - IIS Windows
+3.230.77.181:80 - 404 Not found
+127.172.141.66:80 - IIS Windows
+148.101.170.50:80 - 
+127.161.158.104:80 - IIS Windows
+1.13.102.57:80 - æ²¡ææ¾å°ç«ç¹
+160.251.102.77:80 - KANSAI ONE PASS
+108.158.251.246:80 - Заголовок не найден
+129.211.8.184:80 - 404 Not Found
+3.161.11.180:80 - Заголовок не найден
+87.226.125.8:80 - 500 Internal Server Error
+23.200.105.9:80 - Заголовок не найден
+127.240.159.110:80 - IIS Windows
+107.151.224.111:80 - Welcome to nginx!
+172.104.19.184:80 - Welcome to nginx!
+23.38.100.140:80 - Заголовок не найден
+95.110.203.103:80 - Formazione Neoassunti
+104.16.255.194:80 - Direct IP access not allowed | Cloudflare
+151.80.3.190:80 - Apache2 Debian Default Page: It works
+23.60.162.248:80 - Заголовок не найден
+47.93.12.9:80 - ç½ç«è®¿é®æ¥é
+127.121.143.253:80 - IIS Windows
+13.210.254.58:80 - Welcome to nginx!
+127.230.95.209:80 - IIS Windows
+135.125.181.96:80 - Finero
+23.227.60.63:80 - Direct IP access not allowed | Cloudflare
+84.22.99.124:80 - Caddy works!
+23.19.83.121:80 - Заголовок не найден
+127.134.35.242:80 - IIS Windows
+185.107.90.215:80 - Web Server's Default Page
+127.128.22.253:80 - IIS Windows
+127.59.251.18:80 - IIS Windows
+59.0.187.106:80 - Заголовок не найден
+127.145.42.122:80 - IIS Windows
+23.65.126.208:80 - Заголовок не найден
+127.217.8.182:80 - IIS Windows
+127.114.200.158:80 - IIS Windows
+23.218.85.215:80 - Заголовок не найден
+127.131.26.95:80 - IIS Windows
+127.147.0.12:80 - IIS Windows
+202.194.27.61:80 - 404 Not Found
+85.128.225.92:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+127.62.209.191:80 - IIS Windows
+127.240.56.85:80 - IIS Windows
+52.193.201.63:80 - Заголовок не найден
+140.111.113.116:80 - Заголовок не найден
+127.156.61.253:80 - IIS Windows
+127.137.66.189:80 - IIS Windows
+103.118.81.73:80 - 403 Forbidden
+127.138.9.153:80 - IIS Windows
+77.211.22.119:80 - TL300X
+13.236.49.180:80 - TruckWiz Admin - Login
+127.73.119.93:80 - IIS Windows
+23.60.133.154:80 - Заголовок не найден
+52.6.165.85:80 - 404 Not Found
+64.110.110.193:80 - Bing
+89.207.108.134:80 - Emerson Site Supervisor
+44.240.92.173:80 - Заголовок не найден
+23.13.162.92:80 - Заголовок не найден
+164.132.21.180:80 - Apache2 Ubuntu Default Page: It works
+185.6.72.42:80 - Roundcube Webmail :: Welcome to Roundcube Webmail
+103.118.192.124:80 - Welcome to nginx!
+127.153.97.103:80 - IIS Windows
+127.136.54.49:80 - IIS Windows
+127.252.35.226:80 - IIS Windows
+23.210.129.193:80 - Заголовок не найден
+151.252.24.98:80 - Заголовок не найден
+114.34.253.128:80 - WEB SERVICE
+205.196.217.106:80 - Site not found &middot; DreamHost
+120.77.158.153:80 - Welcome to JANUSEC
+54.68.59.207:80 - Заголовок не найден
+127.80.98.234:80 - IIS Windows
+127.0.91.198:80 - IIS Windows
+40.83.209.68:80 - Заголовок не найден
+31.33.174.214:80 - Apache2 Debian Default Page: It works
+190.166.227.248:80 - 
+72.34.36.93:80 - Softaculous Webuzo | Default Website Page
+127.43.103.208:80 - IIS Windows
+68.41.137.97:80 - Заголовок не найден
+127.248.167.162:80 - IIS Windows
+23.43.156.36:80 - Заголовок не найден
+153.142.41.171:80 - D8F_E2_105607
+127.99.79.156:80 - IIS Windows
+23.66.13.185:80 - Заголовок не найден
+23.13.78.237:80 - Заголовок не найден
+207.60.241.3:80 - 403 Forbidden
+127.7.189.131:80 - IIS Windows
+104.74.177.206:80 - Заголовок не найден
+139.59.145.107:80 - Заголовок не найден
+127.92.209.56:80 - IIS Windows
+127.124.235.80:80 - IIS Windows
+34.236.91.106:80 - Welcome to nginx!
+184.26.82.119:80 - Заголовок не найден
+127.210.211.16:80 - IIS Windows
+127.151.145.184:80 - IIS Windows
+66.113.243.226:80 - Заголовок не найден
+127.186.227.74:80 - IIS Windows
+47.114.210.242:80 - Заголовок не найден
+185.21.39.117:80 - RouterOS router configuration page
+190.167.123.85:80 - 
+193.118.39.37:80 - Index of /
+18.64.171.15:80 - Заголовок не найден
+118.140.205.6:80 - 403 Forbidden
+3.162.140.1:80 - Заголовок не найден
+127.250.216.2:80 - IIS Windows
+127.44.25.164:80 - IIS Windows
+173.222.63.120:80 - Заголовок не найден
+127.43.37.16:80 - IIS Windows
+127.61.199.205:80 - IIS Windows
+23.207.126.71:80 - Заголовок не найден
+150.140.209.12:80 - 403 Forbidden
+108.156.224.250:80 - Заголовок не найден
+172.104.59.208:80 - Apps By Swift
+149.86.74.238:80 - Заголовок не найден
+198.12.111.112:80 - Заголовок не найден
+127.241.24.73:80 - IIS Windows
+119.3.165.216:80 - Заголовок не найден
+112.140.186.157:80 - Edehege ADH &#8211; Complete Solutions For Material Converting Industry &#8211; Tapes Liners Lamination Die cut AOI
+127.139.114.90:80 - IIS Windows
+89.185.43.58:80 - 403 Forbidden
+196.51.73.87:80 - ERROR: The requested URL could not be retrieved
+127.154.53.219:80 - IIS Windows
+127.62.177.138:80 - IIS Windows
+52.166.126.117:80 - Заголовок не найден
+127.176.235.99:80 - IIS Windows
+23.209.140.25:80 - Заголовок не найден
+158.51.118.49:80 - Login
+23.57.211.131:80 - Заголовок не найден
+127.145.28.237:80 - IIS Windows
+38.63.97.63:80 - Заголовок не найден
+127.118.158.39:80 - IIS Windows
+54.192.70.60:80 - Заголовок не найден
+47.107.175.21:80 - 502 Bad Gateway
+18.155.96.22:80 - Заголовок не найден
+127.136.174.101:80 - IIS Windows
+104.90.10.29:80 - Заголовок не найден
+38.170.17.75:80 - このURLのページは表示することが出来ませんでした。 IP分散サーバーならIQサーバー｜クラスCの完全分散が月額185円～
+78.46.65.233:80 - Заголовок не найден
+18.65.206.9:80 - Заголовок не найден
+200.110.49.202:80 - F660
+127.68.186.120:80 - IIS Windows
+127.12.36.246:80 - IIS Windows
+116.204.158.60:80 - 500-服务器内部错误
+127.159.92.8:80 - IIS Windows
+127.85.71.75:80 - IIS Windows
+104.165.210.151:80 - 404 Not Found
+127.91.215.103:80 - IIS Windows
+51.89.68.44:80 - Заголовок не найден
+104.155.58.94:80 - Заголовок не найден
+193.167.82.168:80 - eOppimispalvelut
+148.101.26.184:80 - 
+127.235.169.227:80 - IIS Windows
+104.66.96.103:80 - Заголовок не найден
+127.146.75.247:80 - IIS Windows
+188.128.169.165:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+23.60.2.174:80 - Заголовок не найден
+34.125.196.206:80 - Welcome to CentOS
+2.22.76.32:80 - Заголовок не найден
+99.192.171.126:80 - fifty420.com &#8211; Observations of Middle Age Marijuana Enthusiasts
+23.202.235.88:80 - Заголовок не найден
+128.53.161.180:80 - Заголовок не найден
+213.176.13.131:80 - Заголовок не найден
+51.83.109.121:80 - Web Server's Default Page
+219.231.146.99:80 - 404 Not Found
+127.72.242.172:80 - IIS Windows
+127.43.75.107:80 - IIS Windows
+97.94.141.48:80 - 
+51.83.21.243:80 - Заголовок не найден
+92.60.79.129:80 - Coming Soon - quodyctks.duongdongnewcity.org
+110.78.80.246:80 - RouterOS router configuration page
+13.55.88.186:80 - Able Interface
+116.197.30.236:80 - Заголовок не найден
+162.212.152.245:80 - Apache2 Debian Default Page: It works
+127.145.13.37:80 - IIS Windows
+127.216.212.116:80 - IIS Windows
+157.245.38.69:80 - Заголовок не найден
+115.111.246.27:80 - Login Form
+152.246.131.61:80 - Заголовок не найден
+35.224.102.201:80 - Заголовок не найден
+127.98.241.131:80 - IIS Windows
+127.189.79.209:80 - IIS Windows
+42.106.164.53:80 - Заголовок не найден
+18.157.117.187:80 - Komplexe Welt. Einfache Prozesse. | IP Dynamics
+23.206.177.140:80 - Заголовок не найден
+23.221.91.118:80 - Заголовок не найден
+127.67.221.121:80 - IIS Windows
+50.3.145.216:80 - 403 Forbidden
+127.199.226.138:80 - IIS Windows
+45.95.42.222:80 - TNGNET B.V. ** PARKING **
+127.247.102.79:80 - IIS Windows
+103.61.73.155:80 - RouterOS router configuration page
+52.202.201.139:80 - Заголовок не найден
+23.216.127.55:80 - Заголовок не найден
+3.248.46.0:80 - Welcome to nginx!
+149.154.100.44:80 - Aurora WP - Managed Wordpress Hosting
+177.152.66.30:80 - 
+127.239.157.249:80 - IIS Windows
+85.214.200.21:80 - Web Server's Default Page
+127.39.91.208:80 - IIS Windows
+61.216.81.194:80 - Заголовок не найден
+20.246.217.76:80 - 404 Not Found
+38.21.30.188:80 - 403 Forbidden
+127.19.179.133:80 - IIS Windows
+103.193.247.199:80 - Заголовок не найден
+75.168.81.70:80 - Home
+78.161.65.215:80 - WEB SERVICE
+220.134.252.172:80 - 
+162.240.231.5:80 - Заголовок не найден
+122.17.147.212:80 - New Server -- DOMAINNAME
+127.3.244.25:80 - IIS Windows
+127.55.133.255:80 - IIS Windows
+47.94.142.126:80 - Заголовок не найден
+213.218.220.177:80 - Welcome to nginx!
+103.133.222.166:80 - RouterOS
+127.205.188.103:80 - IIS Windows
+111.19.221.253:80 - 403 Forbidden
+107.125.214.162:80 - Заголовок не найден
+127.122.88.208:80 - IIS Windows
+127.96.139.200:80 - IIS Windows
+127.156.146.212:80 - IIS Windows
+127.29.94.2:80 - IIS Windows
+127.40.204.21:80 - IIS Windows
+127.254.195.158:80 - IIS Windows
+127.163.147.165:80 - IIS Windows
+127.22.86.210:80 - IIS Windows
+127.10.67.42:80 - IIS Windows
+127.202.149.174:80 - IIS Windows
+127.223.226.197:80 - IIS Windows
+127.179.182.214:80 - IIS Windows
+127.208.166.192:80 - IIS Windows
+127.95.157.86:80 - IIS Windows
+127.180.91.92:80 - IIS Windows
+127.246.23.75:80 - IIS Windows
+127.119.20.9:80 - IIS Windows
+127.31.125.53:80 - IIS Windows
+127.134.85.148:80 - IIS Windows
+127.141.25.242:80 - IIS Windows
+127.174.31.64:80 - IIS Windows
+127.18.73.175:80 - IIS Windows
+127.165.47.30:80 - IIS Windows
+127.162.4.162:80 - IIS Windows
+127.25.46.33:80 - IIS Windows
+127.248.205.127:80 - IIS Windows
+127.18.22.16:80 - IIS Windows
+127.146.13.125:80 - IIS Windows
+127.43.212.160:80 - IIS Windows
+127.108.194.170:80 - IIS Windows
+127.179.190.198:80 - IIS Windows
+127.226.152.180:80 - IIS Windows
+127.241.112.123:80 - IIS Windows
+127.216.169.237:80 - IIS Windows
+127.242.19.161:80 - IIS Windows
+127.46.131.146:80 - IIS Windows
+127.185.241.34:80 - IIS Windows
+127.142.69.151:80 - IIS Windows
+127.180.212.66:80 - IIS Windows
+127.88.93.240:80 - IIS Windows
+127.9.63.179:80 - IIS Windows
+127.237.121.135:80 - IIS Windows
+127.157.145.221:80 - IIS Windows
+127.146.237.136:80 - IIS Windows
+127.122.48.166:80 - IIS Windows
+127.35.99.244:80 - IIS Windows
+127.22.154.94:80 - IIS Windows
+127.181.175.222:80 - IIS Windows
+127.115.146.186:80 - IIS Windows
+127.102.16.239:80 - IIS Windows
+127.224.204.142:80 - IIS Windows
+127.226.221.17:80 - IIS Windows
+127.89.195.252:80 - IIS Windows
+127.69.99.171:80 - IIS Windows
+127.178.35.6:80 - IIS Windows
+127.246.122.29:80 - IIS Windows
+127.201.5.99:80 - IIS Windows
+127.56.111.142:80 - IIS Windows
+127.98.60.228:80 - IIS Windows
+127.133.98.152:80 - IIS Windows
+39.108.190.157:80 - éä¸°éè¿|å½éæµ·è¿|ä¸æ³¨è·¨å¢ç©æµè¿è¾|å½éå¿«é|å½éç©ºè¿
+127.1.228.161:80 - IIS Windows
+127.136.29.235:80 - IIS Windows
+172.104.58.151:80 - Gasing777â¡Daftar Link Rekomendasi Situs Slot Gacor Viral Gampang Menang dan Jamin JP Sekarang Juga
+91.205.175.29:80 - Заголовок не найден
+69.167.168.169:80 - Заголовок не найден
+127.207.76.58:80 - IIS Windows
+127.118.83.33:80 - IIS Windows
+127.220.58.226:80 - IIS Windows
+127.56.232.98:80 - IIS Windows
+127.202.46.186:80 - IIS Windows
+127.142.144.122:80 - IIS Windows
+127.48.218.47:80 - IIS Windows
+127.142.4.52:80 - IIS Windows
+127.145.40.148:80 - IIS Windows
+127.111.45.194:80 - IIS Windows
+127.103.46.131:80 - IIS Windows
+127.185.254.159:80 - IIS Windows
+127.24.54.146:80 - IIS Windows
+127.52.71.95:80 - IIS Windows
+190.124.250.220:80 - Error 404 Not Found
+127.118.13.7:80 - IIS Windows
+116.107.252.33:80 - 
+41.69.75.8:80 - Protected Object
+127.107.23.144:80 - IIS Windows
+118.233.63.30:80 - index
+127.92.83.203:80 - IIS Windows
+127.98.76.94:80 - IIS Windows
+176.118.44.122:80 - 
+104.87.165.164:80 - Заголовок не найден
+64.188.57.215:80 - 403 Forbidden
+104.120.226.38:80 - Заголовок не найден
+3.162.133.89:80 - Заголовок не найден
+47.107.102.103:80 - chuxou-saas-web
+127.65.10.229:80 - IIS Windows
+127.168.226.189:80 - IIS Windows
+127.222.142.33:80 - IIS Windows
+37.60.29.48:80 - 
+127.19.245.125:80 - IIS Windows
+127.230.54.50:80 - IIS Windows
+127.217.223.90:80 - IIS Windows
+127.50.30.36:80 - IIS Windows
+127.134.48.170:80 - IIS Windows
+127.72.68.119:80 - IIS Windows
+127.228.251.42:80 - IIS Windows
+127.61.107.149:80 - IIS Windows
+127.209.99.14:80 - IIS Windows
+127.132.183.32:80 - IIS Windows
+127.244.126.206:80 - IIS Windows
+127.35.146.123:80 - IIS Windows
+127.116.219.70:80 - IIS Windows
+127.151.179.91:80 - IIS Windows
+127.15.232.209:80 - IIS Windows
+127.188.76.50:80 - IIS Windows
+127.31.30.158:80 - IIS Windows
+127.18.169.210:80 - IIS Windows
+2.17.159.36:80 - Заголовок не найден
+150.138.148.213:80 - 智慧矫正云平台
+38.152.30.68:80 - ERROR: The requested URL could not be retrieved
+127.114.76.225:80 - IIS Windows
+23.63.129.19:80 - Заголовок не найден
+127.127.244.212:80 - IIS Windows
+127.6.39.134:80 - IIS Windows
+127.63.207.154:80 - IIS Windows
+127.129.242.60:80 - IIS Windows
+104.25.163.47:80 - Direct IP access not allowed | Cloudflare
+104.69.124.40:80 - Заголовок не найден
+3.164.31.243:80 - Заголовок не найден
+46.237.125.30:80 - 
+194.50.207.207:80 - 403 - Forbidden: Access is denied.
+127.210.152.184:80 - IIS Windows
+127.75.176.244:80 - IIS Windows
+127.30.46.249:80 - IIS Windows
+210.222.85.107:80 - main page
+127.246.16.64:80 - IIS Windows
+127.173.108.78:80 - IIS Windows
+127.195.124.105:80 - IIS Windows
+127.179.99.104:80 - IIS Windows
+127.178.75.36:80 - IIS Windows
+127.65.81.240:80 - IIS Windows
+127.77.194.137:80 - IIS Windows
+127.114.165.216:80 - IIS Windows
+127.6.142.132:80 - IIS Windows
+127.216.235.24:80 - IIS Windows
+127.41.173.177:80 - IIS Windows
+127.194.77.241:80 - IIS Windows
+127.22.195.208:80 - IIS Windows
+127.214.115.79:80 - IIS Windows
+127.219.203.79:80 - IIS Windows
+127.191.228.231:80 - IIS Windows
+127.155.36.118:80 - IIS Windows
+127.97.158.31:80 - IIS Windows
+127.51.108.5:80 - IIS Windows
+127.220.240.88:80 - IIS Windows
+127.163.44.229:80 - IIS Windows
+127.251.109.78:80 - IIS Windows
+127.99.115.30:80 - IIS Windows
+127.146.177.179:80 - IIS Windows
+127.11.0.197:80 - IIS Windows
+127.142.240.17:80 - IIS Windows
+127.147.115.160:80 - IIS Windows
+127.242.170.131:80 - IIS Windows
+127.120.52.56:80 - IIS Windows
+127.239.26.83:80 - IIS Windows
+127.40.156.148:80 - IIS Windows
+127.148.112.148:80 - IIS Windows
+127.26.162.161:80 - IIS Windows
+127.158.245.187:80 - IIS Windows
+156.232.57.219:80 - 404 Not Found
+127.237.165.82:80 - IIS Windows
+127.35.182.128:80 - IIS Windows
+127.9.143.119:80 - IIS Windows
+127.32.216.129:80 - IIS Windows
+127.122.140.163:80 - IIS Windows
+127.127.132.190:80 - IIS Windows
+127.64.134.87:80 - IIS Windows
+127.234.62.57:80 - IIS Windows
+127.120.126.248:80 - IIS Windows
+127.71.227.155:80 - IIS Windows
+127.61.147.158:80 - IIS Windows
+127.181.140.202:80 - IIS Windows
+127.50.134.117:80 - IIS Windows
+127.104.191.255:80 - IIS Windows
+127.230.149.108:80 - IIS Windows
+127.227.245.229:80 - IIS Windows
