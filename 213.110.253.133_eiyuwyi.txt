@@ -2013,3 +2013,16 @@
 149.18.105.133:80 - Twitch
 20.242.221.67:80 - Your Azure Function App is up and running.
 42.62.88.4:80 - 502 Bad Gateway
+54.215.16.142:80 - 502 Bad Gateway
+23.205.42.163:80 - Заголовок не найден
+143.204.59.120:80 - Заголовок не найден
+139.99.135.92:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+23.36.141.207:80 - Заголовок не найден
+104.98.196.233:80 - Заголовок не найден
+54.221.249.219:80 - Librarian Certification &#8211; Librarian Certification and Education
+109.194.111.99:80 - 403 Forbidden
+116.203.77.132:80 - Housing Online Customer Community
+66.220.8.252:80 - HURRICANE ELECTRIC
+111.32.184.87:80 - Заголовок не найден
+209.9.199.75:80 - WEB SERVICE
+3.11.112.228:80 - Dechra
