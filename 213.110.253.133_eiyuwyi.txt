@@ -1542,3 +1542,29 @@
 154.195.197.152:80 - 404 Not Found
 157.97.111.162:80 - Web Server's Default Page
 141.26.9.187:80 - Status der Dienste der Universität Koblenz
+106.244.200.153:80 - Заголовок не найден
+190.167.36.177:80 - 
+34.218.60.216:80 - Graphics Plus - Cheap Color Copies
+154.92.240.173:80 - 404 Not Found
+213.1.145.20:80 - Apache HTTP Server Test Page powered by Linux
+211.73.77.189:80 - Заголовок не найден
+104.27.127.90:80 - Direct IP access not allowed | Cloudflare
+184.31.72.48:80 - Заголовок не найден
+18.164.232.37:80 - Заголовок не найден
+128.14.98.173:80 - 阿里云 Web应用防火墙
+47.110.214.109:80 - 阿里云 Web应用防火墙
+104.104.42.69:80 - Заголовок не найден
+13.233.25.50:80 - Welcome to nginx!
+23.224.140.125:80 - Заголовок не найден
+8.134.152.87:80 - 404 Not Found
+38.59.91.68:80 - æ²¡ææ¾å°ç«ç¹
+188.92.40.163:80 - Server Configuration Error
+23.2.39.146:80 - Заголовок не найден
+104.112.103.144:80 - Заголовок не найден
+172.67.171.162:80 - Direct IP access not allowed | Cloudflare
+191.85.80.209:80 - Заголовок не найден
+8.134.200.252:80 - å¿å¿§ç®¡çç³»ç»
+109.9.152.93:80 - Default Site
+104.27.16.126:80 - Direct IP access not allowed | Cloudflare
+93.127.198.2:80 - Sorry, the website has been stopped
+54.242.237.54:80 - 404 Not Found
