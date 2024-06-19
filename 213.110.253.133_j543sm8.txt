@@ -2313,3 +2313,4 @@
 167.235.29.200:80 - Wolf Marketing - WOLF MARKETING
 4.147.96.42:80 - Your Azure Function App is up and running.
 104.103.214.175:80 - Заголовок не найден
+192.99.151.99:80 - Apache2 Debian Default Page: It works
