@@ -1627,3 +1627,196 @@
 217.115.117.78:80 - Web Server's Default Page
 127.49.91.132:80 - Welcome to XAMPP
 162.241.187.236:80 - Not Acceptable!
+93.92.112.101:80 - 404 Not Found
+23.194.234.11:80 - Заголовок не найден
+127.219.119.45:80 - Welcome to XAMPP
+89.221.219.129:80 - Login
+184.31.63.143:80 - Заголовок не найден
+148.101.106.4:80 - 
+95.217.89.57:80 - IIS Windows Server
+91.92.6.203:80 - Sign in · GitLab
+118.215.124.199:80 - Заголовок не найден
+127.247.92.193:80 - Welcome to XAMPP
+208.106.160.238:80 - Mill Creek Community Association
+47.88.17.97:80 - Заголовок не найден
+127.65.34.126:80 - Welcome to XAMPP
+127.212.148.72:80 - Welcome to XAMPP
+172.64.193.183:80 - Direct IP access not allowed | Cloudflare
+18.239.79.245:80 - Заголовок не найден
+18.238.238.179:80 - Заголовок не найден
+127.203.81.180:80 - Welcome to XAMPP
+104.106.51.211:80 - Заголовок не найден
+107.172.242.225:80 - ERROR: The requested URL could not be retrieved
+127.95.238.151:80 - Welcome to XAMPP
+46.22.37.198:80 - Web Server's Default Page
+104.215.123.170:80 - Заголовок не найден
+39.100.68.180:80 - 春节|端午|中秋节礼品卡册-中粮礼品卡-自选礼品册-[惠感动]
+1.13.245.27:80 - 404 Not Found
+127.164.200.186:80 - Welcome to XAMPP
+127.150.216.96:80 - Welcome to XAMPP
+23.13.48.9:80 - Заголовок не найден
+20.22.0.158:80 - Заголовок не найден
+127.34.188.6:80 - Welcome to XAMPP
+51.83.68.106:80 - Strona główna
+5.22.251.15:80 - 404 Not Found
+127.35.208.224:80 - Welcome to XAMPP
+164.100.224.183:80 - Заголовок не найден
+23.34.198.188:80 - Заголовок не найден
+138.201.187.45:80 - FuckUp Night Ruhrgebiet
+162.250.201.251:80 - Заголовок не найден
+23.8.241.143:80 - Заголовок не найден
+128.14.22.23:80 - Заголовок не найден
+116.203.228.20:80 - Welcome to nginx!
+127.109.96.245:80 - Welcome to XAMPP
+45.77.219.209:80 - Unknown Domain
+127.119.98.100:80 - Welcome to XAMPP
+66.33.198.246:80 - Site not found &middot; DreamHost
+23.58.196.12:80 - Заголовок не найден
+101.132.76.14:80 - 404 Not Found
+41.23.112.64:80 - iShieldNG - Secure Redirect
+127.81.126.189:80 - Welcome to XAMPP
+45.227.192.112:80 - 500 Internal Server Error
+127.245.182.165:80 - Welcome to XAMPP
+104.155.66.140:80 - Index of /
+3.6.161.228:80 - Smash
+159.89.148.72:80 - Industry Insider &#8211; Helping Australian businesses compare the best deals
+54.64.78.150:80 - Заголовок не найден
+162.243.170.197:80 - Beverages in Oregon and Washington - Columbia Distributing
+20.166.238.8:80 - Заголовок не найден
+38.31.212.253:80 - 404 Not Found
+127.186.47.176:80 - Welcome to XAMPP
+104.25.164.83:80 - Direct IP access not allowed | Cloudflare
+106.1.88.138:80 - 
+127.98.184.127:80 - Welcome to XAMPP
+127.201.76.245:80 - Welcome to XAMPP
+54.186.217.133:80 - 503 Service Temporarily Unavailable
+120.26.168.196:80 - ç«ç¹åå»ºæå-phpstudy for windows
+52.41.237.54:80 - 404 Not Found
+127.153.210.113:80 - Welcome to XAMPP
+23.63.64.20:80 - Error
+13.35.147.128:80 - Заголовок не найден
+83.136.215.33:80 - Key Performance Group
+72.247.215.18:80 - Заголовок не найден
+127.248.181.47:80 - Welcome to XAMPP
+37.97.148.110:80 - ownCloud
+148.255.218.232:80 - 
+184.26.239.13:80 - Заголовок не найден
+211.21.173.74:80 - Login
+46.37.4.13:80 - Заголовок не найден
+132.145.255.207:80 - Apache HTTP Server Test Page powered by Linux
+162.208.56.9:80 - Заголовок не найден
+168.76.17.180:80 - 
+52.194.34.78:80 - ERROR
+127.241.129.208:80 - Welcome to XAMPP
+34.193.253.125:80 - 401 Authorization Required
+3.238.250.74:80 - Заголовок не найден
+219.85.57.32:80 - 
+220.181.34.163:80 - IIS7
+127.54.87.64:80 - Welcome to XAMPP
+93.127.204.60:80 - 403 Forbidden
+4.154.156.82:80 - 404 Not Found
+127.145.150.137:80 - Welcome to XAMPP
+47.99.214.174:80 - 404 Not Found
+82.67.14.62:80 - Заголовок не найден
+18.207.25.132:80 - 404 Not Found
+127.136.150.16:80 - Welcome to XAMPP
+185.151.241.151:80 - 404 Not Found
+127.98.216.229:80 - Welcome to XAMPP
+186.49.57.103:80 - 
+23.55.67.253:80 - Заголовок не найден
+136.226.241.96:80 - Internet Security by Zscaler
+62.169.25.81:80 - Apache2 Ubuntu Default Page: It works
+121.40.220.40:80 - 503 Service Temporarily Unavailable
+127.229.231.185:80 - Welcome to XAMPP
+127.183.72.223:80 - Welcome to XAMPP
+127.63.217.50:80 - Welcome to XAMPP
+127.157.102.33:80 - Welcome to XAMPP
+127.143.154.89:80 - Welcome to XAMPP
+127.207.54.241:80 - Welcome to XAMPP
+207.60.11.153:80 - 404 Not Found
+121.42.7.21:80 - ç½ç«è®¿é®æ¥é
+127.37.0.251:80 - Welcome to XAMPP
+154.91.10.89:80 - 404 Not Found
+127.117.45.186:80 - Welcome to XAMPP
+199.115.228.101:80 - Заголовок не найден
+104.116.18.34:80 - Заголовок не найден
+18.239.56.1:80 - Заголовок не найден
+127.133.251.34:80 - Welcome to XAMPP
+134.213.21.185:80 - 404 - File or directory not found.
+119.167.210.228:80 - 403 Forbidden
+127.238.116.60:80 - Welcome to XAMPP
+127.177.123.116:80 - Welcome to XAMPP
+179.52.50.226:80 - 
+127.68.204.179:80 - Welcome to XAMPP
+127.155.154.115:80 - Welcome to XAMPP
+108.157.64.158:80 - Заголовок не найден
+23.58.68.187:80 - Заголовок не найден
+167.253.17.82:80 - Apache2 Ubuntu Default Page: It works
+172.170.35.99:80 - Заголовок не найден
+173.234.100.227:80 - 407 Proxy Authentication Required
+108.167.156.23:80 - Not Acceptable!
+127.74.244.212:80 - Welcome to XAMPP
+120.26.209.193:80 - 400 Bad Request
+20.93.45.188:80 - Заголовок не найден
+18.67.241.74:80 - Заголовок не найден
+127.87.241.3:80 - Welcome to XAMPP
+23.215.195.214:80 - Заголовок не найден
+24.122.14.228:80 - Serre interface 2
+107.170.239.229:80 - 404 Not Found
+101.132.141.191:80 - IIS Windows Server
+45.60.6.229:80 - Заголовок не найден
+127.211.109.128:80 - Welcome to XAMPP
+31.172.114.77:80 - Horse Farm – The Sweetest Horse Game – Play Now!
+23.205.194.127:80 - Заголовок не найден
+44.238.10.8:80 - Заголовок не найден
+65.9.11.118:80 - Заголовок не найден
+104.74.26.52:80 - Заголовок не найден
+37.140.192.216:80 - ÐÐ¾Ð¼ÐµÐ½ Ð½Ðµ&nbsp;Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ð²&nbsp;Ð¿Ð°Ð½ÐµÐ»Ð¸
+104.30.128.211:80 - Заголовок не найден
+127.38.48.54:80 - Welcome to XAMPP
+169.60.48.15:80 - Заголовок не найден
+23.207.179.237:80 - Заголовок не найден
+38.11.176.152:80 - 404 Not Found
+127.54.69.212:80 - Welcome to XAMPP
+127.2.59.200:80 - Welcome to XAMPP
+68.168.125.49:80 - 
+94.177.134.7:80 - ERROR: The requested URL could not be retrieved
+108.157.194.123:80 - Заголовок не найден
+127.237.37.11:80 - Welcome to XAMPP
+34.116.103.226:80 - Заголовок не найден
+127.34.169.21:80 - Welcome to XAMPP
+173.0.190.100:80 - Заголовок не найден
+104.87.43.160:80 - Заголовок не найден
+127.56.213.21:80 - Welcome to XAMPP
+13.226.146.110:80 - Заголовок не найден
+204.114.76.235:80 - Заголовок не найден
+127.101.150.244:80 - Welcome to XAMPP
+198.144.178.50:80 - 407 Proxy Authentication Required
+20.61.172.1:80 - Ambidata
+127.91.238.251:80 - Welcome to XAMPP
+127.17.4.2:80 - Welcome to XAMPP
+168.76.163.65:80 - 404 Not Found
+127.40.195.173:80 - Welcome to XAMPP
+127.106.177.179:80 - Welcome to XAMPP
+210.61.205.186:80 - 
+127.180.135.19:80 - Welcome to XAMPP
+127.64.126.51:80 - Welcome to XAMPP
+127.119.82.216:80 - Welcome to XAMPP
+127.162.162.186:80 - Welcome to XAMPP
+221.154.101.211:80 - Заголовок не найден
+69.10.54.189:80 - FreePBX Administration
+127.248.162.90:80 - Welcome to XAMPP
+51.8.70.46:80 - Your Azure Function App is up and running.
+104.69.122.86:80 - Заголовок не найден
+95.164.85.102:80 - 403 Forbidden
+185.219.133.25:80 - Home | LadyDreamCasino.com
+127.13.173.201:80 - Welcome to XAMPP
+23.211.230.159:80 - Заголовок не найден
+127.221.156.191:80 - Welcome to XAMPP
+127.77.3.210:80 - Welcome to XAMPP
+202.152.216.117:80 - 403 Forbidden
+127.132.88.217:80 - Welcome to XAMPP
+127.24.158.154:80 - Welcome to XAMPP
+127.13.22.187:80 - Welcome to XAMPP
+45.136.150.40:80 - 401 Unauthorized
+24.180.147.80:80 - 
