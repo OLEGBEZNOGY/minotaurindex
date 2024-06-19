@@ -2762,3 +2762,116 @@
 104.24.176.168:80 - Direct IP access not allowed | Cloudflare
 162.217.175.74:80 - 404 Not Found
 153.126.144.217:80 - データベースエラー
+34.219.34.144:80 - 404 Not Found
+104.25.33.134:80 - Direct IP access not allowed | Cloudflare
+167.99.215.144:80 - Artboard
+38.12.201.208:80 - æ²¡ææ¾å°ç«ç¹
+128.196.16.107:80 - Router -> Login
+94.228.209.19:80 - Index of /
+185.140.164.46:80 - Заголовок не найден
+128.140.104.221:80 - Apache2 Debian Default Page: It works
+47.52.18.8:80 - 403 Forbidden
+162.215.129.228:80 - Заголовок не найден
+54.66.206.134:80 - 404 Not Found
+23.40.159.118:80 - Заголовок не найден
+23.32.13.65:80 - Заголовок не найден
+18.155.101.5:80 - Заголовок не найден
+67.227.237.99:80 - 403 Forbidden
+62.74.138.193:80 - Introduction
+185.231.221.201:80 - Age Check
+39.104.163.37:80 - 403 Forbidden
+103.121.199.166:80 - Welcome to nginx!
+141.95.54.236:80 - 503 Service Temporarily Unavailable
+23.212.24.137:80 - Заголовок не найден
+65.21.186.193:80 - Page is missing
+14.171.92.208:80 - 
+104.24.44.206:80 - Direct IP access not allowed | Cloudflare
+185.242.83.43:80 - 403 Forbidden
+18.142.8.90:80 - 403 Forbidden
+91.236.168.138:80 - Заголовок не найден
+188.118.15.30:80 - Document Moved
+23.62.46.15:80 - Заголовок не найден
+212.29.228.17:80 - Error 404 (Not Found)!!1
+13.36.23.251:80 - 404 Not Found
+18.155.104.64:80 - Заголовок не найден
+50.2.191.236:80 - Заголовок не найден
+27.49.26.169:80 - Заголовок не найден
+202.58.201.171:80 - RouterOS router configuration page
+104.22.26.20:80 - Direct IP access not allowed | Cloudflare
+89.40.118.220:80 - sbysis.com | Site ve Bina Yönetim Sistemi
+98.67.136.234:80 - Your Azure Function App is up and running.
+162.209.255.100:80 - 404 Not Found
+130.61.47.62:80 - English to French, Italian, German &amp; Spanish Dictionary - WordReference.com
+50.62.201.32:80 - Pharos Financial Services L.P.: Minority Financing Solutions and Dell Technologies - Pharos Financial Services
+111.89.139.102:80 - Заголовок не найден
+85.187.152.229:80 - Заголовок не найден
+108.137.42.2:80 - 503 Service Temporarily Unavailable
+13.224.217.4:80 - Заголовок не найден
+113.169.213.32:80 - 
+212.193.147.240:80 - 503 Service Temporarily Unavailable
+168.206.155.44:80 - 404 Not Found
+121.134.83.119:80 - main page
+152.136.166.135:80 - ç«ç¹åå»ºæå-phpstudy for windows
+189.155.63.151:80 - 
+44.206.80.20:80 - 403 Forbidden
+194.106.98.106:80 - 
+45.168.193.10:80 - Flexi - Provisioning para redes HFC
+179.52.53.109:80 - 
+141.94.174.34:80 - Apache2 Ubuntu Default Page: It works
+91.231.69.210:80 - Gitea: Git with a cup of tea
+5.161.82.31:80 - Заголовок не найден
+196.247.233.127:80 - 407 Proxy Authentication Required
+8.142.80.31:80 - Заголовок не найден
+10.209.193.143:80 - MT-0011
+143.92.34.252:80 - Заголовок не найден
+62.2.85.162:80 - Заголовок не найден
+18.154.61.10:80 - Заголовок не найден
+142.132.132.236:80 - Заголовок не найден
+71.73.28.41:80 - 
+170.239.200.44:80 - RouterOS router configuration page
+108.158.171.179:80 - Заголовок не найден
+116.62.206.105:80 - Welcome to nginx!
+10.196.33.166:80 - MT-0011
+156.250.120.12:80 - HTML SiteMap
+66.39.58.209:80 - Water Treatment | Bottled Water | Water Softening in Buffalo & the Finger Lakes
+149.28.20.173:80 - æ²¡ææ¾å°ç«ç¹
+23.210.8.168:80 - Заголовок не найден
+196.51.252.74:80 - ERROR: The requested URL could not be retrieved
+179.52.204.48:80 - 
+103.190.253.194:80 - RouterOS router configuration page
+108.168.135.96:80 - Заголовок не найден
+103.245.111.72:80 - phpMyAdmin
+104.122.34.162:80 - Заголовок не найден
+31.46.13.21:80 - 
+154.39.72.207:80 - 403 Forbidden
+195.226.118.13:80 - NUX Informationstechnologie GmbH | Cajac Mobile
+212.30.210.157:80 - ACME Access Only
+108.59.47.52:80 - Environment Mismatch: The deployment platform is incorect for this instance 108.59.47.52 as debug
+43.247.167.37:80 - Заголовок не найден
+64.23.169.57:80 - Phoenix.Router.NoRouteError at GET /
+20.4.137.158:80 - Your Azure Function App is up and running.
+52.205.31.71:80 - 409 Website not recognized
+23.49.64.107:80 - Заголовок не найден
+216.75.37.141:80 - Apache HTTP Server Test Page powered by CentOS
+82.217.33.106:80 - Заголовок не найден
+23.230.3.82:80 - Powered by Sparked Host
+64.13.135.21:80 - svcolo support
+74.50.72.202:80 - Заголовок не найден
+152.70.186.66:80 - 502 Bad Gateway
+107.154.116.33:80 - Заголовок не найден
+213.6.30.131:80 - Заголовок не найден
+23.5.251.234:80 - Заголовок не найден
+34.69.4.137:80 - 404 Not Found
+3.160.69.251:80 - Заголовок не найден
+18.117.83.212:80 - Apache2 Ubuntu Default Page: It works
+75.142.235.128:80 - 
+109.169.0.195:80 - Заголовок не найден
+156.240.198.150:80 - 404 Not Found
+212.112.105.126:80 - Заголовок не найден
+3.231.14.216:80 - Заголовок не найден
+2.20.51.61:80 - Заголовок не найден
+177.67.83.33:80 - ERROR: The requested URL could not be retrieved
+88.80.117.227:80 - Index of /
+121.177.91.8:80 - main page
+194.59.5.223:80 - Direct IP access not allowed | Cloudflare
+91.206.14.95:80 - IIS Windows Server
