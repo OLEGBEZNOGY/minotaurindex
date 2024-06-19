@@ -4336,3 +4336,119 @@
 127.148.176.76:80 - IIS Windows
 127.14.140.25:80 - IIS Windows
 127.150.215.244:80 - IIS Windows
+127.165.41.2:80 - IIS Windows
+127.157.151.93:80 - IIS Windows
+127.86.122.77:80 - IIS Windows
+127.172.95.254:80 - IIS Windows
+127.162.240.234:80 - IIS Windows
+127.11.205.108:80 - IIS Windows
+168.206.80.169:80 - 403 Forbidden
+54.209.47.198:80 - Error
+106.52.223.218:80 - 403 Forbidden
+127.121.51.85:80 - IIS Windows
+127.154.76.134:80 - IIS Windows
+127.27.178.209:80 - IIS Windows
+127.200.252.74:80 - IIS Windows
+127.203.145.1:80 - IIS Windows
+127.17.21.91:80 - IIS Windows
+127.33.136.184:80 - IIS Windows
+127.184.81.44:80 - IIS Windows
+127.241.213.91:80 - IIS Windows
+127.24.112.31:80 - IIS Windows
+127.55.25.145:80 - IIS Windows
+127.127.233.227:80 - IIS Windows
+127.169.189.248:80 - IIS Windows
+127.88.156.201:80 - IIS Windows
+127.102.204.18:80 - IIS Windows
+127.118.114.234:80 - IIS Windows
+196.51.185.129:80 - ERROR: The requested URL could not be retrieved
+127.223.234.179:80 - IIS Windows
+127.182.187.231:80 - IIS Windows
+127.108.119.10:80 - IIS Windows
+127.194.49.26:80 - IIS Windows
+127.100.135.88:80 - IIS Windows
+127.23.106.142:80 - IIS Windows
+127.4.213.238:80 - IIS Windows
+127.237.62.165:80 - IIS Windows
+127.110.50.38:80 - IIS Windows
+127.60.245.81:80 - IIS Windows
+127.142.210.163:80 - IIS Windows
+127.32.114.104:80 - IIS Windows
+127.181.172.178:80 - IIS Windows
+127.226.10.125:80 - IIS Windows
+127.99.72.58:80 - IIS Windows
+104.104.74.234:80 - Заголовок не найден
+83.56.124.82:80 - movistar
+127.64.158.251:80 - IIS Windows
+13.110.69.18:80 - Unable to Process Request
+163.44.16.199:80 - Заголовок не найден
+127.158.220.105:80 - IIS Windows
+127.81.83.95:80 - IIS Windows
+18.172.149.111:80 - Заголовок не найден
+44.209.151.95:80 - No such app
+188.94.254.51:80 - 188.94.254.51
+127.14.35.184:80 - IIS Windows
+23.216.253.142:80 - Заголовок не найден
+127.215.109.18:80 - IIS Windows
+127.78.23.36:80 - IIS Windows
+127.249.106.156:80 - IIS Windows
+127.25.0.44:80 - IIS Windows
+127.11.209.57:80 - IIS Windows
+190.167.58.212:80 - 
+82.78.66.71:80 - Заголовок не найден
+23.231.192.165:80 - Test Page for Apache Installation
+136.144.211.140:80 - Web Server's Default Page
+45.207.104.175:80 - 404 Not Found
+168.232.169.170:80 - 
+20.237.40.49:80 - Your Azure Function App is up and running.
+127.38.8.105:80 - IIS Windows
+127.180.185.228:80 - IIS Windows
+97.82.250.252:80 - 
+47.96.138.13:80 - Заголовок не найден
+127.19.254.131:80 - IIS Windows
+45.155.227.77:80 - Заголовок не найден
+127.178.132.231:80 - IIS Windows
+127.25.12.234:80 - IIS Windows
+127.48.80.72:80 - IIS Windows
+127.80.171.223:80 - IIS Windows
+23.231.74.230:80 - 403 Forbidden
+190.178.75.1:80 - Заголовок не найден
+127.53.200.56:80 - IIS Windows
+18.238.228.33:80 - Заголовок не найден
+180.179.114.8:80 - Заголовок не найден
+127.237.182.206:80 - IIS Windows
+45.148.151.252:80 - Заголовок не найден
+127.13.42.223:80 - IIS Windows
+127.41.67.226:80 - IIS Windows
+156.225.83.126:80 - 404 Not Found
+127.144.141.144:80 - IIS Windows
+127.124.250.139:80 - IIS Windows
+66.94.114.235:80 - Заголовок не найден
+127.171.72.173:80 - IIS Windows
+127.250.202.107:80 - IIS Windows
+127.178.97.86:80 - IIS Windows
+165.154.62.251:80 - 403 Forbidden
+127.122.191.47:80 - IIS Windows
+127.32.106.72:80 - IIS Windows
+127.89.172.48:80 - IIS Windows
+127.1.75.233:80 - IIS Windows
+127.103.41.88:80 - IIS Windows
+127.40.114.230:80 - IIS Windows
+127.184.7.74:80 - IIS Windows
+118.69.36.128:80 - 
+127.138.136.1:80 - IIS Windows
+127.205.221.183:80 - IIS Windows
+127.255.147.255:80 - IIS Windows
+127.244.165.230:80 - IIS Windows
+127.90.244.141:80 - IIS Windows
+127.151.52.62:80 - IIS Windows
+127.73.18.224:80 - IIS Windows
+127.30.155.184:80 - IIS Windows
+127.248.139.207:80 - IIS Windows
+127.63.17.249:80 - IIS Windows
+127.188.30.46:80 - IIS Windows
+127.67.97.3:80 - IIS Windows
+127.100.31.47:80 - IIS Windows
+127.9.233.138:80 - IIS Windows
+127.112.250.189:80 - IIS Windows
+127.24.72.226:80 - IIS Windows
