@@ -3297,3 +3297,227 @@
 165.231.105.156:80 - 407 Proxy Authentication Required
 8.28.7.138:80 - Заголовок не найден
 178.63.118.194:80 - Karrieretipps - Das aktuelle Job und Karriereportal
+127.132.188.189:80 - Welcome to XAMPP
+173.255.206.47:80 - Test Page for the Nginx HTTP Server on Rocky Linux
+108.156.207.27:80 - Заголовок не найден
+45.38.83.167:80 - 404 Not Found
+127.120.103.27:80 - Welcome to XAMPP
+127.6.92.13:80 - Welcome to XAMPP
+34.205.58.214:80 - WebTitan
+127.234.23.217:80 - Welcome to XAMPP
+210.128.206.193:80 - Заголовок не найден
+18.155.181.204:80 - Заголовок не найден
+127.101.174.74:80 - Welcome to XAMPP
+23.48.194.253:80 - Заголовок не найден
+148.72.70.56:80 - Coming Soon
+18.220.210.227:80 - 404 Not Found
+127.105.193.28:80 - Welcome to XAMPP
+150.164.90.112:80 - Cegest | Gestão das Condições de Trabalho e Saúde dos Trabalhadores da Saúde
+3.85.136.30:80 - 502 Bad Gateway
+47.98.52.76:80 - IIS 10.0 详细错误 - 403.14 - Forbidden
+127.154.86.174:80 - Welcome to XAMPP
+127.217.139.214:80 - Welcome to XAMPP
+114.33.100.79:80 - 
+50.62.184.214:80 - Northstar Fireworks &#8211; Vermont&#8217;s Premier Fireworks Company
+127.20.15.215:80 - Welcome to XAMPP
+18.219.22.250:80 - Data Quality Center
+127.212.237.152:80 - Welcome to XAMPP
+191.203.213.140:80 - Заголовок не найден
+127.156.216.88:80 - Welcome to XAMPP
+127.10.70.203:80 - Welcome to XAMPP
+187.148.145.21:80 - 
+78.25.121.154:80 - Заголовок не найден
+140.227.143.129:80 - Apache HTTP Server Test Page powered by CentOS
+193.120.15.96:80 - Заголовок не найден
+160.13.220.38:80 - 400 Bad Request
+23.202.243.234:80 - Заголовок не найден
+52.84.129.212:80 - Заголовок не найден
+164.115.41.33:80 - Заголовок не найден
+23.57.205.182:80 - Заголовок не найден
+210.117.181.17:80 - Заголовок не найден
+94.5.142.55:80 - Заголовок не найден
+18.194.221.176:80 - Заголовок не найден
+127.36.191.168:80 - Welcome to XAMPP
+18.67.151.251:80 - Заголовок не найден
+127.213.139.170:80 - Welcome to XAMPP
+20.225.4.207:80 - Microsoft Azure Web App - Error 404
+127.123.64.40:80 - Welcome to XAMPP
+127.169.96.186:80 - Welcome to XAMPP
+23.35.74.123:80 - Заголовок не найден
+127.76.246.144:80 - Welcome to XAMPP
+23.43.147.68:80 - Заголовок не найден
+52.35.57.163:80 - Заголовок не найден
+221.159.61.219:80 - IIS Windows
+195.88.214.122:80 - Заголовок не найден
+23.198.34.44:80 - Заголовок не найден
+127.93.254.172:80 - Welcome to XAMPP
+89.117.147.167:80 - 404 Not Found
+127.239.29.170:80 - Welcome to XAMPP
+92.122.79.53:80 - Заголовок не найден
+18.171.187.85:80 - 403 Forbidden
+127.123.11.27:80 - Welcome to XAMPP
+23.6.14.122:80 - Заголовок не найден
+127.201.151.148:80 - Welcome to XAMPP
+209.190.39.94:80 - Заголовок не найден
+116.202.117.243:80 - Web Server's Default Page
+45.166.214.8:80 - Заголовок не найден
+23.195.115.170:80 - Заголовок не найден
+216.194.29.253:80 - Error: Unauthorized
+174.142.181.249:80 - aeXquo - Login
+38.152.119.98:80 - ERROR: The requested URL could not be retrieved
+154.92.77.221:80 - æ²¡ææ¾å°ç«ç¹
+127.224.210.232:80 - Welcome to XAMPP
+95.111.242.178:80 - ClassKits
+3.165.40.78:80 - Заголовок не найден
+127.37.144.89:80 - Welcome to XAMPP
+76.95.184.98:80 - 404 Not Found
+52.218.45.121:80 - Amazon S3 - Cloud Object Storage  - AWS
+108.141.139.143:80 - Заголовок не найден
+127.173.241.95:80 - Welcome to XAMPP
+127.181.66.235:80 - Welcome to XAMPP
+127.53.247.254:80 - Welcome to XAMPP
+121.42.7.246:80 - ç½ç«è®¿é®æ¥é
+20.9.58.186:80 - Connection denied by Geolocation
+45.145.184.150:80 - 403 Forbidden
+139.196.84.33:80 - Test Page for Apache Installation
+208.72.69.171:80 - Document Moved
+130.18.251.60:80 - Home | Research and Education to Advance Conservation and Habitat
+127.40.129.94:80 - Welcome to XAMPP
+195.189.95.75:80 - Заголовок не найден
+23.215.166.125:80 - Заголовок не найден
+47.115.176.250:80 - 404 Not Found
+104.100.54.244:80 - Заголовок не найден
+36.249.84.229:80 - Заголовок не найден
+77.55.162.107:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+46.48.58.231:80 - 403 Forbidden
+23.47.38.43:80 - Заголовок не найден
+116.202.199.79:80 - Заголовок не найден
+104.103.127.220:80 - Заголовок не найден
+23.222.114.160:80 - Заголовок не найден
+23.15.89.246:80 - Заголовок не найден
+184.166.170.233:80 - 
+141.95.6.125:80 - Dedicated servers | 0x2A
+127.203.31.118:80 - Welcome to XAMPP
+114.34.184.161:80 - 
+98.102.247.102:80 - IIS Windows Server
+38.39.191.101:80 - 403 Forbidden
+91.121.51.223:80 - Web Server's Default Page
+18.215.58.48:80 - IIS Windows Server
+67.231.243.211:80 - http://globalmediadigital.com/
+167.82.72.6:80 - Fastly error: unknown domain 167.82.72.6
+159.203.132.225:80 - Заголовок не найден
+127.26.14.195:80 - Welcome to XAMPP
+5.75.183.254:80 - ELU ikastetxean
+38.173.84.188:80 - æ²¡ææ¾å°ç«ç¹
+185.168.202.185:80 - 403 Forbidden
+127.207.60.15:80 - Welcome to XAMPP
+127.16.229.98:80 - Welcome to XAMPP
+72.246.82.51:80 - Заголовок не найден
+127.221.209.97:80 - Welcome to XAMPP
+127.64.159.58:80 - Welcome to XAMPP
+127.96.164.63:80 - Welcome to XAMPP
+79.91.218.8:80 - Jeedom
+127.69.230.239:80 - Welcome to XAMPP
+127.130.66.228:80 - Welcome to XAMPP
+127.250.59.231:80 - Welcome to XAMPP
+127.101.148.189:80 - Welcome to XAMPP
+127.103.92.60:80 - Welcome to XAMPP
+3.163.177.169:80 - Заголовок не найден
+127.114.255.207:80 - Welcome to XAMPP
+112.165.162.93:80 - WEB SERVICE
+127.136.53.80:80 - Welcome to XAMPP
+127.160.46.39:80 - Welcome to XAMPP
+23.36.11.99:80 - Заголовок не найден
+13.212.156.178:80 - Nural Network blockchain explorer | Blockscout
+127.18.24.109:80 - Welcome to XAMPP
+31.47.195.226:80 - 403 Forbidden
+127.5.91.30:80 - Welcome to XAMPP
+58.26.204.27:80 - Заголовок не найден
+52.33.96.243:80 - Заголовок не найден
+52.78.160.221:80 - Заголовок не найден
+82.78.93.133:80 - 
+123.221.118.62:80 - 
+171.102.229.128:80 - Заголовок не найден
+156.240.34.18:80 - 403 Forbidden
+127.202.126.2:80 - Welcome to XAMPP
+188.136.144.2:80 - ÙØ¯ÛØ§ÙÙØ¯Ù
+80.254.98.154:80 - Заголовок не найден
+190.121.14.150:80 - WEB SERVICE
+127.245.192.111:80 - Welcome to XAMPP
+193.254.186.210:80 - Domain nicht verfÃ¼gbar | Domain not available
+46.101.211.4:80 - Заголовок не найден
+23.51.215.182:80 - Заголовок не найден
+100.25.206.105:80 - 100.25.206.105 - Login
+23.36.165.100:80 - Заголовок не найден
+160.16.102.184:80 - Welcome to nginx!
+120.79.77.131:80 - Welcome to nginx!
+23.12.84.166:80 - Заголовок не найден
+18.245.93.13:80 - Заголовок не найден
+154.220.36.219:80 - 404 Not Found
+127.86.140.89:80 - Welcome to XAMPP
+38.152.20.180:80 - ERROR: The requested URL could not be retrieved
+127.159.57.64:80 - Welcome to XAMPP
+127.125.177.140:80 - Welcome to XAMPP
+127.53.35.109:80 - Welcome to XAMPP
+23.206.110.236:80 - Заголовок не найден
+173.232.119.94:80 - ERROR: The requested URL could not be retrieved
+127.161.209.46:80 - Welcome to XAMPP
+23.45.223.3:80 - Заголовок не найден
+127.19.186.160:80 - Welcome to XAMPP
+185.41.105.154:80 - NetScaler Gateway
+154.9.40.173:80 - ERROR: The requested URL could not be retrieved
+23.79.60.25:80 - Заголовок не найден
+3.124.236.134:80 - Заголовок не найден
+52.68.216.26:80 - 503 Service Temporarily Unavailable
+23.62.165.52:80 - Заголовок не найден
+54.179.143.63:80 - Grafana
+54.230.6.24:80 - Заголовок не найден
+114.32.250.142:80 - Заголовок не найден
+23.208.79.254:80 - Заголовок не найден
+167.235.246.94:80 - Apache2 Ubuntu Default Page: It works
+23.194.9.110:80 - Заголовок не найден
+104.80.23.185:80 - Заголовок не найден
+3.73.18.68:80 - Заголовок не найден
+174.138.24.134:80 - IQBAL AND NAJIA
+93.229.180.197:80 - Familienchronik
+115.29.215.114:80 - åå°ç®¡çç³»ç»
+146.247.235.0:80 - 193.183.106.176 - Just another WordPress site
+127.135.4.106:80 - Welcome to XAMPP
+127.158.33.219:80 - Welcome to XAMPP
+20.100.31.145:80 - Microsoft Azure Web App - Error 404
+191.85.124.248:80 - Заголовок не найден
+154.23.189.20:80 - Заголовок не найден
+23.211.86.15:80 - Заголовок не найден
+74.119.195.63:80 - 404 Not Found
+104.206.35.69:80 - ERROR: The requested URL could not be retrieved
+47.104.132.179:80 - 404 Not Found
+65.9.62.4:80 - Заголовок не найден
+127.135.195.113:80 - Welcome to XAMPP
+156.241.144.181:80 - 403 Forbidden
+18.130.144.39:80 - Заголовок не найден
+90.187.127.69:80 - Web Zugang
+115.134.133.16:80 - WEB SERVICE
+107.163.15.21:80 - 404 Not Found
+110.41.15.25:80 - ä¸­åä¿é©ç­¾åæ±
+127.59.4.126:80 - Welcome to XAMPP
+188.128.148.188:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+216.189.153.235:80 - ERROR: The requested URL could not be retrieved
+127.21.27.222:80 - Welcome to XAMPP
+60.205.201.95:80 - æ²¡ææ¾å°ç«ç¹
+210.117.132.199:80 - L7
+127.191.20.155:80 - Welcome to XAMPP
+31.172.81.228:80 - Заголовок не найден
+127.70.139.96:80 - Welcome to XAMPP
+127.7.125.89:80 - Welcome to XAMPP
+127.17.98.205:80 - Welcome to XAMPP
+18.239.15.184:80 - Заголовок не найден
+168.206.183.13:80 - 404 Not Found
+207.192.134.82:80 - 
+127.85.114.159:80 - Welcome to XAMPP
+127.189.162.2:80 - Welcome to XAMPP
+18.212.43.21:80 - 404 Not Found
+127.183.39.102:80 - Welcome to XAMPP
+127.226.54.96:80 - Welcome to XAMPP
+127.218.207.232:80 - Welcome to XAMPP
+127.91.205.119:80 - Welcome to XAMPP
+20.126.30.192:80 - Заголовок не найден
