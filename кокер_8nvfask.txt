@@ -1280,3 +1280,95 @@
 127.101.140.174:80 - IIS Windows
 127.217.82.160:80 - IIS Windows
 127.234.30.174:80 - IIS Windows
+127.191.233.19:80 - IIS Windows
+127.180.188.220:80 - IIS Windows
+127.192.10.182:80 - IIS Windows
+146.196.80.72:80 - 404 Not Found
+127.62.108.33:80 - IIS Windows
+127.147.197.225:80 - IIS Windows
+127.45.99.212:80 - IIS Windows
+127.59.110.251:80 - IIS Windows
+127.41.254.68:80 - IIS Windows
+127.12.168.70:80 - IIS Windows
+127.222.177.194:80 - IIS Windows
+127.195.239.50:80 - IIS Windows
+3.134.143.147:80 - 404 Not Found
+5.189.184.8:80 - Apache2 Ubuntu Default Page: It works
+3.76.135.209:80 - Apache2 Debian Default Page: It works
+102.214.167.89:80 - Welcome | المرج --- PRTG / GTECH
+127.243.112.193:80 - IIS Windows
+127.4.225.11:80 - IIS Windows
+127.210.85.172:80 - IIS Windows
+154.217.146.142:80 - Заголовок не найден
+127.87.190.134:80 - IIS Windows
+127.181.129.77:80 - IIS Windows
+127.181.143.36:80 - IIS Windows
+135.148.92.40:80 - Apache2 Ubuntu Default Page: It works
+127.240.75.193:80 - IIS Windows
+5.133.181.93:80 - Log In - Connected
+2.19.160.177:80 - Заголовок не найден
+152.231.111.106:80 - 403 Forbidden
+127.91.234.185:80 - IIS Windows
+127.150.149.24:80 - IIS Windows
+127.117.10.211:80 - IIS Windows
+127.49.143.38:80 - IIS Windows
+127.136.199.71:80 - IIS Windows
+127.134.127.134:80 - IIS Windows
+127.53.66.152:80 - IIS Windows
+127.92.9.77:80 - IIS Windows
+127.12.30.34:80 - IIS Windows
+127.40.41.131:80 - IIS Windows
+127.59.200.201:80 - IIS Windows
+127.221.137.151:80 - IIS Windows
+127.85.182.83:80 - IIS Windows
+101.33.125.145:80 - å¥ç¨å¿«ééé
+104.21.59.167:80 - Direct IP access not allowed | Cloudflare
+127.195.217.104:80 - IIS Windows
+23.201.138.212:80 - Заголовок не найден
+127.97.65.106:80 - IIS Windows
+127.149.187.34:80 - IIS Windows
+127.218.17.59:80 - IIS Windows
+127.153.51.226:80 - IIS Windows
+168.188.173.107:80 - ì´ íì´ì§ì ì°ê²°í  ì ìì
+127.52.209.158:80 - IIS Windows
+127.156.165.180:80 - IIS Windows
+127.169.228.115:80 - IIS Windows
+82.146.45.15:80 - My Yii Application
+94.74.166.235:80 - RouterOS
+127.192.215.2:80 - IIS Windows
+127.54.77.65:80 - IIS Windows
+127.23.66.69:80 - IIS Windows
+220.123.2.214:80 - WEB SERVICE
+104.74.35.2:80 - Заголовок не найден
+127.154.188.142:80 - IIS Windows
+127.15.92.5:80 - IIS Windows
+127.23.108.72:80 - IIS Windows
+127.127.232.48:80 - IIS Windows
+127.32.243.29:80 - IIS Windows
+127.124.71.26:80 - IIS Windows
+127.63.221.227:80 - IIS Windows
+127.17.249.9:80 - IIS Windows
+127.146.193.169:80 - IIS Windows
+164.92.159.36:80 - ZTANDA - Abeslari lehiaketa - ETB1
+127.162.75.70:80 - IIS Windows
+127.136.227.116:80 - IIS Windows
+127.220.209.196:80 - IIS Windows
+127.152.123.59:80 - IIS Windows
+127.49.89.222:80 - IIS Windows
+127.89.220.108:80 - IIS Windows
+127.138.103.182:80 - IIS Windows
+127.44.133.20:80 - IIS Windows
+127.82.105.130:80 - IIS Windows
+127.160.205.86:80 - IIS Windows
+127.156.138.89:80 - IIS Windows
+127.30.244.74:80 - IIS Windows
+127.113.27.31:80 - IIS Windows
+127.203.20.226:80 - IIS Windows
+202.160.96.150:80 - IIS7
+34.236.251.124:80 - IIS Windows Server
+127.106.213.173:80 - IIS Windows
+127.110.88.56:80 - IIS Windows
+127.184.59.235:80 - IIS Windows
+127.120.23.201:80 - IIS Windows
+127.113.8.185:80 - IIS Windows
+127.157.144.24:80 - IIS Windows
