@@ -2354,3 +2354,31 @@
 206.233.177.75:80 - Заголовок не найден
 99.86.229.216:80 - Заголовок не найден
 99.86.79.211:80 - Заголовок не найден
+104.75.106.148:80 - Заголовок не найден
+42.119.29.211:80 - WEB SERVICE
+15.165.64.157:80 - APM
+124.221.54.63:80 - IIS Windows Server
+157.90.249.101:80 - Nina Warken &#8211; Abgeordnete des Deutschen Bundestages
+139.5.61.184:80 - 403 Forbidden
+81.169.255.72:80 - Default Parallels Plesk Page
+104.82.141.131:80 - Заголовок не найден
+54.192.20.135:80 - Заголовок не найден
+23.47.118.72:80 - Заголовок не найден
+103.15.144.138:80 - HTTP Server Test Page powered by CentOS
+50.3.66.37:80 - 403 Forbidden
+162.213.221.76:80 - Welcome to 162.213.221.76
+23.55.85.52:80 - Заголовок не найден
+35.76.233.179:80 - 403 Forbidden
+34.196.244.225:80 - 404 Not Found
+44.199.48.174:80 - Заголовок не найден
+87.98.245.73:80 - 404 Not Found
+13.127.83.27:80 - Best digital Marketing company in India | BruhTechno
+38.48.194.130:80 - 404 Not Found
+23.32.120.197:80 - Заголовок не найден
+112.76.169.97:80 - Заголовок не найден
+143.244.94.82:80 - Trust &amp; Safety Policies
+202.36.41.138:80 - 401 Unauthorized
+46.101.10.197:80 - WIBU69&gt; WIBU69, WIBU 69, daftar WIBU69, link alternatif WIBU69, link W
+
+ &ndash; WIBU69
+112.199.73.19:80 - Identity Authentication System
