@@ -16473,3 +16473,200 @@
 141.94.78.193:80 - Apache2 Debian Default Page: It works.
 54.70.184.157:80 - Заголовок не найден
 127.134.152.234:80 - Welcome to XAMPP
+127.38.24.222:80 - Welcome to XAMPP
+127.181.253.242:80 - Welcome to XAMPP
+18.244.32.69:80 - Заголовок не найден
+27.133.159.253:80 - Заголовок не найден
+184.28.59.200:80 - Заголовок не найден
+47.94.203.207:80 - 碳排放管理系统
+74.85.222.87:80 - ERROR: The requested URL could not be retrieved
+127.214.2.48:80 - Welcome to XAMPP
+76.236.132.137:80 - 
+127.189.44.69:80 - Welcome to XAMPP
+146.190.156.114:80 - Welcome to nginx!
+148.101.86.44:80 - 
+150.164.76.24:80 - PHP 7.3.33 - phpinfo()
+156.248.34.11:80 - 404 Not Found
+127.124.161.110:80 - Welcome to XAMPP
+54.189.58.22:80 - VoiceMap Forum - A forum for VoiceMap&#39;s community of audio tour publishers and explorers
+85.122.127.249:80 - Заголовок не найден
+127.10.53.69:80 - Welcome to XAMPP
+108.156.170.139:80 - Заголовок не найден
+85.13.142.83:80 - 503 Service Temporarily Unavailable
+127.91.65.146:80 - Welcome to XAMPP
+154.212.244.51:80 - 404 Not Found
+77.74.116.23:80 - Заголовок не найден
+127.189.209.28:80 - Welcome to XAMPP
+124.156.201.251:80 - 500 Internal Server Error
+127.51.15.58:80 - Welcome to XAMPP
+112.124.24.27:80 - Заголовок не найден
+102.129.199.104:80 - 
+193.234.112.198:80 - Document Error: Forbidden
+116.241.49.219:80 - Заголовок не найден
+23.41.83.200:80 - Заголовок не найден
+127.130.125.33:80 - Welcome to XAMPP
+13.55.5.239:80 - Givealittle - Maintenance
+127.130.159.31:80 - Welcome to XAMPP
+190.80.224.170:80 - 
+127.104.97.67:80 - Welcome to XAMPP
+127.110.204.104:80 - Welcome to XAMPP
+104.18.24.114:80 - Direct IP access not allowed | Cloudflare
+127.121.178.126:80 - Welcome to XAMPP
+127.163.177.165:80 - Welcome to XAMPP
+127.22.104.156:80 - Welcome to XAMPP
+86.138.100.143:80 - Заголовок не найден
+127.102.201.5:80 - Welcome to XAMPP
+127.104.91.124:80 - Welcome to XAMPP
+127.236.206.23:80 - Welcome to XAMPP
+218.98.41.12:80 - 404 Not Found
+13.224.205.198:80 - Заголовок не найден
+23.204.182.16:80 - Заголовок не найден
+23.223.235.98:80 - Заголовок не найден
+127.67.230.34:80 - Welcome to XAMPP
+127.117.253.119:80 - Welcome to XAMPP
+185.55.84.242:80 - Domain Default page
+178.79.237.131:80 - Заголовок не найден
+104.25.235.82:80 - Direct IP access not allowed | Cloudflare
+127.18.154.124:80 - Welcome to XAMPP
+127.13.217.88:80 - Welcome to XAMPP
+154.216.158.244:80 - 404 Not Found - 154.216.158.244
+100.26.108.102:80 - 404 Not Found
+127.53.231.117:80 - Welcome to XAMPP
+192.121.241.136:80 - Under Construction
+199.232.187.103:80 - Fastly error: unknown domain 199.232.187.103
+127.133.69.176:80 - Welcome to XAMPP
+185.8.61.20:80 - Success!
+223.130.173.134:80 - 공주대학교 로그인
+154.216.58.180:80 - 404 Not Found
+208.106.224.171:80 - Заголовок не найден
+23.59.196.126:80 - Заголовок не найден
+24.151.117.161:80 - 
+127.107.6.168:80 - Welcome to XAMPP
+18.203.106.162:80 - iAge
+127.239.168.25:80 - Welcome to XAMPP
+127.189.82.11:80 - Welcome to XAMPP
+127.182.214.168:80 - Welcome to XAMPP
+188.128.154.72:80 - Kragum Sp. z o.o. | Producent, dystrybutor uszczelnień technicznych | Strona główna
+127.194.18.10:80 - Welcome to XAMPP
+204.188.250.6:80 - ERROR: The requested URL could not be retrieved
+39.106.250.141:80 - 404 Not Found
+46.105.58.191:80 - Web Server's Default Page
+115.76.32.225:80 - WEB SERVICE
+18.154.248.162:80 - Заголовок не найден
+193.26.159.136:80 - Welcome to nginx!
+34.210.205.81:80 - 403 Forbidden
+154.213.156.222:80 - Заголовок не найден
+91.193.105.36:80 - Test Page for the Nginx HTTP Server on Fedora
+127.164.177.2:80 - Welcome to XAMPP
+1.95.14.204:80 - 济南澎湃信息技术有限公司
+47.117.172.188:80 - Welcome to nginx!
+189.202.242.208:80 - AEQ | Phoenix WebServer
+3.5.211.161:80 - Amazon S3 - Cloud Object Storage  - AWS
+65.21.48.143:80 - Заголовок не найден
+2.21.44.32:80 - Заголовок не найден
+47.102.205.217:80 - 403 Forbidden
+193.228.161.98:80 - Apache2 Ubuntu Default Page: It works
+178.238.208.204:80 - Заголовок не найден
+104.27.40.158:80 - Direct IP access not allowed | Cloudflare
+15.204.11.128:80 - æ²¡ææ¾å°ç«ç¹
+89.33.29.250:80 - 403 Forbidden
+149.129.235.167:80 - Laragon
+127.171.22.164:80 - Welcome to XAMPP
+220.134.193.195:80 - Index of /
+3.163.111.0:80 - Заголовок не найден
+127.63.171.226:80 - Welcome to XAMPP
+143.42.142.64:80 - Заголовок не найден
+23.202.214.162:80 - Заголовок не найден
+127.48.147.136:80 - Welcome to XAMPP
+127.150.232.32:80 - Welcome to XAMPP
+127.113.205.206:80 - Welcome to XAMPP
+168.91.98.51:80 - Apache HTTP Server Test Page powered by CentOS
+127.34.49.75:80 - Welcome to XAMPP
+127.70.221.3:80 - Welcome to XAMPP
+127.11.92.232:80 - Welcome to XAMPP
+127.0.47.215:80 - Welcome to XAMPP
+127.227.100.207:80 - Welcome to XAMPP
+108.183.32.64:80 - 
+47.117.165.21:80 - Заголовок не найден
+127.191.113.47:80 - Welcome to XAMPP
+127.179.246.41:80 - Welcome to XAMPP
+127.49.131.56:80 - Welcome to XAMPP
+77.165.194.104:80 - Tenda Wireless Router
+23.210.221.36:80 - Заголовок не найден
+124.220.100.63:80 - æäººå¨±ä¹å®
+23.7.75.77:80 - Заголовок не найден
+127.248.18.243:80 - Welcome to XAMPP
+104.117.188.185:80 - Заголовок не найден
+167.88.124.153:80 - 403 Forbidden
+23.239.23.54:80 - 刘智聪(waterflier)的 BLOG | 寻找简洁优美的规则来理解世界
+107.149.172.175:80 - Заголовок не найден
+13.65.125.82:80 - cookbeauty
+47.242.145.16:80 - Error
+154.209.105.124:80 - 404 Not Found
+127.80.24.103:80 - Welcome to XAMPP
+127.188.143.82:80 - Welcome to XAMPP
+23.40.163.223:80 - Заголовок не найден
+127.219.40.62:80 - Welcome to XAMPP
+127.123.201.6:80 - Welcome to XAMPP
+104.93.119.192:80 - Заголовок не найден
+127.151.18.111:80 - Welcome to XAMPP
+211.225.65.13:80 - CMS Web Viewer
+68.91.130.196:80 - 
+196.196.45.125:80 - Заголовок не найден
+105.68.144.244:80 - &#72;&#50;&#56;&#56;&#65;
+54.221.149.93:80 - Welcome to your Strapi app
+127.64.73.204:80 - Welcome to XAMPP
+127.101.148.105:80 - Welcome to XAMPP
+20.67.9.194:80 - Microsoft Azure Web App - Error 404
+23.65.11.84:80 - Заголовок не найден
+184.86.168.38:80 - Заголовок не найден
+43.243.191.222:80 - æ²¡ææ¾å°ç«ç¹
+23.62.196.116:80 - Заголовок не найден
+181.48.89.120:80 - NetDvrV3
+20.2.52.216:80 - Your Azure Function App is up and running.
+127.131.60.168:80 - Welcome to XAMPP
+54.174.221.43:80 - Free Business Statistics, Financial Ratios and Industry Statistics by Bizminer
+127.154.248.208:80 - Welcome to XAMPP
+127.116.133.126:80 - Welcome to XAMPP
+110.173.58.99:80 - æ²¡ææ¾å°ç«ç¹
+127.90.237.172:80 - Welcome to XAMPP
+127.62.47.34:80 - Welcome to XAMPP
+35.75.221.73:80 - Заголовок не найден
+199.250.203.40:80 - Standpoint Media Group
+127.64.78.38:80 - Welcome to XAMPP
+31.50.55.143:80 - 
+78.89.197.193:80 - IIS Windows Server
+75.2.13.121:80 - Заголовок не найден
+127.162.243.30:80 - Welcome to XAMPP
+202.128.231.95:80 - æ¾ä¸å°ç¶²é  æ¾ä¸å°ç½é¡µ Page Not Found
+127.66.31.104:80 - Welcome to XAMPP
+127.248.240.11:80 - Welcome to XAMPP
+18.228.208.150:80 - Заголовок не найден
+35.165.156.47:80 - Заголовок не найден
+5.226.51.248:80 - 502 Bad Gateway
+194.41.214.62:80 - Die Post - HTTP Fehlerseite
+18.235.193.8:80 - 503 Service Temporarily Unavailable
+127.245.97.239:80 - Welcome to XAMPP
+127.111.207.73:80 - Welcome to XAMPP
+127.112.139.153:80 - Welcome to XAMPP
+127.34.140.114:80 - Welcome to XAMPP
+111.51.138.150:80 - Заголовок не найден
+127.48.25.46:80 - Welcome to XAMPP
+210.123.135.158:80 - SOFTWARE UPDATE SYSTEM
+127.172.191.168:80 - Welcome to XAMPP
+123.57.67.5:80 - 403 Forbidden
+185.7.212.57:80 - 502 Bad Gateway
+67.216.145.45:80 - Error
+20.254.167.51:80 - 404 Not Found
+127.204.190.236:80 - Welcome to XAMPP
+203.147.82.134:80 - 403 Forbidden
+154.31.191.99:80 - 403 Forbidden
+108.157.110.223:80 - Заголовок не найден
+127.187.9.136:80 - Welcome to XAMPP
+157.197.177.174:80 - Заголовок не найден
+196.196.169.199:80 - 407 Proxy Authentication Required
+127.244.235.78:80 - Welcome to XAMPP
+195.72.203.91:80 - NethServer Enterprise
+23.47.62.24:80 - Заголовок не найден
+127.142.115.12:80 - Welcome to XAMPP
+35.170.197.46:80 - Welcome to nginx!
