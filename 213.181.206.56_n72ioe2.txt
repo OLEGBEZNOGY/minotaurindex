@@ -12829,3 +12829,191 @@
 34.90.122.63:80 - Hjem - Ringveien Terrasse
 23.195.55.4:80 - Заголовок не найден
 154.36.147.166:80 - 404 Not Found
+194.163.166.248:80 - Web Server's Default Page
+23.38.172.110:80 - Заголовок не найден
+127.20.70.2:80 - Welcome to XAMPP
+127.181.214.199:80 - Welcome to XAMPP
+20.8.131.56:80 - Your Azure Function App is up and running.
+127.250.83.236:80 - Welcome to XAMPP
+23.63.23.228:80 - Заголовок не найден
+196.51.213.109:80 - ERROR: The requested URL could not be retrieved
+169.44.169.199:80 - Web Server's Default Page
+3.160.12.243:80 - Заголовок не найден
+127.164.88.244:80 - Welcome to XAMPP
+67.205.20.112:80 - Site not found &middot; DreamHost
+127.251.116.44:80 - Welcome to XAMPP
+62.122.173.71:80 - 403 Forbidden
+23.218.62.99:80 - Заголовок не найден
+45.60.61.20:80 - Заголовок не найден
+127.246.136.241:80 - Welcome to XAMPP
+127.248.190.103:80 - Welcome to XAMPP
+104.119.102.163:80 - Заголовок не найден
+14.189.204.78:80 - 
+18.160.111.121:80 - Заголовок не найден
+127.74.236.156:80 - Welcome to XAMPP
+184.30.13.4:80 - Заголовок не найден
+127.75.225.167:80 - Welcome to XAMPP
+127.85.173.147:80 - Welcome to XAMPP
+192.198.106.187:80 - Заголовок не найден
+127.59.94.14:80 - Welcome to XAMPP
+2.21.143.238:80 - Заголовок не найден
+38.12.76.54:80 - 404 Not Found
+127.208.79.188:80 - Welcome to XAMPP
+127.62.140.227:80 - Welcome to XAMPP
+190.202.16.225:80 - Заголовок не найден
+60.205.205.21:80 - 403 Forbidden
+18.119.44.114:80 - VIZÎ ÎI
+127.159.115.35:80 - Welcome to XAMPP
+38.38.220.112:80 - æ²¡ææ¾å°ç«ç¹
+104.81.220.140:80 - Заголовок не найден
+38.207.31.213:80 - 404 Not Found
+44.212.46.90:80 - Advantage Direct Savings | A financial service of FVCbank
+127.38.176.18:80 - Welcome to XAMPP
+204.48.19.169:80 - PHP 7.4.9 - phpinfo()
+127.61.176.61:80 - Welcome to XAMPP
+127.19.105.134:80 - Welcome to XAMPP
+87.98.130.206:80 - Fertilisants &amp; engrais biologiques pour les professionnels de la culture
+23.248.192.140:80 - 403 Forbidden
+23.58.118.45:80 - Заголовок не найден
+127.110.51.80:80 - Welcome to XAMPP
+23.203.225.99:80 - Заголовок не найден
+158.191.171.145:80 - Accueil Amundi-EE - Amundi EE
+8.146.244.158:80 - 阿里云 Web应用防火墙
+13.127.236.197:80 - Welcome to nginx!
+127.159.180.85:80 - Welcome to XAMPP
+35.212.167.34:80 - Iniciar Sesión
+213.95.163.219:80 - Заголовок не найден
+127.187.74.190:80 - Welcome to XAMPP
+18.239.126.38:80 - Заголовок не найден
+103.23.61.166:80 - Заголовок не найден
+192.200.145.52:80 - Bandwidth Speed Test
+127.246.130.23:80 - Welcome to XAMPP
+54.156.47.10:80 - Barcode Orders Login
+127.188.83.88:80 - Welcome to XAMPP
+65.9.74.164:80 - Заголовок не найден
+217.22.129.192:80 - Unauthorized
+190.167.180.97:80 - 
+202.221.195.11:80 - Заголовок не найден
+45.95.66.36:80 - 400 Bad Request
+146.148.131.236:80 - 404 Not Found
+76.86.242.173:80 - index
+23.43.215.26:80 - Заголовок не найден
+200.229.236.230:80 - WebCast
+127.123.20.211:80 - Welcome to XAMPP
+23.104.134.33:80 - Заголовок не найден
+127.58.196.138:80 - Welcome to XAMPP
+23.33.151.11:80 - Заголовок не найден
+104.25.81.84:80 - Direct IP access not allowed | Cloudflare
+127.109.137.159:80 - Welcome to XAMPP
+127.212.53.181:80 - Welcome to XAMPP
+13.249.54.116:80 - Заголовок не найден
+188.199.130.137:80 - Заголовок не найден
+23.195.7.108:80 - Заголовок не найден
+179.52.192.16:80 - 
+65.52.184.86:80 - Microsoft Azure Web App - Error 404
+127.141.188.180:80 - Welcome to XAMPP
+193.252.9.125:80 - Заголовок не найден
+195.130.213.128:80 - Caricamento Siranet | Sistema Informativo Regionale Ambientale
+127.161.243.132:80 - Welcome to XAMPP
+196.242.70.217:80 - 407 Proxy Authentication Required
+127.237.88.103:80 - Welcome to XAMPP
+149.40.18.6:80 - 
+177.154.192.228:80 - TCM Mossor&#243; Central Assinante
+50.220.138.133:80 - Index
+190.176.62.74:80 - Заголовок не найден
+13.33.211.42:80 - Заголовок не найден
+186.89.32.184:80 - 
+127.164.108.63:80 - Welcome to XAMPP
+136.243.20.160:80 - Error
+39.174.48.29:80 - 403 Forbidden
+72.34.54.169:80 - Softaculous Webuzo | Default Website Page
+127.167.237.91:80 - Welcome to XAMPP
+127.25.56.135:80 - Welcome to XAMPP
+127.92.156.194:80 - Welcome to XAMPP
+4.182.132.170:80 - 404 Not Found
+59.8.125.89:80 - main page
+127.141.77.122:80 - Welcome to XAMPP
+82.157.157.181:80 - æ²¡ææ¾å°ç«ç¹
+34.89.204.129:80 - Suzuki recorder teacher &#8211; Just another WordPress site
+127.248.192.187:80 - Welcome to XAMPP
+127.115.1.186:80 - Welcome to XAMPP
+185.58.9.166:80 - 403 Forbidden
+127.132.165.167:80 - Welcome to XAMPP
+127.196.181.218:80 - Welcome to XAMPP
+13.249.152.222:80 - Заголовок не найден
+89.161.139.94:80 - TOMEX Instalacje Sanitarne // Instalacje grzewcze, Instalacje wodno-kanalizacyjne, Wentylacje i klimatyzacje, Solarne systemy ogrzewania... // Zapraszamy do wspÃ³Åpracy z profesjonalistami !
+59.15.64.154:80 - 현대자산운용
+81.187.203.167:80 - Заголовок не найден
+23.195.142.211:80 - Заголовок не найден
+118.145.157.48:80 - 
+186.128.32.151:80 - Заголовок не найден
+127.126.33.149:80 - Welcome to XAMPP
+8.222.199.41:80 - Заголовок не найден
+195.144.238.253:80 - 404 Not Found
+127.23.212.6:80 - Welcome to XAMPP
+180.223.72.53:80 - Заголовок не найден
+172.64.18.233:80 - Direct IP access not allowed | Cloudflare
+184.28.158.219:80 - Заголовок не найден
+127.139.5.135:80 - Welcome to XAMPP
+74.129.67.222:80 - 
+127.78.195.30:80 - Welcome to XAMPP
+54.192.59.223:80 - Заголовок не найден
+127.102.71.244:80 - Welcome to XAMPP
+99.86.226.51:80 - Заголовок не найден
+127.65.145.170:80 - Welcome to XAMPP
+185.74.70.43:80 - H&amp;eacute;bergement Internet, h&amp;eacute;bergement payant, heberge site web, site internet, php, mysql
+127.212.24.23:80 - Welcome to XAMPP
+54.255.31.66:80 - Default Site
+176.38.200.50:80 - RouterOS router configuration page
+127.206.193.104:80 - Welcome to XAMPP
+66.42.80.59:80 - Unknown Domain
+23.108.2.195:80 - 407 Proxy Authentication Required
+40.81.180.200:80 - Index of /
+52.25.248.26:80 - 503 Service Temporarily Unavailable
+127.132.109.196:80 - Welcome to XAMPP
+23.9.18.91:80 - Заголовок не найден
+127.158.199.66:80 - Welcome to XAMPP
+156.244.79.246:80 - 404 Not Found
+129.151.160.148:80 - MaxiAi Hub
+127.221.241.178:80 - Welcome to XAMPP
+47.96.88.151:80 - Welcome to nginx!
+117.1.157.101:80 - Server Unavailable
+127.124.255.178:80 - Welcome to XAMPP
+127.119.180.14:80 - Welcome to XAMPP
+3.131.4.76:80 - 503 Service Temporarily Unavailable
+144.91.71.94:80 - Login - Influence
+24.183.188.210:80 - 
+23.11.138.18:80 - Заголовок не найден
+216.146.223.72:80 - Index of /
+127.54.132.171:80 - Welcome to XAMPP
+127.2.220.45:80 - Welcome to XAMPP
+127.8.184.32:80 - Welcome to XAMPP
+127.94.97.97:80 - Welcome to XAMPP
+159.89.18.142:80 - Welcome to nginx!
+104.197.255.234:80 - Заголовок не найден
+127.70.138.175:80 - Welcome to XAMPP
+118.220.183.71:80 - Заголовок не найден
+18.160.68.53:80 - Заголовок не найден
+209.127.51.219:80 - Заголовок не найден
+127.90.6.103:80 - Welcome to XAMPP
+145.239.84.106:80 - 404 Not Found
+23.41.113.153:80 - Заголовок не найден
+127.7.55.73:80 - Welcome to XAMPP
+127.243.168.111:80 - Welcome to XAMPP
+18.173.199.143:80 - Заголовок не найден
+127.9.160.87:80 - Welcome to XAMPP
+181.24.16.25:80 - Заголовок не найден
+165.22.49.39:80 - 404 Not Found
+52.84.210.131:80 - Заголовок не найден
+211.52.194.219:80 - Заголовок не найден
+176.227.168.77:80 - Заголовок не найден
+194.56.58.12:80 - Nextcloud
+43.254.166.147:80 - 404 Not Found
+217.64.196.209:80 - Заголовок не найден
+127.242.167.59:80 - Welcome to XAMPP
+127.225.203.123:80 - Welcome to XAMPP
+104.82.232.35:80 - Заголовок не найден
+127.123.83.86:80 - Welcome to XAMPP
+18.64.165.171:80 - Заголовок не найден
+127.3.173.195:80 - Welcome to XAMPP
+159.65.97.29:80 - Заголовок не найден
