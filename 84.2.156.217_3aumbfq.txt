@@ -50,3 +50,33 @@
 87.201.36.118:80 - Document Moved
 190.252.219.57:80 - movistar
 38.14.51.68:80 - 404 Not Found
+78.142.214.180:80 - IIS Windows Server
+23.51.59.157:80 - Заголовок не найден
+173.222.163.77:80 - Заголовок не найден
+156.142.139.177:80 - IIS 10.0 Detailed Error - 403.14 - Forbidden
+52.59.53.228:80 - 403 Forbidden
+178.83.226.171:80 - Hello! Welcome to Synology Web Station!
+123.25.218.20:80 - WEB SERVICE
+94.26.131.74:80 - 403 Forbidden
+99.83.178.9:80 - 403 Forbidden
+1.34.246.230:80 - Sign in · GitLab
+185.25.116.167:80 - Welcome to nginx!
+34.225.203.216:80 - Заголовок не найден
+108.186.166.79:80 - Index of /
+154.212.145.87:80 - 404 Not Found
+168.76.149.116:80 - 404 Not Found
+23.222.86.239:80 - Заголовок не найден
+20.157.135.100:80 - Заголовок не найден
+104.154.174.133:80 - Site Not Configured | 404 Not Found
+45.192.232.143:80 - 404 Not Found
+217.26.141.201:80 - 401 Unauthorized
+2.16.223.201:80 - Заголовок не найден
+2.22.175.140:80 - Заголовок не найден
+184.51.247.3:80 - Заголовок не найден
+40.78.149.50:80 - Заголовок не найден
+104.21.89.146:80 - Direct IP access not allowed | Cloudflare
+23.211.163.150:80 - Заголовок не найден
+159.89.200.106:80 - Bangkok Condo Rentals - Condos for Rent, Available Now
+104.86.95.50:80 - Marriott Bonvoy Hotels | Book Directly &amp; Get Exclusive Rates
+20.157.158.185:80 - Заголовок не найден
+1.201.172.185:80 - Management of Ant Media Server
