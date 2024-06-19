@@ -4824,3 +4824,160 @@
 5.254.124.178:80 - Web Server's Default Page
 99.84.201.102:80 - Заголовок не найден
 38.152.198.122:80 - ERROR: The requested URL could not be retrieved
+52.220.50.160:80 - Заголовок не найден
+211.198.89.66:80 - Заголовок не найден
+107.175.144.80:80 - 407 Proxy Authentication Required
+61.218.247.97:80 - 
+23.59.3.238:80 - Заголовок не найден
+104.108.241.108:80 - Заголовок не найден
+185.157.223.129:80 - 404 Not Found
+99.181.83.16:80 - Заголовок не найден
+195.225.254.241:80 - Please wait, the page is opening...
+23.208.191.204:80 - Заголовок не найден
+94.156.61.146:80 - Please wait, the page is opening...
+44.241.248.37:80 - Заголовок не найден
+37.230.162.198:80 - Заголовок не найден
+156.245.94.188:80 - 404 Not Found
+188.128.171.105:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+13.110.47.220:80 - Unable to Process Request
+188.21.184.150:80 - ACME Access Only
+154.38.127.115:80 - 404 Not Found
+154.209.33.136:80 - 404 Not Found
+38.148.234.76:80 - 403 Forbidden
+51.79.146.202:80 - Apache2 Ubuntu Default Page: It works
+193.183.122.135:80 - Take our help and see usefulness of it when picking a writer!
+34.93.196.110:80 - Typo | Odoo
+166.195.194.182:80 - WEB
+5.185.72.21:80 - Teltonika Networks
+154.39.227.103:80 - 403 Forbidden
+20.199.110.241:80 - 404 Not Found
+92.122.76.153:80 - Заголовок не найден
+101.37.44.52:80 - 阿里云 Web应用防火墙
+188.138.155.40:80 - 403 Forbidden
+184.30.51.53:80 - Заголовок не найден
+93.90.195.49:80 - Заголовок не найден
+119.9.108.156:80 - LNMPä¸é®å®è£å by Licess
+44.205.73.192:80 - 503 Service Temporarily Unavailable
+23.213.96.198:80 - Заголовок не найден
+172.104.169.79:80 - Welcome to nginx!
+46.246.109.22:80 - 404 Not Found
+54.252.167.36:80 - Заголовок не найден
+59.56.24.148:80 - 403 Forbidden
+23.205.225.108:80 - Заголовок не найден
+18.239.191.65:80 - Заголовок не найден
+23.33.38.32:80 - Заголовок не найден
+63.135.111.94:80 - Заголовок не найден
+23.108.46.180:80 - 407 Proxy Authentication Required
+49.212.96.224:80 - SUNABA, Inc.
+3.163.13.196:80 - Заголовок не найден
+43.153.212.163:80 - 404 Not Found
+18.154.118.13:80 - Заголовок не найден
+163.19.205.74:80 - Заголовок не найден
+66.68.156.131:80 - 
+108.181.207.14:80 - Index of /
+23.49.208.100:80 - Заголовок не найден
+104.20.141.140:80 - Direct IP access not allowed | Cloudflare
+23.50.35.230:80 - Заголовок не найден
+184.51.39.14:80 - Заголовок не найден
+120.101.65.144:80 - Заголовок не найден
+38.63.155.104:80 - 403 Forbidden
+181.214.142.208:80 - Заголовок не найден
+185.5.180.237:80 - Prochimica
+52.195.70.44:80 - NHPTA財務会計
+155.159.168.239:80 - 云顶国际 | 世界顶尖娱乐城
+23.192.253.155:80 - Заголовок не найден
+18.198.198.90:80 - 503 Service Temporarily Unavailable
+27.126.211.206:80 - 
+14.194.159.247:80 - Заголовок не найден
+18.202.106.243:80 - 401 Authorization Required
+52.189.70.53:80 - Microsoft Azure Web App - Error 404
+3.164.236.93:80 - Заголовок не найден
+104.115.230.227:80 - Заголовок не найден
+193.170.21.45:80 - 403 Forbidden
+168.206.47.2:80 - 404 Not Found
+220.117.247.5:80 - 
+104.97.46.122:80 - Заголовок не найден
+23.204.133.209:80 - Заголовок не найден
+38.48.172.41:80 - Welcome to nginx!
+4.246.25.104:80 - Your Azure Function App is up and running.
+23.46.114.41:80 - Заголовок не найден
+23.59.208.218:80 - Заголовок не найден
+142.214.140.2:80 - Noder.
+34.92.4.241:80 - Caddy works!
+35.85.23.194:80 - Lookout for Work
+154.22.138.6:80 - ERROR: The requested URL could not be retrieved
+143.42.23.103:80 - Evident | NDT, Microscopes, XRF, RVI
+104.19.187.6:80 - Direct IP access not allowed | Cloudflare
+137.59.193.242:80 - Заголовок не найден
+34.208.248.192:80 - Заголовок не найден
+23.204.9.160:80 - Заголовок не найден
+209.237.165.59:80 - Заголовок не найден
+74.123.152.151:80 - Luminate: Site Not Found
+138.2.64.201:80 - ItsEyan
+24.205.196.198:80 - 
+134.209.9.207:80 - Ryan Leung
+104.96.142.46:80 - Заголовок не найден
+167.71.136.182:80 - Заголовок не найден
+118.140.140.198:80 - Index
+157.112.91.140:80 - Заголовок не найден
+18.244.101.143:80 - Заголовок не найден
+51.75.252.32:80 - Apache2 Ubuntu Default Page: It works
+203.254.140.199:80 - L7
+23.94.182.200:80 - Заголовок не найден
+23.196.245.75:80 - Заголовок не найден
+104.91.127.147:80 - Заголовок не найден
+2.56.154.92:80 - Заголовок не найден
+18.216.254.218:80 - Test Page for the Apache HTTP Server
+211.87.209.229:80 - 404 Not Found
+156.239.246.61:80 - Заголовок не найден
+104.140.220.176:80 - 403 Forbidden
+2.21.196.169:80 - Заголовок не найден
+199.181.197.72:80 - Direct IP access not allowed | Cloudflare
+8.18.163.140:80 - Заголовок не найден
+94.101.84.122:80 - Заголовок не найден
+212.227.37.94:80 - Ingelur
+107.163.138.209:80 - 403 Forbidden
+45.63.110.186:80 - Apache2 Ubuntu Default Page: It works
+143.198.88.79:80 - Web Server's Default Page
+104.19.99.31:80 - Direct IP access not allowed | Cloudflare
+46.20.103.188:80 - Заголовок не найден
+199.232.153.126:80 - Fastly error: unknown domain 199.232.153.126
+39.136.145.21:80 - 403 Forbidden
+178.78.193.42:80 - Authentication required
+184.50.115.124:80 - Заголовок не найден
+18.208.95.246:80 - Заголовок не найден
+89.161.218.254:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+24.107.176.78:80 - 
+168.206.127.15:80 - 404 Not Found
+168.206.196.132:80 - æ²¡ææ¾å°ç«ç¹
+34.88.78.83:80 - Заголовок не найден
+23.217.235.216:80 - Заголовок не найден
+45.205.220.150:80 - 400 Bad Request
+20.97.83.54:80 - Заголовок не найден
+194.27.36.157:80 - Bitlis Eren Üniversitesi Özlük İşleri
+182.161.131.24:80 - DVR ActiveX Viewer
+52.64.190.213:80 - American Express Affinity Dashboard
+54.88.212.139:80 - Apache2 Ubuntu Default Page: It works
+18.164.55.103:80 - Заголовок не найден
+13.226.14.162:80 - Заголовок не найден
+87.122.211.143:80 - Заголовок не найден
+65.9.154.115:80 - Заголовок не найден
+65.60.61.236:80 - Заголовок не найден
+154.91.60.251:80 - 404 Not Found
+52.21.212.168:80 - Заголовок не найден
+18.155.198.165:80 - Заголовок не найден
+216.71.124.82:80 - Hot Tubs Saunas Above Ground Pools Sales Store Lehigh Valley Poconos Pennsylvania,Hot Tub Sauna Pool Sales Store PDC Spa And Pool World Inc. 701 Bridge St Lehighton PA 18235 Phone:610-377-5637,PDC Spa Dealer,Dynasty Spa Hot Tub Dealer,Hot Tubs Spas,Whirlpool Tubs,Lehigh Valley Hot Tub Dealer,Swim Spas,Swimming Spas,Saunas,Steam Saunas,Infrared Saunas,Pool Closing Service,Pool Winterizing,Pool Closing Kits Supplies,Pool Frog Pool Cleaning Supplies,Above Ground Pools,Spa Parts,Pool Parts,Pool Liners,Pool Supplies,Sauna Supplies,Spa Supplies,Saratoga Spa Parts, Service,Finnleo Saunas,Supply,Hot Tub Repair,Pool Chemicals,Sauna Chemicals,Pool Supplies,Hot Tub Service,Pool Supplies,Frog Pool Products Dealer,Pool Cleaning Robots,Serving,Lehighton,Brodheadsville,Stroudsburg,Poconos,Lehigh Valley,Allentown,Bethlehem,Wilkes Barre,Scranton,Saucon Valley,Quakertown,PA,18322,570,610,215
+118.24.252.238:80 - Заголовок не найден
+202.164.233.236:80 - Заголовок не найден
+23.14.65.233:80 - Заголовок не найден
+18.164.70.101:80 - Заголовок не найден
+20.221.249.180:80 - Your Azure Function App is up and running.
+81.177.135.168:80 - ÐÑÐ¸Ð±ÐºÐ° 404. Ð¤Ð°Ð¹Ð» Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½
+88.99.229.213:80 - Apache2 Ubuntu Default Page: It works
+185.249.70.118:80 - Dundee Independent Advocacy Support &#8211; Twenty Years 1998-2018
+37.16.24.30:80 - Cworld AI | AIGC models, fine-tune Model and more
+38.95.107.111:80 - bt365ÓéÀÖ³¡/365ÌåÓýÍ¶×¢ÑÇÖÞ/365betÖ÷Ò³
+2.19.3.15:80 - Заголовок не найден
+18.164.149.110:80 - Заголовок не найден
+66.39.100.33:80 - Welcome to  Ventura TV Video Appliance Center, Inc
+52.9.243.2:80 - Заголовок не найден
