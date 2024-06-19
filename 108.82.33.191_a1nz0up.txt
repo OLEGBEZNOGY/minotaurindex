@@ -16699,3 +16699,12 @@ Products. Nail &amp; Beauty Training. Nail Art, Acrylic, Gel, Tips, PNI, Brucci,
 108.205.52.220:80 - Hello! Welcome to Synology Web Station!
 95.100.251.179:80 - Заголовок не найден
 190.93.247.13:80 - Direct IP access not allowed | Cloudflare
+139.59.197.126:80 - 404 Not Found
+18.201.2.236:80 - 404 Not Found
+172.64.145.187:80 - Direct IP access not allowed | Cloudflare
+217.160.199.42:80 - 403 Forbidden
+35.190.13.44:80 - 502 Server Error
+23.36.123.55:80 - Заголовок не найден
+160.86.227.99:80 - TERAOS
+47.76.137.99:80 - nps error
+151.101.13.85:80 - Fastly error: unknown domain 151.101.13.85
