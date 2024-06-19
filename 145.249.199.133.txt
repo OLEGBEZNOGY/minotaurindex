@@ -6092,3 +6092,6 @@
 91.233.218.39:80 - 404 Not Found
 103.140.248.45:80 - 404 Not Found
 18.168.138.214:80 - 503 Service Temporarily Unavailable
+94.248.193.175:80 - Заголовок не найден
+96.43.131.252:80 - ERROR: The requested URL could not be retrieved
+154.55.215.48:80 - 403 Forbidden
