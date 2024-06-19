@@ -1534,3 +1534,11 @@
 98.30.69.126:80 - 
 45.249.168.153:80 - Please wait, the page is opening...
 156.226.109.92:80 - 404 Not Found
+192.185.91.98:80 - Not Acceptable!
+154.31.130.170:80 - 403 Forbidden
+211.115.68.103:80 - Заголовок не найден
+62.74.232.54:80 - ACME Access Only
+47.104.178.103:80 - 404 Not Found
+154.195.197.152:80 - 404 Not Found
+157.97.111.162:80 - Web Server's Default Page
+141.26.9.187:80 - Status der Dienste der Universität Koblenz
