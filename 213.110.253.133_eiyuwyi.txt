@@ -2083,3 +2083,6 @@
 152.0.195.181:80 - 
 91.221.99.21:80 - Welcome to nginx!
 195.42.123.192:80 - 403 Forbidden
+167.235.143.161:80 - Welcome to nginx!
+38.6.249.180:80 - 403 Forbidden
+20.8.200.218:80 - Your Azure Function App is up and running.
