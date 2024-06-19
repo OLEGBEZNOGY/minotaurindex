@@ -1798,3 +1798,27 @@
 89.163.209.187:80 - 503 Service Temporarily Unavailable
 37.252.9.41:80 - National Casino login and registration, NationalCasino mobile app
 114.35.191.69:80 - 
+47.116.138.172:80 - Заголовок не найден
+104.25.53.52:80 - Direct IP access not allowed | Cloudflare
+93.125.29.26:80 - Заголовок не найден
+45.81.228.233:80 - Заголовок не найден
+78.189.164.115:80 - 
+151.247.7.238:80 - RouterOS router configuration page
+104.82.236.199:80 - Заголовок не найден
+18.155.112.139:80 - Заголовок не найден
+187.85.66.197:80 - Apache HTTP Server Test Page powered by CentOS
+119.207.238.38:80 - Gargoyle Router Management Utility
+212.36.77.169:80 - Web Site Blocked
+34.171.218.220:80 - Site Not Configured | 404 Not Found
+23.212.170.175:80 - Заголовок не найден
+186.6.47.39:80 - 
+217.93.220.62:80 - AXIS
+69.192.134.196:80 - Заголовок не найден
+104.215.16.84:80 - Заголовок не найден
+66.113.239.85:80 - Заголовок не найден
+31.47.119.106:80 - Document Error: Unauthorized
+23.82.28.135:80 - 407 Proxy Authentication Required
+20.83.72.180:80 - Your Azure Function App is up and running.
+151.101.46.60:80 - Fastly error: unknown domain 151.101.46.60
+46.26.75.56:80 - Vigor Login Page
+23.212.14.63:80 - Заголовок не найден
