@@ -398,3 +398,10 @@
 118.69.80.50:80 - Haravan - Không tìm thấy shop
 45.116.68.58:80 - WEB SERVICE
 47.104.166.234:80 - ç½ç«è®¿é®æ¥é
+45.200.16.91:80 - 410
+20.194.197.11:80 - 404 Not Found
+73.45.175.58:80 - index
+154.36.224.187:80 - Заголовок не найден
+192.81.217.108:80 - 503 Service Temporarily Unavailable
+192.185.187.94:80 - Not Acceptable!
+43.225.143.82:80 - Web Server's Default Page
