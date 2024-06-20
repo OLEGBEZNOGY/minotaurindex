@@ -13452,3 +13452,185 @@ WTCO 18/618HD
 23.63.141.172:80 - Заголовок не найден
 127.251.128.63:80 - Welcome to XAMPP
 192.252.152.180:80 - Resource not found
+23.43.120.37:80 - Заголовок не найден
+23.220.67.211:80 - Заголовок не найден
+23.6.78.119:80 - Заголовок не найден
+34.111.116.182:80 - Frontend Web Server
+171.102.11.15:80 - Заголовок не найден
+72.130.166.126:80 - 
+18.161.149.6:80 - Заголовок не найден
+127.132.80.17:80 - Welcome to XAMPP
+217.149.185.90:80 - Login
+158.177.7.218:80 - Заголовок не найден
+150.230.79.26:80 - AlvarÃ¡ de Obras
+127.25.181.51:80 - Welcome to XAMPP
+101.37.246.112:80 - Заголовок не найден
+185.136.216.4:80 - 404 Not Found
+45.223.121.177:80 - Заголовок не найден
+23.53.75.60:80 - Заголовок не найден
+127.7.239.78:80 - Welcome to XAMPP
+52.52.212.127:80 - Digital Marketing Agency in Bay Area, San Francisco | Clatter Chatter
+39.98.178.168:80 - 博化美
+47.116.8.134:80 - Заголовок не найден
+36.55.231.129:80 - Заголовок не найден
+3.231.139.201:80 - 403 Forbidden
+13.111.210.234:80 - 403 - Forbidden: Access is denied.
+149.210.154.41:80 - Dit domein is geregistreerd voor toekomstige doeleinden
+46.210.103.117:80 - Control Applications ltd (Embedded WEB Server)
+127.195.3.206:80 - Welcome to XAMPP
+136.243.167.124:80 - KonsoleH Login
+127.69.243.198:80 - Welcome to XAMPP
+23.204.175.233:80 - Заголовок не найден
+23.45.219.108:80 - Заголовок не найден
+186.75.239.46:80 - 
+23.198.215.148:80 - Заголовок не найден
+38.162.66.27:80 - 403 Forbidden
+127.57.64.2:80 - Welcome to XAMPP
+47.93.227.40:80 - èæ¹ã- é«æçäº§åè®¾è®¡åä½å¹³å°
+54.230.24.36:80 - Заголовок не найден
+127.109.39.95:80 - Welcome to XAMPP
+118.31.113.187:80 - 500 Internal Server Error
+45.8.22.101:80 - Заголовок не найден
+127.123.80.64:80 - Welcome to XAMPP
+127.253.61.170:80 - Welcome to XAMPP
+69.87.216.66:80 - 403 Forbidden
+47.100.194.7:80 - 404 Not Found
+20.31.202.69:80 - Заголовок не найден
+127.124.40.99:80 - Welcome to XAMPP
+104.79.148.65:80 - Заголовок не найден
+23.102.232.56:80 - 404 Not Found
+94.245.106.74:80 - Microsoft Azure Web App - Error 404
+127.5.182.186:80 - Welcome to XAMPP
+23.201.66.212:80 - Заголовок не найден
+134.209.98.214:80 - Love928
+185.40.253.86:80 - 401 Unauthorized
+127.220.240.123:80 - Welcome to XAMPP
+176.97.62.3:80 - 406 Not Acceptable
+127.249.121.89:80 - Welcome to XAMPP
+127.224.83.120:80 - Welcome to XAMPP
+127.28.197.145:80 - Welcome to XAMPP
+127.2.90.71:80 - Welcome to XAMPP
+127.18.81.237:80 - Welcome to XAMPP
+127.251.92.108:80 - Welcome to XAMPP
+127.0.156.53:80 - Welcome to XAMPP
+172.67.34.119:80 - Direct IP access not allowed | Cloudflare
+120.133.21.216:80 - Заголовок не найден
+192.185.173.30:80 - Not Acceptable!
+220.212.165.213:80 - Dashboard | Autonavi2023
+199.67.80.167:80 - 400 Bad Request
+79.173.124.238:80 - 
+104.24.244.96:80 - Direct IP access not allowed | Cloudflare
+154.214.96.114:80 - &#107;&#97;&#105;&#121;&#117;&#110;&#183;&#24320;&#20113;&#40;&#20013;&#22269;&#41;&#23448;&#26041;&#32593;&#31449;&#45;&#20837;&#21475;
+34.123.222.59:80 - Clickjective
+23.49.246.55:80 - Заголовок не найден
+127.235.245.24:80 - Welcome to XAMPP
+23.195.90.54:80 - Заголовок не найден
+127.6.134.72:80 - Welcome to XAMPP
+127.227.188.191:80 - Welcome to XAMPP
+104.69.53.181:80 - Заголовок не найден
+18.191.89.117:80 - Apache2 Ubuntu Default Page: It works
+54.78.160.119:80 - Login | House Living
+23.2.88.74:80 - Заголовок не найден
+127.31.173.169:80 - Welcome to XAMPP
+127.77.128.8:80 - Welcome to XAMPP
+62.68.206.98:80 - - Error - 403
+163.5.202.220:80 - Apache2 Ubuntu Default Page: It works
+127.18.230.41:80 - Welcome to XAMPP
+127.215.120.192:80 - Welcome to XAMPP
+138.94.48.11:80 - speed_service_mlg_2.dns50
+127.246.5.173:80 - Welcome to XAMPP
+127.122.230.101:80 - Welcome to XAMPP
+127.82.86.19:80 - Welcome to XAMPP
+127.82.113.48:80 - Welcome to XAMPP
+39.104.10.199:80 - Заголовок не найден
+127.57.102.148:80 - Welcome to XAMPP
+127.63.100.108:80 - Welcome to XAMPP
+52.203.135.169:80 - Заголовок не найден
+23.42.242.122:80 - Заголовок не найден
+127.201.91.235:80 - Welcome to XAMPP
+83.238.53.240:80 - IIS Windows Server
+127.14.193.110:80 - Welcome to XAMPP
+116.39.241.67:80 - WEB SERVICE
+23.200.180.202:80 - Заголовок не найден
+127.7.214.124:80 - Welcome to XAMPP
+127.115.10.151:80 - Welcome to XAMPP
+127.189.26.64:80 - Welcome to XAMPP
+52.44.42.182:80 - 502 Bad Gateway
+127.240.146.208:80 - Welcome to XAMPP
+104.95.246.212:80 - Заголовок не найден
+45.58.243.133:80 - Apache2 Ubuntu Default Page: It works
+127.253.86.130:80 - Welcome to XAMPP
+127.65.9.237:80 - Welcome to XAMPP
+127.88.172.204:80 - Welcome to XAMPP
+176.34.192.75:80 - Заголовок не найден
+127.204.127.171:80 - Welcome to XAMPP
+122.55.219.178:80 - Заголовок не найден
+95.216.182.113:80 - Client Area - Billing Panel
+180.201.11.228:80 - 404 Not Found
+64.106.185.52:80 - 500 - Internal server error.
+24.199.92.21:80 - 403 Forbidden
+139.59.207.177:80 - 404 Not Found
+62.109.224.24:80 - Заголовок не найден
+46.29.236.176:80 - Welcome to nginx!
+127.73.149.225:80 - Welcome to XAMPP
+127.251.81.65:80 - Welcome to XAMPP
+127.255.128.107:80 - Welcome to XAMPP
+127.21.7.120:80 - Welcome to XAMPP
+62.72.13.102:80 - Softaculous Webuzo | Default Website Page
+127.241.198.47:80 - Welcome to XAMPP
+47.100.64.27:80 - IIS Windows Server
+127.22.125.76:80 - Welcome to XAMPP
+190.99.185.71:80 - welcome
+127.95.95.192:80 - Welcome to XAMPP
+127.133.172.170:80 - Welcome to XAMPP
+104.17.179.229:80 - Direct IP access not allowed | Cloudflare
+127.90.163.51:80 - Welcome to XAMPP
+190.172.103.156:80 - Заголовок не найден
+222.186.27.237:80 - Заголовок не найден
+165.225.12.235:80 - Internet Security by Zscaler
+23.59.104.7:80 - Заголовок не найден
+23.207.17.172:80 - Заголовок не найден
+4.245.24.71:80 - PSD simulator
+127.240.143.204:80 - Welcome to XAMPP
+127.138.142.33:80 - Welcome to XAMPP
+119.202.173.35:80 - Setup Login
+65.0.34.159:80 - Заголовок не найден
+23.198.154.248:80 - Заголовок не найден
+127.234.19.10:80 - Welcome to XAMPP
+120.76.244.228:80 - 404 Not Found
+172.105.189.153:80 - Welcome to nginx!
+112.104.52.129:80 - WEB SERVICE
+167.71.54.250:80 - Заголовок не найден
+127.47.223.158:80 - Welcome to XAMPP
+103.148.151.159:80 - 404 Not Found
+127.230.76.26:80 - Welcome to XAMPP
+103.68.217.194:80 - Please wait, the login page is loading...
+23.222.133.180:80 - Заголовок не найден
+127.117.210.92:80 - Welcome to XAMPP
+5.161.93.43:80 - Website Unavailable
+127.134.22.30:80 - Welcome to XAMPP
+23.215.55.27:80 - Заголовок не найден
+176.27.253.65:80 - Заголовок не найден
+18.239.134.128:80 - Заголовок не найден
+187.72.100.249:80 - Web user login
+69.197.184.205:80 - 500 Internal Server Error
+51.254.97.0:80 - Willy Winkie (ÐÐ¸Ð»Ð»Ð¸ ÐÐ¸Ð½ÐºÐ¸)
+54.156.76.43:80 - Prometheus Time Series Collection and Processing Server
+127.11.183.14:80 - Welcome to XAMPP
+98.67.150.21:80 - Azure Container App - Unavailable
+127.92.197.158:80 - Welcome to XAMPP
+36.91.170.8:80 - IIS Windows Server
+45.200.48.43:80 - 11404 Not Found
+127.206.233.100:80 - Welcome to XAMPP
+127.245.114.44:80 - Welcome to XAMPP
+104.25.2.118:80 - Direct IP access not allowed | Cloudflare
+107.154.105.119:80 - Заголовок не найден
+103.15.138.67:80 - Заголовок не найден
+23.65.55.135:80 - Заголовок не найден
+42.194.252.162:80 - Заголовок не найден
+127.48.255.212:80 - Welcome to XAMPP
+78.135.77.135:80 - Healer Turkiye
+97.107.136.178:80 - Заголовок не найден
+104.120.61.216:80 - Заголовок не найден
+60.43.134.150:80 - JREIC æ ªå¼ä¼ç¤¾ã¸ã§ã¤ãªãã¯
+184.29.233.225:80 - Заголовок не найден
