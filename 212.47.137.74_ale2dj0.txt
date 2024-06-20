@@ -35,3 +35,18 @@
 45.116.79.112:80 - IIS Windows Server
 104.200.161.97:80 - Index of /
 69.146.200.109:80 - Polycom - Configuration Utility
+18.65.97.181:80 - Заголовок не найден
+94.21.213.66:80 - Hello! Welcome to Synology Web Station!
+69.36.46.69:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+221.178.105.151:80 - Заголовок не найден
+194.6.210.235:80 - maxcluster - Optimized E-Commerce Hosting
+104.115.89.34:80 - Заголовок не найден
+23.219.253.51:80 - Заголовок не найден
+23.202.1.132:80 - Заголовок не найден
+38.152.130.144:80 - ERROR: The requested URL could not be retrieved
+27.126.248.129:80 - 
+80.96.42.83:80 - Заголовок не найден
+185.236.1.198:80 - Welcome to nginx!
+154.198.33.48:80 - 401 Unauthorized
+45.200.252.43:80 - {首页标题}
+18.164.108.223:80 - Заголовок не найден
