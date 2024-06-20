@@ -1070,3 +1070,4 @@
 104.108.201.36:80 - Заголовок не найден
 38.33.194.45:80 - 404 Not Found
 81.46.240.6:80 - Apache2 Ubuntu Default Page: It works
+67.22.32.27:80 - Apache2 Debian Default Page: It works
