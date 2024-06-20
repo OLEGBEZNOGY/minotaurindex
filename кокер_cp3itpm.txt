@@ -5319,3 +5319,15 @@
 172.245.196.48:80 - 407 Proxy Authentication Required
 46.254.33.147:80 - Apache HTTP Server Test Page powered by CentOS
 23.78.20.253:80 - Заголовок не найден
+72.247.197.227:80 - Заголовок не найден
+168.121.97.72:80 - 403 Forbidden
+116.62.115.79:80 - 
+52.222.169.122:80 - Заголовок не найден
+104.18.138.173:80 - Direct IP access not allowed | Cloudflare
+141.98.92.159:80 - ERROR: The requested URL could not be retrieved
+154.7.88.68:80 - 404 Not Found
+31.220.55.191:80 - Заголовок не найден
+143.47.176.67:80 - Welcome to Your_domain!
+184.87.237.118:80 - Заголовок не найден
+104.27.118.146:80 - Direct IP access not allowed | Cloudflare
+187.251.155.100:80 - Заголовок не найден
