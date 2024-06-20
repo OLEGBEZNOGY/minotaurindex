@@ -146,3 +146,14 @@
 104.19.60.100:80 - Direct IP access not allowed | Cloudflare
 81.46.202.143:80 - 403 - Prohibido: acceso denegado.
 47.114.102.71:80 - 
+79.96.208.7:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+104.102.22.243:80 - Заголовок не найден
+208.94.117.226:80 - Invalid HTTP access to IP Address
+95.56.205.78:80 - GPON Home Gateway
+18.217.101.145:80 - Заголовок не найден
+154.48.212.13:80 - 403 - Forbidden: Access is denied.
+47.254.188.47:80 - Заголовок не найден
+47.5.23.225:80 - 
+23.197.245.185:80 - Заголовок не найден
+119.42.57.98:80 - Please wait, the login page is opening...
+20.241.208.10:80 - Microsoft Azure Web App - Error 404
