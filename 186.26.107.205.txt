@@ -1965,3 +1965,10 @@
 104.16.41.112:80 - Direct IP access not allowed | Cloudflare
 35.230.134.153:80 - Not Found
 66.220.15.198:80 - Old School Cameras | Los Angeles California's Camera Rental Network
+128.199.12.198:80 - 404 Not Found
+14.39.144.61:80 - DVR ActiveX Viewer
+184.50.221.86:80 - Заголовок не найден
+23.202.7.52:80 - Заголовок не найден
+46.252.243.156:80 - Success!
+82.64.5.183:80 - Bonjour&nbsp;! Bienvenue dans Synology Web Station&nbsp;!
+144.76.219.48:80 - Welcome to nginx!
