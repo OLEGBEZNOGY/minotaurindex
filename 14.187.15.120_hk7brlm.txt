@@ -1138,3 +1138,5 @@
 101.43.125.183:80 - 404 Not Found
 104.81.117.243:80 - Заголовок не найден
 173.236.200.74:80 - Site not found &middot; DreamHost
+122.202.94.43:80 - 404 Not Found
+47.105.90.45:80 - Welcome to CentOS
