@@ -7563,3 +7563,146 @@ Sign in
 145.40.188.31:80 - 
 154.55.170.88:80 - 403 Forbidden
 45.79.48.87:80 - Заголовок не найден
+23.215.95.10:80 - Заголовок не найден
+108.157.203.105:80 - Заголовок не найден
+115.179.56.49:80 - 
+198.179.101.92:80 - pfSense - Login
+154.213.100.125:80 - Заголовок не найден
+173.230.140.77:80 - ownCloud
+34.201.180.190:80 - Заголовок не найден
+18.158.205.115:80 - Заголовок не найден
+140.179.44.170:80 - Database Error
+172.217.160.67:80 - Google
+172.247.214.210:80 - 403 Forbidden
+77.47.149.13:80 - 500 Internal Server Error
+114.113.127.110:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+52.18.207.162:80 - SonarQube
+23.53.79.90:80 - Заголовок не найден
+198.154.80.23:80 - 407 Proxy Authentication Required
+75.103.126.117:80 - Заголовок не найден
+103.135.199.42:80 - Заголовок не найден
+54.77.98.223:80 - 404 Not Found
+107.149.113.43:80 - Заголовок не найден
+54.214.138.16:80 - 403 Forbidden
+196.247.168.18:80 - 407 Proxy Authentication Required
+74.206.51.99:80 - Welcome to Canopy
+59.18.235.127:80 - 
+44.239.141.135:80 - Error 403 Token not found
+31.220.106.213:80 - 403 Forbidden
+162.214.80.18:80 - Not Acceptable!
+62.224.49.130:80 - Login
+60.244.100.86:80 - WebMail
+184.25.198.73:80 - Заголовок не найден
+47.97.39.215:80 - Hexo
+211.105.48.163:80 - Заголовок не найден
+104.93.98.60:80 - Заголовок не найден
+23.50.193.14:80 - Заголовок не найден
+23.53.199.116:80 - Заголовок не найден
+23.193.169.204:80 - Заголовок не найден
+92.122.19.223:80 - Заголовок не найден
+128.101.37.90:80 - Virtual Online Linux Environment (VOLE) | Information Technology | College of Science and Engineering
+184.29.195.91:80 - Заголовок не найден
+197.164.169.107:80 - Web Client for HVR
+108.178.123.206:80 - Document Moved
+217.66.128.26:80 - Заголовок не найден
+183.80.187.165:80 - 
+20.8.77.180:80 - Your Azure Function App is up and running.
+18.153.220.83:80 - Notes
+23.224.187.4:80 - Apache2 Debian Default Page: It works
+104.66.70.139:80 - Заголовок не найден
+103.40.152.43:80 - Заголовок не найден
+23.46.91.181:80 - Заголовок не найден
+23.239.96.19:80 - 403 Forbidden
+159.69.76.148:80 - 403 Forbidden
+20.31.214.84:80 - Your Azure Function App is up and running.
+13.202.57.206:80 - Rewardwale - Moderator
+207.180.242.148:80 - Welcome to nginx!
+188.40.122.36:80 - Welcome to nginx!
+23.46.38.192:80 - Заголовок не найден
+197.145.87.56:80 - &#72;&#50;&#56;&#56;&#65;
+162.241.9.15:80 - Not Acceptable!
+207.99.51.136:80 - 500 - Internal server error.
+123.210.137.36:80 - Заголовок не найден
+23.60.255.206:80 - Заголовок не найден
+148.101.33.147:80 - 
+18.205.34.47:80 - TrueBet: The World's Best Site for Betting with Friends!
+103.16.139.216:80 - Welcome to nginx!
+196.51.234.101:80 - ERROR: The requested URL could not be retrieved
+135.181.47.36:80 - 404 Not Found
+200.33.12.151:80 - Ética, economía y bienes comunes
+13.39.246.23:80 - Laravel
+23.61.224.8:80 - Заголовок не найден
+168.235.74.110:80 - Apache2 Debian Default Page: It works
+23.45.252.36:80 - Заголовок не найден
+37.75.249.213:80 - Apache2 Ubuntu Default Page: It works
+47.109.76.86:80 - Welcome to nginx!
+94.240.137.244:80 - RouterOS router configuration page
+193.254.237.81:80 - 404 Not Found
+18.239.13.112:80 - Заголовок не найден
+161.117.243.44:80 - Заголовок не найден
+149.30.194.24:80 - 404 Not Found
+104.85.143.27:80 - Заголовок не найден
+192.100.172.173:80 - Apache2 Debian Default Page: It works
+179.52.121.199:80 - 
+164.46.32.224:80 - 403 Forbidden ã¢ã¯ã»ã¹ãç¦æ­¢ããã¦ãã¾ã
+137.135.225.231:80 - Microsoft Azure Web App - Error 404
+185.111.88.13:80 - Apache2 Ubuntu Default Page: It works
+175.215.217.197:80 - main page
+20.31.62.255:80 - Your Azure Function App is up and running.
+13.54.78.1:80 - 403 Forbidden
+139.20.16.45:80 - IfI-Chat
+54.190.1.241:80 - 503 Service Temporarily Unavailable
+104.24.215.225:80 - Direct IP access not allowed | Cloudflare
+47.88.23.189:80 - 阿里云万网虚机IP访问报错提示
+23.203.77.43:80 - Заголовок не найден
+157.175.113.246:80 - Tatweer Petroleum
+23.1.160.28:80 - Заголовок не найден
+186.129.112.106:80 - Заголовок не найден
+52.172.13.15:80 - Your Azure Function App is up and running.
+219.139.158.11:80 - 枝江公共招聘网
+103.197.168.254:80 - 404 Not Found
+23.44.72.185:80 - Заголовок не найден
+162.219.28.199:80 - 403 Forbidden
+40.84.154.196:80 - Microsoft Azure Web App - Error 404
+86.238.14.162:80 - Apache2 Debian Default Page: It works
+34.227.145.23:80 - Error
+104.248.179.42:80 - Index of /
+47.107.34.33:80 - æ²¡ææ¾å°ç«ç¹
+65.52.129.182:80 - SAP Commerce Cloud - Forbidden
+216.92.170.160:80 - Coldwell Banker Residential - Developer Services Division, Colorado -  Real Estate Sales &amp; Marketing Services
+54.154.41.229:80 - Заголовок не найден
+212.109.219.138:80 - Welcome to nginx!
+18.154.229.253:80 - Заголовок не найден
+103.116.153.116:80 - Заголовок не найден
+103.209.145.96:80 - Заголовок не найден
+192.36.214.50:80 - Apache Tomcat/7.0.11
+80.17.182.191:80 - Configuration
+67.225.166.12:80 - Penn-Truss Mfg. Inc.
+52.29.241.176:80 - 503 Service Temporarily Unavailable
+80.73.96.22:80 - 503 Service Temporarily Unavailable
+54.85.247.196:80 - Welcome to nginx!
+104.166.74.180:80 - 404 Not Found
+173.198.213.160:80 - Заголовок не найден
+188.34.184.239:80 - Login
+23.51.32.4:80 - Заголовок не найден
+172.66.44.66:80 - Direct IP access not allowed | Cloudflare
+44.230.176.16:80 - 503 Service Temporarily Unavailable
+104.68.251.4:80 - Заголовок не найден
+42.202.170.236:80 - Заголовок не найден
+121.153.175.174:80 - Redmine packaged by Bitnami
+52.218.53.40:80 - Amazon S3 - Cloud Object Storage  - AWS
+20.19.161.73:80 - 403 Forbidden
+185.211.58.103:80 - Apache2 Ubuntu Default Page: It works
+121.40.233.62:80 - 阿里云万网虚机IP访问报错提示
+4.207.30.248:80 - Your Azure Function App is up and running.
+54.177.140.197:80 - ExampleApp
+89.70.142.221:80 - Заголовок не найден
+195.167.167.178:80 - 403 Forbidden
+62.119.163.156:80 - Заголовок не найден
+50.2.64.57:80 - 403 Forbidden
+68.66.219.142:80 - Заголовок не найден
+91.250.238.24:80 - Заголовок не найден
+89.161.205.228:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+23.65.151.35:80 - Заголовок не найден
+91.121.108.72:80 - Apache2 Debian Default Page: It works
+184.87.97.68:80 - Заголовок не найден
