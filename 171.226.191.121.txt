@@ -141,3 +141,4 @@
 35.230.238.86:80 - 502 Server Error
 20.246.142.167:80 - Microsoft Azure Web App - Error 404
 68.66.229.80:80 - Заголовок не найден
+74.48.151.82:80 - Default Site
