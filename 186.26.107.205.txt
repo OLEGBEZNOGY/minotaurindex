@@ -844,3 +844,10 @@
 89.161.185.165:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
 5.23.49.58:80 - Website Suspended
 46.150.23.154:80 - RouterOS router configuration page
+66.22.93.197:80 - 403 Forbidden
+184.30.45.234:80 - Заголовок не найден
+185.241.1.45:80 - Hello! Welcome to Synology Web Station!
+52.123.202.95:80 - Заголовок не найден
+172.121.39.34:80 - 404 Not Found
+75.147.254.9:80 - Login Page
+190.114.253.122:80 - SIA ERP :::::::::::::::::::::::::::::................
