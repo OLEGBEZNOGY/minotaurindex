@@ -1,0 +1,15 @@
+23.206.14.153:80 - Заголовок не найден
+23.7.69.19:80 - Заголовок не найден
+154.204.198.211:80 - 404 Not Found
+172.67.244.145:80 - Direct IP access not allowed | Cloudflare
+185.20.225.217:80 - Website 185-20-225-217.cloudvps.regruhosting.ru is ready. The content is to be added
+103.41.197.236:80 - Please wait, the page is opening...
+204.188.247.85:80 - ERROR: The requested URL could not be retrieved
+18.165.183.129:80 - Заголовок не найден
+89.35.142.111:80 - 403 Forbidden
+162.159.160.182:80 - Direct IP access not allowed | Cloudflare
+162.0.224.65:80 - 503 Service Temporarily Unavailable
+77.79.249.82:80 - Заголовок не найден
+54.166.172.127:80 - 503 Service Temporarily Unavailable
+3.222.84.124:80 - 403 Forbidden
+156.241.87.88:80 - 404 Not Found
