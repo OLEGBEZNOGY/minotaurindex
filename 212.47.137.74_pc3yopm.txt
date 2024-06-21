@@ -1,0 +1,10 @@
+149.143.184.246:80 - Apache2 Ubuntu Default Page: It works
+66.214.158.35:80 - 
+8.145.251.98:80 - Заголовок не найден
+38.170.212.143:80 - ERROR: The requested URL could not be retrieved
+23.202.69.118:80 - Заголовок не найден
+173.44.216.180:80 - ERROR: The requested URL could not be retrieved
+89.200.72.100:80 - 403 - Forbidden
+3.218.139.104:80 - 404 Not Found
+92.46.195.132:80 - GPON Home Gateway
+108.139.46.83:80 - Заголовок не найден
