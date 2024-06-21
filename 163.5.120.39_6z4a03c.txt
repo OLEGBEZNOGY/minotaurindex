@@ -1668,3 +1668,187 @@
 127.158.22.72:80 - Welcome to XAMPP
 18.244.223.160:80 - Заголовок не найден
 127.220.119.73:80 - Welcome to XAMPP
+176.163.8.254:80 - Centrale
+154.197.239.178:80 - 404 Not Found
+209.208.226.85:80 - 
+127.213.125.30:80 - Welcome to XAMPP
+127.49.71.10:80 - Welcome to XAMPP
+54.185.171.65:80 - 403 Forbidden
+172.67.219.92:80 - Direct IP access not allowed | Cloudflare
+127.204.175.139:80 - Welcome to XAMPP
+213.194.161.109:80 - F680
+127.248.180.191:80 - Welcome to XAMPP
+127.133.236.83:80 - Welcome to XAMPP
+127.72.47.239:80 - Welcome to XAMPP
+2.23.233.102:80 - Заголовок не найден
+157.230.250.70:80 - Advanx Health - SNP Analysis Tool
+212.211.171.22:80 - Nextcloud VM
+38.33.18.236:80 - Welcome to nginx!
+119.28.121.57:80 - Welcome to tengine!
+127.218.44.38:80 - Welcome to XAMPP
+65.8.82.155:80 - Заголовок не найден
+222.154.92.118:80 - 
+127.62.200.144:80 - Welcome to XAMPP
+160.16.123.105:80 - Заголовок не найден
+127.37.46.92:80 - Welcome to XAMPP
+70.224.69.227:80 - Заголовок не найден
+4.250.139.52:80 - Заголовок не найден
+127.221.141.95:80 - Welcome to XAMPP
+45.192.69.216:80 - 404 Not Found
+195.211.102.149:80 - CRE - Вход
+120.77.55.130:80 - 404 Not Found
+212.85.118.129:80 - Zobacz nasze produkty | Lody Fantasia
+13.227.69.237:80 - Заголовок не найден
+51.140.166.209:80 - Microsoft Azure Web App - Error 404
+65.109.88.219:80 - Hello world!
+23.60.160.188:80 - Заголовок не найден
+162.212.172.26:80 - Apache HTTP Server Test Page powered by CentOS
+127.173.194.212:80 - Welcome to XAMPP
+125.139.50.178:80 - main page
+18.210.98.113:80 - 403 Forbidden
+46.242.202.233:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+58.194.191.72:80 - 404 Not Found
+127.153.197.78:80 - Welcome to XAMPP
+139.60.5.233:80 - Welcome to 139.60.5.233
+127.246.178.103:80 - Welcome to XAMPP
+148.255.110.104:80 - 
+66.84.18.182:80 - Slater Development Inc
+154.55.190.73:80 - 404 Not Found
+23.197.19.73:80 - Заголовок не найден
+127.235.252.192:80 - Welcome to XAMPP
+127.251.15.46:80 - Welcome to XAMPP
+88.255.106.25:80 - RouterOS router configuration page
+2.18.2.99:80 - Заголовок не найден
+127.20.1.108:80 - Welcome to XAMPP
+46.242.165.25:80 - Strona w przygotowaniu
+106.11.35.110:80 - 403 Forbidden
+34.125.246.102:80 - Заголовок не найден
+108.141.39.199:80 - 404 Not Found
+52.222.183.21:80 - Заголовок не найден
+89.215.117.127:80 - 
+165.22.229.36:80 - 403 Forbidden
+154.38.178.234:80 - 404 Not Found
+127.97.163.140:80 - Welcome to XAMPP
+206.85.34.217:80 - ZC-521
+67.227.74.26:80 - Заголовок не найден
+127.29.236.190:80 - Welcome to XAMPP
+127.61.248.96:80 - Welcome to XAMPP
+205.178.137.100:80 - Web Page Under Construction
+149.30.166.79:80 - 404 Not Found
+127.241.24.239:80 - Welcome to XAMPP
+154.212.56.194:80 - 404 Not Found
+103.170.159.217:80 - Please wait, the page is opening...
+4.14.77.135:80 - IIS Windows Server
+95.217.100.21:80 - Al Karam Paper Mills
+91.104.73.147:80 - 
+64.57.64.254:80 - Service Unavailable
+23.202.68.38:80 - Заголовок не найден
+108.141.212.241:80 - Your Azure Function App is up and running.
+213.176.12.183:80 - Заголовок не найден
+91.230.208.80:80 - 404 Not Found
+127.76.132.215:80 - Welcome to XAMPP
+52.85.26.86:80 - Заголовок не найден
+173.208.162.69:80 - 
+47.107.19.177:80 - ä¾¿å©24
+36.138.6.207:80 - Заголовок не найден
+23.223.74.191:80 - Заголовок не найден
+179.232.93.80:80 - Intelbras
+217.240.122.144:80 - Coinflip
+127.10.244.113:80 - Welcome to XAMPP
+104.113.233.69:80 - Заголовок не найден
+23.11.196.152:80 - Заголовок не найден
+18.200.9.10:80 - IIS Windows Server
+127.80.177.134:80 - Welcome to XAMPP
+190.49.30.74:80 - Заголовок не найден
+23.50.74.3:80 - Заголовок не найден
+151.236.124.170:80 - Заголовок не найден
+142.115.152.147:80 - HOME
+186.7.168.126:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#54;&#55;&#65;&#32;&#86;&#49;&#46;&#48;
+127.36.112.169:80 - Welcome to XAMPP
+127.16.163.73:80 - Welcome to XAMPP
+127.251.9.187:80 - Welcome to XAMPP
+18.238.35.116:80 - Заголовок не найден
+127.77.71.93:80 - Welcome to XAMPP
+168.228.159.193:80 - Заголовок не найден
+3.70.142.242:80 - 500: Internal Server Error
+190.93.115.168:80 - Заголовок не найден
+216.188.18.41:80 - Hands of Time Eyewear | Francis Drake Eyewear | Christie's Eyewear
+127.151.34.227:80 - Welcome to XAMPP
+127.116.103.191:80 - Welcome to XAMPP
+179.53.169.20:80 - ZXHN H108N V2.5
+93.201.170.187:80 - LANCOM: Error - Access Forbidden
+14.138.233.2:80 - Заголовок не найден
+172.245.85.30:80 - ERROR: The requested URL could not be retrieved
+127.120.100.44:80 - Welcome to XAMPP
+165.73.82.36:80 - Заголовок не найден
+127.202.70.14:80 - Welcome to XAMPP
+132.251.237.192:80 - 
+34.120.173.161:80 - 502 Server Error
+35.197.59.41:80 - Site Not Configured | 404 Not Found
+178.32.129.141:80 - Заголовок не найден
+174.81.98.254:80 - 
+104.76.202.113:80 - Заголовок не найден
+127.67.224.118:80 - Welcome to XAMPP
+127.36.178.132:80 - Welcome to XAMPP
+52.13.20.39:80 - 503 Service Temporarily Unavailable
+186.94.55.58:80 - 
+127.81.26.17:80 - Welcome to XAMPP
+127.152.158.32:80 - Welcome to XAMPP
+2.23.224.198:80 - Заголовок не найден
+127.177.164.192:80 - Welcome to XAMPP
+103.94.77.137:80 - æ²¡ææ¾å°ç«ç¹
+172.82.159.251:80 - 404 Not Found
+89.19.222.88:80 - Заголовок не найден
+127.247.137.104:80 - Welcome to XAMPP
+127.166.236.202:80 - Welcome to XAMPP
+77.83.247.168:80 - Заголовок не найден
+38.38.10.94:80 - 403 Forbidden
+114.132.242.23:80 - Заголовок не найден
+113.198.49.195:80 - Заголовок не найден
+177.87.150.248:80 - welcome
+127.242.91.173:80 - Welcome to XAMPP
+185.19.178.149:80 - Заголовок не найден
+87.226.12.82:80 - 500 Internal Server Error
+181.214.48.23:80 - Latest News - Malebra Server
+127.21.108.95:80 - Welcome to XAMPP
+157.230.18.231:80 - Welcome to nginx!
+51.68.183.88:80 - Web Server's Default Page
+104.233.242.241:80 - Заголовок не найден
+34.214.149.91:80 - Заголовок не найден
+182.181.219.229:80 - Заголовок не найден
+184.29.242.75:80 - Заголовок не найден
+66.160.187.181:80 - HURRICANE ELECTRIC
+127.125.111.170:80 - Welcome to XAMPP
+108.157.166.91:80 - Заголовок не найден
+23.59.0.45:80 - Заголовок не найден
+127.172.238.56:80 - Welcome to XAMPP
+157.148.101.13:80 - 404 Not Found
+18.67.78.127:80 - Заголовок не найден
+34.110.139.133:80 - Заголовок не найден
+127.214.142.179:80 - Welcome to XAMPP
+78.47.46.103:80 - Welcome to nginx!
+104.85.155.73:80 - Заголовок не найден
+143.244.35.196:80 - Apache2 Ubuntu Default Page: It works
+99.192.210.159:80 - Crazy Modders
+54.164.82.48:80 - Not Found
+127.29.199.155:80 - Welcome to XAMPP
+108.59.193.28:80 - Login TLK-TIME
+217.20.116.141:80 - Apache2 Ubuntu Default Page: It works
+104.24.63.41:80 - Direct IP access not allowed | Cloudflare
+127.188.14.28:80 - Welcome to XAMPP
+143.204.197.206:80 - Заголовок не найден
+127.67.195.145:80 - Welcome to XAMPP
+127.236.222.87:80 - Welcome to XAMPP
+162.144.1.165:80 - Not Acceptable!
+103.201.130.220:80 - Vite + Vue
+85.214.77.93:80 - Default Parallels Plesk Panel Page
+47.100.198.177:80 - IIS Windows Server
+127.204.108.69:80 - Welcome to XAMPP
+45.60.158.220:80 - Заголовок не найден
+219.231.159.150:80 - 404 Not Found
+127.242.213.211:80 - Welcome to XAMPP
+127.238.199.91:80 - Welcome to XAMPP
+127.12.140.192:80 - Welcome to XAMPP
+93.122.192.125:80 - 
+52.9.18.151:80 - Welcome to nginx!
+38.33.48.183:80 - 404 Not Found
