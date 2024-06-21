@@ -607,3 +607,41 @@
 45.181.236.25:80 - RouterOS router configuration page
 93.114.64.236:80 - Direct IP access not allowed | Cloudflare
 52.182.208.36:80 - Microsoft Azure Web App - Error 404
+23.211.203.58:80 - Заголовок не найден
+18.238.75.108:80 - Заголовок не найден
+121.42.140.132:80 - å±±ä¸æå¸å­¦é¢
+100.21.255.32:80 - South Jordan Rotary - Your Organization Tagline/Mission
+66.18.20.2:80 - Business Email Hosting | Email Solutions- Unlimited Users | HostMail
+81.150.47.239:80 - 
+23.214.85.227:80 - Заголовок не найден
+23.67.138.194:80 - Заголовок не найден
+104.20.120.86:80 - Direct IP access not allowed | Cloudflare
+220.132.119.115:80 - 
+218.40.198.57:80 - Web Server's Default Page
+23.216.28.245:80 - Заголовок не найден
+23.9.167.147:80 - Заголовок не найден
+91.231.81.54:80 - Заголовок не найден
+121.14.84.196:80 - 403 Forbidden
+13.226.178.149:80 - Заголовок не найден
+23.51.197.152:80 - Заголовок не найден
+170.231.36.15:80 - SERVICIO SUSPENDIDO POR FALTA DE PAGO
+18.212.196.25:80 - ARC Services &#8211; ARC Services
+104.173.170.144:80 - 
+52.218.88.104:80 - Amazon S3 - Cloud Object Storage  - AWS
+20.67.144.39:80 - Azure Container App - Unavailable
+142.54.191.67:80 - 404 Not Found
+5.39.76.233:80 - Welcome to nginx!
+108.159.10.197:80 - Заголовок не найден
+5.42.101.64:80 - Enterprise Open Source and Linux
+        | Ubuntu
+23.197.139.81:80 - Заголовок не найден
+72.180.160.215:80 - 
+87.236.103.182:80 - Заголовок не найден
+180.211.73.222:80 - DeviceInsight Reference Implementation
+132.248.181.116:80 - 404 Not Found
+23.211.167.8:80 - Заголовок не найден
+119.93.131.41:80 - 
+50.19.5.235:80 - Welcome to nginx!
+95.101.7.62:80 - Заголовок не найден
+108.158.127.81:80 - Заголовок не найден
+103.191.164.94:80 - Please wait, the login page is opening...
