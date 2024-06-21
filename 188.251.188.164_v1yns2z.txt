@@ -58,3 +58,11 @@
 79.96.220.227:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
 23.43.47.67:80 - Заголовок не найден
 188.34.194.21:80 - GinkGo
+35.190.66.112:80 - 502 Server Error
+121.140.130.107:80 - Заголовок не найден
+185.244.94.233:80 - Заголовок не найден
+188.165.133.96:80 - Elecimex | Accesorios y componentes reparación móvil, portátil y patinete eléctrico
+112.170.210.38:80 - Gargoyle Router Management Utility
+91.250.86.61:80 - Web Server's Default Page
+184.83.224.43:80 - index
+104.27.39.156:80 - Direct IP access not allowed | Cloudflare
