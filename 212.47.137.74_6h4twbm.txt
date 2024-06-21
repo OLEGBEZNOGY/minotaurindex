@@ -1,0 +1,14 @@
+216.241.102.17:80 - Заголовок не найден
+3.222.202.114:80 - 503 Service Temporarily Unavailable
+142.250.99.123:80 - Google
+52.20.159.53:80 - Example Site;!
+211.170.28.7:80 - IIS Windows
+107.162.140.208:80 - Request Rejected
+100.20.119.204:80 - Заголовок не найден
+44.213.38.20:80 - 503 Service Temporarily Unavailable
+108.156.25.177:80 - Заголовок не найден
+104.81.116.38:80 - Заголовок не найден
+13.55.106.206:80 - Заголовок не найден
+168.119.62.246:80 - Web Server's Default Page
+154.37.254.92:80 - ERROR: The requested URL could not be retrieved
+23.101.174.49:80 - Microsoft Azure Web App - Error 404
