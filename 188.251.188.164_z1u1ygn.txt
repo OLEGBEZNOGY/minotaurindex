@@ -2029,3 +2029,26 @@
 154.21.169.238:80 - ERROR: The requested URL could not be retrieved
 54.91.47.73:80 - Not Found
 190.92.9.17:80 - RouterOS router configuration page
+104.16.209.135:80 - Direct IP access not allowed | Cloudflare
+23.217.232.65:80 - Заголовок не найден
+92.116.226.80:80 - Uplage
+43.201.143.55:80 - Заголовок не найден
+129.146.74.232:80 - 1A Design-Build Official Website
+208.95.184.198:80 - Заголовок не найден
+35.156.24.238:80 - 404 Not Found
+172.66.194.202:80 - Direct IP access not allowed | Cloudflare
+101.43.155.25:80 - Not Found
+218.224.227.236:80 - Заголовок не найден
+82.80.209.53:80 - Заголовок не найден
+35.134.131.138:80 - WEB SERVICE
+31.13.248.41:80 - tyrtyr.lol &mdash; Coming Soon
+151.106.32.48:80 - Заголовок не найден
+151.101.233.70:80 - Fastly error: unknown domain 151.101.233.70
+199.19.109.159:80 - 404 Not Found
+200.27.184.222:80 - RouterOS router configuration page
+104.45.64.78:80 - Заголовок не найден
+14.128.154.225:80 - 403 Forbidden
+69.63.233.220:80 - Swidget Device Dashboard
+193.237.81.176:80 - .::Welcome to the Web-Based Configurator::.
+185.141.170.2:80 - Заголовок не найден
+151.101.166.161:80 - Fastly error: unknown domain 151.101.166.161
