@@ -603,3 +603,7 @@
 115.74.241.119:80 - 403 - Forbidden
 175.41.240.92:80 - Заголовок не найден
 2.23.241.117:80 - Заголовок не найден
+175.103.25.7:80 - Заголовок не найден
+45.181.236.25:80 - RouterOS router configuration page
+93.114.64.236:80 - Direct IP access not allowed | Cloudflare
+52.182.208.36:80 - Microsoft Azure Web App - Error 404
