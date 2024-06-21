@@ -7,3 +7,4 @@
 52.65.40.121:80 - 403 Forbidden
 104.122.136.26:80 - Заголовок не найден
 204.187.13.47:80 - Server Home Page
+118.97.60.94:80 - Microsoft Internet Information Services 8
