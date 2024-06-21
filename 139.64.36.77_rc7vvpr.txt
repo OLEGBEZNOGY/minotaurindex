@@ -1,0 +1,8 @@
+172.67.206.178:80 - Direct IP access not allowed | Cloudflare
+104.80.89.81:80 - Заголовок не найден
+34.68.89.156:80 - 404 Not Found
+170.130.208.37:80 - 403 Forbidden
+3.217.116.234:80 - 503 Service Temporarily Unavailable
+64.135.63.161:80 - 403 Forbidden
+186.130.91.122:80 - Заголовок не найден
+182.40.45.58:80 - 403 Forbidden
