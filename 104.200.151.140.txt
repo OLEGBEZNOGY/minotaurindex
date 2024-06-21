@@ -20,3 +20,7 @@
 24.222.223.194:80 - 403 Forbidden
 145.239.238.106:80 - 404 Not Found
 34.49.13.44:80 - 403
+103.20.199.89:80 - 404 Not Found
+202.194.200.165:80 - 404 Not Found
+104.27.105.95:80 - Direct IP access not allowed | Cloudflare
+18.206.241.70:80 - TVANext - Anuncia tu producto o servicion en TV Azteca
