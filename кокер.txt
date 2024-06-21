@@ -1085,3 +1085,7 @@
 124.220.71.217:80 - Test Page for Apache Installation
 191.6.222.237:80 - Site Hospedado na KingHost | Data Center no Brasil
 18.160.90.237:80 - Заголовок не найден
+108.139.1.26:80 - Заголовок не найден
+104.168.138.141:80 - Red Dog Physics
+219.152.173.217:80 - æ²¡ææ¾å°ç«ç¹
+45.76.107.153:80 - Welcome to nginx!
