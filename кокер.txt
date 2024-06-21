@@ -661,3 +661,8 @@
 58.8.52.206:80 - RouterOS router configuration page
 124.70.41.37:80 - 404 Not Found
 72.246.41.158:80 - Заголовок не найден
+217.67.21.69:80 - Digital Orchestra | software engineering as art
+64.44.39.111:80 - 500 Internal Server Error
+23.63.6.217:80 - Заголовок не найден
+54.148.206.77:80 - Заголовок не найден
+104.74.43.41:80 - Заголовок не найден
