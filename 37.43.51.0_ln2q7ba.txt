@@ -271,3 +271,145 @@
 217.15.175.143:80 - Заголовок не найден
 121.111.56.167:80 - 
 165.227.132.191:80 - Заголовок не найден
+72.139.9.162:80 - Document Moved
+219.218.117.41:80 - 404 Not Found
+147.235.149.179:80 - DVR Components Download
+158.247.246.50:80 - Заголовок не найден
+4.198.70.12:80 - Заголовок не найден
+91.244.23.82:80 - Document Error: Not Found
+104.17.21.93:80 - Direct IP access not allowed | Cloudflare
+192.227.168.186:80 - 404 Not Found
+45.60.206.38:80 - Заголовок не найден
+161.69.71.114:80 - Blocked Request: http://161.69.71.114/
+195.201.20.0:80 - Заголовок не найден
+74.46.253.21:80 - Server Error
+189.232.58.93:80 - 
+87.229.70.218:80 - Home
+184.30.50.155:80 - Заголовок не найден
+65.8.163.211:80 - Заголовок не найден
+200.90.147.88:80 - F660
+158.177.1.75:80 - Заголовок не найден
+173.42.96.183:80 - 
+4.157.119.150:80 - Microsoft Azure Web App - Error 404
+175.47.205.33:80 - Заголовок не найден
+23.2.81.133:80 - Заголовок не найден
+82.156.25.102:80 - åº¦ç
+195.114.11.45:80 - Заголовок не найден
+75.182.75.227:80 - 
+3.35.126.68:80 - Заголовок не найден
+104.81.100.192:80 - Заголовок не найден
+150.158.21.220:80 - 403 Forbidden
+3.248.139.59:80 - Заголовок не найден
+23.41.158.157:80 - Заголовок не найден
+142.171.231.240:80 - 404 Not Found
+117.192.89.39:80 - F460
+172.104.239.204:80 - Domain Default page
+213.91.210.196:80 - Заголовок не найден
+13.209.218.129:80 - Заголовок не найден
+198.50.215.9:80 - Заголовок не найден
+104.102.46.11:80 - Заголовок не найден
+167.99.57.166:80 - Заголовок не найден
+119.203.4.136:80 - 
+184.51.39.232:80 - Заголовок не найден
+177.93.196.199:80 - Заголовок не найден
+54.144.192.72:80 - Заголовок не найден
+20.71.64.154:80 - Maintenance
+23.45.196.247:80 - Заголовок не найден
+23.39.17.150:80 - Заголовок не найден
+23.59.121.241:80 - Заголовок не найден
+45.113.201.70:80 - è¯¥ç½ç«ææ¶æ æ³è¿è¡è®¿é®
+84.194.80.5:80 - WEB SERVICE
+52.206.121.66:80 - Заголовок не найден
+34.111.8.67:80 - Заголовок не найден
+91.220.208.138:80 - OI VAS Portal
+113.178.213.106:80 - WEB SERVICE
+18.67.36.29:80 - Заголовок не найден
+3.5.145.153:80 - Amazon S3 - Cloud Object Storage  - AWS
+166.154.166.13:80 - Заголовок не найден
+5.159.248.83:80 - Заголовок не найден
+44.241.25.101:80 - 503 Service Temporarily Unavailable
+79.140.81.15:80 - Заголовок не найден
+109.95.252.25:80 - Заголовок не найден
+13.249.248.85:80 - Заголовок не найден
+176.107.219.43:80 - Ð¡ÑÑÐ°Ð½Ð¸ÑÐ° Ð±Ð»Ð¾ÐºÐ¸ÑÐ¾Ð²ÐºÐ¸
+183.171.8.254:80 - GCU Login
+41.190.6.205:80 - Error 404 (Not Found)!!1
+121.162.232.56:80 - Заголовок не найден
+80.241.246.118:80 - 404 Not Found
+23.202.128.122:80 - Заголовок не найден
+106.14.62.230:80 - 403 Forbidden
+206.189.113.94:80 - 404 Not Found
+20.1.126.156:80 - Заголовок не найден
+104.20.20.231:80 - Direct IP access not allowed | Cloudflare
+104.110.21.95:80 - Заголовок не найден
+142.202.241.47:80 - Welcome to nginx!
+147.182.248.244:80 - AJPRO v2 | Inicio de sesión
+3.91.248.198:80 - Welcome to CentOS
+34.246.137.64:80 - TURN AROUND!
+81.5.166.61:80 - Заголовок не найден
+23.207.185.83:80 - Заголовок не найден
+125.136.234.46:80 - CMS Web Viewer
+54.92.3.142:80 - Jetty
+94.126.169.111:80 - 403 Forbidden
+45.144.65.205:80 - 403 Forbidden
+218.70.38.60:80 - 身份认证系统
+80.13.233.216:80 - IIS Windows
+65.8.175.81:80 - Заголовок не найден
+116.203.146.5:80 - Website Unavailable
+217.160.199.50:80 - 403 Forbidden
+47.97.185.255:80 - 404 Not Found
+114.199.8.11:80 - Заголовок не найден
+167.71.68.169:80 - Alexander Chatterjee
+191.96.181.232:80 - 407 Proxy Authentication Required
+107.175.216.40:80 - Notes
+23.49.26.53:80 - Заголовок не найден
+208.115.234.142:80 - Solana RPC
+44.221.81.83:80 - Заголовок не найден
+52.41.162.40:80 - Home - Dirt Kingdom
+23.50.164.80:80 - Заголовок не найден
+194.114.144.18:80 - Watcher
+196.51.26.14:80 - ERROR: The requested URL could not be retrieved
+162.159.20.231:80 - Direct IP access not allowed | Cloudflare
+118.112.238.113:80 - Заголовок не найден
+3.128.69.189:80 - Заголовок не найден
+59.100.246.238:80 - Заголовок не найден
+13.33.88.181:80 - Заголовок не найден
+13.227.44.206:80 - Заголовок не найден
+3.163.216.238:80 - Заголовок не найден
+23.63.194.33:80 - Заголовок не найден
+13.127.14.155:80 - 403 Forbidden
+34.36.62.147:80 - 403 Forbidden
+38.177.27.217:80 - Заголовок не найден
+104.24.247.105:80 - Direct IP access not allowed | Cloudflare
+64.23.198.179:80 - Senior Care Homes
+64.225.40.237:80 - Заголовок не найден
+2.56.53.164:80 - Please wait, the page is opening...
+23.218.78.132:80 - Заголовок не найден
+23.195.229.15:80 - Заголовок не найден
+35.212.230.54:80 - Welcome to nginx!
+37.152.151.42:80 - 
+185.85.17.97:80 - Заголовок не найден
+23.40.69.126:80 - Заголовок не найден
+3.73.149.245:80 - Заголовок не найден
+52.16.178.201:80 - Заголовок не найден
+154.7.58.44:80 - 403 Forbidden
+165.232.123.18:80 - 404 Not Found
+213.146.167.27:80 - The view 'Topic' or its master was not found or no view engine supports the searched locations. The following locations were searched:<br>~/_JobServe/JobServe/Areas/Developers/Views/home/Topic.aspx<br>~/_JobServe/JobServe/Areas/Developers/Views/home/Topic.ascx<br>~/_JobServe/JobServe/Areas/Developers/Views/Shared/Topic.aspx<br>~/_JobServe/JobServe/Areas/Developers/Views/Shared/Topic.ascx<br>~/_JobServe/Areas/Developers/Views/home/Topic.aspx<br>~/_JobServe/Areas/Developers/Views/home/Topic.ascx<br>~/_JobServe/Areas/Developers/Views/Shared/Topic.aspx<br>~/_JobServe/Areas/Developers/Views/Shared/Topic.ascx<br>~/_JobServe/JobServe/Views/home/Topic.aspx<br>~/_JobServe/JobServe/Views/home/Topic.ascx<br>~/_JobServe/JobServe/Views/Shared/Topic.aspx<br>~/_JobServe/JobServe/Views/Shared/Topic.ascx<br>~/_JobServe/Views/home/Topic.aspx<br>~/_JobServe/Views/home/Topic.ascx<br>~/_JobServe/Views/Shared/Topic.aspx<br>~/_JobServe/Views/Shared/Topic.ascx<br>~/Views/home/Topic.aspx<br>~/Views/home/Topic.ascx<br>~/Views/Shared/Topic.aspx<br>~/Views/Shared/Topic.ascx<br>~/_JobServe/JobServe/Areas/Developers/Views/home/Topic.cshtml<br>~/_JobServe/JobServe/Areas/Developers/Views/home/Topic.vbhtml<br>~/_JobServe/JobServe/Areas/Developers/Views/Shared/Topic.cshtml<br>~/_JobServe/JobServe/Areas/Developers/Views/Shared/Topic.vbhtml<br>~/_JobServe/Areas/Developers/Views/home/Topic.cshtml<br>~/_JobServe/Areas/Developers/Views/home/Topic.vbhtml<br>~/_JobServe/Areas/Developers/Views/Shared/Topic.cshtml<br>~/_JobServe/Areas/Developers/Views/Shared/Topic.vbhtml<br>~/Areas/Developers/Views/home/Topic.cshtml<br>~/Areas/Developers/Views/home/Topic.vbhtml<br>~/Areas/Developers/Views/Shared/Topic.cshtml<br>~/Areas/Developers/Views/Shared/Topic.vbhtml<br>~/_JobServe/JobServe/Views/home/Topic.cshtml<br>~/_JobServe/JobServe/Views/home/Topic.vbhtml<br>~/_JobServe/JobServe/Views/Shared/Topic.cshtml<br>~/_JobServe/JobServe/Views/Shared/Topic.vbhtml<br>~/_JobServe/Views/home/Topic.cshtml<br>~/_JobServe/Views/home/Topic.vbhtml<br>~/_JobServe/Views/Shared/Topic.cshtml<br>~/_JobServe/Views/Shared/Topic.vbhtml<br>~/Views/home/Topic.cshtml<br>~/Views/home/Topic.vbhtml<br>~/Views/Shared/Topic.cshtml<br>~/Views/Shared/Topic.vbhtml
+208.106.233.81:80 - Заголовок не найден
+101.201.67.217:80 - 405
+81.211.22.218:80 - RouterOS router configuration page
+54.74.188.188:80 - www.heedo.dk
+143.125.217.154:80 - ãããã©ã¤ãºæ ªå¼ä¼ç¤¾ï½åå¤è£éå±å·¥äºã®è¨­è¨ã»æ½å·¥
+104.21.229.118:80 - Direct IP access not allowed | Cloudflare
+38.6.157.130:80 - æ²¡ææ¾å°ç«ç¹
+120.79.74.206:80 - 404 Not Found
+194.191.24.15:80 - Hosting und Webhosting von green.ch - Ihre Webseite &amp; Domain
+92.205.17.104:80 - Web Server's Default Page
+4.210.19.181:80 - Заголовок не найден
+120.55.13.24:80 - Wordpress &#8211; 又一个WordPress站点
+138.197.147.159:80 - fauquier.ca
+185.166.39.238:80 - Lotobet
+212.93.61.124:80 - Заголовок не найден
+45.60.162.188:80 - Заголовок не найден
+98.71.88.214:80 - SFTP Gateway
+20.250.200.107:80 - Заголовок не найден
