@@ -2881,3 +2881,25 @@ Opportunities in Your Community.
 172.64.133.215:80 - Direct IP access not allowed | Cloudflare
 107.149.117.45:80 - 404 Not Found
 104.248.152.105:80 - RPN APPS
+45.120.185.42:80 - Заголовок не найден
+93.188.167.90:80 - Apache2 Ubuntu Default Page: It works
+190.3.119.69:80 - WEB SERVICE
+54.252.97.115:80 - Заголовок не найден
+154.38.208.103:80 - 403 Forbidden
+97.85.63.166:80 - 
+198.12.217.107:80 - Coming Soon
+209.240.98.140:80 - 403 - Forbidden: Access is denied.
+59.120.154.56:80 - Remote Surveillance, Any time &amp; Any where
+199.232.12.28:80 - Fastly error: unknown domain 199.232.12.28
+91.229.143.217:80 - Заголовок не найден
+54.248.36.62:80 - 503 Service Temporarily Unavailable
+43.154.139.90:80 - IIS Windows Server
+18.198.39.97:80 - Welcome to nginx!
+146.59.235.136:80 - Заголовок не найден
+45.79.181.92:80 - Welcome to nginx!
+23.201.189.144:80 - Заголовок не найден
+104.67.202.16:80 - Заголовок не найден
+34.120.16.165:80 - 502 Server Error
+98.142.107.109:80 - Заголовок не найден
+24.47.183.77:80 - 
+192.99.196.33:80 - Заголовок не найден
