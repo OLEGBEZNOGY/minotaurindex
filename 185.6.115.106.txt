@@ -587,3 +587,24 @@
 89.145.100.28:80 - Index of /
 66.113.237.49:80 - Janecky Family Home Page
 107.22.22.20:80 - Apache2 Ubuntu Default Page: It works
+177.22.80.246:80 - Intelbras
+121.151.220.66:80 - Заголовок не найден
+104.82.248.107:80 - Заголовок не найден
+171.244.29.101:80 - LoveItop Website
+168.138.11.106:80 - Welcome to nginx!
+37.233.92.170:80 - XHProf: Hierarchical Profiler Report
+18.238.179.158:80 - Заголовок не найден
+13.65.93.82:80 - Заголовок не найден
+120.24.83.79:80 - IIS Windows Server
+202.124.249.9:80 - 400 Bad Request
+199.91.205.149:80 - Login
+128.245.81.107:80 - 403 - Forbidden: Access is denied.
+167.20.2.3:80 - CPT Graphics
+46.4.4.110:80 - Herzlich Willkommen!
+97.107.137.105:80 - Clark Addis Central
+154.197.88.94:80 - Direct IP access not allowed | Cloudflare
+206.233.239.37:80 - 403 Forbidden
+18.161.103.211:80 - Заголовок не найден
+13.202.22.70:80 - Apache2 Ubuntu Default Page: It works
+154.205.216.72:80 - 404 Not Found
+120.240.113.203:80 - 403 Forbidden
