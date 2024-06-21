@@ -735,3 +735,8 @@
 38.177.225.225:80 - 404 Not Found
 23.204.245.234:80 - Заголовок не найден
 192.200.160.162:80 - Direct IP access not allowed | Cloudflare
+44.238.173.127:80 - No such app
+46.20.100.251:80 - Apache HTTP Server Test Page powered by CentOS
+109.110.144.216:80 - Apache2 Debian Default Page: It works
+109.120.247.126:80 - 
+18.169.104.205:80 - IIS Windows Server
