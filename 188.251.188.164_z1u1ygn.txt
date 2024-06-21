@@ -772,3 +772,5 @@
 23.209.200.237:80 - Заголовок не найден
 47.115.225.11:80 - 500 Internal Server Error
 104.16.122.122:80 - Direct IP access not allowed | Cloudflare
+50.221.68.86:80 - National Remarketing
+213.180.13.124:80 - IIS Windows
