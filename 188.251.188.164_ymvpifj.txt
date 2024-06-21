@@ -144,3 +144,30 @@
 23.107.18.82:80 - 500 Internal Server Error
 218.150.175.153:80 - DM-AP240 WebServer
 46.101.50.6:80 - Welcome to nginx!
+81.14.166.202:80 - 403 Forbidden
+13.251.135.25:80 - JT Test Page for the Nginx HTTP Server on Amazon Linux
+13.40.128.142:80 - Angel Investment Network Blog - News About Startups, Entrepreneurs &amp; Angel Investors
+104.102.19.28:80 - Заголовок не найден
+23.194.67.220:80 - Заголовок не найден
+88.79.254.164:80 - Заголовок не найден
+192.210.201.183:80 - 407 Proxy Authentication Required
+104.173.130.15:80 - Web Viewer for Samsung DVR
+211.205.111.182:80 - 
+23.65.52.195:80 - Заголовок не найден
+163.24.131.6:80 - webpackSPA
+4.36.60.103:80 - Web Filter Violation
+51.222.10.209:80 - Welcome to XAMPP
+104.121.5.237:80 - Заголовок не найден
+178.128.212.107:80 - Website Unavailable
+38.48.166.231:80 - Welcome to nginx!
+144.91.114.162:80 - vmi461755.contaboserver.net &mdash; Coming Soon
+185.159.121.181:80 - Web Server's Default Page
+192.141.107.163:80 - FiberLink411
+149.20.187.162:80 - Web Server Default page.
+78.153.209.22:80 - Заголовок не найден
+144.48.111.94:80 - Fizen
+23.197.9.30:80 - Заголовок не найден
+23.137.139.5:80 - Page not found
+78.84.71.58:80 - 
+184.26.70.149:80 - Заголовок не найден
+91.65.222.127:80 - Hello! Welcome to Synology Web Station!
