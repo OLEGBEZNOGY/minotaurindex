@@ -23,3 +23,15 @@
 95.9.242.244:80 - IIS Windows Server
 173.232.120.62:80 - 403 Forbidden
 77.238.87.177:80 - Please wait, the page is opening...
+51.195.105.149:80 - NejenPneu.cz | Levné pneumatiky, disky a alu kola. Krátké dodací lhůty, záruka 5 let.
+75.181.210.195:80 - 
+18.161.106.127:80 - Заголовок не найден
+103.148.119.1:80 - RouterOS router configuration page
+13.227.223.201:80 - Заголовок не найден
+193.200.103.218:80 - Заголовок не найден
+5.202.101.235:80 - RouterOS router configuration page
+3.17.98.21:80 - Pay It Forward
+15.204.212.72:80 - 404 Not Found
+51.91.13.91:80 - Заголовок не найден
+3.134.16.135:80 - Заголовок не найден
+54.188.48.117:80 - 403 Forbidden
