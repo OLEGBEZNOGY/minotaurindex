@@ -7250,3 +7250,163 @@ AIO-B2000-12+
 223.27.197.19:80 - IIS Windows Server
 192.210.204.25:80 - Apache HTTP Server Test Page powered by CentOS
 23.49.31.179:80 - Заголовок не найден
+23.63.118.198:80 - Заголовок не найден
+155.248.195.7:80 - Apache HTTP Server Test Page powered by Linux
+93.159.238.162:80 - Welcome to nginx!
+150.60.13.4:80 - Заголовок не найден
+89.161.137.148:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+151.0.183.120:80 - Заголовок не найден
+154.197.154.220:80 - 404 Not Found
+82.223.227.119:80 - Заголовок не найден
+190.165.160.207:80 - Document Error: Not Found
+108.186.136.93:80 - 403 Forbidden
+146.190.40.24:80 - 404 Not Found
+23.10.39.142:80 - Заголовок не найден
+136.144.254.242:80 - Web Server's Default Page
+23.90.24.216:80 - 403 Forbidden
+167.82.64.7:80 - Fastly error: unknown domain 167.82.64.7
+23.67.132.243:80 - Заголовок не найден
+104.71.172.120:80 - Заголовок не найден
+46.41.163.176:80 - Strona w przygotowaniu
+23.38.228.28:80 - Заголовок не найден
+183.107.97.115:80 - main page
+85.10.145.82:80 - 503 Service Temporarily Unavailable
+194.135.53.253:80 - 400 Bad Request
+23.10.215.100:80 - Заголовок не найден
+154.72.73.86:80 - RouterOS router configuration page
+104.210.6.148:80 - Microsoft Azure Web App - Error 404
+37.139.131.138:80 - Resource not found
+152.67.203.19:80 - 登录
+129.159.39.216:80 - AVM
+23.1.89.226:80 - Заголовок не найден
+18.216.192.32:80 - Заголовок не найден
+211.75.38.52:80 - Заголовок не найден
+185.56.219.34:80 - Заголовок не найден
+112.161.140.201:80 - Заголовок не найден
+156.226.20.19:80 - 404 Not Found
+91.238.174.186:80 - RouterOS router configuration page
+45.196.215.70:80 - Заголовок не найден
+146.190.242.192:80 - Welcome to nginx!
+187.44.81.68:80 - Zimbra Web Client Sign In
+23.197.3.130:80 - Заголовок не найден
+52.217.93.236:80 - Amazon S3 - Cloud Object Storage  - AWS
+163.181.102.170:80 - 403 Forbidden
+209.97.140.114:80 - Заголовок не найден
+20.210.27.237:80 - Your Azure Function App is up and running.
+47.100.56.206:80 - æ²¡ææ¾å°ç«ç¹
+14.180.233.46:80 - WEB SERVICE
+138.201.84.188:80 - Заголовок не найден
+103.251.180.113:80 - Web Page Blocked
+97.80.75.13:80 - 
+46.99.143.182:80 - 
+103.196.11.55:80 - Заголовок не найден
+96.17.189.141:80 - Заголовок не найден
+20.223.32.18:80 - Your Azure Function App is up and running.
+81.200.40.182:80 - Acteur.fr, logiciel en ligne de gestion mÃ©dicale du cabinet libÃ©ral - Acteurcs.fr, service en ligne de gestion mÃ©dicale et administrative, tÃ©lÃ©transmission de feuilles de soins pour centre de santÃ©
+74.125.192.202:80 - Google
+162.244.180.85:80 - 404 Not Found
+71.15.141.15:80 - 
+109.123.231.215:80 - Welcome to nginx!
+104.17.74.166:80 - Direct IP access not allowed | Cloudflare
+157.245.108.132:80 - Metabase
+201.49.219.35:80 - Заголовок не найден
+208.80.6.25:80 - 404 Not Found
+24.37.252.35:80 - 
+109.90.121.86:80 - LANCOM: Error - Access Forbidden
+172.201.157.101:80 - 404 Not Found
+186.7.225.56:80 - 
+113.198.51.236:80 - L7
+148.72.81.61:80 - EQUIX ProStride&trade; | Two-Year-Old Breeze Show Videos with Stride Data
+121.125.79.170:80 - ÇÑºûÇÐ¿ø
+23.60.13.9:80 - Заголовок не найден
+23.63.39.181:80 - Заголовок не найден
+173.222.177.5:80 - Заголовок не найден
+13.248.179.22:80 - Заголовок не найден
+193.150.77.68:80 - ePMP
+94.46.217.79:80 - Заголовок не найден
+121.155.70.102:80 - CMS Web Viewer
+2.19.197.117:80 - Заголовок не найден
+109.230.220.163:80 - 407 Proxy Authentication Required
+23.35.186.43:80 - Заголовок не найден
+139.159.154.20:80 - 403 Forbidden
+217.160.227.32:80 - 403 Forbidden
+51.91.18.127:80 - 404 Not Found
+23.203.206.93:80 - Заголовок не найден
+52.200.124.124:80 - 503 Service Temporarily Unavailable
+103.242.50.141:80 - Заголовок не найден
+54.148.140.127:80 - Заголовок не найден
+148.255.230.172:80 - 
+68.183.65.191:80 - 503 Service Temporarily Unavailable
+47.134.158.35:80 - 
+8.210.59.51:80 - 抱歉，页面出现问题了
+47.28.168.95:80 - Doug and Joy's
+38.55.232.142:80 - 404 Not Found
+182.183.189.84:80 - Заголовок не найден
+84.43.232.170:80 - Please wait, the page is opening...
+98.171.194.39:80 - Заголовок не найден
+154.209.108.201:80 - 404 Not Found
+174.118.170.55:80 - 
+172.67.40.219:80 - Direct IP access not allowed | Cloudflare
+114.34.39.189:80 - Заголовок не найден
+104.16.161.88:80 - Direct IP access not allowed | Cloudflare
+96.84.215.129:80 - 403 - Forbidden: Access is denied.
+141.138.168.16:80 - Заголовок не найден
+69.165.217.240:80 - poslfit at home
+23.94.69.85:80 - Forbidden!
+23.1.177.163:80 - Заголовок не найден
+212.66.108.61:80 - IIS Windows Server
+192.238.69.212:80 - 403 Forbidden
+116.31.102.27:80 - 403 Forbidden
+190.173.148.51:80 - Заголовок не найден
+172.117.29.130:80 - IIS Windows
+213.22.177.36:80 - index
+13.208.139.21:80 - Welcome to nginx!
+109.176.200.239:80 - Apache HTTP Server Test Page powered by CentOS
+35.157.152.154:80 - Заголовок не найден
+142.0.128.137:80 - Welcome to nginx!
+23.213.119.153:80 - Заголовок не найден
+13.201.69.196:80 - Index of /
+114.214.52.186:80 - 404 Not Found
+203.245.41.243:80 - 샵앤샵 관리프로그램
+206.119.174.67:80 - 请使用域名访问
+65.9.83.107:80 - Заголовок не найден
+194.56.34.112:80 - Stadt Z&uuml;rich
+47.99.54.67:80 - east-charger
+23.32.20.49:80 - Заголовок не найден
+154.37.249.79:80 - ERROR: The requested URL could not be retrieved
+18.245.212.238:80 - Заголовок не найден
+104.21.27.234:80 - Direct IP access not allowed | Cloudflare
+60.205.28.57:80 - 阿里云万网虚机IP访问报错提示
+154.213.224.151:80 - 404 Not Found
+85.185.166.210:80 - RouterOS router configuration page
+99.84.173.51:80 - Заголовок не найден
+85.104.122.90:80 - index
+173.236.209.217:80 - Site not found &middot; DreamHost
+125.25.207.32:80 - Заголовок не найден
+5.105.239.4:80 - 403 Forbidden
+116.92.246.216:80 - Заголовок не найден
+23.42.195.83:80 - Заголовок не найден
+23.208.9.137:80 - Заголовок не найден
+18.161.54.229:80 - Заголовок не найден
+152.0.172.112:80 - 
+18.161.234.181:80 - Заголовок не найден
+83.164.160.147:80 - Access forbidden!
+2.18.126.213:80 - Заголовок не найден
+194.105.55.221:80 - Firewall Notification
+38.152.179.203:80 - ERROR: The requested URL could not be retrieved
+154.217.69.151:80 - 404 Not Found
+65.110.83.74:80 - 500 - Internal server error.
+54.194.130.52:80 - 404 Not Found
+81.70.205.174:80 - Заголовок не найден
+23.216.36.12:80 - Заголовок не найден
+74.134.203.133:80 - 
+74.234.37.116:80 - Заголовок не найден
+74.82.19.125:80 - HURRICANE ELECTRIC
+45.80.151.35:80 - Traccar
+107.174.90.177:80 - Welcome to nginx!
+51.138.225.248:80 - Заголовок не найден
+88.208.119.221:80 - DomÃ©na, na kterou pÅistupujete, smÄÅuje na servery spoleÄnosti G2 server, ale nenÃ­ zde hostovanÃ¡.
+93.183.187.65:80 - Заголовок не найден
+101.35.239.86:80 - 404 Not Found
+104.20.174.209:80 - Direct IP access not allowed | Cloudflare
+133.83.227.28:80 - 
