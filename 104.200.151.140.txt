@@ -2,3 +2,5 @@
 54.170.188.7:80 - Apache Tomcat/8.0.37
 186.250.53.89:80 - 
 196.7.156.153:80 - 403 - Forbidden: Access is denied.
+65.1.25.1:80 - Apache2 Ubuntu Default Page: It works
+38.63.6.218:80 - Заголовок не найден
