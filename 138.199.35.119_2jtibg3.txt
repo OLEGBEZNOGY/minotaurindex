@@ -6696,3 +6696,6 @@ Jacob Navia
 191.82.121.106:80 - Заголовок не найден
 49.128.201.125:80 - 500 Internal Server Error
 113.246.57.48:80 - nothing
+65.61.33.69:80 - Site Not Found
+38.173.134.221:80 - Заголовок не найден
+104.17.62.83:80 - Direct IP access not allowed | Cloudflare
