@@ -14,3 +14,4 @@
 77.55.210.1:80 - Rośnij Pięknie!
 123.57.150.36:80 - Welcome to nginx!
 151.248.112.33:80 - 502 Bad Gateway
+206.119.75.155:80 - 403 Forbidden
