@@ -420,3 +420,18 @@
 58.229.240.59:80 - 메인 | 헬로버디
 201.254.8.53:80 - Заголовок не найден
 23.225.248.118:80 - welcome use kangle!
+104.25.36.231:80 - Direct IP access not allowed | Cloudflare
+178.57.75.142:80 - 404 Not Found
+20.226.205.147:80 - Your Azure Function App is up and running.
+173.232.127.76:80 - ERROR: The requested URL could not be retrieved
+195.178.152.94:80 - Apache2 Ubuntu Default Page: It works
+208.109.43.7:80 - Заголовок не найден
+139.59.131.131:80 - Денисова Алина :: 3DKotik
+35.129.209.174:80 - 
+94.23.28.141:80 - Default Parallels Plesk Page
+73.108.189.160:80 - 
+72.167.241.168:80 - Заголовок не найден
+204.12.218.132:80 - 404 Not Found
+86.170.135.6:80 - 
+54.207.72.199:80 - Заголовок не найден
+91.132.92.158:80 - Заголовок не найден
