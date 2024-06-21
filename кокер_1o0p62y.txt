@@ -1271,3 +1271,7 @@
 152.195.57.22:80 - 404 - Not Found
 138.68.92.119:80 - Artboard
 85.9.19.235:80 - Заголовок не найден
+77.55.152.94:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+54.38.136.214:80 - Welcome to nginx!
+38.207.212.60:80 - 404 Not Found
+3.12.91.41:80 - 503 Service Temporarily Unavailable
