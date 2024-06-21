@@ -2634,3 +2634,22 @@
 20.8.149.179:80 - Your Azure Function App is up and running.
 118.214.107.110:80 - Заголовок не найден
 65.1.50.69:80 - 404 Not Found
+210.44.219.26:80 - 404 Not Found
+38.207.251.198:80 - 404 Not Found
+104.128.127.101:80 - 404 Not Found
+45.38.147.148:80 - 403 Forbidden
+23.73.247.202:80 - Заголовок не найден
+188.128.231.139:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+178.19.116.49:80 - Radio Admin
+111.178.1.116:80 - 武汉斯迪尔机械有限公司
+203.69.221.2:80 - 503 Service Not Available
+104.253.119.223:80 - 403 Forbidden
+64.176.67.165:80 - Welcome to OpenResty!
+104.40.50.178:80 - Заголовок не найден
+217.91.16.254:80 - LANCOM: Error - Access Forbidden
+91.139.93.165:80 - 
+90.127.35.34:80 - Apache2 Ubuntu Default Page: It works
+154.217.146.79:80 - Sorry, the website has been stopped
+194.60.87.152:80 - Welcome to nginx!
+13.210.28.228:80 - 503 Service Temporarily Unavailable
+23.209.57.154:80 - Заголовок не найден
