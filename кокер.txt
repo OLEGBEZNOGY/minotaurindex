@@ -826,3 +826,7 @@
 4.249.248.180:80 - Microsoft Azure Web App - Error 404
 163.29.137.32:80 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 52.6.187.104:80 - Заголовок не найден
+47.94.98.180:80 - æ²¡ææ¾å°ç«ç¹
+193.0.61.124:80 - IIS Windows Server
+222.218.187.60:80 - 403 Forbidden
+64.12.16.4:80 - 404 - Not Found
