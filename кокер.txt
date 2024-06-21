@@ -381,3 +381,15 @@
 108.142.95.97:80 - Заголовок не найден
 129.28.181.196:80 - æ²¡ææ¾å°ç«ç¹
 20.221.98.9:80 - Microsoft Azure Web App - Error 404
+65.109.9.206:80 - Vira.Dev
+51.38.44.211:80 - Заголовок не найден
+72.203.224.138:80 - Login
+54.148.194.51:80 - Заголовок не найден
+90.140.7.26:80 - Teltonika Networks
+193.111.100.80:80 - Hier ensteht eine neue Kunden-Website - powered by weber.cloud
+3.36.20.223:80 - 403 Forbidden
+46.105.55.88:80 - Erreur : impossible d’afficher l’Accès Bureau à distance par le Web
+159.135.11.203:80 - Coming Soon page
+13.201.197.203:80 - Welcome to nginx!
+222.92.149.230:80 - Login
+154.22.168.203:80 - IIS Windows Server
