@@ -7032,3 +7032,5 @@ Jacob Navia
 211.226.96.27:80 - Заголовок не найден
 149.28.197.223:80 - Unknown Domain
 185.215.4.215:80 - DDoS-Guard
+85.128.157.177:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+3.161.243.41:80 - Заголовок не найден
