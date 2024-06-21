@@ -3107,3 +3107,86 @@
 104.100.174.184:80 - Заголовок не найден
 104.120.132.58:80 - Заголовок не найден
 50.3.217.210:80 - 403 Forbidden
+82.134.224.166:80 - Login
+118.215.37.167:80 - Заголовок не найден
+66.147.231.215:80 - Заголовок не найден
+208.109.62.183:80 - Coming Soon
+104.20.17.25:80 - Direct IP access not allowed | Cloudflare
+104.16.220.223:80 - Direct IP access not allowed | Cloudflare
+45.145.177.40:80 - Site Information Page
+89.223.197.39:80 - turmeric&nbsp;-&nbsp;Synology&nbsp;DiskStation
+38.48.217.102:80 - æ²¡ææ¾å°ç«ç¹
+87.16.247.65:80 - Default Site
+2.17.190.155:80 - Заголовок не найден
+184.154.46.173:80 - Oops - something went wrong!
+172.104.188.148:80 - Md Khalil Uddin - Creative Director &amp; Co-founder, ShapedPlugin LLC
+104.18.9.118:80 - Direct IP access not allowed | Cloudflare
+41.193.214.198:80 - iShieldNG - Secure Redirect
+104.17.24.125:80 - Direct IP access not allowed | Cloudflare
+13.232.233.93:80 - IIS Windows Server
+143.198.199.230:80 - Заголовок не найден
+190.82.94.180:80 - 
+23.225.151.251:80 - 403 Forbidden
+118.215.9.10:80 - Заголовок не найден
+82.209.249.170:80 - Заголовок не найден
+170.64.140.120:80 - 404 Not Found
+5.32.14.206:80 - Document Moved
+196.204.66.15:80 - Error 404 (Not Found)!!1
+65.9.178.209:80 - Заголовок не найден
+104.118.106.11:80 - Заголовок не найден
+194.50.177.74:80 - Заголовок не найден
+13.234.121.94:80 - Maharani`s Science College for Women
+143.204.180.189:80 - Заголовок не найден
+45.63.19.223:80 - Home - Cloud Trend Technologies
+222.75.44.169:80 - Заголовок не найден
+144.91.78.109:80 - Apache2 Ubuntu Default Page: It works
+76.223.105.136:80 - Заголовок не найден
+199.232.237.70:80 - Fastly error: unknown domain 199.232.237.70
+49.207.176.220:80 - 
+154.22.201.250:80 - 403 Forbidden
+104.223.109.196:80 - 500 Internal Server Error
+52.12.78.50:80 - Welcome to nginx!
+156.250.88.82:80 - 404 Not Found
+18.66.90.195:80 - Заголовок не найден
+198.244.233.102:80 - 404 Not Found
+65.35.185.65:80 - 
+23.39.120.48:80 - Заголовок не найден
+13.226.235.155:80 - Заголовок не найден
+186.14.218.149:80 - Заголовок не найден
+213.32.62.207:80 - Médimust : Le logiciel médical simplement prodigieux
+13.94.171.156:80 - Microsoft Azure Web App - Error 404
+38.35.91.210:80 - IIS Windows Server
+91.107.200.35:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+141.98.114.18:80 - Web Server's Default Page
+17.250.99.13:80 - 400 Bad Request
+108.156.186.102:80 - Заголовок не найден
+1.82.234.54:80 - Заголовок не найден
+108.158.243.149:80 - Заголовок не найден
+217.114.218.24:80 - Info
+75.129.79.245:80 - 
+23.74.6.24:80 - Заголовок не найден
+47.129.29.242:80 - HTTP Server Test Page powered by CentOS
+99.192.181.105:80 - Заголовок не найден
+101.42.233.169:80 - 404 Not Found
+84.174.19.254:80 - Webinterface
+209.217.36.199:80 - Заголовок не найден
+76.8.57.72:80 - ERROR: The requested URL could not be retrieved
+216.36.242.107:80 - Заголовок не найден
+43.203.7.201:80 - Заголовок не найден
+172.247.72.222:80 - Заголовок не найден
+84.252.142.239:80 - Заголовок не найден
+54.243.200.126:80 - 403 Forbidden
+111.32.209.208:80 - 403 Forbidden
+195.201.220.232:80 - Web Server's Default Page
+210.172.159.199:80 - 404 Error - Not Found
+23.200.203.101:80 - Заголовок не найден
+167.114.210.27:80 - XenServer 6.5.0
+154.7.23.158:80 - 404 Not Found
+13.224.83.41:80 - Заголовок не найден
+199.80.52.106:80 - 503 Service Temporarily Unavailable
+45.77.147.94:80 - Apache2 Debian Default Page: It works
+23.40.199.220:80 - Заголовок не найден
+118.99.63.181:80 - 403 Forbidden
+23.213.120.65:80 - Заголовок не найден
+184.31.100.159:80 - Заголовок не найден
+104.16.248.208:80 - Direct IP access not allowed | Cloudflare
