@@ -29,3 +29,5 @@
 162.19.81.44:80 - phpMyAdmin
 23.65.49.47:80 - Заголовок не найден
 192.126.151.122:80 - ERROR: The requested URL could not be retrieved
+190.103.16.77:80 - RouterOS
+149.71.179.7:80 - 407 Proxy Authentication Required
