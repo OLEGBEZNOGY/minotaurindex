@@ -9,3 +9,6 @@
 204.187.13.47:80 - Server Home Page
 118.97.60.94:80 - Microsoft Internet Information Services 8
 160.16.204.33:80 - Default Site
+163.123.192.77:80 - Welcome to nginx!
+184.24.192.221:80 - Заголовок не найден
+77.55.210.1:80 - Rośnij Pięknie!
