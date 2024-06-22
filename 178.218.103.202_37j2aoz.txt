@@ -2258,3 +2258,26 @@
 65.21.56.193:80 - Заголовок не найден
 13.235.173.38:80 - Welcome to nginx!
 154.31.138.94:80 - æ²¡ææ¾å°ç«ç¹
+34.231.31.18:80 - DD Check Admin
+138.248.199.74:80 - Заголовок не найден
+195.175.26.102:80 - IIS Windows Server
+108.188.4.115:80 - 
+104.85.17.110:80 - Заголовок не найден
+23.15.178.73:80 - Заголовок не найден
+34.250.132.100:80 - 404 Not Found
+3.87.15.251:80 - Заголовок не найден
+54.153.201.132:80 - Catalogue : Library : The University of Melbourne
+66.39.12.52:80 - 500 Internal Server Error
+114.32.195.215:80 - 
+84.96.159.172:80 - Заголовок не найден
+14.23.140.46:80 - 
+35.73.85.65:80 - 【TEST】Solistiade -ソリスティアーデ-
+178.63.106.195:80 - Welcome to nginx!
+23.35.114.27:80 - Заголовок не найден
+96.126.107.96:80 - Website Unavailable
+75.74.196.134:80 - Checking Language...
+103.170.43.185:80 - RouterOS router configuration page
+77.55.212.227:80 - Super Optyk - program dla optyków, okulistów, optometrystów, program dla salonów i zakładów optycznych, super nowoczesny system do obsługi salonu optycznego
+3.115.48.73:80 - Designer - Creative HTML5 Template
+101.43.34.162:80 - 403 Forbidden
+198.46.89.47:80 - Site Unavailable
