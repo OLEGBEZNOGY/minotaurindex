@@ -1,0 +1,29 @@
+217.18.56.108:80 - 404 Not Found
+35.74.161.37:80 - Top - 2020 Project Last Stand for you (or your company)
+3.34.163.86:80 - Bad Request (400)
+107.20.211.136:80 - GoodMeasure
+80.243.235.180:80 - 
+114.214.37.174:80 - 404 Not Found
+118.178.32.146:80 - HTTP Status 500 – Internal Server Error
+149.96.163.123:80 - 403 Forbidden
+52.9.253.127:80 - Welcome to nginx!
+49.44.113.74:80 - Заголовок не найден
+87.255.195.120:80 - Apache HTTP Server Test Page powered by CentOS
+103.39.214.206:80 - 404 Not Found
+13.229.198.217:80 - Заголовок не найден
+23.207.128.145:80 - Заголовок не найден
+201.229.129.37:80 - 
+13.200.59.128:80 - Test Page for the Nginx HTTP Server on Amazon Linux
+154.39.165.244:80 - Заголовок не найден
+149.96.23.26:80 - 403 Forbidden
+104.74.150.148:80 - Заголовок не найден
+192.185.113.108:80 - Not Acceptable!
+85.120.244.19:80 - Apache HTTP Server Test Page powered by CentOS
+101.200.159.229:80 - Заголовок не найден
+96.30.198.96:80 - Unknown Domain
+3.7.200.116:80 - 403 Forbidden
+54.71.208.149:80 - Contrast
+51.75.234.236:80 - Заголовок не найден
+38.51.152.5:80 - RouterOS router configuration page
+3.162.241.227:80 - Заголовок не найден
+34.170.57.198:80 - Site Not Configured | 404 Not Found
