@@ -14965,3 +14965,16 @@ piano playing.
 143.198.143.94:80 - Apache2 Debian Default Page: It works
 85.195.226.251:80 - System Dashboard - Winet Voicetec Solutions AG - JIRA
 2.179.102.165:80 - Заголовок не найден
+23.63.253.122:80 - Заголовок не найден
+52.90.177.49:80 - Заголовок не найден
+23.55.182.249:80 - Заголовок не найден
+68.220.192.62:80 - Your Azure Function App is up and running.
+18.214.126.85:80 - cx-chart-server 22.3.3 status page
+81.168.76.219:80 - nayler.net
+43.156.32.104:80 - IIS Windows Server
+38.255.249.77:80 - 
+20.250.186.13:80 - 404 Not Found
+45.93.18.131:80 - 400 Bad Request
+54.169.167.104:80 - 404 Not Found
+146.4.120.102:80 - FortiGate
+23.37.111.82:80 - Заголовок не найден
