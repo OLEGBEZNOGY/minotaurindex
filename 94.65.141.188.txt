@@ -5698,3 +5698,5 @@ error: unknown domain 199.232.39.166
 45.48.51.11:80 - Default Site
 91.185.184.247:80 - CE Brokers - Logowanie
 185.54.185.81:80 - Apache2 Debian Default Page: It works
+212.68.167.125:80 - Index of /
+104.103.64.198:80 - Заголовок не найден
