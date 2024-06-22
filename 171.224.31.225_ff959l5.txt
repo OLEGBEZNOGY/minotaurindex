@@ -17,3 +17,9 @@
 54.243.171.1:80 - 404 Not Found
 42.112.204.251:80 - 
 172.67.72.152:80 - Direct IP access not allowed | Cloudflare
+47.243.81.208:80 - 500 Internal Server Error
+38.182.162.159:80 - 403 Forbidden
+187.157.177.115:80 - IIS Windows Server
+159.65.143.184:80 - Index of /
+168.76.164.29:80 - æ²¡ææ¾å°ç«ç¹
+190.64.112.220:80 - Apache Tomcat/7.0.47
