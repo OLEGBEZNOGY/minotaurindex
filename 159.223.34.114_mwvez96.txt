@@ -181,3 +181,27 @@
 18.66.31.139:80 - Заголовок не найден
 34.208.68.86:80 - æºè½äºä»·ç­¾
 168.226.82.162:80 - Заголовок не найден
+69.12.82.184:80 - Заголовок не найден
+167.99.32.33:80 - Заголовок не найден
+185.59.136.208:80 - Заголовок не найден
+206.238.236.34:80 - Direct IP access not allowed | Cloudflare
+198.41.220.98:80 - Direct IP access not allowed | Cloudflare
+188.166.165.155:80 - 404 Not Found
+104.19.242.182:80 - Direct IP access not allowed | Cloudflare
+172.217.4.126:80 - Google
+89.213.113.68:80 - Apache2 Debian Default Page: It works
+201.229.156.231:80 - 
+59.183.223.43:80 - 
+58.144.234.51:80 - 403 Forbidden
+201.182.19.90:80 - 
+4.213.46.130:80 - 404 Not Found
+54.177.117.146:80 - Заголовок не найден
+141.26.142.13:80 - Status der Dienste der Universität Koblenz
+45.67.33.203:80 - 
+104.113.232.187:80 - Заголовок не найден
+13.75.147.39:80 - Microsoft Azure Web App - Error 404
+138.201.32.41:80 - 404 Not Found
+103.148.211.100:80 - RouterOS router configuration page
+159.203.110.179:80 - wirepedia
+18.133.183.233:80 - Brainy Inteligencia Semantica
+104.19.169.163:80 - Direct IP access not allowed | Cloudflare
