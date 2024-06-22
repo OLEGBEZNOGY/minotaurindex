@@ -13073,3 +13073,8 @@
 202.79.168.165:80 - Заголовок не найден
 89.161.174.34:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
 24.196.59.130:80 - 
+20.204.103.81:80 - 404 Not Found
+77.88.228.66:80 - IIS Windows Server
+61.112.37.222:80 - pOÔ£Ì]ËOt¼c@cCÛX
+40.122.152.112:80 - 403 - Forbidden: Access is denied.
+23.202.175.184:80 - Заголовок не найден
