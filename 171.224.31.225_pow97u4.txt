@@ -77,3 +77,4 @@
 54.175.57.85:80 - 
 52.217.92.229:80 - Amazon S3 - Cloud Object Storage  - AWS
 94.232.147.52:80 - RouterOS router configuration page
+104.19.173.30:80 - Direct IP access not allowed | Cloudflare
