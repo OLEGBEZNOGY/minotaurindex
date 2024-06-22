@@ -51,3 +51,11 @@
 82.55.117.133:80 - IPCam Client
 51.79.194.145:80 - Заголовок не найден
 87.233.148.12:80 - Default site
+84.199.233.69:80 - Login
+104.21.209.80:80 - Direct IP access not allowed | Cloudflare
+34.84.62.216:80 - Заголовок не найден
+109.137.26.3:80 - 
+213.119.70.73:80 - bitMakers - Explore the Future of Conversational AI
+71.63.92.195:80 - WEB SERVICE
+23.19.126.174:80 - Заголовок не найден
+52.231.197.84:80 - Microsoft Azure Web App - Error 404
