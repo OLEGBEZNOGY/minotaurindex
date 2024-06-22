@@ -181,3 +181,6 @@
 121.196.45.169:80 - Заголовок не найден
 123.241.63.184:80 - Remote Surveillance, Any time &amp; Any where
 3.39.41.210:80 - Заголовок не найден
+137.135.114.143:80 - 403 - Forbidden: Access is denied.
+104.17.159.96:80 - Direct IP access not allowed | Cloudflare
+104.96.249.190:80 - Заголовок не найден
