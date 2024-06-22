@@ -499,3 +499,8 @@
 74.48.138.245:80 - Welcome to XAMPP
 114.34.9.103:80 - WEB SERVICE
 23.241.173.43:80 - 
+202.43.51.101:80 - Заголовок не найден
+162.19.59.235:80 - IIS Windows Server
+38.174.139.140:80 - 403 Forbidden
+52.243.82.100:80 - Your Azure Function App is up and running.
+34.230.12.74:80 - 403 Forbidden
