@@ -390,3 +390,8 @@
 206.191.154.173:80 - 503 Service Temporarily Unavailable
 191.96.54.196:80 - 403 Forbidden
 222.186.21.242:80 - IIS Windows
+18.238.159.156:80 - Заголовок не найден
+206.238.236.66:80 - Direct IP access not allowed | Cloudflare
+18.67.160.38:80 - Заголовок не найден
+43.128.44.126:80 - Database Error
+212.43.40.103:80 - Заголовок не найден
