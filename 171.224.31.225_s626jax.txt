@@ -31,3 +31,7 @@
 67.7.160.62:80 - Instant WiFi
 193.26.24.57:80 - Web Server's Default Page
 154.209.163.71:80 - 404 Not Found
+54.163.136.245:80 - Home | Taylor &amp; Francis eBooks, Reference Works and Collections
+45.119.85.188:80 - Заголовок не найден
+219.234.18.153:80 - 403 Forbidden
+191.96.234.107:80 - 403 Forbidden
