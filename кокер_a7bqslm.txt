@@ -2683,3 +2683,11 @@
 94.23.38.209:80 - Apache2 Debian Default Page: It works
 146.59.71.210:80 - Apache2 Ubuntu Default Page: It works
 35.174.11.10:80 - Welcome to nginx!
+190.183.215.146:80 - Site not found
+219.224.224.2:80 - Заголовок не найден
+222.99.53.205:80 - Заголовок не найден
+107.148.145.11:80 - Welcome to nginx!
+104.100.54.94:80 - Заголовок не найден
+92.50.155.206:80 - Заголовок не найден
+20.120.123.76:80 - Your Azure Function App is up and running.
+179.53.32.170:80 - 
