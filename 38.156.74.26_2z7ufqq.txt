@@ -438,3 +438,4 @@
 47.108.133.208:80 - æ²¡ææ¾å°ç«ç¹
 38.84.179.149:80 - 400 Bad Request
 52.235.156.1:80 - Microsoft Azure Web App - Error 404
+46.41.169.154:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
