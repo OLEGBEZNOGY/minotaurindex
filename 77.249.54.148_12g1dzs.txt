@@ -484,3 +484,6 @@
 119.3.32.141:80 - 404 Not Found
 104.247.98.34:80 - Access Denied
 23.47.50.107:80 - Заголовок не найден
+52.104.48.40:80 - Заголовок не найден
+104.115.210.86:80 - Заголовок не найден
+108.53.190.86:80 - City Tours New York, Tours en Espanol y Portugues de Los Angeles, Washington, San Francisco, Boston y mas!
