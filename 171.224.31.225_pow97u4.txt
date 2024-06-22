@@ -237,3 +237,4 @@
 20.198.134.32:80 - Microsoft Azure Web App - Error 404
 47.116.115.53:80 - 404 Not Found
 18.144.183.133:80 - 502 Bad Gateway
+104.19.187.122:80 - Direct IP access not allowed | Cloudflare
