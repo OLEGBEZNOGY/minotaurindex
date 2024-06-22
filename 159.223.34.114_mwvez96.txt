@@ -249,3 +249,19 @@
 68.183.177.39:80 - 404 Not Found
 114.214.34.240:80 - 404 Not Found
 144.91.81.28:80 - Заголовок не найден
+69.28.103.145:80 - Comrex ACCESS
+222.97.207.93:80 - Gargoyle Router Management Utility
+3.130.82.103:80 - Welcome to TicketOne
+31.43.30.95:80 - Apache2 Debian Default Page: It works!!!
+142.93.170.104:80 - Apache2 Ubuntu Default Page: It works
+13.33.117.48:80 - Заголовок не найден
+123.19.246.153:80 - 
+52.35.83.124:80 - 403 Forbidden
+187.159.129.65:80 - WEB SERVICE
+23.62.244.134:80 - Заголовок не найден
+198.41.222.13:80 - Direct IP access not allowed | Cloudflare
+99.86.205.244:80 - Заголовок не найден
+38.33.76.51:80 - æ²¡ææ¾å°ç«ç¹
+45.200.210.214:80 - 404 Not Found
+20.82.154.251:80 - Azure Container App - Unavailable
+172.217.4.102:80 - Google
