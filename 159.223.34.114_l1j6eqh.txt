@@ -50,3 +50,17 @@
 23.200.118.90:80 - Заголовок не найден
 51.83.252.87:80 - Index of /
 5.195.120.67:80 - Заголовок не найден
+13.33.108.243:80 - Заголовок не найден
+104.64.220.39:80 - Заголовок не найден
+109.228.46.22:80 - Apache HTTP Server Test Page powered by CentOS
+104.24.41.240:80 - Direct IP access not allowed | Cloudflare
+128.245.82.209:80 - 403 - Forbidden: Access is denied.
+23.217.95.196:80 - Заголовок не найден
+23.205.216.12:80 - Заголовок не найден
+47.243.224.226:80 - 401 Authorization Required
+114.34.145.50:80 - DVR
+45.79.145.182:80 - League Communications - Toronto Technology Solutions For Your Business
+3.161.94.171:80 - Заголовок не найден
+49.51.35.198:80 - MEMOus
+23.209.128.80:80 - Заголовок не найден
+104.22.54.199:80 - Direct IP access not allowed | Cloudflare
