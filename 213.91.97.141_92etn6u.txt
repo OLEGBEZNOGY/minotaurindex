@@ -247,3 +247,27 @@
 23.231.62.52:80 - 403 Forbidden
 3.216.42.58:80 - FileYourTaxes.com: File Taxes Online Service Federal & State
 173.213.191.235:80 - Заголовок не найден
+54.230.136.245:80 - Заголовок не найден
+130.225.104.226:80 - ERDA UI Dev
+104.16.128.68:80 - Direct IP access not allowed | Cloudflare
+168.138.22.234:80 - Welcome to nginx!
+54.239.186.212:80 - Заголовок не найден
+13.55.235.206:80 - Заголовок не найден
+201.73.246.54:80 - Заголовок не найден
+104.71.191.165:80 - Заголовок не найден
+201.55.42.11:80 - Home - balancosocial.apta.sp.gov.br
+104.17.191.87:80 - Direct IP access not allowed | Cloudflare
+3.98.217.243:80 - 502 Bad Gateway
+68.185.219.58:80 - 
+104.21.204.222:80 - Direct IP access not allowed | Cloudflare
+129.143.198.87:80 - BelWü - WebServices
+154.36.207.240:80 - Заголовок не найден
+85.128.165.198:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+13.42.219.44:80 - 403 Forbidden
+23.14.35.99:80 - Заголовок не найден
+94.70.220.242:80 - Welcome to nginx!
+218.40.201.85:80 - Domain Default page
+166.62.126.193:80 - Заголовок не найден
+54.156.112.232:80 - Заголовок не найден
+154.213.133.189:80 - 403 Forbidden
+194.50.193.57:80 - 404 Not Found
