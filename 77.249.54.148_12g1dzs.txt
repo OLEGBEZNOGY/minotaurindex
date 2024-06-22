@@ -483,3 +483,4 @@
 192.126.152.61:80 - ERROR: The requested URL could not be retrieved
 119.3.32.141:80 - 404 Not Found
 104.247.98.34:80 - Access Denied
+23.47.50.107:80 - Заголовок не найден
