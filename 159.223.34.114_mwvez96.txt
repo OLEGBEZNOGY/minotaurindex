@@ -42,3 +42,16 @@
 162.159.6.233:80 - Direct IP access not allowed | Cloudflare
 35.228.235.58:80 - 404 Not Found
 92.9.31.12:80 - .::Welcome to the Web-Based Configurator::.
+185.222.148.178:80 - 
+103.163.196.4:80 - Заголовок не найден
+123.6.81.118:80 - 404 Not Found
+192.232.216.184:80 - Not Acceptable!
+136.227.219.155:80 - Attention Required! | Cloudflare
+190.80.248.147:80 - 
+104.114.100.215:80 - Заголовок не найден
+76.8.218.34:80 - S2 Netbox Login
+198.143.148.221:80 - Apache HTTP Server Test Page powered by CentOS
+213.158.40.244:80 - Document Moved
+44.216.20.92:80 - IIS Windows Server
+107.91.67.74:80 - Web Administration Interface
+211.221.196.141:80 - DS218&nbsp;-&nbsp;Synology&nbsp;DiskStation
