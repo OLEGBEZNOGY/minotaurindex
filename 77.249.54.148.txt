@@ -420,3 +420,5 @@
 76.223.93.181:80 - Welcome
 34.143.198.241:80 - Apache2 Ubuntu Default Page: It works
 23.59.5.17:80 - Заголовок не найден
+201.182.75.222:80 - Intelbras
+162.241.184.26:80 - Not Acceptable!
