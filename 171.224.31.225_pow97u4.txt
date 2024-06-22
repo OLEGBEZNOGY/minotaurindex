@@ -8,3 +8,5 @@
 65.181.86.172:80 - 
 23.201.78.130:80 - Заголовок не найден
 52.157.165.205:80 - 403 - Forbidden: Access is denied.
+120.77.41.178:80 - 404 Not Found
+142.44.216.52:80 - Apache2 Ubuntu Default Page: It works
