@@ -180,3 +180,97 @@
 68.66.221.134:80 - Best New Supplements &#8211; Your Source For Supplement Reviews
 154.91.186.78:80 - 404 Not Found
 185.51.92.18:80 - RouterOS router configuration page
+184.31.244.125:80 - Заголовок не найден
+107.154.247.160:80 - Заголовок не найден
+85.235.135.26:80 - Заголовок не найден
+111.251.2.123:80 - 
+179.52.26.220:80 - 
+128.140.3.114:80 - ntfy web
+104.95.233.146:80 - Заголовок не найден
+130.211.73.129:80 - Apache2 Debian Default Page: It works
+23.6.243.26:80 - Заголовок не найден
+185.177.179.6:80 - Jira Service Management
+13.35.171.183:80 - Заголовок не найден
+23.220.83.22:80 - Заголовок не найден
+173.223.114.128:80 - Заголовок не найден
+14.97.48.101:80 - Заголовок не найден
+81.196.78.106:80 - RouterOS router configuration page
+3.163.107.102:80 - Заголовок не найден
+82.223.2.30:80 - Inicio | Global Notary
+97.64.28.72:80 - Заголовок не найден
+91.104.125.57:80 - Login
+45.10.75.64:80 - 403 Forbidden
+170.83.50.229:80 - RouterOS router configuration page
+18.239.147.214:80 - Заголовок не найден
+128.239.20.119:80 - IIS Windows Server
+18.238.248.79:80 - Заголовок не найден
+3.164.128.18:80 - Заголовок не найден
+141.61.2.25:80 - Welcome to nginx!
+208.77.182.195:80 - 503 Service Not Available
+149.210.177.175:80 - Заголовок не найден
+52.33.17.130:80 - Заголовок не найден
+23.51.45.62:80 - Заголовок не найден
+14.63.219.242:80 - IIS7
+18.172.246.32:80 - Заголовок не найден
+110.147.208.249:80 - Заголовок не найден
+154.31.207.61:80 - 403 Forbidden
+8.8.245.66:80 - Заголовок не найден
+23.44.35.246:80 - Заголовок не найден
+13.251.218.109:80 - Заголовок не найден
+82.165.36.117:80 - Заголовок не найден
+95.101.24.70:80 - Заголовок не найден
+159.89.114.72:80 - Welcome to nginx!
+35.183.102.131:80 - Intelcom Inventory
+165.227.246.81:80 - 404 Not Found
+40.85.216.144:80 - Account Suspended
+35.200.251.173:80 - Apache HTTP Server Test Page powered by CentOS
+195.230.23.191:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+172.120.140.166:80 - 404 Not Found
+104.25.144.78:80 - Direct IP access not allowed | Cloudflare
+5.196.214.67:80 - Заголовок не найден
+207.180.232.127:80 - ControlWEB - Login
+104.24.8.203:80 - Direct IP access not allowed | Cloudflare
+95.57.138.178:80 - GPON Home Gateway
+23.19.248.220:80 - 407 Proxy Authentication Required
+199.232.153.66:80 - Fastly error: unknown domain 199.232.153.66
+208.167.230.45:80 - Заголовок не найден
+104.18.74.16:80 - Direct IP access not allowed | Cloudflare
+156.240.9.199:80 - 404 Not Found
+211.220.97.88:80 - main page
+46.149.196.219:80 - IIS Windows Server
+94.125.165.103:80 - Apache2 Debian Default Page: It works
+162.144.19.42:80 - Not Acceptable!
+104.90.249.13:80 - Заголовок не найден
+153.126.141.58:80 - MyASP（マイスピー）
+190.101.80.114:80 - WEB SERVICE
+111.185.55.18:80 - Заголовок не найден
+95.101.59.138:80 - Заголовок не найден
+186.6.236.103:80 - 
+5.189.170.113:80 - 404 Not Found
+23.212.23.93:80 - Заголовок не найден
+178.90.140.161:80 - Default
+198.0.156.9:80 - 
+103.56.38.127:80 - Welcome to High Commission of India, Ottawa (Canada)
+85.13.148.207:80 - 503 Service Temporarily Unavailable
+117.241.237.198:80 - Заголовок не найден
+62.171.157.35:80 - Apache2 Ubuntu Default Page: It works
+3.165.166.175:80 - Заголовок не найден
+81.98.85.34:80 - IIS Windows Server
+58.169.211.227:80 - Quick Links
+104.25.123.85:80 - Direct IP access not allowed | Cloudflare
+20.150.13.36:80 - Заголовок не найден
+141.101.120.115:80 - Direct IP access not allowed | Cloudflare
+122.117.108.173:80 - 401 Unauthorized
+23.74.21.157:80 - Заголовок не найден
+185.216.132.92:80 - Заголовок не найден
+211.45.168.187:80 - 403 Forbidden
+52.72.120.132:80 - Welcome : ThisWayToCPA : AICPA
+213.52.128.122:80 - Home - BestDrive by Continental
+188.166.215.29:80 - Not Found
+58.141.128.8:80 - Web Server Setup Guide
+103.116.9.180:80 - Welcome to nginx!
+104.27.8.35:80 - Direct IP access not allowed | Cloudflare
+201.131.110.177:80 - 403 Forbidden
+173.232.88.66:80 - 403 Forbidden
+23.196.127.110:80 - Заголовок не найден
+209.133.83.123:80 - Заголовок не найден
