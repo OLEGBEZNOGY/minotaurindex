@@ -207,3 +207,4 @@
 146.20.163.22:80 - Oracle HTTP Server 12c
 36.234.219.12:80 - DVR Components Download
 123.240.253.186:80 - Заголовок не найден
+216.71.125.45:80 - 500 Internal Server Error
