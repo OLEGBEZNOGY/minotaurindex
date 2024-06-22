@@ -1523,3 +1523,5 @@
 105.155.105.218:80 - Заголовок не найден
 70.167.136.11:80 - Web Server's Default Page
 44.217.252.111:80 - 503 Service Temporarily Unavailable
+208.131.150.116:80 - Заголовок не найден
+192.126.215.211:80 - ERROR: The requested URL could not be retrieved
