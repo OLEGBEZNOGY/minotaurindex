@@ -9674,3 +9674,30 @@ nknown domain
 65.181.136.210:80 - Заголовок не найден
 200.188.91.58:80 - ACME Access Only
 194.28.77.32:80 - Заголовок не найден
+74.205.146.126:80 - IIS Windows Server
+45.192.253.122:80 - æ²¡ææ¾å°ç«ç¹
+50.3.213.27:80 - 403 Forbidden
+199.127.153.4:80 - Apache HTTP Server Test Page powered by CentOS
+47.147.3.252:80 - 
+34.220.143.109:80 - 404 Not Found
+190.64.147.52:80 - TBS
+104.17.139.8:80 - Direct IP access not allowed | Cloudflare
+18.170.78.37:80 - Homepage - BM Bi-Folding Doors
+152.136.106.162:80 - 403 Forbidden
+93.217.253.129:80 - Заголовок не найден
+44.236.222.120:80 - Заголовок не найден
+38.152.177.78:80 - ERROR: The requested URL could not be retrieved
+103.40.115.241:80 - Заголовок не найден
+18.135.169.157:80 - Log in | Telerik Report Server
+97.74.211.188:80 - Coming Soon
+96.84.173.194:80 - Document Moved
+150.60.95.37:80 - Заголовок не найден
+24.199.154.108:80 - Wallace &amp; Graham: Justice for Camp Lejeune
+54.213.42.79:80 - TEKTELIC Tempo
+23.61.81.15:80 - Заголовок не найден
+51.68.214.0:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+2.21.43.232:80 - Заголовок не найден
+103.51.148.41:80 - Please wait, the login page is opening...
+18.165.3.98:80 - Заголовок не найден
+49.213.197.170:80 - DVR Components Download
+200.189.123.40:80 - EADESTADO
