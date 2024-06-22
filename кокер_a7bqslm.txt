@@ -7377,3 +7377,12 @@ Welcome
 104.24.39.94:80 - Direct IP access not allowed | Cloudflare
 168.197.49.65:80 - 
 212.80.167.105:80 - IIS Windows Server
+172.67.17.67:80 - Direct IP access not allowed | Cloudflare
+18.164.160.108:80 - Заголовок не найден
+213.97.59.168:80 - Заголовок не найден
+83.139.214.254:80 - 
+51.195.58.249:80 - Заголовок не найден
+178.16.171.77:80 - 403 Forbidden
+138.2.157.152:80 - IIS Windows Server
+154.49.240.176:80 - 403 Forbidden
+128.199.96.174:80 - 404 Not Found
