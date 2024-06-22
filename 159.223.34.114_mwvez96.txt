@@ -265,3 +265,15 @@
 45.200.210.214:80 - 404 Not Found
 20.82.154.251:80 - Azure Container App - Unavailable
 172.217.4.102:80 - Google
+91.238.133.44:80 - 
+149.96.178.234:80 - 403 Forbidden
+54.145.97.98:80 - 404 Not Found
+192.185.161.70:80 - Not Acceptable!
+193.216.226.215:80 - RouterOS router configuration page
+57.128.1.251:80 - Error 503: server unavailable
+46.55.254.120:80 - Please wait, the page is opening...
+113.198.43.131:80 - L7
+23.5.156.9:80 - Заголовок не найден
+185.89.122.63:80 - 
+104.18.255.9:80 - Direct IP access not allowed | Cloudflare
+23.9.194.178:80 - Заголовок не найден
