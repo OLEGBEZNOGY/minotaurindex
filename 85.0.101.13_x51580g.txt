@@ -5440,3 +5440,183 @@
 18.161.19.199:80 - Заголовок не найден
 148.204.248.126:80 - PRE-LOGIN BANNER
 104.21.203.94:80 - Direct IP access not allowed | Cloudflare
+2.18.172.15:80 - Заголовок не найден
+51.255.146.114:80 - Attention Required! | Cloudflare
+23.46.199.15:80 - Заголовок не найден
+34.221.206.104:80 - RTS 3.0
+164.70.96.48:80 - 兵庫県馬術連盟 &#8211; 馬はともだち
+156.245.11.26:80 - Sorry, the website has been stopped
+92.118.41.209:80 - ERROR: The requested URL could not be retrieved
+54.92.68.35:80 - æåè¯ç¥¨
+190.210.248.167:80 - 403 - Forbidden: Access is denied.
+103.31.177.96:80 - Заголовок не найден
+18.161.75.103:80 - Заголовок не найден
+165.227.204.62:80 - phpMyAdmin
+103.48.108.197:80 - Please wait, the page is opening...
+23.204.212.135:80 - Заголовок не найден
+109.74.201.233:80 - 404 Not Found
+61.194.49.196:80 - Заголовок не найден
+23.201.174.166:80 - Заголовок не найден
+81.16.247.139:80 - 403 Forbidden
+52.140.135.121:80 - Your Azure Function App is up and running.
+93.114.64.45:80 - Direct IP access not allowed | Cloudflare
+154.16.114.201:80 - NancyJanuary.com
+23.48.198.80:80 - Заголовок не найден
+121.233.208.41:80 - Заголовок не найден
+188.128.137.164:80 - Strona w przygotowaniu...
+180.222.85.143:80 - ControlPanel
+178.167.67.95:80 - Заголовок не найден
+23.193.186.29:80 - Заголовок не найден
+23.59.183.26:80 - Заголовок не найден
+157.7.134.56:80 - 🧨 The stream or file "/var/www/html/highclass/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/highclass/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/highclass/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/highclass/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/highclass/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/highclass/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/highclass/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/highclass/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/highclass/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/highclass/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/highclass/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/highclass/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/highclass/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/highclass/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/highclass/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pictonhouse.groups' doesn't exist (SQL: select count(*) as aggregate from `groups` where `site` = match)
+Context: {"exception":{"errorInfo":["42S02",1146,"Table 'pictonhouse.groups' doesn't exist"]}}
+Context: {"exception":{}}
+Context: {"exception":{}}
+Context: {"exception":{}}
+Context: {"exception":{}}
+Context: {"exception":{}}
+Context: {"exception":{}}
+Context: {"exception":{}}
+Context: {"exception":{}}
+Context: {"exception":{}}
+Context: {"exception":{}}
+Context: {"exception":{}}
+Context: {"exception":{}}
+Context: {"exception":{}}
+Context: {"exception":{}}
+104.68.73.159:80 - Заголовок не найден
+104.20.234.21:80 - Direct IP access not allowed | Cloudflare
+103.84.184.145:80 - Please wait, the page is opening...
+109.248.188.24:80 - 
+50.116.124.197:80 - Not Acceptable!
+73.101.198.19:80 - 
+179.52.255.31:80 - 
+190.80.178.197:80 - 
+120.137.249.243:80 - Заголовок не найден
+202.28.17.225:80 - Login
+52.222.203.175:80 - Заголовок не найден
+143.95.240.128:80 - Web Server's Default Page
+123.231.93.72:80 - 
+5.196.53.231:80 - Заголовок не найден
+52.216.250.157:80 - Amazon S3 - Cloud Object Storage  - AWS
+23.47.156.199:80 - Заголовок не найден
+190.19.62.42:80 - 
+175.6.109.212:80 - æ²¡ææ¾å°ç«ç¹
+158.69.255.90:80 - 404 Not Found
+52.194.167.8:80 - 502 Bad Gateway
+23.195.33.150:80 - Заголовок не найден
+192.165.72.5:80 - Home of bolingo.org
+37.150.99.48:80 - 403 Forbidden
+51.79.11.194:80 - This server is powered by PebbleHost!
+34.235.188.80:80 - 403 Forbidden
+104.19.90.138:80 - Direct IP access not allowed | Cloudflare
+3.165.78.20:80 - Заголовок не найден
+95.101.186.254:80 - Заголовок не найден
+23.203.108.34:80 - Заголовок не найден
+75.143.187.70:80 - 
+18.218.164.8:80 - Welcome to nginx!
+204.197.254.210:80 - Database Error
+195.24.64.191:80 - Заголовок не найден
+104.103.168.100:80 - Заголовок не найден
+3.161.71.206:80 - Заголовок не найден
+177.85.177.147:80 - RouterOS router configuration page
+192.99.126.66:80 - Website Unavailable
+138.2.239.101:80 - Welcome to nginx!
+52.77.58.226:80 - Apache2 Ubuntu Default Page: It works
+2.40.172.115:80 - Default Site
+187.1.138.120:80 - Site Hospedado na KingHost | Data Center no Brasil
+156.250.221.87:80 - 404 Not Found
+39.106.214.96:80 - 克莱德华通（北京）物料输送系统有限公司
+59.126.106.5:80 - 
+18.231.47.136:80 - Заголовок не найден
+13.33.124.101:80 - Заголовок не найден
+186.193.226.86:80 - Lexmark CX725
+73.1.155.99:80 - Заголовок не найден
+3.101.146.9:80 - IIS Windows Server
+23.40.161.108:80 - Заголовок не найден
+20.25.112.157:80 - 404 Not Found
+38.182.173.244:80 - 403 Forbidden
+103.243.118.88:80 - Apache HTTP Server Test Page powered by CentOS
+34.221.133.246:80 - Amazon ECS Sample App
+104.122.124.210:80 - Заголовок не найден
+20.23.36.212:80 - Заголовок не найден
+2.21.153.10:80 - Заголовок не найден
+23.40.174.54:80 - Заголовок не найден
+52.230.155.3:80 - Заголовок не найден
+189.167.63.250:80 - Заголовок не найден
+34.83.121.114:80 - WebFX
+44.232.80.242:80 - 503 Service Temporarily Unavailable
+23.202.247.182:80 - Заголовок не найден
+140.137.209.174:80 - CodePen - Error 404: Page not found â 80s hacker theme
+59.91.184.122:80 - RouterOS router configuration page
+39.123.43.117:80 - main page
+223.206.155.147:80 - 
+90.181.120.60:80 - 
+185.28.249.50:80 - 
+23.9.123.137:80 - Заголовок не найден
+173.232.110.171:80 - 403 Forbidden
+115.84.182.98:80 - Home - KMS AppStore
+173.249.44.196:80 - SPAZIO HOST NON DEFINITO
+18.139.76.67:80 - 500 - Internal Server Error
+3.210.132.107:80 - 403 Forbidden
+185.252.53.8:80 - TSRM Protocollo | Login
+60.188.68.64:80 - Заголовок не найден
+74.208.252.145:80 - 404 Not Found
+203.254.130.140:80 - L7
+139.99.67.201:80 - Заголовок не найден
+190.144.41.146:80 - RouterOS router configuration page
+103.243.21.182:80 - Заголовок не найден
+190.146.195.34:80 - 
+43.156.70.236:80 - Not Found
+184.50.197.72:80 - Заголовок не найден
+23.43.36.54:80 - Заголовок не найден
+62.210.211.126:80 - 62.210.211.126 - You didn't say the magic word ?
+23.9.194.7:80 - Заголовок не найден
+106.14.69.132:80 - 温馨提示
+203.254.159.108:80 - Заголовок не найден
+154.201.181.152:80 - 404 Not Found
+39.108.107.168:80 - æ²¡ææ¾å°ç«ç¹
+121.29.30.218:80 - 403 Forbidden
+5.94.145.52:80 - TiAlarm WebServer
+82.127.105.118:80 - WEB SERVICE
+82.78.4.62:80 - 
+172.234.203.187:80 - Заголовок не найден
+60.205.39.217:80 - 阿里云万网虚机IP访问报错提示
+20.106.62.207:80 - Заголовок не найден
+210.219.153.106:80 - 401 - Unauthorized
+114.108.128.245:80 - 403 Forbidden
+54.238.108.103:80 - Заголовок не найден
+172.82.85.22:80 - Заголовок не найден
+23.35.34.20:80 - Заголовок не найден
+154.213.33.69:80 - 403 Forbidden
+18.172.138.136:80 - Заголовок не найден
+216.223.228.48:80 - Заголовок не найден
+104.102.28.40:80 - Заголовок не найден
+38.14.49.172:80 - 403 Forbidden
+118.25.50.22:80 - IIS Windows Server
+154.205.108.43:80 - æ²¡ææ¾å°ç«ç¹
+3.165.130.34:80 - Заголовок не найден
+50.2.246.159:80 - 403 Forbidden
+185.62.80.215:80 - 404 Not Found
+151.241.224.138:80 - WEB SERVICE
+52.154.77.41:80 - Microsoft Azure Web App - Error 404
+20.200.90.100:80 - Azure Container App - Unavailable
+49.247.26.160:80 - Заголовок не найден
+18.173.232.77:80 - Заголовок не найден
+138.248.153.203:80 - 
+188.114.97.161:80 - Direct IP access not allowed | Cloudflare
