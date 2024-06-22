@@ -1192,3 +1192,31 @@
 78.77.191.3:80 - 
 109.250.91.243:80 - Document Error: Unauthorized
 167.172.238.63:80 - PHP 7.3.11-1+ubuntu18.04.1+deb.sury.org+1 - phpinfo()
+143.95.148.149:80 - Not Acceptable!
+13.80.31.129:80 - 404 Not Found
+135.180.192.147:80 - Hello! Welcome to Synology Web Station!
+106.55.227.50:80 - ç¦çä»ç§æ-ä¸ä¸çç©èç½çæè§£å³æ¹æ¡æä¾å
+212.110.204.219:80 - Заголовок не найден
+117.201.177.26:80 - RouterOS router configuration page
+104.199.129.156:80 - 401 Authorization Required
+82.202.153.117:80 - Заголовок не найден
+23.7.56.240:80 - Заголовок не найден
+86.51.92.203:80 - Заголовок не найден
+49.50.72.39:80 - Apache HTTP Server Test Page powered by CentOS
+158.199.198.44:80 - ControlPanel
+104.121.147.196:80 - Заголовок не найден
+54.207.255.44:80 - Pixeon - Software de Gestão para Medicina Diagnóstica
+104.114.105.6:80 - Заголовок не найден
+14.189.144.60:80 - 
+52.235.40.244:80 - Your Azure Function App is up and running.
+18.164.181.10:80 - Заголовок не найден
+2.33.5.253:80 - 404 Not Found
+1.51.215.80:80 - 404 Not Found
+199.188.205.30:80 - Index of /
+222.239.251.229:80 - Apache HTTP Server Test Page powered by CentOS
+38.152.112.102:80 - ERROR: The requested URL could not be retrieved
+199.67.127.28:80 - Заголовок не найден
+199.232.250.115:80 - Fastly error: unknown domain 199.232.250.115
+59.127.86.240:80 - Document Error: Unauthorized
+123.57.165.65:80 - ç½ç«è®¿é®æ¥é
+149.28.154.197:80 - sg-sin.tr.affinitytrades.flexdns.org
