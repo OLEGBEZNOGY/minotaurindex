@@ -3416,3 +3416,34 @@ Front-end, Web Developer, Java | Kodilla.com
 185.149.240.79:80 - Not Found
 104.80.242.220:80 - Заголовок не найден
 34.216.35.205:80 - Page Redirection
+98.127.55.73:80 - 
+104.72.75.115:80 - Заголовок не найден
+104.250.92.182:80 - Заголовок не найден
+139.122.192.145:80 - 403 - Forbidden: Access is denied.
+45.154.160.47:80 - Apache2 Debian Default Page: It works
+46.242.242.106:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+198.46.224.118:80 - ERROR: The requested URL could not be retrieved
+94.40.89.3:80 - z2
+35.176.249.14:80 - Home page - SmartDose Job Planner
+61.178.243.119:80 - IIS7
+27.159.86.203:80 - 403 Forbidden
+203.124.11.187:80 - CLink Office v2
+23.79.104.173:80 - Заголовок не найден
+69.175.100.246:80 - Account Suspended
+54.200.61.149:80 - Заголовок не найден
+52.218.97.44:80 - Amazon S3 - Cloud Object Storage  - AWS
+23.9.255.244:80 - Заголовок не найден
+199.127.255.11:80 - Bandwidth Speed Test
+65.8.238.86:80 - Заголовок не найден
+50.3.42.113:80 - 403 Forbidden
+8.218.155.248:80 - 404 Not Found
+211.185.99.168:80 - Web Viewer for Samsung DVR
+23.66.215.189:80 - Заголовок не найден
+34.133.209.16:80 - EasyEngage
+187.159.241.27:80 - 
+104.17.193.38:80 - Direct IP access not allowed | Cloudflare
+13.249.206.73:80 - Заголовок не найден
+150.136.138.169:80 - Success!
+80.87.203.100:80 - ЭКСПЕРТ | Сертификация по всей России
+35.201.105.22:80 - 403
+52.84.60.153:80 - Заголовок не найден
