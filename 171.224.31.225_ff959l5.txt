@@ -1,0 +1,2 @@
+2.134.54.255:80 - GPON Home Gateway
+163.181.136.235:80 - 403 Forbidden
