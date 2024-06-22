@@ -17,3 +17,4 @@
 23.57.0.157:80 - Заголовок не найден
 52.228.36.223:80 - Microsoft Azure Web App - Error 404
 161.35.5.88:80 - Welcome to nginx!
+85.153.16.121:80 - Index of /
