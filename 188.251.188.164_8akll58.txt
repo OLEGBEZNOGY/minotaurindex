@@ -5532,3 +5532,54 @@ High Cholesterol, Stroke, and Other Cardiac Problems
 3.87.147.226:80 - Tul Games
 35.237.44.54:80 - 404 Not Found
 45.116.161.249:80 - 414 Request-URI Too Large
+82.156.2.124:80 - 403 Forbidden
+52.217.69.194:80 - Amazon S3 - Cloud Object Storage  - AWS
+131.153.65.166:80 - Apache2 Ubuntu Default Page: It works
+23.77.5.113:80 - Заголовок не найден
+192.99.87.202:80 - IIS Windows Server
+18.160.221.148:80 - Заголовок не найден
+175.208.156.72:80 - main page
+185.196.213.68:80 - Success!
+179.37.199.21:80 - Заголовок не найден
+52.55.136.113:80 - phpinfo()
+75.131.11.1:80 - 
+135.148.78.69:80 - 404 Not Found
+184.26.56.149:80 - Заголовок не найден
+106.53.193.48:80 - 403 Forbidden
+184.31.104.129:80 - Заголовок не найден
+113.192.235.206:80 - Primus Gateway - Login
+52.9.109.23:80 - IIS Windows Server
+18.217.179.128:80 - Texas Gulf Star Products, LLC. &#8211; Texas Gulf Star Products, LLC.
+13.57.92.99:80 - Index of /
+148.135.49.190:80 - Заголовок не найден
+38.100.146.184:80 - Fiberstreamwifi Portal
+140.238.38.150:80 - Default Site
+141.226.206.104:80 - Priority ERP
+186.6.191.182:80 - 
+3.214.37.99:80 - Заголовок не найден
+4.157.122.92:80 - 404 Not Found
+85.215.40.147:80 - Welcome to nginx!
+23.203.182.151:80 - Заголовок не найден
+111.12.159.143:80 - Заголовок не найден
+115.186.130.219:80 - RouterOS router configuration page
+107.161.123.180:80 - Заголовок не найден
+185.216.145.97:80 - IIS Windows Server
+23.219.187.97:80 - Заголовок не найден
+38.207.206.7:80 - 404 Not Found
+52.84.255.18:80 - Заголовок не найден
+87.120.137.44:80 - Please wait, the login page is opening...
+102.42.242.118:80 - 
+66.193.101.72:80 - Заголовок не найден
+23.49.177.99:80 - Заголовок не найден
+195.211.175.131:80 - Loading Web Application
+143.110.174.8:80 - Apache2 Ubuntu Default Page: It works
+182.16.24.187:80 - HTTP Status 404 – Not Found
+54.231.138.169:80 - Amazon S3 - Cloud Object Storage  - AWS
+83.166.156.107:80 - web host not found
+8.142.178.31:80 - Заголовок не найден
+23.51.170.209:80 - Заголовок не найден
+194.88.104.105:80 - HTTP Server Test Page powered by CentOS
+74.199.142.170:80 - 
+184.29.209.183:80 - Заголовок не найден
+157.205.192.224:80 - 403 Forbidden
+146.60.226.51:80 - STARFACE VoIP Software
