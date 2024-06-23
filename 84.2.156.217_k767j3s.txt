@@ -1776,3 +1776,138 @@
 23.207.147.44:80 - Заголовок не найден
 63.135.116.55:80 - Web Server's Default Page
 96.227.186.2:80 - Document Moved
+144.48.107.66:80 - Apache2 Ubuntu Default Page: It works
+23.210.145.210:80 - Заголовок не найден
+111.31.21.146:80 - Заголовок не найден
+172.66.146.115:80 - Direct IP access not allowed | Cloudflare
+184.24.56.126:80 - Заголовок не найден
+72.167.40.224:80 - Заголовок не найден
+185.105.85.167:80 - Заголовок не найден
+75.133.26.70:80 - 
+220.135.160.5:80 - 
+217.163.76.207:80 - Direct IP access not allowed | Cloudflare
+18.164.71.112:80 - Заголовок не найден
+35.235.139.31:80 - Заголовок не найден
+185.22.116.69:80 - Заголовок не найден
+52.85.134.5:80 - Заголовок не найден
+117.236.138.234:80 - Заголовок не найден
+101.35.79.240:80 - LNMPä¸é®å®è£å by Licess
+23.75.122.175:80 - Заголовок не найден
+124.71.112.127:80 - æ²¡ææ¾å°ç«ç¹
+54.173.137.58:80 - Заголовок не найден
+52.250.35.231:80 - Your Azure Function App is up and running.
+51.89.145.235:80 - 404 Not Found
+38.152.68.46:80 - ERROR: The requested URL could not be retrieved
+172.67.76.248:80 - Direct IP access not allowed | Cloudflare
+150.242.97.177:80 - phpinfo()
+46.125.101.213:80 - Apache2 Debian Default Page: It works
+129.122.75.147:80 - WEB SERVICE
+77.68.112.124:80 - 403 Forbidden
+221.128.249.121:80 - æ²¡ææ¾å°ç«ç¹
+44.217.55.47:80 - alukie &#8211; Aluminium Keycaps
+36.155.26.150:80 - Заголовок не найден
+95.209.205.166:80 - Заголовок не найден
+23.214.79.119:80 - Заголовок не найден
+99.86.10.235:80 - Заголовок не найден
+44.228.0.23:80 - Amazon S3 - Cloud Object Storage  - AWS
+157.65.21.39:80 - Заголовок не найден
+213.215.67.34:80 - Apache2 Ubuntu Default Page: It works
+20.92.47.140:80 - Your Azure Function App is up and running.
+216.116.29.178:80 - 404 Not Found
+211.130.66.152:80 - Заголовок не найден
+167.82.66.60:80 - Fastly error: unknown domain 167.82.66.60
+136.49.7.49:80 - 
+104.82.80.166:80 - Заголовок не найден
+51.13.82.213:80 - 404 Not Found
+23.83.205.29:80 - Заголовок не найден
+118.215.96.54:80 - Заголовок не найден
+122.154.57.165:80 - ระบบภายในโรงพยาบาลปะเหลียน
+52.7.249.79:80 - Page not found at /
+2.16.173.163:80 - Заголовок не найден
+18.66.38.109:80 - Заголовок не найден
+123.204.88.157:80 - Заголовок не найден
+49.44.96.171:80 - Заголовок не найден
+14.161.43.203:80 - 
+178.62.88.208:80 - StudioForty9 Internal
+157.15.119.109:80 - 401 Unauthorized
+191.54.26.146:80 - Apache2 Ubuntu Default Page: It works
+213.172.111.140:80 - Connection denied by Geolocation
+188.29.246.198:80 - 
+51.75.251.8:80 - MultiHealth Group - Home
+91.195.187.122:80 - Ryall and Edwards Timber Merchants
+96.1.111.99:80 - Заголовок не найден
+20.124.42.184:80 - 404 Not Found
+106.54.65.97:80 - IIS Windows Server
+107.175.220.131:80 - Forbidden!
+104.71.78.136:80 - Заголовок не найден
+154.217.68.68:80 - 403 Forbidden
+159.89.178.167:80 - Welcome to nginx!
+35.82.179.244:80 - 404 Not Found
+44.219.167.1:80 - Cypress Summit
+129.213.54.14:80 - Hendro&#039;s Workshop - The garage where I&#039;m tinkering with DIY, electronics, open-source and other interesting stuff
+36.156.4.206:80 - 404 Not Found
+20.66.60.72:80 - 404 Not Found
+104.68.31.76:80 - Заголовок не найден
+106.11.226.125:80 - 403 Forbidden
+106.54.213.49:80 - Заголовок не найден
+34.97.126.6:80 - Apache2 Debian Default Page: It works
+23.54.178.105:80 - Заголовок не найден
+18.160.6.177:80 - Заголовок не найден
+188.128.163.196:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+77.55.164.218:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+206.119.165.106:80 - 请使用域名访问
+174.45.216.130:80 - 
+40.66.33.207:80 - Welcome to nginx!
+23.34.201.189:80 - Заголовок не найден
+82.157.52.70:80 - 403 Forbidden
+31.204.66.43:80 - 194.71.100.81 &#8211; Just another WordPress site
+14.225.64.168:80 - Apache2 Ubuntu Default Page: It works
+46.242.177.23:80 - Strona w przygotowaniu
+124.222.6.46:80 - HFS /
+104.79.42.108:80 - Заголовок не найден
+156.234.140.54:80 - 404 Not Found
+14.215.106.227:80 - 403 Forbidden
+5.188.75.42:80 - Заголовок не найден
+47.113.228.183:80 - ç«ç¹åå»ºæå-phpstudy for windows
+3.135.122.89:80 - Заголовок не найден
+18.218.170.249:80 - Apache2 Ubuntu Default Page: It works
+52.41.168.45:80 - Test Page for the Apache HTTP Server on Amazon Linux AMI
+34.31.195.100:80 - Welcome to nginx!
+154.82.46.47:80 - 404 Not Found
+174.138.66.36:80 - Yllka Brada - Fashion Designer
+104.96.129.224:80 - Заголовок не найден
+50.114.32.104:80 - Apache Tomcat/9.0.37
+147.78.54.161:80 - ERROR: The requested URL could not be retrieved
+3.77.225.19:80 - Заголовок не найден
+135.148.48.145:80 - Powered by CapRover
+119.23.184.119:80 - HTTP Status 404 – Not Found
+54.237.12.147:80 - APIS Admin
+163.172.222.14:80 - Заголовок не найден
+72.167.207.34:80 - ATROX CUSTOMS | Autopartes Exclusivas en M&eacute;xico
+38.33.53.38:80 - 404 Not Found
+38.143.207.216:80 - Заголовок не найден
+35.204.93.168:80 - 404 Not Found
+192.151.253.81:80 - 404 Not Found
+34.93.126.246:80 - 403 Forbidden
+44.219.154.112:80 - Mozare3 Apps
+198.27.68.191:80 - Welcome to nginx!
+193.148.14.5:80 - Direct IP access not allowed | Cloudflare
+180.163.230.197:80 - 403 Forbidden
+163.5.214.122:80 - Apache2 Debian Default Page: It works
+165.225.220.101:80 - Internet Security by Zscaler
+185.80.169.6:80 - Apache2 Ubuntu Default Page: It works
+95.183.37.81:80 - 403 Forbidden
+51.75.235.237:80 - Заголовок не найден
+67.82.164.133:80 - Заголовок не найден
+79.96.228.100:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+139.59.122.160:80 - MGM4D - Portal Gaming Togel Online Web
+183.2.201.50:80 - 403 Forbidden
+42.193.242.68:80 - è¯è´¹åå¼
+104.112.17.22:80 - Заголовок не найден
+185.68.19.148:80 - 403 Forbidden
+38.174.236.165:80 - Заголовок не найден
+108.191.194.8:80 - Заголовок не найден
+121.163.229.219:80 - WEB SERVICE
+202.61.240.102:80 - Заголовок не найден
+5.181.202.57:80 - Welcome to nginx!
+130.215.68.55:80 - Заголовок не найден
