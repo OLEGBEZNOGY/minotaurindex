@@ -145,3 +145,4 @@
 52.85.149.94:80 - Заголовок не найден
 5.17.87.234:80 - 403 Forbidden
 5.249.27.140:80 - IIS Windows Server
+89.22.102.46:80 - Apache2 Debian Default Page: It works
