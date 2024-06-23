@@ -1,0 +1,4 @@
+195.211.73.229:80 - Заголовок не найден
+198.46.203.59:80 - 407 Proxy Authentication Required
+63.34.145.92:80 - Заголовок не найден
+103.87.142.135:80 - Please wait, the login page is opening...
