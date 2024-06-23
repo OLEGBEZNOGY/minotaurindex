@@ -1785,3 +1785,5 @@ me to Synology Web Station!
 69.24.25.150:80 - ToyAuto Mart | Rancho Cordova, CA
 52.28.85.39:80 - Заголовок не найден
 78.198.49.88:80 - Freebox OS :: Identification
+106.162.242.127:80 - Заголовок не найден
+45.132.244.13:80 - Apache2 Ubuntu Default Page: It works
