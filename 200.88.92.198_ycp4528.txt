@@ -1968,3 +1968,80 @@ base
 14.54.67.154:80 - Заголовок не найден
 103.46.11.226:80 - RouterOS router configuration page
 151.101.248.194:80 - Fastly error: unknown domain 151.101.248.194
+47.104.22.191:80 - ç½ç«è®¿é®æ¥é
+104.19.43.91:80 - Direct IP access not allowed | Cloudflare
+116.213.40.245:80 - Заголовок не найден
+119.205.54.104:80 - CMS Web Viewer
+38.14.103.6:80 - 404 Not Found
+34.230.29.148:80 - Welcome to nginx!
+35.162.243.75:80 - Заголовок не найден
+18.65.14.74:80 - Заголовок не найден
+101.35.44.120:80 - è¿æ¯ä¸ä¸ªä¸ªäººç½ç«
+45.223.232.170:80 - Заголовок не найден
+144.168.96.85:80 - æ²¡ææ¾å°ç«ç¹
+213.216.22.118:80 - REDDOXX - User Interface
+216.119.124.200:80 - Заголовок не найден
+206.189.143.120:80 - Apache2 Ubuntu Default Page: It works
+168.119.152.158:80 - 403 Forbidden
+177.44.78.163:80 - Заголовок не найден
+140.78.4.135:80 - Заголовок не найден
+23.37.250.88:80 - Заголовок не найден
+52.20.43.11:80 - 404 Not Found
+54.228.41.207:80 - 403 - mdi-tr
+43.139.27.78:80 - Database Error
+54.209.54.110:80 - Test Page for the Apache HTTP Server on Amazon Linux AMI
+80.151.128.121:80 - Ihre VoIP-Telefonanlage | Einfach, Schnell und Flexibel
+156.254.183.100:80 - 404 Not Found
+13.229.109.25:80 - 樂康齡社區服務
+103.85.208.54:80 - 403 Forbidden
+103.229.41.42:80 - Welcome to nginx!
+144.202.42.51:80 - Welcome to nginx!
+138.219.180.226:80 - TurnKey LAMP
+193.238.27.44:80 - 417 Expectation Failed
+172.64.9.29:80 - Direct IP access not allowed | Cloudflare
+23.213.65.249:80 - Заголовок не найден
+13.33.140.96:80 - Заголовок не найден
+99.81.3.114:80 - NiFi
+94.211.5.175:80 - 
+104.27.117.153:80 - Direct IP access not allowed | Cloudflare
+186.238.165.16:80 - Web user login
+140.238.180.40:80 - Apache HTTP Server Test Page powered by CentOS
+146.75.69.114:80 - Fastly error: unknown domain 146.75.69.114
+104.27.5.93:80 - Direct IP access not allowed | Cloudflare
+23.52.24.126:80 - Заголовок не найден
+79.96.15.105:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+113.171.39.185:80 - Заголовок не найден
+154.197.88.205:80 - Direct IP access not allowed | Cloudflare
+23.43.176.50:80 - Заголовок не найден
+91.204.208.30:80 - Заголовок не найден
+148.101.26.101:80 - 
+217.27.153.145:80 - 403 Forbidden
+23.50.127.148:80 - Заголовок не найден
+129.16.222.118:80 - 404 Not Found
+35.201.106.50:80 - 502 Server Error
+104.68.101.131:80 - Заголовок не найден
+208.106.206.99:80 - Заголовок не найден
+23.61.108.237:80 - Заголовок не найден
+104.19.134.64:80 - Direct IP access not allowed | Cloudflare
+181.95.89.93:80 - 
+156.234.61.84:80 - æ²¡ææ¾å°ç«ç¹
+52.1.120.134:80 - 404 Not Found
+61.36.148.13:80 - IIS Windows
+201.177.125.23:80 - Заголовок не найден
+189.158.89.203:80 - Web Server | CrossChex | Anviz
+201.150.173.141:80 - ONT-4GE-2VW
+23.64.175.122:80 - Заголовок не найден
+165.22.185.134:80 - Mogility Networks WiFi Cybersecurity Voice VoIP PBX - Mogility Networks
+54.229.81.245:80 - myTrackee | Share and Track your realtime location
+132.226.19.13:80 - 403 Forbidden
+44.225.54.211:80 - Index of /
+128.165.19.13:80 - Webflow Redirect Error: Weblogin
+75.35.140.54:80 - 
+89.187.203.182:80 - Заголовок не найден
+3.84.239.172:80 - 500 - Internal server error.
+60.250.156.98:80 - Roundcube Webmail :: Welcome to Roundcube Webmail
+52.84.221.3:80 - Заголовок не найден
+23.197.90.90:80 - Заголовок не найден
+ks
+38.105.179.111:80 - Заголовок не найден
+182.93.120.240:80 - ã³ã³ã¿ã¯ããã©ããããå®ãï½ã¯ã¤ãã¯ã¹ã¿ã¤ã«
