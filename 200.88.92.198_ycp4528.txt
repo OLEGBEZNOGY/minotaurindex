@@ -4212,3 +4212,10 @@ VEILLE STRATÉGIQUE ET CONCURRENTIELLE
 212.55.112.98:80 - Webif&sup2; Administration Console
 153.127.237.93:80 - Заголовок не найден
 187.157.154.72:80 - Instituto Electoral de Quintana Roo
+211.133.223.13:80 - ERROR
+172.245.141.59:80 - Home
+149.19.33.58:80 - Заголовок не найден
+179.38.148.199:80 - Заголовок не найден
+160.124.228.9:80 - 404 Not Found
+91.241.219.104:80 - 403 Forbidden
+213.144.94.105:80 - 
