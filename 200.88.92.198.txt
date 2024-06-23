@@ -840,3 +840,6 @@
 151.248.3.147:80 - Database Error
 194.164.169.163:80 - Web Server's Default Page
 107.165.189.92:80 - Page not found
+219.143.71.84:80 - Home - APEC Cooperation for Earthquake Science - Powered by ACES
+104.17.110.173:80 - Direct IP access not allowed | Cloudflare
+52.202.105.66:80 - Заголовок не найден
