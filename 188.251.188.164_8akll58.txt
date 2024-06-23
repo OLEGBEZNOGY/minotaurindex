@@ -2474,3 +2474,6 @@ High Cholesterol, Stroke, and Other Cardiac Problems
 120.79.92.242:80 - 503 Service Temporarily Unavailable
 23.56.61.18:80 - Заголовок не найден
 70.166.49.226:80 - Directory Listing Denied
+99.84.12.118:80 - Заголовок не найден
+3.221.78.85:80 - Apache2 Ubuntu Default Page: It works
+3.6.244.238:80 - Заголовок не найден
