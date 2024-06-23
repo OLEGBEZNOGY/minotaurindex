@@ -477,3 +477,14 @@
 45.55.126.234:80 - Simple Simple Apps
 43.134.109.179:80 - 403 Forbidden
 23.208.35.233:80 - Заголовок не найден
+69.25.155.138:80 - Money.ca - A Clear Path For Your Money
+133.18.90.223:80 - Заголовок не найден
+59.126.144.67:80 - 401 Unauthorized
+18.154.42.170:80 - Заголовок не найден
+18.136.135.231:80 - Заголовок не найден
+223.109.171.8:80 - Заголовок не найден
+193.162.133.45:80 - IIS Windows Server
+107.148.204.106:80 - Заголовок не найден
+104.18.217.186:80 - Direct IP access not allowed | Cloudflare
+104.19.155.96:80 - Direct IP access not allowed | Cloudflare
+182.92.101.246:80 - Ridgewood â Responsive HTML5 Multi-Concept Portfolio
