@@ -1166,3 +1166,16 @@
 104.96.142.43:80 - Заголовок не найден
 46.101.158.141:80 - NethServer Enterprise
 184.31.112.38:80 - Заголовок не найден
+47.7.211.81:80 - 
+3.126.72.107:80 - Website market.nifts.net is ready. The content is to be added
+104.19.121.168:80 - Direct IP access not allowed | Cloudflare
+35.168.79.77:80 - Заголовок не найден
+195.254.168.99:80 - Заголовок не найден
+89.253.229.227:80 - 403 Forbidden
+34.143.184.204:80 - Welcome to nginx!
+8.134.161.37:80 - Welcome to nginx!
+24.211.158.99:80 - BalkanRDU - Indulge in the best that Balkan culture has to offer
+64.46.118.28:80 - Заголовок не найден
+20.209.193.165:80 - Заголовок не найден
+173.222.58.107:80 - Заголовок не найден
+151.101.192.147:80 - Fastly error: unknown domain 151.101.192.147
