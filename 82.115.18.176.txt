@@ -426,3 +426,101 @@
 134.119.0.90:80 - 404 Not Found
 34.200.123.58:80 - 401 Unauthorized
 23.4.140.7:80 - Заголовок не найден
+188.209.137.61:80 - Welcome to nginx!
+23.39.253.99:80 - Заголовок не найден
+104.83.113.61:80 - Заголовок не найден
+64.176.203.117:80 - Unknown Domain
+184.31.147.31:80 - Заголовок не найден
+174.129.34.143:80 - CK-12 Flexi APIs
+154.55.148.183:80 - 403 Forbidden
+84.201.166.86:80 - Заголовок не найден
+3.112.243.158:80 - Заголовок не найден
+35.75.120.192:80 - Заголовок не найден
+52.217.12.148:80 - Amazon S3 - Cloud Object Storage  - AWS
+107.149.62.217:80 - Заголовок не найден
+113.41.55.99:80 - ec-nextミニマム | 簡単クラウド受発注ならec-nextミニマム
+94.86.174.162:80 - Login
+108.61.17.245:80 - WebEra - Log In
+104.34.203.43:80 - WEB SERVICE
+146.59.3.229:80 - Ressist.pl - Wystrzałowe produkty w wystrzałowych cenach | Gaming | Laptopy | Komputery | Akcesoria | Outlet
+23.34.23.243:80 - Заголовок не найден
+211.188.69.163:80 - SensRouter
+35.240.88.3:80 - Заголовок не найден
+191.102.30.138:80 - ZC-521
+78.47.106.235:80 - 403 Forbidden
+173.0.187.143:80 - Заголовок не найден
+8.217.115.159:80 - 403 Forbidden
+20.168.153.238:80 - Your Azure Function App is up and running.
+159.69.105.59:80 - Rübeling+Klar Dental Labor &#8211; Tradition mit Fortschritt
+79.0.193.162:80 - 403 Forbidden
+185.225.14.61:80 - 404 Not Found
+81.29.139.123:80 - Заголовок не найден
+18.184.155.86:80 - Заголовок не найден
+162.240.230.103:80 - Заголовок не найден
+18.65.176.147:80 - Заголовок не найден
+45.63.12.220:80 - Human Services Council
+188.119.88.171:80 - ERROR: The requested URL could not be retrieved
+178.62.73.101:80 - Заголовок не найден
+46.163.34.57:80 - Wireless - Administrative Console
+104.81.242.222:80 - Заголовок не найден
+23.49.135.189:80 - Заголовок не найден
+139.59.186.108:80 - Заголовок не найден
+23.195.67.58:80 - Заголовок не найден
+184.89.61.43:80 - 
+171.4.83.238:80 - WEB SERVICE
+209.16.103.4:80 - 403 Forbidden
+138.68.176.215:80 - Заголовок не найден
+23.242.220.108:80 - Заголовок не найден
+104.16.137.203:80 - Direct IP access not allowed | Cloudflare
+23.224.124.75:80 - 请使用域名访问
+176.123.246.179:80 - Заголовок не найден
+20.19.114.167:80 - Your Azure Function App is up and running.
+44.226.144.208:80 - FileMaker Website
+146.148.198.218:80 - IIS7
+139.177.187.41:80 - AppMaker | AppMaker website
+187.28.57.154:80 - Intelbras
+5.76.129.104:80 - Default
+13.114.32.173:80 - Welcome to nginx!
+23.33.67.230:80 - Заголовок не найден
+63.195.200.226:80 - AT&T WiFi Portal
+23.201.32.45:80 - Заголовок не найден
+3.35.225.99:80 - Welcome to nginx!
+95.85.90.178:80 - 
+154.216.45.78:80 - 403 Forbidden
+192.99.233.215:80 - Заголовок не найден
+190.106.131.113:80 - Error detallado de IIS 7.5 - 500.19 - Internal Server Error
+3.21.7.221:80 - 404 Not Found
+54.159.163.212:80 - De 10 GmbH | Your Import / Export experts
+184.24.67.220:80 - Заголовок не найден
+203.160.115.249:80 - 403 Forbidden
+103.97.233.129:80 - Заголовок не найден
+104.25.75.236:80 - Direct IP access not allowed | Cloudflare
+73.231.170.190:80 - 
+78.47.90.184:80 - ATS | Assesment and Talent Solutions
+23.76.56.127:80 - Заголовок не найден
+160.121.211.50:80 - 404 Not Found
+206.119.41.128:80 - 404 Not Found
+85.206.7.11:80 - Gintaro grafika, UAB - administravimas
+172.66.195.188:80 - Direct IP access not allowed | Cloudflare
+96.2.29.113:80 - Congratulations!
+160.124.201.212:80 - 403 Forbidden
+23.206.99.173:80 - Заголовок не найден
+171.22.187.154:80 - Web Server's Default Page
+45.250.246.228:80 - Please wait, the login page is opening...
+140.82.60.106:80 - 百度一下，你就知道
+85.128.241.56:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+104.25.54.221:80 - Direct IP access not allowed | Cloudflare
+50.116.19.50:80 - Curious Cat Web Site Network
+81.198.207.36:80 - 
+104.206.133.188:80 - 403 Forbidden
+89.249.60.227:80 - Geolux Hydroview
+51.15.88.240:80 - غير متوفر
+176.124.110.182:80 - 404 Not Found
+188.119.89.246:80 - ERROR: The requested URL could not be retrieved
+182.228.165.166:80 - Заголовок не найден
+3.11.251.2:80 - 404 Not Found
+72.238.227.223:80 - 
+57.152.21.90:80 - Your Azure Function App is up and running.
+104.97.55.89:80 - Заголовок не найден
+3.82.236.115:80 - Welcome to nginx!
+104.76.71.71:80 - Заголовок не найден
