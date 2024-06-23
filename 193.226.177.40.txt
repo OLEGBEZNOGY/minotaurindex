@@ -146,3 +146,6 @@
 5.17.87.234:80 - 403 Forbidden
 5.249.27.140:80 - IIS Windows Server
 89.22.102.46:80 - Apache2 Debian Default Page: It works
+106.151.3.80:80 - HITACHI Management
+201.242.54.128:80 - 
+157.230.121.66:80 - Anime Challenge - Neatrex
