@@ -307,3 +307,22 @@
 219.250.238.21:80 - 404 Not Found
 43.207.59.19:80 - Заголовок не найден
 104.81.197.220:80 - Заголовок не найден
+50.116.22.102:80 - Email parsing for sales leads: Dispatch
+144.126.241.133:80 - 🧨 file_put_contents(/var/www/agc.test2/storage/framework/sessions/K6gN3VHcFcFFRbvuzxFmjnMtE5BJrp0i30fPRWv1): failed to open stream: Permission denied
+18.155.32.26:80 - Заголовок не найден
+13.229.196.239:80 - 503 Service Temporarily Unavailable
+13.35.122.243:80 - Заголовок не найден
+63.66.34.178:80 - Document Moved
+219.68.153.20:80 - 
+20.12.165.240:80 - Заголовок не найден
+120.24.79.153:80 - Заголовок не найден
+184.31.81.246:80 - Заголовок не найден
+95.100.122.124:80 - Заголовок не найден
+104.22.26.71:80 - Direct IP access not allowed | Cloudflare
+107.175.178.146:80 - 407 Proxy Authentication Required
+154.53.74.213:80 - ERROR: The requested URL could not be retrieved
+24.236.228.73:80 - 
+104.71.139.228:80 - Заголовок не найден
+59.110.23.11:80 - Index of /
+104.16.97.171:80 - Direct IP access not allowed | Cloudflare
+139.159.200.15:80 - 403 Forbidden
