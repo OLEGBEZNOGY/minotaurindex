@@ -3113,3 +3113,9 @@ High Cholesterol, Stroke, and Other Cardiac Problems
 71.105.221.132:80 - Quadlogic Controls Corp. Serial to IP Server
 65.36.214.155:80 - Заголовок не найден
 52.31.54.27:80 - 404 Not Found
+109.231.132.182:80 - RouterOS router configuration page
+134.236.176.236:80 - 403 Forbidden
+97.97.43.180:80 - 
+23.49.131.46:80 - Заголовок не найден
+23.215.150.43:80 - Заголовок не найден
+54.230.122.199:80 - Заголовок не найден
