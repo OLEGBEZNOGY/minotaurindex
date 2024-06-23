@@ -15566,3 +15566,9 @@ High Cholesterol, Stroke, and Other Cardiac Problems
 104.140.155.242:80 - 403 Forbidden
 210.92.207.5:80 - 새만금 환경생태단지 > 새만금환경생태단지 메인
 52.3.49.9:80 - Заголовок не найден
+23.41.72.20:80 - Заголовок не найден
+108.128.108.136:80 - Заголовок не найден
+188.128.161.180:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+159.69.22.16:80 - Default Site
+184.24.112.16:80 - Заголовок не найден
+34.235.184.148:80 - 503 Service Temporarily Unavailable
