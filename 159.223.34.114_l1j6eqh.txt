@@ -353,3 +353,20 @@
 69.39.237.146:80 - Заголовок не найден
 23.227.38.248:80 - Direct IP access not allowed | Cloudflare
 54.174.49.213:80 - G-Delivery-Merchant | Login
+23.221.171.231:80 - Заголовок не найден
+188.69.132.204:80 - Document Error: Not Found
+65.9.181.125:80 - Заголовок не найден
+122.17.173.141:80 - New Server -- DOMAINNAME
+213.143.192.60:80 - Test Page for the Nginx HTTP Server on EPEL
+94.180.121.144:80 - 403 Forbidden
+157.112.181.146:80 - ç¡å¹ãªURLã§ã
+20.221.101.186:80 - Заголовок не найден
+175.178.253.77:80 - æ²¡ææ¾å°ç«ç¹
+38.152.136.236:80 - ERROR: The requested URL could not be retrieved
+192.241.158.25:80 - Knowledge Tech - Good vibes and technical expertise
+38.14.39.97:80 - Заголовок не найден
+39.96.116.197:80 - 登录 - 碳&rdquo;索足迹管理系统
+23.41.50.5:80 - Заголовок не найден
+149.156.182.192:80 - HTTP Server Test Page powered by CentOS
+18.161.97.115:80 - Заголовок не найден
+20.241.142.243:80 - Заголовок не найден
