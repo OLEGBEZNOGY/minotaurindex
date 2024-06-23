@@ -115,3 +115,33 @@
 23.163.208.125:80 - Apache2 Ubuntu Default Page: It works
 3.160.10.14:80 - Заголовок не найден
 34.149.195.122:80 - 502 Server Error
+104.18.237.55:80 - Direct IP access not allowed | Cloudflare
+52.69.103.178:80 - Welcome to nginx!
+44.197.141.119:80 - 404 Not Found
+78.40.35.245:80 - Web Server's Default Page
+18.67.122.17:80 - Заголовок не найден
+13.249.246.17:80 - Заголовок не найден
+3.16.35.132:80 - 503 Service Temporarily Unavailable
+54.86.9.223:80 - Заголовок не найден
+104.122.129.96:80 - Заголовок не найден
+114.55.109.197:80 - 404 Not Found
+108.159.45.133:80 - Заголовок не найден
+151.2.100.75:80 - Apache2 Debian Default Page: It works
+190.167.180.255:80 - 
+18.155.39.5:80 - Заголовок не найден
+217.160.122.254:80 - 403 Forbidden
+49.13.45.96:80 - 404 Not Found
+208.113.223.111:80 - Site not found &middot; DreamHost
+38.14.125.224:80 - 404 Not Found
+118.139.163.87:80 - Build And Art - Residential Construction Melbourne
+45.223.179.211:80 - Заголовок не найден
+52.197.216.54:80 - 404 Not Found
+104.24.252.29:80 - Direct IP access not allowed | Cloudflare
+18.244.102.112:80 - Заголовок не найден
+104.23.119.88:80 - Direct IP access not allowed | Cloudflare
+81.198.141.153:80 - 
+159.69.89.126:80 - Заголовок не найден
+2.19.164.113:80 - Заголовок не найден
+121.174.225.187:80 - IIS Windows
+108.186.67.233:80 - 400 Bad Request
+79.96.6.146:80 - Заголовок не найден
