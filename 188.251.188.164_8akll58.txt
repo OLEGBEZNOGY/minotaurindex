@@ -12117,3 +12117,7 @@ High Cholesterol, Stroke, and Other Cardiac Problems
 118.98.227.132:80 - Aplikasi Pengelolaan Informasi Kegiatan | Balai Besar Guru Penggerak Provinsi Jawa Barat
 94.152.41.162:80 - Заголовок не найден
 188.166.100.94:80 - Welcome to nginx!
+35.187.200.183:80 - Apache2 Debian Default Page: It works
+95.217.94.14:80 - 403 - Forbidden: Access is denied.
+103.234.195.202:80 - GB Inventory ACS &bull; Bonded Warehouse Inventory Solution
+143.198.73.213:80 - Artboard
