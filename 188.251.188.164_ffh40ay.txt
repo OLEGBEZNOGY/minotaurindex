@@ -1919,3 +1919,31 @@
 153.127.252.148:80 - redenacreate | Just another WordPress site
 142.214.180.86:80 - ERROR: The requested URL could not be retrieved
 96.7.26.125:80 - Заголовок не найден
+200.23.161.213:80 - A850 Telemetry Gateway
+188.128.171.139:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+168.119.171.212:80 - Test Page for the Nginx HTTP Server on Rocky Linux
+65.186.5.104:80 - 
+23.201.114.23:80 - Заголовок не найден
+184.24.11.229:80 - Заголовок не найден
+3.136.231.242:80 - Заголовок не найден
+92.151.68.147:80 - 
+18.156.126.241:80 - 404 Not Found
+20.67.137.97:80 - 404 Not Found
+153.120.83.51:80 - Заголовок не найден
+185.104.218.143:80 - 407 Proxy Authentication Required
+23.63.115.7:80 - Заголовок не найден
+52.11.215.28:80 - Заголовок не найден
+189.180.107.247:80 - 
+54.248.29.131:80 - 503 Service Temporarily Unavailable
+50.72.91.72:80 - Default Site
+184.87.190.67:80 - Заголовок не найден
+8.217.141.15:80 - Default Site
+220.133.242.242:80 - 
+186.130.2.191:80 - Заголовок не найден
+201.16.240.94:80 - Web managerment Home
+38.152.61.70:80 - ERROR: The requested URL could not be retrieved
+139.196.217.218:80 - 403 Forbidden
+85.105.206.191:80 - Заголовок не найден
+183.230.178.104:80 - Заголовок не найден
+162.55.147.237:80 - Welcome to nginx!
+198.58.127.146:80 - 404 Not Found
