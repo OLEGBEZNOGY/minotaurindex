@@ -738,3 +738,14 @@
 72.44.34.66:80 - Заголовок не найден
 14.241.235.195:80 - 
 85.128.149.93:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+23.9.199.62:80 - Заголовок не найден
+95.111.198.81:80 - Website Unavailable
+147.50.232.71:80 - Заголовок не найден
+104.96.185.119:80 - Заголовок не найден
+119.42.56.124:80 - Please wait, the login page is opening...
+84.93.158.32:80 - Заголовок не найден
+66.205.84.46:80 - RouterOS router configuration page
+104.18.168.234:80 - Direct IP access not allowed | Cloudflare
+186.167.7.58:80 - 
+50.252.33.54:80 - 
+104.20.154.241:80 - Direct IP access not allowed | Cloudflare
