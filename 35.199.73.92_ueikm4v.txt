@@ -1,0 +1,52 @@
+34.144.198.226:80 - Welcome to nginx!
+2.19.158.200:80 - Заголовок не найден
+23.218.185.145:80 - Заголовок не найден
+212.108.154.230:80 - ePMP
+50.196.221.78:80 - 
+38.181.61.26:80 - IIS Windows
+156.250.247.4:80 - Sorry, the website has been stopped
+20.119.227.233:80 - Welcome to nginx!
+165.227.180.211:80 - Заголовок не найден
+61.98.7.199:80 - main page
+52.7.209.181:80 - 404 Not Found
+83.246.89.12:80 - 403 Forbidden
+95.81.192.77:80 - RouterOS router configuration page
+69.49.118.240:80 - Заголовок не найден
+49.232.85.70:80 - æ²¡ææ¾å°ç«ç¹
+23.38.83.228:80 - Заголовок не найден
+82.139.160.34:80 - ACME Access Only
+151.101.7.30:80 - Fastly error: unknown domain 151.101.7.30
+37.131.249.91:80 - Заголовок не найден
+200.166.125.241:80 - Заголовок не найден
+141.144.193.43:80 - 502 Bad Gateway
+184.26.102.67:80 - Заголовок не найден
+162.251.158.33:80 - RouterOS router configuration page
+104.120.99.203:80 - Заголовок не найден
+2.20.237.245:80 - Заголовок не найден
+121.149.127.178:80 - WEB SERVICE
+212.129.25.73:80 - Interdit
+23.203.82.176:80 - Заголовок не найден
+82.62.221.86:80 - IIS Windows Server
+54.250.28.212:80 - test
+104.42.148.125:80 - ID1059: Cannot authenticate the user because the URL scheme is not https and requireSsl is set to true in the configuration, therefore the authentication cookie will not be sent. Change the URL scheme to https or set requireSsl to false on the cookieHandler element in configuration.
+179.37.42.237:80 - Заголовок не найден
+23.206.204.194:80 - Заголовок не найден
+123.103.112.207:80 - 30x 40x or 50x error
+182.181.154.116:80 - Заголовок не найден
+95.141.184.35:80 - Заголовок не найден
+44.195.35.102:80 - LollyPayments by LollyLaw - Immigration Case Management
+3.162.161.57:80 - Заголовок не найден
+151.101.106.172:80 - Fastly error: unknown domain 151.101.106.172
+184.24.199.203:80 - Заголовок не найден
+46.40.113.156:80 - Заголовок не найден
+23.219.201.151:80 - Заголовок не найден
+34.175.144.232:80 - IIS Windows Server
+210.135.100.101:80 - 401 Authorization Required
+103.161.173.119:80 - 403 Forbidden
+104.71.165.198:80 - Заголовок не найден
+23.78.140.225:80 - Заголовок не найден
+85.158.176.61:80 - Заголовок не найден
+98.123.25.78:80 - Connection denied by Geolocation
+154.31.142.109:80 - æ²¡ææ¾å°ç«ç¹
+109.199.129.39:80 - Заголовок не найден
+85.28.94.84:80 - 503 Service Temporarily Unavailable
