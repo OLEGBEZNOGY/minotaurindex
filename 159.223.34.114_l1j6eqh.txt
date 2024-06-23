@@ -488,3 +488,20 @@
 104.18.217.186:80 - Direct IP access not allowed | Cloudflare
 104.19.155.96:80 - Direct IP access not allowed | Cloudflare
 182.92.101.246:80 - Ridgewood â Responsive HTML5 Multi-Concept Portfolio
+45.204.231.30:80 - 403 Forbidden
+8.210.21.236:80 - Welcome to zentao!
+38.38.214.185:80 - ç¾åº¦ä¸ä¸ï¼ä½ å°±ç¥é
+66.42.51.221:80 - 400 The plain HTTP request was sent to HTTPS port
+64.210.148.121:80 - Заголовок не найден
+35.190.86.241:80 - 502 Server Error
+194.233.77.58:80 - Welcome to nginx!
+176.97.212.155:80 - Apache2 Ubuntu Default Page: It works
+189.113.5.194:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+210.136.239.32:80 - Заголовок не найден
+220.179.7.233:80 - 信用安庆
+217.183.162.195:80 - Welcome to nginx!
+118.163.115.149:80 - Заголовок не найден
+85.143.220.34:80 - Welcome to nginx!
+68.182.254.111:80 - Заголовок не найден
+23.201.137.183:80 - Заголовок не найден
+95.101.152.142:80 - Заголовок не найден
