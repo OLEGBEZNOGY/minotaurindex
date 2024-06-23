@@ -246,3 +246,43 @@
 85.236.152.62:80 - Заголовок не найден
 86.123.249.25:80 - 
 91.231.237.167:80 - Заголовок не найден
+51.138.47.218:80 - Заголовок не найден
+23.41.62.91:80 - Заголовок не найден
+92.43.216.109:80 - Заголовок не найден
+202.166.180.138:80 - 403 Forbidden
+87.98.165.62:80 - Home - Agence de communication éditoriale Print - Web - Presse | Comere.frAgence de communication éditoriale Print - Web - Presse | Comere.fr
+146.59.146.179:80 - Apache2 Debian Default Page: It works
+157.205.193.87:80 - 403 Forbidden
+88.198.20.149:80 - Attention Required! | Cloudflare
+66.128.42.78:80 - 
+190.93.245.178:80 - Direct IP access not allowed | Cloudflare
+2.17.58.141:80 - Заголовок не найден
+70.36.107.226:80 - Part-time jobs | Make money from home | Remote work | Ways to make extra money
+18.155.2.210:80 - Заголовок не найден
+104.94.25.231:80 - Заголовок не найден
+193.0.179.94:80 - Welcome to nginx!
+75.68.76.17:80 - 
+102.17.49.189:80 - RouterOS router configuration page
+156.238.19.98:80 - Direct IP access not allowed | Cloudflare
+104.85.159.155:80 - Заголовок не найден
+202.152.216.83:80 - 403 Forbidden
+18.142.61.93:80 - 404 Not Found
+179.36.138.233:80 - Заголовок не найден
+184.25.132.173:80 - Заголовок не найден
+18.161.228.83:80 - Заголовок не найден
+178.189.160.11:80 - Webinterface
+23.215.235.13:80 - Заголовок не найден
+79.96.211.121:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+54.230.9.158:80 - Заголовок не найден
+178.88.188.52:80 - GPON Home Gateway
+92.255.79.2:80 - Welcome to nginx!
+54.233.212.3:80 - Заголовок не найден
+154.212.49.189:80 - 404 Not Found
+216.92.143.236:80 - Picture Perfect, Flemington, New Jersey âFraming With Distinctionâ
+180.50.7.204:80 - BB-SW172 Network Camera
+8.217.238.82:80 - æ²¡ææ¾å°ç«ç¹
+23.66.105.4:80 - Заголовок не найден
+47.242.86.52:80 - 404 Not Found
+23.34.47.170:80 - Заголовок не найден
+185.181.21.34:80 - READy Manager
+88.216.129.149:80 - Apache2 Debian Default Page: It works
