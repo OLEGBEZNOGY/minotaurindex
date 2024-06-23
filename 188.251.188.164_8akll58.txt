@@ -19535,3 +19535,41 @@ turns your surplus into cash
 157.230.243.19:80 - 502 Bad Gateway
 99.126.177.77:80 - Заголовок не найден
 217.21.82.246:80 - 403 Forbidden
+23.58.158.53:80 - Заголовок не найден
+108.167.132.33:80 - Not Acceptable!
+52.64.241.180:80 - 403 Forbidden
+44.236.125.182:80 - 403 Forbidden
+112.213.92.58:80 - MDaemon Webmail
+4.153.68.44:80 - 404 Not Found
+18.154.198.104:80 - Заголовок не найден
+211.243.174.89:80 - Nanuri XYZ
+91.183.181.169:80 - IIS Windows Server
+162.216.241.168:80 - Notes
+209.160.6.232:80 - Заголовок не найден
+103.163.62.171:80 - Please wait, the login page is opening...
+123.56.175.51:80 - Заголовок не найден
+148.255.18.118:80 - ZXHN H108N V2.5
+104.207.236.144:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+82.165.37.98:80 - Заголовок не найден
+20.53.109.228:80 - Your Azure Function App is up and running.
+35.155.13.152:80 - HTTP Status 404 – Not Found
+23.207.177.4:80 - Заголовок не найден
+84.236.140.56:80 - 
+160.16.216.32:80 - Apache HTTP Server Test Page powered by CentOS
+94.242.231.135:80 - Direct IP access not allowed | Cloudflare
+98.123.20.102:80 - Заголовок не найден
+209.235.128.231:80 - Заголовок не найден
+3.34.67.33:80 - 403 Forbidden
+35.163.60.43:80 - Welcome to nginx!
+103.150.132.167:80 - Заголовок не найден
+85.38.29.203:80 - Request Denied
+24.111.149.236:80 - DELL SonicWALL - Authentication
+136.243.64.121:80 - 404 Not Found
+147.182.194.229:80 - Apache2 Ubuntu Default Page: It works
+23.42.119.14:80 - Заголовок не найден
+134.119.245.83:80 - 404 Not Found
+216.116.16.72:80 - Car-Part.com--Used Auto Parts Market
+3.0.81.40:80 - Заголовок не найден
+129.211.154.136:80 - 502 Bad Gateway
+117.53.167.10:80 - Заголовок не найден
+108.138.94.153:80 - Заголовок не найден
