@@ -278,3 +278,16 @@
 23.24.82.97:80 - Document Moved
 23.4.156.16:80 - Заголовок не найден
 3.126.45.6:80 - Welcome to nginx!
+2.18.153.162:80 - Заголовок не найден
+137.184.237.154:80 - CTF - Sec Champz
+52.117.32.6:80 - Заголовок не найден
+104.19.165.142:80 - Direct IP access not allowed | Cloudflare
+104.17.48.194:80 - Direct IP access not allowed | Cloudflare
+104.107.157.53:80 - Заголовок не найден
+52.221.5.127:80 - Заголовок не найден
+104.16.7.210:80 - Direct IP access not allowed | Cloudflare
+45.135.235.16:80 - Direct IP access not allowed | Cloudflare
+23.8.45.223:80 - Заголовок не найден
+54.153.199.23:80 - 503 Service Temporarily Unavailable
+54.224.217.98:80 - FileMaker Website
+35.201.53.164:80 - 35.201.53.164.corp.google.com - Google Single Sign On: Sign into corp
