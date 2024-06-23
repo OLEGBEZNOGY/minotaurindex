@@ -16829,3 +16829,7 @@
 114.251.242.96:80 - Заголовок не найден
 3.9.133.43:80 - The Eastern Region  - Job Search
 62.215.136.185:80 - Web user login
+157.245.117.16:80 - Welcome to nginx!
+23.62.79.27:80 - Заголовок не найден
+13.215.169.159:80 - 404 Not Found
+3.14.211.86:80 - 403 - Forbidden: Access is denied.
