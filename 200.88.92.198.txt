@@ -1,0 +1,705 @@
+5.251.217.34:80 - GPON Home Gateway
+54.89.159.82:80 - BitTorrent Remote
+103.230.101.24:80 - Please wait, the page is opening...
+127.115.93.143:80 - MyPublicWiFi-FileSharing
+104.20.11.191:80 - Direct IP access not allowed | Cloudflare
+23.204.197.176:80 - Заголовок не найден
+185.195.42.15:80 - Заголовок не найден
+127.246.70.217:80 - MyPublicWiFi-FileSharing
+127.30.13.254:80 - MyPublicWiFi-FileSharing
+127.216.158.9:80 - MyPublicWiFi-FileSharing
+127.218.178.27:80 - MyPublicWiFi-FileSharing
+127.45.159.59:80 - MyPublicWiFi-FileSharing
+34.205.209.140:80 - Заголовок не найден
+127.113.150.219:80 - MyPublicWiFi-FileSharing
+127.150.187.36:80 - MyPublicWiFi-FileSharing
+127.31.21.232:80 - MyPublicWiFi-FileSharing
+127.106.131.67:80 - MyPublicWiFi-FileSharing
+52.86.174.214:80 - 404 Not Found
+176.34.35.157:80 - RStudio: Browser Not Supported
+127.118.12.221:80 - MyPublicWiFi-FileSharing
+23.60.179.180:80 - Заголовок не найден
+127.202.183.76:80 - MyPublicWiFi-FileSharing
+127.176.231.187:80 - MyPublicWiFi-FileSharing
+46.231.85.139:80 - Заголовок не найден
+127.160.78.100:80 - MyPublicWiFi-FileSharing
+45.126.229.41:80 - 404 Not Found
+127.121.251.138:80 - MyPublicWiFi-FileSharing
+23.206.45.87:80 - Заголовок не найден
+186.39.38.203:80 - Заголовок не найден
+45.231.83.143:80 - 404 Not Found
+183.106.112.39:80 - Заголовок не найден
+127.161.243.187:80 - MyPublicWiFi-FileSharing
+154.216.50.171:80 - 404 Not Found
+54.39.53.84:80 - Заголовок не найден
+127.160.197.79:80 - MyPublicWiFi-FileSharing
+104.247.182.40:80 - Заголовок не найден
+146.158.110.10:80 - Authorization warning
+165.22.246.103:80 - timesheet
+23.50.105.159:80 - Заголовок не найден
+206.128.102.98:80 - Заголовок не найден
+175.193.134.83:80 - CMS Web Viewer
+127.198.8.177:80 - MyPublicWiFi-FileSharing
+80.233.100.181:80 - Заголовок не найден
+78.154.212.123:80 - Заголовок не найден
+142.93.7.43:80 - Заголовок не найден
+162.214.122.220:80 - Заголовок не найден
+104.100.69.236:80 - Заголовок не найден
+74.46.109.243:80 - Server Error
+187.130.212.115:80 - Заголовок не найден
+127.13.152.105:80 - MyPublicWiFi-FileSharing
+139.162.72.36:80 - Заголовок не найден
+104.120.69.13:80 - Заголовок не найден
+148.0.135.113:80 - 
+54.200.106.223:80 - Error
+98.66.255.162:80 - Your Azure Function App is up and running.
+23.35.214.67:80 - Заголовок не найден
+127.195.24.31:80 - MyPublicWiFi-FileSharing
+87.123.122.82:80 - Nextcloud
+195.137.150.100:80 - ePMP
+23.36.70.200:80 - Заголовок не найден
+104.69.40.47:80 - Заголовок не найден
+127.32.91.152:80 - MyPublicWiFi-FileSharing
+185.219.22.46:80 - 404 Not Found
+193.253.191.131:80 - Заголовок не найден
+27.124.28.204:80 - Welcome to OpenResty!
+82.118.227.174:80 - Welcome to nginx!
+104.201.2.227:80 - Заголовок не найден
+127.100.141.79:80 - MyPublicWiFi-FileSharing
+127.35.96.148:80 - MyPublicWiFi-FileSharing
+67.202.112.216:80 - Заголовок не найден
+64.184.186.7:80 - Roundcube Webmail :: Welcome to Roundcube Webmail
+127.236.117.178:80 - MyPublicWiFi-FileSharing
+139.162.22.42:80 - 403 Forbidden
+127.133.148.76:80 - MyPublicWiFi-FileSharing
+127.90.10.165:80 - MyPublicWiFi-FileSharing
+127.231.161.197:80 - MyPublicWiFi-FileSharing
+127.46.114.86:80 - MyPublicWiFi-FileSharing
+116.193.138.227:80 - Please wait, the login page is opening...
+127.21.24.162:80 - MyPublicWiFi-FileSharing
+109.75.252.12:80 - Произошла ошибка 404
+120.79.206.163:80 - 阿里云万网虚机IP访问报错提示
+52.82.188.146:80 - Amazon S3 - Cloud Object Storage  - AWS
+45.207.235.158:80 - 404 Not Found
+23.195.187.173:80 - Заголовок не найден
+47.106.36.205:80 - Welcome to nginx!
+154.92.46.52:80 - IIS7
+23.35.202.117:80 - Заголовок не найден
+78.137.98.240:80 - Заголовок не найден
+44.213.114.16:80 - Welcome to nginx!
+127.236.138.20:80 - MyPublicWiFi-FileSharing
+157.122.102.176:80 - Welcome to nginx!
+127.218.155.49:80 - MyPublicWiFi-FileSharing
+185.20.209.15:80 - 400 Bad Request
+127.206.204.121:80 - MyPublicWiFi-FileSharing
+127.0.78.34:80 - MyPublicWiFi-FileSharing
+160.124.65.110:80 - 404 Not Found
+123.28.119.234:80 - 
+206.119.27.100:80 - 404 Not Found
+23.33.11.40:80 - Заголовок не найден
+185.240.253.180:80 - Centrul Şcolar de Educaţie Incluzivă Buzău
+127.30.250.192:80 - MyPublicWiFi-FileSharing
+127.142.133.92:80 - MyPublicWiFi-FileSharing
+208.111.163.19:80 - Заголовок не найден
+178.178.104.97:80 - Заголовок не найден
+127.101.25.166:80 - MyPublicWiFi-FileSharing
+127.142.10.94:80 - MyPublicWiFi-FileSharing
+222.206.24.235:80 - 404 Not Found
+52.216.62.42:80 - Amazon S3 - Cloud Object Storage  - AWS
+127.167.227.162:80 - MyPublicWiFi-FileSharing
+127.157.86.141:80 - MyPublicWiFi-FileSharing
+144.168.111.212:80 - 404 Not Found
+46.41.134.8:80 - Apache2 Ubuntu Default Page: It works
+127.167.234.1:80 - MyPublicWiFi-FileSharing
+18.156.141.44:80 - Заголовок не найден
+210.158.41.176:80 - 403 Forbidden
+86.48.23.207:80 - Welcome to nginx!
+127.51.19.199:80 - MyPublicWiFi-FileSharing
+42.117.253.252:80 - GPON Home Gateway
+103.242.227.163:80 - Заголовок не найден
+3.145.117.116:80 - Заголовок не найден
+54.169.252.150:80 - Заголовок не найден
+104.18.58.66:80 - Direct IP access not allowed | Cloudflare
+127.91.23.82:80 - MyPublicWiFi-FileSharing
+127.147.242.122:80 - MyPublicWiFi-FileSharing
+47.242.154.157:80 - Заголовок не найден
+38.165.100.52:80 - 404 Not Found
+104.247.162.36:80 - Заголовок не найден
+20.46.181.230:80 - Apache HTTP Server Test Page powered by CentOS
+93.118.110.35:80 - 
+20.31.186.135:80 - Заголовок не найден
+127.106.39.102:80 - MyPublicWiFi-FileSharing
+34.252.172.34:80 - Заголовок не найден
+127.248.160.219:80 - MyPublicWiFi-FileSharing
+23.192.47.115:80 - Заголовок не найден
+95.188.78.4:80 - Заголовок не найден
+104.77.245.205:80 - Заголовок не найден
+127.24.231.34:80 - MyPublicWiFi-FileSharing
+165.225.198.177:80 - Internet Security by Zscaler
+80.192.164.147:80 - 
+123.56.177.190:80 - Wordpress &#8211; 又一个WordPress站点
+170.187.164.119:80 - Заголовок не найден
+23.11.53.201:80 - Заголовок не найден
+196.51.159.12:80 - ERROR: The requested URL could not be retrieved
+34.220.146.232:80 - Заголовок не найден
+143.204.169.125:80 - Заголовок не найден
+127.126.178.116:80 - MyPublicWiFi-FileSharing
+127.31.111.83:80 - MyPublicWiFi-FileSharing
+20.191.168.223:80 - Your Azure Function App is up and running.
+127.135.184.197:80 - MyPublicWiFi-FileSharing
+4.250.54.1:80 - Your Azure Function App is up and running.
+47.107.185.132:80 - Pi
+127.110.156.73:80 - MyPublicWiFi-FileSharing
+23.57.246.52:80 - Заголовок не найден
+203.129.31.229:80 - Welcome to nginx!
+127.129.81.128:80 - MyPublicWiFi-FileSharing
+127.193.75.174:80 - MyPublicWiFi-FileSharing
+91.203.52.232:80 - 500 Internal Server Error
+67.211.49.156:80 - Заголовок не найден
+176.121.9.62:80 - 403 Forbidden
+127.79.84.197:80 - MyPublicWiFi-FileSharing
+137.74.212.158:80 - ...
+127.69.200.78:80 - MyPublicWiFi-FileSharing
+35.171.83.54:80 - IIS Windows
+127.58.64.114:80 - MyPublicWiFi-FileSharing
+127.232.217.109:80 - MyPublicWiFi-FileSharing
+196.51.181.196:80 - ERROR: The requested URL could not be retrieved
+52.217.134.160:80 - Amazon S3 - Cloud Object Storage  - AWS
+77.247.114.85:80 - ERROR: The requested URL could not be retrieved
+193.147.87.86:80 - Заголовок не найден
+185.116.244.37:80 - Заголовок не найден
+127.9.69.169:80 - MyPublicWiFi-FileSharing
+96.7.237.81:80 - Заголовок не найден
+87.178.102.157:80 - 503 Service Temporarily Unavailable
+104.206.251.223:80 - 500 Internal Server Error
+177.131.142.120:80 - Web Server's Default Page
+79.80.238.187:80 - Centrale
+3.222.98.35:80 - 
+44.199.243.23:80 - Prop Bot
+127.79.58.181:80 - MyPublicWiFi-FileSharing
+127.74.76.67:80 - MyPublicWiFi-FileSharing
+186.7.63.58:80 - 
+127.111.236.57:80 - MyPublicWiFi-FileSharing
+104.64.113.71:80 - Заголовок не найден
+127.218.139.30:80 - MyPublicWiFi-FileSharing
+92.139.99.136:80 - Заголовок не найден
+23.63.125.90:80 - Заголовок не найден
+127.238.213.191:80 - MyPublicWiFi-FileSharing
+2.127.234.205:80 - 
+104.24.218.86:80 - Direct IP access not allowed | Cloudflare
+13.209.43.222:80 - 패스트 다이닝 어드민
+89.203.247.75:80 - Internet bez kompromisu | KAZA.cz
+127.196.115.27:80 - MyPublicWiFi-FileSharing
+127.43.134.231:80 - MyPublicWiFi-FileSharing
+162.214.163.94:80 - Заголовок не найден
+23.36.221.161:80 - Заголовок не найден
+127.85.194.159:80 - MyPublicWiFi-FileSharing
+127.231.255.176:80 - MyPublicWiFi-FileSharing
+127.122.33.170:80 - MyPublicWiFi-FileSharing
+127.168.145.165:80 - MyPublicWiFi-FileSharing
+3.160.218.53:80 - Заголовок не найден
+127.230.116.121:80 - MyPublicWiFi-FileSharing
+38.6.118.93:80 - æ²¡ææ¾å°ç«ç¹
+20.109.200.13:80 - Заголовок не найден
+62.144.195.181:80 - 403 - Forbidden
+183.111.166.183:80 - Заголовок не найден
+127.27.238.146:80 - MyPublicWiFi-FileSharing
+45.231.129.90:80 - Ravi Monitor - Ravi
+44.223.44.223:80 - Amazon ECS Sample App
+91.26.87.37:80 - falcon - Ruwi
+23.35.245.131:80 - UNKNOWN
+23.60.135.104:80 - Заголовок не найден
+121.147.44.199:80 - webpackSPA
+199.232.160.52:80 - Fastly error: unknown domain 199.232.160.52
+51.137.89.217:80 - 404 Not Found
+192.169.86.93:80 - Заголовок не найден
+23.76.56.41:80 - Заголовок не найден
+127.48.164.206:80 - MyPublicWiFi-FileSharing
+198.55.103.127:80 - 500 Internal Server Error
+3.163.200.142:80 - Заголовок не найден
+217.194.183.41:80 - Заголовок не найден
+104.64.127.160:80 - Заголовок не найден
+207.113.223.11:80 - Заголовок не найден
+147.161.188.204:80 - Internet Security by Zscaler
+23.13.158.103:80 - Заголовок не найден
+23.41.83.72:80 - Заголовок не найден
+133.130.108.87:80 - Заголовок не найден
+133.167.82.206:80 - Welcome to nginx!
+192.40.95.113:80 - 407 Proxy Authentication Required
+35.174.170.60:80 - Redemption Rock Ranch
+104.83.100.86:80 - Заголовок не найден
+44.196.236.88:80 - 
+127.162.134.42:80 - MyPublicWiFi-FileSharing
+85.145.2.118:80 - Index
+216.92.83.49:80 - Index of /
+34.160.193.142:80 - 404 Not Found
+38.62.251.73:80 - Заголовок не найден
+61.111.58.223:80 - Заголовок не найден
+127.81.227.6:80 - MyPublicWiFi-FileSharing
+92.122.80.158:80 - Заголовок не найден
+93.127.12.83:80 - Title
+92.205.20.163:80 - Заголовок не найден
+23.207.111.246:80 - Заголовок не найден
+127.63.239.113:80 - MyPublicWiFi-FileSharing
+127.122.79.172:80 - MyPublicWiFi-FileSharing
+112.166.195.146:80 - 
+185.18.8.91:80 - Заголовок не найден
+107.148.86.122:80 - Welcome to nginx!
+127.13.20.41:80 - MyPublicWiFi-FileSharing
+127.69.79.123:80 - MyPublicWiFi-FileSharing
+127.6.27.25:80 - MyPublicWiFi-FileSharing
+203.255.233.150:80 - Заголовок не найден
+127.187.64.51:80 - MyPublicWiFi-FileSharing
+60.43.229.227:80 - 403 Forbidden
+23.1.28.158:80 - Заголовок не найден
+127.51.238.121:80 - MyPublicWiFi-FileSharing
+104.113.233.246:80 - Заголовок не найден
+195.88.215.50:80 - Заголовок не найден
+127.112.114.62:80 - MyPublicWiFi-FileSharing
+45.242.30.186:80 - Login
+72.94.173.45:80 - Bruce Momjian
+127.75.204.40:80 - MyPublicWiFi-FileSharing
+197.149.121.106:80 - RouterOS router configuration page
+38.31.248.121:80 - 404 Not Found
+185.232.20.169:80 - Forbidden!
+127.99.241.27:80 - MyPublicWiFi-FileSharing
+85.141.74.81:80 - 
+117.5.230.174:80 - Заголовок не найден
+68.52.202.178:80 - 
+97.107.137.30:80 - Bronx Park Community Centre: Home
+127.183.116.103:80 - MyPublicWiFi-FileSharing
+164.46.59.27:80 - 403 Forbidden ã¢ã¯ã»ã¹ãç¦æ­¢ããã¦ãã¾ã
+127.77.31.44:80 - MyPublicWiFi-FileSharing
+160.123.255.235:80 - Direct IP access not allowed | Cloudflare
+184.50.17.149:80 - Заголовок не найден
+23.194.244.195:80 - Заголовок не найден
+139.177.157.76:80 - 403 Forbidden
+103.35.86.39:80 - æ²¡ææ¾å°ç«ç¹
+127.93.186.22:80 - MyPublicWiFi-FileSharing
+127.24.90.11:80 - MyPublicWiFi-FileSharing
+52.219.8.226:80 - Amazon S3 - Cloud Object Storage  - AWS
+196.51.105.208:80 - ERROR: The requested URL could not be retrieved
+2.18.131.124:80 - Заголовок не найден
+104.19.210.227:80 - Direct IP access not allowed | Cloudflare
+150.60.79.176:80 - Заголовок не найден
+127.11.29.212:80 - MyPublicWiFi-FileSharing
+127.225.172.97:80 - MyPublicWiFi-FileSharing
+111.230.190.217:80 - 403 Forbidden
+127.201.237.65:80 - MyPublicWiFi-FileSharing
+127.89.227.211:80 - MyPublicWiFi-FileSharing
+104.16.110.212:80 - Direct IP access not allowed | Cloudflare
+127.189.74.80:80 - MyPublicWiFi-FileSharing
+104.110.76.147:80 - Заголовок не найден
+193.105.134.63:80 - ERROR: The requested URL could not be retrieved
+18.66.47.239:80 - Заголовок не найден
+155.138.222.98:80 - Default Site
+18.164.222.35:80 - Заголовок не найден
+127.149.99.156:80 - MyPublicWiFi-FileSharing
+45.249.81.194:80 - Please wait, the login page is opening...
+2.22.194.184:80 - Заголовок не найден
+69.90.223.99:80 - Заголовок не найден
+3.221.83.33:80 - Заголовок не найден
+156.225.67.25:80 - Welcome to nginx!
+127.167.23.223:80 - MyPublicWiFi-FileSharing
+127.82.36.185:80 - MyPublicWiFi-FileSharing
+104.233.136.59:80 - 404 Not Found
+27.91.223.242:80 - SATELA
+47.104.147.197:80 - ç½ç«è®¿é®æ¥é
+102.218.213.95:80 - Заголовок не найден
+127.124.8.98:80 - MyPublicWiFi-FileSharing
+195.29.201.245:80 - ACME Access Only
+127.22.51.103:80 - MyPublicWiFi-FileSharing
+161.189.224.228:80 - Odoo
+213.229.54.244:80 - Заголовок не найден
+127.190.75.216:80 - MyPublicWiFi-FileSharing
+127.25.145.168:80 - MyPublicWiFi-FileSharing
+127.0.189.236:80 - MyPublicWiFi-FileSharing
+65.20.66.39:80 - loca.local.loc &mdash; Coming Soon
+120.238.119.110:80 - 403 Forbidden
+86.121.241.174:80 - 
+35.76.29.34:80 - Заголовок не найден
+104.123.78.132:80 - Заголовок не найден
+127.194.137.152:80 - MyPublicWiFi-FileSharing
+198.44.132.40:80 - Заголовок не найден
+14.232.237.60:80 - Hello! Welcome to Synology Web Station!
+127.95.247.126:80 - MyPublicWiFi-FileSharing
+43.204.224.123:80 - 404 Not Found
+47.28.0.131:80 - 
+104.20.77.186:80 - Direct IP access not allowed | Cloudflare
+18.164.235.35:80 - Заголовок не найден
+103.251.150.246:80 - Заголовок не найден
+23.45.196.181:80 - Заголовок не найден
+23.203.226.244:80 - Заголовок не найден
+127.221.180.83:80 - MyPublicWiFi-FileSharing
+127.150.127.129:80 - MyPublicWiFi-FileSharing
+23.42.144.202:80 - Заголовок не найден
+3.230.25.61:80 - Unauthorized location
+152.0.4.28:80 - 
+127.84.74.8:80 - MyPublicWiFi-FileSharing
+104.171.205.119:80 - MXvirtual
+220.228.134.46:80 - 403 Forbidden
+170.130.243.64:80 - 500 Internal Server Error
+178.13.78.125:80 - Заголовок не найден
+13.55.11.41:80 - Заголовок не найден
+47.98.239.140:80 - Заголовок не найден
+80.211.128.97:80 - 404 Not Found
+20.190.108.88:80 - 404 Not Found
+135.148.98.242:80 - Custom Tibia Mmorpg
+54.36.188.122:80 - désolé mais ce domaine n'existe pas
+193.165.171.59:80 - Web Server's Default Page
+54.230.254.74:80 - Заголовок не найден
+104.16.83.187:80 - Direct IP access not allowed | Cloudflare
+190.166.99.114:80 - 
+127.42.107.58:80 - MyPublicWiFi-FileSharing
+130.91.136.167:80 - Apache2 Ubuntu Default Page: It works
+127.148.192.114:80 - MyPublicWiFi-FileSharing
+125.60.95.99:80 - Заголовок не найден
+104.79.244.142:80 - Заголовок не найден
+43.203.175.203:80 - Welcome to nginx!
+127.199.155.91:80 - MyPublicWiFi-FileSharing
+127.44.237.41:80 - MyPublicWiFi-FileSharing
+20.61.2.211:80 - ShipMR
+18.244.59.125:80 - Заголовок не найден
+139.64.165.15:80 - Welcome to nginx!
+34.239.193.165:80 - Liqi TAAS Manager
+23.200.244.115:80 - Заголовок не найден
+3.5.151.143:80 - Amazon S3 - Cloud Object Storage  - AWS
+154.64.55.185:80 - 403 Forbidden
+127.46.140.13:80 - MyPublicWiFi-FileSharing
+184.30.204.36:80 - Заголовок не найден
+152.0.92.53:80 - 
+23.20.151.178:80 - Alila | Luxury Hotels, Resorts &amp; Adventure Vacations
+75.75.224.149:80 - Заголовок не найден
+84.9.76.58:80 - .::Welcome to the Web-Based Configurator::.
+78.46.22.101:80 - Заголовок не найден
+191.235.238.44:80 - SAP Commerce Cloud - Forbidden
+127.193.231.48:80 - MyPublicWiFi-FileSharing
+195.62.33.47:80 - Welcome to XAMPP
+52.85.66.99:80 - Заголовок не найден
+213.68.0.186:80 - Dehner-SCM Webportal
+44.228.186.83:80 - Заголовок не найден
+109.170.207.237:80 - index
+127.179.185.53:80 - MyPublicWiFi-FileSharing
+104.233.138.130:80 - Заголовок не найден
+18.238.88.166:80 - Заголовок не найден
+176.117.75.36:80 - Dorozhnelizhechko - Łóżeczko turystyczne
+148.0.88.123:80 - 
+162.120.94.50:80 - Direct IP access not allowed | Cloudflare
+85.57.139.83:80 - Document Moved
+127.247.93.92:80 - MyPublicWiFi-FileSharing
+3.226.207.148:80 - Заголовок не найден
+106.39.170.90:80 - Заголовок не найден
+23.43.179.209:80 - Заголовок не найден
+78.84.135.60:80 - 
+127.95.241.5:80 - MyPublicWiFi-FileSharing
+155.159.117.119:80 - 404 Not Found
+127.231.177.50:80 - MyPublicWiFi-FileSharing
+212.107.19.184:80 - 403 Forbidden
+80.147.51.20:80 - Default Site
+89.161.150.215:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+212.227.171.46:80 - Web Server's Default Page
+127.186.117.61:80 - MyPublicWiFi-FileSharing
+127.76.57.253:80 - MyPublicWiFi-FileSharing
+38.55.18.80:80 - 404 Not Found
+152.199.17.12:80 - 404 - Not Found
+154.223.124.130:80 - Заголовок не найден
+127.148.25.19:80 - MyPublicWiFi-FileSharing
+23.203.18.87:80 - Заголовок не найден
+14.241.172.228:80 - 
+23.12.212.162:80 - Заголовок не найден
+178.49.255.133:80 - 403 Forbidden
+13.225.112.191:80 - Заголовок не найден
+185.230.168.115:80 - 
+154.205.196.153:80 - 404 Not Found
+44.225.177.128:80 - 403 Forbidden
+104.199.109.122:80 - Apache2 Debian Default Page: It works
+127.163.240.157:80 - MyPublicWiFi-FileSharing
+114.32.116.173:80 - 
+127.24.189.187:80 - MyPublicWiFi-FileSharing
+127.57.244.73:80 - MyPublicWiFi-FileSharing
+132.148.233.245:80 - Coming Soon
+164.132.123.240:80 - Заголовок не найден
+38.15.139.222:80 - Заголовок не найден
+203.104.187.228:80 - Заголовок не найден
+85.215.229.153:80 - Default Site
+127.92.105.57:80 - MyPublicWiFi-FileSharing
+13.226.248.189:80 - Заголовок не найден
+212.152.226.250:80 - Заголовок не найден
+51.16.223.50:80 - Заголовок не найден
+127.243.44.25:80 - MyPublicWiFi-FileSharing
+127.135.199.245:80 - MyPublicWiFi-FileSharing
+127.95.149.164:80 - MyPublicWiFi-FileSharing
+127.193.154.252:80 - MyPublicWiFi-FileSharing
+127.243.129.188:80 - MyPublicWiFi-FileSharing
+35.244.199.240:80 - Заголовок не найден
+127.62.246.45:80 - MyPublicWiFi-FileSharing
+37.252.123.111:80 - Welcome to nginx!
+127.152.209.121:80 - MyPublicWiFi-FileSharing
+62.221.254.29:80 - Заголовок не найден
+127.121.246.22:80 - MyPublicWiFi-FileSharing
+40.114.255.190:80 - 404 Not Found
+104.71.121.243:80 - Заголовок не найден
+18.244.11.79:80 - Заголовок не найден
+23.202.116.84:80 - Заголовок не найден
+201.167.64.105:80 - Apache HTTP Server Test Page powered by CentOS
+13.226.171.68:80 - Заголовок не найден
+211.149.161.199:80 - å¾æ±æ­ï¼ä¸è½ç´æ¥ä½¿ç¨IPè®¿é®ç½ç«
+18.183.170.30:80 - データベースエラー
+160.202.93.199:80 - Заголовок не найден
+127.73.243.148:80 - MyPublicWiFi-FileSharing
+3.160.45.208:80 - Заголовок не найден
+80.245.152.190:80 - 403 Forbidden
+49.12.98.103:80 - Login – Nextcloud
+23.197.45.253:80 - Заголовок не найден
+170.155.9.172:80 - 403 Forbidden
+127.45.230.40:80 - MyPublicWiFi-FileSharing
+136.226.243.22:80 - Internet Security by Zscaler
+209.159.147.202:80 - Webb Computer Repair
+127.77.15.233:80 - MyPublicWiFi-FileSharing
+185.25.21.10:80 - Заголовок не найден
+127.67.146.181:80 - MyPublicWiFi-FileSharing
+181.164.97.9:80 - WEB SERVICE
+127.69.105.240:80 - MyPublicWiFi-FileSharing
+193.47.236.138:80 - ERROR: The requested URL could not be retrieved
+13.224.81.12:80 - Заголовок не найден
+127.212.61.58:80 - MyPublicWiFi-FileSharing
+43.201.232.145:80 - Заголовок не найден
+118.45.125.120:80 - 403 Forbidden
+127.54.218.131:80 - MyPublicWiFi-FileSharing
+127.247.195.141:80 - MyPublicWiFi-FileSharing
+127.207.226.40:80 - MyPublicWiFi-FileSharing
+154.29.77.250:80 - Заголовок не найден
+185.140.45.131:80 - Apache2 Debian Default Page: It works
+13.39.200.157:80 - 503 Service Temporarily Unavailable
+47.96.14.127:80 - ç½ç«è®¿é®æ¥é
+51.77.195.45:80 - Ascenso a Cabo Primero
+108.157.174.86:80 - Заголовок не найден
+127.155.110.25:80 - MyPublicWiFi-FileSharing
+35.160.232.93:80 - 404 Not Found
+202.194.5.158:80 - 404 Not Found
+104.75.108.129:80 - Заголовок не найден
+149.56.133.182:80 - Заголовок не найден
+193.149.180.203:80 - Welcome to nginx!
+4.228.208.114:80 - Apache2 Ubuntu Default Page: It works
+127.161.250.122:80 - MyPublicWiFi-FileSharing
+127.27.70.206:80 - MyPublicWiFi-FileSharing
+23.198.243.170:80 - Заголовок не найден
+23.193.169.148:80 - Заголовок не найден
+152.0.6.186:80 - 
+96.17.59.183:80 - Заголовок не найден
+84.96.185.196:80 - Заголовок не найден
+127.7.122.245:80 - MyPublicWiFi-FileSharing
+127.206.130.24:80 - MyPublicWiFi-FileSharing
+23.48.15.20:80 - Заголовок не найден
+38.174.235.132:80 - Welcome to nginx!
+127.76.129.83:80 - MyPublicWiFi-FileSharing
+94.29.241.238:80 - Technicolor Gateway - Login
+127.204.193.255:80 - MyPublicWiFi-FileSharing
+18.239.56.67:80 - Заголовок не найден
+146.160.206.171:80 - WV-X6511 Network Camera
+127.29.50.251:80 - MyPublicWiFi-FileSharing
+127.91.73.40:80 - MyPublicWiFi-FileSharing
+123.57.144.71:80 - 404 Not Found
+3.133.19.30:80 - USDA Solutions - USDA Solutions
+180.177.242.133:80 - 401 Unauthorized
+23.92.31.190:80 - 404 Not Found
+127.144.235.76:80 - MyPublicWiFi-FileSharing
+191.6.199.31:80 - Site Hospedado na KingHost | Data Center no Brasil
+127.245.162.76:80 - MyPublicWiFi-FileSharing
+127.250.85.243:80 - MyPublicWiFi-FileSharing
+104.85.225.200:80 - Заголовок не найден
+3.137.125.72:80 - MEAN packaged by Bitnami
+52.85.174.104:80 - Заголовок не найден
+127.29.171.113:80 - MyPublicWiFi-FileSharing
+43.201.242.200:80 - StudioDrox Admin
+200.66.12.44:80 - Error 404 (Not Found)!!1
+127.111.160.226:80 - MyPublicWiFi-FileSharing
+211.230.77.110:80 - Заголовок не найден
+213.176.77.91:80 - Заголовок не найден
+127.106.78.171:80 - MyPublicWiFi-FileSharing
+18.66.205.84:80 - Заголовок не найден
+108.156.252.87:80 - Заголовок не найден
+127.183.204.197:80 - MyPublicWiFi-FileSharing
+47.224.25.202:80 - 
+127.141.184.97:80 - MyPublicWiFi-FileSharing
+96.7.69.22:80 - UNKNOWN
+160.19.54.125:80 - 
+186.7.199.213:80 - 
+127.51.15.178:80 - MyPublicWiFi-FileSharing
+127.135.20.135:80 - MyPublicWiFi-FileSharing
+127.187.39.214:80 - MyPublicWiFi-FileSharing
+127.102.88.90:80 - MyPublicWiFi-FileSharing
+46.18.228.149:80 - Заголовок не найден
+127.122.10.188:80 - MyPublicWiFi-FileSharing
+89.117.117.237:80 - 403 Forbidden
+127.230.27.66:80 - MyPublicWiFi-FileSharing
+4.153.44.197:80 - Заголовок не найден
+50.3.118.72:80 - 403 Forbidden
+38.84.187.198:80 - IIS Windows Server
+116.12.52.76:80 - 403 - Forbidden: Access is denied.
+116.62.29.209:80 - Заголовок не найден
+212.68.172.66:80 - Index of /
+127.190.238.199:80 - MyPublicWiFi-FileSharing
+127.253.237.33:80 - MyPublicWiFi-FileSharing
+154.203.60.109:80 - Заголовок не найден
+211.206.143.197:80 - Intelligent Digital Security System
+184.84.146.7:80 - Заголовок не найден
+14.56.181.59:80 - main page
+50.116.87.184:80 - Not Acceptable!
+64.119.30.132:80 - RouterOS router configuration page
+127.104.231.224:80 - MyPublicWiFi-FileSharing
+67.184.250.7:80 - Web Client
+164.90.212.72:80 - Welcome to nginx!
+127.248.172.43:80 - MyPublicWiFi-FileSharing
+34.95.87.150:80 - Заголовок не найден
+127.85.146.232:80 - MyPublicWiFi-FileSharing
+20.103.46.198:80 - 404 Not Found
+127.247.66.176:80 - MyPublicWiFi-FileSharing
+124.223.94.66:80 - Welcome to nginx!
+186.62.88.18:80 - Заголовок не найден
+127.216.145.253:80 - MyPublicWiFi-FileSharing
+127.47.53.182:80 - MyPublicWiFi-FileSharing
+150.238.56.162:80 - Заголовок не найден
+75.102.23.238:80 - 404 Not Found
+23.209.46.133:80 - Заголовок не найден
+104.248.47.80:80 - Welcome to nginx!
+108.158.20.211:80 - Заголовок не найден
+222.116.71.100:80 - Заголовок не найден
+5.188.196.243:80 - Экспертэто
+36.239.223.34:80 - 
+104.124.105.17:80 - Заголовок не найден
+38.173.80.123:80 - Заголовок не найден
+200.97.85.76:80 - Error 404 (Not Found)!!1
+87.59.86.74:80 - 
+41.78.23.95:80 - Заголовок не найден
+190.196.166.178:80 - Заголовок не найден
+18.165.193.145:80 - Заголовок не найден
+194.116.228.127:80 - 403 - Forbidden: Access is denied.
+202.3.253.34:80 - ACME Access Only
+94.130.206.88:80 - Google
+47.99.133.132:80 - 登录销大侠消息服务器系统
+206.253.163.19:80 - Заголовок не найден
+20.18.254.62:80 - Your Azure Function App is up and running.
+134.209.168.218:80 - Заголовок не найден
+164.92.198.26:80 - Заголовок не найден
+154.64.127.56:80 - 404 Not Found
+23.48.83.241:80 - Заголовок не найден
+87.247.233.83:80 - NethServer Enterprise
+3.138.83.202:80 - 403 Forbidden
+115.124.77.139:80 - Plaza Toyota Tools Applications
+154.203.61.13:80 - Заголовок не найден
+49.12.214.66:80 - 404 Not Found
+124.11.64.59:80 - 
+128.199.177.172:80 - Bibliothèque
+109.109.251.85:80 - Apache2 Debian Default Page: It works
+202.88.147.42:80 - Заголовок не найден
+125.241.180.57:80 - NVR
+118.233.47.72:80 - 401 Unauthorized
+146.56.54.251:80 - Nextcloud
+52.169.3.247:80 - IIS Windows Server
+160.124.52.6:80 - 403 Forbidden
+54.93.138.236:80 - 403 Forbidden
+147.8.2.207:80 - Заголовок не найден
+193.201.115.203:80 - Vite App
+106.15.178.161:80 - 404 Not Found
+104.68.99.195:80 - Заголовок не найден
+104.18.74.226:80 - Direct IP access not allowed | Cloudflare
+13.56.222.226:80 - 404 Not Found
+23.203.213.9:80 - Заголовок не найден
+4.249.128.153:80 - Your Azure Function App is up and running.
+2.20.52.4:80 - Заголовок не найден
+120.104.224.113:80 - Заголовок не найден
+5.11.223.182:80 - Заголовок не найден
+80.188.81.228:80 - Elmo B2BShop
+60.204.184.84:80 - 404 Not Found
+154.82.34.19:80 - Заголовок не найден
+110.77.191.155:80 - &#72;&#56;&#49;&#48;&#50;&#69;
+212.92.234.116:80 - RouterOS router configuration page
+95.216.166.160:80 - Sign in · GitLab
+121.186.66.233:80 - Plant Environment Control System
+165.227.37.104:80 - Заголовок не найден
+106.54.232.170:80 - Vite + Vue
+3.127.183.125:80 - Заголовок не найден
+144.76.151.103:80 - Apache2 Ubuntu Default Page: It works
+2.20.228.236:80 - Заголовок не найден
+172.82.169.233:80 - 404 Not Found
+23.36.103.193:80 - Заголовок не найден
+47.242.122.211:80 - 503 Service Temporarily Unavailable
+178.154.195.61:80 - Заголовок не найден
+104.159.0.54:80 - 
+66.165.237.202:80 - Home
+108.138.27.193:80 - Заголовок не найден
+45.60.64.246:80 - Заголовок не найден
+51.254.50.254:80 - 403 Forbidden
+184.50.144.166:80 - Заголовок не найден
+5.101.118.24:80 - Заголовок не найден
+18.219.242.59:80 - Microsoft Power BI
+54.156.231.105:80 - Trivia Hawk
+20.38.102.81:80 - Заголовок не найден
+52.83.103.67:80 - Заголовок не найден
+44.240.252.1:80 - Заголовок не найден
+37.1.206.94:80 - derkanizer.site &mdash; Coming Soon
+173.231.244.246:80 - Заголовок не найден
+172.161.107.32:80 - Заголовок не найден
+4.154.26.164:80 - 404 Not Found
+184.25.64.143:80 - Заголовок не найден
+23.217.101.16:80 - Заголовок не найден
+107.163.216.22:80 - 404 Not Found
+23.58.21.29:80 - Заголовок не найден
+82.150.209.219:80 - Заголовок не найден
+188.175.88.139:80 - 
+87.228.190.73:80 - 
+50.125.224.107:80 - Заголовок не найден
+23.108.86.123:80 - 407 Proxy Authentication Required
+85.69.26.88:80 - 
+23.47.105.22:80 - Заголовок не найден
+195.230.102.77:80 - Заголовок не найден
+104.17.54.220:80 - Direct IP access not allowed | Cloudflare
+121.196.58.73:80 - 电梯安全监管服务平台
+184.87.172.8:80 - Заголовок не найден
+108.53.250.107:80 - index
+156.240.1.23:80 - 500 Internal Server Error
+52.20.87.93:80 - Заголовок не найден
+92.65.242.1:80 - Document Moved
+52.26.22.117:80 - Заголовок не найден
+34.251.99.235:80 - 503 Service Temporarily Unavailable
+169.62.221.174:80 - IsvWebapp
+185.243.184.84:80 - Заголовок не найден
+23.56.200.151:80 - Заголовок не найден
+194.75.78.132:80 - Заголовок не найден
+108.138.181.160:80 - Заголовок не найден
+23.1.190.133:80 - Заголовок не найден
+167.71.115.119:80 - Заголовок не найден
+52.222.230.221:80 - Заголовок не найден
+82.170.181.239:80 - 
+61.170.44.46:80 - Заголовок не найден
+210.119.238.87:80 - Заголовок не найден
+81.192.28.18:80 - Заголовок не найден
+92.123.112.35:80 - Заголовок не найден
+185.87.195.12:80 - Ð¥Ð¾ÑÑÐ¸Ð½Ð³ VPS VDS Ð°ÑÐµÐ½Ð´Ð° ÑÐµÑÐ²ÐµÑÐ° | ÐÐ½ÑÐµÑÐ½ÐµÑ Ð¥Ð¾ÑÑÐ¸Ð½Ð³ Ð¦ÐµÐ½ÑÑ
+168.76.189.244:80 - 404 Not Found
+47.110.139.24:80 - æ²¡ææ¾å°ç«ç¹
+199.232.85.96:80 - Fastly error: unknown domain 199.232.85.96
+192.186.16.187:80 - èç°çååå
+38.170.78.144:80 - ERROR: The requested URL could not be retrieved
+220.141.101.91:80 - Login
+23.205.106.140:80 - Заголовок не найден
+18.231.76.86:80 - Заголовок не найден
+142.251.133.164:80 - Google
+18.64.231.122:80 - Заголовок не найден
+23.62.197.17:80 - Заголовок не найден
+23.199.55.9:80 - Заголовок не найден
+52.40.45.73:80 - IIS Windows Server
+154.91.239.53:80 - Welcome to nginx!
+146.190.120.140:80 - Welcome to nginx!
+34.225.54.203:80 - OG
+34.155.96.101:80 - Заголовок не найден
+46.38.168.58:80 - Заголовок не найден
+95.100.27.199:80 - Заголовок не найден
+78.46.6.198:80 - konsoleH :: Login
+54.237.148.183:80 - 503 Service Temporarily Unavailable
+103.153.102.141:80 - 403 - Forbidden: Access is denied.
+136.143.243.62:80 - 404 Not Found
+102.129.194.13:80 - Apache2 Debian Default Page: It works
+154.205.199.111:80 - 足球赛事预测乐动体育|足球项目乐动体育
+3.6.49.221:80 - 404 Not Found
