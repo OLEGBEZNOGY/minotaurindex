@@ -523,3 +523,18 @@
 185.159.129.81:80 - Coming Soon - e009.com
 104.104.8.179:80 - Заголовок не найден
 49.44.150.148:80 - Заголовок не найден
+104.17.86.209:80 - Direct IP access not allowed | Cloudflare
+2.134.164.58:80 - GPON Home Gateway
+185.233.36.45:80 - Welcome to nginx!
+82.165.19.235:80 - IIS Windows Server
+140.99.209.210:80 - Apache2 Ubuntu Default Page: It works
+23.48.114.24:80 - Заголовок не найден
+61.111.38.11:80 - 404 Not Found
+13.249.35.30:80 - Заголовок не найден
+136.144.209.5:80 - Web Server's Default Page
+34.194.247.80:80 - Заголовок не найден
+50.184.122.86:80 - 
+188.40.155.200:80 - PaperLaunch - Coming Soon Template
+74.114.163.46:80 - IIS Windows Server
+77.94.104.226:80 - 
+23.211.68.9:80 - Заголовок не найден
