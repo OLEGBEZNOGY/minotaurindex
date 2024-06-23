@@ -4146,3 +4146,37 @@
 104.19.148.223:80 - Direct IP access not allowed | Cloudflare
 13.32.16.253:80 - Заголовок не найден
 38.51.127.118:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+170.84.204.104:80 - 
+112.86.241.22:80 - Заголовок не найден
+78.129.55.129:80 - Apache2 Debian Default Page: It works
+138.2.124.77:80 - Welcome to nginx!
+152.115.165.248:80 - 
+211.149.232.207:80 - å¾æ±æ­ï¼ä¸è½ç´æ¥ä½¿ç¨IPè®¿é®ç½ç«
+104.74.59.22:80 - Заголовок не найден
+185.46.223.228:80 - Apache2 Ubuntu Default Page: It works
+3.160.208.175:80 - Заголовок не найден
+91.206.228.240:80 - FXSA - Сообщество трейдеров
+188.128.141.117:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+108.141.150.149:80 - Your Azure Function App is up and running.
+110.173.179.133:80 - IIS Windows Server
+107.173.145.184:80 - Notes
+104.20.201.23:80 - Direct IP access not allowed | Cloudflare
+143.244.91.189:80 - Trust &amp; Safety Policies
+111.62.99.28:80 - Заголовок не найден
+104.236.194.12:80 - Заголовок не найден
+111.10.61.121:80 - 403 Forbidden
+187.49.6.16:80 - Заголовок не найден
+39.105.126.80:80 - 502 Bad Gateway
+83.169.21.63:80 - Web Server's Default Page
+195.176.28.131:80 - 403 Forbidden
+23.2.55.14:80 - Заголовок не найден
+77.37.51.170:80 - Заголовок не найден
+68.183.145.79:80 - Заголовок не найден
+104.221.27.64:80 - Заголовок не найден
+104.131.187.196:80 - SPAR INFOSYS ATS - Login
+208.87.135.189:80 - Заголовок не найден
+62.72.37.178:80 - 403 Forbidden
+1.51.230.82:80 - 404 Not Found
+45.122.133.246:80 - 404 Not Found
+52.214.236.78:80 - Заголовок не найден
+52.216.179.173:80 - Amazon S3 - Cloud Object Storage  - AWS
