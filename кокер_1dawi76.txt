@@ -2275,3 +2275,186 @@
 87.98.167.108:80 - Заголовок не найден
 185.235.224.57:80 - Apache HTTP Server Test Page powered by CentOS
 147.182.239.6:80 - this is a mail-in-a-box
+34.32.16.62:80 - Заголовок не найден
+52.230.52.63:80 - Your Azure Function App is up and running.
+104.78.164.101:80 - Заголовок не найден
+217.235.184.207:80 - Заголовок не найден
+65.49.199.150:80 - Welcome to nginx!
+146.148.222.28:80 - IIS7
+104.92.145.217:80 - Заголовок не найден
+18.203.92.54:80 - Error
+54.163.86.222:80 - Заголовок не найден
+68.183.207.217:80 - Заголовок не найден
+138.201.212.93:80 - Заголовок не найден
+23.56.224.32:80 - Заголовок не найден
+47.94.243.36:80 - é£è¡å
+72.142.184.100:80 - Заголовок не найден
+180.201.1.195:80 - 404 Not Found
+131.188.220.234:80 - Sign in · GitLab
+18.238.26.107:80 - Заголовок не найден
+23.1.170.250:80 - Заголовок не найден
+16.171.54.87:80 - Заголовок не найден
+140.248.132.163:80 - Fastly error: unknown domain 140.248.132.163
+74.142.48.5:80 - Login
+2.22.176.251:80 - Заголовок не найден
+148.69.162.171:80 - IIS Windows Server
+64.131.84.172:80 - Заголовок не найден
+184.26.25.54:80 - Заголовок не найден
+91.212.223.78:80 - Заголовок не найден
+108.156.12.245:80 - Заголовок не найден
+54.251.236.109:80 - The stream or file &quot;/var/www/html/app-api/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/app-api/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/app-api/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/app-api/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/app-api/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/app-api/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/app-api/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/app-api/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/app-api/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/app-api/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/app-api/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: file_put_contents(/var/www/html/app-api/storage/framework/sessions/9xn1Db47Xl61NSY5wNJquhi3sBp5yx2LLxgsjFOS): Failed to open stream: Permission denied
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+185.231.221.136:80 - Заголовок не найден
+88.216.141.48:80 - Заголовок не найден
+3.164.138.101:80 - Заголовок не найден
+184.87.245.51:80 - Заголовок не найден
+110.34.166.137:80 - Заголовок не найден
+3.66.186.225:80 - Home -
+195.35.12.102:80 - 403 Forbidden
+211.230.117.221:80 - Virtual Control Panel
+13.35.122.188:80 - Заголовок не найден
+84.228.242.235:80 - Заголовок не найден
+13.32.55.59:80 - Заголовок не найден
+184.26.202.23:80 - Заголовок не найден
+190.92.141.159:80 - Заголовок не найден
+71.167.179.122:80 - Document Moved
+192.156.110.92:80 - Заголовок не найден
+211.62.105.179:80 - IIS Windows Server
+14.192.5.4:80 - 404 Not Found
+3.162.231.252:80 - Заголовок не найден
+54.153.212.19:80 - Заголовок не найден
+23.196.242.47:80 - Заголовок не найден
+18.230.101.62:80 - 403 Forbidden
+82.64.35.239:80 - ED3L and Techno-Innov default page
+24.245.215.65:80 - Заголовок не найден
+38.31.226.134:80 - 404 Not Found
+158.220.118.228:80 - Welcome | PRTG Network Monitor (VMI1528654)
+23.199.176.34:80 - Заголовок не найден
+51.75.203.3:80 - Casa galineta
+35.240.25.146:80 - Bric à Vrac - Solution de vrac automatique et connectée
+23.6.206.173:80 - Заголовок не найден
+220.75.88.226:80 - 
+18.161.90.92:80 - Заголовок не найден
+70.32.22.110:80 - Заголовок не найден
+123.0.246.84:80 - 
+92.123.106.178:80 - Заголовок не найден
+2.18.74.99:80 - Заголовок не найден
+61.221.12.106:80 - Заголовок не найден
+104.102.100.218:80 - Заголовок не найден
+154.91.64.234:80 - 404 Not Found
+172.83.72.165:80 - Direct IP access not allowed | Cloudflare
+43.175.135.35:80 - Заголовок не найден
+59.120.60.147:80 - DVR Components Download
+23.37.10.200:80 - Заголовок не найден
+34.149.37.129:80 - 403
+3.24.99.11:80 - 403 Forbidden
+154.64.239.96:80 - imeizi.me
+168.206.224.55:80 - æ²¡ææ¾å°ç«ç¹
+181.232.248.121:80 - P20
+54.198.13.108:80 - 403 Forbidden
+87.118.72.246:80 - Заголовок не найден
+78.47.47.41:80 - konsoleH :: Login
+91.241.202.154:80 - 403 Forbidden
+54.192.213.212:80 - Заголовок не найден
+2.22.139.126:80 - Заголовок не найден
+18.64.37.145:80 - Заголовок не найден
+107.154.107.197:80 - Заголовок не найден
+74.121.221.135:80 - Заголовок не найден
+194.164.174.12:80 - Web Server's Default Page
+31.0.104.96:80 - Teltonika Networks
+85.202.202.90:80 - Заголовок не найден
+185.16.44.177:80 - 403 Forbidden
+20.101.220.109:80 - Your Azure Function App is up and running.
+159.69.43.120:80 - Oeps, onjuiste doorverwijzing | Epartment
+18.143.187.152:80 - æ²¡ææ¾å°ç«ç¹
+210.72.95.54:80 - umami
+13.227.33.27:80 - Заголовок не найден
+72.247.176.22:80 - Заголовок не найден
+2.23.102.115:80 - Заголовок не найден
+104.17.244.159:80 - Direct IP access not allowed | Cloudflare
+82.165.249.169:80 - A VOUS LE DIRECT
+158.199.146.209:80 - Заголовок не найден
+195.3.245.106:80 - Главная - АНО «ДИАС ГП» | Республика Крым и г. Севастополь
+23.47.239.79:80 - Заголовок не найден
+142.11.242.15:80 - Заголовок не найден
+209.204.155.228:80 - electroelf Outdoor Lighting - light fixtures
+18.134.100.164:80 - Apache2 Ubuntu Default Page: It works
+218.66.216.241:80 - aTrust 2.0
+172.64.145.107:80 - Direct IP access not allowed | Cloudflare
+47.99.110.100:80 - Apache HTTP Server Test Page powered by CentOS
+23.198.227.80:80 - Заголовок не найден
+112.94.72.245:80 - 国研网数据库-镜像版
+38.154.35.159:80 - Заголовок не найден
+104.107.224.17:80 - Заголовок не найден
+172.64.207.51:80 - Direct IP access not allowed | Cloudflare
+18.219.116.64:80 - Test Page for the Apache HTTP Server on the Amazon Linux AMI
+51.138.180.127:80 - Заголовок не найден
+112.49.31.39:80 - Заголовок не найден
+118.178.90.106:80 - Заголовок не найден
+159.89.98.69:80 - Laravel
+76.223.75.186:80 - 403 Forbidden
+91.66.91.112:80 - Login
+18.67.80.101:80 - Заголовок не найден
+50.56.150.43:80 - Coming Soon page
+59.26.252.131:80 - WEB SERVICE
+80.250.82.187:80 - Заголовок не найден
+47.110.145.164:80 - 服务无忧
+77.55.95.206:80 - Domain  is hosted on netart.com servers
+101.76.204.87:80 - 404 Not Found
+204.44.123.59:80 - 404 Not Found
+108.138.187.205:80 - Заголовок не найден
+70.34.246.220:80 - PHU PATER
+188.166.115.122:80 - Заголовок не найден
+94.45.83.98:80 - Заголовок не найден
+3.113.114.36:80 - Заголовок не найден
+138.197.58.247:80 - Apache2 Ubuntu Default Page: It works
+23.9.167.23:80 - Заголовок не найден
+2.136.127.213:80 - Web Server | CrossChex | Anviz
+190.99.231.161:80 - welcome
+23.216.180.145:80 - Заголовок не найден
+75.86.58.196:80 - 
+209.104.124.215:80 - 403 Forbidden
+18.66.20.99:80 - Заголовок не найден
+52.92.200.232:80 - Amazon S3 - Cloud Object Storage  - AWS
+171.227.190.68:80 - 
+13.90.129.102:80 - Login
+173.173.34.83:80 - 
+23.231.88.185:80 - 403 Forbidden
+149.143.42.16:80 - 
+206.238.184.27:80 - 404 Not Found
+159.69.40.169:80 - Welcome!
+45.76.99.177:80 - Заголовок не найден
+179.52.102.85:80 - 
+23.47.85.150:80 - Заголовок не найден
+216.234.173.63:80 - Заголовок не найден
+185.68.109.174:80 - Web Server's Default Page
+45.192.250.51:80 - 403 Forbidden
+152.67.56.23:80 - Welcome to nginx!
+168.235.88.142:80 - Not Found
+178.212.195.28:80 - 
+20.220.143.62:80 - Your Azure Function App is up and running.
+38.56.228.7:80 - 
+174.29.130.239:80 - Hello! Welcome to Synology Web Station!
+91.121.196.127:80 - 404 Not Found
+36.156.77.113:80 - 403 Forbidden
