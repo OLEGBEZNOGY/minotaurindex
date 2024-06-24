@@ -1398,3 +1398,10 @@
 156.239.230.71:80 - Welcome to nginx!
 157.205.183.47:80 - 403 Forbidden
 27.2.121.133:80 - Заголовок не найден
+178.222.102.168:80 - 
+52.217.192.152:80 - Amazon S3 - Cloud Object Storage  - AWS
+192.190.207.168:80 - ePMP
+129.70.40.12:80 - Einführung in das Kompetenzlogbuch &#8211; Kompetenzlogbuch
+213.230.97.174:80 - Test Page for the Nginx HTTP Server on Oracle Linux
+89.213.211.238:80 - Заголовок не найден
+88.198.228.75:80 - THE FLAG
