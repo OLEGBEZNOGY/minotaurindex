@@ -6262,3 +6262,6 @@
 109.168.100.244:80 - Domain Default page
 114.34.30.231:80 - 
 181.26.191.113:80 - Заголовок не найден
+194.163.134.17:80 - Silviu Ifrim - Software engineer
+179.52.131.15:80 - 
+52.89.225.82:80 - 403 - Forbidden: Access is denied.
