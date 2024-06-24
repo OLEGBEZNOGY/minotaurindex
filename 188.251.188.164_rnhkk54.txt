@@ -840,3 +840,10 @@
 77.237.82.140:80 - hsu &#8211; hakim sabzevari university
 107.175.73.194:80 - 
 1.178.38.213:80 - Admin Dashboard
+150.158.225.108:80 - 404 Not Found
+60.242.84.102:80 - Vigor Login Page
+109.71.72.196:80 - maxcluster - Optimized E-Commerce Hosting
+114.214.164.238:80 - OpenWrt - LuCI
+186.6.106.34:80 - 
+192.163.230.132:80 - Kosmos Admin Panel
+79.96.190.241:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
