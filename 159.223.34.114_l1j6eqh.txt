@@ -2031,3 +2031,21 @@
 154.212.201.137:80 - 404 Not Found
 38.170.148.93:80 - ERROR: The requested URL could not be retrieved
 95.129.121.36:80 - Apache2 Ubuntu Default Page: It works
+18.239.130.213:80 - Заголовок не найден
+67.55.124.46:80 - MJJT Consultants Domain Parking - 212 868 0688
+3.132.202.9:80 - POS Web Application
+147.91.205.13:80 - WEB SERVICE
+186.249.18.205:80 - Error 404 (Not Found)!!1
+104.18.240.248:80 - Direct IP access not allowed | Cloudflare
+76.182.183.18:80 - 
+85.128.165.233:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+3.250.255.251:80 - Заголовок не найден
+47.129.35.224:80 - IIS Windows Server
+20.114.111.132:80 - Your Azure Function App is up and running.
+78.47.28.181:80 - Start - Janine Ulrich
+181.57.213.91:80 - 
+103.52.247.76:80 - Please wait, the login page is opening...
+211.87.217.157:80 - 404 Not Found
+18.64.168.239:80 - Заголовок не найден
+202.218.166.34:80 - Заголовок не найден
+104.120.87.234:80 - Заголовок не найден
