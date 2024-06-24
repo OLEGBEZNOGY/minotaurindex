@@ -1637,3 +1637,22 @@
 34.95.125.131:80 - Заголовок не найден
 161.49.34.218:80 - Заголовок не найден
 14.201.90.74:80 - ACME Access Only
+118.41.80.183:80 - WEB SERVICE
+103.85.252.237:80 - 请使用域名访问
+47.105.34.39:80 - Заголовок не найден
+75.103.162.199:80 - Netgear Prosafe Plus Switch
+154.215.93.25:80 - 404 Not Found
+154.197.180.126:80 - Заголовок не найден
+216.119.198.165:80 - Заголовок не найден
+35.183.190.111:80 - Bear Shares
+104.17.82.115:80 - Direct IP access not allowed | Cloudflare
+186.130.20.35:80 - Заголовок не найден
+13.251.43.155:80 - SPED Staff Management System - User Login
+13.38.87.45:80 - Cicloclubimbriani.it &#8211; Notizie
+87.229.102.111:80 - 403 Forbidden
+154.89.79.213:80 - 404 Not Found
+104.221.136.15:80 - 404 Not Found
+132.247.180.80:80 - Archivo Desobediente MUCH: Home
+104.17.155.237:80 - Direct IP access not allowed | Cloudflare
+143.204.67.115:80 - Заголовок не найден
+104.140.147.241:80 - 403 Forbidden
