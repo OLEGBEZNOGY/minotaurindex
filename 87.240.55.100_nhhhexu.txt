@@ -7331,3 +7331,5 @@ server 3
 90.199.122.122:80 - Intelligent Digital Security System
 38.54.143.6:80 - 500 Internal Server Error
 97.64.57.172:80 - Заголовок не найден
+13.200.144.117:80 - 404 Not Found
+23.46.167.248:80 - Заголовок не найден
