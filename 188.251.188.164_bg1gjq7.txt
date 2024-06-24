@@ -12378,3 +12378,11 @@ HCTV-B2000-4
 104.71.146.55:80 - Заголовок не найден
 23.50.196.69:80 - Заголовок не найден
 111.10.44.95:80 - Заголовок не найден
+88.100.27.216:80 - WEB SERVICE
+104.99.191.10:80 - Заголовок не найден
+20.103.179.72:80 - Your Azure Function App is up and running.
+213.182.213.51:80 - Notes
+52.24.13.44:80 - CURIOPlayer Connectivity Tool
+88.86.214.243:80 - Login
+104.18.246.202:80 - Direct IP access not allowed | Cloudflare
+203.60.14.163:80 - 404 Not Found
