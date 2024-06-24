@@ -1922,3 +1922,21 @@
 104.18.184.157:80 - Direct IP access not allowed | Cloudflare
 95.101.193.79:80 - Заголовок не найден
 102.134.62.125:80 - 403 Forbidden
+13.125.152.79:80 - Elastic Beanstalk
+141.95.159.130:80 - Welcome to nginx!
+3.125.72.20:80 - 503 Service Temporarily Unavailable
+120.79.255.106:80 - 404 Not Found
+51.83.255.211:80 - Заголовок не найден
+3.107.50.88:80 - Server Error
+38.33.43.156:80 - 404 Not Found
+23.216.219.213:80 - Заголовок не найден
+52.4.21.252:80 - Product Unavailable
+160.121.177.243:80 - 404 Not Found
+23.1.171.227:80 - Заголовок не найден
+67.215.6.59:80 - 403 Forbidden
+128.199.112.89:80 - OMRZAP Login
+104.18.161.20:80 - Direct IP access not allowed | Cloudflare
+206.233.181.33:80 - 403 Forbidden
+172.64.168.25:80 - Direct IP access not allowed | Cloudflare
+172.64.164.194:80 - Direct IP access not allowed | Cloudflare
+142.132.179.97:80 - 404 Not Found
