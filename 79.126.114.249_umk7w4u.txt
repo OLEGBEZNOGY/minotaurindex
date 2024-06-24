@@ -508,3 +508,32 @@
 124.152.102.147:80 - 403 Forbidden
 88.99.210.117:80 - Watu Auto GPS Server
 178.128.95.59:80 - Apache2 Ubuntu Default Page: It works
+104.140.125.156:80 - 404 Not Found
+14.48.14.112:80 - main page
+176.25.240.178:80 - 
+20.102.177.143:80 - 502 Bad Gateway
+23.49.23.126:80 - Заголовок не найден
+4.150.154.60:80 - Your Azure Function App is up and running.
+38.153.67.123:80 - ERROR: The requested URL could not be retrieved
+188.34.167.54:80 - Forretningskritisk udvikling af systemer samt webudvikling af jysk Webbureau
+95.100.222.246:80 - Заголовок не найден
+184.30.200.119:80 - Заголовок не найден
+184.26.147.107:80 - Заголовок не найден
+114.70.190.245:80 - L7
+191.96.134.239:80 - Apache2 Ubuntu Default Page: It works
+15.207.228.56:80 - Заголовок не найден
+155.94.246.9:80 - Notes
+70.33.247.66:80 - Заголовок не найден
+217.22.26.197:80 - Заголовок не найден
+23.208.251.177:80 - Заголовок не найден
+85.232.9.95:80 - VIS online 3.0 Versorger-Informations-System
+3.122.27.132:80 - Заголовок не найден
+154.85.61.214:80 - 请使用域名访问
+117.212.90.208:80 - TNZ-1G3F-XPON
+69.192.166.44:80 - Заголовок не найден
+207.7.137.45:80 - Mahoni88: Situs Judi Slot Gacor Casino Online Terpercaya
+84.209.60.251:80 - Termos Media
+54.230.77.33:80 - Заголовок не найден
+193.23.246.7:80 - Welcome to nginx!
+196.247.16.7:80 - 407 Proxy Authentication Required
+13.212.200.9:80 - 403 Forbidden
