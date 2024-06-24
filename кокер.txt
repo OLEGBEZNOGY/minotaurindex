@@ -1652,3 +1652,21 @@
 23.211.169.93:80 - Заголовок не найден
 213.152.198.47:80 - Заголовок не найден
 112.163.234.36:80 - Заголовок не найден
+139.9.42.37:80 - ç«ç¹åå»ºæå-phpstudy for windows
+104.210.76.83:80 - 503 Service Temporarily Unavailable
+128.130.95.153:80 - Apache2 Debian Default Page: It works
+34.68.17.243:80 - 404 Not Found
+45.141.157.205:80 - Заголовок не найден
+119.42.81.254:80 - &#72;&#56;&#49;&#48;&#50;&#69;
+52.66.64.212:80 - Real Estate Property Portal | Buy/Sell/Rent Property in Mumbai, Pune | IndexTap
+177.170.55.167:80 - Intelbras
+99.230.253.169:80 - Login
+63.195.205.149:80 - AT&T WiFi Portal
+89.161.147.43:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+213.153.170.21:80 - Заголовок не найден
+211.21.228.242:80 - WEB SERVICE
+2.20.203.197:80 - Заголовок не найден
+108.157.6.147:80 - Заголовок не найден
+219.106.251.66:80 - 403 Forbidden
+99.86.116.81:80 - Заголовок не найден
+16.170.168.4:80 - Election Presidentielle - 2024
