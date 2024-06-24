@@ -1269,3 +1269,27 @@
 52.193.195.45:80 - Заголовок не найден
 52.163.210.253:80 - Заголовок не найден
 54.230.48.80:80 - Заголовок не найден
+43.250.140.65:80 - Заголовок не найден
+104.19.99.182:80 - Direct IP access not allowed | Cloudflare
+216.250.120.78:80 - 403 Forbidden
+18.160.93.105:80 - Заголовок не найден
+129.146.71.60:80 - Default Site
+104.25.175.171:80 - Direct IP access not allowed | Cloudflare
+108.186.25.15:80 - 404 Not Found
+131.174.95.43:80 - Заголовок не найден
+52.168.65.232:80 - Energy ComplianceNet &#8211; Energy ComplianceNet
+174.83.241.157:80 - 
+104.18.96.158:80 - Direct IP access not allowed | Cloudflare
+203.34.80.88:80 - Direct IP access not allowed | Cloudflare
+186.60.6.126:80 - Заголовок не найден
+103.3.24.82:80 - test
+193.203.181.62:80 - 403 Forbidden
+104.19.185.228:80 - Direct IP access not allowed | Cloudflare
+152.0.211.140:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#54;&#55;&#65;&#32;&#86;&#49;&#46;&#48;
+207.192.143.196:80 - 
+34.120.93.105:80 - 502 - Project Shield Error
+165.140.241.106:80 - Apache2 Debian Default Page: It works
+8.138.29.244:80 - æ­åï¼ç½ççç«ç¹åå»ºæåï¼
+198.41.206.52:80 - Direct IP access not allowed | Cloudflare
+46.102.106.171:80 - 502 Bad Gateway
+203.13.22.6:80 - Заголовок не найден
