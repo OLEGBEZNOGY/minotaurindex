@@ -1720,3 +1720,35 @@
 38.59.3.215:80 - Заголовок не найден
 149.96.235.38:80 - 403 Forbidden
 38.6.122.150:80 - Заголовок не найден
+194.126.148.103:80 - Заголовок не найден
+118.195.159.237:80 - 404 Not Found
+67.20.128.83:80 - Error
+104.16.252.19:80 - Direct IP access not allowed | Cloudflare
+74.125.196.141:80 - Google
+90.133.118.148:80 - RouterOS router configuration page
+104.86.54.113:80 - Заголовок не найден
+8.135.100.119:80 - Apache Tomcat/7.0.108
+23.39.244.135:80 - Заголовок не найден
+104.93.20.232:80 - Заголовок не найден
+161.38.62.170:80 - Apache2 Debian Default Page: It works
+109.194.175.125:80 - ÐÐ "Ð¢ÐÐÐ"
+78.46.138.237:80 - Apache2 Debian Default Page: It works
+42.29.52.70:80 - Login to <!--#exec cmd="xmlp_web system\\common model"-->
+15.156.105.134:80 - 404 Not Found
+38.38.39.92:80 - 404 Not Found
+190.166.212.142:80 - 
+184.28.46.180:80 - Заголовок не найден
+23.33.160.7:80 - Заголовок не найден
+35.175.233.155:80 - Tenaga Nasional Berhad
+222.28.16.239:80 - 
+185.60.247.60:80 - Roundcube Webmail :: Welcome to Roundcube Webmail
+117.56.251.66:80 - WEB SERVICE
+172.235.62.167:80 - 404 Not Found
+37.17.229.136:80 - Froxlor
+184.95.33.13:80 - Заголовок не найден
+51.255.47.66:80 - Apache2 Debian Default Page: It works
+3.233.72.188:80 - 502 Bad Gateway
+114.32.194.94:80 - 
+38.12.127.48:80 - 404 Not Found
+185.143.5.243:80 - Just another WordPress site
+217.160.246.31:80 - 404 Not Found
