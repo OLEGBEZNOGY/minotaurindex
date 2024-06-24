@@ -1,0 +1,140 @@
+198.46.235.208:80 - IIS Windows Server
+3.110.153.234:80 - Qubit - Think like a Unicorn
+179.124.8.169:80 - Заголовок не найден
+211.245.239.54:80 - ICM Systems Enterprise
+146.190.252.105:80 - Website Unavailable
+154.64.36.27:80 - Заголовок не найден
+104.84.47.27:80 - Заголовок не найден
+23.79.58.4:80 - Заголовок не найден
+186.128.45.245:80 - Заголовок не найден
+23.13.149.205:80 - Заголовок не найден
+34.45.177.139:80 - Заголовок не найден
+154.41.192.3:80 - Ingress Default Backend - 404 Not Found
+172.67.148.245:80 - Direct IP access not allowed | Cloudflare
+104.27.93.116:80 - Direct IP access not allowed | Cloudflare
+172.245.59.179:80 - æ²¡ææ¾å°ç«ç¹
+91.4.186.100:80 - Hallo! Herzlich Willkommen bei Synology Web Station!
+104.24.174.12:80 - Direct IP access not allowed | Cloudflare
+146.158.21.109:80 - Akrom Xakmov - Java Developer
+54.198.58.125:80 - 503 Service Temporarily Unavailable
+104.99.11.190:80 - Заголовок не найден
+132.226.135.161:80 - 502 Bad Gateway
+192.177.177.52:80 - 403 Forbidden
+153.126.139.233:80 - 404 Not Found
+44.196.215.6:80 - Login / Sign up
+104.87.34.112:80 - Заголовок не найден
+52.199.194.162:80 - 403 Forbidden
+212.25.169.52:80 - 404 Not Found
+91.121.7.191:80 - Apache2 Debian Default Page: It works
+209.204.150.133:80 - Заголовок не найден
+162.213.249.24:80 - Rumah258 | merupakan situs judi selot gacor online terbaik & terpercaya di Indonesia saat ini karena sering sekali memberikan banyak keuntungan seperti jackpot maxwin hari ini disetiap permainan selot yang tersedia.
+52.84.138.64:80 - Заголовок не найден
+47.74.253.129:80 - Заголовок не найден
+151.106.118.93:80 - Account Suspended
+123.56.169.155:80 - ç½ç«è®¿é®æ¥é
+23.210.227.154:80 - Заголовок не найден
+200.118.236.220:80 - 400 Bad Request
+10.217.229.64:80 - MT-0021
+49.248.71.170:80 - 
+35.169.172.239:80 - Заголовок не найден
+27.101.217.173:80 - 한국유학종합시스템(스터디인코리아) Study in Korea|run by Korean Government
+178.124.209.222:80 - Заголовок не найден
+79.77.124.181:80 - Technicolor Gateway - Login
+144.76.91.183:80 - Test Page for the Nginx HTTP Server on Rocky Linux
+156.238.45.109:80 - 404 Not Found
+52.192.168.110:80 - アコーディアWeb
+94.130.51.220:80 - IIS Windows Server
+113.160.154.116:80 - 
+5.239.240.178:80 - Web Client
+13.227.209.61:80 - Заголовок не найден
+47.108.172.49:80 - 404 Not Found
+113.29.211.69:80 - Website Unavailable
+23.64.18.18:80 - Заголовок не найден
+101.132.107.24:80 - ä¸æµ·æ±æä¿¡æ¯ç§ææéå¬å¸
+154.201.150.4:80 - 404 Not Found
+13.127.23.181:80 - 404 Not Found
+101.76.223.151:80 - 404 Not Found
+35.189.169.4:80 - Заголовок не найден
+23.14.27.129:80 - Заголовок не найден
+18.64.171.170:80 - Заголовок не найден
+46.233.30.79:80 - WEB SERVICE
+106.104.35.65:80 - Заголовок не найден
+45.113.8.199:80 - Website Not Found &ndash; SiteHost
+209.124.73.110:80 - Заголовок не найден
+184.24.199.145:80 - Заголовок не найден
+3.122.9.84:80 - Заголовок не найден
+190.93.114.63:80 - Заголовок не найден
+154.202.191.52:80 - Заголовок не найден
+94.138.199.158:80 - Web Server's Default Page
+51.255.41.101:80 - Заголовок не найден
+80.194.78.54:80 - RouterOS router configuration page
+47.104.166.227:80 - ç½ç«è®¿é®æ¥é
+131.215.225.22:80 - IIS Windows Server
+104.24.64.165:80 - Direct IP access not allowed | Cloudflare
+104.67.60.75:80 - Заголовок не найден
+104.164.88.170:80 - 404 Not Found
+199.192.30.87:80 - Welcome to nginx!
+107.137.70.8:80 - 
+52.205.245.55:80 - Заголовок не найден
+23.100.21.65:80 - Заголовок не найден
+23.212.182.102:80 - Заголовок не найден
+36.147.42.5:80 - 403 Forbidden
+18.116.219.240:80 - Chere
+91.195.110.90:80 - Direct IP access not allowed | Cloudflare
+31.31.193.145:80 - 404 Not Found
+13.227.97.80:80 - Заголовок не найден
+23.198.16.205:80 - Заголовок не найден
+212.80.207.163:80 - Web Server's Default Page
+57.128.120.131:80 - 403 Forbidden
+88.54.207.53:80 - 
+78.157.212.28:80 - Login - X Acceleration Codec
+167.99.0.156:80 - Portal Home - OPENHOST247 LLC
+66.135.7.45:80 - 404 Not Found
+18.67.136.245:80 - Заголовок не найден
+184.26.83.45:80 - Заголовок не найден
+3.17.48.42:80 - Заголовок не найден
+197.144.64.92:80 - &#72;&#50;&#56;&#56;&#65;
+181.26.38.249:80 - Заголовок не найден
+173.232.107.242:80 - 403 Forbidden
+34.203.143.202:80 - 502 Bad Gateway
+52.16.77.151:80 - 403 Forbidden
+3.130.14.118:80 - Заголовок не найден
+172.104.109.229:80 - Заголовок не найден
+79.96.215.38:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+52.222.239.66:80 - Заголовок не найден
+192.99.168.249:80 - Welcome to nginx!
+52.44.119.139:80 - Заголовок не найден
+38.165.106.30:80 - 404 Not Found
+93.119.4.200:80 - Apache2 Ubuntu Default Page: It works
+104.24.201.10:80 - Direct IP access not allowed | Cloudflare
+168.76.248.43:80 - 404 Not Found
+23.82.179.46:80 - Заголовок не найден
+186.134.141.12:80 - Заголовок не найден
+108.138.23.127:80 - Заголовок не найден
+154.213.133.67:80 - 功能模块及系统标签等等介绍 - 苹果CMS
+148.255.146.246:80 - ZXHN H108N V2.5
+118.241.131.218:80 - Заголовок не найден
+194.36.61.160:80 - STARFACE VoIP Software
+34.159.198.244:80 - Заголовок не найден
+79.96.216.6:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+65.8.76.152:80 - Заголовок не найден
+170.130.50.122:80 - Заголовок не найден
+104.27.192.211:80 - Direct IP access not allowed | Cloudflare
+184.84.187.237:80 - Заголовок не найден
+18.162.187.171:80 - Заголовок не найден
+92.205.166.45:80 - Set Up a Limited Company Online | TheCompanyWarehouse.co.uk
+5.144.170.221:80 - Domain Default page
+91.214.112.75:80 - Apache2 Ubuntu Default Page: It works
+195.20.13.152:80 - Erreur
+188.166.108.67:80 - Attention Required! | Cloudflare
+154.85.4.96:80 - Заголовок не найден
+213.178.196.16:80 - Заголовок не найден
+185.204.97.177:80 - 403 Forbidden
+23.231.124.219:80 - 403 Forbidden
+193.70.112.16:80 - Google
+103.184.72.249:80 - RouterOS router configuration page
+212.74.182.185:80 - Apache2 Ubuntu Default Page: It works
+121.171.103.5:80 - Заголовок не найден
+103.124.192.223:80 - 403 Forbidden
+198.148.81.110:80 - ERROR: The requested URL could not be retrieved
+184.50.223.103:80 - Заголовок не найден
