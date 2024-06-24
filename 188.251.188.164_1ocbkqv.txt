@@ -6353,3 +6353,9 @@
 89.171.92.112:80 - Strona główna - Państwowa Inspekcja Ochrony Roślin i Nasiennictwa - Portal Gov.pl
 54.94.196.162:80 - Заголовок не найден
 193.169.180.134:80 - 404 Not Found
+44.213.178.174:80 - Error
+159.89.95.249:80 - Welcome to nginx!
+161.35.231.27:80 - Welcome to nginx!
+83.140.97.162:80 - Заголовок не найден
+59.151.139.180:80 - Заголовок не найден
+104.25.168.128:80 - Direct IP access not allowed | Cloudflare
