@@ -1514,3 +1514,24 @@
 104.16.28.20:80 - Direct IP access not allowed | Cloudflare
 108.162.194.76:80 - Direct IP access not allowed | Cloudflare
 104.25.153.84:80 - Direct IP access not allowed | Cloudflare
+38.6.80.34:80 - Sorry, the website has been stopped
+37.26.216.162:80 - Login
+62.216.37.70:80 - RouterOS router configuration page
+145.14.152.45:80 - 403 Forbidden
+23.223.65.101:80 - Заголовок не найден
+197.146.10.83:80 - &#72;&#50;&#56;&#56;&#65;
+54.219.101.224:80 - Заголовок не найден
+100.25.238.82:80 - 503 Service Temporarily Unavailable
+111.84.185.101:80 - Заголовок не найден
+65.35.68.201:80 - 
+104.20.48.0:80 - Direct IP access not allowed | Cloudflare
+99.79.193.22:80 - 502 Bad Gateway
+210.112.137.12:80 - Заголовок не найден
+23.14.50.181:80 - Заголовок не найден
+12.216.142.3:80 - Заголовок не найден
+159.65.43.47:80 - Login | If I Had A Hammer
+45.58.60.58:80 - FoolEgg.com
+104.25.51.107:80 - Direct IP access not allowed | Cloudflare
+128.199.148.174:80 - Заголовок не найден
+164.92.112.215:80 - Exppag | Entrar
+170.130.224.220:80 - 403 Forbidden
