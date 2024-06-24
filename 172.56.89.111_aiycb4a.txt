@@ -2469,3 +2469,5 @@
 108.186.228.68:80 - Заголовок не найден
 200.132.77.52:80 - Solução AVAPolos - Levando a educação a distância aonde a Internet não alcança
 3.86.74.21:80 - Home Page
+103.120.202.242:80 - 404 Not Found
+23.39.207.60:80 - Заголовок не найден
