@@ -3204,3 +3204,80 @@
 23.196.62.245:80 - Заголовок не найден
 104.164.39.20:80 - 404 Not Found
 18.198.0.212:80 - MyMenu &#8211; My Menu for Your Business by IK
+149.88.65.72:80 - 404 Not Found
+135.181.37.34:80 - Access forbidden!
+216.128.143.49:80 - Apache2 Ubuntu Default Page: It works
+159.69.17.138:80 - Заголовок не найден
+113.160.171.81:80 - 
+175.45.215.235:80 - Test Page for the Nginx HTTP Server on Rocky Linux
+167.248.135.83:80 - Заголовок не найден
+107.154.183.107:80 - Заголовок не найден
+159.203.189.150:80 - SellerRunning Services
+4.172.49.26:80 - Заголовок не найден
+145.90.80.9:80 - Apache2 Debian Default Page: It works
+18.164.181.101:80 - Заголовок не найден
+193.26.156.104:80 - BSI  -  Bundesamt für Sicherheit in der Informationstechnik
+52.85.20.168:80 - Заголовок не найден
+149.30.169.169:80 - 404 Not Found
+216.68.133.167:80 - Заголовок не найден
+34.117.219.114:80 - 403
+89.40.9.112:80 - 401 Authorization Required
+116.193.138.146:80 - Please wait, the login page is opening...
+185.126.238.215:80 - Заголовок не найден
+138.197.77.220:80 - Заголовок не найден
+45.202.237.91:80 - Заголовок не найден
+167.71.176.249:80 - WordPress &rsaquo; Error
+18.164.57.182:80 - Заголовок не найден
+23.46.68.28:80 - Заголовок не найден
+104.24.135.32:80 - Direct IP access not allowed | Cloudflare
+115.30.25.189:80 - 403 Forbidden
+52.85.126.130:80 - Заголовок не найден
+166.130.188.243:80 - Заголовок не найден
+52.12.239.3:80 - 403 Forbidden
+50.117.122.93:80 - 404 Not Found
+149.104.181.184:80 - 403 Forbidden
+154.31.178.115:80 - æ²¡ææ¾å°ç«ç¹
+20.255.46.225:80 - 404 Not Found
+23.192.137.187:80 - Заголовок не найден
+52.204.34.160:80 - HTTP Status 404 – Not Found
+93.186.176.27:80 - Заголовок не найден
+142.93.38.138:80 - Welcome to nginx!
+131.239.118.72:80 - Citrix Gateway
+104.21.22.80:80 - Direct IP access not allowed | Cloudflare
+79.96.82.177:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+91.215.100.91:80 - Welcome to nginx!
+13.212.71.126:80 - Welcome to nginx!
+20.27.228.42:80 - Welcome to nginx!
+108.139.37.156:80 - Заголовок не найден
+178.77.74.74:80 - Web Server's Default Page
+108.156.116.167:80 - Заголовок не найден
+44.194.119.98:80 - Parking Services
+52.84.224.119:80 - Заголовок не найден
+172.64.147.149:80 - Direct IP access not allowed | Cloudflare
+23.107.102.106:80 - Заголовок не найден
+136.226.72.222:80 - Internet Security by Zscaler
+172.120.247.41:80 - 404 Not Found
+104.109.243.120:80 - Заголовок не найден
+167.82.127.2:80 - Fastly error: unknown domain 167.82.127.2
+2.189.243.186:80 - Welcome to nginx!
+193.92.12.81:80 - 
+18.168.98.93:80 - Заголовок не найден
+150.129.3.114:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+40.87.20.84:80 - Control Cloud
+184.87.180.155:80 - Заголовок не найден
+54.199.237.148:80 - Amazon ECS Sample App
+82.142.90.120:80 - Apache2 Debian Default Page: It works
+77.172.252.44:80 - Tom's ...
+209.133.201.245:80 - Index of /
+85.128.152.245:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+212.86.247.73:80 - Title
+190.166.121.65:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#54;&#55;&#65;&#32;&#86;&#49;&#46;&#48;
+151.80.184.36:80 - Заголовок не найден
+18.236.80.157:80 - Revolution Jewelry
+144.217.30.128:80 - Заголовок не найден
+125.191.249.239:80 - 
+177.200.114.109:80 - Broadband Router
+78.47.148.168:80 - punctum books
+172.170.119.198:80 - Your Azure Function App is up and running.
+159.235.212.155:80 - 
+94.231.166.128:80 - Заголовок не найден
