@@ -8022,3 +8022,14 @@
 139.180.164.147:80 - Заголовок не найден
 13.55.152.52:80 - Virtuality!:
             Users
+194.164.170.88:80 - Web Server's Default Page
+185.38.118.203:80 - Startseite Revell B2B
+104.24.196.192:80 - Direct IP access not allowed | Cloudflare
+87.106.196.128:80 - Заголовок не найден
+200.189.113.122:80 - 403 Forbidden
+104.110.249.8:80 - Заголовок не найден
+35.71.171.197:80 - 403 Forbidden
+79.51.227.95:80 - 
+67.7.163.82:80 - Instant WiFi
+165.227.226.60:80 - Energia solare sulla vostra proprietà!
+35.186.211.165:80 - 502 Server Error
