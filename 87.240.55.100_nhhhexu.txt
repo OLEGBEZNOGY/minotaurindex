@@ -1479,3 +1479,5 @@ Monitoring-24 Hour Service
 23.50.198.14:80 - Заголовок не найден
 172.254.44.186:80 - Заголовок не найден
 89.83.182.223:80 - Salut! Bienvenue sur la Station Web Synology!
+202.227.81.229:80 - å¯å£«å·çºç«å³æ¸é¤¨
+204.9.187.36:80 - IIS Windows Server
