@@ -1856,3 +1856,176 @@ ction App is up and running.
 50.114.48.133:80 - Заголовок не найден
 97.83.13.3:80 - 
 52.216.164.76:80 - Amazon S3 - Cloud Object Storage  - AWS
+14.63.164.96:80 - Заголовок не найден
+173.198.234.238:80 - Заголовок не найден
+194.187.172.83:80 - Lotto online: gioca sul sito ufficiale del Lotto
+184.84.194.118:80 - Заголовок не найден
+120.26.109.92:80 - Test Page for the Nginx HTTP Server on Fedora
+194.53.148.208:80 - Apache2 Ubuntu Default Page: It works
+20.77.182.124:80 - ACME Access Only
+84.197.70.232:80 - Index of /
+107.178.151.42:80 - 404 Not Found
+163.43.124.46:80 - Заголовок не найден
+140.249.87.83:80 - Заголовок не найден
+178.49.133.99:80 - Welcome to nginx!
+209.160.6.174:80 - Заголовок не найден
+2.19.3.37:80 - Заголовок не найден
+81.193.205.13:80 - 
+23.52.94.165:80 - Заголовок не найден
+151.101.14.210:80 - Fastly error: unknown domain 151.101.14.210
+18.165.51.159:80 - Заголовок не найден
+46.166.165.128:80 - Заголовок не найден
+182.52.97.182:80 - ::à¸ªà¸³à¸à¸±à¸à¸à¸²à¸à¸ªà¹à¸à¹à¸ªà¸£à¸´à¸¡à¸à¸²à¸£à¹à¸£à¸µà¸¢à¸à¸£à¸¹à¹à¸à¸£à¸°à¸à¸³à¸à¸±à¸à¸«à¸§à¸±à¸à¸­à¹à¸²à¸à¸à¸­à¸::
+18.169.114.47:80 - Заголовок не найден
+172.66.211.101:80 - Direct IP access not allowed | Cloudflare
+104.22.74.104:80 - Direct IP access not allowed | Cloudflare
+104.237.170.51:80 - Заголовок не найден
+18.160.186.21:80 - Заголовок не найден
+104.25.245.37:80 - Direct IP access not allowed | Cloudflare
+116.223.196.78:80 - Заголовок не найден
+203.228.172.160:80 - Заголовок не найден
+3.163.135.21:80 - Заголовок не найден
+54.68.1.204:80 - WPIC &#8211; Creative Labs
+104.79.220.63:80 - Заголовок не найден
+23.223.204.197:80 - Заголовок не найден
+52.27.182.87:80 - Заголовок не найден
+173.236.211.159:80 - Site not found &middot; DreamHost
+23.199.191.119:80 - Заголовок не найден
+52.28.40.66:80 - Sign in to your account
+172.87.193.182:80 - 404 Not Found
+144.196.51.201:80 - Заголовок не найден
+104.16.89.15:80 - Direct IP access not allowed | Cloudflare
+23.6.109.64:80 - Заголовок не найден
+192.185.28.172:80 - Not Acceptable!
+38.102.10.27:80 - 403 Forbidden
+201.177.74.88:80 - Заголовок не найден
+52.208.166.0:80 - Заголовок не найден
+64.62.167.75:80 - 403 Forbidden
+107.23.103.20:80 - Login
+117.21.178.223:80 - 403 Forbidden
+175.206.83.107:80 - Заголовок не найден
+34.217.155.24:80 - Yelb
+23.37.255.60:80 - Заголовок не найден
+5.37.104.172:80 - Web Server's Default Page
+54.169.202.242:80 - The stream or file &quot;/var/www/laravel/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/laravel/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/laravel/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/laravel/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/laravel/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/laravel/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/laravel/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/laravel/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/laravel/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/laravel/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/laravel/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/laravel/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/laravel/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/laravel/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/laravel/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: file_put_contents(/var/www/laravel/storage/framework/views/9c5cbfe9c4fe502e2831a94185e62ef4.php): Failed to open stream: Permission denied
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+104.17.116.206:80 - Direct IP access not allowed | Cloudflare
+38.54.202.224:80 - Заголовок не найден
+51.132.4.73:80 - Заголовок не найден
+114.34.114.238:80 - 
+156.67.82.104:80 - Sorry, the website has been stopped
+107.149.188.247:80 - Заголовок не найден
+51.210.80.161:80 - Autorisation
+87.193.252.67:80 - Default Site
+52.89.19.141:80 - Welcome to OpenResty!
+195.154.107.29:80 - Archives générales de la Congrégation du Saint-Esprit - Archives de la Congrégation du Saint-Esprit
+151.101.7.174:80 - Fastly error: unknown domain 151.101.7.174
+154.213.66.121:80 - æ²¡ææ¾å°ç«ç¹
+23.192.42.55:80 - Заголовок не найден
+61.62.197.146:80 - Заголовок не найден
+34.30.157.33:80 - 404 Not Found
+171.244.61.122:80 - Astra Control Panel
+18.161.78.181:80 - Заголовок не найден
+173.246.121.149:80 - NORTHERN AUTO & EQUIPMENT | Phoenix, AZ
+52.82.209.109:80 - Application Scaling - AWS Auto Scaling - AWS
+13.234.173.254:80 - TruSales | Dashboard
+23.12.95.95:80 - Заголовок не найден
+92.247.235.166:80 - 
+196.196.164.150:80 - 407 Proxy Authentication Required
+85.128.191.122:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+184.24.5.21:80 - Заголовок не найден
+108.139.173.108:80 - Заголовок не найден
+62.112.124.50:80 - 403 - Çàïðåùåíî: Äîñòóï çàïðåùåí.
+184.84.39.100:80 - Заголовок не найден
+38.6.56.86:80 - 404 Not Found
+101.133.203.14:80 - Заголовок не найден
+172.121.57.167:80 - 404 Not Found
+23.205.135.230:80 - Заголовок не найден
+99.84.231.143:80 - Заголовок не найден
+185.159.242.41:80 - Заголовок не найден
+18.166.5.56:80 - 403 Forbidden
+209.97.179.143:80 - Requirements Not Met
+45.202.235.160:80 - Заголовок не найден
+122.112.208.146:80 - Заголовок не найден
+184.29.217.150:80 - Заголовок не найден
+222.112.115.215:80 - Заголовок не найден
+23.54.248.79:80 - Заголовок не найден
+115.71.238.180:80 - Заголовок не найден
+88.221.164.29:80 - Заголовок не найден
+68.234.66.21:80 - SonicWALL - Authentication
+107.174.186.10:80 - 403 Forbidden
+109.236.82.95:80 - Заголовок не найден
+61.71.86.239:80 - Заголовок не найден
+32.216.172.212:80 - 404 Not Found
+104.73.73.120:80 - Заголовок не найден
+156.54.119.9:80 - IIS7
+77.95.115.9:80 - 403 Forbidden
+92.123.31.164:80 - Заголовок не найден
+20.98.60.10:80 - IIS Windows Server
+20.103.28.234:80 - 404 Not Found
+118.99.143.205:80 - 
+154.209.59.181:80 - 404 Not Found
+140.210.212.194:80 - IIS Windows Server
+168.206.153.2:80 - 404 Not Found
+103.167.216.37:80 - Заголовок не найден
+173.44.246.115:80 - 403 Forbidden
+162.235.26.186:80 - Заголовок не найден
+178.22.30.75:80 - 青丝影院-最新电影电视剧手机在线观看高清免费
+221.164.36.113:80 - Ȩ_�ý�������_�ܺθ���������
+80.65.78.174:80 - Заголовок не найден
+101.200.79.12:80 - 503 Service Temporarily Unavailable
+125.42.177.201:80 - 403 Forbidden
+38.14.122.49:80 - 404 Not Found
+18.220.236.39:80 - user&#039;s Blog! &#8211; Just another WordPress site
+220.116.90.133:80 - Заголовок не найден
+207.210.229.125:80 - Заголовок не найден
+52.71.43.204:80 - Заголовок не найден
+157.65.19.24:80 - Заголовок не найден
+85.173.183.18:80 - 
+46.105.39.231:80 - Error 503: server unavailable
+118.27.26.200:80 - The page you were looking for doesn't exist (404)
+50.16.194.37:80 - 503 Service Temporarily Unavailable
+38.6.157.253:80 - æ²¡ææ¾å°ç«ç¹
+220.133.92.163:80 - 
+18.67.207.84:80 - Заголовок не найден
+23.39.136.66:80 - Заголовок не найден
+154.7.69.223:80 - 404 Not Found
+75.143.201.154:80 - 
+139.175.87.12:80 - Заголовок не найден
+81.169.198.67:80 - Web Server's Default Page
+204.152.212.132:80 - Заголовок не найден
+20.106.108.135:80 - Azure Container App - Unavailable
+119.245.151.99:80 - Заголовок не найден
+24.41.27.25:80 - FileMaker Website
+23.45.231.21:80 - Заголовок не найден
+154.92.61.173:80 - Заголовок не найден
+150.136.143.75:80 - 404 Not Found
