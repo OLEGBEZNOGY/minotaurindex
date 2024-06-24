@@ -554,3 +554,4 @@
 141.20.85.53:80 - 401 - Unauthorized: Access is denied due to invalid credentials.
 15.197.152.154:80 - 503 Service Temporarily Unavailable
 102.67.77.173:80 - RouterOS router configuration page
+13.32.59.168:80 - Заголовок не найден
