@@ -1505,3 +1505,12 @@
 193.107.170.53:80 - 
 61.144.241.80:80 - Заголовок не найден
 54.157.113.120:80 - FanDuel Life - Medium
+23.216.177.109:80 - Заголовок не найден
+13.33.39.72:80 - Заголовок не найден
+104.106.107.150:80 - Заголовок не найден
+184.31.230.50:80 - Заголовок не найден
+102.133.205.8:80 - Your Azure Function App is up and running.
+69.194.233.239:80 - Softaculous Webuzo | Default Website Page
+104.16.28.20:80 - Direct IP access not allowed | Cloudflare
+108.162.194.76:80 - Direct IP access not allowed | Cloudflare
+104.25.153.84:80 - Direct IP access not allowed | Cloudflare
