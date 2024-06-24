@@ -8780,3 +8780,14 @@ HCTV-B2000-4
 104.18.133.25:80 - Direct IP access not allowed | Cloudflare
 46.4.156.36:80 - Apache2 Ubuntu Default Page: It works
 185.130.104.252:80 - Apache2 Debian Default Page: It works
+54.151.67.121:80 - Welcome to nginx!
+93.154.102.218:80 - Заголовок не найден
+62.46.189.249:80 - Заголовок не найден
+108.186.74.215:80 - WAMPSERVER Homepage
+47.111.185.82:80 - ç©æ§äºç®¡çç³»ç»
+45.140.145.234:80 - DDoS-Guard
+178.158.166.88:80 - 500 Internal Server Error
+173.223.29.90:80 - Заголовок не найден
+192.3.143.172:80 - 407 Proxy Authentication Required
+104.16.122.85:80 - Direct IP access not allowed | Cloudflare
+184.105.218.177:80 - Page not found
