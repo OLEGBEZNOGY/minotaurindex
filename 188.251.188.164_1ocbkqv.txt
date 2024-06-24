@@ -4160,3 +4160,11 @@
 86.104.254.73:80 - www.cautuncadou.ro
 49.212.207.39:80 - ãããã®ã¬ã³ã¿ã«ãµã¼ã
 52.188.95.104:80 - Your Azure Function App is up and running.
+46.229.214.182:80 - M. S. Norbekov Institute Europe GmbH
+195.189.9.46:80 - SGOR - Leica GRX1200+ GNSS Web Interface
+154.82.45.151:80 - 404 Not Found
+92.83.149.169:80 - UniFi Protect
+101.32.127.57:80 - 404 Not Found
+54.197.158.7:80 - Заголовок не найден
+94.26.229.29:80 - 403 Forbidden
+20.240.2.110:80 - Microsoft Azure Web App - Error 404
