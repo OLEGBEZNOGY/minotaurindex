@@ -10391,3 +10391,38 @@ HCTV-B2000-4
 14.231.49.70:80 - Заголовок не найден
 191.6.208.132:80 - Site Hospedado na KingHost | Data Center no Brasil
 104.248.20.216:80 - Заголовок не найден
+3.104.139.42:80 - 406 Not Acceptable
+35.176.140.229:80 - Заголовок не найден
+35.174.169.239:80 - Notice: fwrite(): Write of 420 bytes failed with errno=28 No space left on device (500 Internal Server Error)
+38.173.89.19:80 - 404 Not Found
+68.69.248.13:80 - Web Management Login
+114.55.175.125:80 - 404 Not Found
+3.18.121.4:80 - 404 Not Found
+65.0.235.188:80 - Заголовок не найден
+104.21.235.95:80 - Direct IP access not allowed | Cloudflare
+23.77.22.94:80 - Заголовок не найден
+27.33.211.2:80 - Заголовок не найден
+96.126.96.254:80 - Apache2 Ubuntu Default Page: It works
+23.52.9.242:80 - Заголовок не найден
+188.38.198.144:80 - WAGO Ethernet Web-based Management
+85.234.151.198:80 - Заголовок не найден
+189.84.71.97:80 - 
+62.108.36.185:80 - Helpdesk Assistance Level 9000 -     Log in
+49.44.76.28:80 - Заголовок не найден
+192.3.183.134:80 - Page not found
+18.220.64.252:80 - User&#039;s Blog! &#8211; Just another WordPress site
+3.12.215.164:80 - Заголовок не найден
+104.103.220.30:80 - Заголовок не найден
+23.198.238.206:80 - Заголовок не найден
+80.153.192.218:80 - IIS7
+222.158.210.69:80 - ãµã¼ãä»æ§æ¸ä½æ
+51.68.139.10:80 - Sign in · GitLab
+52.201.67.126:80 - 404 Not Found
+81.0.237.168:80 - Заголовок не найден
+20.23.89.182:80 - Заголовок не найден
+108.186.58.200:80 - IIS Windows Server
+84.22.36.154:80 - 
+104.82.91.19:80 - Заголовок не найден
+13.33.187.218:80 - Заголовок не найден
+198.23.253.59:80 - ERROR: The requested URL could not be retrieved
+38.153.68.211:80 - ERROR: The requested URL could not be retrieved
