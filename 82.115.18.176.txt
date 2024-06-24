@@ -7434,3 +7434,45 @@
 34.208.79.90:80 - 503 Service Temporarily Unavailable
 107.172.139.209:80 - 407 Proxy Authentication Required
 103.30.145.142:80 - Softaculous Webuzo | Default Website Page
+109.95.158.38:80 - dhosting.pl - pod tym adresem nie znajduje się żaden serwis WWW
+84.32.25.206:80 - Заголовок не найден
+104.123.148.8:80 - Заголовок не найден
+154.216.116.233:80 - 403 Forbidden
+80.73.120.5:80 - Заголовок не найден
+173.232.97.26:80 - ERROR: The requested URL could not be retrieved
+74.81.81.127:80 - Заголовок не найден
+79.96.116.243:80 - Заголовок не найден
+13.249.188.40:80 - Заголовок не найден
+23.1.183.183:80 - Заголовок не найден
+165.22.70.163:80 - MomsEdu.ge | მთავარი
+23.203.190.5:80 - Заголовок не найден
+140.227.95.89:80 - Заголовок не найден
+188.36.123.231:80 - Develops Hungary Kft. - We&#x27;ll make your software. Fast and easy.
+186.39.116.99:80 - Заголовок не найден
+52.167.46.233:80 - Заголовок не найден
+104.18.201.9:80 - Direct IP access not allowed | Cloudflare
+138.197.51.241:80 - Заголовок не найден
+23.212.52.152:80 - Заголовок не найден
+52.66.116.123:80 - 404 Not Found
+23.247.81.20:80 - è·¨å¢çµåä½å®ç¬äº«ä»£çIP - AmazonIP.NET
+43.227.17.76:80 - QuantumLink Comm. Pvt. Ltd - Login
+38.152.130.112:80 - ERROR: The requested URL could not be retrieved
+156.67.70.242:80 - 403 Forbidden
+156.232.60.14:80 - 404 Not Found
+108.156.83.222:80 - Заголовок не найден
+77.242.132.145:80 - Заголовок не найден
+92.204.215.77:80 - Database Error
+40.83.143.185:80 - Microsoft Azure Web App - Error 404
+45.207.59.210:80 - 404 Not Found
+154.94.23.31:80 - Заголовок не найден
+23.56.234.43:80 - Заголовок не найден
+139.60.6.3:80 - 403 Forbidden
+34.118.182.2:80 - Default Site
+185.97.208.115:80 - IIS Windows Server
+60.248.90.167:80 - IIS 8.5 詳細錯誤 - 403.14 - Forbidden
+173.232.164.10:80 - 500 Internal Server Error
+54.36.82.172:80 - FTpanel
+13.213.172.223:80 - 503 Service Temporarily Unavailable
+193.187.174.188:80 - Apache HTTP Server Test Page powered by CentOS
+202.12.81.34:80 - 
+179.37.138.150:80 - Заголовок не найден
