@@ -1410,3 +1410,22 @@
 78.46.193.106:80 - STARFACE VoIP Software
 54.166.71.11:80 - Заголовок не найден
 149.28.207.56:80 - Welcome to nginx!
+23.66.37.167:80 - Заголовок не найден
+146.190.95.227:80 - OLTMS
+137.175.100.19:80 - Заголовок не найден
+104.88.199.213:80 - Заголовок не найден
+77.79.81.40:80 - Pusula Yönetilebilir E-Posta Gönderim Sistemi
+178.79.129.44:80 - Заголовок не найден
+172.67.162.46:80 - Direct IP access not allowed | Cloudflare
+69.192.135.32:80 - Заголовок не найден
+104.17.162.13:80 - Direct IP access not allowed | Cloudflare
+91.229.23.254:80 - 401 Authorization Required
+98.236.250.133:80 - Заголовок не найден
+151.22.5.97:80 - 403 - Forbidden: Access is denied.
+62.149.25.84:80 - Ukrainian Fashion Week
+193.247.120.24:80 - Kundenservice | Info
+203.96.176.21:80 - Заголовок не найден
+104.21.110.41:80 - Direct IP access not allowed | Cloudflare
+203.229.211.20:80 - main page
+23.47.112.58:80 - Заголовок не найден
+104.24.192.240:80 - Direct IP access not allowed | Cloudflare
