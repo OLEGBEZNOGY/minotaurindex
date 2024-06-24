@@ -3924,3 +3924,41 @@
 200.61.181.243:80 - 403 Forbidden
 174.129.232.220:80 - 404 Not Found
 184.24.246.238:80 - Заголовок не найден
+124.158.11.15:80 - Заголовок не найден
+194.164.164.65:80 - Index of /
+185.202.84.14:80 - F660
+108.187.230.162:80 - Sorry, the website has been stopped
+18.172.242.246:80 - Заголовок не найден
+206.189.93.144:80 - Заголовок не найден
+128.199.24.2:80 - Web Server's Default Page
+96.7.26.204:80 - Заголовок не найден
+86.106.30.232:80 - Crescendo Traduceri SRL  Crescendo Traduceri SRL - Servicii profesionale de traduceri
+44.213.104.57:80 - Welcome to CentOS
+54.37.79.216:80 - 
+167.58.158.224:80 - 
+2.20.165.53:80 - Заголовок не найден
+108.157.171.101:80 - Заголовок не найден
+18.214.140.168:80 - 404 Not Found
+14.225.66.43:80 - Apache2 Ubuntu Default Page: It works
+20.107.98.237:80 - Web Server Components Site Container
+83.45.222.206:80 - index
+104.19.242.62:80 - Direct IP access not allowed | Cloudflare
+141.98.95.152:80 - ERROR: The requested URL could not be retrieved
+103.2.198.24:80 - 
+133.130.27.131:80 - 403 Error - Forbidden
+156.242.58.167:80 - 403 Forbidden
+154.39.163.13:80 - 404 Not Found
+142.202.141.114:80 - 404 Not Found
+61.7.188.64:80 - &#72;&#56;&#49;&#48;&#50;&#69;
+75.47.212.16:80 - AT&T WiFi Portal
+104.24.197.33:80 - Direct IP access not allowed | Cloudflare
+50.2.5.120:80 - 403 Forbidden
+153.126.143.166:80 - 400 Bad Request
+101.32.39.139:80 - 404 Not Found
+104.21.46.59:80 - Direct IP access not allowed | Cloudflare
+23.198.202.168:80 - Заголовок не найден
+185.96.166.59:80 - Login
+101.0.115.161:80 - 403 Forbidden
+20.167.127.232:80 - Заголовок не найден
+111.48.99.74:80 - Заголовок не найден
+156.224.240.126:80 - 404 Not Found
