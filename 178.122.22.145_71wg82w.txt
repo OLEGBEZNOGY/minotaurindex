@@ -655,3 +655,32 @@
 205.251.68.25:80 - Заголовок не найден
 107.189.14.243:80 - 503 Service Temporarily Unavailable
 35.187.70.40:80 - Login
+52.64.86.122:80 - 503 Service Temporarily Unavailable
+184.25.177.98:80 - Заголовок не найден
+18.154.222.94:80 - Заголовок не найден
+73.246.83.211:80 - Заголовок не найден
+176.213.150.24:80 - Welcome to nginx!
+172.104.49.156:80 - 404 Not Found
+207.60.48.93:80 - 403 Forbidden
+104.75.34.80:80 - Заголовок не найден
+18.192.180.17:80 - Ich weiß Bescheid! | PSYDUCATED
+52.211.146.84:80 - TAO Login
+66.51.125.60:80 - Grimstad Karateklubb
+23.10.68.131:80 - Заголовок не найден
+186.6.78.39:80 - 
+216.73.156.81:80 - welcome use kangle!
+103.70.130.33:80 - RouterOS router configuration page
+91.104.80.36:80 - Заголовок не найден
+83.65.31.86:80 - http is disabled on this server, please use https
+138.186.236.56:80 - Заголовок не найден
+45.60.169.195:80 - Заголовок не найден
+18.155.131.155:80 - Заголовок не найден
+43.239.164.154:80 - Welcome to nginx!
+13.56.196.75:80 - 404 Not Found
+54.164.143.125:80 - Заголовок не найден
+188.120.255.232:80 - Заголовок не найден
+185.230.138.194:80 - westlakecapital | Welcome
+132.148.100.90:80 - Dr. Carla Russo, PhD., ND, MSc., RYT | Life Coaching Services, Wellness Programs and Products, Workshops and Retreats
+94.182.184.61:80 - Welcome to CentOS
+39.101.169.36:80 - 404 Not Found
+18.67.122.40:80 - Заголовок не найден
