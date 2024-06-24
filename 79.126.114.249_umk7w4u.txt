@@ -989,3 +989,25 @@
 188.166.49.95:80 - Voitures d'occasion r&eacute;vis&eacute; et garantie 3 mois
 18.135.218.132:80 - Bitnami Node.js
 104.75.115.103:80 - Заголовок не найден
+54.186.27.35:80 - Заголовок не найден
+78.46.1.81:80 - konsoleH :: Login
+165.73.83.94:80 - IIS Windows Server
+61.80.196.172:80 - main page
+182.172.69.224:80 - Welcome to Citrix XenServer 7.2.0
+34.227.109.242:80 - Welcome to nginx!
+52.68.155.207:80 - 403 Forbidden
+38.154.109.206:80 - ERROR: The requested URL could not be retrieved
+38.100.221.63:80 - Заголовок не найден
+23.3.77.105:80 - Заголовок не найден
+104.73.10.81:80 - Заголовок не найден
+192.177.88.99:80 - 404 Not Found
+23.95.27.178:80 - 500 Internal Server Error
+148.0.99.131:80 - 
+43.136.104.93:80 - Welcome to nginx!
+16.16.106.14:80 - Заголовок не найден
+99.87.227.249:80 - 403 - Forbidden: Access is denied.
+24.199.106.98:80 - MySocial Headshots
+38.174.207.15:80 - Заголовок не найден
+212.49.121.58:80 - VPN1000
+38.152.198.116:80 - ERROR: The requested URL could not be retrieved
+185.210.96.172:80 - Web Site Blocked
