@@ -67,3 +67,40 @@
 60.174.195.192:80 - å®å¾½èèå¤§æ°æ®æéå¬å¸
 207.204.12.174:80 - 403 Forbidden
 45.95.195.244:80 - Page not found
+110.41.220.68:80 - Заголовок не найден
+80.154.120.243:80 - Apache2 Ubuntu Default Page: It works
+104.25.92.55:80 - Direct IP access not allowed | Cloudflare
+23.216.69.183:80 - Заголовок не найден
+74.120.250.250:80 - Apache HTTP Server Test Page powered by CentOS
+23.239.2.110:80 - Apache2 Debian Default Page: It works
+68.183.79.80:80 - Axyz
+23.2.51.250:80 - Заголовок не найден
+121.111.246.245:80 - Заголовок не найден
+199.180.103.35:80 - Welcome to nginx!
+185.74.4.182:80 - Bosh sahifa | AKIS agro Group
+50.238.90.68:80 - Building Operation WebStation
+104.18.48.9:80 - Direct IP access not allowed | Cloudflare
+103.25.109.227:80 - RouterOS router configuration page
+54.155.207.237:80 - Заголовок не найден
+164.46.58.146:80 - 403 Forbidden ã¢ã¯ã»ã¹ãç¦æ­¢ããã¦ãã¾ã
+106.55.94.9:80 - 403 Forbidden
+66.31.253.68:80 - Заголовок не найден
+104.20.97.185:80 - Direct IP access not allowed | Cloudflare
+104.140.195.195:80 - 403 Forbidden
+23.53.51.104:80 - Заголовок не найден
+104.167.78.75:80 - Apache HTTP Server Test Page powered by CentOS
+13.111.243.197:80 - Error
+18.172.238.68:80 - Заголовок не найден
+5.161.121.183:80 - Not Found
+199.232.81.224:80 - Fastly error: unknown domain 199.232.81.224
+18.184.210.7:80 - Логин | Edberry Student
+38.12.152.44:80 - Заголовок не найден
+38.152.253.32:80 - ERROR: The requested URL could not be retrieved
+172.104.225.98:80 - Powered by CapRover
+162.241.40.14:80 - Заголовок не найден
+23.9.148.23:80 - Заголовок не найден
+23.79.126.225:80 - Заголовок не найден
+76.9.213.123:80 - 404 Not Found
+76.65.244.91:80 - Заголовок не найден
+192.206.141.57:80 - IIS Windows Server
+107.151.240.70:80 - welcome use kangle!
