@@ -2184,3 +2184,8 @@
 212.35.216.49:80 - 403 Forbidden
 13.229.164.98:80 - Inclus | an inclusive world for people with disabilities
 107.149.98.91:80 - IIS Windows Server
+52.183.228.56:80 - Your Azure Function App is up and running.
+96.36.150.96:80 - 
+185.253.98.157:80 - ERROR: The requested URL could not be retrieved
+46.20.149.154:80 - IIS Windows Server
+165.22.253.78:80 - 404 Not Found
