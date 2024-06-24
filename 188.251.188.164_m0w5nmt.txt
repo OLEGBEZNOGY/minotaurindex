@@ -840,3 +840,6 @@
 184.27.17.165:80 - Заголовок не найден
 18.245.138.15:80 - Заголовок не найден
 112.124.53.144:80 - Not Found
+170.187.150.242:80 - Celeb-Voice - Celebrity Voices AI Text to Speech
+75.102.171.161:80 - index
+188.128.232.120:80 - Twoja strona oparta na Wordpressie
