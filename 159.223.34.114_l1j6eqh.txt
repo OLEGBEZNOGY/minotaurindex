@@ -2087,3 +2087,17 @@
 192.161.166.253:80 - ERROR: The requested URL could not be retrieved
 38.148.255.139:80 - 400 Bad Request
 208.125.28.166:80 - Заголовок не найден
+128.199.204.231:80 - Заголовок не найден
+14.231.55.122:80 - WEB SERVICE
+57.152.33.140:80 - Welcome to nginx!
+181.51.247.241:80 - 403 - Forbidden: Access is denied.
+145.58.145.168:80 - Firewall Notification
+35.187.5.158:80 - Apache2 Debian Default Page: It works
+193.55.211.44:80 - Apache2 Debian Default Page: It works
+173.212.218.78:80 - 404 Not Found
+85.214.23.70:80 - Web Server's Default Page
+59.127.34.6:80 - 
+103.124.226.141:80 - RouterOS router configuration page
+185.4.135.207:80 - Web Server's Default Page
+8.129.190.196:80 - SuiteCRM
+2.17.185.58:80 - Заголовок не найден
