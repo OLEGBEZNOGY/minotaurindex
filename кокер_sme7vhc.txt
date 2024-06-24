@@ -3287,3 +3287,61 @@
 217.6.238.213:80 - Artboard
 217.11.134.217:80 - 404 Not Found
 23.62.166.176:80 - Заголовок не найден
+93.62.75.196:80 - Заголовок не найден
+52.202.59.234:80 - Заголовок не найден
+52.85.189.157:80 - Заголовок не найден
+104.17.87.36:80 - Direct IP access not allowed | Cloudflare
+218.38.37.51:80 - Default Site
+13.227.101.165:80 - Заголовок не найден
+192.186.161.160:80 - ERROR: The requested URL could not be retrieved
+149.28.52.162:80 - Herbsters
+70.93.154.122:80 - Document Moved
+2.20.109.12:80 - Заголовок не найден
+184.27.226.116:80 - Заголовок не найден
+23.59.135.75:80 - Заголовок не найден
+106.104.170.13:80 - 
+105.233.24.211:80 - 
+188.210.40.202:80 - Заголовок не найден
+111.32.146.240:80 - 403 Forbidden
+108.189.12.81:80 - 
+129.67.92.22:80 - Firewall Notification
+188.128.197.109:80 - INTEGRO - Badania psychologiczne i psychotesty dla kierowcÃ³w GorzÃ³w
+35.75.229.7:80 - 
+217.35.30.156:80 - Заголовок не найден
+76.145.29.17:80 - Заголовок не найден
+76.166.147.6:80 - 
+185.6.12.60:80 - Заголовок не найден
+121.64.102.82:80 - CMS Web Viewer
+34.145.82.149:80 - Alla Makeup Artist
+185.22.108.166:80 - Заголовок не найден
+119.188.250.156:80 - 404 Not Found
+87.79.77.102:80 - KRENZEL &amp; PARTNER - RECHTSANWÄLTE GbR
+37.1.220.233:80 - Website dev.null is ready. The content is to be added
+195.78.36.200:80 - Welcome to CentOS
+104.68.4.108:80 - Заголовок не найден
+82.65.213.225:80 - Заголовок не найден
+3.110.255.147:80 - Заголовок не найден
+15.168.85.104:80 - Заголовок не найден
+74.208.226.128:80 - Welcome to nginx!
+107.163.5.248:80 - 404 Not Found
+41.90.110.170:80 - 
+193.194.64.76:80 - Messagerie Professionnelle Ecole Nationale Supérieure d’Intelligence Artificielle :: Welcome to Messagerie Professionnelle Ecole Nationale Supérieure d’Intelligence Artificielle
+34.246.95.109:80 - Error 404 NOT_FOUND
+52.0.149.90:80 - Заголовок не найден
+193.32.223.139:80 - Web Server's Default Page
+91.190.72.136:80 - 500 Internal Server Error
+170.100.154.241:80 - Apache2 Ubuntu Default Page: It works
+23.212.219.7:80 - Заголовок не найден
+184.25.34.195:80 - Заголовок не найден
+173.232.142.61:80 - 403 Forbidden
+194.27.39.56:80 - Welcome to nginx!
+46.185.205.223:80 - Wireless - Administrative Console
+158.101.208.5:80 - 404 Not Found
+45.141.26.64:80 - JK2 Pro
+23.34.128.26:80 - Заголовок не найден
+99.84.6.235:80 - Заголовок не найден
+13.239.116.158:80 - Welcome to nginx!
+153.127.36.208:80 - MyASP（マイスピー）
+212.83.150.146:80 - Home | 212.83.150.146
+23.43.252.37:80 - Заголовок не найден
+52.42.223.9:80 - 403 Forbidden
