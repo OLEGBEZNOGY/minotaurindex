@@ -14702,3 +14702,132 @@ inx!
 192.177.60.11:80 - 403 Forbidden
 2.22.196.67:80 - Заголовок не найден
 207.53.240.193:80 - IIS Windows Server
+13.48.211.234:80 - Min Verkstad Fruängen &#8211; Snabb, professionell och pålitlig service
+154.31.136.138:80 - æ²¡ææ¾å°ç«ç¹
+45.224.107.139:80 - 
+176.224.34.120:80 - WEB SERVICE
+185.7.180.94:80 - 403 Forbidden
+114.32.8.58:80 - 
+96.7.27.66:80 - Заголовок не найден
+18.64.252.129:80 - Заголовок не найден
+51.17.82.18:80 - Заголовок не найден
+88.112.154.50:80 - 
+190.173.111.73:80 - Заголовок не найден
+23.34.160.191:80 - Заголовок не найден
+44.199.56.3:80 - 503 Service Temporarily Unavailable
+64.187.231.248:80 - 404 Not Found
+185.170.114.72:80 - Apache2 Ubuntu Default Page: It works
+43.156.18.18:80 - Not Found
+23.211.72.205:80 - Заголовок не найден
+179.42.102.188:80 - Apache2 Debian Default Page: It works
+23.56.245.80:80 - Заголовок не найден
+23.32.200.136:80 - Заголовок не найден
+45.83.246.183:80 - Welcome to XAMPP
+192.230.119.182:80 - Заголовок не найден
+154.217.18.100:80 - æ²¡ææ¾å°ç«ç¹
+190.85.147.211:80 - WEB SERVICE
+23.57.73.239:80 - Заголовок не найден
+79.229.229.197:80 - FortiGate
+104.104.33.64:80 - Заголовок не найден
+45.124.52.134:80 - Заголовок не найден
+71.19.158.212:80 - The page you were looking for doesn't exist (404)
+18.172.131.114:80 - Заголовок не найден
+78.124.195.56:80 - WEB SERVICE
+185.135.12.7:80 - Website not configured
+54.244.104.33:80 - Home -
+97.87.133.244:80 - WEB SERVICE
+167.71.218.119:80 - Home - Direction Safemap
+104.81.126.32:80 - Заголовок не найден
+186.102.180.28:80 - Заголовок не найден
+18.172.234.150:80 - Заголовок не найден
+67.225.245.237:80 - Tree Service Waynesboro VA | Tree Removal &amp; Trimming
+63.35.49.218:80 - 403 - Forbidden: Access is denied.
+23.208.240.177:80 - Заголовок не найден
+115.146.37.10:80 - Not Acceptable!
+107.158.114.139:80 - 403 Forbidden
+23.198.87.100:80 - Заголовок не найден
+72.136.194.18:80 - Заголовок не найден
+23.211.121.208:80 - Заголовок не найден
+23.8.43.110:80 - Заголовок не найден
+150.60.197.160:80 - TATSUNO GLOBAL
+72.167.211.131:80 - Graig Weich Beyond Comics Inc. beyondcomicstv @graigweich @beyondcomics #graigweich #craigweich #gregwelch #craigwelch #gregwelch #gregwhite #craigwhite #graigwelch #graigwhite #comicbook #comicbooks #sharktank #beyondcomics #beyondcomicstv #superhero #superheroes #coco #adriannecurry #bababooey #howardstern  Code Name Justice Ravedactyl Gekido greg welch graig f. weich beyondcomics.tv spawn dark knight batman spiderman superman smallville heroes comic books superheroes super craig weich civilian justice gekidolives.com #1 gekido vs. code name justice Coco Nicole Austin Gary Dellabate dell'abate howard stern the dark knight rises batman stan lee adrianne curry comic book men amc kevin smith ice-t ice loves coco craig welch greg preview trailer super hero heroes cami l avengers assemble iron man 3 ironman spider-man man of steel batman v superman marvel dc super hero
+81.187.72.68:80 - 401 Unauthorized
+18.66.17.238:80 - Заголовок не найден
+210.117.191.15:80 - L7
+183.97.162.152:80 - Заголовок не найден
+34.232.35.45:80 - Заголовок не найден
+47.241.186.205:80 - 403 Forbidden
+68.116.182.239:80 - 
+23.212.219.195:80 - Заголовок не найден
+45.83.64.126:80 - Research Scanning Project
+68.183.193.74:80 - 404 Not Found
+184.84.54.189:80 - Заголовок не найден
+38.48.133.193:80 - 404 Not Found
+45.39.179.124:80 - 404 Not Found
+174.3.220.6:80 - 
+114.32.94.237:80 - 
+110.77.244.113:80 - &#72;&#56;&#49;&#48;&#50;&#69;
+149.96.148.224:80 - 403 Forbidden
+54.156.40.44:80 - BlogCraftAI
+213.148.155.189:80 - Заголовок не найден
+23.1.191.169:80 - Заголовок не найден
+23.50.142.186:80 - Заголовок не найден
+117.102.217.15:80 - 401 Unauthorized
+220.135.156.93:80 - é¨ç¦ä¸å®¶
+184.26.154.5:80 - Заголовок не найден
+54.243.174.211:80 - Servicios Aspel
+66.154.97.194:80 - Page not found
+216.17.65.12:80 - MX-SE
+150.60.240.112:80 - Cgóü®ïÐbóüEéæEfUC
+13.227.89.71:80 - Заголовок не найден
+218.98.47.164:80 - 403 Forbidden
+23.60.143.153:80 - Заголовок не найден
+3.209.97.167:80 - Заголовок не найден
+154.40.57.55:80 - 404 Not Found
+85.153.17.71:80 - Index of /
+81.223.206.217:80 - 403 Forbidden
+108.139.54.55:80 - Заголовок не найден
+23.10.172.187:80 - Заголовок не найден
+52.217.124.114:80 - Amazon S3 - Cloud Object Storage  - AWS
+18.162.191.138:80 - 404 Not Found
+74.208.100.140:80 - Welcome to nginx!
+23.216.75.46:80 - Заголовок не найден
+13.38.36.59:80 - Заголовок не найден
+123.209.106.231:80 - Router -> Login
+23.212.158.96:80 - Заголовок не найден
+23.204.165.178:80 - Заголовок не найден
+65.9.150.64:80 - Заголовок не найден
+154.204.184.172:80 - 404 Not Found
+39.136.159.92:80 - 403 Forbidden
+142.196.209.22:80 - 
+3.132.105.76:80 - 502 Bad Gateway
+5.62.61.244:80 - 403 Forbidden
+23.58.244.73:80 - Заголовок не найден
+90.24.156.142:80 - 
+151.106.117.127:80 - 403 Forbidden
+89.237.92.61:80 - Default Site
+120.96.60.33:80 - Заголовок не найден
+87.128.74.67:80 - Заголовок не найден
+192.230.112.175:80 - Заголовок не найден
+154.216.123.82:80 - 404 Not Found
+146.59.123.107:80 - 146.59.123.107
+20.185.73.105:80 - Заголовок не найден
+103.130.238.241:80 - Page not found
+132.176.184.175:80 - moodle-impact Forschungsinstanz
+217.146.85.44:80 - Apache HTTP Server Test Page powered by CentOS
+20.167.3.168:80 - Your Azure Function App is up and running.
+43.154.241.187:80 - 404 Not Found
+23.12.154.88:80 - Заголовок не найден
+51.140.206.18:80 - Attention Required! | Cloudflare
+46.41.167.40:80 - Strona w przygotowaniu
+38.179.56.102:80 - Заголовок не найден
+140.248.181.112:80 - Fastly error: unknown domain 140.248.181.112
+120.48.56.49:80 - 河北祥牛肥业有限公司
+47.33.94.149:80 - 
+151.0.49.119:80 - Заголовок не найден
+104.74.53.251:80 - Заголовок не найден
+20.175.206.175:80 - Your Azure Function App is up and running.
+82.207.37.224:80 - Login
+23.201.67.222:80 - Заголовок не найден
+173.222.117.71:80 - Заголовок не найден
+23.212.212.196:80 - Заголовок не найден
