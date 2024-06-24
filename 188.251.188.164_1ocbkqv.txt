@@ -4759,3 +4759,13 @@
 94.243.252.105:80 - 403 Forbidden
 51.68.241.235:80 - Заголовок не найден
 206.188.192.56:80 - 403 Forbidden
+2.133.197.119:80 - GPON Home Gateway
+154.220.70.176:80 - 维基体育(中国)官方网站-维基体育(中国)官方手机版
+146.59.80.161:80 - vps-591bca19.vps.ovh.net &mdash; Coming Soon
+89.16.71.118:80 - Document Moved
+54.37.148.37:80 - 503 Service Temporarily Unavailable
+194.31.79.79:80 - 403 - Forbidden: Access is denied.
+54.163.96.176:80 - Laravel
+52.213.87.7:80 - Eurona Internet Satélite - líder en Internet Rural
+61.216.122.147:80 - 401 Unauthorized
+144.126.209.57:80 - Заголовок не найден
