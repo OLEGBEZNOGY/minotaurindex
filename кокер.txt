@@ -2268,3 +2268,4 @@
 95.179.160.218:80 - Datenbankfehler
 69.163.42.210:80 - ALPAR, LLC
 106.251.137.206:80 - DVR ActiveX Viewer
+45.93.126.171:80 - 403 Forbidden
