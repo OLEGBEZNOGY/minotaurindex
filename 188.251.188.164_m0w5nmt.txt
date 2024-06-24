@@ -1354,3 +1354,13 @@
 45.63.5.144:80 - Apache2 Debian Default Page: It works
 23.224.100.235:80 - æ²¡ææ¾å°ç«ç¹
 172.64.133.154:80 - Direct IP access not allowed | Cloudflare
+121.138.62.232:80 - Заголовок не найден
+44.218.115.157:80 - Заголовок не найден
+189.198.136.136:80 - TecNM Campus Uruapan &#8211; Escuela pública de nivel superior
+13.43.195.146:80 - 404 Not Found
+20.83.82.210:80 - Your Azure Function App is up and running.
+54.94.234.143:80 - Заголовок не найден
+104.140.199.145:80 - 403 Forbidden
+23.37.103.168:80 - Заголовок не найден
+104.97.81.12:80 - Заголовок не найден
+159.203.21.46:80 - 404 Not Found
