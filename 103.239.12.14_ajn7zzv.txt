@@ -4886,3 +4886,184 @@
 104.103.193.229:80 - Заголовок не найден
 4.249.207.119:80 - Заголовок не найден
 206.189.112.189:80 - 404 Not Found
+153.250.97.234:80 - Заголовок не найден
+3.160.5.148:80 - Заголовок не найден
+104.91.110.249:80 - Заголовок не найден
+18.102.179.87:80 - Заголовок не найден
+140.248.138.90:80 - Fastly error: unknown domain 140.248.138.90
+5.202.33.234:80 - RouterOS router configuration page
+23.207.58.239:80 - Заголовок не найден
+80.93.44.230:80 - Заголовок не найден
+23.222.27.50:80 - Заголовок не найден
+23.218.2.224:80 - Заголовок не найден
+198.206.133.164:80 - Home
+119.23.151.14:80 - 404 Not Found
+130.105.251.194:80 - Заголовок не найден
+104.148.65.207:80 - LNMPä¸é®å®è£å by Licess
+23.198.158.184:80 - Заголовок не найден
+107.22.225.164:80 - 404 Not Found
+103.169.80.139:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+104.19.154.215:80 - Direct IP access not allowed | Cloudflare
+195.9.186.83:80 - 404 Not Found
+179.41.178.158:80 - Заголовок не найден
+219.118.198.115:80 - ESCO｜エンジニアリングシステム株式会社
+104.160.77.138:80 - Заголовок не найден
+75.138.211.83:80 - 
+156.224.220.166:80 - 404 Not Found
+124.222.64.166:80 - Welcome to nginx!
+23.194.81.31:80 - Заголовок не найден
+20.50.240.0:80 - Your Azure Function App is up and running.
+173.236.91.200:80 - Заголовок не найден
+128.199.113.66:80 - and <meta> tags -->
+	<!-- https://github.com/h5bp/html5-boilerplate/blob/5.2.0/dist/doc/html.md#the-order-of-the-title-and-meta-tags -->
+	<meta charset="UTF-8">
+
+	<!-- x-ua-compatible -->
+	<!-- https://github.com/h5bp/html5-boilerplate/blob/5.2.0/dist/doc/html.md#x-ua-compatible -->
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+	<!-- Google Search Console -->
+	<!-- <meta name="google-site-verification" content=""> -->
+
+	<!-- Mobile viewport -->
+	<!-- https://github.com/h5bp/html5-boilerplate/blob/5.2.0/dist/doc/html.md#mobile-viewport -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Facebook: A Guide to Sharing for Webmasters & Twitter Cards -->
+	<!-- Check functions file -->
+
+	<!-- Smart App Banners in iOS 6+ Safari -->
+	<!-- https://developer.apple.com/library/IOS/documentation/AppleApplications/Reference/SafariWebContent/PromotingAppswithAppBanners/PromotingAppswithAppBanners.html#//apple_ref/doc/uid/TP40002051-CH6-SW2 -->
+	<!-- https://github.com/h5bp/html5-boilerplate/blob/5.2.0/dist/doc/extend.md#smart-app-banners-in-ios-6-safari -->
+	<!-- <meta name="apple-itunes-app" content="app-id=xxx"> -->
+
+	<!-- Humans TXT -->
+	<!-- http://humanstxt.org/Standard.html -->
+	<link rel="author" type="text/plain" href="http://thinkbitsolutions.com/humans.txt">
+
+	<!-- Official shortlink -->
+	<!-- https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/extend.md#official-shortlink -->
+	<!-- <link rel="shortlink" href="tb.ph"> -->
+
+	<!-- Favicons and Touch Icon -->
+	<!-- https://github.com/h5bp/html5-boilerplate/blob/5.2.0/dist/doc/html.md#favicons-and-touch-icon -->
+	<link rel="apple-touch-icon" href="https://www.aruga.com.ph/wp-content/themes/thinkbit/img/apple-touch-icon.png">
+	<link rel="icon" type="image/png" href="https://www.aruga.com.ph/wp-content/themes/thinkbit/img/favicon.png">
+
+	<!-- WordPress Tags Used -->
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://www.aruga.com.ph/xmlrpc.php">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v22.1 - https://yoast.com/wordpress/plugins/seo/ -->
+24.236.239.21:80 - 
+52.189.27.6:80 - Заголовок не найден
+212.83.176.38:80 - Apache2 Debian Default Page: It works
+104.115.17.130:80 - Заголовок не найден
+147.182.177.106:80 - 404 Not Found
+13.52.48.4:80 - Welcome to nginx!
+3.76.202.127:80 - Заголовок не найден
+148.72.29.202:80 - Coming Soon
+194.57.252.59:80 - Réseau Wordpress EHESS | Un site utilisant WordPress
+179.53.181.222:80 - 
+92.122.12.180:80 - Заголовок не найден
+8.219.94.240:80 - Web Server's Default Page
+118.215.179.150:80 - Заголовок не найден
+3.160.45.154:80 - Заголовок не найден
+181.26.233.54:80 - Заголовок не найден
+18.220.68.41:80 - 403 - Forbidden: Access is denied.
+104.20.129.75:80 - Direct IP access not allowed | Cloudflare
+18.183.108.67:80 - 艾普特科技集團
+103.172.68.179:80 - Apache HTTP Server Test Page powered by CentOS
+217.128.100.237:80 - WEB SERVICE
+2.189.136.48:80 - RouterOS router configuration page
+82.18.27.88:80 - 
+20.54.156.139:80 - Заголовок не найден
+200.25.32.190:80 - Apache2 Debian Default Page: It works
+104.64.112.114:80 - Заголовок не найден
+61.66.104.100:80 - Заголовок не найден
+104.86.86.87:80 - Заголовок не найден
+112.36.18.109:80 - 
+118.237.15.197:80 - Заголовок не найден
+110.232.178.90:80 - 404 - Not Found
+111.19.136.49:80 - Заголовок не найден
+198.199.98.66:80 - 404 Not Found
+108.157.45.89:80 - Заголовок не найден
+117.235.1.9:80 - RouterOS router configuration page
+18.244.95.97:80 - Заголовок не найден
+142.93.34.245:80 - Home - Kriloud space
+45.251.64.107:80 - LEOCH - Lead Acid Battery, Lithium Battery, VRLA battery, UPS Battery, Motorcycle Battery, Car Battery, Golf Cart Battery, Gel Battery
+154.203.56.208:80 - Заголовок не найден
+5.78.30.72:80 - Заголовок не найден
+154.210.4.99:80 - Welcome to nginx!
+60.254.168.47:80 - Заголовок не найден
+20.123.98.1:80 - Your Azure Function App is up and running.
+185.118.143.253:80 - FreeBSD 11.3
+54.147.9.66:80 - Заголовок не найден
+35.176.161.48:80 - Заголовок не найден
+213.190.7.147:80 - 403 Forbidden
+103.85.190.4:80 - 403 Forbidden
+47.75.70.254:80 - Заголовок не найден
+3.6.234.26:80 - Watcho Exclusive
+47.32.153.62:80 - 
+157.65.18.231:80 - Заголовок не найден
+13.224.31.147:80 - Заголовок не найден
+90.145.2.17:80 - Toegang tot uw Private Cloud
+198.74.51.101:80 - Welcome to nginx!
+63.196.236.176:80 - AT&T WiFi Portal
+192.96.216.194:80 - Revive Adserver
+82.72.66.254:80 - Заголовок не найден
+189.201.183.62:80 - Document Moved
+122.17.174.108:80 - New Server -- DOMAINNAME
+13.200.185.148:80 - MARS WRIGLEY Confectionery
+110.44.169.2:80 - RouterOS router configuration page
+142.251.132.141:80 - Google
+23.223.191.80:80 - Заголовок не найден
+147.235.149.11:80 - 
+62.24.131.83:80 - Заголовок не найден
+100.26.94.251:80 - Заголовок не найден
+5.45.46.132:80 - Nematerialakultura.lv &#8211; Nemateriālais kultūras mantojums
+212.241.42.74:80 - Login
+34.209.121.100:80 - 400 The plain HTTP request was sent to HTTPS port
+154.213.147.108:80 - 404 Not Found
+24.233.19.133:80 - 400 Bad Request
+13.226.180.189:80 - Заголовок не найден
+184.24.30.59:80 - Заголовок не найден
+119.0.107.132:80 - 403 Forbidden
+104.96.255.230:80 - Заголовок не найден
+184.24.8.104:80 - Заголовок не найден
+90.176.247.86:80 - Заголовок не найден
+64.32.3.228:80 - Welcome to nginx!
+146.190.231.40:80 - CHEAT ENGINE SLOT JACKPOT &gt; Daftar CHEAT ENGINE SLOT JACKPOT, CHEATENG
+
+ &ndash; My Store
+64.57.72.156:80 - Service Unavailable
+119.96.249.146:80 - 403 Forbidden
+123.57.92.186:80 - 403 Forbidden
+23.200.124.47:80 - Заголовок не найден
+23.94.171.171:80 - 407 Proxy Authentication Required
+185.202.178.65:80 - IIS Windows Server
+38.35.64.51:80 - æ²¡ææ¾å°ç«ç¹
+185.46.191.26:80 - powerlifting.chv.ua &#8211; ФЕДЕРАЦІЯ ПАУЕРЛІФТИНГУ ЧЕРНІВЕЦЬКОЇ ОБЛАСТІ
+46.101.145.131:80 - EdilDei
+190.173.194.165:80 - Заголовок не найден
+108.156.195.138:80 - Заголовок не найден
+116.162.152.232:80 - Заголовок не найден
+141.94.134.51:80 - Заголовок не найден
+2.19.100.76:80 - Заголовок не найден
+152.228.250.181:80 - Заголовок не найден
+200.147.118.67:80 - Заголовок не найден
+184.24.13.139:80 - Заголовок не найден
+95.86.224.157:80 - RT-GM-5
+139.59.82.119:80 - Welcome to nginx!
+104.103.185.221:80 - Заголовок не найден
+47.94.0.67:80 - å¿è¿å¿éå¢ç»ä¸ç©æµå¹³å°
+8.213.199.215:80 - 414 Request-URI Too Large
+95.101.109.200:80 - Заголовок не найден
+104.80.234.126:80 - Заголовок не найден
+62.129.225.91:80 - Urbicon | Home
+38.147.82.254:80 - AM Dream Stays
+64.247.40.67:80 - ANACONDA
+23.202.35.137:80 - Заголовок не найден
+185.225.163.113:80 - api1997.net
+137.59.63.124:80 - æ²¡ææ¾å°ç«ç¹
