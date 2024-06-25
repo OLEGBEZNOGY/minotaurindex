@@ -903,3 +903,7 @@
 52.65.73.73:80 - Заголовок не найден
 79.172.54.60:80 - Заголовок не найден
 179.127.13.104:80 - Welcome to Keycloak
+149.104.153.243:80 - 403 Forbidden
+63.134.247.77:80 - Заголовок не найден
+13.213.190.24:80 - HRIS - Human Resource Information System
+104.24.65.16:80 - Direct IP access not allowed | Cloudflare
