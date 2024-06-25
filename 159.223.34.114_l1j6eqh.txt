@@ -2983,3 +2983,20 @@
 81.70.185.209:80 - Заголовок не найден
 209.237.190.173:80 - 404 - File or directory not found.
 212.118.236.237:80 - Заголовок не найден
+184.28.8.7:80 - Заголовок не найден
+198.57.150.223:80 - Not Acceptable!
+18.244.194.190:80 - Заголовок не найден
+108.157.254.87:80 - Заголовок не найден
+23.213.48.236:80 - Заголовок не найден
+172.67.69.18:80 - Direct IP access not allowed | Cloudflare
+220.134.137.240:80 - DVR Components Download
+2.17.232.225:80 - Заголовок не найден
+122.222.152.189:80 - index
+23.199.227.217:80 - Заголовок не найден
+197.101.39.57:80 - .::Welcome to the Web-Based Configurator::.
+156.0.77.38:80 - 404 Not Found
+104.17.236.40:80 - Direct IP access not allowed | Cloudflare
+23.10.108.82:80 - Заголовок не найден
+195.201.46.245:80 - 404 Not Found
+104.90.9.161:80 - Заголовок не найден
+130.18.141.51:80 - Home | Sustainable Bioproducts | College of Forest Resources | Mississippi State University
