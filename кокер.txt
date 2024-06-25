@@ -2721,3 +2721,35 @@
 18.225.25.72:80 - User&#039;s blog &#8211; Just another WordPress site
 45.60.51.49:80 - Заголовок не найден
 40.115.109.244:80 - Microsoft Azure Web App - Error 404
+23.105.169.89:80 - Заголовок не найден
+23.172.114.143:80 - Index of /
+45.200.20.112:80 - Заголовок не найден
+108.60.148.193:80 - IIS Windows Server
+139.84.173.206:80 - 404 Not Found
+23.55.32.178:80 - Заголовок не найден
+23.95.86.250:80 - 500 Internal Server Error
+38.165.77.155:80 - Заголовок не найден
+8.219.190.119:80 - Apache2 Ubuntu Default Page: It works
+135.181.32.79:80 - 404 Not Found
+79.98.110.247:80 - Welcome to SIT
+108.186.159.120:80 - Заголовок не найден
+52.17.192.250:80 - Welcome to nginx!
+193.183.65.80:80 - Database Error
+136.228.131.213:80 - RouterOS router configuration page
+23.212.129.118:80 - Заголовок не найден
+174.141.238.21:80 - IIS Windows Server
+185.198.156.58:80 - Заголовок не найден
+104.20.100.69:80 - Direct IP access not allowed | Cloudflare
+213.81.176.143:80 - IIS Windows Server
+69.48.180.235:80 - Заголовок не найден
+18.173.200.30:80 - Заголовок не найден
+164.100.199.6:80 - Welcome to CentOS
+42.236.89.187:80 - Заголовок не найден
+66.215.35.146:80 - Default Site
+180.250.135.10:80 - Apache2 Ubuntu Default Page: It works
+16.182.37.189:80 - Amazon S3 - Cloud Object Storage  - AWS
+185.142.34.135:80 - AGMI
+178.168.87.157:80 - 403 Forbidden
+13.51.130.59:80 - Заголовок не найден
+108.159.25.54:80 - Заголовок не найден
+34.105.230.151:80 - Site Not Configured | 404 Not Found
