@@ -11288,3 +11288,12 @@
 40.114.253.7:80 - Microsoft Azure Web App - Error 404
 118.107.12.92:80 - Captcha Challenge
 141.218.1.75:80 - Western Michigan University | Pursue your purpose
+145.239.192.95:80 - Apache2 Debian Default Page: It works
+23.145.24.81:80 - 404 Not Found
+89.37.66.93:80 - 407 Proxy Authentication Required
+175.100.70.192:80 - 
+38.76.113.233:80 - Web Site Blocked
+170.133.188.67:80 - Заголовок не найден
+209.127.30.187:80 - ERROR: The requested URL could not be retrieved
+172.104.158.229:80 - 404 Not Found
+161.97.145.25:80 - IIS Windows Server
