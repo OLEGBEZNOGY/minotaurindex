@@ -559,3 +559,42 @@
 52.1.172.26:80 - EHR/EMR for Behavioral Health &#8211; Notenetic™
 40.81.6.182:80 - Microsoft Azure Web App - Error 404
 178.57.222.25:80 - Заголовок не найден
+195.216.48.241:80 - BASTEC
+5.190.23.226:80 - WEB SERVICE
+54.90.246.234:80 - Заголовок не найден
+74.208.234.115:80 - IIS Windows Server
+212.243.6.33:80 - JFrog
+23.216.104.8:80 - Заголовок не найден
+178.90.148.33:80 - GPON Home Gateway
+192.126.247.203:80 - ERROR: The requested URL could not be retrieved
+153.126.153.86:80 - MyASP（マイスピー）
+44.215.213.133:80 - Заголовок не найден
+23.59.44.22:80 - Заголовок не найден
+162.240.168.85:80 - Заголовок не найден
+35.228.26.52:80 - JTN Panel
+133.45.112.205:80 - PEMSIC : Power-Electronic and Mixed-Signal-Integrated Circuits Lab., Nagasaki University, JAPAN - 長崎大学大学院総合生産科学研究科電気・機械システム分野 Mixed Signal &amp; パワー電子回路研究室
+104.19.6.222:80 - Direct IP access not allowed | Cloudflare
+212.21.138.210:80 - Заголовок не найден
+20.54.30.208:80 - Microsoft Azure Web App - Error 404
+2.40.225.29:80 - 
+107.167.9.40:80 - Apache HTTP Server Test Page powered by CentOS
+40.68.33.106:80 - Welcome to nginx!
+89.161.243.244:80 - Orta AUDIT Zespó³ Bieg³ych Rewidentów Sp. z o.o.
+23.221.187.84:80 - Заголовок не найден
+184.30.27.242:80 - Заголовок не найден
+154.216.100.136:80 - 404 Not Found
+54.80.46.10:80 - 403 Forbidden
+148.251.33.209:80 - Welcome to nginx!
+185.221.203.76:80 - Заголовок не найден
+104.73.232.78:80 - Заголовок не найден
+23.192.170.47:80 - Заголовок не найден
+99.81.208.226:80 - 403 Forbidden
+103.169.126.219:80 - 400 Bad Request
+157.90.22.229:80 - 404 Not Found
+37.156.87.87:80 - Welcome to nginx!
+188.212.98.46:80 - Welcome to nginx!
+35.225.8.138:80 - Metabase
+193.109.170.141:80 - Заголовок не найден
+151.101.31.85:80 - Fastly error: unknown domain 151.101.31.85
+204.116.115.146:80 - Заголовок не найден
+185.81.3.218:80 - Apache HTTP Server Test Page powered by CentOS
