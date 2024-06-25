@@ -2539,3 +2539,5 @@
 112.197.252.110:80 - Заголовок не найден
 44.207.115.195:80 - Заголовок не найден
 20.72.183.8:80 - Microsoft Azure Web App - Error 404
+104.27.71.214:80 - Direct IP access not allowed | Cloudflare
+195.231.76.106:80 - Magewell Cloud
