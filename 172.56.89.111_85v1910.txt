@@ -76,3 +76,4 @@
 208.113.159.202:80 - Site not found &middot; DreamHost
 183.60.159.242:80 - Заголовок не найден
 142.171.196.78:80 - 403 Forbidden
+52.23.24.145:80 - 503 Service Temporarily Unavailable
