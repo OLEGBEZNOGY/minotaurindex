@@ -6190,3 +6190,9 @@
 138.201.110.226:80 - 401 Unauthorized
 13.35.34.17:80 - Заголовок не найден
 23.50.41.79:80 - Заголовок не найден
+194.163.181.170:80 - Apache2 Ubuntu Default Page: It works
+35.189.13.126:80 - Comma5 CRM
+107.158.70.205:80 - 403 Forbidden
+188.128.226.38:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+14.194.86.122:80 - 
+103.134.117.52:80 - 
