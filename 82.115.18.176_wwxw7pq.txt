@@ -5949,3 +5949,34 @@
 69.28.92.135:80 - Advantage Wear &amp; Gear
 103.230.159.64:80 - 404 Not Found
 154.220.87.42:80 - 404 Not Found
+89.208.48.125:80 - Главная страница - AYWIPARTS (АЙВИПАРТС)
+38.91.42.100:80 - Wasabi: Store More and Do More with Your Data | Wasabi
+130.92.30.42:80 - IML
+23.50.245.208:80 - Заголовок не найден
+88.4.81.149:80 - Vigor Login Page
+23.9.65.96:80 - Заголовок не найден
+18.65.110.10:80 - Заголовок не найден
+23.39.239.128:80 - Заголовок не найден
+52.22.61.100:80 - Claro
+104.19.140.127:80 - Direct IP access not allowed | Cloudflare
+38.18.231.113:80 - Control Panel - Login
+109.51.225.127:80 - Default Site
+69.162.141.172:80 - Page not found
+23.196.151.6:80 - Заголовок не найден
+146.112.49.237:80 - Error 401
+104.19.132.60:80 - Direct IP access not allowed | Cloudflare
+89.213.121.41:80 - Apache2 Debian Default Page: It works
+185.43.160.212:80 - Заголовок не найден
+166.147.172.149:80 - Заголовок не найден
+23.53.19.39:80 - Заголовок не найден
+45.76.140.96:80 - Unknown Domain
+52.22.126.200:80 - Welcome to nginx!
+156.242.142.230:80 - 403 Forbidden
+141.95.138.71:80 - Just a moment...
+189.7.193.238:80 - Apache2 Debian Default Page: It works
+193.95.221.144:80 - IIS Windows Server
+23.197.139.103:80 - Заголовок не найден
+108.138.223.34:80 - Заголовок не найден
+64.190.27.211:80 - Canaïma Gin
+196.245.236.120:80 - 407 Proxy Authentication Required
+152.89.61.222:80 - 403 Forbidden
