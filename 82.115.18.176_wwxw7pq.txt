@@ -4694,3 +4694,111 @@
 104.19.16.207:80 - Direct IP access not allowed | Cloudflare
 174.84.190.108:80 - 
 140.248.152.101:80 - Fastly error: unknown domain 140.248.152.101
+128.140.11.108:80 - Apache2 Ubuntu Default Page: It works
+103.78.92.16:80 - Welcome to nginx!
+78.79.213.212:80 - Заголовок не найден
+143.204.241.136:80 - Заголовок не найден
+71.76.186.8:80 - Заголовок не найден
+54.92.122.178:80 - 403 Forbidden
+18.66.134.183:80 - Заголовок не найден
+114.179.111.120:80 - IIS Windows Server
+188.25.230.144:80 - Apache2 Debian Default Page: It works
+95.214.175.71:80 - Portfolio NISANCI Alihan
+168.119.86.179:80 - Domain nicht verfÃ¼gbar | Domain not available
+99.86.68.209:80 - Заголовок не найден
+148.255.122.113:80 - 
+154.38.124.170:80 - 403 Forbidden
+95.85.39.242:80 - Hotel Cardinal | SITE OFFICIEL | - Hospitalité - Élégance - Expérience
+103.196.62.72:80 - æ²¡ææ¾å°ç«ç¹
+88.119.179.150:80 - Home | 88.119.179.150
+41.73.221.6:80 - RouterOS router configuration page
+199.232.223.190:80 - Fastly error: unknown domain 199.232.223.190
+120.157.37.172:80 - Login Page
+145.239.105.48:80 - Apache2 Debian Default Page: It works
+177.52.242.89:80 - RouterOS router configuration page
+18.160.249.230:80 - Заголовок не найден
+154.92.63.94:80 - 404 Not Found
+52.218.219.48:80 - Amazon S3 - Cloud Object Storage  - AWS
+50.93.198.110:80 - Заголовок не найден
+70.37.206.198:80 - Заголовок не найден
+46.245.78.163:80 - 404 Not Found
+148.101.65.198:80 - 
+107.1.228.34:80 - Заголовок не найден
+93.186.185.80:80 - Tachograaf oplossing nodig? | TachoByte helpt u graag!
+103.188.22.16:80 - Welcome to nginx!
+104.25.245.40:80 - Direct IP access not allowed | Cloudflare
+51.144.173.106:80 - IIS Windows Server
+20.219.163.8:80 - Заголовок не найден
+18.172.60.149:80 - Заголовок не найден
+104.18.132.121:80 - Direct IP access not allowed | Cloudflare
+94.23.1.194:80 - Disadattati &#8211; Un nuovo sito targato WordPress
+54.192.253.26:80 - Заголовок не найден
+20.240.241.106:80 - Azure Container App - Unavailable
+54.87.155.240:80 - 503 Service Temporarily Unavailable
+23.55.68.135:80 - Заголовок не найден
+173.248.132.240:80 - Заголовок не найден
+198.62.62.230:80 - Direct IP access not allowed | Cloudflare
+216.188.17.84:80 - New Zealand Fine Prints | Art Prints NZ Specialists Since '66
+193.104.85.189:80 - RouterOS router configuration page
+35.158.133.2:80 - Experience
+54.239.133.114:80 - Заголовок не найден
+88.247.120.165:80 - NethServer
+45.236.32.144:80 - Wispro | Bmu
+18.117.57.81:80 - Заголовок не найден
+35.157.119.241:80 - Most innovative companies in the world 2021 - GlassDollar
+85.214.137.250:80 - Web Server's Default Page
+77.92.105.20:80 - IIS Windows Server - PROD
+164.46.77.212:80 - 403 Forbidden ã¢ã¯ã»ã¹ãç¦æ­¢ããã¦ãã¾ã
+18.191.192.31:80 - 404 Not Found
+95.100.59.123:80 - Заголовок не найден
+65.203.136.151:80 - Main Index Page
+190.167.204.250:80 - Заголовок не найден
+23.62.82.44:80 - Заголовок не найден
+3.74.79.184:80 - No such app
+192.208.9.160:80 - Notes
+4.156.211.108:80 - Your Azure Function App is up and running.
+198.23.185.176:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+23.221.162.249:80 - Заголовок не найден
+38.48.201.54:80 - 404 Not Found
+104.248.75.100:80 - fnbr.co &mdash; Fortnite Cosmetics
+51.77.194.3:80 - 404 Not Found
+18.155.180.148:80 - Заголовок не найден
+167.172.249.170:80 - Welcome to nginx!
+23.218.208.212:80 - Заголовок не найден
+220.76.194.7:80 - :: JEJUAIR ::
+45.242.20.209:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#48;&#56;&#78;&#32;&#86;&#50;&#46;&#53;
+201.177.138.225:80 - Заголовок не найден
+82.148.119.244:80 - Заголовок не найден
+104.236.189.81:80 - 403 Forbidden
+174.142.199.105:80 - Заголовок не найден
+38.104.216.172:80 - Заголовок не найден
+104.16.118.71:80 - Direct IP access not allowed | Cloudflare
+154.38.127.66:80 - 404 Not Found
+20.175.198.82:80 - Заголовок не найден
+92.7.210.7:80 - .::Welcome to the Web-Based Configurator::.
+144.217.255.222:80 - Заголовок не найден
+23.64.22.58:80 - Заголовок не найден
+190.185.142.37:80 - Заголовок не найден
+172.93.52.87:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+170.78.192.46:80 - Заголовок не найден
+23.38.182.64:80 - Заголовок не найден
+81.150.11.48:80 - 
+54.184.15.191:80 - Заголовок не найден
+200.58.94.87:80 - F660
+143.125.236.177:80 - Заголовок не найден
+169.150.234.109:80 - Nodecraft - Game Servers Done Right
+132.148.99.163:80 - Mountainside Medical clinic
+202.43.58.192:80 - Заголовок не найден
+184.31.7.85:80 - Заголовок не найден
+103.118.200.146:80 - æ²¡ææ¾å°ç«ç¹
+104.118.175.67:80 - Заголовок не найден
+156.254.132.141:80 - 404 Not Found
+23.38.82.139:80 - Заголовок не найден
+85.29.101.122:80 - JUCI
+50.116.95.138:80 - Not Acceptable!
+3.111.72.235:80 - 404 Not Found
+172.64.201.67:80 - Direct IP access not allowed | Cloudflare
+54.230.10.20:80 - Заголовок не найден
+4.156.220.36:80 - Your Azure Function App is up and running.
+104.16.10.4:80 - Direct IP access not allowed | Cloudflare
+93.171.95.65:80 - RouterOS router configuration page
