@@ -2483,3 +2483,19 @@
 138.197.169.222:80 - TCM - Marketing Review Tool
 52.162.110.70:80 - Sign in to your account
 34.203.104.234:80 - Database Error
+1.15.134.23:80 - åå®¶å³éé
+34.247.199.24:80 - Заголовок не найден
+220.83.234.52:80 - Заголовок не найден
+104.18.138.17:80 - Direct IP access not allowed | Cloudflare
+52.68.34.37:80 - 403 Forbidden
+141.203.199.245:80 - Заголовок не найден
+160.17.86.132:80 - 403 Forbidden
+52.29.223.12:80 - 502 Bad Gateway
+75.83.14.232:80 - Ruckus Wireless Admin
+211.40.93.56:80 - IIS Windows
+108.156.40.189:80 - Заголовок не найден
+23.211.145.63:80 - Заголовок не найден
+35.190.127.70:80 - Заголовок не найден
+51.143.140.221:80 - System Dashboard - GCAT (Glasgow Change Approval Tool)
+217.198.122.22:80 - Presentation of the domain 217.198.122.22 is unavailable.
+184.25.22.31:80 - Заголовок не найден
