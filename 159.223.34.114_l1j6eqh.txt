@@ -3000,3 +3000,13 @@
 195.201.46.245:80 - 404 Not Found
 104.90.9.161:80 - Заголовок не найден
 130.18.141.51:80 - Home | Sustainable Bioproducts | College of Forest Resources | Mississippi State University
+52.90.25.21:80 - Заголовок не найден
+13.111.42.198:80 - 403 - Forbidden: Access is denied.
+23.218.166.198:80 - Заголовок не найден
+104.25.167.98:80 - Direct IP access not allowed | Cloudflare
+152.199.39.246:80 - 404 - Not Found
+36.150.46.40:80 - Заголовок не найден
+139.150.76.149:80 - Welcome to nginx!
+34.192.244.12:80 - 503 Service Temporarily Unavailable
+158.193.202.10:80 - 
+199.101.96.132:80 - ERROR: The requested URL could not be retrieved
