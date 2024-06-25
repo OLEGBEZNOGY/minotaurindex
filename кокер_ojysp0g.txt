@@ -4499,3 +4499,5 @@
 194.187.179.8:80 - Research Scanning Project
 18.64.102.247:80 - Заголовок не найден
 49.51.250.241:80 - Welcome to nginx!
+38.99.67.211:80 - Заголовок не найден
+104.19.49.241:80 - Direct IP access not allowed | Cloudflare
