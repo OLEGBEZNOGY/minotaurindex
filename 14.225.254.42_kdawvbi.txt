@@ -10687,3 +10687,52 @@
 45.55.42.236:80 - Porta Potty Rental | Construction & Events
 179.37.41.147:80 - Заголовок не найден
 118.214.68.163:80 - Заголовок не найден
+194.87.11.98:80 - Apache2 Ubuntu Default Page: It works
+77.23.233.97:80 - FRITZ!Repeater
+159.203.9.148:80 - In Field Clipboard
+18.138.4.173:80 - Заголовок не найден
+92.205.59.68:80 - Web Server's Default Page
+23.201.220.164:80 - Заголовок не найден
+160.121.6.124:80 - 403 Forbidden
+47.93.95.87:80 - 阿里云 Web应用防火墙
+38.48.129.183:80 - Заголовок не найден
+94.140.114.149:80 - eTukTuk - The Best Green Crypto
+139.84.226.114:80 - 403 - Forbidden: Access is denied.
+58.84.41.66:80 - .::. AR-RAHNU KOPONAS .::.
+15.164.23.87:80 - Welcome to nginx!
+170.133.140.59:80 - Заголовок не найден
+196.196.121.206:80 - 500 Internal Server Error
+52.147.214.145:80 - K. Hovnanian® Homes – New Home Builders
+106.1.2.197:80 - Surveillance
+103.10.202.86:80 - 
+18.67.93.114:80 - Заголовок не найден
+23.205.191.250:80 - Заголовок не найден
+52.21.66.183:80 - 403 Forbidden
+3.213.45.212:80 - CALM
+202.254.239.95:80 - ç¡å¹ãªURLã§ã
+118.214.131.194:80 - Заголовок не найден
+101.132.114.99:80 - 503 Service Temporarily Unavailable
+108.141.172.39:80 - 403 Forbidden
+178.32.82.8:80 - Заголовок не найден
+52.6.127.166:80 - Test Page for the Apache HTTP Server on the Amazon Linux AMI
+38.177.222.154:80 - ç½ç«ç»´æ¤ä¸­
+85.122.54.197:80 - 
+103.74.120.213:80 - Welcome to nginx!
+117.0.59.53:80 - 
+51.77.83.64:80 - AM
+31.172.84.188:80 - Web Server's Default Page
+45.63.42.246:80 - Your access to this site has been limited by the site owner
+205.173.226.182:80 - Заголовок не найден
+138.43.110.17:80 - Заголовок не найден
+45.60.126.152:80 - Заголовок не найден
+218.95.177.174:80 - Заголовок не найден
+192.185.35.225:80 - Not Acceptable!
+23.48.68.215:80 - Заголовок не найден
+98.114.122.146:80 - IIS Windows Server
+46.186.110.138:80 - 300Mbps Wireless N ADSL2+ Modem Router TD-W8960N
+46.160.88.228:80 - Заголовок не найден
+173.234.194.94:80 - ERROR: The requested URL could not be retrieved
+184.31.93.225:80 - Заголовок не найден
+108.139.201.29:80 - Заголовок не найден
+3.5.229.147:80 - Amazon S3 - Cloud Object Storage  - AWS
+104.129.13.76:80 - 407 Proxy Authentication Required
