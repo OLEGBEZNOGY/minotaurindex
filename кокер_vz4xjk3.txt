@@ -319,3 +319,64 @@
 192.0.79.96:80 - WordPress.com Developer Resources &#8211; Create cool applications that integrate with WordPress.com
 156.38.224.29:80 - Web Server's Default Page
 13.212.57.143:80 - Whoops!
+72.34.57.162:80 - Softaculous Webuzo | Default Website Page
+91.105.48.124:80 - 
+212.85.114.218:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+222.194.52.65:80 - 404 Not Found
+95.211.222.167:80 - 404 Not Found
+23.203.176.204:80 - Заголовок не найден
+108.157.160.8:80 - Заголовок не найден
+148.113.164.140:80 - Website Unavailable
+54.85.223.23:80 - 503 Service Temporarily Unavailable
+149.154.3.242:80 - Document Moved
+23.219.244.138:80 - Заголовок не найден
+85.187.225.228:80 - ÐÐ¾Ð»Ñ Ð¸Ð·ÑÐ°ÐºÐ°Ð¹ÑÐµ, Ð½Ð°ÑÐ°Ð»Ð½Ð°ÑÐ° ÑÑÑÐ°Ð½Ð¸ÑÐ° ÑÐµ Ð·Ð°ÑÐµÐ¶Ð´Ð°...
+139.59.93.209:80 - Proudly Managed By ServerAvatar
+220.160.39.142:80 - Заголовок не найден
+104.86.188.248:80 - Заголовок не найден
+74.105.227.90:80 - Temporarily Unavailable
+23.53.104.115:80 - Заголовок не найден
+184.25.30.154:80 - Заголовок не найден
+47.251.4.162:80 - 502 Bad Gateway
+20.36.220.52:80 - Your Azure Function App is up and running.
+120.233.82.201:80 - Заголовок не найден
+184.28.27.164:80 - Заголовок не найден
+172.105.15.142:80 - Artboard
+38.38.70.182:80 - 404 Not Found
+199.232.88.144:80 - Fastly error: unknown domain 199.232.88.144
+59.126.92.60:80 - 
+15.156.110.80:80 - 503 Service Temporarily Unavailable
+212.83.154.84:80 - Oops!
+77.83.241.13:80 - Заголовок не найден
+46.105.116.223:80 - 500 - Erreur interne au serveur.
+23.1.82.203:80 - Заголовок не найден
+139.195.45.166:80 - Заголовок не найден
+52.2.10.210:80 - 403 Forbidden
+23.12.73.226:80 - Заголовок не найден
+23.4.150.5:80 - Заголовок не найден
+104.223.10.249:80 - Home
+186.6.50.170:80 - 
+217.210.154.143:80 - Login – Nextcloud
+14.29.101.152:80 - 403 Forbidden
+23.194.61.87:80 - Заголовок не найден
+212.115.62.224:80 - ERROR: The requested URL could not be retrieved
+23.61.13.208:80 - Заголовок не найден
+108.156.187.84:80 - Заголовок не найден
+212.223.102.18:80 - Domain Default page
+47.75.209.172:80 - Заголовок не найден
+147.202.83.116:80 - Заголовок не найден
+162.159.133.140:80 - Direct IP access not allowed | Cloudflare
+34.255.154.228:80 - Stanley Gibbons | The Home of Stamp Collecting
+106.225.246.249:80 - 451 Unavailable for Legal Reasons
+195.28.22.212:80 - Заголовок не найден
+173.239.212.38:80 - Apache HTTP Server Test Page powered by CentOS
+217.182.76.23:80 - Заголовок не найден
+119.236.183.93:80 - 404 Not Found
+3.162.232.111:80 - Заголовок не найден
+104.16.143.37:80 - Direct IP access not allowed | Cloudflare
+185.148.104.79:80 - Direct IP access not allowed | Cloudflare
+184.29.123.37:80 - Заголовок не найден
+23.52.86.98:80 - Заголовок не найден
+217.113.41.11:80 - 403 Forbidden
+210.236.0.24:80 - Заголовок не найден
+104.117.49.194:80 - Заголовок не найден
