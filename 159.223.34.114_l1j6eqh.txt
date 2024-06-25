@@ -2656,3 +2656,20 @@
 46.21.27.18:80 - Welcome to nginx!
 52.74.26.32:80 - Заголовок не найден
 65.8.229.148:80 - Заголовок не найден
+101.34.62.113:80 - æ²¡ææ¾å°ç«ç¹
+63.86.24.66:80 - IIS7
+23.62.126.239:80 - Заголовок не найден
+85.214.146.173:80 - PFERD Tools – TRUST BLUE
+34.141.157.232:80 - SFTPGo WebClient - Login
+23.205.207.240:80 - Заголовок не найден
+13.225.128.183:80 - Заголовок не найден
+54.179.183.184:80 - Welcome — First Digital Trust
+52.189.75.37:80 - Your Azure Function App is up and running.
+172.64.42.57:80 - Direct IP access not allowed | Cloudflare
+147.139.200.185:80 - Apache HTTP Server Test Page powered by CentOS
+206.233.136.247:80 - 404 Not Found
+23.209.203.139:80 - Заголовок не найден
+50.2.15.13:80 - ERROR: The requested URL could not be retrieved
+104.43.21.41:80 - 403 - Forbidden: Access is denied.
+79.96.253.49:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+157.245.50.188:80 - Vascara - Phân Phối Hàng Tồn Kho
