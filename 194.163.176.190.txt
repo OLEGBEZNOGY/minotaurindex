@@ -6228,3 +6228,12 @@
 184.31.104.164:80 - Заголовок не найден
 222.107.93.24:80 - Hello! Welcome to Synology Web Station!
 144.126.148.191:80 - Apache2 Ubuntu Default Page: It works
+176.126.207.235:80 - Direct IP access not allowed | Cloudflare
+23.53.235.151:80 - Заголовок не найден
+131.114.73.189:80 - Заголовок не найден
+45.79.58.76:80 - Apache2 Debian Default Page: It works
+104.140.215.47:80 - ERROR: The requested URL could not be retrieved
+13.53.108.129:80 - Заголовок не найден
+5.227.65.146:80 - Заголовок не найден
+23.65.12.70:80 - Заголовок не найден
+16.182.97.92:80 - Amazon S3 - Cloud Object Storage  - AWS
