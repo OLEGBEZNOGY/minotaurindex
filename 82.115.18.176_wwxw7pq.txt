@@ -2056,3 +2056,27 @@
 65.9.138.228:80 - Заголовок не найден
 3.163.43.4:80 - Заголовок не найден
 173.166.53.26:80 - Unsupported Browser
+195.28.185.119:80 - 503 Service Temporarily Unavailable
+138.201.222.215:80 - Error
+172.67.237.40:80 - Direct IP access not allowed | Cloudflare
+154.9.46.193:80 - ERROR: The requested URL could not be retrieved
+20.43.61.183:80 - Заголовок не найден
+18.164.90.99:80 - Заголовок не найден
+206.238.152.230:80 - 404 Not Found
+69.16.245.33:80 - Web Server's Default Page
+192.126.169.44:80 - ERROR: The requested URL could not be retrieved
+58.180.27.79:80 - Заголовок не найден
+186.96.115.89:80 - 
+178.32.80.92:80 - 503 Service Temporarily Unavailable
+34.224.20.172:80 - 503 Service Temporarily Unavailable
+34.93.234.235:80 - Заголовок не найден
+15.237.204.231:80 - 503 Service Temporarily Unavailable
+137.117.87.159:80 - Site Not Configured
+20.23.152.149:80 - Your Azure Function App is up and running.
+23.48.12.113:80 - Заголовок не найден
+211.120.229.181:80 - 403 Forbidden
+44.231.220.7:80 - Заголовок не найден
+188.244.2.226:80 - 403 Forbidden
+74.50.90.222:80 - Заголовок не найден
+23.196.190.187:80 - Заголовок не найден
+184.30.50.36:80 - Заголовок не найден
