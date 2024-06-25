@@ -139,3 +139,9 @@
 102.211.63.73:80 - welcome
 23.195.6.166:80 - Заголовок не найден
 2.23.64.184:80 - Заголовок не найден
+175.203.98.153:80 - main page
+104.22.43.124:80 - Direct IP access not allowed | Cloudflare
+196.188.172.14:80 - Ethiopian Civil Aviation
+219.133.46.150:80 - 404 Not Found
+45.11.238.81:80 - Apache HTTP Server Test Page powered by CentOS
+78.130.59.142:80 - UWP3.0 Web
