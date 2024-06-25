@@ -3103,3 +3103,22 @@
 23.193.204.99:80 - Заголовок не найден
 104.78.181.136:80 - Заголовок не найден
 38.101.122.223:80 - Заголовок не найден
+2.19.219.124:80 - Заголовок не найден
+173.255.206.51:80 - Apache2 Debian Default Page: It works
+223.62.114.177:80 - Document Error: Unauthorized
+54.75.98.97:80 - Test Page for the Nginx HTTP Server on the Amazon Linux AMI
+54.192.105.103:80 - Заголовок не найден
+149.30.252.211:80 - Error-抱歉！
+104.20.181.161:80 - Direct IP access not allowed | Cloudflare
+169.202.224.120:80 - Internet Security by Zscaler
+20.94.9.98:80 - IIS Windows Server
+95.183.2.47:80 - Service
+87.230.60.222:80 - Host Europe GmbH
+23.223.106.125:80 - Заголовок не найден
+23.1.79.109:80 - Заголовок не найден
+50.16.114.223:80 - IIS Windows Server
+157.52.128.85:80 - 404 Not Found
+65.0.12.74:80 - Заголовок не найден
+13.225.178.107:80 - Заголовок не найден
+182.255.61.23:80 - 403 Forbidden
+167.79.56.129:80 - Microsoft Azure Web App - Error 404
