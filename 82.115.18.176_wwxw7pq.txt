@@ -5750,3 +5750,8 @@
 96.17.193.138:80 - Заголовок не найден
 210.129.60.174:80 - エラー | SRL総合検査案内
 85.128.171.119:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+77.59.129.107:80 - AGCM - Homepage
+45.142.18.201:80 - Welcome to nginx!
+3.165.85.196:80 - Заголовок не найден
+34.98.91.116:80 - 502 Server Error
+43.134.172.39:80 - IIS Windows Server
