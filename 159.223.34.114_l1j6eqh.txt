@@ -2516,3 +2516,12 @@
 35.82.113.102:80 - Заголовок не найден
 99.142.84.43:80 - AT&T WiFi Portal
 142.132.232.27:80 - Apache2 Ubuntu Default Page: It works
+23.15.175.132:80 - Заголовок не найден
+176.53.49.242:80 - 403 - Forbidden: Access is denied.
+44.219.161.224:80 - 503 Service Temporarily Unavailable
+35.176.164.73:80 - Заголовок не найден
+52.68.22.166:80 - Заголовок не найден
+74.208.181.5:80 - 404 Not Found
+194.5.220.95:80 - Заголовок не найден
+194.67.124.230:80 - ERROR: The requested URL could not be retrieved
+18.133.15.70:80 - Innovid | Test Page
