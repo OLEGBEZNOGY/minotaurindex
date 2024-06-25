@@ -332,3 +332,77 @@
 87.226.118.15:80 - 500 Internal Server Error
 23.46.160.140:80 - Заголовок не найден
 155.159.22.250:80 - 404 Not Found
+190.48.1.189:80 - Заголовок не найден
+207.60.47.177:80 - 403 Forbidden
+162.19.59.235:80 - IIS Windows Server
+23.53.102.50:80 - Заголовок не найден
+43.159.71.113:80 - Заголовок не найден
+201.117.153.101:80 - Заголовок не найден
+8.208.34.6:80 - Apache HTTP Server Test Page powered by CentOS
+45.113.8.65:80 - Welcome to nginx!
+198.12.243.74:80 - Commitment to Excellence in Property Management and Real Estate Services
+23.235.137.254:80 - 403 Forbidden
+207.148.33.233:80 - IIS Windows Server
+51.21.144.157:80 - Заголовок не найден
+104.211.190.244:80 - Apache2 Ubuntu Default Page: It works
+104.25.177.103:80 - Direct IP access not allowed | Cloudflare
+178.208.93.119:80 - Ð¡Ð°Ð¹Ñ Ð·Ð°Ð±Ð»Ð¾ÐºÐ¸ÑÐ¾Ð²Ð°Ð½ Ð¸Ð»Ð¸ ÐµÑÐµ Ð½Ðµ Ð°ÐºÑÐ¸Ð²Ð¸ÑÐ¾Ð²Ð°Ð»ÑÑ
+34.207.44.196:80 - 400 The plain HTTP request was sent to HTTPS port
+62.214.128.123:80 - Заголовок не найден
+184.31.216.226:80 - Заголовок не найден
+187.169.150.167:80 - RouterOS
+154.197.167.254:80 - 403 Forbidden
+79.96.116.87:80 - Strona w przygotowaniu...
+18.160.247.153:80 - Заголовок не найден
+23.212.108.227:80 - Заголовок не найден
+45.47.10.44:80 - 
+23.208.46.246:80 - Заголовок не найден
+38.63.52.249:80 - 500 Internal Server Error
+92.205.49.237:80 - 404 Not Found
+34.193.9.197:80 - 403 Forbidden
+138.197.81.246:80 - Welcome to nginx!
+178.239.114.249:80 - Please wait, the page is opening...
+76.92.26.74:80 - 
+18.67.206.134:80 - Заголовок не найден
+192.185.97.244:80 - Not Acceptable!
+217.209.76.219:80 - Panel Status
+195.201.1.103:80 - konsoleH :: Login
+34.118.166.79:80 - Заголовок не найден
+23.41.92.230:80 - Заголовок не найден
+13.227.50.201:80 - Заголовок не найден
+193.47.236.47:80 - ERROR: The requested URL could not be retrieved
+213.214.4.148:80 - Tiefbau &#8211; Riedel Bau
+52.10.109.155:80 - Заголовок не найден
+113.212.150.63:80 - 404 Not Found
+23.6.67.37:80 - Заголовок не найден
+3.164.150.9:80 - Заголовок не найден
+184.25.11.165:80 - Заголовок не найден
+107.151.64.152:80 - 404 Not Found
+45.79.216.38:80 - 401 Authorization Required
+45.32.127.245:80 - Welcome to nginx!
+3.212.196.225:80 - Freelance Desarrollador Web en React, Node, PHP, SEO y Wordpress en Quito, Ecuador.
+23.202.180.233:80 - Заголовок не найден
+54.171.88.60:80 - Flask Volt Dashboard -  Sign IN  | AppSeed
+104.27.31.146:80 - Direct IP access not allowed | Cloudflare
+23.205.187.209:80 - Заголовок не найден
+23.199.8.201:80 - Заголовок не найден
+51.210.109.214:80 - Заголовок не найден
+192.121.28.177:80 - Under Construction
+12.187.7.12:80 - 
+23.196.98.222:80 - Заголовок не найден
+34.73.156.157:80 - Site Not Configured | 404 Not Found
+125.227.60.124:80 - D-LINK
+34.71.208.78:80 - COSA Knowledge Centre
+104.91.27.116:80 - Заголовок не найден
+38.11.217.98:80 - æ²¡ææ¾å°ç«ç¹
+184.30.196.69:80 - Заголовок не найден
+123.200.153.134:80 - 403 Forbidden
+104.207.255.48:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+186.130.73.181:80 - Заголовок не найден
+64.131.72.102:80 - Clone Screening
+209.240.131.203:80 - Mountain Home Christian Clinic &amp; Office Hours - providing health care and spiritual support to low income families in the Ozark Mountains
+107.178.129.224:80 - Заголовок не найден
+156.251.56.78:80 - 404 Not Found
+13.95.194.221:80 - IIS Windows Server
+104.104.131.34:80 - Заголовок не найден
+188.214.138.54:80 - Заголовок не найден
