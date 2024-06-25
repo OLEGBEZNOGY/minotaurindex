@@ -11592,3 +11592,10 @@
 208.106.224.223:80 - Bali Access Travel
 54.193.1.124:80 - TURN AROUND!
 49.12.4.183:80 - Welcome to nginx!
+216.119.75.32:80 - 500 - Internal server error.
+185.200.46.122:80 - Klimatyzacja samochodowa - naprawa, serwis, nape³nienie
+119.91.134.147:80 - Apache2 Ubuntu Default Page: It works
+93.186.118.125:80 - Заголовок не найден
+39.96.227.170:80 - Заголовок не найден
+23.203.36.159:80 - Заголовок не найден
+38.48.239.139:80 - Заголовок не найден
