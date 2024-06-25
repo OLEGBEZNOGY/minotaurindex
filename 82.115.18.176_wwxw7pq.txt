@@ -3501,3 +3501,8 @@
 216.246.112.62:80 - Заголовок не найден
 38.63.44.155:80 - Заголовок не найден
 146.83.211.77:80 - Relaciones Internacionales
+176.21.113.94:80 - Page Redirection
+110.10.129.223:80 - Index of /
+85.128.180.106:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+35.143.161.147:80 - Web Viewer for Samsung DVR
+23.203.179.82:80 - Заголовок не найден
