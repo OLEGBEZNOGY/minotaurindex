@@ -5938,3 +5938,13 @@
 104.25.122.63:80 - Direct IP access not allowed | Cloudflare
 66.25.246.185:80 - 
 156.238.230.243:80 - æ²¡ææ¾å°ç«ç¹
+23.56.15.163:80 - Заголовок не найден
+149.126.76.222:80 - Заголовок не найден
+74.142.216.70:80 - Document Moved
+124.157.74.6:80 - VadaXchange Buddy - Vadacom Ltd
+103.240.214.111:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+34.87.49.8:80 - 404 Not Found
+155.133.48.84:80 - internet.piotrkow.pl | Piotrków Trybunalski
+125.242.108.101:80 - main page
+217.192.14.181:80 - Web Filter Block Override
+107.154.119.20:80 - Заголовок не найден
