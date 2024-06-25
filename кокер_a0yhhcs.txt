@@ -104,3 +104,20 @@
 199.83.130.108:80 - Заголовок не найден
 146.148.235.137:80 - 404 Not Found
 194.26.179.62:80 - ERROR: The requested URL could not be retrieved
+39.104.73.163:80 - The page is temporarily unavailable
+54.196.160.164:80 - 404 Not Found
+52.86.17.108:80 - 503 Service Temporarily Unavailable
+38.127.179.157:80 - Apache HTTP Server Test Page powered by CentOS
+18.245.221.43:80 - Заголовок не найден
+23.61.183.239:80 - Заголовок не найден
+101.35.17.81:80 - Not Found
+119.145.149.107:80 - Welcome to nginx!
+196.247.162.239:80 - 407 Proxy Authentication Required
+93.118.124.28:80 - 
+103.36.90.22:80 - Captcha Challenge
+54.222.114.64:80 - Amazon S3 - Cloud Object Storage  - AWS
+95.56.255.15:80 - GPON Home Gateway
+24.103.159.254:80 - Connection denied by Geolocation
+44.203.78.95:80 - Заголовок не найден
+38.38.122.169:80 - æ²¡ææ¾å°ç«ç¹
+23.210.64.243:80 - Заголовок не найден
