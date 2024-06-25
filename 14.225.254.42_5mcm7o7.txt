@@ -1263,3 +1263,14 @@
 84.62.255.202:80 - Webinterface
 85.13.145.54:80 - 503 Service Temporarily Unavailable
 104.116.141.212:80 - Заголовок не найден
+185.244.150.136:80 - Apache2 Debian Default Page: It works
+23.53.71.52:80 - Заголовок не найден
+142.132.193.107:80 - Заголовок не найден
+23.1.77.239:80 - Заголовок не найден
+46.183.141.146:80 - This website is not in use yet – Domain hosted by Gigahost
+201.229.218.170:80 - 
+145.239.83.225:80 - Welcome to nginx on Debian!
+121.169.28.10:80 - WEB SERVICE
+52.11.78.225:80 - Lookbooks Pro
+142.180.160.210:80 - Default Site
+18.171.141.218:80 - Management of Ant Media Server
