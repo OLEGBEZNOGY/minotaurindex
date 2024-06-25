@@ -8205,3 +8205,48 @@ Jaum.kr 에 오신것을 환영합니다!
 168.135.110.38:80 - Home | DFS â Outsource Product Vendor for Business Cheques, Forms, Supplies &amp; Services
 160.8.245.128:80 - Unable to Process Request
 5.76.168.243:80 - GPON Home Gateway
+38.55.130.123:80 - 404 Not Found
+44.209.135.81:80 - Заголовок не найден
+188.165.250.6:80 - 404 Not Found
+134.209.37.95:80 - Заголовок не найден
+18.239.58.120:80 - Заголовок не найден
+197.10.93.130:80 - Заголовок не найден
+3.29.189.87:80 - Unauthorized location
+37.187.244.113:80 - Success!
+52.191.82.32:80 - Заголовок не найден
+174.138.127.25:80 - Apache2 Ubuntu Default Page: It works
+23.2.103.211:80 - Заголовок не найден
+104.221.231.178:80 - 404 Not Found
+18.67.162.172:80 - Заголовок не найден
+65.108.143.209:80 - 404 Not Found
+120.241.149.238:80 - Заголовок не найден
+74.205.102.100:80 - Заголовок не найден
+65.0.189.122:80 - HTTP Status 404 – Not Found
+155.248.214.22:80 - Site not found
+23.216.164.41:80 - Заголовок не найден
+101.55.82.148:80 - 404 Not Found
+68.183.177.109:80 - Welcome to nginx!
+68.202.62.111:80 - 
+61.63.162.67:80 - Outlook Web App
+143.204.90.54:80 - Заголовок не найден
+20.50.244.73:80 - Microsoft Azure Web App - Error 404
+50.114.66.73:80 - Page not found
+13.249.187.244:80 - Заголовок не найден
+85.214.34.33:80 - Welcome to nginx!
+104.90.240.143:80 - Заголовок не найден
+100.24.46.162:80 - Nihal Music Official
+68.66.250.189:80 - Заголовок не найден
+172.67.248.165:80 - Direct IP access not allowed | Cloudflare
+20.175.199.6:80 - Your Azure Function App is up and running.
+80.243.226.152:80 - Заголовок не найден
+161.71.97.195:80 - 403 - Forbidden: Access is denied.
+77.55.158.89:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+15.207.49.136:80 - Apache2 Ubuntu Default Page: It works
+116.103.250.30:80 - RouterOS
+125.142.200.97:80 - Заголовок не найден
+104.82.224.134:80 - Заголовок не найден
+23.43.127.162:80 - Заголовок не найден
+18.245.53.200:80 - Заголовок не найден
+137.74.125.228:80 - Error 503: Backend unavailable
+107.175.129.136:80 - 407 Proxy Authentication Required
+35.160.45.110:80 - Test Page for the Nginx HTTP Server on the Amazon Linux AMI
