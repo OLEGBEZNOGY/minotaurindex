@@ -4493,3 +4493,82 @@
 54.169.78.41:80 - PROMATT
 136.226.252.97:80 - Internet Security by Zscaler
 185.22.60.169:80 - Index of /
+23.228.87.4:80 - 404 Not Found
+217.64.129.176:80 - 500 Internal Server Error
+91.229.255.21:80 - Bluestone&nbsp;-&nbsp;Synology&nbsp;DiskStation
+45.223.111.153:80 - Заголовок не найден
+73.110.173.25:80 - 
+141.105.66.90:80 - Index of /
+104.71.143.25:80 - Заголовок не найден
+220.135.149.61:80 - 
+188.241.27.229:80 - Заголовок не найден
+216.185.212.32:80 - Test Page for the Centmin Mod Nginx HTTP Server
+8.220.70.202:80 - 阿里云 Web应用防火墙
+3.138.255.228:80 - #1 Roommate Finder Service For Single Parents | RoommatesWithKids
+147.136.251.178:80 - Web Site Blocked
+23.52.156.79:80 - Заголовок не найден
+156.224.164.170:80 - IIS Windows Server
+52.207.194.37:80 - Prometheus Time Series Collection and Processing Server
+141.138.213.141:80 - Database Error
+198.46.94.252:80 - Заголовок не найден
+169.150.213.130:80 - Nodecraft - Game Servers Done Right
+103.76.180.185:80 - Заголовок не найден
+52.117.231.20:80 - ALE Beer Brewing Equipment, Beer Fermentation Equipment, Craft Beer Brewing Equipment, Homebrew System Supplier China
+207.60.22.133:80 - 404 Not Found
+43.141.131.161:80 - Заголовок не найден
+62.94.44.233:80 - MediaAccess Gateway - Login
+54.206.155.244:80 - 403 Forbidden
+142.93.197.73:80 - Заголовок не найден
+83.149.210.6:80 - Электронная Библиотека
+23.219.210.249:80 - Заголовок не найден
+18.118.248.170:80 - Welcome to nginx!
+24.209.74.58:80 - 
+195.238.27.102:80 - 404 - Not Found
+43.132.139.199:80 - Заголовок не найден
+124.156.93.59:80 - Заголовок не найден
+99.209.155.19:80 - Заголовок не найден
+77.174.75.174:80 - Заголовок не найден
+52.79.244.81:80 - 휴대폰1번가
+94.190.238.86:80 - CPE
+128.2.228.13:80 - Hello, world!
+185.89.242.85:80 - 403 - Forbidden: Access is denied.
+51.159.194.18:80 - 403 Forbidden
+188.128.198.160:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+104.21.126.111:80 - Direct IP access not allowed | Cloudflare
+121.52.252.17:80 - ERROR: The requested URL could not be retrieved
+195.35.46.135:80 - 403 Forbidden
+177.52.254.33:80 - Заголовок не найден
+59.110.175.68:80 - Apache HTTP Server Test Page powered by CentOS
+96.45.199.189:80 - 503 Service Temporarily Unavailable
+38.174.182.7:80 - Welcome to nginx!
+149.248.63.52:80 - Unknown Domain
+193.33.204.154:80 - Default Site
+94.152.32.207:80 - Заголовок не найден
+23.203.42.111:80 - Заголовок не найден
+13.40.198.144:80 - Welcome to nginx!
+104.19.252.197:80 - Direct IP access not allowed | Cloudflare
+20.7.111.108:80 - Заголовок не найден
+38.85.232.75:80 - 403 Forbidden
+59.5.196.56:80 - WEB SERVICE
+2.20.98.75:80 - Заголовок не найден
+18.64.162.166:80 - Заголовок не найден
+160.121.89.250:80 - 404 Not Found
+205.251.215.135:80 - Заголовок не найден
+18.245.95.33:80 - Заголовок не найден
+126.29.96.93:80 - Router
+23.61.73.158:80 - Заголовок не найден
+120.77.12.251:80 - Заголовок не найден
+173.220.48.180:80 - AXIS
+62.108.45.25:80 - Заголовок не найден
+54.205.64.38:80 - Заголовок не найден
+181.26.230.16:80 - Заголовок не найден
+184.28.253.104:80 - Заголовок не найден
+52.118.129.41:80 - Заголовок не найден
+104.17.126.217:80 - Direct IP access not allowed | Cloudflare
+203.161.60.129:80 - Заголовок не найден
+18.160.178.164:80 - Заголовок не найден
+4.157.200.43:80 - Welcome to nginx!
+150.95.238.107:80 - ^T[o[Èç ¨¼O.com ^T[o[
+185.101.104.56:80 - Заголовок не найден
+184.28.170.171:80 - Заголовок не найден
+212.36.80.156:80 - Web Server's Default Page
