@@ -3010,3 +3010,19 @@
 34.192.244.12:80 - 503 Service Temporarily Unavailable
 158.193.202.10:80 - 
 199.101.96.132:80 - ERROR: The requested URL could not be retrieved
+23.0.216.33:80 - Заголовок не найден
+156.254.148.108:80 - 404 Not Found
+23.51.94.162:80 - Заголовок не найден
+93.113.203.115:80 - Заголовок не найден
+34.94.146.14:80 - Заголовок не найден
+38.152.231.53:80 - Заголовок не найден
+162.209.157.104:80 - 请使用域名访问
+104.22.51.226:80 - Direct IP access not allowed | Cloudflare
+168.76.39.132:80 - æ²¡ææ¾å°ç«ç¹
+83.166.139.133:80 - web host not found
+188.128.136.45:80 - Заголовок не найден
+51.171.108.158:80 - .::Welcome to the Web-Based Configurator::.
+104.17.7.241:80 - Direct IP access not allowed | Cloudflare
+23.2.90.6:80 - Заголовок не найден
+52.187.132.166:80 - valuetax
+104.16.71.192:80 - Direct IP access not allowed | Cloudflare
