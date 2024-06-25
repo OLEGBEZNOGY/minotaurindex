@@ -2898,3 +2898,14 @@
 45.200.248.108:80 - 404 Not Found
 96.6.229.61:80 - Заголовок не найден
 18.232.198.38:80 - Home - CIVIC Real Estate Investment Financing
+160.202.77.123:80 - 404 Not Found
+45.164.79.254:80 - 400 The plain HTTP request was sent to HTTPS port
+104.66.234.127:80 - Заголовок не найден
+54.236.126.77:80 - Заголовок не найден
+103.143.143.23:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+45.91.116.17:80 - 500 Internal Server Error
+208.112.41.33:80 - Default Parallels Plesk Panel Page
+154.214.65.140:80 - Заголовок не найден
+190.200.191.11:80 - Заголовок не найден
+43.202.207.236:80 - 403 Forbidden
+54.197.203.116:80 - Health Wealth Safe Documentation &#8211; Documentation for Health Wealth Safe&#039;s portal and mobile app
