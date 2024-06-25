@@ -5728,3 +5728,13 @@ University of Oxford
 130.211.105.25:80 - Заголовок не найден
 116.80.106.33:80 - Заголовок не найден
 158.178.239.53:80 - EndGam - Gaming Magazine Template
+124.146.156.188:80 - Заголовок не найден
+116.80.25.212:80 - Заголовок не найден
+147.83.87.57:80 - 404 Not Found
+3.17.238.119:80 - 404 Not Found
+141.95.145.142:80 - IIS Windows Server
+23.61.123.136:80 - Заголовок не найден
+167.172.232.82:80 - Web Server's Default Page
+80.209.231.208:80 - Sublime - stunning free HTML5/CSS3 website template
+162.254.196.11:80 - Заголовок не найден
+164.132.108.53:80 - Apache2 Debian Default Page: It works
