@@ -4482,3 +4482,7 @@
 85.233.161.209:80 - 500 - Internal server error.
 104.27.89.194:80 - Direct IP access not allowed | Cloudflare
 2.23.236.19:80 - Заголовок не найден
+154.204.228.112:80 - 404 Not Found
+34.242.48.26:80 - Web Server's Default Page
+138.248.180.54:80 - IIS Windows
+114.132.150.210:80 - 404 Not Found
