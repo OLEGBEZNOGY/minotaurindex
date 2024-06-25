@@ -1199,3 +1199,5 @@
 108.141.35.96:80 - Your Azure Function App is up and running.
 13.225.111.227:80 - Заголовок не найден
 91.19.76.139:80 - Fronius Inverter
+193.168.183.254:80 - ERROR: The requested URL could not be retrieved
+69.195.103.86:80 - Not Acceptable!
