@@ -8605,3 +8605,32 @@
 27.126.215.156:80 - 
 39.105.142.77:80 - å¸®çæ³å¡æºæ
 78.135.114.151:80 - Web Server's Default Page
+157.230.225.61:80 - Bienvenido
+31.28.134.222:80 - 403 Forbidden
+23.211.216.110:80 - Заголовок не найден
+23.26.218.245:80 - Web Server's Default Page
+194.94.38.224:80 - Welcome to nginx!
+23.53.200.53:80 - Заголовок не найден
+103.196.2.186:80 - Please wait, the page is opening...
+111.252.79.153:80 - 403 Forbidden
+13.200.222.20:80 - City Questions
+122.226.190.64:80 - 404 Not Found
+51.15.192.122:80 - Заголовок не найден
+23.11.131.217:80 - Заголовок не найден
+188.166.28.223:80 - 403 Forbidden
+204.139.40.7:80 - Index of /
+18.180.83.238:80 - Kstyle
+113.106.190.227:80 - 身份认证系统
+138.128.178.180:80 - Заголовок не найден
+171.239.160.103:80 - 
+151.101.162.223:80 - Fastly error: unknown domain 151.101.162.223
+13.33.77.206:80 - Заголовок не найден
+18.239.128.2:80 - Заголовок не найден
+4.193.129.112:80 - Apache2 Ubuntu Default Page: It works
+37.27.133.102:80 - IIS Windows Server
+104.68.40.143:80 - Заголовок не найден
+47.238.224.89:80 - LNMPä¸é®å®è£å by Licess
+157.230.59.23:80 - Maston Homes | Upstate South Carolina Quality Builder of Modular Homes, Communities and Land Development
+158.101.219.155:80 - Apache2 Ubuntu Default Page: It works
+160.124.53.185:80 - 404 Not Found
+104.79.12.102:80 - Заголовок не найден
