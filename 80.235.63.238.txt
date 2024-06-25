@@ -1443,3 +1443,23 @@
 23.200.18.125:80 - Заголовок не найден
 207.254.27.232:80 - Home - TASIS Switzerland
 77.55.74.61:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+52.217.42.54:80 - Amazon S3 - Cloud Object Storage  - AWS
+4.156.179.106:80 - Your Azure Function App is up and running.
+154.221.7.44:80 - 404 Not Found
+23.49.210.196:80 - Заголовок не найден
+14.53.172.138:80 - WEB SERVICE
+120.55.90.182:80 - Заголовок не найден
+104.27.207.33:80 - Direct IP access not allowed | Cloudflare
+149.56.241.185:80 - inlogic.com &mdash; Coming Soon
+104.108.254.247:80 - Заголовок не найден
+50.249.245.186:80 - 
+81.149.246.67:80 - WEB SERVICE
+119.23.214.182:80 - 404 Not Found
+176.122.18.149:80 - 503 Service Temporarily Unavailable
+86.124.155.11:80 - 403 Forbidden
+118.107.3.197:80 - Заголовок не найден
+84.200.227.235:80 - Information
+207.32.219.165:80 - Apache2 Debian Default Page: It works
+35.185.85.146:80 - Portugal U.S. Chamber of Commerce &#8211; Portugal U.S. Chamber of Commerce
+91.218.245.76:80 - 404 Not Found
+23.207.205.86:80 - Заголовок не найден
