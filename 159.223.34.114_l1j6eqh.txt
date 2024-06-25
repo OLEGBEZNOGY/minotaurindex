@@ -2525,3 +2525,24 @@
 194.5.220.95:80 - Заголовок не найден
 194.67.124.230:80 - ERROR: The requested URL could not be retrieved
 18.133.15.70:80 - Innovid | Test Page
+3.126.145.246:80 - Airsoft Tournament | App per la gestione di game e tornei softair
+54.230.99.192:80 - Заголовок не найден
+172.234.36.39:80 - Заголовок не найден
+20.125.64.209:80 - Microsoft Azure Web App - Error 404
+189.204.40.107:80 - FreePBX Administration
+149.202.139.52:80 - This server is powered by PebbleHost!
+51.171.58.215:80 - .::Welcome to the Web-Based Configurator::.
+107.222.72.42:80 - 
+13.238.39.159:80 - 403 Forbidden
+62.73.9.68:80 - Заголовок не найден
+193.57.138.104:80 - Заголовок не найден
+64.226.104.13:80 - Test Page for the Nginx HTTP Server on Rocky Linux
+23.100.106.197:80 - Заголовок не найден
+68.183.21.83:80 - 404 Not Found
+23.194.150.125:80 - Заголовок не найден
+164.47.132.23:80 - IIS Windows Server
+23.194.114.23:80 - Заголовок не найден
+185.162.228.240:80 - Direct IP access not allowed | Cloudflare
+23.39.5.236:80 - Заголовок не найден
+103.215.138.76:80 - SmarterMail
+3.94.220.42:80 - Заголовок не найден
