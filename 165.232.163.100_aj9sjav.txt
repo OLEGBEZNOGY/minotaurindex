@@ -186,3 +186,20 @@
 192.185.116.248:80 - Not Acceptable!
 190.40.234.25:80 - RouterOS router configuration page
 91.228.199.135:80 - Cyber_Folks Lepsza szybkoÅÄ stron i wsparcie bez porÃ³wnania
+148.0.51.179:80 - 
+40.79.20.76:80 - Apache2 Ubuntu Default Page: It works
+139.198.3.190:80 - Заголовок не найден
+104.25.142.46:80 - Direct IP access not allowed | Cloudflare
+210.184.66.9:80 - 404 Not Found
+23.56.54.180:80 - Заголовок не найден
+191.6.208.160:80 - Site Hospedado na KingHost | Data Center no Brasil
+216.251.193.167:80 - 403 Forbidden
+104.88.227.231:80 - Заголовок не найден
+183.56.197.189:80 - Заголовок не найден
+198.12.229.25:80 - Web Server's Default Page
+143.204.242.55:80 - Заголовок не найден
+160.218.118.200:80 - Teltonika Networks
+192.145.199.141:80 - welcome
+192.185.116.248:80 - Not Acceptable!
+190.40.234.25:80 - RouterOS router configuration page
+91.228.199.135:80 - Cyber_Folks Lepsza szybkoÅÄ stron i wsparcie bez porÃ³wnania
