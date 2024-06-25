@@ -5063,3 +5063,7 @@ Jaum.kr 에 오신것을 환영합니다!
 104.79.87.226:80 - Заголовок не найден
 154.220.25.118:80 - 404 Not Found
 35.243.218.84:80 - Inflr - Conectando marcas a influenciadores
+65.9.37.79:80 - Заголовок не найден
+180.92.175.128:80 - Apache HTTP Server Test Page powered by CentOS
+130.153.148.108:80 - Apache2 Ubuntu Default Page: It works
+123.56.247.197:80 - Заголовок не найден
