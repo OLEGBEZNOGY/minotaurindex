@@ -2402,3 +2402,16 @@
 59.26.19.32:80 - main page
 104.18.162.166:80 - Direct IP access not allowed | Cloudflare
 3.25.176.97:80 - Apache2 Debian Default Page: It works
+185.139.21.154:80 - Apache2 Ubuntu Default Page: It works
+47.95.218.5:80 - IIS Windows Server
+45.38.60.92:80 - 404 Not Found
+108.52.239.142:80 - Заголовок не найден
+112.124.178.84:80 - 403 - ½ûÖ¹·ÃÎÊ: ·ÃÎÊ±»¾Ü¾ø¡£
+184.30.47.229:80 - Заголовок не найден
+164.92.214.47:80 - Заголовок не найден
+108.186.20.6:80 - 403 Forbidden
+65.21.243.203:80 - Success!
+13.50.18.229:80 - Заголовок не найден
+165.154.201.87:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+103.74.8.124:80 - IPTV - Speed Test
+218.205.148.11:80 - 403 - ½ûÖ¹·ÃÎÊ: ·ÃÎÊ±»¾Ü¾ø¡£
