@@ -3153,3 +3153,17 @@
 122.184.66.97:80 - Заголовок не найден
 54.199.211.127:80 - 401 Unauthorized
 37.34.228.115:80 - 
+192.126.244.77:80 - ERROR: The requested URL could not be retrieved
+95.192.69.67:80 - Заголовок не найден
+137.26.33.138:80 - WEB SERVICE
+184.31.12.43:80 - Заголовок не найден
+186.6.177.96:80 - 
+112.122.156.204:80 - 403 Forbidden
+146.75.24.31:80 - Fastly error: unknown domain 146.75.24.31
+184.28.143.159:80 - Заголовок не найден
+195.3.192.12:80 - Domain nicht verfÃ¼gbar | Domain not available
+13.227.231.140:80 - Заголовок не найден
+52.18.49.217:80 - 503 Service Temporarily Unavailable
+78.128.92.140:80 - 
+82.165.170.98:80 - Default Parallels Plesk Panel Page
+104.22.55.212:80 - Direct IP access not allowed | Cloudflare
