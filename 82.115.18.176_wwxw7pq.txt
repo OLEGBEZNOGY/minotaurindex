@@ -740,3 +740,46 @@
 192.254.194.2:80 - New & Used Forklifts for Sale & Rent in Atlanta, Marietta, Roswell, Sandy Springs | Toyota Forklifts of Atlanta
 71.85.52.241:80 - 
 151.0.174.174:80 - Заголовок не найден
+104.17.146.69:80 - Direct IP access not allowed | Cloudflare
+49.50.174.100:80 - Заголовок не найден
+184.85.147.232:80 - Заголовок не найден
+20.118.100.53:80 - Microsoft Azure Web App - Error 404
+91.82.208.123:80 - SMTP.HU levÃ©lkÃ¼ldÅ szolgÃ¡ltatÃ¡s ãáµá´µá´¾á´¾ã
+150.60.49.101:80 - ControlPanel
+198.20.188.2:80 - ERROR: The requested URL could not be retrieved
+185.22.145.37:80 - Заголовок не найден
+78.61.177.37:80 - 403 - Forbidden
+52.12.3.53:80 - LiveOne - Music, Podcasts and more
+133.6.66.111:80 - 電気学会 金属・セラミックス技術委員会
+52.85.248.72:80 - Заголовок не найден
+213.239.197.240:80 - 404 Not Found
+38.152.61.12:80 - ERROR: The requested URL could not be retrieved
+80.74.145.31:80 - we create fans by standing ovation gmbh
+18.164.76.106:80 - Заголовок не найден
+104.18.212.223:80 - Direct IP access not allowed | Cloudflare
+156.253.81.237:80 - 404 Not Found
+66.39.115.129:80 - Karen DeWinter
+23.216.197.182:80 - Заголовок не найден
+51.191.136.168:80 - 400 The plain HTTP request was sent to HTTPS port
+69.54.52.196:80 - Document Moved
+163.5.215.163:80 - 404 Not Found
+23.231.98.80:80 - 500 Internal Server Error
+172.82.160.77:80 - 404 Not Found
+194.180.6.239:80 - Заголовок не найден
+18.161.222.90:80 - Заголовок не найден
+104.25.59.166:80 - Direct IP access not allowed | Cloudflare
+23.49.179.87:80 - Заголовок не найден
+75.140.43.106:80 - Index
+3.137.190.51:80 - Apache2 Ubuntu Default Page: It works
+154.37.252.77:80 - ERROR: The requested URL could not be retrieved
+104.200.171.8:80 - æ²¡ææ¾å°ç«ç¹
+172.232.208.72:80 - Welcome to nginx!
+202.61.241.234:80 - Заголовок не найден
+62.225.156.121:80 - Заголовок не найден
+35.75.221.237:80 - 401 Authorization Required
+106.241.31.16:80 - Заголовок не найден
+164.125.252.224:80 - Заголовок не найден
+116.119.51.252:80 - Заголовок не найден
+195.136.95.190:80 - Заголовок не найден
+31.184.219.14:80 - Welcome to nginx!
+211.220.64.239:80 - 401 - Unauthorized
