@@ -2754,3 +2754,13 @@
 194.48.175.84:80 - RouterOS router configuration page
 104.36.85.1:80 - åä¸åå·¥ä¼ä¸æ¨¡æ¿
 116.212.3.54:80 - Заголовок не найден
+178.85.79.99:80 - Index
+137.175.69.11:80 - 403 Forbidden
+20.221.41.52:80 - Azure Container App - Unavailable
+133.242.167.235:80 - びじゅつのまほう
+139.162.106.42:80 - Outlook
+64.37.59.198:80 - Заголовок не найден
+3.21.13.97:80 - 503 Service Temporarily Unavailable
+186.0.197.58:80 - RouterOS router configuration page
+61.216.87.68:80 - Заголовок не найден
+20.80.71.221:80 - 404 Not Found
