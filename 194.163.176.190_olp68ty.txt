@@ -1172,3 +1172,14 @@
 13.110.68.189:80 - Unable to Process Request
 151.101.36.173:80 - Fastly error: unknown domain 151.101.36.173
 202.79.165.84:80 - 404 Not Found
+23.197.188.47:80 - Заголовок не найден
+77.75.231.36:80 - Coming Soon - jsduba.com
+186.235.12.116:80 - welcome
+185.182.185.246:80 - 403 Forbidden
+208.123.213.12:80 - Заголовок не найден
+123.140.136.170:80 - ë¦¬ëª¨í¸ UI: ë¡ê·¸ì¸: MF230 Series: MF230 Series
+151.106.34.171:80 - IIS Windows Server
+13.32.171.58:80 - Заголовок не найден
+104.193.150.232:80 - 500 Internal Server Error
+157.90.159.87:80 - Bluescream Pictures
+89.161.174.103:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
