@@ -47,3 +47,40 @@
 182.48.43.81:80 - 403 Forbidden
 104.248.238.93:80 - W7Bet: Casa de Apostas Online
 216.32.27.230:80 - Apache2 Ubuntu Default Page: It works
+172.121.143.144:80 - 403 Forbidden
+5.61.37.189:80 - KAVUNKA
+91.223.117.136:80 - 403 Forbidden
+orarily Unavailable
+47.96.174.195:80 - 403 Forbidden
+3.220.231.124:80 - Заголовок не найден
+177.19.211.113:80 - 403 Forbidden
+34.102.200.7:80 - 502 Server Error
+79.96.238.38:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+104.223.114.162:80 - Заголовок не найден
+162.159.39.101:80 - Direct IP access not allowed | Cloudflare
+46.229.170.207:80 - 503 Service Temporarily Unavailable
+196.51.72.111:80 - ERROR: The requested URL could not be retrieved
+104.192.83.94:80 - 404 Not Found
+95.179.250.109:80 - Заголовок не найден
+52.83.242.214:80 - Welcome to nginx!
+54.207.214.217:80 - Welcome to nginx!
+85.214.132.58:80 - Web Server's Default Page
+108.138.55.186:80 - Заголовок не найден
+34.160.199.213:80 - 403 Forbidden
+12.204.54.81:80 - RouterOS router configuration page
+38.182.203.42:80 - Заголовок не найден
+101.69.194.222:80 - Заголовок не найден
+52.5.132.7:80 - Apache2 Ubuntu Default Page: It works
+216.119.130.163:80 - Заголовок не найден
+61.189.3.106:80 - Заголовок не найден
+217.147.94.53:80 - Apache HTTP Server Test Page powered by CentOS
+107.23.36.251:80 - 401 Unauthorized
+167.172.78.97:80 - 404 Not Found
+38.48.222.81:80 - æ²¡ææ¾å°ç«ç¹
+64.62.217.184:80 - HURRICANE ELECTRIC
+4.175.23.196:80 - Заголовок не найден
+154.92.56.10:80 - 404 Not Found
+192.180.3.42:80 - Заголовок не найден
+78.141.210.97:80 - Index of /
+104.67.220.10:80 - Заголовок не найден
+167.235.187.43:80 - JUICE • Negozio
