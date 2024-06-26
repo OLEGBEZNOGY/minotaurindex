@@ -5950,3 +5950,11 @@
 84.46.239.156:80 - Apache2 Ubuntu Default Page: It works
 83.70.200.67:80 - ACME Access Only
 108.159.87.163:80 - Заголовок не найден
+38.9.112.153:80 - welcome
+108.158.164.90:80 - Заголовок не найден
+52.50.188.123:80 - 404 Not Found
+49.13.129.80:80 - 18 mai 2024 &#8211; Salomon EcoRun Moieciu
+104.27.74.73:80 - Direct IP access not allowed | Cloudflare
+50.210.83.173:80 - Document Moved
+63.195.203.34:80 - AT&T WiFi Portal
+167.235.139.222:80 - Заголовок не найден
