@@ -3569,3 +3569,32 @@
 13.33.113.140:80 - Заголовок не найден
 172.66.210.252:80 - Direct IP access not allowed | Cloudflare
 54.235.204.207:80 - 502 Bad Gateway
+61.92.49.184:80 - 
+15.229.176.209:80 - 404 Not Found
+23.209.197.89:80 - Заголовок не найден
+34.131.3.114:80 - Homepage - Pharmalytics group
+108.139.95.208:80 - Заголовок не найден
+39.35.255.83:80 - WEB SERVICE
+160.116.186.172:80 - 400 Bad Request
+217.116.202.136:80 - Заголовок не найден
+138.68.77.192:80 - Welcome to nginx!
+13.35.83.140:80 - Заголовок не найден
+80.234.144.203:80 - .::Welcome to the Web-Based Configurator::.
+20.205.216.110:80 - Microsoft Azure Web App - Error 404
+54.255.44.120:80 - NCS Innolympics
+175.45.79.75:80 - NDT (Network Diagnostic Tool) Server from Measurement Lab
+168.76.243.169:80 - 404 Not Found
+79.96.145.66:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+38.11.18.23:80 - 404 Not Found
+159.223.33.97:80 - Togel &#8211; Just another WordPress site
+8.217.66.240:80 - 403 Forbidden
+104.248.98.47:80 - Welcome to nginx!
+23.78.53.169:80 - Заголовок не найден
+118.215.85.229:80 - Заголовок не найден
+51.89.229.188:80 - Boxer - Software Landing Page
+52.91.39.0:80 - Welcome to nginx!
+121.130.223.143:80 - 
+104.25.240.132:80 - Direct IP access not allowed | Cloudflare
+23.214.88.24:80 - Заголовок не найден
+104.17.162.179:80 - Direct IP access not allowed | Cloudflare
+23.199.44.10:80 - Заголовок не найден
