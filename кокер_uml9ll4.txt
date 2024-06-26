@@ -2372,3 +2372,21 @@
 34.71.4.88:80 - Welcome - GPP - Grupo de Políticas Públicas
 185.142.66.54:80 - Заголовок не найден
 23.211.251.192:80 - Заголовок не найден
+172.82.151.193:80 - 403 Forbidden
+122.228.73.133:80 - 403 Forbidden
+23.51.208.170:80 - Заголовок не найден
+42.194.235.69:80 - 404 Not Found
+223.223.158.30:80 - Error 404 (Not Found)!!1
+52.217.33.208:80 - Amazon S3 - Cloud Object Storage  - AWS
+12.146.116.143:80 - AT&T WiFi Portal
+218.159.32.105:80 - Web Viewer for Samsung DVR
+213.66.60.238:80 - Redirect to Login
+149.30.210.234:80 - 403 Forbidden
+94.199.64.142:80 - Телеком ГХК
+118.92.207.168:80 - Заголовок не найден
+120.48.90.53:80 - 404 Not Found
+47.95.150.64:80 - 403 Forbidden
+18.67.229.52:80 - Заголовок не найден
+92.69.121.109:80 - Teltonika Networks
+92.62.98.254:80 - RouterOS router configuration page
+50.2.129.78:80 - 403 Forbidden
