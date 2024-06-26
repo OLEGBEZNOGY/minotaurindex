@@ -2410,3 +2410,69 @@
 94.237.96.203:80 - Web Server's Default Page
 138.68.174.18:80 - Заголовок не найден
 104.24.248.69:80 - Direct IP access not allowed | Cloudflare
+37.140.222.120:80 - 403 - Forbidden: Access is denied.
+20.218.110.125:80 - Заголовок не найден
+75.65.228.69:80 - 
+89.251.22.99:80 - Заголовок не найден
+95.105.191.238:80 - Apache2 Debian Default Page: It works
+209.250.19.248:80 - Apache HTTP Server Test Page powered by CentOS
+147.45.183.4:80 - 404 Not Found
+185.8.196.134:80 - 403 Forbidden
+173.255.195.85:80 - æ²¡ææ¾å°ç«ç¹
+23.193.33.219:80 - Заголовок не найден
+154.64.244.23:80 - 404 Not Found
+3.95.6.157:80 - A sample web app
+162.159.200.242:80 - Direct IP access not allowed | Cloudflare
+18.164.15.105:80 - Заголовок не найден
+184.30.139.114:80 - Заголовок не найден
+217.194.217.186:80 - Заголовок не найден
+23.55.2.102:80 - Заголовок не найден
+88.199.88.249:80 - ::: Witaj w LMS 1.11.8 Belus :::
+20.13.52.35:80 - Your Azure Function App is up and running.
+207.154.240.75:80 - CakePHP: the rapid development PHP framework
+104.16.244.173:80 - Direct IP access not allowed | Cloudflare
+3.109.52.124:80 - Заголовок не найден
+184.84.146.69:80 - Заголовок не найден
+2.21.184.168:80 - Заголовок не найден
+203.34.80.249:80 - Direct IP access not allowed | Cloudflare
+121.181.115.220:80 - 
+23.55.95.110:80 - Заголовок не найден
+58.235.207.157:80 - main page
+23.79.59.169:80 - Заголовок не найден
+213.181.147.141:80 - Заголовок не найден
+83.229.120.226:80 - Welcome to nginx!
+210.159.84.117:80 - 403 Forbidden
+217.133.26.26:80 - Apache HTTP Server Test Page powered by CentOS
+206.189.128.66:80 - Login | Green Mobiles Internal Wiki
+207.54.108.21:80 - Document Moved
+5.2.194.33:80 - Заголовок не найден
+184.29.232.240:80 - Заголовок не найден
+184.31.177.220:80 - Заголовок не найден
+72.246.166.134:80 - Заголовок не найден
+159.203.54.24:80 - ILO Homepage | International Labour Organization
+165.22.24.139:80 - ACM Moveis Index
+23.26.217.56:80 - 404 Not Found
+23.202.12.241:80 - Заголовок не найден
+52.95.132.75:80 - Amazon S3 - Cloud Object Storage  - AWS
+167.114.96.48:80 - Apache HTTP Server Test Page powered by CentOS
+3.92.141.82:80 - Заголовок не найден
+23.51.153.190:80 - Заголовок не найден
+91.198.200.88:80 - 403 Forbidden
+45.228.254.40:80 - welcome
+154.213.40.140:80 - 403 Forbidden
+47.243.67.189:80 - IIS Windows Server
+108.181.207.85:80 - Index of /
+186.128.192.11:80 - Заголовок не найден
+108.179.242.203:80 - Not Acceptable!
+45.32.7.216:80 - 404 Not Found
+18.245.246.120:80 - Заголовок не найден
+38.152.192.161:80 - ERROR: The requested URL could not be retrieved
+13.48.123.170:80 - Welcome to nginx!
+23.38.4.80:80 - Заголовок не найден
+76.88.146.185:80 - WEB SERVICE
+71.241.134.110:80 - Заголовок не найден
+167.99.255.131:80 - 404 Not Found
+44.195.110.240:80 - 404 Not Found
+104.27.103.58:80 - Direct IP access not allowed | Cloudflare
+188.166.96.205:80 - Knivesandtools - Design Tool
+104.18.251.63:80 - Direct IP access not allowed | Cloudflare
