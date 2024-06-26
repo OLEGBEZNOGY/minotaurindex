@@ -69,3 +69,4 @@
 38.38.102.51:80 - 404 Not Found
 121.37.160.52:80 - Заголовок не найден
 104.19.149.182:80 - Direct IP access not allowed | Cloudflare
+13.228.1.12:80 - 403 Forbidden
