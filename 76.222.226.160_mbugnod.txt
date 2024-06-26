@@ -4448,3 +4448,143 @@
 38.25.114.244:80 - 
 118.190.94.79:80 - 跳转提示
 184.26.21.63:80 - Заголовок не найден
+130.105.114.76:80 - Заголовок не найден
+152.69.208.81:80 - 502 Bad Gateway
+118.190.150.142:80 - ç½ç«è®¿é®æ¥é
+120.26.201.181:80 - 404 Not Found
+160.124.247.119:80 - Заголовок не найден
+108.138.228.242:80 - Заголовок не найден
+151.101.63.91:80 - Fastly error: unknown domain 151.101.63.91
+18.66.200.238:80 - Заголовок не найден
+161.47.91.19:80 - IIS Windows Server
+108.139.230.44:80 - Заголовок не найден
+18.244.108.135:80 - Заголовок не найден
+20.8.48.253:80 - Your Azure Function App is up and running.
+106.1.148.229:80 - 
+154.82.124.45:80 - ç¾åº¦ä¸ä¸ï¼ä½ å°±ç¥é
+18.195.124.203:80 - 404 Not Found
+51.38.99.69:80 - Blue Careers - The BlueGeneration Project Job Portal
+210.56.11.181:80 - Web Server's Default Page
+203.176.94.186:80 - 404 Not Found
+121.37.193.155:80 - HTTP Status 404 – Not Found
+154.216.89.84:80 - 404 Not Found
+23.37.144.149:80 - Заголовок не найден
+23.38.47.143:80 - Заголовок не найден
+4.245.115.46:80 - Заголовок не найден
+104.16.79.186:80 - Direct IP access not allowed | Cloudflare
+157.174.227.249:80 - Endpoint Management - Console - Logon
+148.215.2.136:80 - Заголовок не найден
+120.155.26.213:80 - Заголовок не найден
+76.223.1.186:80 - 403 Forbidden
+87.255.237.218:80 - 403 Forbidden
+62.246.76.74:80 - Заголовок не найден
+23.202.173.158:80 - Заголовок не найден
+96.9.5.193:80 - 403 Forbidden
+64.121.104.127:80 - Web Viewer for Samsung DVR
+209.16.106.26:80 - 403 Forbidden
+196.51.105.117:80 - ERROR: The requested URL could not be retrieved
+104.18.224.71:80 - Direct IP access not allowed | Cloudflare
+202.51.200.163:80 - 
+108.186.152.156:80 - 404 Not Found
+38.38.3.61:80 - Sorry, the website has been stopped
+23.208.100.17:80 - Заголовок не найден
+216.158.239.245:80 - Заголовок не найден
+154.12.197.148:80 - ERROR: The requested URL could not be retrieved
+51.38.113.8:80 - Success!
+69.30.206.114:80 - Welcome to nginx!
+52.195.37.170:80 - 503 Service Temporarily Unavailable
+23.64.97.199:80 - Заголовок не найден
+108.139.189.138:80 - Заголовок не найден
+94.241.141.247:80 - 502 Bad Gateway
+79.123.136.215:80 - 404 Not Found
+34.211.96.106:80 - Заголовок не найден
+8.131.118.77:80 - æ²¡ææ¾å°ç«ç¹
+18.66.227.228:80 - Заголовок не найден
+196.223.130.35:80 - RouterOS router configuration page
+23.218.171.250:80 - Заголовок не найден
+23.223.51.87:80 - Заголовок не найден
+45.77.96.160:80 - Unknown Domain
+24.217.178.254:80 - 
+159.89.98.144:80 - 404 Not Found
+121.40.49.241:80 - IIS7
+103.126.83.29:80 - 404 Not Found
+204.44.74.190:80 - jundspeg.com
+109.251.109.36:80 - Apache2 Ubuntu Default Page: It works
+51.38.74.87:80 - Index of /
+23.214.3.128:80 - Заголовок не найден
+51.250.73.15:80 - 404 Not Found
+185.220.4.207:80 - 403 Forbidden
+54.236.121.121:80 - Заголовок не найден
+192.82.60.164:80 - Заголовок не найден
+156.240.27.245:80 - Заголовок не найден
+120.206.185.142:80 - Заголовок не найден
+70.116.124.178:80 - 
+172.64.108.11:80 - Direct IP access not allowed | Cloudflare
+185.229.118.31:80 - Account Suspended
+3.165.70.162:80 - Заголовок не найден
+91.203.70.161:80 - IIS Windows Server
+84.228.117.69:80 - 
+23.208.2.84:80 - Заголовок не найден
+186.7.215.23:80 - 
+45.158.223.63:80 - 404 Not Found
+116.74.253.229:80 - Hello! Welcome to Synology Web Station!
+179.61.156.8:80 - 407 Proxy Authentication Required
+23.43.142.224:80 - Заголовок не найден
+8.20.78.244:80 - Заголовок не найден
+154.213.153.208:80 - 404 Not Found
+20.118.138.198:80 - Заголовок не найден
+172.93.142.39:80 - ERROR: The requested URL could not be retrieved
+119.45.137.130:80 - 
+124.129.32.51:80 - Заголовок не найден
+34.120.230.79:80 - Заголовок не найден
+89.161.207.99:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+162.240.39.209:80 - Заголовок не найден
+91.96.124.185:80 - Default Site
+94.237.113.0:80 - Not Found
+50.3.171.246:80 - 403 Forbidden
+89.97.40.106:80 - NethServer Enterprise
+194.29.100.22:80 - Opal | Australian Opal | Opal Jewellery - Opal Diamond Factory - Diamond Jewellery | Opals Adelaide | Opals | Opal Engagement Ring | Opal Shop | Custom Opal Jewellery
+179.60.184.33:80 - Apache HTTP Server Test Page powered by CentOS
+47.91.221.9:80 - LNMPä¸é®å®è£å by Licess
+152.136.184.193:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+211.86.200.39:80 - 合肥师范学院统一身份认证平台
+103.70.115.26:80 - Заголовок не найден
+203.246.167.98:80 - Заголовок не найден
+121.187.6.29:80 - Session Security Manager
+23.193.115.211:80 - Заголовок не найден
+23.34.211.185:80 - Заголовок не найден
+95.84.192.85:80 - 403 Forbidden
+219.218.115.124:80 - 404 Not Found
+46.41.191.91:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+162.240.33.243:80 - Заголовок не найден
+142.93.8.216:80 - Apache2 Ubuntu Default Page: It works
+114.108.188.3:80 - Заголовок не найден
+77.146.102.239:80 - 
+65.9.128.110:80 - Заголовок не найден
+173.232.84.112:80 - 403 Forbidden
+123.22.118.177:80 - WEB SERVICE
+35.230.217.176:80 - 403 Forbidden
+20.238.164.141:80 - Your Azure Function App is up and running.
+104.165.231.67:80 - 403 Forbidden
+89.212.249.117:80 - Net Viewer
+200.88.33.124:80 - 
+104.68.30.166:80 - Заголовок не найден
+101.35.32.123:80 - Заголовок не найден
+18.66.30.71:80 - Заголовок не найден
+172.176.69.250:80 - Заголовок не найден
+43.207.147.199:80 - æ²¡ææ¾å°ç«ç¹
+23.9.178.226:80 - Заголовок не найден
+104.19.49.38:80 - Direct IP access not allowed | Cloudflare
+78.47.87.244:80 - Web Server's Default Page
+23.12.255.213:80 - Заголовок не найден
+201.213.174.237:80 - RouterOS router configuration page
+176.196.76.12:80 - 403 Forbidden
+128.199.81.4:80 - Apache2 Ubuntu Default Page: It works
+68.66.227.110:80 - Заголовок не найден
+158.247.28.176:80 - Trust &amp; Safety Policies
+160.124.40.182:80 - 403 Forbidden
+87.79.83.30:80 - Apache2 Ubuntu Default Page: It works
+153.92.127.53:80 - 503 Service Unavailable
+18.67.50.69:80 - Заголовок не найден
+44.239.133.220:80 - PHP Application - AWS Elastic Beanstalk
+54.177.247.139:80 - Welcome to nginx!
