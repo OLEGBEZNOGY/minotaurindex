@@ -11547,3 +11547,68 @@ Documentation - Apache HTTP Server Version 2.2
 52.193.160.148:80 - Заголовок не найден
 192.0.79.122:80 - WordPress.com Developer Resources &#8211; Create cool applications that integrate with WordPress.com
 184.26.19.159:80 - Заголовок не найден
+172.121.143.97:80 - 403 Forbidden
+23.61.112.155:80 - Заголовок не найден
+166.167.181.187:80 - Login
+152.42.222.227:80 - Apache2 Ubuntu Default Page: It works
+15.165.30.172:80 - Test Page for the Apache HTTP Server
+20.157.184.133:80 - Заголовок не найден
+45.77.224.182:80 - Заголовок не найден
+196.51.10.188:80 - ERROR: The requested URL could not be retrieved
+50.116.83.188:80 - Not Acceptable!
+203.187.204.99:80 - index
+104.19.45.154:80 - Direct IP access not allowed | Cloudflare
+104.74.33.36:80 - Заголовок не найден
+18.116.251.219:80 - Test Page for the Nginx HTTP Server on Amazon Linux
+52.217.98.72:80 - Amazon S3 - Cloud Object Storage  - AWS
+20.81.32.118:80 - Microsoft Azure Web App - Error 404
+52.199.184.191:80 - 403 Forbidden
+35.181.127.156:80 - 404 Not Found
+17.171.49.138:80 - 403 Forbidden
+200.58.119.64:80 - Aldea de los Cocos
+217.38.216.26:80 - 
+94.130.91.174:80 - BeamNG Mattermost
+24.144.69.161:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+23.225.238.50:80 - è·³è½¬ä¸­
+18.155.29.15:80 - Заголовок не найден
+185.58.140.48:80 - Заголовок не найден
+184.26.109.203:80 - Заголовок не найден
+45.57.63.150:80 - 403 Forbidden
+23.209.11.206:80 - Заголовок не найден
+179.53.201.73:80 - 
+74.117.221.216:80 - Notes
+59.127.80.236:80 - Remote Surveillance, Any time &amp; Any where
+95.57.220.245:80 - Nextcloud
+143.204.9.241:80 - Заголовок не найден
+110.39.51.93:80 - 
+20.223.3.197:80 - Your Azure Function App is up and running.
+38.55.169.12:80 - 404 Not Found
+134.73.80.201:80 - æ²¡ææ¾å°ç«ç¹
+130.105.57.191:80 - Заголовок не найден
+49.212.135.28:80 - ログイン
+80.211.181.159:80 - 404 - Page Not Found
+18.183.222.242:80 - 403 Forbidden
+193.248.166.23:80 - 
+148.0.80.154:80 - 
+191.85.253.190:80 - Заголовок не найден
+46.19.198.191:80 - Заголовок не найден
+3.6.166.41:80 - Apache2 Ubuntu Default Page: It works
+38.152.39.16:80 - Заголовок не найден
+61.84.14.22:80 - Session Security Manager
+34.160.79.92:80 - 403
+63.135.111.182:80 - Заголовок не найден
+87.106.7.181:80 - Default Parallels Plesk Panel Page
+104.115.81.159:80 - Заголовок не найден
+185.202.239.69:80 - FASTPANEL
+151.101.187.170:80 - Fastly error: unknown domain 151.101.187.170
+49.213.213.242:80 - WEB SERVICE
+83.94.121.210:80 - Error 404 (Not Found)!!1
+23.45.162.246:80 - Заголовок не найден
+104.100.162.187:80 - Заголовок не найден
+35.181.36.115:80 - Home: Welcome to MillionairePowerPlay
+194.78.229.189:80 - 403 Forbidden
+23.15.17.102:80 - Заголовок не найден
+37.109.58.224:80 - Заголовок не найден
+50.87.151.198:80 - Not Acceptable!
+220.133.183.162:80 - 
+18.182.195.215:80 - 503 Service Temporarily Unavailable
