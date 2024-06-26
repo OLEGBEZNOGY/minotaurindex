@@ -2338,3 +2338,41 @@
 121.186.53.46:80 - Заголовок не найден
 31.31.75.20:80 - Úvod |  Monitoring fotovoltaických elektráren - Protection Solar Control
 23.54.112.182:80 - Заголовок не найден
+23.33.94.250:80 - Заголовок не найден
+103.5.90.78:80 - Заголовок не найден
+45.9.111.237:80 - 404 Not Found
+210.65.88.122:80 - KUTAI Electronics, Manufacturer and Supplier of Generator Set Parts in Taiwan
+212.71.253.178:80 - localhost.example.com &mdash; Coming Soon
+151.80.193.235:80 - 403 Forbidden
+18.154.95.250:80 - Заголовок не найден
+122.116.149.44:80 - Заголовок не найден
+104.18.77.93:80 - Direct IP access not allowed | Cloudflare
+35.227.224.187:80 - Store Unavailable
+18.130.110.137:80 - Interactive Map
+108.156.76.162:80 - Заголовок не найден
+23.33.206.141:80 - Заголовок не найден
+75.119.150.222:80 - Заголовок не найден
+156.225.95.68:80 - 404 Not Found
+82.192.80.232:80 - 502 Bad Gateway
+156.224.9.250:80 - 404 Not Found
+23.36.61.83:80 - Заголовок не найден
+18.134.101.148:80 - 503 Service Temporarily Unavailable
+190.50.128.248:80 - Заголовок не найден
+24.192.224.180:80 - Overview - XM3.1-915-HP
+94.103.124.122:80 - Welcome to nginx!
+45.223.215.136:80 - Заголовок не найден
+13.33.215.100:80 - Заголовок не найден
+159.60.131.104:80 - Error Page
+23.220.105.196:80 - Заголовок не найден
+104.128.94.132:80 - GitHub: Let’s build from here · GitHub
+51.178.126.62:80 - Welcome to nginx!
+45.79.124.23:80 - NextMyles GPS Platform
+23.51.62.161:80 - Заголовок не найден
+203.31.111.43:80 - Заголовок не найден
+3.218.168.173:80 - Заголовок не найден
+103.6.213.49:80 - Apache2 Ubuntu Default Page: It works
+157.230.224.203:80 - Composed installation: Zabbix
+104.16.159.111:80 - Direct IP access not allowed | Cloudflare
+52.84.82.140:80 - Заголовок не найден
+104.25.179.98:80 - Direct IP access not allowed | Cloudflare
+195.133.54.208:80 - 500 Internal Server Error
