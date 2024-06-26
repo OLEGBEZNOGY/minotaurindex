@@ -5677,3 +5677,8 @@ ch nazwa.pl
 47.96.183.38:80 - Заголовок не найден
 18.160.249.198:80 - Заголовок не найден
 188.166.79.89:80 - Apache2 Ubuntu Default Page: It works
+162.215.101.133:80 - Not Acceptable!
+188.172.196.12:80 - HEROLD Business Data GmbH
+173.240.158.109:80 - Just a moment...
+159.203.73.63:80 - Заголовок не найден
+94.246.101.70:80 - IIS Windows Server
