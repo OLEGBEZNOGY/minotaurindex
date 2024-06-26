@@ -3455,3 +3455,18 @@
 87.188.145.11:80 - LANCOM 883 VoIP (over ISDN) - Filiale-24: Error - Access Forbidden
 110.185.109.6:80 - Заголовок не найден
 212.229.81.176:80 - FileCloud
+142.0.105.80:80 - Заголовок не найден
+110.139.248.198:80 - welcome
+96.19.119.146:80 - Default Site
+51.91.81.35:80 - 404 Not Found
+54.66.150.235:80 - PANDORA188 Situs Judi Online Resmi Deposit Pulsa Terbaik
+150.95.22.51:80 - Index of /
+54.65.25.58:80 - Test Page for the Nginx HTTP Server on Amazon Linux
+119.29.194.29:80 - Заголовок не найден
+154.9.54.187:80 - ERROR: The requested URL could not be retrieved
+23.196.255.149:80 - Заголовок не найден
+173.222.249.149:80 - Заголовок не найден
+52.34.98.158:80 - 404 Not Found
+45.55.64.83:80 - Site is created successfully!
+15.207.164.41:80 - RedisInsight
+208.73.204.40:80 - 404 Not Found
