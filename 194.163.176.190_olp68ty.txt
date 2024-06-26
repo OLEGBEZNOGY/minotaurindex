@@ -9723,3 +9723,8 @@
 154.205.84.227:80 - 404 Not Found
 193.210.11.155:80 - ACME Access Only
 81.10.75.111:80 - 
+18.160.97.146:80 - Заголовок не найден
+172.67.210.203:80 - Direct IP access not allowed | Cloudflare
+51.15.162.39:80 - Serveur Dedibox en maintenance
+38.33.108.40:80 - Заголовок не найден
+3.29.93.38:80 - 502 Bad Gateway
