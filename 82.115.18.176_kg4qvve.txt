@@ -7044,3 +7044,46 @@ B1000
 212.54.181.88:80 - Web Server's Default Page
 8.30.124.156:80 - Document Moved
 2.23.222.123:80 - Заголовок не найден
+5.79.73.7:80 - Welcome!
+5.79.97.62:80 - epzanamo.site
+104.17.1.40:80 - Direct IP access not allowed | Cloudflare
+38.207.4.39:80 - 404 Not Found
+194.165.161.40:80 - IIS Windows Server
+52.218.179.3:80 - Amazon S3 - Cloud Object Storage  - AWS
+78.197.114.78:80 - Bonjour&nbsp;! Bienvenue dans Synology Web Station&nbsp;!
+24.119.96.204:80 - WEB SERVICE
+23.8.194.159:80 - Заголовок не найден
+18.64.145.40:80 - Заголовок не найден
+222.113.53.57:80 - index
+216.58.0.200:80 - Заголовок не найден
+51.210.97.91:80 - Apache2 Ubuntu Default Page: It works
+52.208.226.23:80 - Заголовок не найден
+190.9.128.57:80 - dchfront3.cantv.com.ve
+178.210.74.34:80 - ÐÑÐ¸Ð±ÐºÐ° - Ð½ÐµÑ Ð½Ð¸ Ð¾Ð´Ð½Ð¾Ð³Ð¾ ÑÐ°Ð¹ÑÐ°
+202.62.55.244:80 - Заголовок не найден
+70.39.66.110:80 - ERROR: The requested URL could not be retrieved
+211.232.1.60:80 - Заголовок не найден
+163.43.140.132:80 - 404 Not Found
+5.249.153.137:80 - IIS Windows Server
+201.207.51.62:80 - 
+23.50.144.65:80 - Заголовок не найден
+163.237.211.216:80 - Заголовок не найден
+3.79.85.35:80 - Error
+149.115.27.120:80 - Заголовок не найден
+62.129.228.252:80 - Strona w przygotowaniu...
+148.0.6.238:80 - 
+213.183.48.82:80 - Личный кабинет
+72.66.1.140:80 - Welcome to nginx!
+79.96.214.78:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+46.172.79.2:80 - Welcome to nginx!
+104.19.183.85:80 - Direct IP access not allowed | Cloudflare
+199.116.139.106:80 - UrBackup - Keeps your data safe
+161.71.128.76:80 - Unable to Process Request
+156.224.146.131:80 - 404 Not Found
+13.84.42.211:80 - Microsoft Azure Web App - Error 404
+81.169.217.178:80 - FileMaker Website
+156.229.14.43:80 - IIS7
+190.2.138.13:80 - Web Server's Default Page
+2.17.1.60:80 - Заголовок не найден
+109.173.160.53:80 - Заголовок не найден
+193.203.184.54:80 - 403 Forbidden
