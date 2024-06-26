@@ -4624,3 +4624,40 @@
 217.18.56.19:80 - 404 Not Found
 89.28.242.96:80 - Webmail Service - pdv-systeme Sachsen GmbH :: Welcome to Webmail Service - pdv-systeme Sachsen GmbH
 40.84.226.126:80 - Microsoft Azure Web App - Error 404
+101.58.31.82:80 - Заголовок не найден
+132.177.136.118:80 - AMS: Accounts Management System: Please login...
+72.55.181.110:80 - Заголовок не найден
+196.51.100.33:80 - ERROR: The requested URL could not be retrieved
+85.122.143.31:80 - 
+60.114.30.200:80 - Заголовок не найден
+185.38.135.212:80 - Direct IP access not allowed | Cloudflare
+66.161.179.70:80 - 
+50.87.231.252:80 - Not Acceptable!
+50.2.11.139:80 - 403 Forbidden
+82.214.168.162:80 - RouterOS router configuration page
+18.207.40.124:80 - Заголовок не найден
+23.51.76.175:80 - Заголовок не найден
+76.84.177.62:80 - 
+77.238.88.238:80 - Please wait, the page is opening...
+23.207.125.130:80 - Заголовок не найден
+158.140.205.114:80 - 404 Not Found
+35.133.43.95:80 - 
+196.51.7.62:80 - ERROR: The requested URL could not be retrieved
+185.255.209.235:80 - WEB SERVICE
+3.86.159.220:80 - PatmOS LMS - Sistema de Cursos en línea
+23.67.58.52:80 - Error
+34.159.215.169:80 - 503 Service Temporarily Unavailable
+156.234.37.62:80 - Заголовок не найден
+192.99.33.158:80 - ns530555.ip-192-99-33.net &mdash; Coming Soon
+220.128.80.200:80 - Заголовок не найден
+23.7.186.113:80 - Заголовок не найден
+59.126.66.37:80 - Заголовок не найден
+23.223.0.40:80 - Заголовок не найден
+114.33.52.39:80 - Заголовок не найден
+103.76.137.58:80 - Заголовок не найден
+185.160.31.105:80 - It worked! &mdash; Coming Soon
+104.20.128.36:80 - Direct IP access not allowed | Cloudflare
+91.105.77.92:80 - 
+163.171.208.246:80 - 403 Forbidden
+213.97.53.183:80 - Заголовок не найден
+160.121.96.29:80 - 404 Not Found
