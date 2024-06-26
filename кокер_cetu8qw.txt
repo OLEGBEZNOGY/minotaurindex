@@ -4140,3 +4140,24 @@ ch nazwa.pl
 18.165.227.149:80 - Заголовок не найден
 52.27.181.82:80 - Заголовок не найден
 3.160.92.196:80 - Заголовок не найден
+65.32.49.250:80 - 
+202.43.50.99:80 - Заголовок не найден
+38.33.203.232:80 - 404 Not Found
+144.217.107.84:80 - Index of /
+35.201.48.34:80 - 35.201.48.34.corp.google.com - Google Single Sign On: Sign into corp
+45.79.116.146:80 - Заголовок не найден
+35.225.164.123:80 - Site Not Configured | 404 Not Found
+205.147.101.116:80 - TaDa Time - AR Messenger App | Communication Redefined
+79.96.155.243:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+116.198.151.181:80 - 400 No IP
+34.244.229.235:80 - Apache Tomcat/7.0.70 - Error report
+45.76.158.245:80 - Hello
+141.94.206.184:80 - 404 Not Found
+23.44.69.181:80 - Заголовок не найден
+152.228.228.100:80 - a3web - web effervescence !
+154.217.23.42:80 - 404 not found
+113.201.98.176:80 - Заголовок не найден
+116.203.126.116:80 - Web Server's Default Page
+23.38.151.4:80 - Заголовок не найден
+47.106.38.168:80 - Welcome to CentOS
+95.101.5.33:80 - Заголовок не найден
