@@ -877,3 +877,39 @@
 148.255.243.137:80 - 
 62.138.221.76:80 - Graylog Web Interface
 14.36.143.49:80 - main page
+104.20.133.98:80 - Direct IP access not allowed | Cloudflare
+213.246.39.14:80 - Заголовок не найден
+137.220.239.25:80 - 404 Not Found
+47.90.249.242:80 - eChinaHealth（Official website）
+104.19.224.62:80 - Direct IP access not allowed | Cloudflare
+88.99.189.124:80 - ActivityRank Manager
+3.121.44.92:80 - Welcome to nginx!
+207.241.140.24:80 - Error: Unable to display RD Web Access
+85.11.85.169:80 - EK Mattermost
+137.75.116.108:80 - Заголовок не найден
+138.197.74.244:80 - Test Page for the Apache HTTP Server on Fedora
+35.212.236.208:80 - Success!
+13.248.216.204:80 - 503 Service Temporarily Unavailable
+103.59.146.109:80 - DooPrime丨德璞资本丨DooPrime德璞平台官网丨DooPrime外汇交易商
+154.194.187.79:80 - 12博电竞开户_12博体育开户-首页
+50.16.87.19:80 - Заголовок не найден
+52.49.76.181:80 - Oops!
+104.114.111.118:80 - Заголовок не найден
+104.87.85.78:80 - Заголовок не найден
+89.190.73.180:80 - EMG SysEl Home
+98.142.98.6:80 - Заголовок не найден
+18.245.43.84:80 - Заголовок не найден
+13.215.169.77:80 - Заголовок не найден
+59.23.212.173:80 - Gargoyle Router Management Utility
+212.115.60.158:80 - ERROR: The requested URL could not be retrieved
+23.35.119.127:80 - Заголовок не найден
+18.236.45.248:80 - Error
+23.32.202.63:80 - Заголовок не найден
+89.58.40.67:80 - cTech gbr
+172.120.135.168:80 - 404 Not Found
+52.222.156.106:80 - Заголовок не найден
+103.146.233.157:80 - WEB SERVICE
+71.15.156.203:80 - 
+104.16.207.181:80 - Direct IP access not allowed | Cloudflare
+34.138.72.78:80 - Site Not Configured | 404 Not Found
+13.32.120.240:80 - Заголовок не найден
