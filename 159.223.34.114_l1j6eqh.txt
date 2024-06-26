@@ -3516,3 +3516,37 @@
 67.11.70.70:80 - 
 178.62.240.58:80 - Заголовок не найден
 198.16.46.41:80 - 403 Forbidden
+13.114.206.227:80 - ANDPAD
+13.32.23.227:80 - Заголовок не найден
+185.125.190.40:80 - Index of /
+38.63.32.215:80 - Заголовок не найден
+216.240.166.178:80 - Welcome to Canopy
+124.221.7.81:80 - Home | 数豆云
+23.57.44.131:80 - Заголовок не найден
+158.247.28.45:80 - Trust &amp; Safety Policies
+52.192.234.126:80 - ページが存在しません｜木村情報技術株式会社
+148.101.193.35:80 - 
+154.220.105.173:80 - 404 Not Found
+44.237.75.43:80 - Structurizr
+62.153.224.180:80 - 403 Forbidden
+178.192.63.7:80 - myStrom
+108.186.172.194:80 - 404 Not Found
+52.216.205.76:80 - Amazon S3 - Cloud Object Storage  - AWS
+35.74.104.199:80 - Заголовок не найден
+204.113.154.84:80 - Заголовок не найден
+93.86.160.202:80 - IIS Windows
+113.20.144.188:80 - 404 Not Found
+23.91.96.43:80 - JumpServer
+117.180.236.63:80 - Заголовок не найден
+104.90.199.234:80 - Заголовок не найден
+209.190.93.42:80 - 403 - Forbidden: Access is denied.
+104.22.76.41:80 - Direct IP access not allowed | Cloudflare
+158.69.110.48:80 - Delhi Public School Aerocity - Top CBSE schools in Shamshabad| Best Schools in Shamshabad
+154.219.5.206:80 - Direct IP access not allowed | Cloudflare
+89.191.86.105:80 - 404 Not Found
+78.105.38.176:80 - 
+156.240.44.81:80 - Заголовок не найден
+121.42.80.4:80 - 阿里云万网虚机IP访问报错提示
+111.19.218.39:80 - 403 Forbidden
+149.28.215.240:80 - Welcome to nginx!
+104.20.132.138:80 - Direct IP access not allowed | Cloudflare
