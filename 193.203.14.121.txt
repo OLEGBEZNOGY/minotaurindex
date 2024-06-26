@@ -382,3 +382,49 @@
 192.200.122.182:80 - 
 43.206.16.48:80 - 403 Forbidden
 101.35.148.133:80 - 403 Forbidden
+74.119.194.135:80 - domain.com &mdash; Coming Soon
+45.200.31.217:80 - Заголовок не найден
+104.91.40.98:80 - Заголовок не найден
+173.249.2.78:80 - Apache2 Ubuntu Default Page: It works
+167.99.16.200:80 - Whoys - Unlock Comprehensive Domain WHOIS Details Instantly
+23.204.22.242:80 - Заголовок не найден
+200.9.170.124:80 - Splash Page
+159.135.145.181:80 - 404 Not Found
+150.60.12.81:80 - Заголовок не найден
+39.105.185.166:80 - ç½ç«è®¿é®æ¥é
+13.212.174.115:80 - SignBox - SignServer 5.0
+206.189.244.145:80 - Welcome to Your_domain!
+13.202.2.55:80 - 400 The plain HTTP request was sent to HTTPS port
+95.101.190.95:80 - Заголовок не найден
+18.161.207.25:80 - Заголовок не найден
+183.111.163.238:80 - 403 Forbidden
+2.22.162.69:80 - Заголовок не найден
+194.228.93.213:80 - Welcome to nginx!
+85.214.131.210:80 - Default Parallels Plesk Page
+2.17.175.112:80 - Заголовок не найден
+38.12.102.67:80 - 404 Not Found
+211.151.17.166:80 - ç»å½
+38.152.94.216:80 - ERROR: The requested URL could not be retrieved
+23.15.83.2:80 - Заголовок не найден
+13.115.46.17:80 - Заголовок не найден
+138.68.130.191:80 - Заголовок не найден
+18.244.52.73:80 - Заголовок не найден
+104.221.180.155:80 - Заголовок не найден
+23.194.46.55:80 - Заголовок не найден
+184.27.74.72:80 - Заголовок не найден
+13.126.32.76:80 - Home page |  Luggage Extra
+198.144.181.216:80 - Welcome to nginx!
+20.19.183.42:80 - academy by dooingIT &#8211; Únete a nuestro mundo, en el que la ciberseguridad es cosa de todos
+3.250.209.85:80 - 403 Forbidden
+38.46.243.117:80 - 500 Internal Server Error
+1.192.194.198:80 - 403 Forbidden
+151.1.210.7:80 - Weblink S.r.l. - Sito web in allestimento
+199.232.1.176:80 - Fastly error: unknown domain 199.232.1.176
+119.28.103.184:80 - æ²¡ææ¾å°ç«ç¹
+77.220.92.114:80 - Maitance message
+149.18.66.188:80 - Index of /
+44.224.25.94:80 - Заголовок не найден
+125.212.247.233:80 - Заголовок не найден
+196.250.247.168:80 - Linksys Smart Wi-Fi
+38.170.98.49:80 - ERROR: The requested URL could not be retrieved
+23.77.144.21:80 - Заголовок не найден
