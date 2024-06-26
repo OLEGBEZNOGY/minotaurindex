@@ -1008,3 +1008,39 @@
 59.127.158.75:80 - WEB SERVICE
 154.204.165.197:80 - 404 Not Found
 104.21.19.19:80 - Direct IP access not allowed | Cloudflare
+80.72.66.119:80 - EL-TEST: iPBX MANAGEMENT
+89.111.170.156:80 - Конструктор скриптов продаж
+172.67.246.91:80 - Direct IP access not allowed | Cloudflare
+199.60.103.104:80 - Direct IP access not allowed | Cloudflare
+59.0.15.111:80 - 401 - Unauthorized
+174.78.29.198:80 - Web user login
+35.154.56.177:80 - Welcome to nginx!
+95.220.123.5:80 - Заголовок не найден
+54.161.109.94:80 - Заголовок не найден
+18.164.253.141:80 - Заголовок не найден
+184.86.248.43:80 - Заголовок не найден
+8.209.243.106:80 - 404 Not Found
+167.235.141.107:80 - 401 Unauthorized
+45.55.58.246:80 - Заголовок не найден
+20.242.80.236:80 - 403 - Forbidden: Access is denied.
+172.223.118.4:80 - 
+13.114.48.206:80 - Заголовок не найден
+165.246.215.2:80 - 401 Authorization Required
+192.126.165.135:80 - ERROR: The requested URL could not be retrieved
+23.10.45.251:80 - Заголовок не найден
+23.218.103.193:80 - Заголовок не найден
+94.130.229.219:80 - 5-Plus Dimanche |
+44.231.121.20:80 - Guess the Number Game
+54.37.180.79:80 - Index of /
+157.245.215.232:80 - Index of /
+154.60.192.23:80 - 500 Internal Server Error
+118.233.38.66:80 - 401 Unauthorized
+116.202.99.176:80 - Заголовок не найден
+50.18.87.31:80 - 
+114.35.146.6:80 - Заголовок не найден
+69.49.242.59:80 - Заголовок не найден
+104.17.85.21:80 - Direct IP access not allowed | Cloudflare
+38.12.33.182:80 - 403 Forbidden
+109.230.253.91:80 - Web Server's Default Page
+144.24.54.121:80 - 502 Bad Gateway
+23.194.194.13:80 - Заголовок не найден
