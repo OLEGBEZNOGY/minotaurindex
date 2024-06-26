@@ -1667,3 +1667,25 @@
 212.20.2.202:80 - Заголовок не найден
 52.217.199.139:80 - Amazon S3 - Cloud Object Storage  - AWS
 23.1.17.124:80 - Заголовок не найден
+104.27.194.134:80 - Direct IP access not allowed | Cloudflare
+154.19.107.107:80 - 404 Not Found
+149.28.196.168:80 - 403 Forbidden
+52.5.30.62:80 - Заголовок не найден
+2.21.62.85:80 - Заголовок не найден
+54.227.58.99:80 - Заголовок не найден
+52.35.124.45:80 - Bitnami: Open Source. Simplified
+44.215.191.147:80 - Impeccable
+18.238.112.81:80 - Заголовок не найден
+94.152.166.183:80 - Заголовок не найден
+109.175.37.29:80 - 
+181.209.67.214:80 - Bienvenido a
+212.85.118.42:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+167.172.107.23:80 - 404 Not Found
+136.226.168.175:80 - Internet Security by Zscaler
+104.20.55.119:80 - Direct IP access not allowed | Cloudflare
+104.16.128.135:80 - Direct IP access not allowed | Cloudflare
+16.162.3.185:80 - Заголовок не найден
+103.234.160.142:80 - æ²¡ææ¾å°ç«ç¹
+116.202.252.166:80 - KonsoleH Login
+148.251.89.245:80 - Заголовок не найден
+104.22.44.204:80 - Direct IP access not allowed | Cloudflare
