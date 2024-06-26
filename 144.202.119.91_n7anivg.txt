@@ -3323,3 +3323,59 @@ Sign in
 8.24.22.206:80 - Заголовок не найден
 162.252.175.85:80 - CrushFTP - Login
 31.220.54.97:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+48.218.124.82:80 - Your Azure Function App is up and running.
+104.120.121.82:80 - Заголовок не найден
+13.79.95.39:80 - Заголовок не найден
+102.140.97.107:80 - Page Title
+189.251.196.70:80 - 
+85.66.236.30:80 - 
+78.189.163.208:80 - Заголовок не найден
+23.32.136.8:80 - Заголовок не найден
+104.104.4.245:80 - Заголовок не найден
+23.38.15.86:80 - Заголовок не найден
+35.157.226.68:80 - Apache2 Ubuntu Default Page: It works
+62.138.184.132:80 - Datenbankfehler
+165.227.127.218:80 - Заголовок не найден
+23.62.116.193:80 - Заголовок не найден
+38.11.219.78:80 - 404 Not Found
+157.230.127.99:80 - Forum Hackathon Covid
+198.50.155.129:80 - Заголовок не найден
+94.130.143.251:80 - Web Server's Default Page
+23.0.245.173:80 - Заголовок не найден
+188.34.191.192:80 - STEINHAUSER Transporte - Containerdienst in St. Leon-Rot
+184.51.36.245:80 - Заголовок не найден
+23.201.72.83:80 - Заголовок не найден
+185.90.164.141:80 - 403 Forbidden
+198.182.55.135:80 - Internet Security by Zscaler
+154.212.38.181:80 - Заголовок не найден
+38.63.32.169:80 - 404 Not Found
+116.203.89.189:80 - Заголовок не найден
+23.201.229.119:80 - Заголовок не найден
+153.120.17.60:80 - Заголовок не найден
+165.29.50.137:80 - Login Page
+89.116.161.167:80 - Direct IP access not allowed | Cloudflare
+185.194.200.253:80 - Please wait, the page is opening...
+35.215.138.51:80 - Welcome to nginx!
+18.211.251.246:80 - Login – Licht Drive
+103.73.103.78:80 - Заголовок не найден
+81.201.60.223:80 - PilsFree VPN - pÅesmÄrovÃ¡nÃ­
+212.63.74.235:80 - 500 Internal Server Error
+63.196.101.8:80 - AT&T WiFi Portal
+45.58.174.55:80 - Welcome to nginx!
+52.217.46.148:80 - Amazon S3 - Cloud Object Storage  - AWS
+104.123.46.125:80 - Заголовок не найден
+63.33.25.140:80 - Заголовок не найден
+13.224.130.111:80 - Заголовок не найден
+94.156.162.182:80 - Please wait, the page is opening...
+23.209.19.244:80 - Заголовок не найден
+46.44.207.139:80 - NethServer Enterprise
+52.77.94.186:80 - 403 Forbidden
+97.95.136.87:80 - 
+138.199.9.30:80 - 3CX Phone System Management Console
+118.215.74.172:80 - Заголовок не найден
+173.39.240.159:80 - Заголовок не найден
+64.91.253.187:80 - Web Server's Default Page
+23.217.99.127:80 - Заголовок не найден
+46.41.187.212:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+45.146.107.149:80 - Apache2 Ubuntu Default Page: It works
+104.20.246.78:80 - Direct IP access not allowed | Cloudflare
