@@ -132,3 +132,4 @@
 172.67.41.120:80 - Direct IP access not allowed | Cloudflare
 108.157.82.119:80 - Заголовок не найден
 20.13.82.216:80 - Your Azure Function App is up and running.
+23.204.86.91:80 - Заголовок не найден
