@@ -1692,3 +1692,30 @@ er
 193.231.35.10:80 - Universitatea &#132;1 Decembrie 1918&#148; din Alba Iulia - ConstruieÅte-Å£i un viitor sigur alÄturi de noi!
 23.42.201.73:80 - Заголовок не найден
 149.202.44.117:80 - Welcome to XAMPP
+18.173.201.31:80 - Заголовок не найден
+149.28.46.121:80 - Yappir
+104.21.31.220:80 - Direct IP access not allowed | Cloudflare
+154.198.239.255:80 - 500 Internal Server Error
+77.32.82.5:80 - Заголовок не найден
+196.51.227.97:80 - ERROR: The requested URL could not be retrieved
+54.234.201.99:80 - Web Site Not Found
+3.82.254.225:80 - GOPLAY-LET'S GOPLAYï¼
+63.84.3.62:80 - Error 404 (Not Found)!!1
+43.156.10.124:80 - 404 Not Found
+35.168.134.222:80 - Welcome to nginx!
+154.23.37.224:80 - 404 Not Found
+23.211.85.61:80 - Заголовок не найден
+118.46.43.223:80 - Заголовок не найден
+35.208.148.200:80 - Apache2 Ubuntu Default Page: It works
+47.97.199.76:80 - 404 Not Found
+185.244.129.113:80 - PikieGlobal | Home
+217.144.103.227:80 - Welcome to nginx!
+13.224.235.36:80 - Заголовок не найден
+18.197.136.105:80 - Welcome to nginx!
+101.33.254.248:80 - æ²¡ææ¾å°ç«ç¹
+108.139.180.190:80 - Заголовок не найден
+155.159.145.66:80 - 404 Not Found
+116.58.55.114:80 - 
+3.214.209.194:80 - Заголовок не найден
+159.69.206.52:80 - Заголовок не найден
+14.128.141.216:80 - 403 Forbidden
