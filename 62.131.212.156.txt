@@ -6448,3 +6448,12 @@
 72.247.209.28:80 - Заголовок не найден
 89.161.253.113:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
 23.33.73.210:80 - Заголовок не найден
+13.126.41.209:80 - Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
+18.165.11.46:80 - Заголовок не найден
+52.172.180.34:80 - Заголовок не найден
+54.165.237.166:80 - Заголовок не найден
+212.178.214.210:80 - DLO De Wingerd
+69.163.183.125:80 - Site not found &middot; DreamHost
+67.7.152.155:80 - Instant WiFi
+120.24.90.193:80 - 502 Bad Gateway
+118.232.125.139:80 - WEB SERVICE
