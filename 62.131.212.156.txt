@@ -4936,3 +4936,14 @@
 190.167.251.134:80 - 
 108.157.56.129:80 - Заголовок не найден
 104.17.220.30:80 - Direct IP access not allowed | Cloudflare
+104.16.103.9:80 - Direct IP access not allowed | Cloudflare
+132.248.43.91:80 - Заголовок не найден
+117.204.250.156:80 - 
+20.76.100.43:80 - Your Azure Function App is up and running.
+148.101.127.55:80 - 
+42.81.174.105:80 - Заголовок не найден
+107.12.184.162:80 - 
+82.156.28.93:80 - Заголовок не найден
+35.173.128.118:80 - Primetext SMS text messaging for business
+193.200.84.82:80 - Welcome to Citrix XenServer 7.6.0
+102.223.74.128:80 - Welcome to nginx!
