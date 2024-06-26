@@ -10354,3 +10354,161 @@
 35.206.0.75:80 - Заголовок не найден
 178.63.45.252:80 - Herzlich Willkommen!
 1.51.233.149:80 - 404 Not Found
+203.204.243.114:80 - 
+77.162.3.75:80 - 
+69.192.105.95:80 - Заголовок не найден
+23.194.67.97:80 - Заголовок не найден
+167.172.120.30:80 - Potential Threat Detected
+111.42.182.164:80 - 403 Forbidden
+143.42.74.204:80 - Log in | Django site admin
+154.21.169.68:80 - ERROR: The requested URL could not be retrieved
+185.111.199.252:80 - 403 Forbidden
+38.242.219.28:80 - cruoglio.it &mdash;  Domain default page
+104.108.236.27:80 - Заголовок не найден
+38.14.135.197:80 - 404 Not Found
+67.227.138.20:80 - Web Server's Default Page
+23.14.64.106:80 - Заголовок не найден
+196.247.205.182:80 - 407 Proxy Authentication Required
+211.253.11.239:80 - ::AIMS PRO::
+23.60.116.248:80 - Заголовок не найден
+176.58.50.187:80 - Заголовок не найден
+154.197.169.2:80 - Заголовок не найден
+35.204.228.184:80 - PowerbankClient
+23.37.191.98:80 - Заголовок не найден
+8.137.33.78:80 - Заголовок не найден
+106.14.0.11:80 - Заголовок не найден
+159.65.13.223:80 - LIGAGG88: Game Viral In Indonesia Join And Play Together
+87.79.88.40:80 - 403 Forbidden
+184.27.239.181:80 - Заголовок не найден
+172.67.225.2:80 - Direct IP access not allowed | Cloudflare
+154.86.83.125:80 - 404 Not Found
+34.147.132.143:80 - Edenred Solutions CSE - ex ProwebCE leader français des solutions pour CSE
+197.227.42.91:80 - 403 Forbidden
+165.22.35.247:80 - Welcome to nginx!
+168.206.235.31:80 - 404 Not Found
+103.5.126.105:80 - Sign in
+100.24.188.61:80 - Welcome to nginx!
+213.82.237.238:80 - Заголовок не найден
+47.101.149.73:80 - Заголовок не найден
+104.20.187.157:80 - Direct IP access not allowed | Cloudflare
+82.79.114.90:80 - 503 Service Temporarily Unavailable
+18.64.83.19:80 - Заголовок не найден
+45.196.226.199:80 - æ²¡ææ¾å°ç«ç¹
+216.193.224.171:80 - Softaculous Webuzo | Default Website Page
+23.46.193.219:80 - Заголовок не найден
+34.245.82.166:80 - Заголовок не найден
+45.156.159.92:80 - Page not found
+203.189.235.142:80 - 404 Not Found
+3.161.89.151:80 - Заголовок не найден
+104.20.229.57:80 - Direct IP access not allowed | Cloudflare
+104.110.191.16:80 - Заголовок не найден
+47.236.120.8:80 - 404 Not Found
+209.208.75.233:80 - Заголовок не найден
+154.30.235.196:80 - ERROR: The requested URL could not be retrieved
+89.117.9.136:80 - 403 Forbidden
+59.125.206.5:80 - 401 Unauthorized
+36.155.170.223:80 - Заголовок не найден
+104.21.64.111:80 - Direct IP access not allowed | Cloudflare
+160.202.111.253:80 - 404 Not Found
+119.3.112.98:80 - 403 Forbidden
+3.160.12.30:80 - Заголовок не найден
+125.148.169.53:80 - main page
+85.9.19.228:80 - Заголовок не найден
+4.158.41.227:80 - Your Azure Function App is up and running.
+104.24.74.131:80 - Direct IP access not allowed | Cloudflare
+220.126.37.165:80 - Заголовок не найден
+194.125.178.177:80 - Заголовок не найден
+167.82.100.36:80 - Fastly error: unknown domain 167.82.100.36
+3.71.91.57:80 - NodeSale
+23.42.191.226:80 - Заголовок не найден
+13.127.96.142:80 - TrainingAPP
+187.87.171.13:80 - Заголовок не найден
+5.79.77.23:80 - Welcome to nginx!
+49.207.250.86:80 - Заголовок не найден
+103.196.101.31:80 - 404 Not Found
+154.198.138.157:80 - 404 Not Found
+104.20.58.38:80 - Direct IP access not allowed | Cloudflare
+45.116.74.67:80 - test
+52.206.233.87:80 - Page Not Found
+116.48.141.248:80 - Log In - Juniper Web Device Manager
+23.1.185.176:80 - Заголовок не найден
+49.44.101.95:80 - Заголовок не найден
+104.20.108.150:80 - Direct IP access not allowed | Cloudflare
+82.37.192.78:80 - 
+184.27.174.100:80 - Заголовок не найден
+194.242.23.57:80 - 403 - Forbidden: Access is denied.
+184.31.23.112:80 - Заголовок не найден
+172.122.154.195:80 - Заголовок не найден
+45.223.148.141:80 - Заголовок не найден
+160.3.221.18:80 - Заголовок не найден
+94.103.93.26:80 - Welcome to nginx!
+61.216.38.233:80 - FortiGate
+178.89.52.91:80 - GPON Home Gateway
+23.198.21.2:80 - Заголовок не найден
+23.219.204.78:80 - Заголовок не найден
+184.28.178.38:80 - Заголовок не найден
+46.209.4.132:80 - IIS Windows Server
+95.179.225.153:80 - Заголовок не найден
+177.38.13.124:80 - CasaOS
+196.51.94.237:80 - ERROR: The requested URL could not be retrieved
+104.13.81.198:80 - Apache2 Debian Default Page: It works
+2.20.63.123:80 - Заголовок не найден
+142.234.202.74:80 - 407 Proxy Authentication Required
+95.101.247.89:80 - Заголовок не найден
+20.239.232.223:80 - Your Azure Function App is up and running.
+23.8.76.161:80 - Заголовок не найден
+13.124.123.199:80 - (주)굿센 GOODCEN.com
+46.226.56.165:80 - Заголовок не найден
+221.9.8.92:80 - 403 Forbidden
+211.128.72.4:80 - 
+23.221.10.15:80 - Заголовок не найден
+37.140.251.4:80 - Subcribe and Anti-Spam and Privacy for 37.140.251.4
+128.201.75.225:80 - Web Server's Default Page
+203.30.190.227:80 - Direct IP access not allowed | Cloudflare
+155.159.28.220:80 - Welcome to nginx!
+150.158.145.143:80 - æ²¡ææ¾å°ç«ç¹
+178.79.166.20:80 - Opalstack: no site here.... yet!
+3.163.105.24:80 - Заголовок не найден
+49.12.209.27:80 - Apache2 Ubuntu Default Page: It works
+217.61.208.109:80 - Web Server's Default Page
+34.49.160.168:80 - Basic Load Balancer Page
+104.24.140.246:80 - Direct IP access not allowed | Cloudflare
+44.212.9.230:80 - Заголовок не найден
+67.205.164.176:80 - Error 500
+159.65.120.203:80 - angelflix - Die Software fÃ¼r deinen Angelverein
+72.167.56.108:80 - Coming Soon
+144.48.223.165:80 - è¯·æ±æ²¡ææ¾å°å¯¹åºçç«ç¹
+23.210.145.206:80 - Заголовок не найден
+80.97.97.6:80 - Page not found
+44.228.15.211:80 - 404 Not Found
+124.13.176.30:80 - 
+169.237.6.232:80 - Overview
+23.26.178.251:80 - Заголовок не найден
+18.203.90.14:80 - 403 Forbidden
+65.36.186.62:80 - Заголовок не найден
+184.85.144.100:80 - Заголовок не найден
+216.238.79.53:80 - 503 Service Temporarily Unavailable
+23.173.152.254:80 - Заголовок не найден
+168.101.25.184:80 - Dataloggers
+73.24.195.244:80 - 
+190.220.154.187:80 - Заголовок не найден
+184.51.138.108:80 - Заголовок не найден
+18.161.214.192:80 - Заголовок не найден
+85.214.152.26:80 - Заголовок не найден
+122.51.66.72:80 - 404 Not Found
+162.19.78.16:80 - Apache2 Debian Default Page: It works
+170.130.228.19:80 - 403 Forbidden
+100.25.50.82:80 - 503 Service Temporarily Unavailable
+23.96.204.49:80 - Microsoft Azure Web App - Error 404
+75.99.253.29:80 - Microsoft Internet Information Services 8
+51.254.97.174:80 - Portal Home - LuxTV
+52.1.134.158:80 - Заголовок не найден
+96.17.86.214:80 - Заголовок не найден
+84.199.47.146:80 - Welcome to nginx!
+38.98.86.77:80 - IIS Windows Server
+104.69.175.52:80 - Заголовок не найден
+197.164.137.219:80 - '+titl_lg+'
+150.107.221.139:80 - Apache2 Ubuntu Default Page: It works
+77.55.91.230:80 - Domain  is hosted on netart.com servers
+131.220.108.8:80 - BonnEconLab &amp; MPI Decision Lab
+134.122.73.29:80 - Заголовок не найден
