@@ -10923,3 +10923,14 @@
 178.62.196.143:80 - 403 Forbidden
 149.56.206.25:80 - 404 Not Found
 23.22.197.15:80 - Ace Games
+99.80.29.3:80 - Заголовок не найден
+47.108.225.42:80 - Welcome to nginx!
+23.7.35.74:80 - Заголовок не найден
+18.239.106.197:80 - Заголовок не найден
+104.16.105.110:80 - Direct IP access not allowed | Cloudflare
+78.46.185.186:80 - 503 Service Temporarily Unavailable
+216.74.212.165:80 - IIS Windows
+154.53.72.120:80 - ERROR: The requested URL could not be retrieved
+2.20.127.60:80 - Заголовок не найден
+190.201.149.148:80 - IIS Windows
+79.218.130.118:80 - Заголовок не найден
