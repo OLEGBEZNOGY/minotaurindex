@@ -2105,3 +2105,78 @@
 38.21.26.247:80 - 403 Forbidden
 134.122.178.139:80 - 400
 39.125.80.233:80 - 403 Forbidden
+4.208.12.113:80 - Заголовок не найден
+142.251.223.39:80 - Google
+206.214.85.239:80 - 403 Forbidden
+173.249.32.143:80 - Apache2 Ubuntu Default Page: It works
+18.160.79.110:80 - Заголовок не найден
+23.34.167.206:80 - Заголовок не найден
+43.200.27.40:80 - HSD PROJECT
+13.233.73.193:80 - Welcome to nginx!
+104.16.191.92:80 - Direct IP access not allowed | Cloudflare
+162.159.129.25:80 - Direct IP access not allowed | Cloudflare
+190.103.66.201:80 - Заголовок не найден
+186.62.6.107:80 - Заголовок не найден
+104.18.206.52:80 - Direct IP access not allowed | Cloudflare
+52.170.147.46:80 - IOWA Department of Education
+186.132.186.232:80 - Заголовок не найден
+23.5.108.67:80 - Заголовок не найден
+23.51.195.119:80 - Заголовок не найден
+195.182.7.147:80 - Заголовок не найден
+3.162.194.188:80 - Заголовок не найден
+132.226.22.254:80 - Заголовок не найден
+208.74.175.245:80 - Заголовок не найден
+18.173.147.230:80 - Заголовок не найден
+162.144.13.172:80 - Not Acceptable!
+47.252.25.141:80 - Apache2 Ubuntu Default Page: It works
+104.206.69.83:80 - 403 Forbidden
+104.79.23.109:80 - Заголовок не найден
+212.129.0.223:80 - Home | 212.129.0.223
+167.99.88.138:80 - Заголовок не найден
+184.51.226.110:80 - Заголовок не найден
+72.15.236.42:80 - 403 Forbidden
+45.33.97.131:80 - Заголовок не найден
+38.11.103.177:80 - 404 Not Found
+43.246.137.54:80 - Tenda | LOGIN
+3.160.250.84:80 - Заголовок не найден
+157.173.206.120:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+34.93.86.183:80 - GoBOLT - Delivering Express Supply Chain
+52.57.132.170:80 - Homesearch
+23.210.250.187:80 - Заголовок не найден
+23.11.113.59:80 - Заголовок не найден
+3.13.186.103:80 - Заголовок не найден
+156.234.67.237:80 - Заголовок не найден
+190.166.199.134:80 - 
+20.122.220.215:80 - Заголовок не найден
+5.185.218.192:80 - Configuration Panel
+52.217.87.194:80 - Amazon S3 - Cloud Object Storage  - AWS
+144.126.130.249:80 - Default Site
+62.10.56.93:80 - Azure Container App - Unavailable
+3.127.142.227:80 - SSL Management | Sign in to Client Area
+95.101.124.58:80 - Заголовок не найден
+3.19.49.91:80 - Заголовок не найден
+202.238.165.179:80 - 404 Not Found
+13.234.29.108:80 - 403 Forbidden
+89.191.148.39:80 - Welcome to nginx!
+50.87.253.60:80 - Not Acceptable!
+193.227.108.20:80 - XML, Data Integration, and Mobile App Development Solutions by Altova | Altova
+23.209.245.66:80 - Заголовок не найден
+35.82.123.49:80 - 404 Not Found
+43.228.88.89:80 - 400 Bad Request
+117.214.103.69:80 - Заголовок не найден
+80.85.87.125:80 - Cinema Advertising Association - Home | Cinema Advertising Association
+23.37.126.104:80 - Заголовок не найден
+18.138.195.142:80 - 404 Not Found
+110.76.148.94:80 - Заголовок не найден
+54.203.168.215:80 - 403 Forbidden
+212.227.240.188:80 - Web Server's Default Page
+186.6.200.235:80 - 
+159.69.81.158:80 - Fahrsicherheitstrainings für Motorradfahrer nach DVR Richtlinien des DVR im Raum Frankfurt am Main
+80.147.203.45:80 - MDaemon Webmail
+116.212.126.192:80 - Заголовок не найден
+152.160.247.27:80 - Заголовок не найден
+168.119.149.249:80 - 401 Unauthorized
+34.28.122.131:80 - Заголовок не найден
+45.157.32.4:80 - Заголовок не найден
+185.166.213.118:80 - Subscribe to our Newsletters
+104.17.218.35:80 - Direct IP access not allowed | Cloudflare
