@@ -4280,3 +4280,147 @@
 104.68.63.211:80 - Заголовок не найден
 98.152.163.54:80 - Заголовок не найден
 178.237.102.117:80 - Welcome to nginx!
+35.194.89.120:80 - Заголовок не найден
+2.20.241.53:80 - Заголовок не найден
+104.71.123.190:80 - Заголовок не найден
+35.174.69.64:80 - 403 Forbidden
+178.211.248.136:80 - IIS Windows
+202.51.121.252:80 - Apache2 Ubuntu Default Page: It works
+66.188.134.138:80 - 403 Forbidden
+23.202.165.32:80 - Заголовок не найден
+182.50.132.92:80 - Coming Soon
+96.230.147.143:80 - 96.230.147.143 - /
+134.0.42.152:80 - Error
+23.201.236.124:80 - Заголовок не найден
+159.69.156.227:80 - Заголовок не найден
+34.203.152.130:80 - Заголовок не найден
+13.35.115.167:80 - Заголовок не найден
+23.67.141.95:80 - Заголовок не найден
+190.77.191.108:80 - 
+23.51.23.8:80 - Заголовок не найден
+104.102.101.58:80 - Заголовок не найден
+24.154.32.108:80 - 
+216.250.120.208:80 - 403 Forbidden
+34.83.173.177:80 - Apache2 Ubuntu Default Page: It works
+34.250.221.15:80 - 404 Not Found
+84.255.175.245:80 - 403 Forbidden
+34.97.233.171:80 - Apache2 Debian Default Page: It works
+80.152.142.108:80 - LANCOM: WEBconfig
+186.202.39.5:80 - Apache HTTP Server Test Page powered by CentOS
+92.251.127.104:80 - WEB SERVICE
+207.60.34.89:80 - 403 Forbidden
+18.64.31.171:80 - Заголовок не найден
+104.108.221.94:80 - Заголовок не найден
+54.153.249.10:80 - Welcome to nginx!
+82.48.183.134:80 - 403 Forbidden
+52.207.83.37:80 - 404 Not Found
+178.207.9.140:80 - 
+98.174.187.130:80 - Заголовок не найден
+211.14.148.233:80 - under construction.
+47.74.31.19:80 - 401 Authorization Required
+142.93.159.234:80 - IDN88 &gt; Daftar IDN88, IDN 88, link alternatif IDN88, link IDN88, slot 
+
+ &ndash; IDN88
+104.104.145.179:80 - Заголовок не найден
+135.181.91.0:80 - Заголовок не найден
+23.203.98.130:80 - Заголовок не найден
+95.59.183.67:80 - GPON Home Gateway
+86.225.160.163:80 - Centrale
+136.227.202.144:80 - Attention Required! | Cloudflare
+13.33.21.74:80 - Заголовок не найден
+199.232.110.100:80 - Fastly error: unknown domain 199.232.110.100
+154.39.226.240:80 - 404 Not Found
+23.200.54.31:80 - Заголовок не найден
+65.108.33.16:80 - IIS Windows Server
+52.16.36.206:80 - 503 Service Temporarily Unavailable
+189.247.230.34:80 - Заголовок не найден
+173.232.249.74:80 - 403 Forbidden
+38.12.132.45:80 - Заголовок не найден
+172.105.238.9:80 - 404 Not Found
+67.219.103.78:80 - 404 Not Found
+54.85.70.54:80 - Wing Voice
+208.67.251.26:80 - Заголовок не найден
+142.11.214.131:80 - hamzaaa9.pro
+23.1.218.19:80 - Заголовок не найден
+217.174.156.88:80 - Заголовок не найден
+170.106.195.226:80 - 404 Not Found
+210.138.24.14:80 - 403 Forbidden
+102.222.169.21:80 - 500 Internal Server Error
+207.32.182.89:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+103.54.124.74:80 - Welcome to nginx!
+188.27.244.127:80 - Заголовок не найден
+114.108.188.182:80 - Заголовок не найден
+80.153.177.188:80 - LANCOM: WEBconfig
+23.55.190.22:80 - 403 Forbidden
+179.53.61.234:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#54;&#55;&#65;&#32;&#86;&#49;&#46;&#48;
+172.64.154.230:80 - Direct IP access not allowed | Cloudflare
+23.12.224.165:80 - Заголовок не найден
+103.168.117.169:80 - {{deviceinfo.board_type}} {{deviceinfo.nsp_display_name}} {{home.system_control_center}}
+23.217.228.115:80 - Заголовок не найден
+188.128.208.250:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+202.142.157.34:80 - RouterOS router configuration page
+104.17.128.34:80 - Direct IP access not allowed | Cloudflare
+38.28.128.90:80 - 403 Forbidden
+179.162.115.57:80 - Web managerment Home
+54.210.86.112:80 - Page not found
+136.226.49.26:80 - Internet Security by Zscaler
+95.142.45.51:80 - Apache HTTP Server Test Page powered by CentOS
+52.217.198.24:80 - Amazon S3 - Cloud Object Storage  - AWS
+109.123.241.69:80 - Apache2 Ubuntu Default Page: It works
+38.84.64.136:80 - Dashboard
+89.108.114.45:80 - 404 Not Found
+38.253.182.137:80 - 
+160.121.75.15:80 - 403 Forbidden
+92.123.164.178:80 - Заголовок не найден
+34.216.162.241:80 - SignIn - Pictomedia
+154.22.222.50:80 - Welcome to nginx!
+23.57.249.154:80 - Заголовок не найден
+191.102.182.45:80 - 407 Proxy Authentication Required
+3.160.80.4:80 - Заголовок не найден
+104.78.189.14:80 - Заголовок не найден
+178.18.206.183:80 - IIS Windows Server
+51.83.205.40:80 - Apache HTTP Server Test Page powered by CentOS
+106.248.66.99:80 - 
+3.162.182.0:80 - Заголовок не найден
+193.122.118.212:80 - Заголовок не найден
+206.119.124.176:80 - æ²¡ææ¾å°ç«ç¹
+104.21.44.141:80 - Direct IP access not allowed | Cloudflare
+5.251.210.55:80 - GPON Home Gateway
+13.124.218.211:80 - Apache2 Ubuntu Default Page: It works
+204.83.222.254:80 - Connection denied by Geolocation
+34.252.50.212:80 - Заголовок не найден
+143.255.28.2:80 - Apache2 Debian Default Page: It works
+91.198.167.172:80 - 403 Forbidden
+5.200.3.231:80 - Shared IP
+185.179.237.187:80 - Audience First
+103.247.13.34:80 - RouterOS router configuration page
+188.127.48.88:80 - Apache2 Ubuntu Default Page: It works
+104.75.229.111:80 - Заголовок не найден
+207.180.242.253:80 - Apache2 Ubuntu Default Page: It works
+54.254.127.213:80 - Home - Marine Vessel Pass
+104.168.103.251:80 - Home
+8.209.117.94:80 - Заголовок не найден
+103.170.122.125:80 - Заголовок не найден
+37.138.3.153:80 - Webinterface
+202.75.140.137:80 - Заголовок не найден
+50.116.96.123:80 - Shirts &amp; More
+96.69.43.93:80 - index
+52.161.27.120:80 - Welcome to nginx!
+54.84.17.24:80 - 503 Service Temporarily Unavailable
+38.55.3.20:80 - 404 Not Found
+50.75.239.10:80 - Document Moved
+159.89.4.3:80 - Welcome to nginx!
+94.125.168.20:80 - 403 Forbidden
+3.109.181.93:80 - Error
+160.124.68.125:80 - 404 Not Found
+23.58.240.70:80 - Заголовок не найден
+43.240.50.227:80 - 403 Forbidden
+136.144.218.92:80 - Заголовок не найден
+104.16.44.98:80 - Direct IP access not allowed | Cloudflare
+23.126.212.137:80 - Welcome to nginx!
+104.206.142.21:80 - 404 Not Found
+104.83.81.152:80 - Заголовок не найден
+195.90.212.117:80 - Apache2 Ubuntu Default Page: It works
+3.97.220.45:80 - Заголовок не найден
+148.251.231.177:80 - Apache2 Debian Default Page: It works
+184.85.181.168:80 - Заголовок не найден
