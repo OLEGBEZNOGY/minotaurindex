@@ -2672,3 +2672,7 @@
 99.84.189.33:80 - Заголовок не найден
 185.35.185.100:80 - Tannlege Kirkenes, Zahnarzt Kirkenes
 157.7.198.160:80 - Apache HTTP Server Test Page powered by CentOS
+142.93.144.133:80 - Заголовок не найден
+203.247.226.4:80 - Apache Tomcat/9.0.88
+2.19.169.142:80 - Заголовок не найден
+82.97.2.40:80 - Index of /
