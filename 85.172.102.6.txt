@@ -1795,3 +1795,27 @@ ws Server
 18.244.78.129:80 - Заголовок не найден
 188.165.142.224:80 - Documento sin t&iacute;tulo
 172.82.170.163:80 - 404 Not Found
+23.111.137.138:80 - IIS Windows Server
+184.25.12.197:80 - Заголовок не найден
+185.18.212.253:80 - Apache2 Debian Default Page: It works
+77.75.251.27:80 - Заголовок не найден
+35.214.95.207:80 - Team building events and activities | Espionage Missions
+184.87.19.71:80 - Заголовок не найден
+104.91.70.214:80 - Заголовок не найден
+81.200.240.37:80 - Заголовок не найден
+38.152.213.105:80 - ERROR: The requested URL could not be retrieved
+104.17.121.150:80 - Direct IP access not allowed | Cloudflare
+18.67.191.63:80 - Заголовок не найден
+79.140.182.150:80 - LANCOM: Error - Access Forbidden
+109.107.137.166:80 - æ­åï¼ç«ç¹åå»ºæåï¼
+103.243.115.14:80 - Заголовок не найден
+163.172.171.223:80 - Nagios XI
+68.66.255.1:80 - Заголовок не найден
+50.2.240.244:80 - 403 Forbidden
+120.27.228.18:80 - 500 Internal Server Error
+212.73.25.10:80 - Connection denied by Geolocation
+192.169.147.71:80 - Coming Soon
+39.135.241.40:80 - Заголовок не найден
+13.127.86.23:80 - PMS Service Providers In India | Financial Advisor | Buoyant
+23.60.151.132:80 - Заголовок не найден
+41.63.163.204:80 - Заголовок не найден
