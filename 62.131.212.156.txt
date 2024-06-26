@@ -5592,3 +5592,15 @@
 204.155.147.243:80 - 503 Service Temporarily Unavailable
 193.239.54.213:80 - Manutenzione
 18.244.183.254:80 - Заголовок не найден
+137.175.12.171:80 - Welcome to nginx!
+74.195.0.70:80 - Document Moved
+213.212.216.240:80 - Login
+47.98.46.51:80 - 404 Not Found
+23.13.22.9:80 - Заголовок не найден
+54.157.156.111:80 - Заголовок не найден
+54.144.5.182:80 - 404 Not Found
+64.225.81.146:80 - Welcome to nginx!
+8.131.95.121:80 - Заголовок не найден
+74.117.181.203:80 - Free Download Manager - download everything from the internet
+82.131.160.138:80 - Not Found
+84.177.19.2:80 - Gira HomeServer 4
