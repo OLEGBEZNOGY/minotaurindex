@@ -116,3 +116,30 @@ orarily Unavailable
 52.222.184.76:80 - Заголовок не найден
 104.27.46.99:80 - Direct IP access not allowed | Cloudflare
 15.228.52.141:80 - Заголовок не найден
+176.58.116.121:80 - 404 Not Found
+185.237.253.13:80 - 403 Forbidden
+108.138.56.22:80 - Заголовок не найден
+154.216.139.30:80 - Заголовок не найден
+3.120.54.205:80 - Заголовок не найден
+146.75.106.235:80 - Fastly error: Misdirected Request (E2815)
+198.211.107.150:80 - Website Unavailable
+187.217.54.62:80 - Заголовок не найден
+23.47.236.185:80 - Заголовок не найден
+64.158.154.147:80 - Заголовок не найден
+65.108.59.216:80 - Заголовок не найден
+79.96.92.121:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+104.80.59.196:80 - Заголовок не найден
+69.1.2.251:80 - Welcome to nginx!
+211.250.248.157:80 - Заголовок не найден
+149.96.91.208:80 - 403 Forbidden
+67.205.12.60:80 - Site not found &middot; DreamHost
+116.119.34.126:80 - Error 404 (Not Found)!!1
+103.254.138.250:80 - Заголовок не найден
+23.57.176.32:80 - Заголовок не найден
+95.173.215.130:80 - Apache2 Ubuntu Default Page: It works
+38.173.218.102:80 - 404 Not Found
+108.143.128.15:80 - IIS Windows Server
+173.232.15.107:80 - 403 Forbidden
+174.127.131.154:80 - S2 Netbox Login
+185.119.210.6:80 - Document Error: Cannot open URL(RFAF026)
+85.215.146.8:80 - Web Server's Default Page
