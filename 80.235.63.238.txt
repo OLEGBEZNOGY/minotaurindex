@@ -14109,3 +14109,17 @@ Jaum.kr 에 오신것을 환영합니다!
 104.17.162.170:80 - Direct IP access not allowed | Cloudflare
 92.205.1.95:80 - Coming Soon
 170.244.189.148:80 - Заголовок не найден
+179.52.204.189:80 - 
+152.115.42.188:80 - Заголовок не найден
+177.47.242.18:80 - Forbidden
+54.173.170.140:80 - No such app
+3.71.127.223:80 - 401 Unauthorized
+151.101.46.198:80 - Fastly error: unknown domain 151.101.46.198
+91.227.18.40:80 - Welcome!
+217.175.200.82:80 - Error 404 (Not Found)!!1
+154.41.232.231:80 - 403 Forbidden
+217.15.167.243:80 - Заголовок не найден
+13.245.46.90:80 - Login
+124.70.71.152:80 - Test Page for the Nginx HTTP Server on EPEL
+78.47.225.225:80 - 403 Forbidden
+168.206.225.248:80 - 404 Not Found
