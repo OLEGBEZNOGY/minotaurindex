@@ -4479,3 +4479,8 @@
 43.137.13.186:80 - Not Found
 144.168.11.173:80 - Apache2 Ubuntu Default Page: It works
 104.123.100.40:80 - Заголовок не найден
+64.207.182.184:80 - PTA (PlanesTrains+Automobiles)
+23.198.238.242:80 - Заголовок не найден
+104.155.90.130:80 - Apache2 Ubuntu Default Page: It works
+203.111.212.178:80 - WEB SERVICE
+23.203.75.138:80 - Заголовок не найден
