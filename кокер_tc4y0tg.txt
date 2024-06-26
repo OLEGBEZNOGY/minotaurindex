@@ -9458,3 +9458,13 @@ Context: {&quot;exception&quot;:{}}
 52.230.7.46:80 - Microsoft Azure Web App - Error 404
 109.170.188.128:80 - WEB SERVICE
 198.71.53.195:80 - Web Server's Default Page
+23.47.22.139:80 - Заголовок не найден
+23.243.150.170:80 - 
+206.84.80.246:80 - nPerfServer
+27.174.152.105:80 - Login to <!--#exec cmd="xmlp_web system\\common model"-->
+129.148.24.7:80 - Apache2 Debian Default Page: It works
+114.55.57.140:80 - 
+47.105.161.254:80 - IIS7
+178.113.146.182:80 - Solar/Pool Control
+103.253.250.114:80 - WEB SERVICE
+104.103.65.223:80 - Заголовок не найден
