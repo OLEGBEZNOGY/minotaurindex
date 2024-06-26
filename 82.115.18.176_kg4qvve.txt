@@ -1689,3 +1689,27 @@
 116.202.252.166:80 - KonsoleH Login
 148.251.89.245:80 - Заголовок не найден
 104.22.44.204:80 - Direct IP access not allowed | Cloudflare
+156.226.95.145:80 - Заголовок не найден
+18.154.112.32:80 - Заголовок не найден
+37.1.198.244:80 - Apache HTTP Server Test Page powered by CentOS
+37.204.96.53:80 - 
+23.61.118.42:80 - Заголовок не найден
+78.131.75.94:80 - Apache2 Ubuntu Default Page: It works
+81.155.231.125:80 - 
+104.16.238.116:80 - Direct IP access not allowed | Cloudflare
+47.88.8.44:80 - æ²¡ææ¾å°ç«ç¹
+23.36.120.182:80 - Заголовок не найден
+34.36.240.81:80 - 502 Server Error
+192.9.129.30:80 - Welcome to nginx!
+65.8.101.239:80 - Заголовок не найден
+18.161.228.86:80 - Заголовок не найден
+45.238.37.239:80 - Frontier Security
+3.35.39.175:80 - HTTP Status 404 – Not Found
+104.17.216.247:80 - Direct IP access not allowed | Cloudflare
+200.40.113.76:80 - IIS Windows Server
+104.102.42.181:80 - Заголовок не найден
+152.42.244.135:80 - OKESLOT Bandar Judi Slot Games Online Deposit Pulsa Terbaik
+184.26.148.236:80 - Заголовок не найден
+191.240.0.81:80 - 
+71.47.146.171:80 - 
+54.213.80.157:80 - Welcome to nginx!
