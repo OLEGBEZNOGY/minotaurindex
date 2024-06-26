@@ -3530,3 +3530,36 @@
 191.82.90.24:80 - Заголовок не найден
 188.241.142.117:80 - 403 Forbidden
 104.89.244.27:80 - Заголовок не найден
+75.2.73.1:80 - Заголовок не найден
+107.154.194.50:80 - Заголовок не найден
+85.128.144.82:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+170.0.74.30:80 - Error 404 (Not Found)!!1
+44.220.10.67:80 - 404 Not Found
+38.152.81.22:80 - ERROR: The requested URL could not be retrieved
+110.92.7.189:80 - 
+38.6.250.101:80 - 404 Not Found
+222.113.23.75:80 - Заголовок не найден
+94.27.145.235:80 - Заголовок не найден
+108.139.120.4:80 - Заголовок не найден
+104.16.0.149:80 - Direct IP access not allowed | Cloudflare
+116.203.197.80:80 - Apache2 Ubuntu Default Page: It works
+196.199.40.254:80 - 407 Proxy Authentication Required
+79.96.83.146:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+121.169.149.14:80 - Заголовок не найден
+54.66.108.52:80 - Apache2 Ubuntu Default Page: It works
+212.91.27.149:80 - Заголовок не найден
+83.237.43.138:80 - 403 Forbidden
+23.41.204.191:80 - Заголовок не найден
+87.226.204.131:80 - Заголовок не найден
+118.201.47.89:80 - Web user login
+154.217.2.139:80 - 404 Not Found
+63.135.106.32:80 - Web Server's Default Page
+52.3.118.103:80 - HTTP Status 404 – Not Found
+52.66.133.28:80 - Welcome to nginx!
+107.181.161.217:80 - Заголовок не найден
+47.149.117.79:80 - Заголовок не найден
+209.200.125.74:80 - Заголовок не найден
+104.20.76.202:80 - Direct IP access not allowed | Cloudflare
+52.15.98.24:80 - Заголовок не найден
+13.228.244.154:80 - Bitnami: Open Source. Simplified
+23.62.72.148:80 - Заголовок не найден
