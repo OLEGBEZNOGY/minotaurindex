@@ -18252,3 +18252,7 @@ Jaum.kr 에 오신것을 환영합니다!
 212.85.111.171:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
 67.159.254.102:80 - PortalFornecedores
 194.150.220.240:80 - Заголовок не найден
+46.254.18.248:80 - 403 Forbidden
+125.140.234.134:80 - main page
+195.238.226.45:80 - Заголовок не найден
+72.167.78.6:80 - 403 Forbidden
