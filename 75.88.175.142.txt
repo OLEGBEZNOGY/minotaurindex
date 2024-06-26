@@ -2713,3 +2713,145 @@
 18.244.85.188:80 - Заголовок не найден
 23.221.52.252:80 - Заголовок не найден
 54.68.226.228:80 - 503 Service Temporarily Unavailable
+3.72.35.1:80 - Заголовок не найден
+20.26.235.2:80 - 403 Forbidden
+108.158.113.53:80 - Заголовок не найден
+12.7.42.131:80 - 
+88.221.123.167:80 - Заголовок не найден
+57.181.118.86:80 - 503 Service Temporarily Unavailable
+139.129.176.233:80 - 阿里云万网虚机IP访问报错提示
+52.84.222.215:80 - Заголовок не найден
+81.71.161.234:80 - 404 Not Found
+154.37.253.73:80 - ERROR: The requested URL could not be retrieved
+217.170.66.25:80 - Apache HTTP Server Test Page powered by CentOS
+94.25.151.29:80 - 403 Forbidden
+108.157.72.140:80 - Заголовок не найден
+68.119.61.193:80 - 
+159.65.235.78:80 - WC Lathe Werks - HOME
+91.107.144.205:80 - Заголовок не найден
+65.60.38.44:80 - Заголовок не найден
+23.65.7.121:80 - Заголовок не найден
+2.22.18.134:80 - Заголовок не найден
+23.63.163.30:80 - Заголовок не найден
+104.46.5.154:80 - Microsoft Azure Web App - Error 404
+106.15.188.230:80 - HTTP Status 404 – Not Found
+37.80.65.108:80 - WEB
+23.45.186.105:80 - Заголовок не найден
+34.249.144.104:80 - Welcome to nginx!
+179.52.18.130:80 - 
+34.224.62.253:80 - 404 Not Found
+52.57.32.98:80 - 404 Not Found
+23.217.130.107:80 - Заголовок не найден
+222.72.90.226:80 - Заголовок не найден
+103.200.202.81:80 - Заголовок не найден
+64.135.63.129:80 - AmusementsGuide: Find Amusements in Your Area with the AmusementsGuide Internet Service
+23.52.220.178:80 - Заголовок не найден
+184.28.98.104:80 - Заголовок не найден
+185.141.60.35:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+45.223.171.202:80 - Заголовок не найден
+45.207.236.179:80 - Welcome to nginx!
+206.238.13.168:80 - 403 Forbidden
+75.174.32.90:80 - Заголовок не найден
+157.90.156.33:80 - Hilltop Consulting: Sage Software, Services &amp; Business Apps
+23.76.43.239:80 - Заголовок не найден
+172.66.132.245:80 - Direct IP access not allowed | Cloudflare
+18.64.187.250:80 - Заголовок не найден
+119.244.82.1:80 - ログイン
+116.193.143.187:80 - Please wait, the login page is opening...
+13.75.106.244:80 - Microsoft Azure Web App - Error 404
+23.200.215.141:80 - Заголовок не найден
+188.168.159.239:80 - Заголовок не найден
+211.219.122.44:80 - 
+184.27.233.47:80 - Заголовок не найден
+67.227.147.15:80 - Заголовок не найден
+81.198.171.81:80 - People Management &#8211; Finding the employees you need!
+152.0.250.93:80 - 
+103.253.94.126:80 - 401 Unauthorized
+123.253.167.125:80 - Заголовок не найден
+23.203.216.47:80 - Заголовок не найден
+38.6.141.249:80 - 403 Forbidden
+213.238.33.129:80 - n@work der Internetprovider für Geschäftskunden in Hamburg
+140.228.28.237:80 - Заголовок не найден
+94.245.109.76:80 - Microsoft Azure Web App - Error 404
+112.50.109.230:80 - 403 Forbidden
+196.250.206.21:80 - Weltel: Login
+158.199.217.134:80 - Заголовок не найден
+52.28.50.243:80 - Welcome to nginx!
+151.101.179.4:80 - Fastly error: unknown domain 151.101.179.4
+4.147.98.192:80 - Your Azure Function App is up and running.
+54.84.161.141:80 - 503 Service Temporarily Unavailable
+107.178.155.36:80 - 404 Not Found
+103.84.39.169:80 - RouterOS router configuration page
+20.161.174.151:80 - Заголовок не найден
+13.59.220.150:80 - Заголовок не найден
+18.64.122.242:80 - Заголовок не найден
+107.22.169.245:80 - 503 Service Temporarily Unavailable
+116.223.199.195:80 - Заголовок не найден
+13.81.13.78:80 - Заголовок не найден
+84.19.243.132:80 - 403 - Forbidden: Access is denied.
+35.170.47.184:80 - 404 Not Found
+35.190.90.68:80 - 502 Server Error
+104.19.14.244:80 - Direct IP access not allowed | Cloudflare
+88.212.252.1:80 - Home - Steincenter Freising
+104.20.70.64:80 - Direct IP access not allowed | Cloudflare
+79.96.206.147:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+169.59.221.236:80 - Заголовок не найден
+44.225.208.232:80 - MLflow
+128.140.56.203:80 - 403 Forbidden
+209.240.29.41:80 - 404 - Serene Space
+52.25.80.164:80 - Заголовок не найден
+154.206.128.100:80 - 403 Forbidden
+142.132.231.188:80 - 404 Not Found
+73.44.38.66:80 - 
+23.205.62.167:80 - Заголовок не найден
+213.202.254.249:80 - Welcome to nginx!
+86.104.195.41:80 - 403 - Forbidden: Access is denied.
+64.227.174.85:80 - 404 Not Found
+2.16.16.176:80 - Заголовок не найден
+23.59.95.160:80 - Заголовок не найден
+44.234.216.207:80 - 403 Forbidden
+89.58.28.230:80 - Lupor
+130.117.225.116:80 - VzLinux
+77.55.128.207:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+188.40.240.216:80 - auxiro: individueller &amp; kostenloser mp3-download-Shop für Künstler, Bands &amp; Labels
+182.188.38.141:80 - IIS Windows Server
+104.114.157.114:80 - Заголовок не найден
+110.44.116.181:80 - 404 Not Found
+107.170.30.72:80 - Code for Cary
+203.248.116.199:80 - 403 - »ç¿ë ±ÇÇÑ ¾øÀ½: ¾×¼¼½º°¡ °ÅºÎµÇ¾ú½À´Ï´Ù.
+45.202.228.209:80 - Заголовок не найден
+196.242.16.116:80 - Заголовок не найден
+185.193.29.108:80 - Direct IP access not allowed | Cloudflare
+62.217.80.25:80 - Заголовок не найден
+123.254.57.168:80 - Заголовок не найден
+156.250.79.78:80 - 403 Forbidden
+101.33.11.60:80 - Заголовок не найден
+160.124.218.205:80 - Resources to keep you safe  | Student Health &amp; Wellness | Dalhousie University_365体育投注▎官网
+71.18.118.226:80 - Заголовок не найден
+128.199.101.151:80 - Apache2 Ubuntu Default Page: It works
+107.163.250.6:80 - 404 Not Found
+154.216.108.113:80 - æ²¡ææ¾å°ç«ç¹
+74.140.201.54:80 - 
+4.228.44.163:80 - Your Azure Function App is up and running.
+162.209.247.168:80 - 404 Not Found
+221.168.34.122:80 - Заголовок не найден
+159.223.117.57:80 - 404 Not Found
+54.156.81.55:80 - Заголовок не найден
+104.207.243.62:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+196.63.159.244:80 - 404 Not Found
+23.197.144.195:80 - Заголовок не найден
+104.122.122.14:80 - Заголовок не найден
+213.136.71.229:80 - Заголовок не найден
+91.132.251.67:80 - ERROR: The requested URL could not be retrieved
+51.53.165.65:80 - Microsoft Azure Web App - Error 404
+197.144.188.99:80 - &#72;&#50;&#56;&#56;&#65;
+124.146.198.150:80 - µª½£ÎÉÇß°Ã
+210.148.8.67:80 - Apache HTTP Server Test Page powered by CentOS
+85.128.215.84:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+197.15.211.11:80 - Заголовок не найден
+89.106.183.157:80 - Заголовок не найден
+23.56.244.169:80 - Заголовок не найден
+54.173.254.101:80 - Заголовок не найден
+3.11.155.199:80 - Заголовок не найден
+175.124.137.77:80 - main page
+2.21.240.205:80 - Заголовок не найден
