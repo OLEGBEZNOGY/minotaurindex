@@ -1553,3 +1553,19 @@ Context: {&quot;exception&quot;:{}}
 3.163.160.26:80 - Заголовок не найден
 103.160.40.13:80 - RouterOS router configuration page
 104.25.128.39:80 - Direct IP access not allowed | Cloudflare
+78.29.47.120:80 - 
+85.128.212.8:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+23.35.188.238:80 - Заголовок не найден
+67.225.178.70:80 - Заголовок не найден
+4.207.103.254:80 - Заголовок не найден
+188.40.29.243:80 - konsoleH :: Login
+38.152.164.46:80 - ERROR: The requested URL could not be retrieved
+52.8.241.155:80 - Stanfoundation.com - Home
+23.41.128.45:80 - Заголовок не найден
+45.60.18.95:80 - Заголовок не найден
+109.170.218.31:80 - IIS Windows Server
+46.252.151.101:80 - Заголовок не найден
+47.101.58.128:80 - DOT-有点摄影 &#8211; 建筑摄影丨景观摄影丨室内空间摄影丨宣传片拍摄
+50.2.80.98:80 - 403 Forbidden
+23.54.189.143:80 - Заголовок не найден
+185.87.235.109:80 - fairy-tail.pl
