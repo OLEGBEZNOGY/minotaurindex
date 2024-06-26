@@ -519,3 +519,36 @@
 23.217.180.163:80 - Заголовок не найден
 13.224.12.150:80 - Заголовок не найден
 108.158.12.40:80 - Заголовок не найден
+185.85.1.187:80 - Protected
+196.51.76.91:80 - ERROR: The requested URL could not be retrieved
+59.124.88.31:80 - 
+35.78.142.38:80 - Not Found
+188.165.195.197:80 - Web Server's Default Page
+154.72.58.50:80 - 403 Forbidden
+66.39.85.62:80 - Заголовок не найден
+18.133.85.66:80 - Not Found
+13.215.29.87:80 - 403 - Forbidden: Access is denied.
+47.75.234.148:80 - 阿里云 Web应用防火墙
+128.232.25.111:80 - Welcome to nginx!
+107.154.164.80:80 - Заголовок не найден
+184.30.55.233:80 - Заголовок не найден
+63.41.229.84:80 - WV-SW396 Network Camera
+3.124.210.251:80 - Заголовок не найден
+185.148.107.41:80 - Direct IP access not allowed | Cloudflare
+101.43.177.221:80 - 404 Not Found
+87.157.0.177:80 - Login
+38.174.157.219:80 - 403 Forbidden
+216.122.171.120:80 - Заголовок не найден
+195.206.166.70:80 - Apache HTTP Server Test Page powered by CentOS
+216.222.201.214:80 - disabled-20210429-windowsbackup.com
+120.28.217.156:80 - RouterOS router configuration page
+178.248.246.139:80 - 401 - Unauthorized
+219.231.158.86:80 - 404 Not Found
+203.29.54.35:80 - Direct IP access not allowed | Cloudflare
+195.211.188.54:80 - Notes
+118.69.169.35:80 - 403 - Forbidden: Access is denied.
+184.28.253.93:80 - Заголовок не найден
+160.16.126.61:80 - 503 Service Temporarily Unavailable
+54.84.211.10:80 - Заголовок не найден
+23.215.225.58:80 - Заголовок не найден
+23.56.53.16:80 - Заголовок не найден
