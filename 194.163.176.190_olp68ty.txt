@@ -13009,3 +13009,11 @@
 182.100.45.94:80 - Заголовок не найден
 92.123.206.25:80 - Заголовок не найден
 66.68.117.16:80 - 404 Not Found
+109.248.250.69:80 - Welcome to nginx!
+52.92.144.235:80 - Amazon S3 - Cloud Object Storage  - AWS
+20.191.58.10:80 - Your Azure Function App is up and running.
+18.180.215.125:80 - 404 Not Found
+18.161.5.233:80 - Заголовок не найден
+103.81.220.16:80 - RouterOS router configuration page
+168.76.181.74:80 - 404 Not Found
+160.202.96.219:80 - 404 Not Found
