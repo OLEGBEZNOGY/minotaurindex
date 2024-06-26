@@ -809,3 +809,43 @@
 38.173.219.60:80 - Заголовок не найден
 23.45.8.4:80 - Заголовок не найден
 92.122.3.249:80 - Заголовок не найден
+172.67.197.50:80 - Direct IP access not allowed | Cloudflare
+23.19.98.130:80 - ERROR: The requested URL could not be retrieved
+3.110.158.224:80 - 404 Not Found
+213.63.236.67:80 - IIS Windows Server
+140.227.176.215:80 - 
+195.34.245.124:80 - 403 Forbidden
+162.43.123.60:80 - ç¡å¹ãªURLã§ã
+85.26.139.72:80 - iRZ Mobile Router
+46.103.116.51:80 - Заголовок не найден
+176.255.165.208:80 - 
+20.75.175.53:80 - Your Azure Function App is up and running.
+3.228.201.12:80 - Behavior Frontiers ABA Online Training Center
+211.180.161.72:80 - Заголовок не найден
+46.242.160.237:80 - Strona w przygotowaniu
+94.19.47.9:80 - Заголовок не найден
+199.232.188.74:80 - Fastly error: unknown domain 199.232.188.74
+3.161.144.102:80 - Заголовок не найден
+193.138.163.216:80 - 403 - Forbidden: Access is denied.
+38.152.209.26:80 - ERROR: The requested URL could not be retrieved
+77.223.134.216:80 - Web Server's Default Page
+80.47.47.18:80 - Заголовок не найден
+95.110.156.221:80 - Заголовок не найден
+81.205.64.104:80 - 
+158.179.176.126:80 - Revive Adserver
+83.169.47.74:80 - Web Server's Default Page
+57.153.54.9:80 - Azure Container App - Unavailable
+51.254.218.76:80 - Connexion
+13.235.62.44:80 - Welcome to nginx!
+72.215.239.66:80 - Document Moved
+107.174.95.243:80 - Sorry, the website has been stopped
+206.2.203.97:80 - Заголовок не найден
+82.19.1.210:80 - index
+70.39.92.104:80 - ERROR: The requested URL could not be retrieved
+3.139.151.239:80 - Заголовок не найден
+47.52.117.187:80 - Soccer Expert
+44.212.250.172:80 - Заголовок не найден
+98.5.5.157:80 - 
+151.101.165.224:80 - Fastly error: unknown domain 151.101.165.224
+68.59.101.111:80 - 
+203.88.108.64:80 - 403 Forbidden
