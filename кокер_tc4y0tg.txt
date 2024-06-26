@@ -12396,3 +12396,17 @@ Context: {&quot;exception&quot;:{}}
 148.206.107.4:80 - Заголовок не найден
 103.177.176.199:80 - JURNAL ILMIAH KELAUTAN DAN PERIKANAN
 206.119.100.237:80 - 403 - ½ûÖ¹·ÃÎÊ: ·ÃÎÊ±»¾Ü¾ø¡£
+95.100.62.208:80 - Заголовок не найден
+104.16.80.70:80 - Direct IP access not allowed | Cloudflare
+185.11.102.117:80 - Заголовок не найден
+20.192.170.57:80 - 400 Bad Request
+157.230.210.154:80 - Beacon - Lead Magnet Blog
+34.117.128.15:80 - 502 Server Error
+128.138.93.112:80 - DBNascent | Home
+85.218.108.251:80 - 
+66.215.152.113:80 - 
+81.190.248.8:80 - NNM Platforma
+104.207.233.12:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+52.95.170.4:80 - Amazon S3 - Cloud Object Storage  - AWS
+23.203.229.92:80 - Заголовок не найден
+185.242.81.238:80 - 403 Forbidden
