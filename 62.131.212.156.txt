@@ -8811,3 +8811,15 @@
 186.33.211.168:80 - Elegí Luján
 23.211.242.74:80 - Заголовок не найден
 31.210.56.6:80 - MailCleaner
+168.206.222.74:80 - 403 Forbidden
+54.201.196.128:80 - Заголовок не найден
+184.28.63.123:80 - Заголовок не найден
+190.44.254.86:80 - 403 Forbidden
+185.161.18.146:80 - Заголовок не найден
+85.214.140.33:80 - 500 Internal Server Error
+38.153.247.67:80 - ERROR: The requested URL could not be retrieved
+23.36.249.127:80 - Заголовок не найден
+89.22.104.205:80 - Web Server's Default Page
+164.132.74.168:80 - Success!
+46.30.243.13:80 - Apache HTTP Server Test Page powered by CentOS
+104.164.255.58:80 - 403 Forbidden
