@@ -813,3 +813,14 @@
 114.55.55.150:80 - Заголовок не найден
 23.201.7.112:80 - Заголовок не найден
 101.36.110.37:80 - 404 Not Found
+18.216.183.203:80 - Olympus Stone &amp; Marble
+68.66.242.115:80 - Заголовок не найден
+5.196.134.176:80 - 403 Forbidden
+185.223.29.33:80 - Apache2 Debian Default Page: It works
+104.17.203.11:80 - Direct IP access not allowed | Cloudflare
+202.231.108.159:80 - 404 Not Found
+125.21.26.74:80 - VIVOTEK ND9441P
+18.155.237.6:80 - Заголовок не найден
+104.107.181.220:80 - Заголовок не найден
+165.225.13.145:80 - Internet Security by Zscaler
+36.92.246.234:80 - Apache HTTP Server Test Page powered by CentOS
