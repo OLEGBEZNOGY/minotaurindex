@@ -7787,3 +7787,190 @@ AIO-B100-4
 72.52.231.98:80 - Заголовок не найден
 189.84.130.11:80 - 404 Not Found
 23.199.227.68:80 - Заголовок не найден
+52.4.198.152:80 - 503 Service Temporarily Unavailable
+174.134.91.160:80 - 
+99.84.192.51:80 - Заголовок не найден
+216.229.92.25:80 - 
+2.20.179.133:80 - Заголовок не найден
+34.144.244.65:80 - Заголовок не найден
+5.45.238.50:80 - 410 Gone
+67.7.159.92:80 - Instant WiFi
+72.34.49.184:80 - Softaculous Webuzo | Default Website Page
+103.49.248.43:80 - Apache HTTP Server Test Page powered by CentOS
+23.10.158.26:80 - Заголовок не найден
+192.53.174.28:80 - 请访问域名
+193.42.201.243:80 - Blocked site
+18.67.155.86:80 - Заголовок не найден
+117.199.205.28:80 - Заголовок не найден
+104.92.230.58:80 - Заголовок не найден
+13.32.208.219:80 - Заголовок не найден
+104.126.125.166:80 - Заголовок не найден
+65.9.61.122:80 - Заголовок не найден
+156.236.179.37:80 - 404 Not Found
+64.7.143.140:80 - Zimbra Web Client Sign In
+104.22.23.105:80 - Direct IP access not allowed | Cloudflare
+104.18.229.130:80 - Direct IP access not allowed | Cloudflare
+35.86.39.77:80 - Заголовок не найден
+64.111.29.43:80 - Заголовок не найден
+193.70.90.128:80 - 403 Forbidden
+216.169.116.224:80 - Заголовок не найден
+45.133.249.58:80 - 403 Forbidden
+154.218.150.146:80 - 404 Not Found
+222.99.7.77:80 - 403 Forbidden
+34.35.62.31:80 - Заголовок не найден
+104.108.251.99:80 - Заголовок не найден
+223.205.19.214:80 - 
+23.231.94.144:80 - 404 Not Found
+151.101.157.225:80 - Fastly error: unknown domain 151.101.157.225
+103.134.39.218:80 - Welcome to XAMPP
+52.217.87.227:80 - Amazon S3 - Cloud Object Storage  - AWS
+195.78.93.40:80 - Заголовок не найден
+18.160.216.205:80 - Заголовок не найден
+104.152.150.109:80 - Заголовок не найден
+80.121.146.134:80 - Заголовок не найден
+195.158.86.99:80 - Error 401
+47.26.5.116:80 - 
+186.132.243.49:80 - Заголовок не найден
+18.143.135.157:80 - Заголовок не найден
+216.119.80.221:80 - Заголовок не найден
+64.227.107.92:80 - Welcome to nginx!
+209.190.20.132:80 - 401 Authorization Required
+138.68.186.31:80 - Apache2 Debian Default Page: It works
+45.67.32.78:80 - 502 Bad Gateway
+65.25.207.212:80 - 
+126.126.254.30:80 - Заголовок не найден
+150.60.59.1:80 - Заголовок не найден
+49.12.35.87:80 - Welcome to nginx!
+2.21.158.64:80 - Заголовок не найден
+54.248.48.193:80 - Заголовок не найден
+23.217.23.63:80 - Заголовок не найден
+185.36.178.193:80 - Заголовок не найден
+74.50.104.221:80 - Index of /
+116.50.211.181:80 - Login
+162.240.226.135:80 - Заголовок не найден
+162.55.30.124:80 - 404 Not Found
+18.67.130.166:80 - Заголовок не найден
+203.128.30.120:80 - Apache2 Ubuntu Default Page: It works
+52.62.203.100:80 - 403 Forbidden
+35.200.209.208:80 - 503 Service Temporarily Unavailable
+34.163.89.236:80 - Заголовок не найден
+49.231.57.56:80 - Заголовок не найден
+23.209.31.195:80 - Заголовок не найден
+18.223.18.245:80 - Aleko Papadimitriou
+187.153.139.174:80 - Заголовок не найден
+167.172.130.7:80 - James Thomasos Writing
+13.32.30.149:80 - Заголовок не найден
+54.242.113.157:80 - 503 Service Temporarily Unavailable
+2.17.141.162:80 - Заголовок не найден
+4.180.228.46:80 - IIS Windows Server
+72.247.31.204:80 - Заголовок не найден
+23.33.68.57:80 - Заголовок не найден
+104.248.241.144:80 - Apache2 Ubuntu Default Page: It works
+18.66.160.111:80 - Заголовок не найден
+2.17.16.193:80 - Заголовок не найден
+13.226.113.72:80 - Заголовок не найден
+172.66.196.145:80 - Direct IP access not allowed | Cloudflare
+103.247.238.136:80 - The stream or file &quot;/var/www/enim-sdl/storage/logs/laravel-2024-06-27.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/enim-sdl/storage/logs/laravel-2024-06-27.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/enim-sdl/storage/logs/laravel-2024-06-27.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/enim-sdl/storage/logs/laravel-2024-06-27.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/enim-sdl/storage/logs/laravel-2024-06-27.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/enim-sdl/storage/logs/laravel-2024-06-27.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/enim-sdl/storage/logs/laravel-2024-06-27.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/enim-sdl/storage/logs/laravel-2024-06-27.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/enim-sdl/storage/logs/laravel-2024-06-27.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/enim-sdl/storage/logs/laravel-2024-06-27.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/enim-sdl/storage/logs/laravel-2024-06-27.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/enim-sdl/storage/logs/laravel-2024-06-27.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/enim-sdl/storage/logs/laravel-2024-06-27.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/enim-sdl/storage/logs/laravel-2024-06-27.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: SQLSTATE[HY000] [2002] Permission denied (SQL: select * from `sessions` where `id` = UcXgw0W4Z9NOuK0tQBLsZ6iTjvpYJbQ5pMfkohbP limit 1)
+Context: {&quot;exception&quot;:{&quot;errorInfo&quot;:[&quot;HY000&quot;,2002,&quot;Permission denied&quot;]}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+54.65.116.212:80 - HTTPステータス 404 – 見つかりません
+65.49.83.237:80 - Apache2 Ubuntu Default Page: It works
+167.71.100.84:80 - 404 Not Found
+23.213.105.3:80 - Заголовок не найден
+92.253.204.3:80 - RouterOS router configuration page
+196.247.31.110:80 - 407 Proxy Authentication Required
+189.91.51.19:80 - 403 Forbidden
+176.122.142.198:80 - Caddy works!
+85.210.79.96:80 - Your Azure Function App is up and running.
+91.193.181.211:80 - 404 Page Not Found
+71.79.80.81:80 - 
+167.86.103.118:80 - Nextcloud
+37.191.61.66:80 - Заголовок не найден
+104.84.27.225:80 - Заголовок не найден
+23.52.233.253:80 - Заголовок не найден
+67.149.226.245:80 - 
+119.42.106.90:80 - &#72;&#56;&#49;&#48;&#50;&#69;
+23.51.228.206:80 - Заголовок не найден
+184.24.139.175:80 - Заголовок не найден
+192.228.114.164:80 - 401 Unauthorized
+172.121.188.193:80 - 404 Not Found
+108.129.47.246:80 - Dental Planet Cabinet stomatologic, dentist, sector 3 Muncii, Dristor, Titan, Baba Novac
+195.211.73.240:80 - Заголовок не найден
+188.34.180.205:80 - Заголовок не найден
+204.93.142.7:80 - Заголовок не найден
+35.198.50.64:80 - Welcome to XAMPP
+42.200.69.69:80 - Vigor Login Page
+23.33.33.88:80 - Заголовок не найден
+3.142.84.16:80 - Заголовок не найден
+218.247.80.212:80 - 403 Forbidden
+108.138.100.161:80 - Заголовок не найден
+190.89.75.191:80 - Intelbras
+99.142.74.237:80 - AT&T WiFi Portal
+23.216.231.230:80 - Заголовок не найден
+213.130.137.57:80 - Apache2 Debian Default Page: It works
+47.241.65.187:80 - 404 Not Found
+23.10.155.34:80 - Заголовок не найден
+96.6.37.120:80 - Заголовок не найден
+170.85.72.136:80 - Internet Security by Zscaler
+94.143.156.140:80 - Default Parallels Plesk Page
+13.33.12.86:80 - Заголовок не найден
+23.207.19.50:80 - Заголовок не найден
+123.254.107.168:80 - 403 Forbidden
+185.158.57.83:80 - IIS Windows Server
+133.167.33.228:80 - 403 Forbidden
+52.200.17.191:80 - Welcome to nginx!
+204.250.82.153:80 - Hello! Welcome to Synology Web Station!
+177.234.226.65:80 - IIS Windows Server
+103.150.93.203:80 - Welcome to nginx!
+51.79.216.22:80 - Just a moment...
+23.32.197.133:80 - Заголовок не найден
+37.36.138.148:80 - greenpacket
+5.182.33.144:80 - vmi743426.contaboserver.net &mdash; Coming Soon
+24.45.28.139:80 - Заголовок не найден
+178.158.150.115:80 - 403 Forbidden
+23.201.61.98:80 - Заголовок не найден
+43.153.50.31:80 - 
+82.134.19.114:80 - 404 Not Found
+108.156.5.23:80 - Заголовок не найден
+185.231.206.87:80 - Заголовок не найден
+179.53.7.151:80 - 
+73.107.245.120:80 - 
+23.45.254.151:80 - Заголовок не найден
+156.234.236.212:80 - 404 Not Found
+148.0.226.60:80 - 
+24.61.8.254:80 - 
+23.217.244.28:80 - Заголовок не найден
+34.111.58.137:80 - Заголовок не найден
+175.100.96.56:80 - 
+23.212.75.149:80 - Заголовок не найден
+50.172.218.115:80 - 401 Unauthorized
+45.55.85.155:80 - 403 Forbidden
+34.228.80.36:80 - Заголовок не найден
+23.222.133.34:80 - Заголовок не найден
+144.76.167.49:80 - 404 Not Found
