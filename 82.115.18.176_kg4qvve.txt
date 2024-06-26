@@ -2409,3 +2409,4 @@
 18.64.186.180:80 - Заголовок не найден
 94.237.96.203:80 - Web Server's Default Page
 138.68.174.18:80 - Заголовок не найден
+104.24.248.69:80 - Direct IP access not allowed | Cloudflare
