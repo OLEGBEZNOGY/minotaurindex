@@ -1874,3 +1874,10 @@
 104.45.228.8:80 - Your Azure Function App is up and running.
 67.7.130.244:80 - Access to this page has been denied.
 175.118.252.9:80 - Заголовок не найден
+18.239.236.213:80 - Заголовок не найден
+146.59.146.119:80 - Web Server's Default Page
+59.24.165.16:80 - 로그인
+168.206.91.131:80 - 404 Not Found
+75.147.134.222:80 - index
+220.132.73.25:80 - Connect Vision
+162.215.119.231:80 - Not Acceptable!
