@@ -3792,3 +3792,27 @@
 23.59.131.13:80 - Заголовок не найден
 16.170.136.33:80 - The True Story
 165.76.148.214:80 - Заголовок не найден
+104.20.182.62:80 - Direct IP access not allowed | Cloudflare
+104.157.103.90:80 - Index
+148.244.240.193:80 - Web Management Login
+81.140.10.169:80 - 300Mbps Wireless N USB ADSL2+ Modem Router TD-W8968
+103.127.83.44:80 - IIS Windows Server
+52.85.26.189:80 - Заголовок не найден
+108.187.235.190:80 - æ²¡ææ¾å°ç«ç¹
+219.231.171.154:80 - 404 Not Found
+82.223.25.212:80 - Заголовок не найден
+34.120.160.54:80 - Заголовок не найден
+23.54.24.34:80 - Заголовок не найден
+20.103.197.203:80 - Your Azure Function App is up and running.
+184.29.129.55:80 - Заголовок не найден
+68.233.101.103:80 - 404 Not Found
+103.68.20.28:80 - Please wait, the login page is opening...
+172.67.15.74:80 - Direct IP access not allowed | Cloudflare
+84.16.239.141:80 - Заголовок не найден
+159.235.32.81:80 - 
+20.53.133.237:80 - Microsoft Azure Web App - Error 404
+172.233.115.171:80 - miraparty | El photocall digital para eventos, fiestas y bodas
+8.210.242.38:80 - Заголовок не найден
+23.32.78.53:80 - Заголовок не найден
+34.138.160.158:80 - LAMP packaged by Bitnami
+20.71.107.228:80 - anynode
