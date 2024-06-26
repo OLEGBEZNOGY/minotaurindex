@@ -56,3 +56,39 @@
 88.99.60.186:80 - Welcome to nginx!
 209.250.232.108:80 - Website Unavailable
 13.35.155.28:80 - Заголовок не найден
+206.119.12.69:80 - 403 Forbidden
+23.217.145.140:80 - Заголовок не найден
+23.214.188.183:80 - Заголовок не найден
+154.9.1.109:80 - Apache HTTP Server Test Page powered by CentOS
+167.172.180.131:80 - Nyanya.ua
+52.215.44.164:80 - 503 Service Temporarily Unavailable
+34.129.167.173:80 - Заголовок не найден
+23.159.136.91:80 - Utility Services Administration
+47.245.28.206:80 - 404 Not Found
+188.254.181.135:80 - 
+18.157.181.209:80 - Заголовок не найден
+195.35.41.117:80 - 403 Forbidden
+2.16.210.171:80 - Заголовок не найден
+18.158.151.205:80 - 403 Forbidden
+104.64.199.166:80 - Заголовок не найден
+172.247.175.147:80 - Stock Admin
+18.173.212.91:80 - Заголовок не найден
+117.194.74.9:80 - Заголовок не найден
+104.108.254.40:80 - Заголовок не найден
+54.200.44.220:80 - Arizona&#039;s Premium Mobile Detailing | CCC Detailing &#8211; CCC Detailing has been serving the valley since 2019. From mobile detailing to custom paint correction, we take pleasure in getting the job done the first time.
+35.233.196.87:80 - 404 Not Found
+34.27.11.30:80 - 404 Not Found
+152.199.22.7:80 - 404 - Not Found
+52.20.166.206:80 - Заголовок не найден
+103.122.3.229:80 - Welcome to nginx!
+213.110.85.3:80 - Заголовок не найден
+54.254.38.53:80 - Welcome to Symfony!
+52.84.23.50:80 - Заголовок не найден
+54.39.125.232:80 - Default Page
+197.242.146.97:80 - IIS Windows Server
+162.213.116.183:80 - Default Site
+35.244.181.206:80 - 502 Server Error
+165.227.2.152:80 - Coming Soon
+104.95.187.60:80 - Заголовок не найден
+44.209.2.80:80 - 404 Not Found
+88.214.201.108:80 - Заголовок не найден
