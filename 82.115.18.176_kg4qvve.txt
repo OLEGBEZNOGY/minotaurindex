@@ -133,3 +133,43 @@
 108.157.82.119:80 - Заголовок не найден
 20.13.82.216:80 - Your Azure Function App is up and running.
 23.204.86.91:80 - Заголовок не найден
+38.63.27.5:80 - Заголовок не найден
+23.58.115.173:80 - Заголовок не найден
+102.134.99.46:80 - IIS7
+34.36.80.194:80 - Not Found
+208.82.238.22:80 - Заголовок не найден
+173.222.54.253:80 - Заголовок не найден
+65.9.62.49:80 - Заголовок не найден
+195.138.192.89:80 - Welcome to Keycloak
+159.69.83.4:80 - Welcome to nginx!
+34.30.178.199:80 - Sales Tools
+5.79.236.76:80 - Document Error: Not Found
+191.178.105.66:80 - Intelbras
+74.131.51.227:80 - 
+23.37.215.239:80 - Заголовок не найден
+44.221.47.18:80 - Заголовок не найден
+99.86.34.235:80 - Заголовок не найден
+104.20.42.219:80 - Direct IP access not allowed | Cloudflare
+3.127.24.39:80 - 403 Forbidden
+64.225.15.225:80 - Welcome to nginx!
+52.62.253.97:80 - Artboard
+184.24.248.159:80 - Заголовок не найден
+104.155.132.163:80 - Заголовок не найден
+166.164.161.14:80 - Login
+62.146.88.139:80 - StadtRadio G&ouml;ttingen
+104.25.52.255:80 - Direct IP access not allowed | Cloudflare
+199.232.156.63:80 - Fastly error: unknown domain 199.232.156.63
+35.235.111.163:80 - 404 Not Found
+20.201.4.148:80 - 404 Not Found
+49.231.186.212:80 - RouterOS router configuration page
+51.222.240.49:80 - Paysaco - Taille de haies, d’arbustes et conifères dans le Grand-Montréal
+13.249.155.20:80 - Заголовок не найден
+125.229.185.192:80 - 401 Unauthorized
+3.21.46.155:80 - Welcome to nginx!
+148.66.224.65:80 - 403 Forbidden
+165.227.116.4:80 - OpenSearch Dashboards
+141.95.80.217:80 - Website ip217.ip-141-95-80.eu is ready. The content is to be added
+107.175.127.157:80 - 500 Internal Server Error
+52.157.77.201:80 - Microsoft Azure Web App - Error 404
+164.92.129.176:80 - 404 Not Found
+45.79.122.104:80 - Заголовок не найден
