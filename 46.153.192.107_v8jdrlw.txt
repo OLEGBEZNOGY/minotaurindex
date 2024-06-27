@@ -3643,3 +3643,4 @@ mechanical,
 95.216.209.137:80 - Apache2 Ubuntu Default Page: It works
 94.29.248.167:80 - Заголовок не найден
 113.252.185.198:80 - PowerGrid 9021 Web Configuration - Authentication
+64.44.168.69:80 - 404 Not Found
