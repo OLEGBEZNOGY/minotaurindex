@@ -253,3 +253,4 @@
 112.166.128.117:80 - Заголовок не найден
 111.231.23.207:80 - IIS Windows Server
 116.241.127.250:80 - Welcome to nginx!
+104.27.113.242:80 - Direct IP access not allowed | Cloudflare
