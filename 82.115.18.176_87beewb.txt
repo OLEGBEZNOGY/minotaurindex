@@ -1122,3 +1122,34 @@
 213.95.77.245:80 - Welcome to nginx!
 23.202.248.253:80 - Заголовок не найден
 104.102.30.155:80 - Заголовок не найден
+13.32.121.95:80 - Заголовок не найден
+203.130.1.33:80 - Заголовок не найден
+5.9.245.177:80 - Willkommen / Startseite | GEWOG Bad Salzungen
+65.8.204.92:80 - Заголовок не найден
+23.8.69.153:80 - Заголовок не найден
+173.234.250.162:80 - ERROR: The requested URL could not be retrieved
+34.80.146.111:80 - 403 Forbidden
+118.27.13.60:80 - Page Not Found
+35.186.248.170:80 - Заголовок не найден
+52.36.191.75:80 - Заголовок не найден
+65.9.119.215:80 - Заголовок не найден
+18.164.46.249:80 - Заголовок не найден
+117.245.141.27:80 - PURABI v14 DR - Purabi Dairy | WAMUL
+72.247.49.103:80 - Заголовок не найден
+185.142.157.39:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+38.33.91.140:80 - Welcome to nginx!
+178.32.207.101:80 - Заголовок не найден
+15.197.209.24:80 - Test Page for the Apache HTTP Server
+212.83.174.225:80 - Oops!
+147.189.132.78:80 - It worked! &mdash; Coming Soon
+13.110.41.9:80 - Unable to Process Request
+98.64.108.237:80 - Your Azure Function App is up and running.
+77.152.237.9:80 - 401 Unauthorized
+202.212.222.81:80 - Zen-san STYLE
+104.156.57.41:80 - Virtualmin
+102.66.15.58:80 - LibreNMS
+13.228.162.102:80 - Заголовок не найден
+165.227.240.107:80 - syscomer
+92.204.53.34:80 - Web Server's Default Page
+104.16.111.70:80 - Direct IP access not allowed | Cloudflare
+38.55.48.20:80 - 403 Forbidden
