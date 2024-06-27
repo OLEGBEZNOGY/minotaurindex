@@ -4368,3 +4368,7 @@ OLUTION
 85.215.205.108:80 - Welcome to nginx!
 184.25.89.195:80 - Заголовок не найден
 212.37.58.72:80 - Apache2 Ubuntu Default Page: It works
+80.42.198.75:80 - .::Welcome to the Web-Based Configurator::.
+133.142.87.89:80 - Заголовок не найден
+142.171.252.22:80 - Welcome to nginx!
+91.211.238.202:80 - 403 Forbidden
