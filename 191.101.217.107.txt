@@ -3574,3 +3574,5 @@
 202.229.133.229:80 - Заголовок не найден
 185.107.229.88:80 - Заголовок не найден
 199.232.162.13:80 - Fastly error: unknown domain 199.232.162.13
+138.197.76.5:80 - Apache2 Ubuntu Default Page: It works
+54.202.1.25:80 - 503 Service Temporarily Unavailable
