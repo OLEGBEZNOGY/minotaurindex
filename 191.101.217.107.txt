@@ -1077,3 +1077,6 @@
 104.193.110.21:80 - Заголовок не найден
 151.232.54.90:80 - RouterOS router configuration page
 59.124.71.56:80 - 
+52.216.112.20:80 - Amazon S3 - Cloud Object Storage  - AWS
+23.200.144.142:80 - Заголовок не найден
+151.101.180.2:80 - Fastly error: unknown domain 151.101.180.2
