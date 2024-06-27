@@ -6095,3 +6095,4 @@ netværk-------------------------------------------------
 1.231.33.107:80 - Hello! Welcome to Synology Web Station!
 159.223.203.93:80 - AdvertServe :: Hosted Ad Server :: Ad Management, Targeting, Tracking and Real-Time Reporting
 162.213.158.153:80 - 401 Authorization Required
+84.247.140.30:80 - Apache2 Ubuntu Default Page: It works
