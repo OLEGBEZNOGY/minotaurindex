@@ -727,3 +727,59 @@
 23.203.113.84:80 - Заголовок не найден
 109.164.38.221:80 - RouterOS router configuration page
 203.205.157.22:80 - Заголовок не найден
+103.185.28.36:80 - Заголовок не найден
+38.31.220.110:80 - 404 Not Found
+14.56.224.31:80 - Заголовок не найден
+71.18.156.69:80 - Welcome to nginx!
+75.183.94.248:80 - 
+23.50.152.179:80 - Заголовок не найден
+138.2.169.132:80 - 502 Bad Gateway
+23.33.104.24:80 - Заголовок не найден
+66.39.157.26:80 - Professional Enterprises Organization, Inc.
+3.9.210.86:80 - 403 Forbidden
+107.151.76.197:80 - 403 Forbidden
+34.42.76.230:80 - Заголовок не найден
+151.101.140.108:80 - Fastly error: unknown domain 151.101.140.108
+189.2.39.103:80 - 403 Forbidden
+46.101.67.31:80 - 404 Not Found
+162.19.124.206:80 - Default Site
+143.89.12.222:80 - Заголовок не найден
+23.206.13.241:80 - Заголовок не найден
+187.94.25.150:80 - Заголовок не найден
+192.3.165.134:80 - 403 Forbidden
+184.55.243.147:80 - 
+3.39.22.61:80 - 403 Forbidden
+199.255.138.30:80 - Início | TripleWiki
+165.234.159.61:80 - Bad Request
+108.186.83.84:80 - hdwood &#8211; Just another WordPress site
+194.57.221.225:80 - Apache2 Debian Default Page: It works
+165.225.10.218:80 - Internet Security by Zscaler
+3.28.186.53:80 - 502 Bad Gateway
+160.121.68.25:80 - 404 Not Found
+205.145.129.47:80 - RealSmartPro Websites for Real Estate Professionals
+66.22.95.33:80 - 403 Forbidden
+121.154.124.80:80 - Заголовок не найден
+78.128.125.62:80 - RouterOS router configuration page
+104.21.60.202:80 - Direct IP access not allowed | Cloudflare
+50.226.95.156:80 - Index
+181.23.207.122:80 - Заголовок не найден
+2.17.116.44:80 - Заголовок не найден
+196.51.58.143:80 - ERROR: The requested URL could not be retrieved
+195.69.165.249:80 - Заголовок не найден
+119.46.93.43:80 - Заголовок не найден
+50.91.84.140:80 - 
+172.64.47.76:80 - Blocked by Cloudflare Gateway
+172.67.116.160:80 - Direct IP access not allowed | Cloudflare
+91.216.57.81:80 - Please wait, the page is opening...
+23.62.165.88:80 - Заголовок не найден
+66.42.127.139:80 - The Most Complete Guide to Information Technology and Bussines  | stechserving.info
+185.162.228.198:80 - Direct IP access not allowed | Cloudflare
+156.250.164.83:80 - Заголовок не найден
+173.44.182.206:80 - Home
+87.252.107.6:80 - 500 Internal Server Error
+69.165.254.26:80 - 404 — Not Found
+38.12.115.29:80 - æ²¡ææ¾å°ç«ç¹
+172.64.32.3:80 - Direct IP access not allowed | Cloudflare
+79.45.222.186:80 - Default Site
+209.8.28.230:80 - Babe Sex Cams. Live Chat Mobile
+46.252.240.212:80 - ÐÐ¾Ð¹ÑÐ¸ - Sipteco
