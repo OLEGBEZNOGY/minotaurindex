@@ -8153,3 +8153,11 @@
 139.196.51.89:80 - æ²¡ææ¾å°ç«ç¹
 35.84.243.18:80 - Home Page - My ASP.NET Application
 104.121.229.65:80 - Заголовок не найден
+110.39.169.34:80 - RouterOS router configuration page
+45.123.42.49:80 - 500 Internal Server Error
+195.128.103.178:80 - Unfallfragebogen.net
+50.3.20.225:80 - 403 Forbidden
+195.245.112.233:80 - 404 Not Found
+85.13.133.99:80 - 503 Service Temporarily Unavailable
+89.246.53.136:80 - 403 Forbidden
+154.196.10.26:80 - Заголовок не найден
