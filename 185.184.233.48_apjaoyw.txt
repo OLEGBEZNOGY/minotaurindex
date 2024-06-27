@@ -400,3 +400,18 @@
 57.153.127.164:80 - 404 Not Found
 20.47.21.227:80 - InvalidUri
 18.154.81.174:80 - Заголовок не найден
+67.205.178.200:80 - Welcome to nginx!
+72.11.155.147:80 - Captcha Challenge
+23.36.240.49:80 - Заголовок не найден
+65.0.115.224:80 - Mordor Intelligence | Internal Workflow
+151.101.220.70:80 - Fastly error: unknown domain 151.101.220.70
+23.73.98.225:80 - Заголовок не найден
+185.172.64.33:80 - 404 Not Found
+3.7.209.198:80 - User&#039;s blog &#8211; Just another WordPress site
+5.26.12.156:80 - Teltonika Networks
+18.161.77.111:80 - Заголовок не найден
+167.82.25.173:80 - Fastly error: unknown domain 167.82.25.173
+74.207.224.167:80 - 403 Forbidden
+4.207.30.219:80 - Your Azure Function App is up and running.
+190.49.24.192:80 - Заголовок не найден
+154.205.98.40:80 - 404 Not Found
