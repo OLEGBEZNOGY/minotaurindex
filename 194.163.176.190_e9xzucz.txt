@@ -5641,3 +5641,8 @@
 81.56.107.8:80 - Apache2 Ubuntu Default Page: It works
 23.204.174.25:80 - Заголовок не найден
 165.123.124.144:80 - CAE LearningSpace&#8482;
+23.207.93.172:80 - Заголовок не найден
+40.78.4.196:80 - IIS Windows Server
+205.164.31.35:80 - 404 Not Found
+3.80.236.183:80 - Reportes PLD
+154.19.231.16:80 - Welcome to CentOS
