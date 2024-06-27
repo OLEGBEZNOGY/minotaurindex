@@ -4987,3 +4987,31 @@
 186.6.43.239:80 - 
 23.202.254.177:80 - Заголовок не найден
 52.223.53.16:80 - 404 Not Found
+18.168.142.135:80 - NDL Electrical &#8211; Electrical Support for the Residential, Commercial, Industrial Sectors
+172.104.197.31:80 - Заголовок не найден
+54.180.157.115:80 - 404 Not Found
+104.74.55.83:80 - Заголовок не найден
+136.144.169.129:80 - Заголовок не найден
+212.227.239.68:80 - Web Server's Default Page
+154.219.5.101:80 - Direct IP access not allowed | Cloudflare
+54.37.255.199:80 - darthsidius.innovahosts.es &mdash;  Host default page
+138.197.50.35:80 - Log In - INGENIUM CLOUD
+104.20.188.27:80 - Direct IP access not allowed | Cloudflare
+54.38.244.145:80 - Apache2 Debian Default Page: It works
+207.192.147.149:80 - 
+52.29.158.208:80 - Kinexon
+13.126.34.18:80 - Заголовок не найден
+162.203.68.81:80 - TECH Electronics
+45.76.248.211:80 - 403 Forbidden
+96.16.66.130:80 - Заголовок не найден
+94.130.56.89:80 - Home
+157.148.69.41:80 - Заголовок не найден
+5.56.53.208:80 - 403 Forbidden
+192.126.172.200:80 - ERROR: The requested URL could not be retrieved
+34.42.253.0:80 - Welcome to nginx!
+34.36.127.31:80 - 502
+129.153.65.17:80 - ç¬¬ä¸ä¸ªç½ç« by woo
+54.249.86.112:80 - Sign in – Google accounts
+118.123.103.36:80 - Заголовок не найден
+113.198.34.154:80 - L7
+18.64.8.22:80 - Заголовок не найден
