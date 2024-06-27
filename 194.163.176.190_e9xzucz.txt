@@ -12068,3 +12068,6 @@
 82.127.67.74:80 - SAUTER moduWeb Vision
 3.228.115.87:80 - ARCSys
 185.149.210.243:80 - Hello! Welcome to Synology Web Station!
+18.200.196.70:80 - Заголовок не найден
+52.76.195.91:80 - AQUA Việt Nam: Trang chủ
+50.233.162.54:80 - SAMSUNG TECHWIN NVR Web Viewer
