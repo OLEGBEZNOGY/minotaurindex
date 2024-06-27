@@ -4807,3 +4807,29 @@
 101.46.142.216:80 - Layout Not Found
 71.13.19.170:80 - 
 104.233.175.41:80 - æ²¡ææ¾å°ç«ç¹
+27.126.245.254:80 - 
+23.61.242.228:80 - Заголовок не найден
+54.167.101.98:80 - Syndichain Lab
+178.88.93.108:80 - GPON Home Gateway
+164.92.250.52:80 - Apache2 Ubuntu Default Page: It works
+193.248.219.237:80 - IIS Windows Server
+162.159.128.138:80 - Direct IP access not allowed | Cloudflare
+167.82.76.76:80 - Fastly error: unknown domain 167.82.76.76
+200.63.105.237:80 - Error 404 (Not Found)!!1
+211.45.28.83:80 - T SERI&E
+13.229.90.128:80 - Apache2 Ubuntu Default Page: It works
+54.230.85.165:80 - Заголовок не найден
+167.71.97.196:80 - Заголовок не найден
+156.67.218.187:80 - Frontend Mentor | Manage landing page
+116.204.249.243:80 - Заголовок не найден
+109.232.194.64:80 - 404 Not Found
+118.190.127.149:80 - 500 Internal Server Error
+185.174.138.62:80 - Direct IP access not allowed | Cloudflare
+120.25.220.225:80 - Undefined array key 1
+46.249.3.238:80 - Заголовок не найден
+3.81.224.205:80 - RouterOS
+192.252.146.27:80 - Resource not found
+18.66.45.12:80 - Заголовок не найден
+162.210.37.25:80 - 404 Not Found
+154.42.164.254:80 - About IP Office R11.1
+151.69.60.175:80 - 
