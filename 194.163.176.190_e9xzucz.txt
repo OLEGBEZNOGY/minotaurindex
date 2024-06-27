@@ -4136,3 +4136,6 @@
 44.195.231.149:80 - Welcome to nginx!
 23.109.64.203:80 - Just a moment...
 23.64.30.157:80 - Заголовок не найден
+141.148.87.134:80 - Default Site
+159.146.105.107:80 - .::Welcome to the Web-Based Configurator::.
+3.110.104.86:80 - Test Page for the Nginx HTTP Server on Fedora
