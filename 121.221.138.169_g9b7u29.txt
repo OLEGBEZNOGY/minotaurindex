@@ -78,3 +78,13 @@
 3.160.85.57:80 - Заголовок не найден
 50.20.207.10:80 - Just a moment...
 52.250.47.104:80 - Welcome to Azure Container Instances!
+184.86.105.239:80 - Заголовок не найден
+45.225.25.100:80 - 403 - Forbidden: Access is denied.
+114.108.147.1:80 - Заголовок не найден
+79.25.46.247:80 - AtHome ...e sei sempre a casa! - Thesis s.r.l.
+23.47.132.99:80 - Заголовок не найден
+23.201.8.146:80 - Заголовок не найден
+52.27.213.53:80 - Заголовок не найден
+165.225.94.165:80 - Internet Security by Zscaler
+188.42.145.111:80 - Direct IP access not allowed | Cloudflare
+89.40.16.144:80 - FSonline - Filme si Seriale Online Gratis
