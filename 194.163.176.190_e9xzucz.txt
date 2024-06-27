@@ -7592,3 +7592,11 @@
 213.234.252.73:80 - Заголовок не найден
 139.59.2.207:80 - Welcome to nginx!
 38.152.196.206:80 - ERROR: The requested URL could not be retrieved
+185.160.182.77:80 - Заголовок не найден
+104.251.222.171:80 - Welcome to nginx!
+23.49.145.58:80 - Заголовок не найден
+107.20.216.78:80 - 403 Forbidden
+196.51.154.176:80 - ERROR: The requested URL could not be retrieved
+82.142.154.155:80 - Заголовок не найден
+108.159.228.116:80 - Заголовок не найден
+72.34.37.39:80 - Softaculous Webuzo | Default Website Page
