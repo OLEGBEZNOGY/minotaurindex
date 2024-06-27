@@ -4571,3 +4571,24 @@
 170.10.164.82:80 - Object not found!
 116.80.0.136:80 - Sample Page
 123.57.7.140:80 - IIS Windows Server
+104.73.65.65:80 - Заголовок не найден
+54.149.184.155:80 - Bitnami: Open Source. Simplified
+92.242.202.209:80 - Заголовок не найден
+47.105.32.70:80 - 深度如皋小程序电商平台-南通微擎网络科技有限公司
+125.199.59.133:80 - 401 - Unauthorized
+63.134.249.232:80 - Заголовок не найден
+104.17.13.229:80 - Direct IP access not allowed | Cloudflare
+202.105.124.194:80 - 403 Forbidden
+108.186.37.210:80 - Заголовок не найден
+43.248.241.240:80 - Please wait, the login page is opening...
+52.76.95.226:80 - Apache2 Ubuntu Default Page: It works
+207.236.181.44:80 - Transports et perception des devises Intelligent pour AVL
+209.97.185.34:80 - Welcome to nginx!
+23.201.149.231:80 - Заголовок не найден
+121.166.72.35:80 - 
+190.144.213.98:80 - 401 Authorization Required
+45.80.69.80:80 - 404 Not Found
+38.48.169.216:80 - Заголовок не найден
+52.136.227.25:80 - Заголовок не найден
+62.221.197.244:80 - Geen webhosting actief
+34.37.13.16:80 - Заголовок не найден
