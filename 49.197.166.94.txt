@@ -2482,3 +2482,4 @@
 154.64.206.25:80 - Заголовок не найден
 107.11.152.228:80 - 
 20.204.99.40:80 - IIS Windows Server
+92.12.81.68:80 - .::Welcome to the Web-Based Configurator::.
