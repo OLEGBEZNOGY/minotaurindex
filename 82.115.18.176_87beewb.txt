@@ -529,3 +529,50 @@
 18.215.41.247:80 - 404 Not Found
 13.36.143.53:80 - Заголовок не найден
 16.163.171.14:80 - Welcome to nginx!
+78.47.207.141:80 - Заголовок не найден
+52.222.225.154:80 - Заголовок не найден
+118.42.18.102:80 - Заголовок не найден
+212.174.11.74:80 - Loading 20.80
+103.86.53.231:80 - Web Server's Default Page
+23.48.116.159:80 - Заголовок не найден
+45.204.4.40:80 - æ²¡ææ¾å°ç«ç¹
+3.136.0.20:80 - Apache2 Ubuntu Default Page: It works
+13.81.111.0:80 - Microsoft Azure Web App - Error 404
+76.49.83.117:80 - 
+51.222.134.229:80 - Web Access
+89.161.185.220:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+154.31.234.181:80 - 404 Not Found
+3.165.12.106:80 - Заголовок не найден
+103.105.214.236:80 - Error 404 (Not Found)!!1
+3.20.135.138:80 - HBGO
+176.32.54.228:80 - IIS Windows Server
+20.242.139.84:80 - Azure Container App - Unavailable
+104.81.119.191:80 - Заголовок не найден
+169.255.36.28:80 - RouterOS router configuration page
+104.195.31.108:80 - 500 Internal Server Error
+13.233.196.185:80 - Cricwinners
+185.68.111.207:80 - Web Server's Default Page
+52.136.179.33:80 - 403 - Forbidden: Access is denied.
+54.213.230.0:80 - Заголовок не найден
+154.216.170.84:80 - Заголовок не найден
+89.35.31.20:80 - IIS Windows Server
+54.210.65.235:80 - Site Not Configured | 404 Not Found
+104.96.193.147:80 - Заголовок не найден
+204.188.250.98:80 - ERROR: The requested URL could not be retrieved
+104.123.78.39:80 - Заголовок не найден
+54.183.98.90:80 - Заголовок не найден
+50.2.244.161:80 - 403 Forbidden
+46.242.177.16:80 - Strona w przygotowaniu
+104.116.173.184:80 - Заголовок не найден
+4.145.176.196:80 - Заголовок не найден
+92.67.210.244:80 - 
+38.173.71.88:80 - 404 Not Found
+5.45.93.233:80 - Success!
+190.151.139.1:80 - RouterOS router configuration page
+5.135.59.112:80 - 403 Forbidden
+204.13.153.73:80 - 403 Forbidden
+94.230.155.86:80 - Заголовок не найден
+34.144.13.128:80 - Apache2 Debian Default Page: It works
+46.11.209.38:80 - Hello! Welcome to Synology Web Station!
+104.110.131.22:80 - Заголовок не найден
+35.156.200.36:80 - 404 Not Found
