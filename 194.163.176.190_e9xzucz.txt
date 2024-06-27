@@ -2073,3 +2073,5 @@
 109.195.243.32:80 - RouterOS router configuration page
 112.175.249.10:80 - HRDE평생교육원
 68.183.142.107:80 - Apache2 Ubuntu Default Page: It works
+36.156.173.97:80 - 503 Service Temporarily Unavailable
+23.64.41.79:80 - Заголовок не найден
