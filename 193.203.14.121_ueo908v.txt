@@ -3321,3 +3321,5 @@ netværk-------------------------------------------------
 104.80.54.119:80 - Заголовок не найден
 193.47.236.90:80 - ERROR: The requested URL could not be retrieved
 159.196.10.47:80 - Apache2 Debian Default Page: It works
+162.209.162.123:80 - 403 Forbidden
+47.103.15.34:80 - IIS Windows Server
