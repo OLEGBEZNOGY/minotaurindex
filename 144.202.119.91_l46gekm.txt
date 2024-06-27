@@ -19349,3 +19349,46 @@ SPECIFIC SOUTHERN CALIFORNIA
 5.196.177.59:80 - empresas en Latinoamerica y EspaÃ±a
 109.71.43.104:80 - 403 Forbidden
 103.251.79.55:80 - 401 Authorization Required
+199.167.31.214:80 - ERROR: The requested URL could not be retrieved
+104.17.162.108:80 - Direct IP access not allowed | Cloudflare
+82.176.252.245:80 - IIS Windows
+217.86.255.88:80 - Collaboration
+2.19.58.186:80 - Заголовок не найден
+45.201.191.111:80 - WEB SERVICE
+211.20.122.131:80 - 中鼎資訊POS整合規劃|餐飲POS系統|門市POS系統|社區管理系統
+75.119.194.36:80 - Site not found &middot; DreamHost
+40.84.239.110:80 - IIS Windows Server
+221.188.35.100:80 - Заголовок не найден
+103.101.112.181:80 - Please wait, the login page is opening...
+108.203.130.114:80 - Michigan Reproductive Medicine Remote Support - Customer
+23.221.136.119:80 - Заголовок не найден
+94.130.163.99:80 - Start | Krisenreaktionskräfte
+23.79.176.132:80 - Заголовок не найден
+104.25.68.59:80 - Direct IP access not allowed | Cloudflare
+198.27.125.141:80 - index
+160.124.140.66:80 - 404 Not Found
+140.248.133.32:80 - Fastly error: unknown domain 140.248.133.32
+5.185.64.139:80 - 
+217.71.202.111:80 - LanzaroteTAXI
+216.12.173.190:80 - 404 Not Found
+104.65.64.97:80 - Заголовок не найден
+65.109.223.164:80 - Заголовок не найден
+104.253.249.163:80 - 404 Not Found
+114.32.65.243:80 - Заголовок не найден
+34.223.108.58:80 - 403 Forbidden
+180.226.102.205:80 - WEB SERVICE
+4.182.130.197:80 - 404 Not Found
+170.100.128.71:80 - Apache2 Ubuntu Default Page: It works
+42.29.30.243:80 - Login to <!--#exec cmd="xmlp_web system\\common model"-->
+3.7.167.246:80 - 404 Not Found
+64.176.49.164:80 - Apache2 Ubuntu Default Page: It works
+60.251.186.104:80 - DVR Components Download
+66.160.209.133:80 - 
+23.203.33.2:80 - Заголовок не найден
+65.2.126.192:80 - 404 Not Found
+67.228.194.242:80 - 
+104.113.210.186:80 - Заголовок не найден
+27.254.44.184:80 - Заголовок не найден
+45.163.100.5:80 - Zabbix Maysnet: Zabbix
+190.173.154.224:80 - Заголовок не найден
+104.115.24.189:80 - Заголовок не найден
