@@ -1347,3 +1347,7 @@ ge is opening...
 193.124.41.236:80 - Welcome to nginx!
 23.15.55.24:80 - Заголовок не найден
 42.112.113.175:80 - 
+3.143.138.104:80 - 503 Service Temporarily Unavailable
+104.19.41.236:80 - Direct IP access not allowed | Cloudflare
+34.117.124.190:80 - Заголовок не найден
+18.220.53.248:80 - 403 Forbidden
