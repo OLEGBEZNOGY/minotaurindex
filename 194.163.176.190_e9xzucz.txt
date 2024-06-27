@@ -9626,3 +9626,6 @@
 5.79.106.234:80 - Domain Default page
 147.175.150.161:80 - Test Page for the HTTP Server on AlmaLinux
 45.196.226.209:80 - æ²¡ææ¾å°ç«ç¹
+216.10.248.212:80 - Not Acceptable!
+3.23.202.95:80 - Mini & Party Bus DC
+23.72.240.126:80 - Заголовок не найден
