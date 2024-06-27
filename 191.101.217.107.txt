@@ -5900,3 +5900,6 @@ OLUTION
 108.165.90.29:80 - Page not found
 51.158.105.144:80 - Test | Switch Reward Card Block Explorer
 4.190.18.62:80 - Your Azure Function App is up and running.
+185.156.163.43:80 - 403 Forbidden
+59.3.34.14:80 - 
+148.72.138.122:80 - IIS Windows Server
