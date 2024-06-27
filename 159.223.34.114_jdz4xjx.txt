@@ -431,3 +431,27 @@
 115.133.110.149:80 - 
 133.167.29.13:80 - 403 Forbidden
 18.170.58.208:80 - Verature: Site Not Found
+104.119.108.116:80 - Заголовок не найден
+219.94.234.22:80 - MyASP（マイスピー）
+52.216.163.141:80 - Amazon S3 - Cloud Object Storage  - AWS
+23.220.247.15:80 - Заголовок не найден
+82.67.63.232:80 - Apache2 Debian Default Page: It works
+104.85.138.202:80 - Заголовок не найден
+82.98.189.121:80 - EstÃ¡s accediendo a una IP compartida por varios hostings
+38.12.4.218:80 - 404 Not Found
+222.194.56.34:80 - 404 Not Found
+37.200.70.120:80 - 404 Not Found
+102.119.214.208:80 - 
+20.122.221.84:80 - Your Azure Function App is up and running.
+78.84.70.164:80 - 
+18.160.140.17:80 - Заголовок не найден
+156.239.228.17:80 - 404 Not Found
+59.17.171.140:80 - System Configuration
+161.97.139.186:80 - Website Unavailable
+213.159.30.123:80 - Web Server's Default Page
+165.232.169.2:80 - CELOSLOT Link Slot Mahjong 1 & 2 Terbaik terkini
+104.119.68.2:80 - Заголовок не найден
+104.76.246.18:80 - Заголовок не найден
+104.94.219.162:80 - Заголовок не найден
+52.33.133.208:80 - SonarQube
+108.139.29.205:80 - Заголовок не найден
