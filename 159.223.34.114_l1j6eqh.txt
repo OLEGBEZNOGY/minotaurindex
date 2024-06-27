@@ -4647,3 +4647,37 @@
 217.79.0.77:80 - Заголовок не найден
 206.233.206.179:80 - 400 Bad Request
 104.21.92.65:80 - Direct IP access not allowed | Cloudflare
+20.220.221.27:80 - FreePBX Administration
+184.50.142.246:80 - Заголовок не найден
+149.96.43.97:80 - 403 Forbidden
+104.110.23.193:80 - Заголовок не найден
+156.250.194.78:80 - 404 Not Found
+222.155.43.140:80 - 
+120.107.186.57:80 - IIS7
+104.21.203.198:80 - Direct IP access not allowed | Cloudflare
+2.17.50.61:80 - Заголовок не найден
+210.57.88.69:80 - Заголовок не найден
+198.23.142.4:80 - 500 Internal Server Error
+213.175.160.75:80 - Microsoft Internet Information Services 8
+143.204.180.195:80 - Заголовок не найден
+38.6.192.241:80 - 404 Not Found
+202.43.49.214:80 - Заголовок не найден
+162.144.16.97:80 - Not Acceptable!
+182.92.159.2:80 - 404 Not Found
+103.195.32.175:80 - Заголовок не найден
+212.9.186.223:80 - Заголовок не найден
+54.190.135.178:80 - Acceder &lsaquo; Acnomel &#8212; WordPress
+149.88.93.1:80 - RouterOS
+154.220.230.14:80 - 404 Not Found
+103.61.255.60:80 - Please wait, the page is opening...
+13.112.190.216:80 - Заголовок не найден
+216.119.114.241:80 - Web Server's Default Page
+79.96.200.100:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+159.65.153.144:80 - CUMI4D &gt; Daftar CUMI4D, CUMI 4D, link alternatif CUMI4D, link CUMI4D, 
+
+ &ndash; CUMI4D
+112.126.76.121:80 - Заголовок не найден
+17.248.180.237:80 - 400 Bad Request
+108.156.174.212:80 - Заголовок не найден
+170.64.145.100:80 - 503 Service Temporarily Unavailable
+185.141.75.22:80 - Waiting for the redirectiron...
