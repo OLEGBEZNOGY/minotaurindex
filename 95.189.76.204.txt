@@ -764,3 +764,37 @@
 23.43.10.15:80 - Заголовок не найден
 52.84.40.194:80 - Заголовок не найден
 23.14.48.217:80 - Заголовок не найден
+78.129.168.25:80 - Access denied | The Arts Society Directory
+52.90.1.148:80 - Заголовок не найден
+23.49.66.152:80 - Заголовок не найден
+34.176.84.10:80 - Заголовок не найден
+90.212.238.209:80 - Hello! Welcome to Synology Web Station!
+109.73.85.242:80 - Заголовок не найден
+91.107.196.79:80 - Welcome to nginx!
+85.13.153.248:80 - 503 Service Temporarily Unavailable
+220.124.136.159:80 - WEB SERVICE
+50.87.145.238:80 - Not Acceptable!
+23.203.204.155:80 - Заголовок не найден
+43.134.167.174:80 - Not Found
+104.19.199.16:80 - Direct IP access not allowed | Cloudflare
+103.131.46.227:80 - Заголовок не найден
+115.22.237.105:80 - Заголовок не найден
+104.108.153.132:80 - Заголовок не найден
+94.191.102.127:80 - 产品登录界面
+190.151.66.138:80 - AGENTE OMEGA
+35.204.198.248:80 - Заголовок не найден
+23.47.169.159:80 - Заголовок не найден
+115.42.4.3:80 - 403 Forbidden
+45.127.235.78:80 - Please wait, the login page is opening...
+35.159.85.48:80 - The page you were looking for doesn't exist (404)
+121.250.215.115:80 - 404 Not Found
+160.124.222.199:80 - 403 Forbidden
+107.152.32.117:80 - mail.gs1ve.org &mdash; Coming Soon
+34.240.136.147:80 - 403 - Forbidden: Access is denied.
+3.98.199.55:80 - Lagom Made | Handcrafted Furniture, Minimalist Style and Ethically Sourced Materials
+5.144.58.5:80 - IIS Windows Server
+118.233.209.50:80 - Заголовок не найден
+20.117.190.90:80 - Заголовок не найден
+194.32.156.1:80 - 403 Forbidden
+52.41.231.5:80 - 404 Not Found
+83.231.240.14:80 - LibreSpeed
