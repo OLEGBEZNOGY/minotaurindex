@@ -6700,3 +6700,53 @@ Stack trace:
 146.75.127.40:80 - Заголовок не найден
 185.156.160.211:80 - 403 Forbidden
 46.22.156.178:80 - BEAAM UI
+104.68.110.63:80 - Заголовок не найден
+27.126.203.244:80 - 
+188.128.202.32:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+193.243.140.102:80 - PXS Acquires Teletech
+34.204.36.196:80 - Welcome to nginx!
+64.23.163.208:80 - Заголовок не найден
+104.102.40.235:80 - Заголовок не найден
+115.42.247.46:80 - Заголовок не найден
+8.218.1.46:80 - 502 Bad Gateway
+164.90.226.150:80 - 403 Forbidden
+156.225.95.101:80 - IIS Windows Server
+114.142.191.168:80 - Заголовок не найден
+74.220.202.233:80 - Not Acceptable!
+167.172.107.231:80 - Welcome to nginx!
+104.66.74.186:80 - Заголовок не найден
+13.248.138.51:80 - 503 Service Temporarily Unavailable
+49.13.16.146:80 - Заголовок не найден
+35.74.245.117:80 - HTTP Server Test Page powered by: Rocky Linux
+54.146.29.72:80 - 503 Service Temporarily Unavailable
+108.157.43.9:80 - Заголовок не найден
+132.239.200.43:80 - Protected Object
+94.23.210.154:80 - Babooni - Empresa de software, consultoría tecnológica y transformación digital
+18.161.230.56:80 - Заголовок не найден
+143.95.34.235:80 - Not Acceptable!
+91.230.47.244:80 - Welcome to nginx!
+64.227.112.153:80 - Welcome to nginx!
+58.227.192.203:80 - Apache HTTP Server Test Page powered by CentOS
+18.194.10.166:80 - 403 Forbidden
+103.78.18.230:80 - Please wait, the login page is opening...
+23.79.99.13:80 - Заголовок не найден
+101.32.253.52:80 - 500 Internal Server Error
+149.129.152.38:80 - 阿里云 Web应用防火墙
+18.142.2.204:80 - Заголовок не найден
+80.130.210.40:80 - 403 - Forbidden
+54.217.84.214:80 - Заголовок не найден
+54.149.197.116:80 - Recursive Labs
+18.154.241.203:80 - Заголовок не найден
+207.150.199.43:80 - IIS Windows Server
+38.59.4.96:80 - 404 Not Found
+89.104.85.212:80 - ÐÑÐ¸Ð±ÐºÐ° - Ð½ÐµÑ Ð½Ð¸ Ð¾Ð´Ð½Ð¾Ð³Ð¾ ÑÐ°Ð¹ÑÐ°
+154.197.132.100:80 - Заголовок не найден
+185.233.168.156:80 - Заголовок не найден
+65.20.84.176:80 - Log In &lsaquo; GMPL &#8212; WordPress
+168.63.66.123:80 - IIS Windows Server
+54.82.126.2:80 - NSS Cloud
+202.254.111.218:80 - IIS Windows
+43.153.36.75:80 - 404 Not Found
+185.203.156.253:80 - BrodNet.cz - vysokorychlostní internet
+168.206.210.114:80 - 404 Not Found
+179.125.102.139:80 - 403 Forbidden
