@@ -297,3 +297,6 @@
 103.97.228.90:80 - Welcome to nginx!
 156.38.221.202:80 - IIS Windows Server
 138.197.223.138:80 - Artboard
+77.211.17.97:80 - Document Error: Unauthorized
+104.24.165.88:80 - Direct IP access not allowed | Cloudflare
+23.254.252.164:80 - Заголовок не найден
