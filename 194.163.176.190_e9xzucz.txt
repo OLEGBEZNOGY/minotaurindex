@@ -5345,3 +5345,5 @@
 201.182.97.93:80 - ImportaÃ§Ã£o do XML da NF-e direto da SEFAZ, XML de NF-e, Consulta de CNPJ, SPED, EFD,Consulta de NF-e sem certificado, Chave de acesso, Consulta de Nota Fiscal EletrÃ´nica, serviÃ§os personalizados, consultas automatizadas, NF-e, XML Sefaz, XML da Receita Federal, NF-e ImportaÃ§Ã£o do XML, Pega NF-e Sefaz, Recuperar NF-e Sefaz, Pegar XML Sefaz, Recuperar XML Sefaz, XML sem certificado
 18.65.212.207:80 - Заголовок не найден
 45.207.36.216:80 - 请使用域名访问
+34.110.130.65:80 - Заголовок не найден
+45.129.181.158:80 - Sorry, access denied (45.129.181.158).
