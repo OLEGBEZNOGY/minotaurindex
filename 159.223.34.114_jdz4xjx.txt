@@ -119,3 +119,26 @@
 65.8.11.130:80 - Заголовок не найден
 123.156.71.111:80 - Заголовок не найден
 52.217.141.178:80 - Amazon S3 - Cloud Object Storage  - AWS
+43.204.208.126:80 - 404 Not Found
+104.69.47.202:80 - Заголовок не найден
+3.160.245.6:80 - Заголовок не найден
+107.178.246.222:80 - 502 Server Error
+23.44.69.251:80 - Заголовок не найден
+54.174.94.78:80 - Заголовок не найден
+38.55.135.218:80 - IIS7
+104.18.116.147:80 - Direct IP access not allowed | Cloudflare
+79.96.55.220:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+104.18.58.6:80 - Direct IP access not allowed | Cloudflare
+42.193.226.141:80 - æ¬¢è¿
+154.215.105.226:80 - 404 Not Found
+91.126.183.11:80 - Заголовок не найден
+209.41.160.116:80 - Заголовок не найден
+18.139.0.56:80 - Apache2 Ubuntu Default Page: It works
+190.221.176.6:80 - Заголовок не найден
+38.152.17.172:80 - ERROR: The requested URL could not be retrieved
+122.114.210.109:80 - Apache HTTP Server Test Page powered by CentOS
+38.34.183.134:80 - 404 Not Found
+94.23.23.192:80 - Заголовок не найден
+139.159.150.73:80 - 404 Not Found
+104.123.205.96:80 - Заголовок не найден
+18.158.119.16:80 - 503 Service Temporarily Unavailable
