@@ -2577,3 +2577,4 @@
 77.55.138.30:80 - Domena  jest utrzymywana na serwerach nazwa.pl
 118.163.215.83:80 - 
 183.111.69.75:80 - HTTP 상태 404 – 찾을 수 없음
+104.25.252.158:80 - Direct IP access not allowed | Cloudflare
