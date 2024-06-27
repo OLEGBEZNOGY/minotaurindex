@@ -8744,3 +8744,8 @@
 78.128.11.51:80 - 
 34.253.68.229:80 - Trainer.crm &#8211; Course Administration Software
 192.230.75.176:80 - Заголовок не найден
+52.38.187.211:80 - 502 Bad Gateway
+154.92.28.169:80 - 404 Not Found
+44.206.40.160:80 - Data Crunching App | QSIDE × Data Science Collaboratory
+112.126.98.55:80 - Заголовок не найден
+44.229.97.143:80 - Asset Management
