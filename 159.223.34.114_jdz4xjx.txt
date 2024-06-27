@@ -338,3 +338,21 @@
 3.218.115.101:80 - HTTP Status 404 – Not Found
 104.129.47.215:80 - ERROR: The requested URL could not be retrieved
 34.149.162.139:80 - Заголовок не найден
+2.17.117.131:80 - Заголовок не найден
+172.96.176.253:80 - Заголовок не найден
+80.76.232.102:80 - RouterOS router configuration page
+110.93.251.188:80 - Заголовок не найден
+104.20.0.214:80 - Direct IP access not allowed | Cloudflare
+118.215.84.5:80 - Заголовок не найден
+103.246.28.160:80 - PBX
+122.28.43.11:80 - Заголовок не найден
+104.108.126.119:80 - Заголовок не найден
+98.190.135.43:80 - Document Moved
+104.237.54.178:80 - 403 Forbidden
+94.253.106.174:80 - Заголовок не найден
+144.24.15.180:80 - Welcome to nginx!
+196.51.179.176:80 - ERROR: The requested URL could not be retrieved
+65.36.213.120:80 - Welcome to UMC Print - The Best Kept Secret in Midwest Commercial Printing
+104.19.220.187:80 - Direct IP access not allowed | Cloudflare
+23.10.182.244:80 - Заголовок не найден
+54.203.206.167:80 - Заголовок не найден
