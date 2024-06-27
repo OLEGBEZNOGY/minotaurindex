@@ -2661,3 +2661,7 @@
 113.171.1.187:80 - Заголовок не найден
 34.94.216.68:80 - 404 Not Found
 112.196.149.126:80 - Заголовок не найден
+13.238.195.90:80 - Lab 2: Securing VPC Resources with Security Groups
+142.34.51.45:80 - Government of British Columbia
+154.210.59.196:80 - 404 Not Found
+137.175.55.217:80 - 403 Forbidden
