@@ -1792,3 +1792,36 @@
 220.157.207.137:80 - 401 Unauthorized
 98.240.248.47:80 - Заголовок не найден
 88.99.180.230:80 - Armenia, Georgia and Azerbaijan tours  from most trusted travel agency • Arara Tour
+142.11.243.169:80 - Заголовок не найден
+160.121.98.176:80 - 404 Not Found
+38.196.61.17:80 - F660
+130.162.35.138:80 - Apache2 Ubuntu Default Page: It works
+23.99.214.43:80 - Microsoft Azure Web App - Error 404
+157.197.146.184:80 - Заголовок не найден
+148.101.43.249:80 - 
+176.31.43.4:80 - Заголовок не найден
+104.225.190.195:80 - Заголовок не найден
+104.112.112.40:80 - Заголовок не найден
+47.246.136.250:80 - AliExpress - Affordable Prices on Top Brands with Free Shipping
+79.127.202.107:80 - 3CX Phone System Management Console
+172.64.203.216:80 - Direct IP access not allowed | Cloudflare
+18.65.158.44:80 - Заголовок не найден
+23.55.56.151:80 - Заголовок не найден
+184.29.17.248:80 - Заголовок не найден
+1.51.241.88:80 - 404 Not Found
+18.130.224.226:80 - Заголовок не найден
+45.12.48.111:80 - Die Telefonanlage aus der Universe Cloud
+210.149.106.22:80 - 500 Internal Server Error
+202.208.177.81:80 - 403-Forbidden
+20.164.201.177:80 - 404 Not Found
+104.34.112.132:80 - 
+154.92.83.62:80 - 403 Forbidden
+43.248.240.71:80 - Please wait, the login page is opening...
+147.182.230.22:80 - Document
+129.94.165.26:80 - IIS Windows
+139.144.187.10:80 - Apache2 Ubuntu Default Page: It works
+54.206.174.157:80 - Error
+184.30.192.78:80 - Заголовок не найден
+1.172.207.79:80 - Заголовок не найден
+111.206.210.185:80 - Заголовок не найден
+96.17.23.54:80 - Заголовок не найден
