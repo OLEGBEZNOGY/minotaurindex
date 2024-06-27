@@ -6597,3 +6597,6 @@ OLUTION
 187.189.12.64:80 - Заголовок не найден
 54.73.139.170:80 - 404 Not Found
 211.25.121.219:80 - Заголовок не найден
+84.121.39.6:80 - 
+107.23.61.229:80 - Test Page for the Apache HTTP Server on Amazon Linux AMI
+73.219.83.149:80 - Web Client Pro
