@@ -3489,3 +3489,25 @@
 136.226.78.165:80 - Internet Security by Zscaler
 120.136.15.62:80 - ç¡å¹ãªURLã§ã
 16.16.87.189:80 - TOPP-N Application
+91.108.96.122:80 - 403 Forbidden
+85.13.153.47:80 - 503 Service Temporarily Unavailable
+190.166.35.76:80 - 
+79.220.18.43:80 - Error 401: Unauthorized access
+193.19.160.80:80 - Заголовок не найден
+93.223.138.49:80 - homepage, dokument, webpage, page, web, netz, homepage dokument webpage page web netz
+209.237.190.218:80 - 404 - File or directory not found.
+152.0.162.137:80 - 
+35.195.89.152:80 - Заголовок не найден
+1.220.66.117:80 - Заголовок не найден
+220.243.137.135:80 - Заголовок не найден
+93.114.64.153:80 - Direct IP access not allowed | Cloudflare
+213.66.80.86:80 - Заголовок не найден
+23.64.21.58:80 - Заголовок не найден
+63.135.164.164:80 - Just a moment...
+199.232.90.127:80 - Fastly error: unknown domain 199.232.90.127
+13.57.170.50:80 - Log in - CIP Distributor Proxy Admin
+23.29.132.251:80 - Test Page for the Centmin Mod Nginx HTTP Server
+62.232.55.130:80 - Document Moved
+139.59.164.35:80 - Bijbel App &#8211; Android Bijbel App
+180.210.205.246:80 - 403 Forbidden
+38.35.69.158:80 - 403 Forbidden
