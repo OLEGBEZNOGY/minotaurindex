@@ -3469,3 +3469,34 @@
 69.221.248.152:80 - Welcome to nginx!
 23.14.116.118:80 - Заголовок не найден
 104.109.134.49:80 - Заголовок не найден
+23.65.150.60:80 - Заголовок не найден
+165.140.10.60:80 - Apache2 Ubuntu Default Page: It works
+13.33.109.147:80 - Заголовок не найден
+92.205.20.66:80 - Login - Criminal Check System
+18.164.182.254:80 - Заголовок не найден
+40.76.211.97:80 - 403 Forbidden
+4.159.117.228:80 - Заголовок не найден
+209.61.197.129:80 - Amber's Elements - Web & Design Services, St. George Utah
+212.132.115.242:80 - Web Server's Default Page
+85.128.213.37:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+54.39.45.79:80 - Apache2 Ubuntu Default Page: It works
+131.255.105.189:80 - RouterOS router configuration page
+5.100.68.247:80 - 500 Internal Server Error
+23.203.24.243:80 - Заголовок не найден
+103.210.105.139:80 - Apache2 Ubuntu Default Page: It works
+125.141.208.30:80 - 403 Forbidden
+99.84.55.61:80 - Заголовок не найден
+41.59.117.207:80 - System Login
+186.78.36.105:80 - 
+45.12.30.222:80 - Direct IP access not allowed | Cloudflare
+178.124.207.93:80 - 
+18.173.194.96:80 - Заголовок не найден
+103.165.201.114:80 - RouterOS router configuration page
+154.55.208.34:80 - Заголовок не найден
+13.238.169.212:80 - G.J. Gardner Homes - Custom Home Builders
+108.157.176.6:80 - Заголовок не найден
+35.211.34.238:80 - Заголовок не найден
+20.122.221.252:80 - Your Azure Function App is up and running.
+104.239.158.49:80 - Home
+104.27.112.172:80 - Direct IP access not allowed | Cloudflare
+38.170.245.50:80 - 407 Proxy Authentication Required
