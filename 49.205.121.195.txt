@@ -1107,3 +1107,5 @@
 66.231.1.177:80 - IIS Windows Server
 23.73.12.186:80 - Заголовок не найден
 151.101.29.70:80 - Fastly error: unknown domain 151.101.29.70
+219.74.100.141:80 - 
+188.147.141.113:80 - Obsługa licencji - iKsoris
