@@ -1146,3 +1146,32 @@ e!
 185.150.26.254:80 - Index of /
 23.44.111.200:80 - Заголовок не найден
 150.230.193.27:80 - Apache2 Debian Default Page: It works
+51.79.24.45:80 - 503 Service Temporarily Unavailable
+187.189.55.140:80 - Заголовок не найден
+81.17.254.151:80 - Заголовок не найден
+130.0.78.8:80 - 403 Forbidden
+20.85.247.208:80 - Admin Portal
+216.239.138.173:80 - Service Unavailable
+170.130.106.23:80 - 403 Forbidden
+18.182.132.182:80 - 502 Bad Gateway
+146.56.110.217:80 - Заголовок не найден
+201.231.235.25:80 - Заголовок не найден
+54.192.106.162:80 - Заголовок не найден
+82.191.94.90:80 - NethServer Enterprise
+51.219.191.20:80 - IIS Windows Server
+2.189.151.90:80 - RouterOS router configuration page
+35.243.217.180:80 - Site Not Configured | 404 Not Found
+103.179.87.194:80 - Welcome to nginx!
+84.16.78.233:80 - web host not found
+108.158.130.128:80 - Заголовок не найден
+161.35.131.227:80 - moneypings
+184.86.7.43:80 - Заголовок не найден
+87.98.244.222:80 - ajoyfulplace
+194.36.61.107:80 - STARFACE VoIP Software
+44.209.241.1:80 - IIS Windows Server
+20.89.253.105:80 - äºç´ã·ã¹ãã
+156.59.175.221:80 - Заголовок не найден
+133.18.247.113:80 - Apache2 Ubuntu Default Page: It works
+85.126.33.166:80 - Home - Alterlaa
+154.217.141.215:80 - æ²¡ææ¾å°ç«ç¹
+13.114.152.239:80 - A-racica 職員アプリ
