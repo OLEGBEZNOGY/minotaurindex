@@ -851,3 +851,19 @@
 185.182.97.41:80 - IIS Windows Server
 207.91.146.166:80 - 
 152.2.60.140:80 - AiM
+91.107.223.208:80 - Website Unavailable
+144.91.127.160:80 - Site not found
+174.129.198.54:80 - DisallowedHost
+          at /
+124.108.16.78:80 - Заголовок не найден
+89.42.41.165:80 - Заголовок не найден
+78.88.252.51:80 - 404 Not Found
+160.16.99.167:80 - 訳してねっとはサービスを終了しました
+50.116.87.103:80 - Not Acceptable!
+108.158.105.210:80 - Заголовок не найден
+207.241.232.206:80 - Internet Archive: Digital Library of Free &amp; Borrowable Books, Movies, Music &amp; Wayback Machine
+35.72.190.66:80 - EDIAND | 世界中の教育を、科学する。
+87.239.149.16:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+110.172.150.165:80 - Заголовок не найден
+132.177.129.142:80 - Заголовок не найден
+185.107.91.14:80 - Заголовок не найден
