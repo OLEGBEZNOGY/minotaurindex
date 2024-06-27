@@ -7627,3 +7627,5 @@ OLUTION
 103.53.53.175:80 - ePMP
 221.195.206.17:80 - 403 Forbidden
 159.182.60.32:80 - Enabling Functions - Pearson Technology (Australia)
+52.158.162.129:80 - Заголовок не найден
+106.55.102.34:80 - Error
