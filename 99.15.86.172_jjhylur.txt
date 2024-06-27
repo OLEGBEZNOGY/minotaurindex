@@ -6065,3 +6065,176 @@
 18.238.101.45:80 - Заголовок не найден
 44.208.115.7:80 - Заголовок не найден
 95.100.207.26:80 - Заголовок не найден
+168.76.232.101:80 - æ²¡ææ¾å°ç«ç¹
+127.84.105.96:80 - IIS Windows
+15.164.128.14:80 - 캐시로지 - 경제, 부동산, 금융 정보 블로그
+104.85.233.206:80 - Заголовок не найден
+127.136.82.224:80 - IIS Windows
+104.19.175.80:80 - Direct IP access not allowed | Cloudflare
+178.128.66.205:80 - Laravel
+127.135.215.216:80 - IIS Windows
+188.59.188.146:80 - Router -> Login
+127.206.63.123:80 - IIS Windows
+127.73.204.117:80 - IIS Windows
+104.17.2.200:80 - Direct IP access not allowed | Cloudflare
+127.103.213.61:80 - IIS Windows
+38.14.46.17:80 - 404 Not Found
+49.13.221.252:80 - Заголовок не найден
+181.26.76.21:80 - Заголовок не найден
+184.30.26.79:80 - Заголовок не найден
+127.58.173.121:80 - IIS Windows
+47.107.143.142:80 - 404 Not Found
+127.178.59.195:80 - IIS Windows
+193.86.16.20:80 - Заголовок не найден
+194.26.176.102:80 - ERROR: The requested URL could not be retrieved
+69.91.150.123:80 - Apache2 Ubuntu Default Page: It works
+127.249.29.231:80 - IIS Windows
+2.19.24.6:80 - Заголовок не найден
+52.20.190.59:80 - Заголовок не найден
+104.119.99.6:80 - Заголовок не найден
+127.220.225.122:80 - IIS Windows
+13.208.64.250:80 - 403 - Forbidden: Access is denied.
+23.196.96.174:80 - Заголовок не найден
+193.107.78.19:80 - Заголовок не найден
+133.5.174.47:80 - ä¹å·å¤§å­¦ã»çè«ç©è³ªå­¦æè²åé(éæ¨ç ç©¶å®¤)
+121.151.124.98:80 - 문화유산표준관리시스템  - 로그인
+104.104.94.135:80 - Заголовок не найден
+184.87.62.118:80 - Заголовок не найден
+127.98.106.86:80 - IIS Windows
+47.111.103.98:80 - Заголовок не найден
+107.151.96.21:80 - 403 Forbidden
+23.200.215.214:80 - Заголовок не найден
+14.161.0.232:80 - Vigor Login Page
+207.192.163.114:80 - 
+127.20.199.164:80 - IIS Windows
+142.4.16.151:80 - Apache2 Debian Default Page: It works
+2.20.10.190:80 - Заголовок не найден
+79.129.214.175:80 - Заголовок не найден
+52.244.45.120:80 - Заголовок не найден
+118.212.237.90:80 - Welcome to OpenResty!
+127.229.215.137:80 - IIS Windows
+127.220.181.129:80 - IIS Windows
+127.44.105.174:80 - IIS Windows
+44.220.100.32:80 - Заголовок не найден
+66.195.8.118:80 - ITS Login System
+185.28.183.4:80 - 407 Proxy Authentication Required
+104.253.108.7:80 - 403 Forbidden
+143.125.244.111:80 - Заголовок не найден
+210.117.163.92:80 - Заголовок не найден
+203.138.28.227:80 - æ¶æç¾©å¡¾å¤§å­¦ çå·¥å­¦é¨ é»æ°æå ±å·¥å­¦ç§ éç°ç ç©¶å®¤
+89.116.127.240:80 - Заголовок не найден
+127.31.71.236:80 - IIS Windows
+39.106.84.245:80 - æ²¡ææ¾å°ç«ç¹
+104.20.114.187:80 - Direct IP access not allowed | Cloudflare
+54.192.78.228:80 - Заголовок не найден
+127.62.2.240:80 - IIS Windows
+127.136.60.43:80 - IIS Windows
+127.157.88.4:80 - IIS Windows
+82.223.111.172:80 - Web Server's Default Page
+20.246.250.70:80 - Your Azure Function App is up and running.
+64.254.72.53:80 - Newton Falls Exempted Village Schools | Newton Falls Schools
+210.117.140.212:80 - L7
+168.119.107.97:80 - 401 Unauthorized
+3.162.37.75:80 - Заголовок не найден
+81.19.129.66:80 - Заголовок не найден
+127.116.188.120:80 - IIS Windows
+146.190.92.106:80 - 404 Not Found
+18.161.99.63:80 - Заголовок не найден
+88.150.241.54:80 - Заголовок не найден
+202.8.112.195:80 - Please wait, the login page is opening...
+127.158.59.198:80 - IIS Windows
+23.40.175.149:80 - Заголовок не найден
+62.215.101.122:80 - D-LINK SYSTEMS, INC. | WIRELESS ROUTER
+173.44.182.133:80 - Home
+18.66.33.241:80 - Заголовок не найден
+54.68.27.41:80 - Заголовок не найден
+89.43.64.241:80 - Free Views |  View
+127.50.216.220:80 - IIS Windows
+162.212.175.153:80 - 407 Proxy Authentication Required
+99.142.92.153:80 - AT&T WiFi Portal
+3.161.180.246:80 - Заголовок не найден
+52.216.104.59:80 - Amazon S3 - Cloud Object Storage  - AWS
+188.128.239.120:80 - Twoja strona oparta na Wordpressie
+127.228.67.216:80 - IIS Windows
+127.146.160.23:80 - IIS Windows
+178.91.83.38:80 - GPON Home Gateway
+125.88.37.122:80 - Заголовок не найден
+54.66.199.118:80 - 404 Not Found
+127.248.84.86:80 - IIS Windows
+52.136.34.220:80 - Your Azure Function App is up and running.
+167.82.47.215:80 - Fastly error: unknown domain 167.82.47.215
+133.167.97.73:80 - Apache HTTP Server Test Page powered by CentOS
+104.127.22.154:80 - Заголовок не найден
+37.156.107.95:80 - RouterOS router configuration page
+75.127.5.11:80 - 407 Proxy Authentication Required
+127.160.114.79:80 - IIS Windows
+3.101.155.243:80 - Page not found at /
+104.20.253.110:80 - Direct IP access not allowed | Cloudflare
+185.46.58.149:80 - 404 Not Found
+38.207.218.39:80 - æ²¡ææ¾å°ç«ç¹
+127.225.80.139:80 - IIS Windows
+127.109.115.255:80 - IIS Windows
+127.28.125.135:80 - IIS Windows
+127.6.0.250:80 - IIS Windows
+127.57.6.213:80 - IIS Windows
+34.36.23.159:80 - Заголовок не найден
+127.52.21.201:80 - IIS Windows
+127.210.62.69:80 - IIS Windows
+192.185.149.149:80 - Not Acceptable!
+85.215.123.30:80 - Welcome to nginx!
+66.147.251.26:80 - Not Acceptable!
+127.24.228.75:80 - IIS Windows
+200.229.29.183:80 - 403 Forbidden
+216.38.52.39:80 - Заголовок не найден
+45.70.102.180:80 - 
+150.60.242.40:80 - 日本城・車坂醸造元　𠮷村秀雄商店 | 伝統的技術の継承と食を豊かにするための酒造り
+23.37.181.180:80 - Заголовок не найден
+122.117.3.95:80 - Заголовок не найден
+67.246.186.15:80 - 
+82.98.190.81:80 - EstÃ¡s accediendo a una IP compartida por varios hostings
+197.52.240.209:80 - 
+196.210.237.91:80 - 
+127.15.98.35:80 - IIS Windows
+116.203.190.23:80 - Release Manager (RM)  Enterprise Software Development System
+127.184.15.149:80 - IIS Windows
+203.34.80.81:80 - Direct IP access not allowed | Cloudflare
+85.13.144.120:80 - 503 Service Temporarily Unavailable
+158.247.239.84:80 - Заголовок не найден
+38.181.45.218:80 - 403 Forbidden
+23.64.224.53:80 - Заголовок не найден
+154.194.129.227:80 - æ²¡ææ¾å°ç«ç¹
+93.113.180.90:80 - Заголовок не найден
+127.89.203.231:80 - IIS Windows
+52.41.136.147:80 - 503 Service Temporarily Unavailable
+182.183.254.110:80 - Заголовок не найден
+127.205.149.228:80 - IIS Windows
+127.249.86.31:80 - IIS Windows
+127.65.49.62:80 - IIS Windows
+127.234.92.36:80 - IIS Windows
+104.20.147.141:80 - Direct IP access not allowed | Cloudflare
+127.142.186.9:80 - IIS Windows
+23.207.113.198:80 - Заголовок не найден
+42.29.53.65:80 - Login to <!--#exec cmd="xmlp_web system\\common model"-->
+152.195.33.32:80 - 404 - Not Found
+185.109.21.12:80 - Direct IP access not allowed | Cloudflare
+23.62.206.191:80 - Заголовок не найден
+154.7.164.212:80 - Apache HTTP Server Test Page powered by CentOS
+127.27.8.102:80 - IIS Windows
+219.218.112.171:80 - 404 Not Found
+47.104.15.154:80 - ç½ç«è®¿é®æ¥é
+154.8.158.44:80 - Welcome to nginx!
+118.145.133.183:80 - 404 Not Found
+20.54.155.250:80 - Your Azure Function App is up and running.
+127.237.218.87:80 - IIS Windows
+51.250.30.161:80 - Welcome to nginx!
+127.56.203.187:80 - IIS Windows
+127.10.83.62:80 - IIS Windows
+127.205.30.245:80 - IIS Windows
+18.245.217.113:80 - Заголовок не найден
+23.15.95.151:80 - Заголовок не найден
+122.152.201.70:80 - 404 Not Found
+38.152.153.147:80 - ERROR: The requested URL could not be retrieved
+172.67.117.200:80 - Direct IP access not allowed | Cloudflare
+104.75.17.57:80 - Заголовок не найден
+82.66.90.104:80 - Toprod
+198.144.188.20:80 - Заголовок не найден
