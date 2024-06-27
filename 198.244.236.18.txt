@@ -9197,3 +9197,209 @@
 127.28.119.46:80 - IIS Windows Server
 23.221.39.216:80 - Заголовок не найден
 192.230.93.27:80 - Заголовок не найден
+67.10.243.132:80 - Default Site
+178.33.41.22:80 - Synology&nbsp;DiskStation
+127.57.65.203:80 - IIS Windows Server
+127.24.27.164:80 - IIS Windows Server
+194.199.110.49:80 - 403 Forbidden
+127.158.143.234:80 - IIS Windows Server
+172.66.195.16:80 - Direct IP access not allowed | Cloudflare
+23.80.64.24:80 - Заголовок не найден
+38.14.56.80:80 - 404 Not Found
+127.95.128.96:80 - IIS Windows Server
+127.123.50.147:80 - IIS Windows Server
+34.117.225.241:80 - 403
+35.247.195.119:80 - Fatality-WoW
+127.91.137.90:80 - IIS Windows Server
+127.83.158.85:80 - IIS Windows Server
+61.75.239.62:80 - main page
+176.57.150.84:80 - mailcow UI
+64.25.122.178:80 - Web Server's Default Page
+23.218.200.123:80 - Заголовок не найден
+204.114.75.213:80 - Заголовок не найден
+8.219.137.102:80 - æ²¡ææ¾å°ç«ç¹
+127.10.250.119:80 - IIS Windows Server
+127.62.238.98:80 - IIS Windows Server
+199.68.176.100:80 - Заголовок не найден
+127.205.51.76:80 - IIS Windows Server
+98.64.168.118:80 - DHOLE.IO - Scanner
+127.172.152.22:80 - IIS Windows Server
+127.198.197.209:80 - IIS Windows Server
+90.203.42.113:80 - index
+77.38.189.217:80 - 406 Not Acceptable
+24.106.46.74:80 - Document Moved
+38.182.186.53:80 - 403 Forbidden
+18.245.154.156:80 - Заголовок не найден
+127.210.55.26:80 - IIS Windows Server
+193.31.204.251:80 - RouterOS router configuration page
+101.37.88.248:80 - 503 Service Temporarily Unavailable
+43.159.53.135:80 - æ²¡ææ¾å°ç«ç¹
+3.123.194.243:80 - 404 Not Found
+127.74.208.112:80 - IIS Windows Server
+127.24.245.7:80 - IIS Windows Server
+107.158.70.120:80 - 403 Forbidden
+85.115.255.12:80 - iRZ RUH2b Router
+117.221.233.155:80 - 
+127.228.54.74:80 - IIS Windows Server
+140.248.178.143:80 - Fastly error: unknown domain 140.248.178.143
+127.123.202.94:80 - IIS Windows Server
+161.0.1.238:80 - 407 Proxy Authentication Required
+162.241.254.210:80 - Not Acceptable!
+107.154.106.192:80 - Заголовок не найден
+3.82.89.76:80 - Заголовок не найден
+104.16.160.57:80 - Direct IP access not allowed | Cloudflare
+116.62.240.42:80 - 404 Not Found
+104.159.140.49:80 - 
+127.250.118.133:80 - IIS Windows Server
+3.132.193.139:80 - Заголовок не найден
+89.161.253.25:80 - Strona w przygotowaniu...
+127.164.48.178:80 - IIS Windows Server
+127.83.249.226:80 - IIS Windows Server
+127.35.221.89:80 - IIS Windows Server
+160.181.176.153:80 - æ²¡ææ¾å°ç«ç¹
+187.73.144.75:80 - Заголовок не найден
+127.147.214.205:80 - IIS Windows Server
+96.7.221.223:80 - Заголовок не найден
+73.84.247.13:80 - 
+113.28.162.77:80 - Redirect Page
+127.180.224.161:80 - IIS Windows Server
+59.36.169.59:80 - Заголовок не найден
+104.82.85.242:80 - Заголовок не найден
+18.244.2.98:80 - Заголовок не найден
+127.47.94.93:80 - IIS Windows Server
+211.87.230.205:80 - 404 Not Found
+45.10.161.161:80 - Apache2 Ubuntu Default Page: It works
+169.239.205.118:80 - Заголовок не найден
+99.79.58.186:80 - 404 Not Found
+127.148.52.218:80 - IIS Windows Server
+146.75.22.123:80 - Fastly error: unknown domain 146.75.22.123
+166.62.27.81:80 - Заголовок не найден
+127.65.176.52:80 - IIS Windows Server
+51.178.246.102:80 - 404 Not Found
+65.8.33.145:80 - Заголовок не найден
+5.149.254.187:80 - 403 Forbidden
+3.35.53.238:80 - Welcome to nginx!
+103.62.53.210:80 - 403 Forbidden
+18.140.136.248:80 - Apache2 Ubuntu Default Page: It works
+89.117.35.125:80 - Jojobet Casino OyunlarÄ± | Jojobet GiriÅ 2024 | Jojobet
+127.58.250.197:80 - IIS Windows Server
+185.62.160.185:80 - Заголовок не найден
+127.195.207.117:80 - IIS Windows Server
+148.101.58.120:80 - 
+127.3.210.166:80 - IIS Windows Server
+89.58.2.152:80 - Domain nicht verfÃ¼gbar | Domain not available
+52.58.168.140:80 - HSARI | Excavation report 2015
+114.33.234.184:80 - 
+80.75.219.39:80 - Airbytes Group
+3.10.141.217:80 - FileMaker Website
+127.204.129.155:80 - IIS Windows Server
+127.49.155.137:80 - IIS Windows Server
+127.209.144.126:80 - IIS Windows Server
+24.180.222.130:80 - Login
+65.8.197.88:80 - Заголовок не найден
+127.20.214.92:80 - IIS Windows Server
+186.179.201.5:80 - 403 - Forbidden: Access is denied.
+83.143.184.204:80 - Заголовок не найден
+127.6.103.77:80 - IIS Windows Server
+109.111.58.129:80 - Bandwidth Speed Test
+112.213.95.184:80 - Заголовок не найден
+52.84.209.6:80 - Заголовок не найден
+23.198.133.158:80 - Заголовок не найден
+109.155.189.160:80 - WEB SERVICE
+104.168.2.101:80 - 500 Internal Server Error
+104.16.9.55:80 - Direct IP access not allowed | Cloudflare
+127.233.52.60:80 - IIS Windows Server
+61.126.51.192:80 - Sample Page
+18.65.167.142:80 - Заголовок не найден
+186.129.80.2:80 - Заголовок не найден
+127.56.76.69:80 - IIS Windows Server
+207.204.36.177:80 - 403 Forbidden
+127.41.254.120:80 - IIS Windows Server
+223.165.28.152:80 - Заголовок не найден
+103.6.104.58:80 - Not Found
+127.241.1.101:80 - IIS Windows Server
+23.219.12.243:80 - Заголовок не найден
+127.142.185.78:80 - IIS Windows Server
+115.79.185.247:80 - WEB
+65.8.224.140:80 - Заголовок не найден
+127.0.145.131:80 - IIS Windows Server
+127.49.141.229:80 - IIS Windows Server
+127.239.120.191:80 - IIS Windows Server
+24.239.244.40:80 - WEB SERVICE
+143.95.39.151:80 - Not Acceptable!
+127.165.20.11:80 - IIS Windows Server
+34.176.73.243:80 - Pay ReciboPagos
+127.131.248.73:80 - IIS Windows Server
+8.210.217.194:80 - 401 Authorization Required
+182.53.52.129:80 - RouterOS router configuration page
+43.153.73.98:80 - 404 Not Found
+127.33.19.160:80 - IIS Windows Server
+212.90.49.20:80 - Error 404 (Not Found)!!1
+52.84.65.180:80 - Заголовок не найден
+127.224.202.79:80 - IIS Windows Server
+127.19.207.130:80 - IIS Windows Server
+184.107.100.32:80 - Заголовок не найден
+203.67.131.231:80 - Заголовок не найден
+127.206.4.189:80 - IIS Windows Server
+149.36.227.11:80 - Apache2 Ubuntu Default Page: It works
+85.215.166.124:80 - IIS Windows Server
+24.199.75.176:80 - 404 Not Found
+104.114.158.239:80 - Заголовок не найден
+127.66.93.226:80 - IIS Windows Server
+104.182.118.242:80 - Manage
+85.128.194.10:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+127.164.108.246:80 - IIS Windows Server
+127.20.201.109:80 - IIS Windows Server
+8.142.42.99:80 - IIS Windows Server
+59.110.34.59:80 - 
+127.98.40.231:80 - IIS Windows Server
+127.17.104.246:80 - IIS Windows Server
+81.181.200.147:80 - 403 Forbidden
+127.0.228.223:80 - IIS Windows Server
+35.226.125.165:80 - dev.eevelle.com &#8211; Eevelle Outdoor Covers and Fabrics &#8211; Performance by Design
+127.32.227.244:80 - IIS Windows Server
+127.75.200.89:80 - IIS Windows Server
+78.155.206.8:80 - Магазин тюнинга ВАЗ в Санкт-Петербурге ALSport
+23.217.159.74:80 - Заголовок не найден
+216.119.94.198:80 - grand tradition hotels and resorts
+127.255.129.87:80 - IIS Windows Server
+3.139.221.127:80 - Заголовок не найден
+88.221.221.145:80 - Заголовок не найден
+68.66.224.78:80 - Заголовок не найден
+184.30.110.61:80 - Заголовок не найден
+211.58.220.168:80 - Заголовок не найден
+127.35.18.22:80 - IIS Windows Server
+50.3.95.146:80 - 403 Forbidden
+23.204.178.135:80 - Заголовок не найден
+202.108.0.238:80 - 404 Not Found
+127.119.43.144:80 - IIS Windows Server
+64.225.9.134:80 - Delux Build
+103.57.254.32:80 - 
+125.139.219.222:80 - Заголовок не найден
+127.13.115.216:80 - IIS Windows Server
+52.86.232.243:80 - 403 Forbidden
+127.89.252.203:80 - IIS Windows Server
+139.5.183.243:80 - Заголовок не найден
+20.72.232.125:80 - 502 Bad Gateway
+45.192.195.188:80 - 404 Not Found
+127.219.225.125:80 - IIS Windows Server
+194.238.18.82:80 - Apache2 Ubuntu Default Page: It works
+148.139.108.206:80 - 403 Forbidden
+35.201.121.156:80 - Заголовок не найден
+127.43.2.255:80 - IIS Windows Server
+64.126.131.153:80 - Real Estate, Probate and Trust Law Section of the State Bar of Texas (REPTL) -
+192.177.2.143:80 - 404 Not Found
+151.22.5.85:80 - 403 Forbidden
+66.39.5.229:80 - Home of Smith's Original and Genuine Clear Penetrating Epoxy Sealer
+127.107.56.57:80 - IIS Windows Server
+50.2.110.219:80 - 403 Forbidden
+178.217.216.252:80 - 
+104.20.81.52:80 - Direct IP access not allowed | Cloudflare
+18.207.214.37:80 - Fabric5anddime: Best Home Fabrics Online at Discount Prices
+127.173.102.250:80 - IIS Windows Server
+104.121.27.167:80 - Заголовок не найден
+191.82.41.19:80 - Заголовок не найден
+8.134.86.9:80 - 404 Not Found
+127.57.230.175:80 - IIS Windows Server
+87.250.61.31:80 - RouterOS router configuration page
+23.214.77.90:80 - Заголовок не найден
