@@ -4966,3 +4966,24 @@
 43.159.109.153:80 - Заголовок не найден
 23.44.104.171:80 - Заголовок не найден
 192.230.118.72:80 - Заголовок не найден
+52.7.0.158:80 - Заголовок не найден
+5.43.224.53:80 - Nabízím To - inzerce zdarma
+18.67.37.185:80 - Заголовок не найден
+54.183.224.59:80 - Welcome to nginx!
+108.156.197.92:80 - Заголовок не найден
+94.27.160.8:80 - 
+74.126.12.27:80 - Sample page for the server
+104.17.26.140:80 - Direct IP access not allowed | Cloudflare
+185.83.167.11:80 - Firewall Notification
+104.18.102.120:80 - Direct IP access not allowed | Cloudflare
+8.210.51.246:80 - 500 Internal Server Error
+77.68.91.224:80 - Web Server's Default Page
+104.24.158.194:80 - Direct IP access not allowed | Cloudflare
+195.149.84.14:80 - Welcome page
+195.138.118.151:80 - Page not found
+34.221.79.220:80 - Test Page for the Nginx HTTP Server on the Amazon Linux AMI
+220.180.244.250:80 - Заголовок не найден
+104.68.7.128:80 - Заголовок не найден
+186.6.43.239:80 - 
+23.202.254.177:80 - Заголовок не найден
+52.223.53.16:80 - 404 Not Found
