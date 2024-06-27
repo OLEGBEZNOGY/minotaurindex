@@ -4913,3 +4913,17 @@
 184.51.38.36:80 - Заголовок не найден
 4.245.121.186:80 - Your Azure Function App is up and running.
 34.87.151.33:80 - pitstop &#8211; Digitalise your business operation today
+13.226.225.39:80 - Заголовок не найден
+35.82.199.218:80 - 404 Not Found
+37.59.151.50:80 - Заголовок не найден
+104.25.121.122:80 - Direct IP access not allowed | Cloudflare
+45.195.62.57:80 - Direct IP access not allowed | Cloudflare
+172.64.2.75:80 - Direct IP access not allowed | Cloudflare
+23.225.125.45:80 - Loading
+18.64.202.176:80 - Заголовок не найден
+188.24.248.46:80 - Login
+108.186.250.20:80 - 404 Not Found
+154.23.47.29:80 - 403 Forbidden
+154.23.111.213:80 - Заголовок не найден
+23.193.243.163:80 - Заголовок не найден
+109.210.71.227:80 - Centrale
