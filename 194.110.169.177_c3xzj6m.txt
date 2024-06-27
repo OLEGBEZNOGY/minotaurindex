@@ -5226,3 +5226,27 @@
 79.96.148.99:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
 104.102.5.64:80 - Заголовок не найден
 149.28.69.241:80 - Заголовок не найден
+185.83.208.43:80 - Заголовок не найден
+93.186.176.81:80 - Web Server's Default Page
+91.92.244.250:80 - Заголовок не найден
+23.3.189.242:80 - Заголовок не найден
+62.129.201.161:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+18.165.36.14:80 - Заголовок не найден
+52.34.55.127:80 - Заголовок не найден
+174.87.213.221:80 - 
+34.200.193.95:80 - Заголовок не найден
+3.138.242.131:80 - 404 Not Found
+115.79.214.212:80 - RouterOS router configuration page
+34.234.179.180:80 - Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
+78.47.173.59:80 - Sign in · GitLab
+23.43.131.88:80 - Заголовок не найден
+104.20.239.50:80 - Direct IP access not allowed | Cloudflare
+165.231.24.203:80 - 407 Proxy Authentication Required
+14.17.93.236:80 - Заголовок не найден
+46.174.225.85:80 - 
+23.14.50.150:80 - Заголовок не найден
+103.228.162.146:80 - Welcome to zentao!
+92.123.16.209:80 - Заголовок не найден
+157.197.171.27:80 - Заголовок не найден
+69.162.131.242:80 - 500 Internal Server Error
+216.218.206.67:80 - The Shadowserver Foundation
