@@ -1226,3 +1226,10 @@
 2.185.142.82:80 - Заголовок не найден
 104.102.53.183:80 - Заголовок не найден
 176.31.29.163:80 - Welcome to nginx!
+172.67.55.245:80 - Direct IP access not allowed | Cloudflare
+23.34.85.172:80 - Заголовок не найден
+38.145.210.180:80 - Apache2 Ubuntu Default Page: It works
+77.37.36.114:80 - 403 Forbidden
+3.166.39.45:80 - Заголовок не найден
+160.13.220.27:80 - 400 Bad Request
+104.25.8.162:80 - Direct IP access not allowed | Cloudflare
