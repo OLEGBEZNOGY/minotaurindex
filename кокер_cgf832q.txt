@@ -10904,3 +10904,29 @@
 104.76.103.201:80 - Заголовок не найден
 85.248.116.82:80 - MaxMMA.sk | MMA magazín, Oktagon, UFC a ďalšie organizácie
 23.61.161.209:80 - Заголовок не найден
+50.112.39.166:80 - Заголовок не найден
+23.73.121.86:80 - Заголовок не найден
+54.250.244.73:80 - 503 Service Temporarily Unavailable
+134.122.183.54:80 - IIS Windows Server
+3.163.89.223:80 - Заголовок не найден
+23.34.103.107:80 - Заголовок не найден
+188.128.146.23:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+185.233.118.76:80 - Website agtab.space is ready. The content is to be added
+119.8.249.240:80 - 400 Bad Request
+195.35.47.193:80 - 403 Forbidden
+45.223.105.195:80 - Заголовок не найден
+218.161.122.18:80 - Заголовок не найден
+74.63.245.181:80 - Заголовок не найден
+161.97.84.159:80 - Apache2 Ubuntu Default Page: It works
+13.231.28.81:80 - 401 Unauthorized
+45.196.206.68:80 - 404 Not Found
+185.253.153.73:80 - djAu | INS Peralada
+35.206.177.7:80 - Información útil sobre todos los artículos de ewaparts
+156.245.112.203:80 - æ²¡ææ¾å°ç«ç¹
+82.157.202.79:80 - Teaching
+185.23.118.253:80 - Web Server's Default Page
+23.194.60.76:80 - Заголовок не найден
+192.227.219.43:80 - Home
+156.96.197.147:80 - Apache2 Debian Default Page: It works
+168.206.241.87:80 - 404 Not Found
+23.43.108.195:80 - Заголовок не найден
