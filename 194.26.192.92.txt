@@ -5358,3 +5358,200 @@
 185.108.112.154:80 - Заголовок не найден
 127.51.235.17:80 - IIS Windows Server
 113.203.205.25:80 - 
+92.33.166.223:80 - Document Moved
+54.37.9.73:80 - Заголовок не найден
+44.232.198.44:80 - Welcome
+95.67.13.67:80 - IIS Windows Server
+127.122.172.39:80 - IIS Windows Server
+127.106.166.37:80 - IIS Windows Server
+219.144.88.89:80 - Заголовок не найден
+54.157.184.149:80 - Apache2 Ubuntu Default Page: It works
+18.165.23.24:80 - Заголовок не найден
+127.220.6.119:80 - IIS Windows Server
+127.80.113.156:80 - IIS Windows Server
+127.88.213.166:80 - IIS Windows Server
+185.243.48.97:80 - Welcome to nginx!
+127.181.220.186:80 - IIS Windows Server
+127.83.185.182:80 - IIS Windows Server
+127.77.95.42:80 - IIS Windows Server
+127.138.197.230:80 - IIS Windows Server
+127.194.248.75:80 - IIS Windows Server
+51.91.164.216:80 - Заголовок не найден
+186.128.13.209:80 - Заголовок не найден
+13.58.131.205:80 - Welcome to nginx!
+159.89.255.177:80 - 404 Not Found
+127.214.176.239:80 - IIS Windows Server
+181.54.162.99:80 - Заголовок не найден
+115.72.168.165:80 - 
+127.138.22.248:80 - IIS Windows Server
+108.156.2.32:80 - Заголовок не найден
+127.242.211.186:80 - IIS Windows Server
+20.19.229.82:80 - Заголовок не найден
+197.10.237.61:80 - Заголовок не найден
+127.255.172.190:80 - IIS Windows Server
+127.221.152.169:80 - IIS Windows Server
+97.87.71.76:80 - 
+165.22.220.29:80 - RoyalPOS &#8211; Point of Sale and Inventory Management Solutions for Restaurants and Retail Stores
+218.91.199.65:80 - Заголовок не найден
+191.80.103.213:80 - Заголовок не найден
+127.2.41.228:80 - IIS Windows Server
+170.130.22.250:80 - 403 Forbidden
+92.114.54.22:80 - Coming Soon - ctp.lbl.gov
+142.93.78.94:80 - Treat &amp; Company | A Strategic Creative Studio
+52.39.2.160:80 - Заголовок не найден
+127.123.72.98:80 - IIS Windows Server
+127.193.207.154:80 - IIS Windows Server
+45.125.223.173:80 - BioStar 2
+47.88.21.28:80 - Welcome to nginx!
+13.249.192.110:80 - Заголовок не найден
+115.138.216.11:80 - SanggakNas&nbsp;-&nbsp;Synology&nbsp;DiskStation
+23.59.45.104:80 - Заголовок не найден
+78.164.38.210:80 - 
+213.209.129.68:80 - Coming Soon - summerclub.club
+132.148.249.42:80 - Coming Soon
+38.174.253.211:80 - Заголовок не найден
+127.36.214.216:80 - IIS Windows Server
+82.163.176.83:80 - 403 Forbidden
+96.6.220.84:80 - Заголовок не найден
+107.149.96.43:80 - Заголовок не найден
+35.227.200.149:80 - 502 Server Error
+180.163.40.150:80 - 404éè¯¯
+47.134.146.42:80 - 
+136.144.175.17:80 - The resource cannot be found.
+127.127.253.11:80 - IIS Windows Server
+218.158.14.20:80 - Заголовок не найден
+89.22.187.225:80 - 403 Forbidden
+38.170.115.52:80 - ERROR: The requested URL could not be retrieved
+119.14.22.74:80 - 
+127.20.63.136:80 - IIS Windows Server
+45.94.222.207:80 - OFFERTO
+2.22.136.230:80 - Заголовок не найден
+127.209.231.204:80 - IIS Windows Server
+18.173.124.43:80 - Заголовок не найден
+127.54.199.23:80 - IIS Windows Server
+165.225.93.43:80 - Internet Security by Zscaler
+104.20.188.45:80 - Direct IP access not allowed | Cloudflare
+212.13.72.106:80 - UNET
+8.134.62.98:80 - 403 Forbidden
+156.250.64.240:80 - 404 Not Found
+162.212.173.192:80 - 407 Proxy Authentication Required
+14.102.229.78:80 - Direct IP access not allowed | Cloudflare
+44.205.204.11:80 - ExecutiveLiving.CA &#8211; Bespoke Living at its finest
+127.213.141.211:80 - IIS Windows Server
+18.172.88.127:80 - Заголовок не найден
+127.81.54.203:80 - IIS Windows Server
+38.6.145.21:80 - App
+66.96.182.166:80 - Заголовок не найден
+127.93.234.209:80 - IIS Windows Server
+85.128.139.51:80 - 502 Bad Gateway
+23.208.122.126:80 - Заголовок не найден
+127.47.117.84:80 - IIS Windows Server
+127.137.55.30:80 - IIS Windows Server
+107.154.123.86:80 - Заголовок не найден
+178.250.224.49:80 - TBits.net
+104.223.59.12:80 - It worked! &mdash; Coming Soon
+23.199.9.65:80 - Заголовок не найден
+127.254.204.30:80 - IIS Windows Server
+177.185.151.97:80 - Login
+127.67.121.87:80 - IIS Windows Server
+3.162.192.38:80 - Заголовок не найден
+127.243.171.233:80 - IIS Windows Server
+3.214.129.48:80 - Welcome to your Strapi app
+104.81.225.62:80 - Заголовок не найден
+162.159.129.91:80 - Direct IP access not allowed | Cloudflare
+185.253.215.133:80 - 404 Not Found
+78.42.139.210:80 - 404 Not Found
+23.8.254.70:80 - Заголовок не найден
+104.234.209.26:80 - Apache2 Ubuntu Default Page: It works
+203.170.190.244:80 - Web Server's Default Page
+27.111.81.14:80 - 403 Forbidden
+127.97.9.213:80 - IIS Windows Server
+104.105.80.104:80 - Заголовок не найден
+127.196.206.40:80 - IIS Windows Server
+127.67.228.78:80 - IIS Windows Server
+158.247.19.245:80 - Trust &amp; Safety Policies
+127.185.133.25:80 - IIS Windows Server
+137.116.202.198:80 - SAP Commerce Cloud - Forbidden
+196.51.211.117:80 - ERROR: The requested URL could not be retrieved
+91.194.96.103:80 - Default Site
+23.48.81.70:80 - Заголовок не найден
+166.144.91.245:80 - Заголовок не найден
+127.114.227.16:80 - IIS Windows Server
+127.232.252.93:80 - IIS Windows Server
+52.222.176.185:80 - Заголовок не найден
+8.138.91.33:80 - campus
+127.126.157.175:80 - IIS Windows Server
+127.199.203.148:80 - IIS Windows Server
+107.179.96.121:80 - 404 Not Found
+108.141.156.31:80 - Your Azure Function App is up and running.
+118.163.48.229:80 - 
+8.141.146.164:80 - 雷波青少年视力档案监测系统
+188.212.158.69:80 - IIS Windows Server
+127.56.164.250:80 - IIS Windows Server
+127.227.109.248:80 - IIS Windows Server
+13.226.185.174:80 - Заголовок не найден
+211.252.175.140:80 - Заголовок не найден
+104.108.243.193:80 - Заголовок не найден
+206.238.192.114:80 - 410
+89.104.82.129:80 - ÐÑÐ¸Ð±ÐºÐ° - Ð½ÐµÑ Ð½Ð¸ Ð¾Ð´Ð½Ð¾Ð³Ð¾ ÑÐ°Ð¹ÑÐ°
+85.227.85.190:80 - BAS2Web
+127.176.247.114:80 - IIS Windows Server
+127.2.203.133:80 - IIS Windows Server
+194.147.69.148:80 - 403 Forbidden
+127.51.182.87:80 - IIS Windows Server
+127.98.201.201:80 - IIS Windows Server
+127.171.9.26:80 - IIS Windows Server
+104.93.106.7:80 - Заголовок не найден
+127.92.140.185:80 - IIS Windows Server
+127.164.227.230:80 - IIS Windows Server
+222.247.45.145:80 - Заголовок не найден
+151.101.251.199:80 - Fastly error: unknown domain 151.101.251.199
+127.93.117.46:80 - IIS Windows Server
+54.228.118.71:80 - 503 Service Temporarily Unavailable
+77.232.175.242:80 - WEB SERVICE
+120.72.36.94:80 - Заголовок не найден
+127.204.113.194:80 - IIS Windows Server
+127.221.84.252:80 - IIS Windows Server
+127.42.160.234:80 - IIS Windows Server
+127.9.6.98:80 - IIS Windows Server
+127.41.137.255:80 - IIS Windows Server
+18.136.68.190:80 - Welcome to nginx!
+15.235.146.187:80 - Upgrade Your Healthcare Experience with Drpro | Streamline Your Practice
+23.43.159.244:80 - Заголовок не найден
+57.180.140.68:80 - 503 Service Temporarily Unavailable
+127.209.230.125:80 - IIS Windows Server
+104.16.154.192:80 - Direct IP access not allowed | Cloudflare
+127.93.1.190:80 - IIS Windows Server
+104.27.202.68:80 - Direct IP access not allowed | Cloudflare
+176.78.183.253:80 - 
+23.206.132.54:80 - Заголовок не найден
+127.205.228.12:80 - IIS Windows Server
+127.147.58.216:80 - IIS Windows Server
+127.1.244.232:80 - IIS Windows Server
+45.141.191.6:80 - Success!
+103.55.130.165:80 - 404 Not Found
+127.187.39.214:80 - IIS Windows Server
+127.179.6.245:80 - IIS Windows Server
+46.60.48.147:80 - Заголовок не найден
+127.39.209.52:80 - IIS Windows Server
+23.74.163.164:80 - Заголовок не найден
+127.205.100.12:80 - IIS Windows Server
+192.241.209.107:80 - Заголовок не найден
+183.111.138.160:80 - 403 Forbidden
+104.105.91.190:80 - Заголовок не найден
+45.36.244.152:80 - 
+61.177.139.14:80 - IIS Windows Server
+104.71.88.183:80 - Заголовок не найден
+127.226.231.213:80 - IIS Windows Server
+50.244.117.35:80 - Document Moved
+127.3.69.147:80 - IIS Windows Server
+127.50.0.164:80 - IIS Windows Server
+192.227.184.112:80 - Home
+127.78.61.137:80 - IIS Windows Server
+127.6.173.170:80 - IIS Windows Server
+141.0.8.168:80 - Заголовок не найден
+185.42.172.238:80 - IIS Windows Server
+154.198.32.25:80 - 401 Unauthorized
+59.184.241.42:80 - GPE550A
+127.237.154.221:80 - IIS Windows Server
+218.188.213.38:80 - Apache Tomcat/9.0.65
