@@ -1,0 +1,3 @@
+38.153.225.93:80 - ERROR: The requested URL could not be retrieved
+123.241.66.23:80 - Заголовок не найден
+211.20.170.160:80 - index
