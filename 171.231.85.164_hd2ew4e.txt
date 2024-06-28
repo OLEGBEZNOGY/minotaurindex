@@ -10,3 +10,15 @@
 62.212.225.242:80 - RouterOS
 200.90.145.33:80 - ONT-4GE-2VW
 20.253.23.11:80 - Your Azure Function App is up and running.
+96.7.181.28:80 - Заголовок не найден
+95.100.216.30:80 - Заголовок не найден
+193.104.100.161:80 - Заголовок не найден
+104.108.86.190:80 - Заголовок не найден
+202.166.220.88:80 - RouterOS router configuration page
+213.82.163.138:80 - NethServer Enterprise
+125.228.40.171:80 - 
+183.250.195.150:80 - 403 Forbidden
+23.94.187.157:80 - 503 Service Temporarily Unavailable
+193.190.125.143:80 - Заголовок не найден
+66.22.97.194:80 - 403 Forbidden
+89.23.109.35:80 - Apache2 Debian Default Page: It works
