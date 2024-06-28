@@ -15560,3 +15560,50 @@ http://rtug.ulcc.ac.uk//
 172.64.144.227:80 - Direct IP access not allowed | Cloudflare
 131.217.172.253:80 - Apache2 Ubuntu Default Page: It works
 18.172.165.124:80 - Заголовок не найден
+23.42.196.76:80 - Заголовок не найден
+18.67.215.221:80 - Заголовок не найден
+50.254.107.241:80 - WEB SERVICE
+78.100.29.190:80 - QNB - Access Denied
+104.96.135.168:80 - Заголовок не найден
+3.137.5.158:80 - Welcome to nginx!
+206.189.4.167:80 - 404 Not Found
+116.80.105.13:80 - ÆA¢¤±ÆÅc
+172.214.7.212:80 - Your Azure Function App is up and running.
+184.25.250.97:80 - Заголовок не найден
+122.116.0.242:80 - 401 Unauthorized
+108.162.192.71:80 - Direct IP access not allowed | Cloudflare
+102.212.164.212:80 - RouterOS router configuration page
+121.170.46.180:80 - 중앙간호학원 학생홈
+83.37.79.109:80 - movistar
+119.254.146.240:80 - Заголовок не найден
+23.8.68.190:80 - Заголовок не найден
+154.220.17.208:80 - 世界杯竞猜网（中国）有限公司
+4.228.43.236:80 - Your Azure Function App is up and running.
+161.35.98.42:80 - 403 Forbidden
+45.159.216.156:80 - Direct IP access not allowed | Cloudflare
+198.2.205.57:80 - Заголовок не найден
+79.211.225.249:80 - Заголовок не найден
+121.132.221.51:80 - Заголовок не найден
+54.164.3.105:80 - CTO Nation Network
+176.175.228.74:80 - 404 Not Found
+62.134.218.85:80 - URL blocked
+125.252.245.225:80 - Заголовок не найден
+52.45.250.132:80 - 404 Not Found
+20.46.160.196:80 - IIS Windows Server
+135.181.196.186:80 - Système d&#039;Analyses et Réponses du Monitoring de Protection &#8211; UNHCR
+91.246.50.98:80 - 404 Not Found
+189.254.37.118:80 - IIS7
+52.41.229.17:80 - Заголовок не найден
+167.99.29.5:80 - React App
+45.67.30.102:80 - Default Site
+52.222.36.190:80 - Welcome to nginx!
+23.197.173.148:80 - Заголовок не найден
+104.19.143.171:80 - Direct IP access not allowed | Cloudflare
+23.218.194.229:80 - Заголовок не найден
+168.76.206.71:80 - 403 Forbidden
+192.126.132.188:80 - ERROR: The requested URL could not be retrieved
+3.162.156.94:80 - Заголовок не найден
+52.108.42.3:80 - Login | Microsoft 365
+43.152.151.244:80 - Заголовок не найден
+157.197.183.241:80 - Заголовок не найден
+65.9.158.81:80 - Заголовок не найден
