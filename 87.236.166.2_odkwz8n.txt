@@ -1538,3 +1538,19 @@
 80.252.217.130:80 - CAT12CE - WebInterface
 142.171.150.173:80 - Apache HTTP Server Test Page powered by CentOS
 221.145.195.113:80 - main page
+38.47.129.91:80 - Заголовок не найден
+205.207.122.63:80 - Error 400 Bad Request
+51.91.11.150:80 - CFFDJ-IDO: Conseil fédéral Française de danse jazz
+89.161.255.168:80 - Error 403
+43.157.82.245:80 - 404 Not Found
+18.184.104.132:80 - 400 The plain HTTP request was sent to HTTPS port
+124.237.208.233:80 - Welcome to OpenResty!
+172.245.205.16:80 - Welcome to nginx!
+184.25.7.178:80 - Заголовок не найден
+107.174.44.115:80 - Notes
+88.86.103.48:80 - SH.cz - zoot-www-4
+24.139.95.55:80 - 
+1.94.103.99:80 - BOOKSTORE
+206.81.27.245:80 - Welcome to nginx!
+185.127.172.169:80 - IIS Windows Server
+47.25.22.225:80 - 
