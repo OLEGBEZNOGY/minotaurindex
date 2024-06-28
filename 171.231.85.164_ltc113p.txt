@@ -34,3 +34,11 @@
 54.242.45.58:80 - User&#x27;s blog
 23.6.6.77:80 - Заголовок не найден
 3.220.201.75:80 - Заголовок не найден
+74.84.195.232:80 - Greensville County Economic Development
+128.39.3.155:80 - 403 Forbidden
+85.187.15.51:80 - Please wait, the page is opening...
+62.27.84.6:80 - Apache HTTP Server Test Page powered by CentOS
+111.231.244.173:80 - 500 Internal Server Error
+123.136.47.203:80 - 403 Forbidden
+176.12.70.101:80 - 
+216.137.184.59:80 - Заголовок не найден
