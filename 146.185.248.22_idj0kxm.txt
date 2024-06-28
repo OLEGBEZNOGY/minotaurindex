@@ -2894,3 +2894,20 @@
 47.145.59.226:80 - Заголовок не найден
 34.203.163.229:80 - Заголовок не найден
 23.32.252.113:80 - Заголовок не найден
+23.10.46.179:80 - Заголовок не найден
+156.244.86.111:80 - 403 Forbidden
+92.53.126.232:80 - 500 Internal Server Error
+104.20.168.141:80 - Direct IP access not allowed | Cloudflare
+200.188.142.186:80 - 503 Service Temporarily Unavailable
+107.178.109.35:80 - Заголовок не найден
+34.236.124.205:80 - 404 Not Found
+158.179.222.167:80 - Web Server's Default Page
+172.217.192.110:80 - Google
+13.232.245.250:80 - Заголовок не найден
+23.59.211.72:80 - Заголовок не найден
+109.228.36.15:80 - Web Server's Default Page
+162.209.157.117:80 - 请使用域名访问
+60.43.158.98:80 - ®ïÐc nakata co.,ltd
+50.33.131.189:80 - Welcome to nginx!
+121.127.40.65:80 - 3CX Phone System Management Console
+20.105.102.254:80 - Your Azure Function App is up and running.
