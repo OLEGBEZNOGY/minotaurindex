@@ -6562,3 +6562,166 @@ NC
 104.86.52.87:80 - Заголовок не найден
 61.227.233.51:80 - 
 47.92.134.231:80 - Vue Element Admin
+23.52.3.53:80 - Заголовок не найден
+120.26.15.116:80 - ERROR: The requested URL could not be retrieved
+38.6.250.68:80 - 404 Not Found
+137.184.189.71:80 - Welcome to nginx!
+104.17.207.241:80 - Direct IP access not allowed | Cloudflare
+194.150.100.22:80 - Welcome page
+213.159.209.212:80 - Welcome!
+165.231.164.209:80 - 407 Proxy Authentication Required
+192.250.248.59:80 - Welcome to nginx!
+47.107.147.77:80 - 403 Forbidden
+52.3.4.198:80 - Test Page for the Apache HTTP Server
+204.11.58.187:80 - Not Acceptable!
+178.85.132.35:80 - 
+110.45.146.55:80 - Заголовок не найден
+123.108.187.14:80 - Default Site
+104.66.71.77:80 - Заголовок не найден
+68.183.136.102:80 - login
+46.21.22.42:80 - Maitance message
+185.13.46.247:80 - 403 Forbidden
+18.164.237.134:80 - Заголовок не найден
+179.53.99.21:80 - Заголовок не найден
+45.64.220.97:80 - Please wait, the login page is opening...
+96.10.44.210:80 - DVR Components Download
+69.160.60.90:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+8.148.1.93:80 - Заголовок не найден
+15.207.203.77:80 - Utkarsh - Next-gen Learning Platform - IAS |RAS | SCHOOL LECTURER | TEACHER GRADE 2 | REET LEVEL 1 & 2 | SI | PATWAR | GRAMSEVAK | CONSTABLE | BANK CLERK | BANK PO | SSC CGL,CHSL,MTS,GD | RRB EXAMS | RPF EXAMS | CBSE | STATE BOARDS | NCERT | JEE | NEET - eUtkarsh
+18.239.96.8:80 - Заголовок не найден
+176.135.245.209:80 - 401 Authorization Required
+24.144.81.137:80 - Merdeka777: Daftar Situs Judi Slot Online Terpercaya
+23.45.187.64:80 - Заголовок не найден
+3.101.35.172:80 - Заголовок не найден
+108.157.204.118:80 - Заголовок не найден
+108.159.56.71:80 - Заголовок не найден
+206.189.119.112:80 - 404 Not Found
+23.218.167.203:80 - Заголовок не найден
+139.59.216.46:80 - 403 - Forbidden
+104.94.114.247:80 - Заголовок не найден
+193.248.213.126:80 - DVR Components Download
+201.33.21.115:80 - Control Panel - Login
+189.148.123.135:80 - 
+52.244.223.181:80 - Your Azure Function App is up and running.
+52.46.131.223:80 - Заголовок не найден
+3.227.113.176:80 - Welcome to nginx!
+13.226.227.193:80 - Заголовок не найден
+108.160.147.109:80 - HOWL Tattoo Piercing - Fort Myers, Cape Coral, Lehigh Acres
+148.0.48.16:80 - 
+52.218.120.65:80 - Amazon S3 - Cloud Object Storage  - AWS
+123.57.243.65:80 - Заголовок не найден
+23.33.70.51:80 - Заголовок не найден
+139.196.73.244:80 - 苏州乐爽信息科技有限公司
+23.225.2.13:80 - Заголовок не найден
+104.24.12.31:80 - Direct IP access not allowed | Cloudflare
+71.82.22.101:80 - 
+61.164.214.139:80 - Заголовок не найден
+182.53.109.149:80 - &#72;&#56;&#49;&#48;&#50;&#69;
+20.239.211.35:80 - Заголовок не найден
+72.229.210.33:80 - CMS Web Viewer
+132.251.248.17:80 - 
+181.23.147.235:80 - Заголовок не найден
+100.28.252.115:80 - Заголовок не найден
+23.203.120.110:80 - Заголовок не найден
+70.166.9.164:80 - 
+120.24.67.193:80 - 阿里云万网虚机IP访问报错提示
+46.242.213.29:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+172.67.55.46:80 - Direct IP access not allowed | Cloudflare
+31.0.223.233:80 - Заголовок не найден
+35.205.136.47:80 - Заголовок не найден
+157.241.71.208:80 - fanZ
+154.3.77.212:80 - Apache HTTP Server Test Page powered by CentOS
+134.73.250.85:80 - 500 Internal Server Error
+23.195.157.229:80 - Заголовок не найден
+137.184.229.25:80 - Web Server's Default Page
+117.92.44.205:80 - 404 Not Found
+114.35.140.23:80 - 
+44.194.86.26:80 - 404 Not Found
+97.81.56.59:80 - 
+220.84.129.226:80 - Заголовок не найден
+165.225.81.2:80 - Internet Security by Zscaler
+66.169.112.218:80 - 
+52.1.175.187:80 - Zapp Admin
+217.147.82.62:80 - IIS Windows Server
+64.44.38.228:80 - Заголовок не найден
+97.94.227.9:80 - 
+3.233.190.128:80 - Заголовок не найден
+14.225.10.8:80 - Lá»i káº¿t ná»i
+173.231.224.130:80 - Default Web Page
+49.98.29.86:80 - Заголовок не найден
+23.15.148.212:80 - Заголовок не найден
+119.23.153.139:80 - 404 Not Found
+141.31.10.21:80 - IIS Windows Server
+62.246.234.113:80 - 403 - Forbidden
+186.53.126.135:80 - 
+64.225.91.74:80 - 403 Forbidden
+23.33.8.211:80 - Заголовок не найден
+23.49.149.22:80 - Заголовок не найден
+92.205.5.207:80 - Bleu Jeans Bleu
+18.164.184.238:80 - Заголовок не найден
+23.217.155.225:80 - Заголовок не найден
+62.24.230.152:80 - Заголовок не найден
+23.78.59.88:80 - Заголовок не найден
+54.166.237.185:80 - Заголовок не найден
+38.33.80.74:80 - Заголовок не найден
+2.22.219.179:80 - Заголовок не найден
+13.33.194.206:80 - Заголовок не найден
+13.69.21.15:80 - Заголовок не найден
+156.226.174.77:80 - æ²¡ææ¾å°ç«ç¹
+125.229.249.103:80 - WEB SERVICE
+94.102.126.46:80 - 
+23.210.188.120:80 - Заголовок не найден
+24.86.0.179:80 - Заголовок не найден
+23.192.77.78:80 - Заголовок не найден
+208.106.169.144:80 - Заголовок не найден
+23.47.178.92:80 - Заголовок не найден
+3.126.20.126:80 - The stream or file &quot;/var/app/current/storage/logs/laravel-2024-06-28.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/app/current/storage/logs/laravel-2024-06-28.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/app/current/storage/logs/laravel-2024-06-28.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/app/current/storage/logs/laravel-2024-06-28.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/app/current/storage/logs/laravel-2024-06-28.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/app/current/storage/logs/laravel-2024-06-28.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/app/current/storage/logs/laravel-2024-06-28.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/app/current/storage/logs/laravel-2024-06-28.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/app/current/storage/logs/laravel-2024-06-28.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/app/current/storage/logs/laravel-2024-06-28.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/app/current/storage/logs/laravel-2024-06-28.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: Database file at path [/var/app/current/database/database.sqlite] does not exist. Ensure this is an absolute path to the database. (Connection: sqlite, SQL: select * from &quot;sc_sessions&quot; where &quot;id&quot; = YEmcAztnsza6zKt4HDOMA92Aj1ZyLuYjS2tPogxX limit 1)
+Context: {&quot;exception&quot;:{&quot;errorInfo&quot;:null,&quot;connectionName&quot;:&quot;sqlite&quot;}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+95.101.143.150:80 - Заголовок не найден
+3.165.84.42:80 - Заголовок не найден
+107.148.20.152:80 - 403 Forbidden
+154.82.101.247:80 - 410
+45.41.92.182:80 - æ²¡ææ¾å°ç«ç¹
+61.9.194.18:80 - Заголовок не найден
+36.155.187.200:80 - Заголовок не найден
+8.217.200.36:80 - eWordBank
+18.164.189.128:80 - Заголовок не найден
+122.194.235.29:80 - 404 Not Found
+14.55.203.96:80 - Заголовок не найден
+45.155.145.154:80 - Заголовок не найден
+36.255.123.229:80 - 403 Forbidden
+54.192.42.184:80 - Заголовок не найден
+103.150.181.23:80 - Заголовок не найден
+23.236.197.183:80 - Заголовок не найден
+104.84.37.159:80 - Заголовок не найден
+104.76.139.91:80 - Заголовок не найден
+104.207.146.212:80 - 404 Not Found
+37.24.196.118:80 - Заголовок не найден
+185.230.242.247:80 - Заголовок не найден
+104.87.220.129:80 - Заголовок не найден
+59.88.93.152:80 - 
+193.39.188.151:80 - Apache2 Ubuntu Default Page: It works
+35.75.245.154:80 - HTTP Status 404 – Not Found
+13.224.124.116:80 - Заголовок не найден
+91.121.79.143:80 - Заголовок не найден
