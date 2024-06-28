@@ -1785,3 +1785,36 @@
 121.40.148.170:80 - 404 Not Found
 18.228.221.173:80 - Powered by CapRover
 23.198.74.97:80 - Заголовок не найден
+34.142.32.44:80 - Заголовок не найден
+104.27.19.198:80 - Direct IP access not allowed | Cloudflare
+188.23.17.55:80 - Заголовок не найден
+64.60.198.58:80 - Document Moved
+159.65.255.224:80 - Fuzz Pass | Eventos
+142.44.137.153:80 - Заголовок не найден
+140.238.39.21:80 - 404 Not Found
+52.68.29.210:80 - 時短ヒーロー - ログイン
+23.223.67.5:80 - Заголовок не найден
+108.159.52.41:80 - Заголовок не найден
+45.176.191.194:80 - Apache HTTP Server Test Page powered by CentOS
+162.159.248.49:80 - Direct IP access not allowed | Cloudflare
+42.117.116.113:80 - WEB SERVICE
+42.96.232.3:80 - Заголовок не найден
+104.91.20.57:80 - Заголовок не найден
+17.248.201.195:80 - 400 Bad Request
+47.93.36.39:80 - Заголовок не найден
+104.117.74.84:80 - Заголовок не найден
+146.148.222.37:80 - IIS7
+23.49.10.54:80 - Заголовок не найден
+18.223.13.231:80 - 404 Not Found
+192.121.158.245:80 - Database Error
+37.123.159.77:80 - 404 Not Found
+52.9.9.30:80 - 503 Service Temporarily Unavailable
+23.203.117.26:80 - Заголовок не найден
+220.132.114.79:80 - Surveillance
+23.3.143.205:80 - Заголовок не найден
+171.248.217.197:80 - Document Error: Not Found
+148.251.193.187:80 - Apache2 Ubuntu Default Page: It works
+52.92.213.10:80 - Amazon S3 - Cloud Object Storage  - AWS
+172.64.232.114:80 - Direct IP access not allowed | Cloudflare
+114.141.205.71:80 - 404 Not Found
+172.67.65.183:80 - Direct IP access not allowed | Cloudflare
