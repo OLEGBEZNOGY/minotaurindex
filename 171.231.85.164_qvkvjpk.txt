@@ -13,3 +13,16 @@
 47.104.169.54:80 - 特惠产品
 18.155.102.164:80 - Заголовок не найден
 54.172.185.94:80 - 503 Service Temporarily Unavailable
+185.158.104.44:80 - 407 Proxy Authentication Required
+80.211.181.167:80 - Apache HTTP Server Test Page powered by CentOS
+32.218.198.142:80 - Server Error
+18.161.199.244:80 - Заголовок не найден
+212.68.170.215:80 - Index of /
+174.86.7.22:80 - 
+4.182.15.34:80 - Your Azure Function App is up and running.
+3.142.252.118:80 - AAC MA, A/C Expert!
+79.96.77.27:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+52.84.11.217:80 - Заголовок не найден
+38.55.202.239:80 - 404 Not Found
+210.68.122.67:80 - åµé²è»è¾¨ç³»çµ±
+172.120.154.44:80 - 404 Not Found
