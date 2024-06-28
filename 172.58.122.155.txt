@@ -268,3 +268,5 @@
 3.88.53.127:80 - Welcome to nginx!
 18.205.9.94:80 - Saec - Login
 199.255.236.162:80 - Заголовок не найден
+185.220.184.231:80 - Bursa-Explicata &#8211; simplu de Vasile SZAKACS
+95.183.52.140:80 - 401 Authorization Required
