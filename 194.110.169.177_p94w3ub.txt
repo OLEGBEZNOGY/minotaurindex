@@ -952,3 +952,59 @@
 130.61.232.200:80 - Success!
 194.132.17.13:80 - IXX Hosting - Account Management
 13.51.154.11:80 - Elastic Beanstalk
+143.110.146.81:80 - Заголовок не найден
+43.252.249.124:80 - Please wait, the login page is opening...
+89.34.202.106:80 - YourBrand
+198.41.208.170:80 - Direct IP access not allowed | Cloudflare
+51.11.14.32:80 - IIS 10.0 Detailed Error - 401.2 - Unauthorized
+20.199.5.11:80 - Microsoft Azure Web App - Error 404
+218.247.69.176:80 - 403 Forbidden
+180.235.246.74:80 - ControlPanel
+186.57.5.148:80 - Заголовок не найден
+151.236.121.251:80 - 403 Forbidden
+194.87.58.211:80 - Direct IP access not allowed | Cloudflare
+23.52.44.131:80 - Заголовок не найден
+3.76.22.212:80 - Заголовок не найден
+162.216.193.11:80 - Sign in to Outlook
+23.42.217.107:80 - Заголовок не найден
+177.72.80.45:80 - Iniciar sessÃ£o
+72.74.171.191:80 - ð»
+165.225.210.169:80 - Internet Security by Zscaler
+52.218.242.128:80 - Amazon S3 - Cloud Object Storage  - AWS
+103.209.220.88:80 - Please wait, the page is opening...
+196.51.250.192:80 - ERROR: The requested URL could not be retrieved
+99.86.16.39:80 - Заголовок не найден
+69.253.23.43:80 - Linksys Smart Wi-Fi
+23.62.255.173:80 - Заголовок не найден
+178.168.4.91:80 - 404 Not Found
+52.184.250.7:80 - Your Azure Function App is up and running.
+3.0.39.128:80 - Заголовок не найден
+184.50.112.94:80 - Заголовок не найден
+38.174.181.114:80 - Заголовок не найден
+62.67.10.54:80 - Create Next App
+185.158.169.114:80 - 403 Forbidden
+179.53.50.103:80 - 
+23.194.48.132:80 - Заголовок не найден
+128.199.123.10:80 - Royal Medic
+104.19.193.80:80 - Direct IP access not allowed | Cloudflare
+173.255.212.174:80 - 404 Not Found
+27.120.96.52:80 - 403 Forbidden
+194.13.82.16:80 - Page Title
+192.185.55.9:80 - Not Acceptable!
+34.135.78.223:80 - Заголовок не найден
+154.56.134.228:80 - Web Server's Default Page
+35.176.248.205:80 - Заголовок не найден
+134.209.67.10:80 - HealthLantern
+23.192.116.214:80 - Заголовок не найден
+8.217.213.50:80 - IBMC MEDIA代理后台
+38.165.125.181:80 - 404 Not Found
+104.164.18.226:80 - IIS7
+122.228.237.41:80 - 403 Forbidden
+23.221.53.144:80 - Заголовок не найден
+149.210.16.100:80 - Teltonika Networks
+129.151.198.181:80 - Welcome to nginx!
+24.233.12.203:80 - Welcome to nginx!
+38.35.98.164:80 - bt365ÓéÀÖ³¡/365ÌåÓýÍ¶×¢ÑÇÖÞ/365betÖ÷Ò³
+4.194.156.183:80 - Default Site
+23.32.120.5:80 - Заголовок не найден
+80.74.150.34:80 - []
