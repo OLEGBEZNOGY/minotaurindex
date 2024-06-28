@@ -18419,3 +18419,35 @@ http://rtug.ulcc.ac.uk//
 58.228.35.140:80 - 
 155.159.60.35:80 - 404 Not Found
 45.67.176.150:80 - ERROR: The requested URL could not be retrieved
+5.249.145.235:80 - 400 The plain HTTP request was sent to HTTPS port
+104.253.53.83:80 - 403 Forbidden
+54.215.108.75:80 - 503 Service Temporarily Unavailable
+72.167.102.241:80 - Patent Law Agency Los Angeles, Lawyer for Patent procurement services La | Patent Law agency
+23.221.135.166:80 - Заголовок не найден
+118.22.45.116:80 - Network Camera
+54.230.19.184:80 - Заголовок не найден
+184.50.216.176:80 - Заголовок не найден
+23.10.221.64:80 - Заголовок не найден
+15.236.219.41:80 - Заголовок не найден
+108.157.110.61:80 - Заголовок не найден
+2.17.88.68:80 - Заголовок не найден
+174.87.102.226:80 - 
+220.132.77.137:80 - 
+23.221.174.230:80 - Заголовок не найден
+93.113.57.10:80 - Home
+192.185.229.1:80 - Not Acceptable!
+87.98.240.199:80 - Success!
+20.165.170.73:80 - Your Azure Function App is up and running.
+2.207.179.201:80 - Заголовок не найден
+87.76.19.84:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+23.193.13.140:80 - Заголовок не найден
+14.225.63.2:80 - Apache2 Ubuntu Default Page: It works
+67.175.139.67:80 - 
+20.126.230.189:80 - Microsoft Azure Web App - Error 404
+78.47.75.73:80 - 403 Forbidden
+104.87.228.172:80 - Заголовок не найден
+18.239.254.243:80 - Заголовок не найден
+154.203.48.155:80 - Заголовок не найден
+52.85.210.15:80 - Заголовок не найден
+46.254.129.88:80 - Please wait, the page is opening...
+54.248.103.204:80 - Заголовок не найден
