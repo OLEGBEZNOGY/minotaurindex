@@ -28,3 +28,6 @@
 198.48.48.247:80 - Заголовок не найден
 38.152.154.173:80 - ERROR: The requested URL could not be retrieved
 210.117.177.77:80 - L7
+104.124.111.97:80 - Заголовок не найден
+72.174.184.133:80 - 
+104.19.228.32:80 - Direct IP access not allowed | Cloudflare
