@@ -1,0 +1,4 @@
+159.69.120.56:80 - Apache2 Debian Default Page: It works
+54.252.81.87:80 - H3 Historian
+104.112.42.139:80 - Заголовок не найден
+185.25.117.200:80 - 502 Bad Gateway
