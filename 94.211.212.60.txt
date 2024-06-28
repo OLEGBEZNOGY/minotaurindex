@@ -1978,3 +1978,7 @@
 154.209.129.190:80 - Apache HTTP Server Test Page powered by CentOS
 154.23.185.151:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
 47.90.75.150:80 - I Patrol
+35.201.1.165:80 - Заголовок не найден
+184.28.231.20:80 - Заголовок не найден
+96.242.95.86:80 - Document Moved
+18.64.225.71:80 - Заголовок не найден
