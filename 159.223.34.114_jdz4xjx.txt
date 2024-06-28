@@ -1098,3 +1098,24 @@
 38.98.40.14:80 - Apache HTTP Server Test Page powered by CentOS
 38.253.139.197:80 - 
 46.167.138.201:80 - 
+104.21.90.52:80 - Direct IP access not allowed | Cloudflare
+23.221.163.59:80 - Заголовок не найден
+90.118.26.67:80 - WEB SERVICE
+205.196.220.157:80 - Site not found &middot; DreamHost
+104.16.249.146:80 - Direct IP access not allowed | Cloudflare
+3.165.112.78:80 - Заголовок не найден
+54.165.223.27:80 - Success!
+103.91.189.244:80 - Заголовок не найден
+156.226.54.176:80 - Заголовок не найден
+104.24.56.169:80 - Direct IP access not allowed | Cloudflare
+54.237.98.205:80 - Заголовок не найден
+20.193.141.16:80 - Microsoft Azure Web App - Error 404
+44.240.57.23:80 - Error 403 Forbidden
+154.195.219.31:80 - Sorry, the website has been stopped
+179.38.115.206:80 - Заголовок не найден
+64.37.16.31:80 - 403 Forbidden
+104.21.89.67:80 - Direct IP access not allowed | Cloudflare
+156.234.201.157:80 - Welcome to nginx!
+111.123.59.176:80 - Заголовок не найден
+111.31.37.207:80 - 403 Forbidden
+23.201.180.187:80 - Заголовок не найден
