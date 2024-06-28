@@ -5555,3 +5555,205 @@
 59.184.241.42:80 - GPE550A
 127.237.154.221:80 - IIS Windows Server
 218.188.213.38:80 - Apache Tomcat/9.0.65
+124.70.212.22:80 - 403 Forbidden
+127.177.128.199:80 - IIS Windows Server
+23.33.69.59:80 - Заголовок не найден
+43.248.170.113:80 - 404 Not Found
+31.47.253.139:80 - Diese Webseite befindet sich im Aufbau
+52.55.100.185:80 - EMDR Streaming Clinical Videos
+104.20.187.168:80 - Direct IP access not allowed | Cloudflare
+5.76.173.27:80 - GPON Home Gateway
+119.188.91.222:80 - 403 Forbidden
+38.28.145.49:80 - Заголовок не найден
+158.222.6.79:80 - 407 Proxy Authentication Required
+127.99.27.81:80 - IIS Windows Server
+20.50.132.27:80 - Заголовок не найден
+222.194.46.48:80 - 404 Not Found
+109.175.50.62:80 - Заголовок не найден
+23.54.224.71:80 - Заголовок не найден
+127.147.98.246:80 - IIS Windows Server
+107.190.148.60:80 - 1761-NET-ENIW
+211.185.45.128:80 - CMS Web Viewer
+52.230.6.207:80 - Microsoft Azure Web App - Error 404
+127.13.154.39:80 - IIS Windows Server
+172.64.19.186:80 - Direct IP access not allowed | Cloudflare
+185.56.171.10:80 - Login
+74.234.188.145:80 - Apache2 Ubuntu Default Page: It works
+47.241.107.246:80 - Welcome to nginx!
+154.56.62.57:80 - 403 Forbidden
+194.58.47.4:80 - Apache2 Ubuntu Default Page: It works
+23.48.23.52:80 - Заголовок не найден
+23.40.37.92:80 - Заголовок не найден
+122.51.223.8:80 - 亿创
+127.49.70.241:80 - IIS Windows Server
+61.170.84.35:80 - Заголовок не найден
+154.86.91.37:80 - æ²¡ææ¾å°ç«ç¹
+172.243.119.124:80 - WEB SERVICE
+127.45.225.4:80 - IIS Windows Server
+4.153.77.99:80 - Your Azure Function App is up and running.
+172.241.130.25:80 - ERROR: The requested URL could not be retrieved
+18.167.204.90:80 - Заголовок не найден
+108.181.133.95:80 - Filtrar MPD
+23.42.210.223:80 - Заголовок не найден
+127.199.156.23:80 - IIS Windows Server
+183.204.233.133:80 - 403 Forbidden
+127.250.229.229:80 - IIS Windows Server
+200.150.196.234:80 - phpPgAdmin
+162.159.81.11:80 - Direct IP access not allowed | Cloudflare
+139.177.241.193:80 - Заголовок не найден
+16.24.27.6:80 - Cardiac Wing HMS
+18.239.250.182:80 - Заголовок не найден
+75.118.128.139:80 - Заголовок не найден
+127.242.229.99:80 - IIS Windows Server
+127.1.6.79:80 - IIS Windows Server
+204.12.60.149:80 - Заголовок не найден
+160.16.66.49:80 - Welcome to nginx!
+206.205.45.183:80 - Заголовок не найден
+38.174.180.219:80 - Заголовок не найден
+84.96.198.194:80 - Заголовок не найден
+66.228.42.218:80 - Welcome to nginx!
+23.63.177.109:80 - Заголовок не найден
+127.154.29.129:80 - IIS Windows Server
+110.50.209.146:80 - ControlPanel
+162.144.208.94:80 - Заголовок не найден
+127.190.222.223:80 - IIS Windows Server
+108.166.124.251:80 - Заголовок не найден
+120.79.74.115:80 - Welcome to nginx!
+127.248.219.84:80 - IIS Windows Server
+154.201.206.152:80 - æ²¡ææ¾å°ç«ç¹
+104.81.162.77:80 - Заголовок не найден
+127.66.10.191:80 - IIS Windows Server
+2.20.39.231:80 - Заголовок не найден
+216.194.175.10:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+127.207.111.80:80 - IIS Windows Server
+127.94.102.198:80 - IIS Windows Server
+107.128.198.137:80 - ACME Access Only
+127.15.251.54:80 - IIS Windows Server
+54.197.87.71:80 - Заголовок не найден
+186.6.99.16:80 - 
+206.189.93.40:80 - Reps UAE
+128.136.254.92:80 - Application Blocked
+207.154.192.189:80 - 404 Not Found
+52.222.164.165:80 - Заголовок не найден
+18.229.129.125:80 - Заголовок не найден
+196.196.231.103:80 - 403 Forbidden
+70.80.28.249:80 - 404 Not Found
+154.38.16.61:80 - ERROR: The requested URL could not be retrieved
+127.67.7.234:80 - IIS Windows Server
+118.178.170.125:80 - Заголовок не найден
+90.102.46.245:80 - 
+218.148.99.152:80 - Заголовок не найден
+96.7.20.90:80 - Заголовок не найден
+203.124.41.22:80 - Заголовок не найден
+23.33.130.163:80 - Заголовок не найден
+127.44.5.206:80 - IIS Windows Server
+176.46.129.172:80 - Заголовок не найден
+108.157.43.130:80 - Заголовок не найден
+13.50.157.61:80 - Заголовок не найден
+127.230.92.16:80 - IIS Windows Server
+171.250.4.45:80 - MobiProxy
+77.238.75.233:80 - Please wait, the page is opening...
+139.99.116.165:80 - Just a moment...
+23.207.79.187:80 - Заголовок не найден
+18.155.230.120:80 - Заголовок не найден
+127.103.25.41:80 - IIS Windows Server
+127.44.52.185:80 - IIS Windows Server
+203.69.87.56:80 - 
+3.39.70.39:80 - 503 Service Temporarily Unavailable
+127.125.223.101:80 - IIS Windows Server
+144.76.84.102:80 - GÃ¶thel Software - Home (en)
+38.174.190.22:80 - 403 Forbidden
+127.54.56.108:80 - IIS Windows Server
+127.43.216.254:80 - IIS Windows Server
+127.204.251.47:80 - IIS Windows Server
+103.234.53.232:80 - Welcome to nginx!
+77.37.180.122:80 - 403 Forbidden
+164.46.114.8:80 - 403 Forbidden ã¢ã¯ã»ã¹ãç¦æ­¢ããã¦ãã¾ã
+91.215.41.88:80 - DDoS-Guard
+104.91.59.102:80 - Заголовок не найден
+8.142.16.214:80 - åæ¥èµç²¾åå¥åº·å¹³å°ç®¡çå­ç³»ç»
+127.166.162.141:80 - IIS Windows Server
+23.61.134.10:80 - Заголовок не найден
+175.24.250.252:80 - Заголовок не найден
+127.80.147.76:80 - IIS Windows Server
+120.55.100.235:80 - Заголовок не найден
+172.250.41.209:80 - 
+127.73.240.147:80 - IIS Windows Server
+69.16.199.238:80 - Заголовок не найден
+96.44.159.148:80 - Captcha Challenge
+216.92.83.18:80 - 404 Not Found
+47.110.245.1:80 - IIS Windows Server
+49.205.195.214:80 - IIS Windows
+188.166.62.251:80 - 401 Authorization Required
+127.184.86.214:80 - IIS Windows Server
+13.234.117.203:80 - 404 Not Found
+59.127.230.62:80 - Заголовок не найден
+127.170.86.13:80 - IIS Windows Server
+127.1.86.173:80 - IIS Windows Server
+212.227.132.191:80 - Заголовок не найден
+222.254.172.157:80 - Document Error: Not Found
+168.156.40.175:80 - Shibboleth Authentication Request
+104.21.224.90:80 - Direct IP access not allowed | Cloudflare
+104.71.73.9:80 - Заголовок не найден
+3.144.142.142:80 - Заголовок не найден
+2.207.144.235:80 - Заголовок не найден
+122.117.199.108:80 - WEB SERVICE
+127.190.64.198:80 - IIS Windows Server
+149.210.76.46:80 - RouterOS
+127.106.46.68:80 - IIS Windows Server
+50.87.153.180:80 - Not Acceptable!
+45.85.235.253:80 - HTTP Server Test Page powered by: Rocky Linux
+27.50.67.241:80 - Заголовок не найден
+217.144.54.226:80 - Apache2 Debian Default Page: It works
+127.66.170.110:80 - IIS Windows Server
+34.240.142.124:80 - Attention Required! | Cloudflare
+54.197.60.209:80 - 403 Forbidden
+5.157.17.116:80 - 403 Forbidden
+23.192.151.199:80 - Заголовок не найден
+23.199.169.76:80 - Заголовок не найден
+87.98.131.187:80 - IIS Windows Server
+116.211.217.140:80 - Welcome to OpenResty!
+186.67.85.197:80 - Заголовок не найден
+104.19.194.21:80 - Direct IP access not allowed | Cloudflare
+86.237.182.73:80 - vm-emby
+127.240.16.126:80 - IIS Windows Server
+13.232.73.61:80 - Заголовок не найден
+127.24.90.54:80 - IIS Windows Server
+127.197.69.68:80 - IIS Windows Server
+23.220.134.198:80 - Заголовок не найден
+88.148.3.162:80 - pfSense - Login
+172.64.152.192:80 - Direct IP access not allowed | Cloudflare
+139.59.246.30:80 - Заголовок не найден
+49.119.113.153:80 - 403 Forbidden
+18.165.177.145:80 - Заголовок не найден
+38.12.134.111:80 - Заголовок не найден
+127.59.43.250:80 - IIS Windows Server
+95.56.215.9:80 - GPON Home Gateway
+127.41.228.235:80 - IIS Windows Server
+44.232.99.130:80 - 403 Forbidden
+57.180.105.115:80 - easytest
+23.231.186.134:80 - æ²¡ææ¾å°ç«ç¹
+84.121.4.171:80 - NAS-LICANUS&nbsp;-&nbsp;Synology&nbsp;NAS
+210.193.196.38:80 - Заголовок не найден
+173.246.116.232:80 - Car-Part.com--Used Auto Parts Market
+127.224.160.11:80 - IIS Windows Server
+104.19.136.9:80 - Direct IP access not allowed | Cloudflare
+73.126.201.62:80 - Fishbowl
+127.177.172.15:80 - IIS Windows Server
+127.88.167.227:80 - IIS Windows Server
+127.96.22.221:80 - IIS Windows Server
+98.127.185.101:80 - 
+89.12.162.161:80 - Default Site
+127.124.118.62:80 - IIS Windows Server
+127.188.28.174:80 - IIS Windows Server
+4.207.96.148:80 - Your Azure Function App is up and running.
+54.94.232.123:80 - Welcome to nginx!
+23.60.49.190:80 - Заголовок не найден
+154.7.57.153:80 - 404 Not Found
+27.0.172.183:80 - Заголовок не найден
+104.82.96.176:80 - Заголовок не найден
+54.255.200.224:80 - Заголовок не найден
+127.103.122.242:80 - IIS Windows Server
+127.197.131.52:80 - IIS Windows Server
+45.89.246.214:80 - Заголовок не найден
+127.236.61.63:80 - IIS Windows Server
