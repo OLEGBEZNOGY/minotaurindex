@@ -4326,3 +4326,8 @@
 90.82.247.177:80 - Bienvenue sur ABC Planning Mobile
 203.115.105.226:80 - Заголовок не найден
 70.92.176.121:80 - 
+99.142.87.253:80 - AT&T WiFi Portal
+54.89.72.40:80 - Amazon ECS Sample App
+5.76.168.83:80 - GPON Home Gateway
+65.8.224.158:80 - Заголовок не найден
+35.155.97.66:80 - Hmm.. Couldn't find that page
