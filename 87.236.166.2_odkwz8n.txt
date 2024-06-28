@@ -1554,3 +1554,5 @@
 206.81.27.245:80 - Welcome to nginx!
 185.127.172.169:80 - IIS Windows Server
 47.25.22.225:80 - 
+168.76.94.242:80 - Заголовок не найден
+154.53.88.93:80 - ERROR: The requested URL could not be retrieved
