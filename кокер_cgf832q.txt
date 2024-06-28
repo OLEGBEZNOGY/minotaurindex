@@ -4013,3 +4013,44 @@
 13.33.180.146:80 - Заголовок не найден
 5.250.245.51:80 - Заголовок не найден
 211.97.81.229:80 - Заголовок не найден
+84.33.35.78:80 - Agenzia di Web design e Marketing Online in Alto Adige - InternetService&reg;
+34.193.230.51:80 - Заголовок не найден
+185.193.31.76:80 - Direct IP access not allowed | Cloudflare
+192.119.170.191:80 - 500 Internal Server Error
+20.205.249.200:80 - Your Azure Function App is up and running.
+217.33.194.106:80 - IIS Windows Server
+104.90.79.24:80 - Заголовок не найден
+91.241.255.137:80 - 403 Forbidden
+3.164.44.192:80 - Заголовок не найден
+96.9.244.169:80 - Welcome to nginx!
+65.108.33.248:80 - Заголовок не найден
+95.110.255.117:80 - Web Server's Default Page
+91.206.184.132:80 - Заголовок не найден
+184.27.0.54:80 - Заголовок не найден
+217.116.199.59:80 - Domain Default page
+172.67.244.19:80 - Direct IP access not allowed | Cloudflare
+184.29.103.173:80 - Заголовок не найден
+85.214.27.40:80 - KWU-Entsorgung
+38.182.190.243:80 - 403 Forbidden
+38.102.11.239:80 - 403 Forbidden
+191.235.116.215:80 - Apache2 Ubuntu Default Page: It works
+154.221.22.228:80 - Welcome to CentOS
+42.119.159.144:80 - 
+208.69.124.186:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+64.227.108.49:80 - 404 Not Found
+148.135.17.220:80 - æ­åï¼ç«ç¹åå»ºæåï¼
+92.247.92.99:80 - Заголовок не найден
+108.139.195.182:80 - Заголовок не найден
+34.243.72.75:80 - Заголовок не найден
+154.7.80.113:80 - 404 Not Found
+23.216.250.143:80 - Заголовок не найден
+185.23.119.194:80 - Web Server's Default Page
+145.239.51.227:80 - FTpanel
+72.34.39.165:80 - Softaculous Webuzo | Default Website Page
+149.81.213.228:80 - Заголовок не найден
+2.133.119.47:80 - Default
+13.232.221.48:80 - 404 Not Found
+183.204.208.32:80 - 403 Forbidden
+38.14.49.144:80 - 403 Forbidden
+51.159.25.41:80 - Заголовок не найден
+52.47.35.73:80 - 404 Not Found
