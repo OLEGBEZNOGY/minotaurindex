@@ -760,3 +760,26 @@
 47.107.189.3:80 - Welcome to CentOS
 23.40.69.4:80 - Заголовок не найден
 45.150.35.83:80 - Заголовок не найден
+37.139.13.210:80 - Balles deju klubs Valmiera
+91.240.232.48:80 - 404 Not Found
+23.63.19.107:80 - Заголовок не найден
+47.106.8.180:80 - Welcome to nginx!
+104.103.97.34:80 - Заголовок не найден
+3.165.164.61:80 - Заголовок не найден
+54.192.63.66:80 - Заголовок не найден
+95.179.244.67:80 - Unknown Domain
+133.242.115.106:80 - Apache HTTP Server Test Page powered by CentOS
+213.211.81.202:80 - GPON Home Gateway
+23.199.3.121:80 - Заголовок не найден
+18.233.41.162:80 - Заголовок не найден
+113.169.125.168:80 - 403 - Forbidden
+37.221.193.99:80 - Welcome to nginx!
+40.119.151.49:80 - Заголовок не найден
+18.160.208.87:80 - Заголовок не найден
+142.250.187.128:80 - Google
+196.240.100.109:80 - æ²¡ææ¾å°ç«ç¹
+15.184.8.240:80 - Test Page for the Nginx HTTP Server on Amazon Linux
+3.165.98.109:80 - Заголовок не найден
+185.20.187.122:80 - Заголовок не найден
+13.228.130.184:80 - BaBelnews.id - Berita dan video terkini seputar peristiwa, sepak bola, PS Timah Babel, selebriti, kesehatan, travel, hiburan dan wiki dari Bangka dan Belitung
+181.25.51.101:80 - Заголовок не найден
