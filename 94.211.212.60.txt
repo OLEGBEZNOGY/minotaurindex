@@ -3708,3 +3708,9 @@ else if(ProgramType != "Jupiter" && ProgramType != "Mamba")
 18.238.170.179:80 - Заголовок не найден
 77.226.244.38:80 - 
 180.105.204.32:80 - Заголовок не найден
+193.188.249.231:80 - Calva EDI, prestataire solutions EDI et traduction
+149.28.136.59:80 - 
+104.19.86.251:80 - Direct IP access not allowed | Cloudflare
+185.128.25.174:80 - ERROR: The requested URL could not be retrieved
+42.115.173.35:80 - 
+186.62.11.15:80 - Заголовок не найден
