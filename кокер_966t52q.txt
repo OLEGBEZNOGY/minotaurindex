@@ -11215,3 +11215,91 @@
 95.54.40.31:80 - DSL_2640NRU_SZV
 104.108.90.124:80 - Заголовок не найден
 51.255.18.234:80 - Заголовок не найден
+104.168.152.125:80 - Coming Soon - impeditkxskd.mouradshop19.pro
+213.61.193.122:80 - IIS Windows Server
+51.178.160.232:80 - 403 - Prohibido: acceso denegado.
+52.208.50.148:80 - Stan's Robot Shop
+23.46.119.113:80 - Заголовок не найден
+45.60.149.7:80 - Заголовок не найден
+4.157.163.13:80 - Your Azure Function App is up and running.
+46.254.93.173:80 - Direct IP access not allowed | Cloudflare
+18.244.125.23:80 - Заголовок не найден
+146.59.196.69:80 - 404 Not Found
+104.108.109.238:80 - Заголовок не найден
+86.34.194.172:80 - IIS Windows Server
+8.145.253.190:80 - Заголовок не найден
+46.183.141.19:80 - This website is not in use yet – Domain hosted by Gigahost
+103.50.166.33:80 - MyMPKj4u
+104.24.43.187:80 - Direct IP access not allowed | Cloudflare
+92.205.151.191:80 - Coming Soon
+3.134.244.122:80 - IIS Windows Server
+91.213.17.178:80 - Welcome to nginx!
+94.63.79.195:80 - WEB SERVICE
+3.160.155.148:80 - Заголовок не найден
+194.55.132.224:80 - 403 Forbidden
+167.160.183.53:80 - Заголовок не найден
+18.244.113.3:80 - Заголовок не найден
+84.247.12.216:80 - Web Server's Default Page
+98.147.8.186:80 - Document Moved
+34.222.41.155:80 - Заголовок не найден
+139.180.142.81:80 - 404 Not Found
+54.80.63.247:80 - 403 Forbidden
+20.172.64.202:80 - 乐代-云智能操作系统(AU-OPS)
+14.225.64.112:80 - Apache2 Ubuntu Default Page: It works
+143.204.48.162:80 - Заголовок не найден
+37.150.111.185:80 - Default
+104.20.57.135:80 - Direct IP access not allowed | Cloudflare
+34.233.114.84:80 - Заголовок не найден
+82.115.209.234:80 - Заголовок не найден
+82.197.86.207:80 - 403 Forbidden
+103.207.64.232:80 - Заголовок не найден
+104.248.255.235:80 - Pray For Orphan | Login
+80.211.60.245:80 - NethServer Enterprise
+63.141.248.54:80 - 403 Forbidden
+79.96.215.164:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+95.165.109.166:80 - InnboxG84
+206.71.148.28:80 - Sorry, the website has been stopped
+3.148.103.111:80 - Заголовок не найден
+23.73.11.119:80 - Заголовок не найден
+173.232.93.199:80 - 403 Forbidden
+198.244.219.74:80 - Apache2 Ubuntu Default Page: It works
+154.39.163.14:80 - 404 Not Found
+23.222.49.227:80 - Заголовок не найден
+142.132.226.104:80 - 503 Service Temporarily Unavailable
+18.154.3.179:80 - Заголовок не найден
+188.34.197.18:80 - Заголовок не найден
+23.213.182.214:80 - Заголовок не найден
+3.218.30.188:80 - 503 Service Temporarily Unavailable
+8.139.72.115:80 - 阿里云 Web应用防火墙
+103.172.0.158:80 - RouterOS router configuration page
+92.246.88.13:80 - 401 Authorization Required
+104.102.244.104:80 - Заголовок не найден
+211.151.11.45:80 - Please obtain a ICP license
+35.177.182.139:80 - 503 Service Temporarily Unavailable
+82.180.152.11:80 - 403 Forbidden
+185.90.59.190:80 - Заголовок не найден
+156.241.112.252:80 - 404 Not Found
+87.97.185.254:80 - Welcome to nginx!
+145.92.8.128:80 - Happy Toilet
+176.211.77.201:80 - 
+65.61.40.46:80 - PT Helmets, Military Helmets, Bravo Helmets, Pro-Tec, NFL Helmets, Bike 
+
+Helmets, Water Helmets
+156.214.233.166:80 - 
+108.138.176.91:80 - Заголовок не найден
+158.160.65.81:80 - Welcome to nginx!
+52.76.138.143:80 - Заголовок не найден
+13.92.58.170:80 - IIS Windows Server
+45.134.174.146:80 - Sorry, the website has been stopped
+38.170.141.81:80 - ERROR: The requested URL could not be retrieved
+84.252.143.104:80 - Sign in · GitLab
+213.135.34.37:80 - IIS7
+104.17.213.124:80 - Direct IP access not allowed | Cloudflare
+13.49.166.94:80 - 503 Service Temporarily Unavailable
+104.93.94.214:80 - Заголовок не найден
+122.178.44.8:80 - 
+104.27.10.121:80 - Direct IP access not allowed | Cloudflare
+110.44.113.140:80 - 
+52.242.74.24:80 - Заголовок не найден
+175.99.13.206:80 - 500 Internal Server Error
+172.67.131.37:80 - Direct IP access not allowed | Cloudflare
