@@ -2,3 +2,14 @@
 23.204.22.234:80 - Заголовок не найден
 188.165.143.50:80 - Site not installed - OVHcloud
 174.128.228.237:80 - Index of /
+43.230.202.200:80 - Заголовок не найден
+104.89.120.3:80 - Заголовок не найден
+82.147.87.132:80 - IIS Windows Server
+18.195.19.121:80 - Заголовок не найден
+121.150.118.252:80 - 
+68.171.61.240:80 - Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
+193.106.29.36:80 - Welcome to nginx!
+23.100.56.27:80 - Microsoft Azure Web App - Error 404
+47.104.169.54:80 - 特惠产品
+18.155.102.164:80 - Заголовок не найден
+54.172.185.94:80 - 503 Service Temporarily Unavailable
