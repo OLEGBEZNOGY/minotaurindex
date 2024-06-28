@@ -76,3 +76,45 @@
 23.9.178.54:80 - Заголовок не найден
 3.120.237.137:80 - Заголовок не найден
 213.246.62.222:80 - Web Server's Default Page
+104.104.74.131:80 - Заголовок не найден
+142.93.231.222:80 - Altanos Restaurant
+68.178.146.149:80 - Hemant Kumar Singh - Unemployment is An Excuse
+172.67.9.41:80 - Direct IP access not allowed | Cloudflare
+173.233.87.21:80 - Vietnam Travel Planning &#8211; Plan a Trip To vietnam
+170.10.160.210:80 - Congratulations! You have successfully set up your website!
+69.60.110.195:80 - Заголовок не найден
+172.67.200.23:80 - Direct IP access not allowed | Cloudflare
+54.230.206.219:80 - Заголовок не найден
+92.117.111.2:80 - Hello! Welcome to Synology Web Station!
+23.218.50.212:80 - Заголовок не найден
+46.175.153.205:80 - ERROR: The requested URL could not be retrieved
+52.247.156.56:80 - Заголовок не найден
+211.230.128.153:80 - Apache Tomcat/5.5.23
+47.254.248.119:80 - Apache HTTP Server Test Page powered by CentOS
+45.9.43.90:80 - Заголовок не найден
+2.21.235.104:80 - Заголовок не найден
+34.107.169.83:80 - Заголовок не найден
+23.223.111.52:80 - Заголовок не найден
+212.115.110.20:80 - Apache2 Ubuntu Default Page: It works
+18.155.246.52:80 - Заголовок не найден
+162.159.200.71:80 - Direct IP access not allowed | Cloudflare
+88.28.194.24:80 - Teltonika Networks
+167.249.26.229:80 - Intelbras
+134.73.93.148:80 - 403 Forbidden
+46.242.157.161:80 - Strona w przygotowaniu
+80.158.91.14:80 - Athena Box Status
+23.50.173.25:80 - Заголовок не найден
+38.31.214.24:80 - Заголовок не найден
+105.76.251.107:80 - &#72;&#50;&#56;&#56;&#65;
+104.16.11.109:80 - Direct IP access not allowed | Cloudflare
+43.133.206.101:80 - Honey Honey
+178.208.243.154:80 - 403 Forbidden
+172.64.154.225:80 - Direct IP access not allowed | Cloudflare
+23.32.252.207:80 - Заголовок не найден
+133.137.253.27:80 - Заголовок не найден
+82.196.8.175:80 - Thomas Herzog
+91.202.196.222:80 - Error 404 (Not Found)!!1
+64.23.170.19:80 - FireFly
+38.154.128.202:80 - Заголовок не найден
+47.104.69.46:80 - 404 Not Found
+23.49.75.72:80 - Заголовок не найден
