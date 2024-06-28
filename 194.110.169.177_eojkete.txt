@@ -12502,3 +12502,30 @@ http://rtug.ulcc.ac.uk//
 23.207.0.153:80 - Заголовок не найден
 154.30.253.194:80 - ERROR: The requested URL could not be retrieved
 23.49.95.127:80 - Заголовок не найден
+52.64.236.185:80 - Prometheus Time Series Collection and Processing Server
+35.247.141.134:80 - 404 Not Found
+52.247.214.114:80 - 52.247.214.114 - /
+173.232.92.99:80 - 404 Not Found
+199.232.8.70:80 - Fastly error: unknown domain 199.232.8.70
+52.191.175.88:80 - Echelberger & Associates
+113.11.237.98:80 - The URL you requested has been blocked
+111.48.106.76:80 - Заголовок не найден
+87.120.83.166:80 - Default Site
+54.233.106.75:80 - Заголовок не найден
+188.128.230.148:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+23.212.10.216:80 - Заголовок не найден
+188.245.52.116:80 - Test Page for the Nginx HTTP Server
+101.254.145.8:80 - æ ååºéå®æ¹ç½ç«
+65.8.4.91:80 - Заголовок не найден
+82.213.198.17:80 - Default Site
+54.36.181.109:80 - Заголовок не найден
+202.91.242.19:80 - Заголовок не найден
+104.167.65.117:80 - 403 Forbidden
+77.21.174.212:80 - appserver/Login
+185.69.69.151:80 - Login | Freenetis HovNet
+193.29.12.25:80 - 500 Internal Server Error
+69.192.112.220:80 - Заголовок не найден
+23.95.219.4:80 - 407 Proxy Authentication Required
+95.163.222.16:80 - Welcome to nginx!
+35.185.144.213:80 - 500 Internal Server Error
+92.247.205.248:80 - 
