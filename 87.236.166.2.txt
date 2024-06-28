@@ -2574,3 +2574,12 @@
 192.249.126.123:80 - Welcome to nginx!
 81.0.236.227:80 - Welcome to nginx!
 78.47.243.155:80 - Заголовок не найден
+217.160.59.254:80 - IIS Windows Server
+173.9.112.125:80 - XYZ Sheet Metal, Inc. - Remote Web Access
+193.168.252.9:80 - Apache2 Debian Default Page: It works
+95.101.127.130:80 - Заголовок не найден
+38.177.205.98:80 - 403 Forbidden
+209.236.118.222:80 - æ²¡ææ¾å°ç«ç¹
+104.27.108.53:80 - Direct IP access not allowed | Cloudflare
+13.125.130.157:80 - Kakao i Connect Live 커뮤니티
+120.26.60.53:80 - 【北京写字楼出租_北京办公楼出租_北京办公室租赁】-北京速读网
