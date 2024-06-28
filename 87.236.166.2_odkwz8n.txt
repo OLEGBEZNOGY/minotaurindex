@@ -3088,3 +3088,10 @@
 54.36.72.195:80 - Macrosistemas â Eac â Soluciones informÃ¡ticas para la Pyme, ERP, Pdas, Web
 184.24.0.14:80 - Заголовок не найден
 138.68.177.27:80 - 404 Not Found
+193.28.185.184:80 - Welcome to nginx!
+190.181.26.106:80 - Apache2 Debian Default Page: It works
+18.67.51.70:80 - Заголовок не найден
+18.66.180.71:80 - Заголовок не найден
+72.255.1.12:80 - 
+104.21.6.179:80 - Direct IP access not allowed | Cloudflare
+93.89.101.200:80 - Заголовок не найден
