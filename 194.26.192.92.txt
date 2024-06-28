@@ -720,3 +720,11 @@
 127.241.82.109:80 - IIS Windows Server
 66.225.237.242:80 - 403 Forbidden
 127.60.151.54:80 - IIS Windows Server
+3.84.33.142:80 - Demo-Trade Center
+54.69.209.84:80 - Заголовок не найден
+201.131.96.184:80 - Grupo UDA - Login
+3.122.133.211:80 - HTTP Status 404 – Not Found
+20.86.233.202:80 - Заголовок не найден
+41.35.162.4:80 - 
+127.190.243.29:80 - IIS Windows Server
+20.75.251.85:80 - Your Azure Function App is up and running.
