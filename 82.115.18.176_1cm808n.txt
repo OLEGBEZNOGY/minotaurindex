@@ -570,3 +570,30 @@
 5.2.208.157:80 - Apache2 Debian Default Page: It works
 162.192.163.154:80 - The page is temporarily unavailable
 62.109.228.157:80 - Заголовок не найден
+173.232.93.147:80 - 403 Forbidden
+198.204.224.26:80 - Apache2 Ubuntu Default Page: It works
+18.65.188.184:80 - Заголовок не найден
+150.230.67.247:80 - Welcome to nginx!
+50.2.122.195:80 - 500 Internal Server Error
+104.116.96.63:80 - Заголовок не найден
+38.47.220.23:80 - AI Web
+14.50.28.42:80 - 
+23.61.104.242:80 - Заголовок не найден
+188.34.163.70:80 - 404 Not Found
+176.62.226.111:80 - Hello! Welcome to Synology Web Station!
+35.198.64.143:80 - Welcome to nginx!
+165.75.4.149:80 - Wespath Plan Sponsor &amp; Institutional Investor Portal
+3.163.83.224:80 - Заголовок не найден
+141.138.142.98:80 - 403 Forbidden
+18.165.66.158:80 - Заголовок не найден
+47.39.39.191:80 - 
+184.50.144.154:80 - Заголовок не найден
+172.67.97.6:80 - Direct IP access not allowed | Cloudflare
+79.96.236.128:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+23.44.12.132:80 - Заголовок не найден
+52.198.91.115:80 - インターネットサービスプロバイダー　U-BB
+23.231.45.249:80 - 403 Forbidden
+23.192.145.61:80 - Заголовок не найден
+75.10.173.15:80 - Welcome to nginx!
+91.84.188.196:80 - 401 Unauthorized
+90.202.248.85:80 - Заголовок не найден
