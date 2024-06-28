@@ -4257,3 +4257,37 @@
 64.225.92.31:80 - Заголовок не найден
 65.9.17.132:80 - Заголовок не найден
 23.1.30.220:80 - Заголовок не найден
+120.136.14.81:80 - ç¡å¹ãªURLã§ã
+38.38.102.212:80 - 404 Not Found
+104.23.106.97:80 - Direct IP access not allowed | Cloudflare
+23.214.204.133:80 - Заголовок не найден
+35.243.219.153:80 - Index of /
+194.87.11.143:80 - Apache2 Ubuntu Default Page: It works
+193.176.245.170:80 - 500 Internal Server Error
+81.36.143.229:80 - Apache2 Ubuntu Default Page: It works
+208.113.147.14:80 - Site not found &middot; DreamHost
+83.65.173.215:80 - 403 Forbidden
+198.15.2.17:80 - Space Science Website Template
+54.248.218.123:80 - 403 Forbidden
+84.242.135.214:80 - RouterOS router configuration page
+185.253.104.177:80 - Заголовок не найден
+164.155.151.197:80 - 404 Not Found
+187.208.67.114:80 - 
+136.144.155.209:80 - Заголовок не найден
+23.231.139.247:80 - 403 Forbidden
+20.232.253.155:80 - Microsoft Azure Web App - Error 404
+188.40.3.26:80 - konsoleH :: Login
+190.185.206.221:80 - mikrotik routeros > administration
+42.200.34.66:80 - Заголовок не найден
+122.100.64.123:80 - DVR
+169.48.66.142:80 - Data Recovery Software and Services - QueTek&trade; Consulting Corporation
+104.108.101.75:80 - Заголовок не найден
+5.135.77.6:80 - Web Server's Default Page
+151.101.123.204:80 - Fastly error: unknown domain 151.101.123.204
+23.58.216.185:80 - Заголовок не найден
+51.105.47.114:80 - Index of /
+38.207.125.134:80 - 400 Bad Request
+79.99.29.192:80 - Direct IP access not allowed | Cloudflare
+154.220.47.37:80 - 403 Forbidden
+133.110.168.50:80 - Заголовок не найден
+3.5.216.54:80 - Amazon S3 - Cloud Object Storage  - AWS
