@@ -1384,3 +1384,19 @@
 52.17.62.111:80 - Welcome to nginx!
 23.49.115.229:80 - Заголовок не найден
 104.237.59.42:80 - Заголовок не найден
+128.199.118.218:80 - 403 Forbidden
+108.139.43.205:80 - Заголовок не найден
+13.237.80.147:80 - Market Research Recruitment Australia | Focus People
+3.39.184.108:80 - ì¸ì²ë©íìº í¼ì¤
+190.93.246.118:80 - Direct IP access not allowed | Cloudflare
+179.53.82.230:80 - 
+69.147.82.85:80 - Yahoo
+18.239.28.39:80 - Заголовок не найден
+107.149.95.8:80 - Заголовок не найден
+13.249.179.63:80 - Заголовок не найден
+107.148.207.53:80 - Welcome to nginx!
+103.236.145.6:80 - ★グラビアコレクション★
+144.202.28.215:80 - Unknown Domain
+38.153.93.114:80 - ERROR: The requested URL could not be retrieved
+187.22.91.33:80 - Intelbras
+118.99.45.100:80 - Apache HTTP Server Test Page powered by CentOS
