@@ -3905,3 +3905,55 @@
 96.31.46.66:80 - ICIA
 18.139.151.182:80 - 403 Forbidden
 75.75.237.102:80 - 403 Forbidden
+54.192.57.55:80 - Заголовок не найден
+67.210.208.34:80 - Заголовок не найден
+205.174.162.246:80 - Redirecting, please wait...
+207.106.214.5:80 - Заголовок не найден
+108.156.93.160:80 - Заголовок не найден
+85.69.223.233:80 - explorer
+52.216.90.18:80 - Amazon S3 - Cloud Object Storage  - AWS
+93.127.165.5:80 - 409 Conflict
+23.198.188.48:80 - Заголовок не найден
+23.48.229.182:80 - Заголовок не найден
+50.172.48.201:80 - Staffing Agency - Temp Agency | CareersUSA
+172.118.227.53:80 - 
+178.63.142.41:80 - Institut für Hautästhetik &amp; Schönheit ꟾ FineSkin
+103.166.174.41:80 - 403 Forbidden
+204.114.78.255:80 - Заголовок не найден
+146.75.122.23:80 - Fastly error: unknown domain 146.75.122.23
+122.116.164.86:80 - 
+164.92.114.89:80 - Apache2 Ubuntu Default Page: It works
+87.14.39.212:80 - Заголовок не найден
+80.211.121.134:80 - Apache2 Ubuntu Default Page: It works
+199.232.24.219:80 - Fastly error: unknown domain 199.232.24.219
+212.195.66.71:80 - Calendar maker
+39.107.244.136:80 - Index of /
+107.175.141.126:80 - 407 Proxy Authentication Required
+104.24.13.252:80 - Direct IP access not allowed | Cloudflare
+23.254.244.141:80 - TenchisTV
+106.127.133.116:80 - Заголовок не найден
+104.30.128.49:80 - Заголовок не найден
+46.242.203.162:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+191.233.242.32:80 - Заголовок не найден
+116.153.6.10:80 - 404 Not Found
+18.238.51.175:80 - Заголовок не найден
+170.130.8.157:80 - 403 Forbidden
+35.169.173.53:80 - Заголовок не найден
+188.34.156.161:80 - 503 Service Temporarily Unavailable
+82.166.161.146:80 - Index of /
+193.105.62.164:80 - RouterOS router configuration page
+91.216.57.46:80 - Please wait, the page is opening...
+104.17.117.97:80 - Direct IP access not allowed | Cloudflare
+66.215.247.226:80 - 
+85.130.230.136:80 - WEB SERVICE
+193.51.36.15:80 - 401 Authorization Required
+154.209.129.248:80 - Apache HTTP Server Test Page powered by CentOS
+73.250.231.138:80 - 
+85.215.40.193:80 - strapi-solutions.timeghost.io | 502: Bad gateway
+23.206.70.216:80 - Заголовок не найден
+37.187.19.120:80 - Заголовок не найден
+23.222.84.101:80 - Заголовок не найден
+45.88.193.62:80 - 404 Not Found
+23.10.185.248:80 - Заголовок не найден
+38.47.56.140:80 - 403 Forbidden
+85.192.1.73:80 - Please login
