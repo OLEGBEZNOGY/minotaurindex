@@ -386,3 +386,80 @@
 104.98.219.233:80 - Заголовок не найден
 74.82.62.79:80 - Tony Robbins - The Official Website of Tony Robbins
 134.209.202.95:80 - Zshell Command Center
+34.239.252.58:80 - BrefApp - Free Book Chapters
+62.116.154.94:80 - Dummy Webseite
+188.120.240.53:80 - Welcome!
+31.173.27.14:80 - Заголовок не найден
+23.199.30.45:80 - Заголовок не найден
+192.0.73.215:80 - Заголовок не найден
+43.207.165.210:80 - ããã - ä¸­æç¸è«å½¹ãå¥ãã®ä¼ãã¼ã¿ãµã¤ã
+23.60.219.65:80 - Заголовок не найден
+202.61.244.249:80 - Заголовок не найден
+96.16.25.74:80 - Заголовок не найден
+98.64.72.21:80 - Your Azure Function App is up and running.
+107.151.111.30:80 - 403 Forbidden
+20.61.10.242:80 - Microsoft Azure Web App - Error 404
+196.51.156.188:80 - ERROR: The requested URL could not be retrieved
+40.67.156.194:80 - Заголовок не найден
+142.58.130.34:80 - Заголовок не найден
+222.194.30.144:80 - 404 Not Found
+104.18.172.126:80 - Direct IP access not allowed | Cloudflare
+23.205.234.42:80 - Заголовок не найден
+54.75.174.165:80 - Заголовок не найден
+38.152.251.76:80 - ERROR: The requested URL could not be retrieved
+54.244.28.74:80 - Oops
+23.216.255.10:80 - Заголовок не найден
+195.63.60.130:80 - Заголовок не найден
+104.115.15.189:80 - Заголовок не найден
+2.23.222.18:80 - Заголовок не найден
+154.30.243.146:80 - Заголовок не найден
+35.201.54.54:80 - 35.201.54.54.corp.google.com - Google Single Sign On: Sign into corp
+140.248.146.119:80 - Fastly error: unknown domain 140.248.146.119
+179.48.79.11:80 - RouterOS
+87.57.209.198:80 - ATU webkonfiguration
+200.234.183.239:80 - Заголовок не найден
+211.230.209.30:80 - WEB SERVICE
+18.165.213.137:80 - Заголовок не найден
+80.79.22.104:80 - 404 Not Found
+101.71.70.109:80 - 403 Forbidden
+212.51.27.229:80 - Gitea: Git with a cup of tea
+147.210.120.101:80 - Apache2 Ubuntu Default Page: It works
+23.211.150.141:80 - Заголовок не найден
+23.33.147.131:80 - Заголовок не найден
+134.197.22.18:80 - Заголовок не найден
+39.105.48.15:80 - ç½ç«è®¿é®æ¥é
+192.89.80.15:80 - Visma Sirius - Ratkaisut digitaaliseen kiinteistönhallintaan
+3.98.108.250:80 - Welcome to nginx!
+12.221.62.171:80 - 403 - Forbidden: Access is denied.
+5.252.232.230:80 - Заголовок не найден
+144.76.12.204:80 - Spider Authentication
+52.217.128.43:80 - Amazon S3 - Cloud Object Storage  - AWS
+173.222.105.26:80 - Заголовок не найден
+51.140.241.175:80 - 404 Not Found
+95.217.175.111:80 - Заголовок не найден
+216.115.184.239:80 - 403 Forbidden
+89.25.152.217:80 - Заголовок не найден
+198.55.118.138:80 - Just a moment...
+73.252.189.6:80 - Default Site
+20.122.169.196:80 - Autenticación - GLPI
+18.209.183.176:80 - Error
+104.18.191.221:80 - Direct IP access not allowed | Cloudflare
+208.112.85.168:80 - Default Index Page
+185.17.107.144:80 - Ingrosso Prodotti Monouso - Effe2cart
+80.71.237.209:80 - Apache2 Debian Default Page: It works
+88.117.105.94:80 - Webinterface
+144.24.65.50:80 - Welcome to nginx!
+104.17.42.98:80 - Direct IP access not allowed | Cloudflare
+139.64.132.2:80 - Web user login
+23.54.239.195:80 - Заголовок не найден
+92.123.59.190:80 - Заголовок не найден
+80.97.43.35:80 - 404 Not Found
+8.208.14.68:80 - Apache HTTP Server Test Page powered by CentOS
+152.199.1.29:80 - 404 - Not Found
+188.172.229.50:80 - Default Site
+86.160.74.82:80 - 
+47.138.205.151:80 - CMS Web Viewer
+74.104.182.36:80 - Network Camera VB-M40
+184.73.157.232:80 - Заголовок не найден
+184.86.165.83:80 - Заголовок не найден
+108.181.101.28:80 - 
