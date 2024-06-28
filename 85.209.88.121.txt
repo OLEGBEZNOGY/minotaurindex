@@ -3964,3 +3964,9 @@
 78.92.172.46:80 - Заголовок не найден
 116.80.88.114:80 - Web Server's Default Page
 211.110.226.88:80 - Welcome to nginx!
+108.141.246.246:80 - Azure Container App - Unavailable
+104.17.248.49:80 - Direct IP access not allowed | Cloudflare
+185.216.126.63:80 - Apache2 Ubuntu Default Page: It works
+24.233.223.131:80 - Overview - XM31-918-HP
+210.175.117.130:80 - LIXIL | GNXeA
+172.66.150.36:80 - Direct IP access not allowed | Cloudflare
