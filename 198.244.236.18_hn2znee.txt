@@ -2676,3 +2676,180 @@
 54.65.124.11:80 - 401 Authorization Required
 185.22.60.56:80 - Metabase
 35.215.98.101:80 - Заголовок не найден
+13.70.132.212:80 - Your Azure Function App is up and running.
+104.107.180.15:80 - Заголовок не найден
+3.131.224.8:80 - 404 Not Found
+157.245.37.166:80 - 404 Not Found
+5.254.124.83:80 - Web Server's Default Page
+127.150.65.181:80 - IIS Windows Server
+47.101.167.66:80 - kafka-ui-lite
+184.27.148.39:80 - Заголовок не найден
+127.197.186.238:80 - IIS Windows Server
+186.27.129.227:80 - 
+127.255.188.23:80 - IIS Windows Server
+3.163.135.123:80 - Заголовок не найден
+154.213.119.41:80 - 404 Not Found
+183.82.102.10:80 - eTimeTrackLite Server Online
+50.62.185.78:80 - Impact Medical | Log In
+84.205.223.205:80 - Bitnami Moodle Stack
+96.90.219.221:80 - Document Moved
+127.238.28.199:80 - IIS Windows Server
+59.127.54.130:80 - Заголовок не найден
+217.160.197.114:80 - 403 Forbidden
+108.237.143.125:80 - Document Moved
+127.193.210.194:80 - IIS Windows Server
+143.198.118.27:80 - Заголовок не найден
+127.220.35.158:80 - IIS Windows Server
+84.0.75.8:80 - 
+127.247.124.108:80 - IIS Windows Server
+154.206.140.11:80 - 403 Forbidden
+104.102.38.67:80 - Заголовок не найден
+150.171.66.19:80 - Заголовок не найден
+87.145.57.21:80 - 
+173.222.205.218:80 - Заголовок не найден
+18.172.29.52:80 - Заголовок не найден
+152.160.244.97:80 - Заголовок не найден
+127.26.13.62:80 - IIS Windows Server
+18.160.131.185:80 - Заголовок не найден
+127.204.194.124:80 - IIS Windows Server
+216.194.169.179:80 - InMotion Hosting
+5.135.223.78:80 - Serveur de secours StadLine
+52.62.116.167:80 - 502 Bad Gateway
+127.232.180.154:80 - IIS Windows Server
+185.90.97.20:80 - Web Server's Default Page
+127.194.77.146:80 - IIS Windows Server
+13.226.226.244:80 - Заголовок не найден
+127.49.65.156:80 - IIS Windows Server
+127.178.72.220:80 - IIS Windows Server
+184.26.115.159:80 - Заголовок не найден
+121.78.91.84:80 - Заголовок не найден
+34.107.102.192:80 - Apache2 Ubuntu Default Page: It works
+23.37.96.141:80 - Заголовок не найден
+127.51.247.32:80 - IIS Windows Server
+127.52.90.89:80 - IIS Windows Server
+159.69.2.82:80 - Login
+199.231.189.142:80 - HU Estimates - Data science and software development
+127.91.97.164:80 - IIS Windows Server
+23.56.216.171:80 - Заголовок не найден
+83.133.240.211:80 - Default Parallels Plesk Page
+127.7.7.160:80 - IIS Windows Server
+104.168.183.146:80 - About vTuner
+127.95.119.10:80 - IIS Windows Server
+23.12.119.244:80 - Заголовок не найден
+116.62.65.111:80 - Заголовок не найден
+127.71.6.197:80 - IIS Windows Server
+216.119.70.231:80 - Заголовок не найден
+52.217.72.2:80 - Amazon S3 - Cloud Object Storage  - AWS
+59.115.196.172:80 - 
+127.240.0.54:80 - IIS Windows Server
+127.134.46.38:80 - IIS Windows Server
+184.24.84.131:80 - Заголовок не найден
+146.75.8.209:80 - Fastly error: unknown domain 146.75.8.209
+213.97.84.253:80 - 
+59.126.195.95:80 - 
+184.24.177.129:80 - Заголовок не найден
+127.227.113.81:80 - IIS Windows Server
+146.88.238.58:80 - Заголовок не найден
+156.110.41.179:80 - perfSONAR Toolkit
+151.236.102.201:80 - 403 Forbidden
+198.186.130.55:80 - Sorry, the website has been stopped
+127.170.245.98:80 - IIS Windows Server
+95.100.43.178:80 - Заголовок не найден
+124.239.238.117:80 - 403 Forbidden
+184.31.2.80:80 - Заголовок не найден
+2.23.240.61:80 - Заголовок не найден
+164.155.171.183:80 - 404 Not Found
+61.245.24.34:80 - Dell SonicWALL - Authentication
+127.18.183.65:80 - IIS Windows Server
+127.39.195.123:80 - IIS Windows Server
+107.175.233.114:80 - 500 Internal Server Error
+86.125.7.142:80 - 
+104.17.194.201:80 - Direct IP access not allowed | Cloudflare
+127.111.6.14:80 - IIS Windows Server
+51.68.230.198:80 - 403 Forbidden
+85.130.213.110:80 - 
+81.109.178.5:80 - Control4, A Snap One Company
+38.6.92.193:80 - Welcome to nginx!
+77.244.68.53:80 - Заголовок не найден
+127.255.241.179:80 - IIS Windows Server
+182.92.170.148:80 - æ­åï¼ç«ç¹åå»ºæåï¼
+127.81.233.177:80 - IIS Windows Server
+127.195.7.99:80 - IIS Windows Server
+210.247.253.149:80 - Yulongnet
+163.30.20.140:80 - Заголовок не найден
+195.113.139.172:80 - Welcome to nginx!
+127.125.51.3:80 - IIS Windows Server
+3.134.197.112:80 - Заголовок не найден
+127.219.202.34:80 - IIS Windows Server
+52.218.216.146:80 - Amazon S3 - Cloud Object Storage  - AWS
+127.12.103.26:80 - IIS Windows Server
+127.170.155.116:80 - IIS Windows Server
+191.101.15.181:80 - 404 Not Found
+139.87.74.46:80 - Заголовок не найден
+114.215.19.36:80 - Заголовок не найден
+3.33.148.132:80 - 404 Not Found
+184.24.181.254:80 - Заголовок не найден
+81.215.141.97:80 - 
+104.251.74.37:80 - Заголовок не найден
+59.183.195.5:80 - Заголовок не найден
+127.181.7.82:80 - IIS Windows Server
+49.158.244.183:80 - Заголовок не найден
+13.227.90.136:80 - Заголовок не найден
+127.88.204.186:80 - IIS Windows Server
+127.249.190.91:80 - IIS Windows Server
+127.188.41.130:80 - IIS Windows Server
+217.196.53.193:80 - 403 Forbidden
+127.92.10.40:80 - IIS Windows Server
+212.30.190.10:80 - 403 Forbidden
+127.59.86.15:80 - IIS Windows Server
+13.32.63.39:80 - Заголовок не найден
+127.200.131.17:80 - IIS Windows Server
+154.23.247.161:80 - Заголовок не найден
+190.204.197.85:80 - 
+3.149.245.106:80 - 403 Forbidden
+103.130.113.250:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+89.117.37.112:80 - 404 Not Found
+185.161.94.40:80 - 500 Internal Server Error
+127.188.84.206:80 - IIS Windows Server
+170.78.31.85:80 - 
+27.124.203.12:80 - WEB SERVICE
+154.206.208.142:80 - 502 Bad Gateway
+96.9.27.249:80 - 403 Forbidden
+127.97.170.18:80 - IIS Windows Server
+43.228.77.54:80 - Заголовок не найден
+62.4.17.47:80 - Notes
+127.158.187.169:80 - IIS Windows Server
+127.238.108.44:80 - IIS Windows Server
+194.187.142.11:80 - Parallels Confixx
+154.220.85.177:80 - 404 Not Found
+3.139.31.44:80 - Welcome to nginx!
+127.64.177.217:80 - IIS Windows Server
+127.34.206.225:80 - IIS Windows Server
+111.235.211.189:80 - AppServ Open Project 2.5.10
+157.158.66.210:80 - Заголовок не найден
+127.223.182.107:80 - IIS Windows Server
+47.90.206.108:80 - Apache Tomcat/7.0.79 - Error report
+127.75.253.194:80 - IIS Windows Server
+2.22.6.132:80 - Заголовок не найден
+127.70.59.27:80 - IIS Windows Server
+23.56.198.247:80 - Заголовок не найден
+113.43.244.35:80 - IIS7
+127.216.19.109:80 - IIS Windows Server
+127.74.121.102:80 - IIS Windows Server
+23.14.132.69:80 - Заголовок не найден
+104.110.22.140:80 - Заголовок не найден
+70.38.2.71:80 - FreePBX Administration
+127.183.60.84:80 - IIS Windows Server
+23.34.166.37:80 - Заголовок не найден
+211.172.249.183:80 - 유웨이, 합격으로 가는 길
+64.176.208.61:80 - Unknown Domain
+15.185.235.70:80 - 503 Service Temporarily Unavailable
+127.141.153.13:80 - IIS Windows Server
+208.110.70.195:80 - 404 Not Found
+194.39.65.43:80 - Заголовок не найден
+127.108.220.3:80 - IIS Windows Server
+127.227.135.13:80 - IIS Windows Server
+96.46.181.245:80 - 403 Forbidden
+18.239.159.71:80 - Заголовок не найден
+52.58.181.100:80 - Login | jobs.solar
+116.63.163.97:80 - Заголовок не найден
