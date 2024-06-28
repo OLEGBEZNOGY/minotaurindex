@@ -1642,3 +1642,21 @@
 23.33.210.92:80 - Заголовок не найден
 190.15.244.172:80 - Ubiquiti
 23.203.122.45:80 - Заголовок не найден
+38.152.242.132:80 - Заголовок не найден
+111.225.211.188:80 - 403 Forbidden
+68.171.36.50:80 - Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
+170.75.247.187:80 - Connection denied by Geolocation
+81.169.195.139:80 - Web Server's Default Page
+18.155.71.227:80 - Заголовок не найден
+167.99.72.148:80 - Apache2 Ubuntu Default Page: It works
+8.208.96.149:80 - Apache HTTP Server Test Page powered by CentOS
+23.62.148.206:80 - Error
+154.92.88.119:80 - 403 Forbidden
+104.110.1.152:80 - Заголовок не найден
+3.9.241.89:80 - Заголовок не найден
+193.46.196.240:80 - 403 Forbidden
+142.171.166.89:80 - Welcome to nginx!
+177.220.129.77:80 - 403 Forbidden
+104.16.6.41:80 - Direct IP access not allowed | Cloudflare
+23.214.102.78:80 - Заголовок не найден
+103.193.138.85:80 - Default Site
