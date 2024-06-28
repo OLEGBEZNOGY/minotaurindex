@@ -6249,3 +6249,12 @@ Cada día más cerca de nuestros clientes
 3.125.237.54:80 - 404 Not Found
 101.100.243.109:80 - 403 Forbidden
 128.140.219.107:80 - Заголовок не найден
+209.126.122.89:80 - Workshop Conexão Gestão de Pessoas
+23.7.16.84:80 - Заголовок не найден
+47.100.228.125:80 - Welcome to nginx!
+13.225.86.0:80 - Заголовок не найден
+89.45.252.8:80 - Apache2 Ubuntu Default Page: It works
+23.13.153.178:80 - Заголовок не найден
+154.64.119.72:80 - IIS Windows Server
+82.208.22.132:80 - 404 Not Found
+78.29.38.0:80 - Заголовок не найден
