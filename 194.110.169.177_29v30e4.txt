@@ -5173,3 +5173,34 @@
 18.188.249.59:80 - Gravity Haus API @ Gravity Haus
 108.139.5.244:80 - Заголовок не найден
 71.191.53.127:80 - Alex Coy
+104.196.71.179:80 - ZiiZii Login
+59.25.243.131:80 - WEB SERVICE
+23.197.137.7:80 - Заголовок не найден
+130.61.123.64:80 - 404 Not Found
+15.206.139.8:80 - 503 Service Temporarily Unavailable
+104.86.165.148:80 - Заголовок не найден
+1.201.148.132:80 - Apache HTTP Server Test Page powered by CentOS
+18.236.19.7:80 - Home - VirASTRAL: AI Startup Studio
+185.68.22.211:80 - 403 Forbidden
+2.21.177.3:80 - Заголовок не найден
+108.141.245.130:80 - Your Azure Function App is up and running.
+52.62.151.226:80 - Making multicultural Australia | Teacher and student resources on multiculturalism, cultural diversity and tolerance
+108.138.179.154:80 - Заголовок не найден
+37.117.218.103:80 - 
+117.243.113.100:80 - Заголовок не найден
+87.128.45.72:80 - Default Site
+3.36.16.107:80 - 이행점검
+89.116.190.248:80 - 403 Forbidden
+104.79.225.252:80 - Заголовок не найден
+174.115.207.7:80 - SonicWall - Authentication
+184.87.23.36:80 - Заголовок не найден
+54.171.253.69:80 - Welcome to nginx!
+120.53.213.99:80 - 404 - Not Found
+184.28.29.20:80 - Заголовок не найден
+195.133.13.12:80 - Welcome to nginx!
+104.93.102.77:80 - Заголовок не найден
+52.57.195.76:80 - 403 Forbidden
+172.67.239.213:80 - Direct IP access not allowed | Cloudflare
+192.184.84.160:80 - LOGAN SQUARE ANIMAL HOSPITAL
+108.156.6.164:80 - Заголовок не найден
+23.222.185.110:80 - Заголовок не найден
