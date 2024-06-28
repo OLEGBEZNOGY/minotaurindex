@@ -1,3 +1,7 @@
 144.24.211.234:80 - 404 Not Found
 200.98.112.200:80 - Заголовок не найден
 38.14.103.78:80 - 404 Not Found
+54.158.103.193:80 - 403 Forbidden
+147.219.111.226:80 - 
+20.74.234.131:80 - Error | We couldn't find what you were looking for!
+2.135.145.25:80 - GPON Home Gateway
