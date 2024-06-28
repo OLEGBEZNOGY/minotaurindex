@@ -1505,3 +1505,22 @@
 23.200.152.225:80 - Заголовок не найден
 178.248.236.233:80 - Apache2 Ubuntu Default Page: It works
 23.57.35.68:80 - Заголовок не найден
+209.250.243.96:80 - Unknown Domain
+85.153.50.79:80 - Index of /
+178.128.30.83:80 - Link Alternatif Login Fatcai - Daftar Situs Puli Toto Terpercaya!
+13.33.77.9:80 - Заголовок не найден
+134.73.36.241:80 - Home | 134.73.36.241
+65.8.113.71:80 - Заголовок не найден
+129.204.226.184:80 - 404 Not Found
+52.2.200.199:80 - Welcome to nginx!
+45.76.154.214:80 - SOI CAU – SOI CẦU – 3 CÀNG – CẦU VIP – CỰC CHUẨN &#8211; DU DOAN XSMB – SOI CẦU – XỔ SỐ 3 MIỀN – XIÊN 2 – 3 – DÀN LÔ 2 NHÁY , DÀN ĐỀ SIÊU VIP
+43.200.62.130:80 - AnimalSavior Dev CMS Login
+50.31.194.49:80 - 403 - Forbidden: Access is denied.
+81.200.50.87:80 - 403 Forbidden
+102.32.211.216:80 - 
+43.201.92.20:80 - Заголовок не найден
+23.63.68.33:80 - Заголовок не найден
+203.30.164.131:80 - Site Not Found
+38.63.132.144:80 - 404 Not Found
+190.166.157.214:80 - 
+104.77.19.152:80 - Заголовок не найден
