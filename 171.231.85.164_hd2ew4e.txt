@@ -4,3 +4,9 @@
 198.52.134.234:80 - hue personal wireless lighting
 76.173.231.216:80 - 
 115.23.115.194:80 - Web user login
+89.6.255.137:80 - 403 Forbidden
+44.209.241.4:80 - 
+38.11.220.185:80 - Welcome to nginx!
+62.212.225.242:80 - RouterOS
+200.90.145.33:80 - ONT-4GE-2VW
+20.253.23.11:80 - Your Azure Function App is up and running.
