@@ -5861,3 +5861,12 @@
 13.35.172.189:80 - Заголовок не найден
 87.98.240.250:80 - Index of /
 45.200.224.163:80 - 404 Not Found
+38.33.71.210:80 - Welcome to nginx!
+35.158.181.5:80 - Deweloper TrÃ³jmiasto - SprzedaÅ¼ mieszkaÅ i domÃ³w na rynku pierwotnym.
+46.41.175.153:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+173.68.175.9:80 - Document Moved
+183.224.1.9:80 - 403 Forbidden
+104.68.11.71:80 - Заголовок не найден
+159.65.89.240:80 - 404 Not Found
+110.159.84.52:80 - Заголовок не найден
+137.184.72.9:80 - Заголовок не найден
