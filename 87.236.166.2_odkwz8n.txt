@@ -1516,3 +1516,9 @@
 178.236.238.101:80 - Заголовок не найден
 64.23.249.176:80 - Ruby on Rails 7.0.4.2
 94.229.166.11:80 - Apache HTTP Server Test Page powered by CentOS
+23.39.96.126:80 - Заголовок не найден
+5.251.195.140:80 - GPON Home Gateway
+184.26.147.180:80 - Заголовок не найден
+132.148.96.89:80 - Jokes4us.com - Adult Jokes, Dirty Jokes, Funny Jokes, Blonde Jokes
+202.61.194.134:80 - Web Server's Default Page
+108.138.134.3:80 - Заголовок не найден
