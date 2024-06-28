@@ -10403,3 +10403,231 @@
 127.140.240.243:80 - IIS Windows Server
 154.38.98.186:80 - 403 Forbidden
 127.86.88.155:80 - IIS Windows Server
+170.10.160.64:80 - Заголовок не найден
+104.91.61.182:80 - Заголовок не найден
+185.159.153.100:80 - Заголовок не найден
+127.122.241.226:80 - IIS Windows Server
+191.82.43.53:80 - Заголовок не найден
+127.121.250.237:80 - IIS Windows Server
+127.203.202.242:80 - IIS Windows Server
+127.31.137.242:80 - IIS Windows Server
+52.30.68.82:80 - 503 Service Temporarily Unavailable
+127.210.203.28:80 - IIS Windows Server
+127.87.186.85:80 - IIS Windows Server
+144.76.107.53:80 - Заголовок не найден
+60.48.101.4:80 - WEB SERVICE
+193.190.154.184:80 - client
+23.10.61.14:80 - Заголовок не найден
+127.194.37.135:80 - IIS Windows Server
+23.223.165.55:80 - Заголовок не найден
+127.193.32.181:80 - IIS Windows Server
+13.225.9.176:80 - Заголовок не найден
+127.148.167.173:80 - IIS Windows Server
+134.236.150.240:80 - 
+31.168.25.203:80 - index
+121.46.201.180:80 - Заголовок не найден
+104.20.156.189:80 - Direct IP access not allowed | Cloudflare
+125.229.217.164:80 - WEB SERVICE
+104.98.108.139:80 - Заголовок не найден
+1.232.45.37:80 - 403 Forbidden
+127.116.188.20:80 - IIS Windows Server
+181.172.27.163:80 - Hello! Welcome to Synology Web Station!
+127.97.213.244:80 - IIS Windows Server
+127.64.161.175:80 - IIS Windows Server
+103.109.160.195:80 - RouterOS router configuration page
+127.160.221.15:80 - IIS Windows Server
+209.198.17.109:80 - 404 Not Found
+3.13.187.13:80 - Заголовок не найден
+65.0.107.173:80 - Welcome to nginx!
+104.206.89.236:80 - 404 Not Found
+34.94.215.27:80 - FileMaker Secure Website
+5.148.177.103:80 - 503 Service Temporarily Unavailable
+154.12.123.168:80 - ERROR: The requested URL could not be retrieved
+127.141.93.81:80 - IIS Windows Server
+127.245.153.71:80 - IIS Windows Server
+23.0.218.172:80 - Заголовок не найден
+54.162.153.176:80 - IIS Windows Server
+173.198.15.114:80 - 403 - Forbidden: Access is denied.
+171.97.131.80:80 - Document Error: Not Found
+127.48.197.115:80 - IIS Windows Server
+127.125.211.195:80 - IIS Windows Server
+127.166.232.180:80 - IIS Windows Server
+95.183.73.156:80 - Заголовок не найден
+127.79.80.229:80 - IIS Windows Server
+67.213.218.216:80 - Заголовок не найден
+185.139.2.47:80 - 403 Forbidden
+139.59.247.77:80 - AutoTogel | Login AutoTogel | Link Alternatif Auto Togel
+127.97.206.61:80 - IIS Windows Server
+23.199.223.225:80 - Заголовок не найден
+127.62.81.71:80 - IIS Windows Server
+127.214.40.233:80 - IIS Windows Server
+127.246.87.6:80 - IIS Windows Server
+137.135.130.94:80 - Microsoft Azure Web App - Error 404
+127.234.81.255:80 - IIS Windows Server
+127.228.61.173:80 - IIS Windows Server
+127.158.178.216:80 - IIS Windows Server
+12.234.226.27:80 - ACME Access Only
+52.28.75.50:80 - Заголовок не найден
+37.72.186.234:80 - 407 Proxy Authentication Required
+156.229.48.80:80 - Direct IP access not allowed | Cloudflare
+127.230.107.21:80 - IIS Windows Server
+151.101.130.243:80 - Fastly error: unknown domain 151.101.130.243
+204.195.61.69:80 - QUANTUM DAX
+127.114.38.169:80 - IIS Windows Server
+96.7.182.211:80 - Заголовок не найден
+108.71.163.24:80 - Enter activation key
+108.139.146.61:80 - Заголовок не найден
+127.209.135.100:80 - IIS Windows Server
+23.37.74.171:80 - Заголовок не найден
+127.193.119.76:80 - IIS Windows Server
+70.62.242.27:80 - Заголовок не найден
+23.216.185.120:80 - Заголовок не найден
+52.85.139.173:80 - Заголовок не найден
+104.223.29.19:80 - 500 Internal Server Error
+127.154.54.164:80 - IIS Windows Server
+127.9.239.153:80 - IIS Windows Server
+52.72.208.111:80 - Error
+115.71.238.208:80 - ë¦¬í¬í¸ ìë²
+34.132.176.118:80 - Guestbook
+51.103.108.224:80 - Log in!
+127.50.185.172:80 - IIS Windows Server
+111.6.231.248:80 - 403 Forbidden
+15.207.214.83:80 - Error
+162.254.186.109:80 - Connection denied by Geolocation
+23.197.102.210:80 - Заголовок не найден
+127.173.174.246:80 - IIS Windows Server
+59.110.138.238:80 - æ±æ­ï¼ç«ç¹å·²æå
+172.91.43.76:80 - Заголовок не найден
+23.79.31.153:80 - Заголовок не найден
+170.130.222.251:80 - 403 Forbidden
+127.217.128.4:80 - IIS Windows Server
+54.177.49.156:80 - Заголовок не найден
+80.152.185.131:80 - Заголовок не найден
+191.81.242.11:80 - Заголовок не найден
+127.42.2.153:80 - IIS Windows Server
+127.92.32.248:80 - IIS Windows Server
+127.114.117.227:80 - IIS Windows Server
+120.197.94.109:80 - Welcome to nginx!
+127.237.82.181:80 - IIS Windows Server
+13.35.1.134:80 - Заголовок не найден
+198.1.28.207:80 - The page you were looking for doesn't exist (404)
+127.215.201.144:80 - IIS Windows Server
+149.28.120.90:80 - Unknown Domain
+18.244.70.172:80 - Заголовок не найден
+154.55.218.28:80 - 403 Forbidden
+107.149.78.38:80 - 404 Not Found
+23.215.207.192:80 - Заголовок не найден
+193.9.49.30:80 - Direct IP access not allowed | Cloudflare
+127.20.60.20:80 - IIS Windows Server
+64.227.22.146:80 - 404 Not Found
+127.157.226.224:80 - IIS Windows Server
+23.10.183.213:80 - Заголовок не найден
+127.138.236.154:80 - IIS Windows Server
+127.155.145.54:80 - IIS Windows Server
+127.107.17.5:80 - IIS Windows Server
+18.139.122.230:80 - Заголовок не найден
+52.10.98.25:80 - Site Maintenance
+127.7.65.5:80 - IIS Windows Server
+127.173.62.51:80 - IIS Windows Server
+85.13.138.156:80 - 503 Service Temporarily Unavailable
+127.83.215.244:80 - IIS Windows Server
+38.35.68.26:80 - Products | 101 Paintings
+204.14.79.220:80 - Page not found
+96.16.71.193:80 - Заголовок не найден
+13.245.204.130:80 - 403 Forbidden
+127.0.147.43:80 - IIS Windows Server
+144.24.86.50:80 - 403 Forbidden
+185.198.164.10:80 - 404 Not Found
+94.46.181.61:80 - 403 Forbidden
+127.55.245.29:80 - IIS Windows Server
+128.17.80.158:80 - 403 - Forbidden: Access is denied.
+154.215.123.254:80 - Заголовок не найден
+127.31.123.95:80 - IIS Windows Server
+127.65.49.195:80 - IIS Windows Server
+127.39.76.4:80 - IIS Windows Server
+170.130.80.151:80 - 403 Forbidden
+194.61.225.134:80 - Заголовок не найден
+127.65.67.188:80 - IIS Windows Server
+170.249.197.38:80 - Index of /
+120.253.62.178:80 - 403 Forbidden
+127.165.130.64:80 - IIS Windows Server
+127.75.199.42:80 - IIS Windows Server
+45.63.85.247:80 - Unknown Domain
+65.60.12.98:80 - StandFast Works Forge | Custom blacksmithing and ironwork restoration in Northern New England
+38.181.188.20:80 - Заголовок не найден
+3.122.195.229:80 - Заголовок не найден
+127.107.187.108:80 - IIS Windows Server
+23.204.86.167:80 - Заголовок не найден
+127.172.78.110:80 - IIS Windows Server
+127.89.8.43:80 - IIS Windows Server
+127.213.229.174:80 - IIS Windows Server
+154.9.42.149:80 - ERROR: The requested URL could not be retrieved
+38.249.36.96:80 - 404 Not Found
+49.254.178.180:80 - Заголовок не найден
+109.160.82.15:80 - 
+127.242.201.131:80 - IIS Windows Server
+23.6.64.196:80 - Заголовок не найден
+127.1.193.133:80 - IIS Windows Server
+154.204.115.53:80 - 404 Not Found
+15.184.214.78:80 - Welcome to nginx!
+192.145.232.122:80 - Заголовок не найден
+108.157.82.49:80 - Заголовок не найден
+104.19.44.203:80 - Direct IP access not allowed | Cloudflare
+18.154.53.108:80 - Заголовок не найден
+23.205.239.185:80 - Заголовок не найден
+108.157.197.159:80 - Заголовок не найден
+107.158.41.116:80 - ERROR: The requested URL could not be retrieved
+184.26.206.172:80 - Заголовок не найден
+81.60.35.137:80 - Заголовок не найден
+103.24.203.188:80 - Web Server's Default Page
+184.25.87.133:80 - Заголовок не найден
+88.221.151.162:80 - Заголовок не найден
+147.30.165.122:80 - GPON Home Gateway
+107.149.81.211:80 - æ­åï¼ç«ç¹åå»ºæåï¼
+127.84.194.221:80 - IIS Windows Server
+99.80.182.208:80 - Заголовок не найден
+43.142.165.27:80 - æ²¡ææ¾å°ç«ç¹
+20.62.27.45:80 - Заголовок не найден
+49.44.178.240:80 - Заголовок не найден
+35.78.40.233:80 - Заголовок не найден
+127.123.189.219:80 - IIS Windows Server
+83.64.95.111:80 - 403 Forbidden
+79.127.200.161:80 - Заголовок не найден
+18.245.248.227:80 - Заголовок не найден
+45.82.74.194:80 - 403 Forbidden
+20.254.75.191:80 - Заголовок не найден
+122.35.0.160:80 - 403 Forbidden
+194.102.124.83:80 - Заголовок не найден
+38.154.14.24:80 - Заголовок не найден
+127.138.32.29:80 - IIS Windows Server
+62.113.110.80:80 - phpinfo()
+127.243.1.166:80 - IIS Windows Server
+127.103.144.191:80 - IIS Windows Server
+18.188.212.137:80 - Welcome to nginx!
+127.21.255.31:80 - IIS Windows Server
+127.94.247.240:80 - IIS Windows Server
+206.74.221.89:80 - 403 Forbidden
+173.248.188.66:80 - Заголовок не найден
+127.7.136.23:80 - IIS Windows Server
+54.234.40.60:80 - 404 Not Found
+52.49.238.100:80 - Заголовок не найден
+23.74.174.111:80 - Заголовок не найден
+20.8.44.181:80 - Your Azure Function App is up and running.
+104.18.117.23:80 - Direct IP access not allowed | Cloudflare
+34.225.113.12:80 - Cogarr.net
+2.18.247.201:80 - Заголовок не найден
+35.160.127.115:80 - 51LA--ç¨æ·ä¸­å¿è¶ç®¡
+84.43.206.21:80 - 
+107.21.102.218:80 - 503 Service Temporarily Unavailable
+127.71.202.35:80 - IIS Windows Server
+45.201.205.255:80 - 
+149.20.191.185:80 - 404 Not Found
+104.66.85.23:80 - Заголовок не найден
+23.209.4.156:80 - Заголовок не найден
+212.8.208.141:80 - Default Site
+127.129.184.136:80 - IIS Windows Server
+18.233.24.59:80 - Заголовок не найден
+127.210.129.141:80 - IIS Windows Server
+51.68.142.183:80 - 404 Not Found
+20.8.89.1:80 - Заголовок не найден
+127.39.231.209:80 - IIS Windows Server
