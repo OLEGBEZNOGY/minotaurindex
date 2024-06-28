@@ -2838,3 +2838,59 @@
 24.205.25.32:80 - 
 96.16.57.46:80 - Заголовок не найден
 54.81.250.234:80 - Default Site
+20.65.73.253:80 - Заголовок не найден
+192.190.221.247:80 - Заголовок не найден
+209.68.26.120:80 - Rising Press Film
+85.13.132.241:80 - 503 Service Temporarily Unavailable
+115.126.35.21:80 - 请使用域名访问
+31.16.197.167:80 - config_05.2022_energiekriese_2
+185.147.90.29:80 - 
+199.232.234.123:80 - Fastly error: unknown domain 199.232.234.123
+212.1.56.77:80 - Web Server's Default Page
+38.174.185.135:80 - 403 Forbidden
+23.159.168.104:80 - Page not found
+104.77.254.57:80 - Заголовок не найден
+20.121.201.75:80 - 502 Bad Gateway
+129.132.178.164:80 - ETH Alumni Lounge - Flipdotwand
+120.133.140.168:80 - Заголовок не найден
+138.186.138.203:80 - 407 Proxy Authentication Required
+89.216.112.20:80 - RouterOS router configuration page
+20.12.80.240:80 - Your Azure Function App is up and running.
+104.106.71.139:80 - Заголовок не найден
+142.251.129.63:80 - Google
+54.193.56.249:80 - Заголовок не найден
+104.16.46.56:80 - Direct IP access not allowed | Cloudflare
+45.38.164.114:80 - 404 Not Found
+178.72.247.210:80 - Intranet
+79.96.75.173:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+172.104.242.177:80 - Apache2 Ubuntu Default Page: It works
+35.73.107.226:80 - 403 Forbidden
+18.64.232.161:80 - Заголовок не найден
+94.46.122.17:80 - Markarbete TyresÃ¶. BÃ¤st pris med North Mark och Bygg AB
+66.94.69.43:80 - -
+162.215.113.15:80 - Not Acceptable!
+18.155.154.4:80 - Заголовок не найден
+46.242.159.248:80 - Strona w przygotowaniu
+3.160.25.155:80 - Заголовок не найден
+45.38.28.220:80 - 404 Not Found
+207.204.11.219:80 - 403 Forbidden
+81.169.241.78:80 - Web Server's Default Page
+104.122.124.203:80 - Заголовок не найден
+52.85.248.172:80 - Заголовок не найден
+38.6.237.76:80 - 404 Not Found
+45.55.127.169:80 - 403 Forbidden
+85.10.156.90:80 - Заголовок не найден
+20.75.204.63:80 - Your Azure Function App is up and running.
+188.241.152.42:80 - 404 Not Found
+37.152.57.157:80 - 404 Not Found
+13.127.224.83:80 - Sri Family Guide
+174.100.113.138:80 - 
+54.76.111.104:80 - Apache2 Ubuntu Default Page: It works
+89.116.180.1:80 - Direct IP access not allowed | Cloudflare
+23.40.90.39:80 - Заголовок не найден
+85.192.132.118:80 - 403 Forbidden
+104.214.228.127:80 - Welcome to nginx!
+136.30.120.58:80 - 
+47.145.59.226:80 - Заголовок не найден
+34.203.163.229:80 - Заголовок не найден
+23.32.252.113:80 - Заголовок не найден
