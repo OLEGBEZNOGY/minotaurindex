@@ -3529,3 +3529,8 @@
 146.146.5.149:80 - Promo 2024 NY &amp; IN | CITGO
 79.98.58.148:80 - Заголовок не найден
 92.220.189.139:80 - Заголовок не найден
+8.214.92.143:80 - Заголовок не найден
+54.38.84.63:80 - Apache2 Debian Default Page: It works
+193.42.137.147:80 - 403 Forbidden
+119.188.223.167:80 - 403 Forbidden
+67.212.181.181:80 - Apache HTTP Server Test Page powered by CentOS
