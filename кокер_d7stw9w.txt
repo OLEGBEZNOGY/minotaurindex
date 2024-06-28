@@ -3430,3 +3430,170 @@
 62.219.142.125:80 - 
 18.219.147.12:80 - 404 Not Found
 34.47.27.118:80 - IIS Windows Server
+3.142.226.128:80 - Заголовок не найден
+23.207.96.182:80 - Заголовок не найден
+49.13.175.81:80 - konsoleH :: Login
+98.96.229.199:80 - Заголовок не найден
+121.146.241.130:80 - 
+23.50.18.118:80 - Заголовок не найден
+23.222.89.103:80 - Заголовок не найден
+34.232.55.133:80 - Bitnami Node.js
+31.211.134.9:80 - 
+167.86.117.114:80 - Welcome to nginx!
+23.54.184.131:80 - Заголовок не найден
+111.173.83.233:80 - Заголовок не найден
+216.108.238.54:80 - Заголовок не найден
+43.218.209.151:80 - BTN Prioritas
+105.233.39.14:80 - Заголовок не найден
+154.209.56.252:80 - 404 Not Found
+74.81.67.181:80 - Заголовок не найден
+103.225.187.218:80 - Please wait, the page is opening...
+193.23.55.35:80 - Sorry, the website has been stopped
+5.144.169.109:80 - Заголовок не найден
+92.222.118.20:80 - 404 Not Found
+95.217.139.252:80 - Hostnox Monitoring: Zabbix
+208.100.51.24:80 - == Empresa == | Autofacturación
+220.160.38.163:80 - Заголовок не найден
+188.128.156.101:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+45.204.5.4:80 - æ²¡ææ¾å°ç«ç¹
+185.2.209.124:80 - Заголовок не найден
+211.107.243.142:80 - Заголовок не найден
+62.100.204.67:80 - Заголовок не найден
+212.224.118.191:80 - Заголовок не найден
+173.209.60.229:80 - Заголовок не найден
+23.159.168.95:80 - Page not found
+51.250.29.180:80 - Flexify.IO Management
+59.96.58.24:80 - Document Moved
+146.190.163.117:80 - 404 Not Found
+210.178.48.86:80 - CMS Web Viewer
+172.67.231.194:80 - Direct IP access not allowed | Cloudflare
+154.39.202.88:80 - Заголовок не найден
+54.223.235.253:80 - Index of /
+172.233.39.189:80 - Welcome to nginx!
+138.201.21.240:80 - testhipex.io | Hipex.io
+108.186.92.174:80 - Заголовок не найден
+78.43.188.197:80 - Apache2 Debian Default Page: It works
+38.91.46.209:80 - Page not found
+104.21.212.19:80 - Direct IP access not allowed | Cloudflare
+61.108.111.35:80 - 2024학년도 충주시중학교학교군 입학배정 시스템
+90.178.74.247:80 - O2 Easy Setup
+13.125.255.206:80 - Error
+68.178.170.176:80 - Web Server's Default Page
+18.220.80.0:80 - 503 Service Temporarily Unavailable
+219.100.169.42:80 - 愛知県豊橋市・サーラグループのバイオマス発電所｜サーラeパワー株式会社
+97.87.231.176:80 - 
+52.214.9.42:80 - Заголовок не найден
+199.48.183.108:80 - Page not found
+49.212.16.76:80 - Apache HTTP Server Test Page powered by CentOS
+160.251.49.26:80 - Заголовок не найден
+79.96.197.146:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+185.80.50.130:80 - Apache2 Ubuntu Default Page: It works
+3.65.140.186:80 - BlogPDR - Psikolojik Danışmanlık ve Rehberlik Blogu - Psikolojik Danışmanlık ve Rehberlik konularında güncel ve eğitici bilgiler
+184.87.107.185:80 - Заголовок не найден
+180.201.31.107:80 - 404 Not Found
+82.157.52.103:80 - 403 Forbidden
+101.200.240.224:80 - 404 Not Found
+184.50.194.56:80 - Заголовок не найден
+34.98.95.90:80 - Welcome to nginx!
+151.236.59.185:80 - Web Server's Default Page
+39.136.157.85:80 - 403 Forbidden
+104.66.78.99:80 - Заголовок не найден
+73.189.157.242:80 - Заголовок не найден
+177.125.148.79:80 - 500 Internal Server Error
+156.249.168.98:80 - Sorry, the website has been stopped
+64.23.152.79:80 - Apache2 Ubuntu Default Page: It works
+108.158.129.15:80 - Заголовок не найден
+103.48.250.229:80 - 404 Not Found
+186.129.112.77:80 - Заголовок не найден
+3.13.194.16:80 - Test Page for the Apache HTTP Server
+23.223.88.215:80 - Заголовок не найден
+87.145.28.236:80 - 
+83.48.43.113:80 - WEB SERVICE
+72.167.104.67:80 - Coming Soon
+206.119.161.77:80 - 404 Not Found
+184.87.99.39:80 - Заголовок не найден
+136.243.187.111:80 - Заголовок не найден
+77.76.19.130:80 - Заголовок не найден
+207.98.243.139:80 - Netgate pfSense Plus - Login
+3.7.124.173:80 - Welcome to nginx!
+23.29.124.230:80 - Заголовок не найден
+156.224.172.68:80 - 404 Not Found
+46.99.218.125:80 - 
+184.86.10.97:80 - Заголовок не найден
+185.17.107.129:80 - Kraken Store: Trasformiamo la vita dei pescatori di carpe
+91.190.81.100:80 - Whoops there was an error!
+142.214.183.234:80 - ERROR: The requested URL could not be retrieved
+23.208.188.73:80 - Заголовок не найден
+52.18.98.117:80 - 
+188.39.210.76:80 - Welcome to Windows Small Business Server 2003
+186.179.6.192:80 - 407 Proxy Authentication Required
+23.7.141.99:80 - Заголовок не найден
+23.206.149.72:80 - Заголовок не найден
+208.86.252.52:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+35.83.63.79:80 - 404 Not Found
+194.27.230.94:80 - T.C. Kütahya Dumlupınar  Üniversitesi
+5.39.92.114:80 - 404 Not Found
+160.124.44.37:80 - æ²¡ææ¾å°ç«ç¹
+3.214.100.3:80 - Заголовок не найден
+18.239.211.252:80 - Заголовок не найден
+118.243.117.69:80 - 
+108.138.41.49:80 - Заголовок не найден
+190.167.36.70:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#54;&#55;&#65;&#32;&#86;&#49;&#46;&#48;
+190.45.161.223:80 - WEB SERVICE
+184.87.225.229:80 - Заголовок не найден
+80.82.81.104:80 - Заголовок не найден
+23.44.95.209:80 - Заголовок не найден
+195.130.72.148:80 - Index of /
+91.121.250.173:80 - Kustomorphose.com
+82.98.190.228:80 - EstÃ¡s accediendo a una IP compartida por varios hostings
+181.22.153.83:80 - Заголовок не найден
+159.223.14.47:80 - Заголовок не найден
+211.37.179.185:80 - 503 Service Unavailable
+54.240.162.7:80 - Заголовок не найден
+31.30.113.41:80 - Webkamera KarlÅ¯v most a HradÄany
+144.22.163.6:80 - Welcome to XAMPP
+103.224.92.233:80 - Заголовок не найден
+117.195.178.186:80 - Заголовок не найден
+23.40.247.23:80 - Заголовок не найден
+177.87.34.14:80 - 
+208.167.246.22:80 - Apache HTTP Server Test Page powered by CentOS
+192.0.65.179:80 - 404 Not Found
+159.89.172.116:80 - 404 Not Found
+122.252.137.18:80 - Заголовок не найден
+23.39.187.245:80 - Заголовок не найден
+49.235.53.161:80 - 404 Not Found
+195.49.160.9:80 - 404 Not Found
+18.173.192.216:80 - Заголовок не найден
+1.161.75.34:80 - 
+148.101.225.228:80 - 
+18.154.13.34:80 - Заголовок не найден
+52.208.161.170:80 - 503 Service Temporarily Unavailable
+213.130.137.28:80 - Apache2 Debian Default Page: It works
+199.232.201.76:80 - Fastly error: unknown domain 199.232.201.76
+20.31.232.169:80 - Your Azure Function App is up and running.
+116.80.26.163:80 - Заголовок не найден
+121.180.247.102:80 - WEB SERVICE
+199.34.231.71:80 - Direct IP access not allowed | Cloudflare
+146.75.34.43:80 - Fastly error: unknown domain 146.75.34.43
+3.72.20.2:80 - Заголовок не найден
+104.80.61.195:80 - Заголовок не найден
+121.37.191.105:80 - éæçåå®¢
+18.192.184.78:80 - Заголовок не найден
+72.74.175.13:80 - 
+143.204.21.173:80 - Заголовок не найден
+3.162.109.215:80 - Заголовок не найден
+47.92.226.218:80 - H5 getUserMedia è°ç¨åªä½æåå¤´
+66.225.237.249:80 - 403 Forbidden
+34.65.41.135:80 - Renaissance Media Productions &#8211; Leading at the Nexus of Products, Services, Media, Technology and Culture.
+71.82.63.170:80 - 
+5.42.83.236:80 - 404 Not Found
+20.226.206.244:80 - Your Azure Function App is up and running.
+54.192.120.88:80 - Заголовок не найден
+198.59.144.143:80 - Заголовок не найден
+3.133.98.248:80 - 4EXC | Exchange and get Cashback
+149.30.168.55:80 - æ²¡ææ¾å°ç«ç¹
+195.122.144.114:80 - 403 Forbidden
+192.161.166.238:80 - ERROR: The requested URL could not be retrieved
+103.114.23.78:80 - RouterOS router configuration page
+154.28.134.204:80 - ERROR: The requested URL could not be retrieved
+186.6.237.171:80 - 
