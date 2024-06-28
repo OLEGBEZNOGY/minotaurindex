@@ -347,3 +347,6 @@
 153.122.174.114:80 - Web Server's Default Page
 20.4.137.33:80 - Your Azure Function App is up and running.
 3.160.144.187:80 - Заголовок не найден
+23.217.85.95:80 - Заголовок не найден
+152.228.208.190:80 - Welcome to nginx!
+185.86.75.3:80 - 
