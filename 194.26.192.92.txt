@@ -2982,3 +2982,204 @@
 127.206.155.100:80 - IIS Windows Server
 2.82.114.76:80 - 
 127.73.92.240:80 - IIS Windows Server
+127.102.194.4:80 - IIS Windows Server
+127.15.34.35:80 - IIS Windows Server
+80.188.19.74:80 - ACME Access Only
+127.108.223.146:80 - IIS Windows Server
+52.7.219.41:80 - Заголовок не найден
+127.63.215.243:80 - IIS Windows Server
+38.181.225.50:80 - æ¬¢è¿åä¸´
+183.181.0.25:80 - Apache HTTP Server Test Page powered by CentOS
+191.240.25.225:80 - ZXHN F673AV9a
+67.227.141.20:80 - Home - Decks n&#039;Stuff
+127.11.129.90:80 - IIS Windows Server
+138.197.86.138:80 - Apache2 Ubuntu Default Page: It works
+13.234.86.119:80 - Заголовок не найден
+104.16.112.54:80 - Direct IP access not allowed | Cloudflare
+91.84.49.95:80 - Заголовок не найден
+143.204.132.79:80 - Заголовок не найден
+131.175.187.196:80 - Заголовок не найден
+46.101.222.45:80 - ---
+127.37.205.77:80 - IIS Windows Server
+35.165.141.199:80 - 404: This page could not be found
+127.73.91.70:80 - IIS Windows Server
+178.32.48.92:80 - Seedbox à partir de 2,99€ par mois - Plex & VPN inclus
+127.2.37.194:80 - IIS Windows Server
+123.57.38.69:80 - 404 Not Found
+186.132.55.66:80 - Заголовок не найден
+104.82.95.101:80 - Заголовок не найден
+151.101.59.121:80 - Fastly error: unknown domain 151.101.59.121
+38.11.58.186:80 - 404 Not Found
+23.223.37.56:80 - Заголовок не найден
+176.107.146.213:80 - Web Server's Default Page
+23.53.156.230:80 - Заголовок не найден
+118.160.74.121:80 - RouterOS router configuration page
+18.239.65.15:80 - Заголовок не найден
+91.200.89.179:80 - NetScaler Gateway
+127.241.236.238:80 - IIS Windows Server
+59.95.228.185:80 - Заголовок не найден
+127.182.134.40:80 - IIS Windows Server
+45.171.118.33:80 - 404 Not Found
+104.148.32.2:80 - Home | 104.148.32.2
+20.124.171.56:80 - 404 Not Found
+127.195.198.155:80 - IIS Windows Server
+3.233.145.251:80 - Заголовок не найден
+47.104.66.218:80 - ç½ç«è®¿é®æ¥é
+1.51.245.193:80 - 404 Not Found
+41.24.62.226:80 - Заголовок не найден
+208.180.135.158:80 - Apache2 Ubuntu Default Page: It works
+127.27.206.236:80 - IIS Windows Server
+18.244.126.81:80 - Заголовок не найден
+23.58.160.183:80 - Заголовок не найден
+199.232.96.179:80 - Fastly error: unknown domain 199.232.96.179
+82.156.203.178:80 - Welcome to nginx!
+202.248.231.210:80 - Заголовок не найден
+127.152.18.39:80 - IIS Windows Server
+127.176.37.190:80 - IIS Windows Server
+23.192.225.225:80 - Заголовок не найден
+199.232.172.19:80 - Fastly error: unknown domain 199.232.172.19
+23.216.42.248:80 - Заголовок не найден
+127.186.112.246:80 - IIS Windows Server
+127.193.27.63:80 - IIS Windows Server
+51.83.69.157:80 - Not Found
+127.112.243.225:80 - IIS Windows Server
+34.64.218.34:80 - Заголовок не найден
+118.169.135.226:80 - VoIP Gateway
+184.25.61.224:80 - Заголовок не найден
+173.194.177.77:80 - Error 404 (Not Found)!!1
+3.72.0.61:80 - 404 Not Found
+165.22.247.208:80 - Hobby Site | Section F | Group 10
+20.238.206.188:80 - Your Azure Function App is up and running.
+127.232.111.246:80 - IIS Windows Server
+192.149.254.34:80 - Your internet access has been restricted!
+127.61.243.192:80 - IIS Windows Server
+179.53.28.252:80 - 
+23.208.174.7:80 - Заголовок не найден
+120.89.100.195:80 - Заголовок не найден
+127.219.142.11:80 - IIS Windows Server
+196.51.86.97:80 - ERROR: The requested URL could not be retrieved
+45.77.43.119:80 - about sstatic.net
+45.149.94.254:80 - Apache HTTP Server Test Page powered by CentOS
+45.186.52.156:80 - IIS Windows Server
+211.192.222.181:80 - main page
+23.241.53.88:80 - 
+104.72.75.77:80 - Заголовок не найден
+104.21.48.167:80 - Direct IP access not allowed | Cloudflare
+104.160.4.70:80 - Заголовок не найден
+23.220.34.44:80 - Заголовок не найден
+20.61.242.98:80 - Your Azure Function App is up and running.
+180.87.146.145:80 - Web managerment Home
+127.178.23.88:80 - IIS Windows Server
+104.88.149.237:80 - Заголовок не найден
+104.221.204.112:80 - Заголовок не найден
+103.48.4.143:80 - Заголовок не найден
+127.241.73.31:80 - IIS Windows Server
+173.212.208.26:80 - Error
+183.82.61.113:80 - Заголовок не найден
+127.159.118.28:80 - IIS Windows Server
+127.15.217.216:80 - IIS Windows Server
+127.228.236.205:80 - IIS Windows Server
+178.89.112.176:80 - GPON Home Gateway
+111.170.49.195:80 - 403 Forbidden
+45.136.253.214:80 - Заголовок не найден
+45.79.221.153:80 - Laravel
+210.103.81.126:80 - Заголовок не найден
+45.43.220.246:80 - 404 Not Found
+127.90.174.23:80 - IIS Windows Server
+157.14.27.83:80 - Заголовок не найден
+127.146.202.143:80 - IIS Windows Server
+18.168.120.163:80 - BentoML Prediction Service
+127.180.149.60:80 - IIS Windows Server
+127.159.208.255:80 - IIS Windows Server
+130.61.28.7:80 - Заголовок не найден
+66.82.4.178:80 - IIS Windows Server
+3.130.181.177:80 - YACHT SALES BROKER - TODD WEIDER - LIME YACHTS
+127.188.33.57:80 - IIS Windows Server
+3.165.32.233:80 - Заголовок не найден
+127.80.147.58:80 - IIS Windows Server
+172.236.88.45:80 - Заголовок не найден
+20.70.254.104:80 - IIS Windows Server
+23.38.133.55:80 - Заголовок не найден
+192.46.232.184:80 - Acme Shoe Shining Services
+51.178.219.92:80 - Home - uni-ball
+127.166.23.64:80 - IIS Windows Server
+23.1.152.237:80 - Заголовок не найден
+57.128.198.243:80 - TSko.cz &#8211; TeamSpeak TS3 public server
+127.49.120.188:80 - IIS Windows Server
+37.153.193.217:80 - Заголовок не найден
+8.210.94.137:80 - 403 Forbidden
+41.129.105.73:80 - Заголовок не найден
+127.209.37.32:80 - IIS Windows Server
+154.209.172.245:80 - 403 Forbidden
+127.25.46.12:80 - IIS Windows Server
+23.204.163.123:80 - Заголовок не найден
+127.32.1.196:80 - IIS Windows Server
+204.197.255.122:80 - Заголовок не найден
+16.163.46.23:80 - Заголовок не найден
+127.217.216.10:80 - IIS Windows Server
+127.219.196.218:80 - IIS Windows Server
+23.0.30.55:80 - Заголовок не найден
+186.39.145.174:80 - Заголовок не найден
+145.253.155.171:80 - Заголовок не найден
+107.163.66.159:80 - æ²¡ææ¾å°ç«ç¹
+45.79.73.170:80 - Scenic AMP |  Login
+127.112.64.127:80 - IIS Windows Server
+23.65.131.150:80 - Заголовок не найден
+127.198.146.47:80 - IIS Windows Server
+127.105.139.255:80 - IIS Windows Server
+127.32.12.161:80 - IIS Windows Server
+66.39.22.16:80 - Заголовок не найден
+151.236.246.51:80 - 
+52.218.63.10:80 - Amazon S3 - Cloud Object Storage  - AWS
+54.178.159.216:80 - 403 Forbidden
+103.253.254.21:80 - 403 Forbidden
+203.184.9.18:80 - Заголовок не найден
+127.60.134.191:80 - IIS Windows Server
+181.122.39.35:80 - 
+104.93.121.190:80 - Заголовок не найден
+104.19.0.72:80 - Direct IP access not allowed | Cloudflare
+50.3.130.249:80 - 403 Forbidden
+39.136.234.110:80 - 403 Forbidden
+203.254.138.116:80 - L7
+18.155.242.156:80 - Заголовок не найден
+46.242.226.244:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+50.114.113.78:80 - Apache2 Ubuntu Default Page: It works
+127.78.78.99:80 - IIS Windows Server
+86.63.226.109:80 - Заголовок не найден
+54.197.103.197:80 - PHP Application - AWS Elastic Beanstalk
+89.116.114.77:80 - 403 Forbidden
+3.84.88.218:80 - 403 Forbidden
+127.225.13.121:80 - IIS Windows Server
+127.6.128.105:80 - IIS Windows Server
+93.177.77.35:80 - æ²¡ææ¾å°ç«ç¹
+101.132.121.83:80 - Wordpress &#8211; 又一个WordPress站点
+23.38.26.94:80 - Заголовок не найден
+180.222.89.227:80 - ControlPanel
+54.93.208.250:80 - Welcome to nginx!
+127.248.190.239:80 - IIS Windows Server
+127.71.106.176:80 - IIS Windows Server
+23.7.138.88:80 - Заголовок не найден
+52.204.252.231:80 - Apache HTTP Server Test Page powered by CentOS
+83.169.234.87:80 - IRZ RUH2b Router
+20.231.244.246:80 - Заголовок не найден
+87.75.66.80:80 - Storm Rock Band | Wedding Band, Function Party Band Huddersfield, West Yorkshire
+127.80.225.54:80 - IIS Windows Server
+23.79.61.57:80 - Заголовок не найден
+166.62.73.2:80 - Coming Soon
+23.219.239.184:80 - Заголовок не найден
+180.201.2.32:80 - 404 Not Found
+85.239.243.243:80 - Заголовок не найден
+18.67.229.169:80 - Заголовок не найден
+79.57.41.242:80 - RIO BADOS
+51.222.27.175:80 - Apache2 Ubuntu Default Page: It works
+54.206.69.186:80 - Error
+194.28.173.100:80 - lati2.example.com &mdash; Coming Soon
+212.146.64.162:80 - IIS Windows Server
+198.20.111.3:80 - 404 Not Found
+72.10.171.238:80 - Заголовок не найден
+127.255.213.167:80 - IIS Windows Server
+127.154.200.141:80 - IIS Windows Server
+108.159.99.160:80 - Заголовок не найден
+47.109.68.125:80 - 
+96.87.18.42:80 - Заголовок не найден
+127.124.194.244:80 - IIS Windows Server
