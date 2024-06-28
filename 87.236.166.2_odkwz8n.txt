@@ -3095,3 +3095,16 @@
 72.255.1.12:80 - 
 104.21.6.179:80 - Direct IP access not allowed | Cloudflare
 93.89.101.200:80 - Заголовок не найден
+72.14.134.91:80 - Apache2 Ubuntu Default Page: It works
+216.116.30.166:80 - Car-Part.com webmaster redirect
+43.133.197.213:80 - IIS Windows Server
+23.65.140.93:80 - Заголовок не найден
+34.221.255.75:80 - 404 Not Found - Captivate Sites
+89.161.167.240:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+170.85.12.92:80 - Internet Security by Zscaler
+85.92.70.182:80 - Заголовок не найден
+153.121.37.192:80 - 株式会社にこにこでんき
+222.206.10.103:80 - 404 Not Found
+177.69.205.186:80 - Web user login
+8.130.124.184:80 - 403 Forbidden
+192.92.147.64:80 - 404 Not Found
