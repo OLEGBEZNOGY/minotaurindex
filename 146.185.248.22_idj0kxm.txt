@@ -2911,3 +2911,18 @@
 50.33.131.189:80 - Welcome to nginx!
 121.127.40.65:80 - 3CX Phone System Management Console
 20.105.102.254:80 - Your Azure Function App is up and running.
+194.57.208.195:80 - Заголовок не найден
+23.208.32.74:80 - Заголовок не найден
+45.168.204.3:80 - Apache2 Debian Default Page: It works
+188.40.187.124:80 - 404 Not Found
+35.166.18.190:80 - Заголовок не найден
+35.81.247.206:80 - DisallowedHost
+          at /
+96.6.224.239:80 - Заголовок не найден
+152.230.224.41:80 - Ingreso a Intranet
+13.32.150.242:80 - Заголовок не найден
+3.140.153.132:80 - Заголовок не найден
+103.47.224.97:80 - Index of /
+38.49.16.141:80 - 403 Forbidden
+67.230.174.73:80 - Welcome to nginx!
+31.134.206.97:80 - Web Server's Default Page
