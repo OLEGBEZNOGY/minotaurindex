@@ -1198,3 +1198,31 @@
 80.27.1.206:80 - Router
 85.88.134.166:80 - Apache2 Debian Default Page: It works
 207.192.144.58:80 - 
+98.26.249.182:80 - 
+172.66.157.255:80 - Direct IP access not allowed | Cloudflare
+47.92.152.110:80 - æ²¡ææ¾å°ç«ç¹
+52.47.169.129:80 - 404 Not Found
+71.123.47.97:80 - Linear eMerge
+209.127.11.222:80 - ERROR: The requested URL could not be retrieved
+52.71.120.230:80 - Заголовок не найден
+85.173.252.110:80 - RouterOS router configuration page
+104.24.43.133:80 - Direct IP access not allowed | Cloudflare
+178.210.76.197:80 - Музей им. Н.М. Мартьянова
+135.148.94.116:80 - 404 Not Found
+52.214.77.12:80 - Заголовок не найден
+134.122.134.72:80 - 请使用域名访问
+193.47.236.142:80 - ERROR: The requested URL could not be retrieved
+61.53.180.249:80 - Заголовок не найден
+23.32.141.252:80 - Заголовок не найден
+104.24.135.25:80 - Direct IP access not allowed | Cloudflare
+181.167.233.129:80 - 
+8.141.168.33:80 - Заголовок не найден
+180.163.91.215:80 - 403 Forbidden
+88.249.43.124:80 - 
+13.249.8.215:80 - Заголовок не найден
+172.104.139.220:80 - Homepage
+194.78.236.97:80 - 403 Forbidden
+83.166.146.229:80 - web host not found
+147.95.132.194:80 - Заголовок не найден
+175.201.40.77:80 - Apache HTTP Server Test Page powered by CentOS
+18.154.68.177:80 - Заголовок не найден
