@@ -36,3 +36,10 @@
 45.137.159.7:80 - 403 Forbidden
 4.249.146.71:80 - Your Azure Function App is up and running.
 80.246.251.220:80 - Заголовок не найден
+2.186.106.224:80 - Protected Object
+20.174.45.62:80 - Your Azure Function App is up and running.
+38.154.9.65:80 - ERROR: The requested URL could not be retrieved
+3.82.178.128:80 - Заголовок не найден
+206.187.16.60:80 - Web Site Blocked
+45.60.152.230:80 - Заголовок не найден
+185.10.16.162:80 - Apache2 Debian Default Page: It works
