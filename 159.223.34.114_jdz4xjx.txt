@@ -2578,3 +2578,20 @@
 206.190.148.213:80 - Заголовок не найден
 114.214.51.155:80 - 404 Not Found
 104.19.231.21:80 - Direct IP access not allowed | Cloudflare
+46.231.240.8:80 - Index of /
+103.66.49.4:80 - 
+172.67.192.143:80 - Direct IP access not allowed | Cloudflare
+2.17.152.29:80 - Заголовок не найден
+18.165.48.49:80 - Заголовок не найден
+40.115.56.63:80 - Microsoft Azure Web App - Error 404
+54.84.247.100:80 - HTTP Status 404 – Not Found
+191.242.176.101:80 - 404 Page Not Found
+104.140.28.123:80 - 403 Forbidden
+52.95.132.162:80 - Amazon S3 - Cloud Object Storage  - AWS
+216.180.233.100:80 - 404 not found
+104.74.165.193:80 - Заголовок не найден
+186.6.52.71:80 - 
+37.48.95.108:80 - Welcome to nginx!
+161.97.166.141:80 - 401 Authorization Required
+70.135.158.20:80 - 
+3.108.244.182:80 - Заголовок не найден
