@@ -17665,3 +17665,170 @@
 127.146.208.216:80 - IIS Windows Server
 127.167.3.193:80 - IIS Windows Server
 154.215.108.134:80 - 404 Not Found
+127.247.80.221:80 - IIS Windows Server
+127.233.65.225:80 - IIS Windows Server
+127.136.69.69:80 - IIS Windows Server
+127.185.191.211:80 - IIS Windows Server
+127.235.30.96:80 - IIS Windows Server
+77.55.74.229:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+54.174.153.216:80 - Заголовок не найден
+127.32.77.130:80 - IIS Windows Server
+127.213.240.1:80 - IIS Windows Server
+127.115.178.203:80 - IIS Windows Server
+16.170.0.0:80 - 404 Not Found
+38.87.204.86:80 - Заголовок не найден
+127.61.255.56:80 - IIS Windows Server
+127.105.251.255:80 - IIS Windows Server
+127.136.126.187:80 - IIS Windows Server
+47.106.72.54:80 - Заголовок не найден
+127.143.125.71:80 - IIS Windows Server
+127.123.49.131:80 - IIS Windows Server
+149.81.156.51:80 - Заголовок не найден
+54.74.21.91:80 - Заголовок не найден
+127.144.53.208:80 - IIS Windows Server
+167.86.67.194:80 - Web Server's Default Page
+127.93.120.195:80 - IIS Windows Server
+127.117.221.103:80 - IIS Windows Server
+127.36.60.200:80 - IIS Windows Server
+173.236.141.208:80 - Site not found &middot; DreamHost
+118.214.47.147:80 - Заголовок не найден
+127.18.15.98:80 - IIS Windows Server
+27.237.87.153:80 - index
+127.184.84.121:80 - IIS Windows Server
+39.108.119.251:80 - æå½©æ¢¦å®ç½
+18.172.111.169:80 - Заголовок не найден
+149.28.150.5:80 - Welcome to nginx!
+127.96.130.235:80 - IIS Windows Server
+127.198.164.112:80 - IIS Windows Server
+64.189.30.79:80 - Campus Connect
+159.69.17.248:80 - Apache2 Ubuntu Default Page: It works
+37.18.107.68:80 - Welcome to nginx!
+127.47.251.101:80 - IIS Windows Server
+127.60.146.4:80 - IIS Windows Server
+127.154.3.45:80 - IIS Windows Server
+127.108.214.156:80 - IIS Windows Server
+3.165.39.183:80 - Заголовок не найден
+127.215.159.56:80 - IIS Windows Server
+127.128.87.146:80 - IIS Windows Server
+18.172.12.46:80 - Заголовок не найден
+104.81.234.86:80 - Заголовок не найден
+114.34.45.39:80 - Заголовок не найден
+120.232.236.58:80 - Заголовок не найден
+192.241.179.32:80 - BRLTTY - Official Home
+104.74.53.232:80 - Заголовок не найден
+178.16.130.50:80 - Cloudron - Not Found
+3.165.34.112:80 - Заголовок не найден
+54.230.200.236:80 - Заголовок не найден
+127.208.74.123:80 - IIS Windows Server
+127.73.159.57:80 - IIS Windows Server
+195.78.94.23:80 - Заголовок не найден
+127.183.163.183:80 - IIS Windows Server
+127.165.236.133:80 - IIS Windows Server
+54.240.176.78:80 - Заголовок не найден
+194.79.11.135:80 - Заголовок не найден
+212.110.204.212:80 - Заголовок не найден
+127.147.214.181:80 - IIS Windows Server
+165.231.101.186:80 - 407 Proxy Authentication Required
+127.69.169.195:80 - IIS Windows Server
+180.0.38.73:80 - Заголовок не найден
+47.97.104.59:80 - Apache Tomcat/8.5.39
+216.189.149.240:80 - Welcome to nginx!
+104.104.54.228:80 - Заголовок не найден
+127.76.15.59:80 - IIS Windows Server
+18.165.188.236:80 - Заголовок не найден
+54.197.94.3:80 - Заголовок не найден
+127.125.90.218:80 - IIS Windows Server
+104.206.85.12:80 - 403 Forbidden
+52.207.86.129:80 - PG SLOT ค่ายเกม PG ไม่มีขั้นต่ำ 1 บาทก็เข้ามาแทงได้กับ FAFA178
+127.185.74.46:80 - IIS Windows Server
+127.33.153.193:80 - IIS Windows Server
+45.76.177.58:80 - Заголовок не найден
+20.91.170.73:80 - Заголовок не найден
+23.59.39.165:80 - Заголовок не найден
+127.71.210.215:80 - IIS Windows Server
+54.216.1.13:80 - 503 Service Temporarily Unavailable
+192.163.178.37:80 - æ²¡ææ¾å°ç«ç¹
+127.63.196.69:80 - IIS Windows Server
+127.198.50.156:80 - IIS Windows Server
+78.155.202.19:80 - 503 Service Temporarily Unavailable
+78.47.11.27:80 - USENET DELUXE – alles über das Usenet: Provider, Zugang, Angebote
+127.232.23.120:80 - IIS Windows Server
+127.146.26.125:80 - IIS Windows Server
+13.91.66.212:80 - Your Azure Function App is up and running.
+52.231.157.243:80 - TIGRIS APPROVAL
+127.0.99.156:80 - IIS Windows Server
+169.60.33.88:80 - Заголовок не найден
+52.19.241.155:80 - Blog Expectra : nos guides emplois pour les cadres et managers
+127.31.158.72:80 - IIS Windows Server
+187.174.117.161:80 - Заголовок не найден
+23.97.54.234:80 - Apache2 Ubuntu Default Page: It works
+92.123.133.146:80 - Заголовок не найден
+127.168.148.74:80 - IIS Windows Server
+127.121.242.216:80 - IIS Windows Server
+150.158.228.226:80 - Заголовок не найден
+15.222.173.183:80 - 403 Forbidden
+177.141.201.115:80 - Intelbras
+203.192.234.176:80 - Заголовок не найден
+54.145.36.240:80 - The Fastest Way to Make Plans!
+127.222.3.154:80 - IIS Windows Server
+127.41.205.80:80 - IIS Windows Server
+72.55.164.208:80 - Заголовок не найден
+180.235.243.96:80 - Заголовок не найден
+127.214.176.150:80 - IIS Windows Server
+127.62.212.241:80 - IIS Windows Server
+128.176.6.96:80 - Nicht gefunden - Not found
+44.206.113.208:80 - Заголовок не найден
+174.135.32.215:80 - 
+64.179.165.13:80 - Web Viewer for Samsung DVR
+172.79.194.171:80 - Login
+127.165.199.235:80 - IIS Windows Server
+127.115.245.107:80 - IIS Windows Server
+2.23.69.115:80 - Заголовок не найден
+195.88.104.78:80 - index
+13.32.119.112:80 - Заголовок не найден
+127.117.32.17:80 - IIS Windows Server
+127.5.19.61:80 - IIS Windows Server
+91.195.107.153:80 - Základní informace - Česká správa sociálního zabezpečení - otevřená data
+127.41.69.171:80 - IIS Windows Server
+23.57.44.117:80 - Заголовок не найден
+127.54.172.121:80 - IIS Windows Server
+120.233.40.199:80 - 403 Forbidden
+179.38.196.203:80 - Заголовок не найден
+98.51.210.141:80 - 
+20.69.148.159:80 - Заголовок не найден
+23.59.125.131:80 - Заголовок не найден
+13.212.170.75:80 - Заголовок не найден
+127.188.119.82:80 - IIS Windows Server
+18.210.78.36:80 - Заголовок не найден
+127.107.59.99:80 - IIS Windows Server
+141.94.71.25:80 - 404 Not Found
+136.243.25.1:80 - Herzlich Willkommen!
+127.202.152.17:80 - IIS Windows Server
+77.238.66.54:80 - Please wait, the page is opening...
+3.165.91.210:80 - Заголовок не найден
+18.154.116.65:80 - Заголовок не найден
+127.219.16.135:80 - IIS Windows Server
+127.236.140.34:80 - IIS Windows Server
+37.46.129.252:80 - Ð Ð°Ð±Ð¾ÑÐ° ÐÐ°ÑÑÐ¾Ð¹: ÑÐ°Ð±Ð¾ÑÐ° Ð²Ð°ÑÑÐ¾Ð²ÑÐ¼ Ð¼ÐµÑÐ¾Ð´Ð¾Ð¼ Ð² ÐÐ¾ÑÐºÐ²Ðµ
+185.247.226.6:80 - Login – Vault
+52.34.201.83:80 - Sameday Software
+127.173.227.179:80 - IIS Windows Server
+45.181.69.33:80 - Заголовок не найден
+23.217.71.85:80 - Заголовок не найден
+127.49.179.9:80 - IIS Windows Server
+127.181.222.243:80 - IIS Windows Server
+103.218.238.113:80 - Please wait, the login page is opening...
+117.177.48.113:80 - Заголовок не найден
+23.214.254.35:80 - Заголовок не найден
+127.147.98.111:80 - IIS Windows Server
+2.19.91.61:80 - Заголовок не найден
+3.161.185.185:80 - Заголовок не найден
+127.77.234.186:80 - IIS Windows Server
+23.193.79.88:80 - Заголовок не найден
+104.20.123.17:80 - Direct IP access not allowed | Cloudflare
+104.19.57.220:80 - Direct IP access not allowed | Cloudflare
+107.149.34.109:80 - Заголовок не найден
+127.39.222.143:80 - IIS Windows Server
+130.15.65.25:80 - ACME Access Only
+203.78.139.250:80 - Reasonable Spread: Email marketing and newsletter management tool
+76.10.178.35:80 - Apache2 Ubuntu Default Page: It works
