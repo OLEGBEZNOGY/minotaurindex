@@ -29,3 +29,5 @@
 47.94.197.214:80 - Welcome to nginx!
 45.204.6.138:80 - 404 Not Found
 143.198.144.161:80 - Apache2 Ubuntu Default Page: It works
+38.177.14.184:80 - 403 Forbidden
+99.56.155.180:80 - 
