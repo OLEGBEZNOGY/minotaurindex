@@ -1,0 +1,219 @@
+62.232.122.90:80 - IIS Windows Server
+23.10.32.58:80 - Заголовок не найден
+23.221.101.184:80 - Заголовок не найден
+23.40.18.205:80 - Заголовок не найден
+20.203.42.30:80 - 403 Forbidden
+127.145.44.234:80 - IIS Windows Server
+23.36.244.103:80 - Заголовок не найден
+23.81.15.212:80 - Заголовок не найден
+108.159.53.15:80 - Заголовок не найден
+223.95.60.184:80 - 403 Forbidden
+23.49.187.215:80 - Заголовок не найден
+23.3.70.168:80 - Заголовок не найден
+127.141.54.18:80 - IIS Windows Server
+184.84.223.224:80 - Заголовок не найден
+127.100.113.9:80 - IIS Windows Server
+162.97.198.170:80 - IIS Windows Server
+123.60.238.177:80 - Заголовок не найден
+52.60.169.230:80 - 404 Not Found
+104.18.189.38:80 - Direct IP access not allowed | Cloudflare
+212.30.33.207:80 - 403 Forbidden
+85.153.103.217:80 - Index of /
+127.4.186.101:80 - IIS Windows Server
+127.234.18.193:80 - IIS Windows Server
+103.15.138.205:80 - Заголовок не найден
+127.173.14.222:80 - IIS Windows Server
+127.218.71.111:80 - IIS Windows Server
+23.218.92.215:80 - Заголовок не найден
+82.197.83.217:80 - 403 Forbidden
+199.241.28.125:80 - Apache2 Ubuntu Default Page: It works
+50.18.209.17:80 - Заголовок не найден
+36.150.71.14:80 - 403 Forbidden
+79.96.92.207:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+185.62.29.8:80 - ePMP
+23.49.172.217:80 - Заголовок не найден
+184.30.26.55:80 - Заголовок не найден
+187.143.25.161:80 - WEB
+120.48.4.198:80 - 邢台鑫久橡胶制品有限公司
+23.53.130.113:80 - Заголовок не найден
+184.25.243.45:80 - Заголовок не найден
+133.242.227.82:80 - 401 Unauthorized
+148.153.56.58:80 - Заголовок не найден
+43.153.19.80:80 - 403 Forbidden
+127.117.133.25:80 - IIS Windows Server
+127.63.209.17:80 - IIS Windows Server
+100.38.226.18:80 - SonicWall - Authentication
+218.161.71.88:80 - 
+127.96.243.172:80 - IIS Windows Server
+127.8.78.210:80 - IIS Windows Server
+120.48.4.198:80 - 邢台鑫久橡胶制品有限公司
+192.254.183.14:80 - Not Acceptable!
+4.153.108.200:80 - Your Azure Function App is up and running.
+120.39.202.197:80 - 403 Forbidden
+127.62.245.89:80 - IIS Windows Server
+127.121.134.233:80 - IIS Windows Server
+100.20.193.197:80 - Заголовок не найден
+127.65.200.51:80 - IIS Windows Server
+23.64.231.113:80 - Заголовок не найден
+167.99.207.218:80 - Maintainence by Bryterdigital.co.uk
+47.100.165.212:80 - Access forbidden!
+111.45.34.124:80 - 403 Forbidden
+127.143.128.196:80 - IIS Windows Server
+190.174.54.119:80 - Заголовок не найден
+127.227.140.133:80 - IIS Windows Server
+27.3.231.53:80 - Заголовок не найден
+23.215.253.123:80 - Заголовок не найден
+45.43.220.44:80 - 404 Not Found
+108.2.207.50:80 - IIS Windows Server
+88.221.137.67:80 - Заголовок не найден
+23.204.249.128:80 - Заголовок не найден
+127.188.56.76:80 - IIS Windows Server
+110.77.178.108:80 - &#72;&#56;&#49;&#48;&#50;&#69;
+34.174.120.33:80 - Home - Western Maine Pump Company
+104.166.77.87:80 - 404 Not Found
+157.197.187.107:80 - Заголовок не найден
+127.109.195.169:80 - IIS Windows Server
+127.194.172.146:80 - IIS Windows Server
+139.84.170.106:80 - Another SSD VPS from Vultr.com!
+127.122.236.110:80 - IIS Windows Server
+127.120.40.100:80 - IIS Windows Server
+23.221.52.157:80 - Заголовок не найден
+127.223.180.49:80 - IIS Windows Server
+51.75.153.84:80 - Заголовок не найден
+23.33.46.164:80 - Заголовок не найден
+78.47.141.18:80 - Заголовок не найден
+111.84.162.214:80 - Заголовок не найден
+127.194.250.66:80 - IIS Windows Server
+23.61.69.67:80 - Заголовок не найден
+127.3.179.235:80 - IIS Windows Server
+47.112.224.30:80 - 404 Not Found
+36.37.135.149:80 - 
+127.34.154.211:80 - IIS Windows Server
+2.16.183.98:80 - Заголовок не найден
+127.55.222.137:80 - IIS Windows Server
+2.23.125.48:80 - Заголовок не найден
+127.145.51.9:80 - IIS Windows Server
+153.122.145.125:80 - Default Parallels Plesk Page
+23.193.229.148:80 - Заголовок не найден
+127.224.71.11:80 - IIS Windows Server
+127.101.121.138:80 - IIS Windows Server
+82.56.148.98:80 - Protected Object
+104.25.192.34:80 - Direct IP access not allowed | Cloudflare
+47.254.82.165:80 - cupshe-analysis
+47.99.115.217:80 - 403 Forbidden
+23.1.11.247:80 - Заголовок не найден
+52.211.180.112:80 - Sign up to Floodline | Floodline
+127.229.164.4:80 - IIS Windows Server
+127.48.130.242:80 - IIS Windows Server
+127.82.0.242:80 - IIS Windows Server
+18.65.157.26:80 - Заголовок не найден
+127.131.1.214:80 - IIS Windows Server
+96.9.12.47:80 - 403 Forbidden
+127.166.20.210:80 - IIS Windows Server
+218.166.87.167:80 - Заголовок не найден
+182.73.95.220:80 - Test Page for the HTTP Server on AlmaLinux
+127.67.97.139:80 - IIS Windows Server
+144.22.34.225:80 - 502 Bad Gateway
+184.87.33.35:80 - Заголовок не найден
+127.142.127.174:80 - IIS Windows Server
+51.222.181.169:80 - 500 Internal Server Error
+79.98.28.151:80 - SvetainÄ neegzistuoja
+127.228.180.122:80 - IIS Windows Server
+103.144.222.66:80 - RouterOS router configuration page
+3.165.245.214:80 - Заголовок не найден
+23.206.98.196:80 - Заголовок не найден
+127.14.4.200:80 - IIS Windows Server
+103.52.247.138:80 - Please wait, the login page is opening...
+121.43.113.119:80 - æ²¡ææ¾å°ç«ç¹
+104.123.73.233:80 - Заголовок не найден
+127.184.247.164:80 - IIS Windows Server
+185.245.3.230:80 - Apache2 Ubuntu Default Page: It works
+127.89.180.166:80 - IIS Windows Server
+212.104.131.110:80 - 500 Internal Server Error
+127.224.70.81:80 - IIS Windows Server
+154.53.89.198:80 - ERROR: The requested URL could not be retrieved
+35.211.1.23:80 - Заголовок не найден
+202.101.191.193:80 - Заголовок не найден
+23.12.168.172:80 - Заголовок не найден
+8.210.146.74:80 - 404 Not Found
+211.57.143.74:80 - Welcome to WildFly 10
+23.201.88.215:80 - Заголовок не найден
+154.91.54.29:80 - 404 Not Found
+124.25.70.227:80 - 特定非営利活動法人 国際健康美学会
+114.32.27.131:80 - 
+114.230.205.141:80 - Заголовок не найден
+50.253.143.49:80 - Document Moved
+127.213.255.62:80 - IIS Windows Server
+151.101.34.78:80 - Fastly error: unknown domain 151.101.34.78
+127.89.106.10:80 - IIS Windows Server
+127.3.219.170:80 - IIS Windows Server
+43.128.240.45:80 - Заголовок не найден
+108.157.216.222:80 - Заголовок не найден
+47.108.118.171:80 - ä¸´æ²§ä¼äº«æ°è½æºæ±½è½¦ç§ææéå¬å¸
+104.21.111.120:80 - Direct IP access not allowed | Cloudflare
+77.55.129.156:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+107.154.150.68:80 - Заголовок не найден
+45.192.72.41:80 - 404 Not Found
+54.209.248.112:80 - Page not found at /
+128.140.57.96:80 - Default Site
+18.157.87.135:80 - Grand Lottery
+23.223.68.11:80 - Заголовок не найден
+127.151.78.13:80 - IIS Windows Server
+127.121.203.36:80 - IIS Windows Server
+127.106.50.8:80 - IIS Windows Server
+127.175.145.3:80 - IIS Windows Server
+47.93.224.110:80 - ç½ç«è®¿é®æ¥é
+127.84.164.24:80 - IIS Windows Server
+23.49.215.132:80 - Заголовок не найден
+3.162.158.78:80 - Заголовок не найден
+59.19.207.15:80 - Заголовок не найден
+207.60.139.164:80 - Заголовок не найден
+24.198.135.211:80 - 
+127.16.169.187:80 - IIS Windows Server
+23.213.127.126:80 - Заголовок не найден
+69.20.100.150:80 - Apollo Interactive
+190.111.98.89:80 - F670L
+127.15.117.106:80 - IIS Windows Server
+127.155.138.29:80 - IIS Windows Server
+85.206.88.245:80 - RouterOS router configuration page
+127.44.141.191:80 - IIS Windows Server
+92.114.95.9:80 - Заголовок не найден
+54.186.38.161:80 - Заголовок не найден
+23.201.176.91:80 - Заголовок не найден
+38.38.140.197:80 - Заголовок не найден
+156.250.27.249:80 - Заголовок не найден
+127.20.179.142:80 - IIS Windows Server
+193.201.189.42:80 - Заголовок не найден
+123.193.146.190:80 - Remote Surveillance, Any time &amp; Any where
+45.223.148.194:80 - Заголовок не найден
+127.243.132.177:80 - IIS Windows Server
+24.119.151.29:80 - 
+96.16.193.50:80 - Заголовок не найден
+127.230.207.172:80 - IIS Windows Server
+107.148.16.87:80 - 404 Not Found
+49.235.23.72:80 - 403 Forbidden
+80.232.217.128:80 - Заголовок не найден
+103.126.201.73:80 - F609
+127.254.201.110:80 - IIS Windows Server
+192.126.196.239:80 - ERROR: The requested URL could not be retrieved
+31.179.254.227:80 - Web Filter Violation
+151.101.43.33:80 - Fastly error: unknown domain 151.101.43.33
+184.86.107.85:80 - Заголовок не найден
+38.174.191.57:80 - æ²¡ææ¾å°ç«ç¹
+69.27.46.122:80 - Psychologists NJ | Dr. Mike Abrams and Dr. Lidia D. Abrams | New Jersey Psychologists in Psychology for NJ, LLC
+104.128.127.229:80 - Заголовок не найден
+60.30.224.94:80 - Заголовок не найден
+74.208.209.10:80 - Apache HTTP Server Test Page powered by CentOS
+18.180.187.134:80 - Test Page for the Nginx HTTP Server on Fedora
+75.119.136.68:80 - Zammad Helpdesk
+59.6.104.55:80 - main page
+127.6.136.2:80 - IIS Windows Server
+139.162.31.16:80 - 404 Not Found
+127.191.157.155:80 - IIS Windows Server
+3.95.108.23:80 - 503 Service Temporarily Unavailable
+122.9.215.15:80 - 500 Internal Server Error
+127.210.108.211:80 - IIS Windows Server
+127.178.199.163:80 - IIS Windows Server
+127.207.154.35:80 - IIS Windows Server
+104.74.54.228:80 - Заголовок не найден
+18.245.47.169:80 - Заголовок не найден
