@@ -3457,3 +3457,39 @@
 72.246.76.132:80 - Заголовок не найден
 46.21.22.236:80 - Maitance message
 38.182.185.20:80 - 403 Forbidden
+108.156.190.23:80 - Заголовок не найден
+82.197.93.228:80 - PUFFLAB MAIL
+52.85.159.211:80 - Заголовок не найден
+23.197.42.8:80 - Заголовок не найден
+195.201.192.190:80 - Power by Subyshare
+35.220.177.42:80 - 404 Not Found
+62.72.34.205:80 - 403 Forbidden
+23.212.225.247:80 - Заголовок не найден
+185.209.128.210:80 - 404 Not Found
+104.207.236.202:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+144.217.94.224:80 - Заголовок не найден
+58.216.16.52:80 - Заголовок не найден
+185.17.181.142:80 - Nimbus Hosting
+185.143.47.112:80 - 403 Forbidden
+188.128.199.78:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+18.194.216.161:80 - 403 Forbidden
+184.30.152.63:80 - Заголовок не найден
+103.195.65.149:80 - Site is created successfully!
+129.80.54.29:80 - Apache HTTP Server Test Page powered by Linux
+3.142.22.232:80 - Sustainable Agriculture Center
+117.217.100.222:80 - Заголовок не найден
+166.254.230.102:80 - 4GR Login
+54.231.171.184:80 - Amazon S3 - Cloud Object Storage  - AWS
+191.252.202.68:80 - Login
+112.19.2.224:80 - 403 Forbidden
+160.124.25.197:80 - 404 Not Found
+68.169.50.2:80 - Standardized Reclamation Cost Estimator
+216.246.113.221:80 - Заголовок не найден
+195.211.121.31:80 - Test IT
+186.226.155.104:80 - &#70;&#54;&#54;&#48;&#48;&#80;
+223.165.28.66:80 - Заголовок не найден
+209.127.30.43:80 - ERROR: The requested URL could not be retrieved
+216.48.180.63:80 - IIS Windows Server
+69.54.230.7:80 - Заголовок не найден
+23.193.219.202:80 - Заголовок не найден
+4.199.6.67:80 - Microsoft Azure Web App - Error 404
