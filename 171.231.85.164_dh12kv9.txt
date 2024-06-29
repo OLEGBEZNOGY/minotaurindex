@@ -29,3 +29,7 @@
 52.198.120.71:80 - Welcome to nginx!
 191.102.143.114:80 - 407 Proxy Authentication Required
 54.192.137.198:80 - Заголовок не найден
+140.249.90.141:80 - 403 Forbidden
+49.12.45.51:80 - 404 Not Found
+52.188.79.196:80 - Message of the Day
+36.232.163.58:80 - 
