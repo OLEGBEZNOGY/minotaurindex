@@ -4895,3 +4895,14 @@
 96.17.150.212:80 - Заголовок не найден
 173.182.28.21:80 - Index page
 139.162.216.117:80 - Energetic Software
+20.53.78.236:80 - DuckDuckGo — Privacy, simplified.
+54.64.86.239:80 - 403 Forbidden
+73.11.240.165:80 - CMS Web Viewer
+20.220.42.139:80 - 404 - Page Not Found | Beauceron Security
+154.209.114.130:80 - Welcome to nginx!
+123.184.1.67:80 - Заголовок не найден
+86.126.218.43:80 - 
+188.128.233.178:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+52.84.10.199:80 - Заголовок не найден
+75.118.52.229:80 - Overview - XM3.1-915-HP
+94.72.157.255:80 - Please wait, the page is opening...
