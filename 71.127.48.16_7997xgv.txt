@@ -14270,3 +14270,150 @@ Israeli army in Nablus of Paletine, Human Rights violations by Israel
 52.156.103.96:80 - Citrix Gateway
 47.92.78.133:80 - Web Server's Default Page
 43.249.83.142:80 - 403 Forbidden
+96.9.49.220:80 - 403 Forbidden
+191.222.166.176:80 - Login
+185.15.211.36:80 - Заголовок не найден
+47.102.146.95:80 - æ²¡ææ¾å°ç«ç¹
+20.71.217.117:80 - Anmeldung bei opuscapita
+156.247.4.227:80 - Заголовок не найден
+38.14.78.31:80 - IIS Windows Server
+18.178.96.64:80 - Japan Real Estate
+177.184.92.229:80 - Заголовок не найден
+104.21.239.249:80 - Direct IP access not allowed | Cloudflare
+18.136.243.176:80 - 503 Service Temporarily Unavailable
+104.110.18.163:80 - Заголовок не найден
+52.78.130.191:80 - AWS CloudFormation PHP Sample
+54.159.191.55:80 - Apache2 Ubuntu Default Page: It works
+162.240.165.46:80 - Заголовок не найден
+23.222.210.106:80 - Заголовок не найден
+45.79.218.56:80 - Welcome to nginx!
+23.39.119.30:80 - Заголовок не найден
+167.250.0.25:80 - Intelbras
+38.31.167.13:80 - 404 Not Found
+79.139.17.162:80 - Strona w przebudowie
+168.206.68.106:80 - ç¾åº¦ä¸ä¸ï¼ä½ å°±ç¥é
+64.18.203.41:80 - P&amp;R - Pronto
+213.238.180.18:80 - Coming Soon - solartech.xyz
+174.48.136.208:80 - Hello! Welcome to Synology Web Station!
+45.184.216.230:80 - ::JM SISTEMAS  - ACESSO AO SISTEMA
+23.36.126.27:80 - Заголовок не найден
+45.136.119.238:80 - æ²¡ææ¾å°ç«ç¹
+216.119.97.221:80 - IIS 7.5 Detailed Error - 500.19 - Internal Server Error
+40.85.174.228:80 - Заголовок не найден
+134.117.194.189:80 - Atlas
+194.180.37.58:80 - Page not found
+77.238.75.243:80 - Please wait, the page is opening...
+59.110.40.216:80 - ç½ç«è®¿é®æ¥é
+103.154.145.20:80 - Imunify360
+23.194.165.154:80 - Заголовок не найден
+8.217.175.187:80 - 404 Not Found
+13.201.61.168:80 - The page you were looking for doesn't exist (404)
+23.6.254.6:80 - Заголовок не найден
+211.105.176.186:80 - index
+13.227.33.153:80 - Заголовок не найден
+18.165.181.180:80 - Заголовок не найден
+92.122.96.115:80 - Заголовок не найден
+18.239.246.244:80 - Заголовок не найден
+158.160.127.156:80 - Welcome to nginx!
+172.64.33.219:80 - Direct IP access not allowed | Cloudflare
+118.70.184.183:80 - 403 - Forbidden
+23.57.0.67:80 - Заголовок не найден
+23.61.150.9:80 - Заголовок не найден
+69.253.23.226:80 - 
+198.12.233.228:80 - Discover our collection of ebooks
+164.132.244.222:80 - 403 Forbidden
+24.198.78.106:80 - index
+67.225.138.15:80 - Заголовок не найден
+35.165.33.168:80 - Welcome to nginx!
+47.94.225.112:80 - ç½ç«è®¿é®æ¥é
+121.12.0.238:80 - Заголовок не найден
+79.225.78.229:80 - IIS Windows
+146.190.73.123:80 - ETR | Ingresar
+104.16.111.6:80 - Direct IP access not allowed | Cloudflare
+183.171.188.99:80 - Заголовок не найден
+195.205.134.68:80 - RouterOS router configuration page
+45.60.190.7:80 - Заголовок не найден
+89.161.151.252:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+24.226.33.12:80 - Заголовок не найден
+52.216.141.202:80 - Amazon S3 - Cloud Object Storage  - AWS
+160.248.6.172:80 - Apache HTTP Server Test Page powered by CentOS
+47.58.32.163:80 - Заголовок не найден
+104.68.255.247:80 - Заголовок не найден
+35.201.197.168:80 - Заголовок не найден
+69.227.106.229:80 - IIS Windows
+191.252.2.86:80 - Conselho Regional de Educação Física da 9ª Região Estado do Paraná
+123.56.79.59:80 - 图书馆智能化管理云平台
+23.196.130.70:80 - Заголовок не найден
+38.242.221.64:80 - a.marcogiorgetti.com &mdash;  Domain default page
+45.192.94.65:80 - IIS Windows Server
+221.149.74.49:80 - WEB SERVICE
+104.17.221.35:80 - Direct IP access not allowed | Cloudflare
+172.67.73.75:80 - Direct IP access not allowed | Cloudflare
+23.248.242.236:80 - 404 Not Found
+23.37.13.23:80 - Заголовок не найден
+107.170.250.10:80 - Apache2 Ubuntu Default Page: It works
+88.198.55.117:80 - Заголовок не найден
+176.112.202.223:80 - Welcome to nginx on Debian!
+61.49.42.122:80 - Заголовок не найден
+13.112.73.154:80 - Заголовок не найден
+23.11.58.171:80 - Заголовок не найден
+194.164.77.116:80 - Заголовок не найден
+52.201.162.90:80 - Ingresar al sistema
+27.101.211.45:80 - 403 Forbidden
+203.210.26.195:80 - IIS7
+2.18.175.114:80 - Заголовок не найден
+74.48.117.164:80 - æ²¡ææ¾å°ç«ç¹
+104.18.254.125:80 - Direct IP access not allowed | Cloudflare
+54.178.109.131:80 - 502 Bad Gateway
+23.218.91.92:80 - Заголовок не найден
+23.6.108.91:80 - Заголовок не найден
+43.198.134.51:80 - 503 Service Temporarily Unavailable
+85.128.181.165:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+103.80.121.123:80 - Заголовок не найден
+3.7.12.4:80 - Заголовок не найден
+195.201.104.87:80 - Заголовок не найден
+47.242.205.30:80 - 403 Forbidden
+149.96.35.108:80 - 403 Forbidden
+104.22.1.137:80 - Direct IP access not allowed | Cloudflare
+72.46.64.16:80 - Заголовок не найден
+99.181.66.126:80 - Заголовок не найден
+23.215.91.7:80 - Заголовок не найден
+54.192.195.67:80 - Заголовок не найден
+88.221.247.77:80 - Заголовок не найден
+190.176.253.26:80 - Заголовок не найден
+78.18.184.50:80 - 
+52.172.182.107:80 - 
+103.26.139.138:80 - Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
+93.88.201.4:80 - Заголовок не найден
+181.24.133.154:80 - Заголовок не найден
+117.202.10.24:80 - 
+184.31.242.56:80 - Заголовок не найден
+43.152.161.116:80 - Заголовок не найден
+44.235.55.27:80 - Secret San Jose – A Guide to the Weird, Wonderful, and Obscure
+37.34.182.49:80 - Kuwait Finder Server SOE Client
+213.174.156.70:80 - Welcome to nginx!
+27.54.141.24:80 - Заголовок не найден
+154.38.29.46:80 - ERROR: The requested URL could not be retrieved
+5.182.249.48:80 - 404 Not Found
+23.76.206.142:80 - Заголовок не найден
+52.216.94.59:80 - Amazon S3 - Cloud Object Storage  - AWS
+23.43.47.96:80 - Заголовок не найден
+104.21.81.101:80 - Direct IP access not allowed | Cloudflare
+62.72.27.161:80 - HTML5 Games - Play for free online
+23.97.170.189:80 - Microsoft Azure Web App - Error 404
+4.228.119.9:80 - Your Azure Function App is up and running.
+154.201.23.76:80 - Заголовок не найден
+186.6.250.61:80 - 
+195.15.221.87:80 - web host not found
+23.208.88.22:80 - Заголовок не найден
+178.248.238.54:80 - Welcome to nginx!
+176.74.16.34:80 - Заголовок не найден
+65.8.77.200:80 - Заголовок не найден
+13.41.62.91:80 - TURN AROUND!
+186.134.183.208:80 - Заголовок не найден
+116.203.29.227:80 - 404 Not Found
+23.33.12.134:80 - Заголовок не найден
+178.128.93.141:80 - Welcome to nginx!
+178.13.25.9:80 - 
+162.251.253.178:80 - Заголовок не найден
+3.90.206.40:80 - Заголовок не найден
