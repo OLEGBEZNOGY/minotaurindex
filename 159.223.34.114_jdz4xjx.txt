@@ -2438,3 +2438,23 @@
 124.221.203.56:80 - Заголовок не найден
 93.90.203.183:80 - Welcome to nginx!
 41.215.141.142:80 - RouterOS router configuration page
+157.143.144.122:80 - Ksenia Lares WebServer
+110.77.161.201:80 - 403 Forbidden
+13.213.102.113:80 - Manufacturers, Suppliers, Wholesalers, Importers & Exporters - Business Directory.
+147.189.132.48:80 - It worked! &mdash; Coming Soon
+18.155.31.181:80 - Заголовок не найден
+191.82.53.80:80 - Заголовок не найден
+156.254.148.139:80 - å¯åå¨±åk8å®ç½-å¯åk8å½éå¨±ä¹å®ç½å¥å£
+144.22.232.30:80 - MuShop
+109.116.233.43:80 - WEB SERVICE
+23.193.79.202:80 - Заголовок не найден
+162.159.253.212:80 - Direct IP access not allowed | Cloudflare
+202.70.57.96:80 - Заголовок не найден
+108.159.38.102:80 - Заголовок не найден
+18.244.97.124:80 - Заголовок не найден
+212.128.3.86:80 - Apache2 Ubuntu Default Page: It works
+18.142.214.223:80 - 403 Forbidden
+18.65.47.8:80 - Заголовок не найден
+13.33.58.194:80 - Заголовок не найден
+52.71.47.69:80 - Заголовок не найден
+104.20.19.190:80 - Direct IP access not allowed | Cloudflare
