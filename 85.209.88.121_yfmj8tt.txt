@@ -20183,3 +20183,20 @@
 75.183.204.175:80 - 
 193.39.190.12:80 - Apache2 Ubuntu Default Page: It works
 34.16.210.82:80 - Geocaching
+23.4.147.26:80 - Заголовок не найден
+85.217.169.184:80 - Please wait, the page is opening...
+23.254.243.21:80 - Concordia Lutheran Church, Duluth, MN
+34.125.211.144:80 - Access denied | Nilaari CiviCRM
+168.227.140.221:80 - 407 Proxy Authentication Required
+64.52.108.66:80 - 403 Forbidden
+52.95.146.152:80 - Amazon S3 - Cloud Object Storage  - AWS
+23.81.203.227:80 - 404 Not Found
+173.236.247.206:80 - Site not found &middot; DreamHost
+47.98.242.18:80 - Test Page for the Nginx HTTP Server on Fedora
+99.79.121.60:80 - Заголовок не найден
+103.251.150.43:80 - Заголовок не найден
+50.230.31.75:80 - 
+216.19.223.119:80 - 407 Proxy Authentication Required
+14.143.179.194:80 - IIS Windows
+2.20.119.54:80 - Заголовок не найден
+52.23.131.242:80 - Movable Ink Domain
