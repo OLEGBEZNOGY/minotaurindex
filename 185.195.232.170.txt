@@ -3184,3 +3184,11 @@
 44.201.237.168:80 - Заголовок не найден
 184.148.80.241:80 - Reliable Controls
 5.255.100.92:80 - 404 Not Found
+20.16.157.120:80 - 404 Not Found
+31.121.88.197:80 - MS4W - MapServer 4 Windows
+45.207.43.48:80 - IIS7
+3.160.196.122:80 - Заголовок не найден
+45.151.121.209:80 - 403 Forbidden
+3.106.88.93:80 - Virtual Styling – ShopShare
+104.129.53.23:80 - ERROR: The requested URL could not be retrieved
+13.228.206.134:80 - Заголовок не найден
