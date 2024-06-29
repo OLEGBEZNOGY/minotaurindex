@@ -3132,3 +3132,28 @@
 104.167.78.228:80 - Sorry, the website has been stopped
 212.253.87.37:80 - Apache2 Debian Default Page: It works
 108.141.93.174:80 - Заголовок не найден
+104.19.137.98:80 - Direct IP access not allowed | Cloudflare
+50.224.200.65:80 - Login Page
+104.102.116.239:80 - Заголовок не найден
+74.81.67.134:80 - Заголовок не найден
+3.145.237.216:80 - Apache2 Debian Default Page: It works
+107.175.233.102:80 - 500 Internal Server Error
+213.136.17.208:80 - Заголовок не найден
+4.175.208.23:80 - Microsoft Azure Web App - Error 404
+178.251.31.172:80 - Заголовок не найден
+104.156.85.208:80 - Fastly error: unknown domain 104.156.85.208
+178.63.239.131:80 - Заголовок не найден
+52.32.191.202:80 - Заголовок не найден
+88.221.47.198:80 - Заголовок не найден
+35.233.108.234:80 - CMS.SE - Hemsidor (WordPress), SEO &amp; Marknadsföring
+18.66.73.118:80 - Заголовок не найден
+38.63.14.74:80 - 500 Internal Server Error
+188.40.56.104:80 - 404 Not Found
+2.19.237.49:80 - Заголовок не найден
+202.164.219.35:80 - Заголовок не найден
+15.204.54.138:80 - Hosted By BisectHosting - BisectHosting
+124.236.71.211:80 - 403 Forbidden
+104.27.69.190:80 - Direct IP access not allowed | Cloudflare
+107.150.36.36:80 - 403 Forbidden
+96.6.111.64:80 - Заголовок не найден
+13.233.68.165:80 - Заголовок не найден
