@@ -10093,3 +10093,35 @@
 146.148.146.137:80 - Заголовок не найден
 13.81.247.135:80 - 404 Not Found
 83.247.64.62:80 - 
+23.50.69.203:80 - Заголовок не найден
+60.250.133.35:80 - Deltapath - Video & Voice Unified Communications Platform
+149.96.16.128:80 - 403 Forbidden
+18.154.109.240:80 - Заголовок не найден
+115.165.199.228:80 - 
+160.22.51.69:80 - Page not found
+45.196.7.201:80 - 403 Forbidden
+206.189.135.3:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+89.161.138.3:80 - RadoTech - serwis laserÃ³w COHERENT | ROFIN
+217.91.192.154:80 - Заголовок не найден
+195.15.233.209:80 - Заголовок не найден
+50.112.85.33:80 - Solon Construction &#8211; Solon Construction
+23.210.115.206:80 - Заголовок не найден
+187.189.143.28:80 - 
+23.60.123.240:80 - Заголовок не найден
+170.239.110.173:80 - GPON-ONU
+185.47.104.74:80 - Заголовок не найден
+104.252.242.116:80 - 403 Forbidden
+108.139.5.111:80 - Заголовок не найден
+38.173.66.221:80 - Welcome to nginx!
+108.179.233.212:80 - Not Acceptable!
+104.236.41.99:80 - Apache2 Ubuntu Default Page: It works
+168.119.155.7:80 - Rubaxx - Het innovatieve kwaliteitsmerk uit de apotheek
+18.64.73.161:80 - Заголовок не найден
+23.61.109.224:80 - Заголовок не найден
+63.197.89.213:80 - AT&T WiFi Portal
+89.151.101.82:80 - 404 Not Found
+176.240.80.172:80 - WEB SERVICE
+23.47.83.39:80 - Заголовок не найден
+18.163.248.131:80 - Welcome to nginx!
+192.142.31.129:80 - Заголовок не найден
+196.51.66.192:80 - ERROR: The requested URL could not be retrieved
