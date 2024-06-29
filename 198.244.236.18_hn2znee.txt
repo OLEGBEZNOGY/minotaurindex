@@ -17262,3 +17262,229 @@
 127.134.18.181:80 - IIS Windows Server
 54.166.1.132:80 - Заголовок не найден
 195.248.224.12:80 - 404 Not Found
+23.222.238.161:80 - Заголовок не найден
+127.140.32.86:80 - IIS Windows Server
+129.153.62.190:80 - 401 Authorization Required
+74.222.1.227:80 - 404 Not Found
+127.84.135.29:80 - IIS Windows Server
+23.33.232.178:80 - Заголовок не найден
+23.217.69.180:80 - Заголовок не найден
+47.75.194.109:80 - 404 Not Found
+115.164.11.49:80 - 403 Forbidden
+23.10.205.128:80 - Заголовок не найден
+20.24.235.28:80 - Заголовок не найден
+47.106.143.174:80 - 404 Not Found
+18.136.166.66:80 - Заголовок не найден
+220.134.134.35:80 - WEB SERVICE
+45.32.202.43:80 - Заголовок не найден
+139.99.26.235:80 - KLIKWIN88 > Daftar Akun Slot Gacor Deposit Pulsa Dana 10 Ribu Tanpa Potongan 2024
+3.163.103.194:80 - Заголовок не найден
+168.253.86.66:80 - RouterOS router configuration page
+24.107.141.75:80 - 
+18.154.180.103:80 - Заголовок не найден
+66.39.139.8:80 - Design Lunacy...the lunatic fringe of web development |home|
+127.217.33.124:80 - IIS Windows Server
+127.217.48.87:80 - IIS Windows Server
+94.97.239.225:80 - Заголовок не найден
+127.130.192.84:80 - IIS Windows Server
+2.16.227.244:80 - Заголовок не найден
+188.128.163.1:80 - Error 403
+35.227.68.66:80 - Welcome to nginx!
+127.116.54.8:80 - IIS Windows Server
+127.72.48.148:80 - IIS Windows Server
+127.161.17.46:80 - IIS Windows Server
+61.219.155.215:80 - 
+87.118.127.186:80 - Spazio host non definito
+127.248.121.139:80 - IIS Windows Server
+195.162.18.96:80 - Apache HTTP Server Test Page powered by CentOS
+116.62.59.113:80 - Заголовок не найден
+127.177.188.18:80 - IIS Windows Server
+67.205.146.246:80 - Policy Advice
+23.65.126.118:80 - Заголовок не найден
+112.48.134.224:80 - 您访问的网站不存在
+127.199.22.181:80 - IIS Windows Server
+63.166.164.185:80 - ePMP
+127.23.112.26:80 - IIS Windows Server
+127.249.211.135:80 - IIS Windows Server
+124.47.178.12:80 - Заголовок не найден
+63.198.1.17:80 - AT&T WiFi Portal
+52.199.234.253:80 - Заголовок не найден
+127.93.63.103:80 - IIS Windows Server
+127.252.153.65:80 - IIS Windows Server
+127.55.173.66:80 - IIS Windows Server
+51.222.254.9:80 - Success!
+127.34.226.211:80 - IIS Windows Server
+92.47.243.53:80 - GPON Home Gateway
+107.149.74.253:80 - æ²¡ææ¾å°ç«ç¹
+127.168.204.73:80 - IIS Windows Server
+159.90.61.111:80 - Заголовок не найден
+38.12.119.3:80 - æ²¡ææ¾å°ç«ç¹
+58.211.32.85:80 - 
+178.115.236.70:80 - Synotec Home
+45.60.128.142:80 - Заголовок не найден
+104.104.116.127:80 - Заголовок не найден
+217.73.168.35:80 - Заголовок не найден
+127.62.4.134:80 - IIS Windows Server
+210.203.11.223:80 - Заголовок не найден
+127.7.156.193:80 - IIS Windows Server
+18.164.250.79:80 - Заголовок не найден
+127.216.186.112:80 - IIS Windows Server
+104.17.161.29:80 - Direct IP access not allowed | Cloudflare
+3.249.130.203:80 - Used cars Blanchardstown, Ssangyoung Dublin, Used cars Dunboyne, clonee, Hollystown
+127.31.209.180:80 - IIS Windows Server
+34.44.135.230:80 - 404 Not Found
+185.251.207.163:80 - 403 Forbidden
+129.204.164.43:80 - Fridle Group - Home
+127.27.28.158:80 - IIS Windows Server
+4.245.118.190:80 - SophIA
+81.200.118.243:80 - ÐÐ¾Ð¼ÐµÐ½ Ð½Ðµ Ð¿ÑÐ¸Ð»Ð¸Ð½ÐºÐ¾Ð²Ð°Ð½ Ð½Ð¸ Ðº Ð¾Ð´Ð½Ð¾Ð¹ Ð¸Ð· Ð´Ð¸ÑÐµÐºÑÐ¾ÑÐ¸Ð¹ Ð½Ð° ÑÐµÑÐ²ÐµÑÐµ!
+127.209.33.54:80 - IIS Windows Server
+89.46.224.111:80 - Заголовок не найден
+113.184.6.104:80 - 
+47.13.107.137:80 - 
+192.177.29.157:80 - 404 Not Found
+35.174.178.26:80 - 503 Service Temporarily Unavailable
+127.86.107.1:80 - IIS Windows Server
+127.153.25.166:80 - IIS Windows Server
+34.126.235.240:80 - Заголовок не найден
+185.242.232.128:80 - 404 Not Found
+47.107.100.198:80 - Заголовок не найден
+18.67.17.209:80 - Заголовок не найден
+119.23.216.71:80 - æå¸åå±ç»¼åæå¡ç³»ç»
+178.32.60.42:80 - Web Server's Default Page
+127.212.87.48:80 - IIS Windows Server
+23.12.24.75:80 - Заголовок не найден
+127.236.51.132:80 - IIS Windows Server
+192.240.167.10:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+206.238.142.198:80 - 404 Not Found
+69.221.116.161:80 - Заголовок не найден
+47.109.43.50:80 - 404 Not Found
+184.28.27.114:80 - Заголовок не найден
+18.231.29.252:80 - 404 Not Found
+18.238.194.212:80 - Заголовок не найден
+127.233.59.154:80 - IIS Windows Server
+13.230.122.238:80 - 403 Forbidden
+46.22.37.224:80 - Web Server's Default Page
+190.102.40.219:80 - 404 - not found
+127.2.75.67:80 - IIS Windows Server
+127.171.104.95:80 - IIS Windows Server
+23.37.106.223:80 - Заголовок не найден
+161.35.124.71:80 - Proudly Managed By ServerAvatar
+127.192.7.233:80 - IIS Windows Server
+127.222.13.212:80 - IIS Windows Server
+50.240.239.180:80 - Login
+127.1.47.97:80 - IIS Windows Server
+127.108.167.39:80 - IIS Windows Server
+144.168.77.254:80 - Welcome to nginx!
+18.134.80.229:80 - Website Unavailable
+1.9.76.17:80 - Заголовок не найден
+18.154.210.170:80 - Заголовок не найден
+5.9.47.163:80 - Заголовок не найден
+104.67.3.145:80 - Заголовок не найден
+50.87.47.115:80 - Not Acceptable!
+88.221.167.218:80 - Заголовок не найден
+23.214.183.156:80 - Заголовок не найден
+127.208.197.171:80 - IIS Windows Server
+151.80.186.211:80 - Site en construction
+49.44.130.82:80 - Заголовок не найден
+149.96.181.85:80 - 403 Forbidden
+127.133.158.137:80 - IIS Windows Server
+127.236.96.238:80 - IIS Windows Server
+207.148.84.211:80 - Заголовок не найден
+23.58.155.63:80 - Заголовок не найден
+23.174.80.3:80 - 500 Internal Server Error
+54.208.236.70:80 - HurtShirt &#8211; Shirts So Funny They Hurt
+3.113.224.67:80 - WebClass
+127.64.133.142:80 - IIS Windows Server
+123.253.166.217:80 - Заголовок не найден
+154.9.59.135:80 - ERROR: The requested URL could not be retrieved
+127.151.231.249:80 - IIS Windows Server
+85.229.89.63:80 - Заголовок не найден
+72.246.214.196:80 - Заголовок не найден
+62.129.237.173:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+65.32.71.110:80 - 
+146.88.153.231:80 - Заголовок не найден
+93.170.236.87:80 - 403 Forbidden
+104.19.217.125:80 - Direct IP access not allowed | Cloudflare
+127.180.248.167:80 - IIS Windows Server
+23.48.92.250:80 - Заголовок не найден
+18.154.111.10:80 - Заголовок не найден
+127.22.220.17:80 - IIS Windows Server
+5.8.73.117:80 - Welcome to nginx!
+127.203.76.111:80 - IIS Windows Server
+146.190.28.9:80 - Daily Dread - Give us this day our daily dread - GIG POSTERS - ALBUM ARTWORK - LOGOS
+135.125.248.241:80 - Заголовок не найден
+146.235.18.104:80 - 404 Not Found
+127.22.110.149:80 - IIS Windows Server
+36.92.171.22:80 - Apache2 Ubuntu Default Page: It works
+127.18.136.211:80 - IIS Windows Server
+23.13.172.102:80 - Заголовок не найден
+23.206.137.124:80 - Заголовок не найден
+163.172.97.112:80 - 403 Forbidden
+127.215.46.179:80 - IIS Windows Server
+45.38.29.134:80 - 404 Not Found
+43.175.19.201:80 - Заголовок не найден
+216.162.114.202:80 - IIS Windows Server
+156.245.3.228:80 - Apache2 Ubuntu Default Page: It works
+127.25.152.99:80 - IIS Windows Server
+127.165.155.176:80 - IIS Windows Server
+127.59.196.193:80 - IIS Windows Server
+14.184.85.52:80 - WEB SERVICE
+114.33.239.208:80 - 401 Unauthorized
+3.133.168.79:80 - FinMed.asi - Admin Portal
+127.31.101.59:80 - IIS Windows Server
+52.14.3.216:80 - HTTP Status 404 – Not Found
+188.68.58.34:80 - Froxlor
+52.84.110.191:80 - Заголовок не найден
+118.31.17.150:80 - Заголовок не найден
+187.85.164.146:80 - Access forbidden!
+18.254.253.24:80 - Заголовок не найден
+38.180.13.132:80 - Заголовок не найден
+13.39.138.70:80 - Заголовок не найден
+50.28.19.80:80 - アメリカ確定申告は、米国の尾崎会計事務所へ
+38.152.175.16:80 - ERROR: The requested URL could not be retrieved
+82.223.212.186:80 - Заголовок не найден
+52.58.135.39:80 - 410 Gone
+127.148.48.243:80 - IIS Windows Server
+178.248.239.156:80 - Заголовок не найден
+23.197.53.224:80 - Заголовок не найден
+132.226.201.104:80 - JACK GREG COMPANY
+127.125.153.144:80 - IIS Windows Server
+23.195.195.58:80 - Заголовок не найден
+52.85.146.127:80 - Заголовок не найден
+120.26.215.234:80 - ç½ç«è®¿é®æ¥é
+127.81.233.226:80 - IIS Windows Server
+127.159.248.22:80 - IIS Windows Server
+23.7.137.99:80 - Заголовок не найден
+23.220.187.128:80 - Заголовок не найден
+62.233.251.183:80 - Impel - ochrona - osób i mienia, imprez masowych | Agencje ochrony, firma ochroniarska
+23.7.222.173:80 - Заголовок не найден
+217.168.181.155:80 - Заголовок не найден
+127.208.228.230:80 - IIS Windows Server
+44.239.255.215:80 - Portal OZmap
+46.4.194.172:80 - Welcome
+127.0.218.217:80 - IIS Windows Server
+159.223.181.133:80 - 404 Not Found
+18.154.165.47:80 - Заголовок не найден
+127.231.100.29:80 - IIS Windows Server
+127.193.210.37:80 - IIS Windows Server
+103.151.169.16:80 - RouterOS router configuration page
+18.229.67.89:80 - 503 Service Temporarily Unavailable
+81.133.120.59:80 - 
+127.185.229.216:80 - IIS Windows Server
+123.57.19.34:80 - Welcome to nginx!
+127.53.166.12:80 - IIS Windows Server
+23.225.244.106:80 - Welcome to nginx!
+63.135.103.100:80 - Заголовок не найден
+127.151.52.70:80 - IIS Windows Server
+127.203.108.163:80 - IIS Windows Server
+91.194.229.229:80 - Заголовок не найден
+45.117.82.228:80 - 
+39.108.137.77:80 - å®èºäººå±äº«è®²è§£å¨-åå°ç³»ç»ç®¡çä¸­å¿
+170.130.245.27:80 - 403 Forbidden
+23.217.156.75:80 - Заголовок не найден
+127.52.69.243:80 - IIS Windows Server
+127.47.3.20:80 - IIS Windows Server
+127.79.200.160:80 - IIS Windows Server
+34.207.24.91:80 - Заголовок не найден
+127.252.20.210:80 - IIS Windows Server
