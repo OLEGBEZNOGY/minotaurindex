@@ -12444,3 +12444,37 @@ empresarial y tecnológico.
 39.135.227.29:80 - 403 Forbidden
 175.120.47.158:80 - IIS Windows
 173.246.124.39:80 - Apache2 Ubuntu Default Page: It works
+178.16.87.159:80 - 403 Forbidden
+222.185.254.201:80 - 403 Forbidden
+3.120.62.70:80 - Заголовок не найден
+217.208.57.118:80 - 404 Not Found
+172.66.198.174:80 - Direct IP access not allowed | Cloudflare
+52.30.44.60:80 - Заголовок не найден
+192.126.232.13:80 - ERROR: The requested URL could not be retrieved
+166.250.170.102:80 - Заголовок не найден
+117.162.51.81:80 - Заголовок не найден
+47.96.6.237:80 - å§¬éð¦çæé³ - æé³
+124.40.55.116:80 - Заголовок не найден
+139.129.211.74:80 - å·¥ä½éç®¡çå¹³å°
+38.33.193.41:80 - Заголовок не найден
+161.97.119.197:80 - 401 - Unauthorized: Access is denied due to invalid credentials.
+188.247.59.182:80 - Login
+3.234.201.38:80 - 503 Service Temporarily Unavailable
+91.134.174.13:80 - Entreprise de toiture Rive Olivier pour tous vos projets toitures
+52.194.62.48:80 - Apache HTTP Server Test Page powered by CentOS
+54.230.66.136:80 - Заголовок не найден
+192.254.225.237:80 - Not Acceptable!
+192.53.162.247:80 - Welcome to nginx!
+196.51.176.147:80 - ERROR: The requested URL could not be retrieved
+20.187.83.0:80 - Заголовок не найден
+23.61.186.43:80 - Заголовок не найден
+49.124.210.16:80 - MPKK Sample Apps 1
+107.172.51.82:80 - 500 Internal Server Error
+62.171.176.18:80 - Натуральна доглядова косметика | Офіційний сайт Lizar - Lizar
+47.88.4.68:80 - Welcome to nginx!
+23.49.171.235:80 - Заголовок не найден
+188.26.60.163:80 - 
+80.65.221.1:80 - ERROR: The requested URL could not be retrieved
+134.122.27.13:80 - Welcome to nginx!
+23.220.115.209:80 - Заголовок не найден
+54.178.106.31:80 - Заголовок не найден
