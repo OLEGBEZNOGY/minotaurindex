@@ -2831,3 +2831,22 @@
 184.27.173.254:80 - Заголовок не найден
 23.12.18.58:80 - Заголовок не найден
 8.134.67.61:80 - Sorry, the website has been stopped
+136.232.68.218:80 - 
+185.199.52.126:80 - Edulinks : Sistem Manajemen Sekolah Terbaik dan Termudah di Indonesia
+112.216.51.162:80 - Hello! Welcome to Synology Web Station!
+172.67.12.170:80 - Direct IP access not allowed | Cloudflare
+13.211.36.240:80 - Заголовок не найден
+23.208.113.138:80 - Заголовок не найден
+209.0.6.37:80 - Show Schedule 6/29/2024
+172.168.45.7:80 - Заголовок не найден
+23.195.1.148:80 - Заголовок не найден
+185.164.73.59:80 - IIS Windows Server
+50.198.208.106:80 - Web Viewer for Samsung DVR
+35.168.195.190:80 - 403 - Forbidden: Access is denied.
+45.43.219.20:80 - 404 Not Found
+23.223.95.220:80 - Заголовок не найден
+18.66.189.37:80 - Заголовок не найден
+156.250.140.79:80 - 404 Not Found
+52.92.193.145:80 - Amazon S3 - Cloud Object Storage  - AWS
+45.60.125.187:80 - Заголовок не найден
+3.129.239.12:80 - Заголовок не найден
