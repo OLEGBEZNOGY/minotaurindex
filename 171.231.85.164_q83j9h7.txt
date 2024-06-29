@@ -14,3 +14,9 @@
 143.125.234.241:80 - 名古屋・三河の大型リサイクルショップ エコ・ドリーム
 62.20.105.112:80 - IIS Windows Server
 192.227.184.86:80 - Home
+13.33.133.248:80 - Заголовок не найден
+117.24.169.222:80 - 403 Forbidden
+82.165.183.163:80 - Eternytime GPS Tracking solution
+3.131.81.107:80 - Success!
+154.196.10.145:80 - Заголовок не найден
+154.9.39.252:80 - ERROR: The requested URL could not be retrieved
