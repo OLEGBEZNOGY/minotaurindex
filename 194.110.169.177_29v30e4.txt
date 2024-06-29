@@ -14594,3 +14594,32 @@ empresarial y tecnológico.
 23.229.240.132:80 - Sci Forschen | Open Access Journals | Online Publishers
 185.133.197.161:80 - Welcome to nginx!
 185.232.225.28:80 - Authentification utilisateur
+142.93.118.67:80 - Vixor
+54.238.6.119:80 - mounsea
+165.22.58.33:80 - Betaverse
+50.230.129.104:80 - 
+52.85.231.55:80 - Заголовок не найден
+23.63.47.54:80 - Заголовок не найден
+199.232.79.140:80 - Fastly error: unknown domain 199.232.79.140
+184.84.107.43:80 - Заголовок не найден
+178.158.184.86:80 - 500 Internal Server Error
+77.37.93.174:80 - 403 Forbidden
+47.27.98.235:80 - 
+51.124.50.173:80 - Microsoft Azure Web App - Error 404
+184.87.231.214:80 - Заголовок не найден
+184.31.158.90:80 - Заголовок не найден
+103.242.190.2:80 - Please wait, the login page is opening...
+172.67.97.84:80 - Direct IP access not allowed | Cloudflare
+114.214.32.140:80 - 404 Not Found
+81.169.181.14:80 - Apache2 Ubuntu Default Page: It works
+72.167.67.25:80 - Coming Soon
+65.132.21.44:80 - Document Moved
+168.205.217.233:80 - Login
+96.16.243.19:80 - Заголовок не найден
+82.77.145.198:80 - Заголовок не найден
+68.169.52.117:80 - We'll Have More Soon
+23.222.176.178:80 - Заголовок не найден
+50.28.99.150:80 - IIS Windows Server
+5.45.236.168:80 - 410 Gone
+18.245.45.28:80 - Заголовок не найден
+184.50.194.242:80 - Заголовок не найден
