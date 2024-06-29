@@ -12053,3 +12053,30 @@
 184.26.73.19:80 - Заголовок не найден
 104.21.70.63:80 - Direct IP access not allowed | Cloudflare
 103.219.61.105:80 - Teacher Login || DreamZone
+172.64.28.197:80 - Direct IP access not allowed | Cloudflare
+220.86.61.216:80 - Заголовок не найден
+23.63.14.13:80 - Заголовок не найден
+184.27.102.221:80 - Заголовок не найден
+155.159.116.197:80 - æ²¡ææ¾å°ç«ç¹
+196.51.172.7:80 - ERROR: The requested URL could not be retrieved
+54.147.175.123:80 - Apache2 Ubuntu Default Page: It works
+97.74.82.47:80 - 亞培活動排班系統
+129.219.107.9:80 - SER WMS System
+41.44.35.164:80 - 
+23.4.39.243:80 - Заголовок не найден
+104.16.113.77:80 - Direct IP access not allowed | Cloudflare
+95.79.50.88:80 - RouterOS router configuration page
+54.249.30.177:80 - 403 Forbidden
+23.40.35.15:80 - Заголовок не найден
+77.78.17.32:80 - Please wait, the login page is opening...
+178.62.88.165:80 - Artboard
+62.129.195.1:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+130.43.133.214:80 - WEB SERVICE
+38.154.26.40:80 - ERROR: The requested URL could not be retrieved
+34.196.197.198:80 - myECRS
+23.34.251.126:80 - Заголовок не найден
+173.232.178.123:80 - 403 Forbidden
+148.101.162.50:80 - 
+222.121.77.205:80 - 
+100.29.33.87:80 - Take Your Block
+87.121.32.197:80 - Please wait, the page is opening...
