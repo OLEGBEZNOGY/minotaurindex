@@ -893,3 +893,41 @@
 222.105.0.107:80 - 
 18.165.119.188:80 - Заголовок не найден
 69.54.228.197:80 - Заголовок не найден
+104.83.115.251:80 - Заголовок не найден
+23.60.133.151:80 - Заголовок не найден
+52.44.55.220:80 - BeOn Control
+52.239.218.52:80 - Заголовок не найден
+18.154.201.249:80 - Заголовок не найден
+13.224.246.7:80 - Заголовок не найден
+20.12.181.93:80 - Заголовок не найден
+83.166.141.131:80 - web host not found
+172.104.62.139:80 - F&amp;C Group of Companies
+173.232.88.222:80 - 403 Forbidden
+172.64.203.146:80 - Direct IP access not allowed | Cloudflare
+219.231.130.245:80 - 404 Not Found
+162.241.252.207:80 - Not Acceptable!
+173.241.115.39:80 - Заголовок не найден
+23.41.100.69:80 - Заголовок не найден
+109.248.42.145:80 - Apache2 Ubuntu Default Page: It works
+13.67.222.253:80 - Aware4Duty - Site Selection
+64.38.169.31:80 - Web Server's Default Page
+23.210.138.14:80 - Заголовок не найден
+23.50.178.244:80 - Заголовок не найден
+188.93.230.93:80 - Welcome to nginx!
+47.96.189.20:80 - Заголовок не найден
+172.93.232.25:80 - ERROR: The requested URL could not be retrieved
+50.31.202.61:80 - 403 - Forbidden: Access is denied.
+118.25.150.198:80 - 404 Not Found
+185.132.177.227:80 - Apache HTTP Server Test Page powered by CentOS
+114.117.131.22:80 - Заголовок не найден
+45.249.101.227:80 - BoomCast | A complete voice broadcasting, text messaging, and IVR solution to boom your business revenue and save time
+168.76.15.239:80 - æ²¡ææ¾å°ç«ç¹
+51.83.109.29:80 - Welcome to nginx!
+43.233.30.127:80 - ACALAベースステーション基本設定
+35.172.41.18:80 - Jira Service Management
+52.154.62.107:80 - Заголовок не найден
+185.108.115.38:80 - 
+122.117.225.134:80 - 401 Unauthorized
+24.167.19.34:80 - 
+212.26.248.90:80 - IIS Windows Server
+121.143.195.121:80 - Gargoyle Router Management Utility
