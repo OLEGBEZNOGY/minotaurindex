@@ -58,3 +58,14 @@
 23.33.198.55:80 - Заголовок не найден
 38.174.238.176:80 - Заголовок не найден
 185.18.9.246:80 - 404 Not Found
+20.141.251.243:80 - Заголовок не найден
+80.147.75.215:80 - ACME Access Only
+13.88.15.88:80 - 404 Not Found
+181.174.228.107:80 - Wispro | Bmu
+23.248.216.37:80 - 500 Internal Server Error
+198.71.63.135:80 - Apache2 Ubuntu Default Page: It works
+104.238.35.36:80 - FASTPANEL2
+193.177.182.116:80 - Apache2 Debian Default Page: It works
+138.121.127.123:80 - 403 Forbidden
+170.100.192.235:80 - Apache2 Ubuntu Default Page: It works
+23.94.153.248:80 - 403 Forbidden
