@@ -80,3 +80,15 @@
 175.24.209.4:80 - 404 Not Found
 68.66.241.131:80 - 403 Forbidden
 54.168.62.115:80 - Test Page for the Apache HTTP Server
+216.81.117.128:80 - Web Site Blocked
+58.182.47.240:80 - Заголовок не найден
+192.163.241.218:80 - Заголовок не найден
+104.21.10.71:80 - Direct IP access not allowed | Cloudflare
+217.73.188.244:80 - ACME Access Only
+18.221.12.113:80 - XrpGoat: Validate This
+52.84.155.72:80 - Заголовок не найден
+104.107.231.229:80 - Заголовок не найден
+38.60.64.129:80 - 404 Not Found
+57.180.210.246:80 - Заголовок не найден
+128.245.193.112:80 - 403 - Forbidden: Access is denied.
+104.16.113.174:80 - Direct IP access not allowed | Cloudflare
