@@ -3160,3 +3160,216 @@
 87.252.229.39:80 - Заголовок не найден
 127.17.48.94:80 - IIS Windows Server
 127.71.172.167:80 - IIS Windows Server
+192.3.237.33:80 - 500 Internal Server Error
+190.145.142.46:80 - WEB SERVICE
+13.48.13.101:80 - The Luxe Developers CRM
+127.107.197.232:80 - IIS Windows Server
+44.238.222.248:80 - Health Check
+160.202.109.252:80 - 404 Not Found
+127.153.49.165:80 - IIS Windows Server
+127.215.142.84:80 - IIS Windows Server
+34.231.255.85:80 - user&#039;s Blog! &#8211; Just another WordPress site
+23.208.211.81:80 - Заголовок не найден
+185.38.225.93:80 - RouterOS router configuration page
+127.40.26.245:80 - IIS Windows Server
+127.30.105.128:80 - IIS Windows Server
+23.50.17.212:80 - Заголовок не найден
+35.77.142.92:80 - Заголовок не найден
+23.56.164.147:80 - Заголовок не найден
+44.233.114.151:80 - Apache2 Ubuntu Default Page: It works
+127.93.249.161:80 - IIS Windows Server
+68.118.246.198:80 - 
+127.47.187.207:80 - IIS Windows Server
+127.192.238.35:80 - IIS Windows Server
+162.220.215.196:80 - IIS Windows Server
+52.244.199.116:80 - Your Azure Function App is up and running.
+127.52.149.162:80 - IIS Windows Server
+104.152.219.102:80 - Custom Software Engineering &amp; Consulting | Open Sky Software
+38.31.203.115:80 - 404 Not Found
+59.39.179.77:80 - &nbsp;&nbsp;
+172.104.255.161:80 - Welcome to nginx!
+127.170.209.110:80 - IIS Windows Server
+20.40.240.80:80 - Заголовок не найден
+74.127.189.157:80 - .::Welcome to ZyXEL VSG1432-B101::.
+23.221.188.217:80 - Заголовок не найден
+127.40.111.181:80 - IIS Windows Server
+158.199.161.14:80 - ControlPanel
+213.3.24.57:80 - Saia PCD Web-Server
+157.182.150.43:80 - Welcome to nginx!
+77.222.145.54:80 - Welcome to nginx!
+8.218.222.211:80 - Welcome to nginx!
+23.73.205.13:80 - Заголовок не найден
+72.255.230.82:80 - 
+127.2.185.28:80 - IIS Windows Server
+52.38.48.215:80 - 403 Forbidden
+220.80.56.200:80 - 
+127.33.66.46:80 - IIS Windows Server
+127.84.102.129:80 - IIS Windows Server
+192.195.77.114:80 - 403 Forbidden
+23.197.238.34:80 - Заголовок не найден
+152.136.222.192:80 - 郑州海达电子科技有限公司
+174.45.24.75:80 - 
+18.164.109.166:80 - Заголовок не найден
+54.220.8.83:80 - 404 Not Found
+45.151.251.79:80 - Markanızı Öne Çıkaran Etkili Tanıtım Yazıları - tanitimyazisi.co
+127.146.109.61:80 - IIS Windows Server
+184.26.81.71:80 - Заголовок не найден
+163.5.202.229:80 - Apache2 Ubuntu Default Page: It works
+177.67.127.13:80 - Заголовок не найден
+38.177.212.6:80 - Заголовок не найден
+178.215.205.209:80 - 403 Forbidden
+13.251.182.86:80 - Заголовок не найден
+78.94.234.186:80 - WV-SC384 Network Camera
+13.224.203.158:80 - Заголовок не найден
+193.238.183.242:80 - 404 Not Found
+88.99.59.214:80 - Sofortige Weiterleitung...
+127.115.191.75:80 - IIS Windows Server
+2.20.83.222:80 - Заголовок не найден
+207.204.18.148:80 - 403 Forbidden
+94.73.151.86:80 - 404 Not Found
+190.199.91.209:80 - 
+210.178.56.149:80 - main page
+47.129.52.199:80 - トップページ - ゼロセールス | 株式会社CTF GROUP
+154.212.35.40:80 - Заголовок не найден
+70.39.74.174:80 - ERROR: The requested URL could not be retrieved
+127.45.167.168:80 - IIS Windows Server
+184.29.220.169:80 - Заголовок не найден
+154.23.176.130:80 - 404 Not Found
+3.164.144.82:80 - Заголовок не найден
+127.140.62.188:80 - IIS Windows Server
+121.199.161.68:80 - 404 Not Found
+127.44.238.86:80 - IIS Windows Server
+195.246.106.173:80 - ExtremeXOS ScreenPlay&#174;
+115.76.193.97:80 - Заголовок не найден
+127.15.33.33:80 - IIS Windows Server
+125.128.32.103:80 - Login
+162.19.82.31:80 - Заголовок не найден
+3.7.119.193:80 - Welcome to nginx!
+127.197.222.237:80 - IIS Windows Server
+114.33.149.241:80 - Заголовок не найден
+45.160.125.20:80 - Заголовок не найден
+127.69.64.222:80 - IIS Windows Server
+50.2.42.81:80 - 403 Forbidden
+127.112.58.193:80 - IIS Windows Server
+127.217.79.178:80 - IIS Windows Server
+24.236.149.114:80 - 
+116.203.217.18:80 - mailcow UI
+127.197.189.153:80 - IIS Windows Server
+127.138.226.73:80 - IIS Windows Server
+208.53.113.160:80 - Заголовок не найден
+59.91.187.51:80 - XPON-1G3F-5G
+127.115.228.237:80 - IIS Windows Server
+154.26.174.3:80 - ERROR: The requested URL could not be retrieved
+127.87.227.190:80 - IIS Windows Server
+38.11.13.75:80 - 404 Not Found
+98.28.38.194:80 - 
+165.22.244.156:80 - 404 Not Found
+127.136.246.88:80 - IIS Windows Server
+98.64.11.7:80 - Your Azure Function App is up and running.
+66.252.98.179:80 - IIS Windows Server
+38.253.143.177:80 - 
+39.106.129.183:80 - æ²¡ææ¾å°ç«ç¹
+127.227.190.172:80 - IIS Windows Server
+127.143.42.64:80 - IIS Windows Server
+175.24.152.246:80 - Заголовок не найден
+39.106.82.95:80 - Welcome to CentOS
+52.52.221.106:80 - Заголовок не найден
+20.60.23.164:80 - InvalidUri
+103.88.219.74:80 - Please wait, the login page is opening...
+127.192.68.237:80 - IIS Windows Server
+52.197.26.32:80 - ã²ãã è§£æ æ²»é¨ãããã³ã°
+193.0.126.150:80 - Strona Główna - Wydział Zarządzania - Uniwersytet Warszawski - WZ UW
+127.247.25.112:80 - IIS Windows Server
+45.52.187.176:80 - Login
+3.69.184.137:80 - Login - Freedomsat X
+178.128.223.114:80 - 
+83.98.160.74:80 - Заголовок не найден
+127.45.102.161:80 - IIS Windows Server
+181.143.66.202:80 - 
+127.45.24.223:80 - IIS Windows Server
+127.178.96.212:80 - IIS Windows Server
+44.197.254.80:80 - Заголовок не найден
+127.223.212.193:80 - IIS Windows Server
+209.97.137.5:80 - Заголовок не найден
+127.13.37.156:80 - IIS Windows Server
+77.111.239.18:80 - 
+127.113.240.185:80 - IIS Windows Server
+167.71.113.170:80 - CD-RUN
+127.93.228.147:80 - IIS Windows Server
+185.242.1.177:80 - Заголовок не найден
+127.246.185.249:80 - IIS Windows Server
+24.181.221.59:80 - Заголовок не найден
+151.101.180.43:80 - Fastly error: unknown domain 151.101.180.43
+127.109.56.234:80 - IIS Windows Server
+127.188.127.50:80 - IIS Windows Server
+23.63.84.88:80 - Заголовок не найден
+23.50.131.213:80 - Заголовок не найден
+75.132.234.248:80 - 
+66.39.16.17:80 - Index of /
+3.108.130.117:80 - Mindery Tech
+127.61.139.205:80 - IIS Windows Server
+193.205.134.232:80 - Заголовок не найден
+36.138.217.241:80 - Заголовок не найден
+127.171.222.175:80 - IIS Windows Server
+202.253.106.181:80 - Заголовок не найден
+34.173.88.19:80 - Site Not Configured | 404 Not Found
+101.201.49.237:80 - æåæ¸ éæ½å¥åå°ç®¡çç³»ç»
+104.24.210.45:80 - Direct IP access not allowed | Cloudflare
+51.140.26.197:80 - Заголовок не найден
+62.129.230.79:80 - Заголовок не найден
+127.113.40.246:80 - IIS Windows Server
+127.178.100.15:80 - IIS Windows Server
+127.214.46.2:80 - IIS Windows Server
+14.231.182.9:80 - 403 Forbidden
+45.223.169.57:80 - Заголовок не найден
+173.222.14.160:80 - Заголовок не найден
+104.159.192.154:80 - Document Moved
+43.200.214.87:80 - SB Admin 2 - Login
+127.38.151.255:80 - IIS Windows Server
+77.55.104.67:80 - Заголовок не найден
+130.211.39.154:80 - 502 Server Error
+127.17.52.168:80 - IIS Windows Server
+127.39.86.50:80 - IIS Windows Server
+127.145.153.221:80 - IIS Windows Server
+141.170.209.240:80 - 
+162.159.45.0:80 - Direct IP access not allowed | Cloudflare
+205.185.114.26:80 - Sorry, the website has been stopped
+104.99.48.5:80 - Заголовок не найден
+127.28.198.36:80 - IIS Windows Server
+64.7.74.197:80 - Index
+148.139.72.128:80 - 403 Forbidden
+127.115.54.155:80 - IIS Windows Server
+193.6.33.119:80 - Admin felület
+127.144.128.22:80 - IIS Windows Server
+127.85.4.20:80 - IIS Windows Server
+193.112.148.158:80 - Заголовок не найден
+180.92.194.237:80 - Заголовок не найден
+75.127.5.64:80 - 407 Proxy Authentication Required
+23.223.176.187:80 - Заголовок не найден
+154.31.247.87:80 - 403 Forbidden
+96.225.74.49:80 - 
+212.174.13.193:80 - Web Server's Default Page
+23.216.33.145:80 - Заголовок не найден
+52.169.187.176:80 - Microsoft Azure Web App - Error 404
+134.158.38.80:80 - Web Page Blocked
+127.161.7.229:80 - IIS Windows Server
+23.67.132.238:80 - Заголовок не найден
+106.14.71.220:80 - 502 Bad Gateway
+127.131.23.202:80 - IIS Windows Server
+119.245.153.71:80 - »w@Hct
+119.28.66.96:80 - IIS Windows Server
+127.149.89.175:80 - IIS Windows Server
+3.109.72.238:80 - Mi Digital Autopilot
+108.156.119.205:80 - Заголовок не найден
+102.184.203.23:80 - Заголовок не найден
+1.14.168.128:80 - 502 Bad Gateway
+127.4.252.49:80 - IIS Windows Server
+38.6.205.141:80 - Заголовок не найден
+127.234.138.249:80 - IIS Windows Server
+20.241.148.65:80 - Your Azure Function App is up and running.
+89.244.78.28:80 - w071004 - Login
+127.230.119.101:80 - IIS Windows Server
+104.83.2.245:80 - Заголовок не найден
+127.0.74.61:80 - IIS Windows Server
+13.224.196.123:80 - Заголовок не найден
+18.66.191.173:80 - Заголовок не найден
