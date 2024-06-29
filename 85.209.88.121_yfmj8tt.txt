@@ -3144,3 +3144,11 @@
 106.14.252.56:80 - Test Page for the Nginx HTTP Server on Fedora
 23.174.200.90:80 - Заголовок не найден
 5.189.175.12:80 - Apache2 Debian Default Page: It works
+103.149.42.204:80 - Web Server's Default Page
+154.31.46.43:80 - 404 Not Found
+134.122.143.224:80 - 聯繫我們
+165.225.120.180:80 - Internet Security by Zscaler
+177.78.203.10:80 - Заголовок не найден
+76.201.158.178:80 - IIS Windows
+154.0.170.244:80 - Заголовок не найден
+49.50.90.192:80 - Заголовок не найден
