@@ -1,0 +1,15 @@
+160.121.12.59:80 - 403 Forbidden
+198.12.214.29:80 - The Kimberly Center
+103.82.29.246:80 - 404 Not Found
+104.70.68.209:80 - Заголовок не найден
+45.114.225.125:80 - Заголовок не найден
+13.210.234.5:80 - Page not found &#8211; PetKlix
+18.64.51.113:80 - Заголовок не найден
+54.230.58.32:80 - Заголовок не найден
+18.65.106.32:80 - Заголовок не найден
+104.22.92.6:80 - Direct IP access not allowed | Cloudflare
+18.130.147.171:80 - Find an Interpreter | Association of Sign Language Interpreters
+192.229.133.3:80 - 404 - Not Found
+23.198.95.254:80 - Заголовок не найден
+172.64.100.11:80 - Direct IP access not allowed | Cloudflare
+67.205.6.227:80 - sustainabilityhistory.org is almost here!
