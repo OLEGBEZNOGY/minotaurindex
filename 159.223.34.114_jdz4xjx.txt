@@ -2911,3 +2911,37 @@
 5.133.202.108:80 - Database Error
 104.21.91.55:80 - Direct IP access not allowed | Cloudflare
 220.133.232.13:80 - 
+104.24.243.187:80 - Direct IP access not allowed | Cloudflare
+120.27.240.119:80 - JingHong Data TECHNOLOGY
+185.190.189.98:80 - Заголовок не найден
+194.26.177.248:80 - ERROR: The requested URL could not be retrieved
+134.122.72.53:80 - Human Shift Magazine movement transformation - Human Shift
+18.239.79.208:80 - Заголовок не найден
+148.0.19.238:80 - Acceso Web
+77.76.29.85:80 - Заголовок не найден
+65.36.213.107:80 - Заголовок не найден
+95.100.227.20:80 - Заголовок не найден
+190.174.131.245:80 - Заголовок не найден
+217.160.146.221:80 - Chris Gormlie - Freelance Camerawork and award-winning editing.
+20.231.45.104:80 - 
+108.177.200.244:80 - ERROR: The requested URL could not be retrieved
+23.218.247.177:80 - Заголовок не найден
+104.223.140.213:80 - ERROR: The requested URL could not be retrieved
+182.163.54.45:80 - Apache HTTP Server Test Page powered by CentOS
+104.21.27.97:80 - Direct IP access not allowed | Cloudflare
+91.126.147.171:80 - GPON Home Gateway
+66.242.136.109:80 - Заголовок не найден
+104.74.173.121:80 - Заголовок не найден
+108.186.44.245:80 - Заголовок не найден
+35.186.250.140:80 - 403
+168.206.159.172:80 - æ²¡ææ¾å°ç«ç¹
+52.67.157.212:80 - 404 Not Found
+13.249.39.38:80 - Заголовок не найден
+192.3.41.145:80 - 404 Not Found
+120.26.42.122:80 - 淘宝装修网店服务平台-后台登陆
+167.71.45.196:80 - Bunkerweb
+23.195.165.183:80 - Заголовок не найден
+154.195.219.72:80 - Sorry, the website has been stopped
+156.213.90.230:80 - 
+23.201.115.18:80 - Заголовок не найден
+34.95.98.166:80 - Заголовок не найден
