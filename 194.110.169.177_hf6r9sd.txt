@@ -3083,3 +3083,46 @@
 88.22.217.21:80 - 404 Not Found
 205.164.58.103:80 - 403 Forbidden
 47.106.241.247:80 - èçç±³ç§æ
+54.236.114.132:80 - Site is undergoing maintenance
+104.24.239.218:80 - Direct IP access not allowed | Cloudflare
+23.209.103.52:80 - Заголовок не найден
+60.43.137.245:80 - ãÃ@lÝÌèï@à_cNjbN
+172.66.42.223:80 - Direct IP access not allowed | Cloudflare
+187.190.231.223:80 - 
+192.185.180.146:80 - Not Acceptable!
+68.185.192.99:80 - 
+164.156.124.219:80 - 403 - Forbidden: Access is denied.
+23.6.245.2:80 - Заголовок не найден
+23.201.173.140:80 - Заголовок не найден
+104.24.156.119:80 - Direct IP access not allowed | Cloudflare
+143.95.250.147:80 - 500 - Internal server error.
+199.178.170.2:80 - Apache2 Debian Default Page: It works
+112.133.30.44:80 - 
+194.36.61.253:80 - STARFACE VoIP Software
+119.254.118.21:80 - 404 Not Found
+185.232.85.80:80 - Заголовок не найден
+85.128.189.25:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+131.159.24.225:80 - Large-scale DNS Measurements
+61.83.6.38:80 - DM-AP240 WebServer
+23.73.113.8:80 - Заголовок не найден
+194.164.203.75:80 - 503 Service Temporarily Unavailable
+178.128.121.114:80 - Tamon Advisory Company Limited &#8211; Contact us: tamonnak@gmail.com
+134.169.129.21:80 - Anmelden – Tandemportal des Sprachenzentrums
+203.171.240.123:80 - RouterOS router configuration page
+103.149.200.41:80 - 404 Not Found
+18.66.146.232:80 - Заголовок не найден
+8.134.250.186:80 - é¸¿å¤§çæ§ç³»ç»-äºç«¯ç»å½
+23.194.218.108:80 - Заголовок не найден
+49.213.202.47:80 - 
+23.46.235.15:80 - Заголовок не найден
+149.88.81.207:80 - Заголовок не найден
+173.205.89.211:80 - ç«ç¹åå»ºæå-phpstudy for windows
+81.196.243.128:80 - 
+110.234.7.218:80 - Заголовок не найден
+23.217.132.199:80 - Заголовок не найден
+37.221.207.5:80 - Home page - WebAppMinzdrav
+125.94.245.163:80 - Заголовок не найден
+217.156.46.120:80 - Consulting &#8211; Contabilitate, Salarizare, Resurse Umane
+154.56.218.14:80 - 500 Internal Server Error
+52.87.20.27:80 - Заголовок не найден
+95.163.236.240:80 - Welcome to nginx!
