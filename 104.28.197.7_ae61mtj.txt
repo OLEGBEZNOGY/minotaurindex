@@ -1,0 +1,7 @@
+93.159.238.184:80 - 502 Bad Gateway
+104.27.29.88:80 - Direct IP access not allowed | Cloudflare
+46.232.146.229:80 - .::Welcome to the Web-Based Configurator::.
+34.117.13.199:80 - 403 Forbidden
+23.213.122.117:80 - Заголовок не найден
+152.228.166.115:80 - 404 Not Found
+185.186.147.0:80 - æ²¡ææ¾å°ç«ç¹
