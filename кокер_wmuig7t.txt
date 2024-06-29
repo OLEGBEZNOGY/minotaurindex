@@ -1343,3 +1343,285 @@
 23.108.207.84:80 - Заголовок не найден
 217.121.181.180:80 - Grayscale - Start Bootstrap Theme
 52.5.241.115:80 - 503 Service Temporarily Unavailable
+27.126.239.138:80 - 
+44.216.243.78:80 - Заголовок не найден
+127.146.211.130:80 - IIS Windows
+198.55.107.23:80 - Заголовок не найден
+127.61.117.160:80 - IIS Windows
+127.97.113.193:80 - IIS Windows
+127.87.240.190:80 - IIS Windows
+127.22.218.165:80 - IIS Windows
+23.6.213.173:80 - Заголовок не найден
+127.143.196.163:80 - IIS Windows
+23.19.39.94:80 - Заголовок не найден
+127.95.25.83:80 - IIS Windows
+104.207.226.114:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+18.65.190.248:80 - Заголовок не найден
+127.57.67.232:80 - IIS Windows
+96.16.106.83:80 - Заголовок не найден
+127.229.72.188:80 - IIS Windows
+146.158.13.46:80 - 403 Forbidden
+37.218.254.107:80 - Apache HTTP Server Test Page powered by CentOS
+47.120.74.80:80 - 404 Not Found
+108.186.229.50:80 - 404 Not Found
+52.92.181.104:80 - Amazon S3 - Cloud Object Storage  - AWS
+23.15.95.115:80 - Заголовок не найден
+52.151.36.2:80 - Microsoft Azure Web App - Error 404
+104.82.227.18:80 - Заголовок не найден
+103.61.23.80:80 - 404 Not Found
+85.13.134.143:80 - 503 Service Temporarily Unavailable
+141.224.232.18:80 - Заголовок не найден
+104.17.69.3:80 - Direct IP access not allowed | Cloudflare
+102.133.235.23:80 - IIS Windows Server
+64.106.201.117:80 - Заголовок не найден
+127.202.177.57:80 - IIS Windows
+89.14.165.18:80 - Заголовок не найден
+47.52.32.228:80 - Заголовок не найден
+127.99.106.230:80 - IIS Windows
+127.73.150.222:80 - IIS Windows
+18.164.198.186:80 - Заголовок не найден
+202.218.224.142:80 - DisallowedHost
+          at /
+127.152.161.207:80 - IIS Windows
+18.165.81.217:80 - Заголовок не найден
+23.203.228.203:80 - Заголовок не найден
+43.156.37.208:80 - èåå¢éäº§åæ¼ç¤ºåä»ç»
+118.31.229.69:80 - Заголовок не найден
+15.204.150.134:80 - Just a moment...
+127.11.59.58:80 - IIS Windows
+127.115.80.174:80 - IIS Windows
+208.109.26.94:80 - Coming Soon
+185.132.6.170:80 - Заголовок не найден
+127.231.76.217:80 - IIS Windows
+24.199.118.103:80 - Заголовок не найден
+178.33.119.191:80 - Shared IP
+3.165.71.27:80 - Заголовок не найден
+151.101.184.90:80 - Fastly error: unknown domain 151.101.184.90
+68.183.129.185:80 - Заголовок не найден
+20.109.134.191:80 - Your Azure Function App is up and running.
+38.165.88.60:80 - æ²¡ææ¾å°ç«ç¹
+127.164.248.232:80 - IIS Windows
+127.114.172.110:80 - IIS Windows
+203.100.218.53:80 - 404 Not Found
+154.7.161.233:80 - Apache HTTP Server Test Page powered by CentOS
+23.194.234.24:80 - Заголовок не найден
+23.10.149.236:80 - Заголовок не найден
+103.196.103.94:80 - Заголовок не найден
+38.14.92.97:80 - 404 Not Found
+39.124.191.108:80 - 403 Forbidden
+219.94.155.178:80 - ãããã®ã¬ã³ã¿ã«ãµã¼ã
+97.78.74.115:80 - Index
+220.132.0.109:80 - Заголовок не найден
+149.28.145.81:80 - Campus9 - Smart School Management System South Africa
+127.84.163.153:80 - IIS Windows
+42.29.35.170:80 - Login to <!--#exec cmd="xmlp_web system\\common model"-->
+173.236.254.148:80 - homeandfriends.com is almost here!
+127.105.184.9:80 - IIS Windows
+18.155.7.57:80 - Заголовок не найден
+18.245.172.98:80 - Заголовок не найден
+210.18.179.24:80 - 
+91.108.54.74:80 - Access Blocked
+86.48.6.212:80 - Заголовок не найден
+170.130.62.236:80 - ERROR: The requested URL could not be retrieved
+8.141.14.70:80 - æ²¡ææ¾å°ç«ç¹
+177.60.214.105:80 - Заголовок не найден
+79.96.175.10:80 - Error 404
+84.25.196.226:80 - Заголовок не найден
+18.244.32.159:80 - Заголовок не найден
+1.14.159.86:80 - 404 Not Found
+106.75.108.133:80 - Welcome to nginx!
+195.158.16.45:80 - 400 The plain HTTP request was sent to HTTPS port
+127.201.170.86:80 - IIS Windows
+202.19.20.91:80 - Заголовок не найден
+34.102.167.121:80 - 502
+213.204.86.26:80 - Заголовок не найден
+118.31.42.83:80 - 404 Not Found
+23.55.15.44:80 - Заголовок не найден
+72.84.201.53:80 - Checking Language...
+216.92.196.55:80 - Заголовок не найден
+101.254.96.167:80 - Заголовок не найден
+13.82.60.52:80 - Nautisense Chat
+18.160.133.81:80 - Заголовок не найден
+127.147.84.74:80 - IIS Windows
+127.32.175.150:80 - IIS Windows
+125.228.163.6:80 - 
+127.70.142.145:80 - IIS Windows
+23.199.243.191:80 - Заголовок не найден
+3.124.142.165:80 - Adım Legal &#8211; Hukuk ve Danışmanlık
+127.219.106.166:80 - IIS Windows
+127.88.110.46:80 - IIS Windows
+203.129.120.229:80 - 503 Service Unavailable
+123.57.144.67:80 - 404错误提示页面 - 法律快车
+142.171.170.132:80 - Welcome to nginx!
+2.16.175.58:80 - Заголовок не найден
+54.172.209.67:80 - OpenVPN-Admin
+34.141.191.128:80 - 404 Not Found
+45.76.14.142:80 - Заголовок не найден
+64.250.200.200:80 - 
+127.189.147.41:80 - IIS Windows
+154.202.89.125:80 - Direct IP access not allowed | Cloudflare
+103.25.90.224:80 - 404 Not Found
+127.255.71.241:80 - IIS Windows
+127.142.24.209:80 - IIS Windows
+127.70.147.48:80 - IIS Windows
+127.32.99.232:80 - IIS Windows
+127.169.104.244:80 - IIS Windows
+127.115.177.152:80 - IIS Windows
+127.76.248.122:80 - IIS Windows
+127.112.112.250:80 - IIS Windows
+127.72.232.82:80 - IIS Windows
+127.149.14.35:80 - IIS Windows
+127.225.81.243:80 - IIS Windows
+127.140.157.24:80 - IIS Windows
+127.111.116.200:80 - IIS Windows
+127.167.164.229:80 - IIS Windows
+127.136.27.220:80 - IIS Windows
+127.95.45.36:80 - IIS Windows
+127.112.248.120:80 - IIS Windows
+127.185.242.193:80 - IIS Windows
+127.20.203.242:80 - IIS Windows
+127.75.181.92:80 - IIS Windows
+127.126.68.191:80 - IIS Windows
+127.14.11.143:80 - IIS Windows
+127.197.3.78:80 - IIS Windows
+127.166.172.99:80 - IIS Windows
+127.23.88.141:80 - IIS Windows
+127.232.232.140:80 - IIS Windows
+127.142.114.33:80 - IIS Windows
+127.155.94.164:80 - IIS Windows
+127.215.154.71:80 - IIS Windows
+127.172.186.83:80 - IIS Windows
+127.145.45.226:80 - IIS Windows
+127.158.57.64:80 - IIS Windows
+127.78.255.56:80 - IIS Windows
+127.32.171.143:80 - IIS Windows
+127.10.195.31:80 - IIS Windows
+127.157.101.144:80 - IIS Windows
+127.245.46.99:80 - IIS Windows
+127.58.245.112:80 - IIS Windows
+127.120.57.237:80 - IIS Windows
+127.53.7.40:80 - IIS Windows
+127.163.66.216:80 - IIS Windows
+127.216.69.183:80 - IIS Windows
+127.43.248.209:80 - IIS Windows
+127.174.59.4:80 - IIS Windows
+127.224.201.59:80 - IIS Windows
+127.135.9.139:80 - IIS Windows
+127.196.37.190:80 - IIS Windows
+127.35.117.127:80 - IIS Windows
+127.122.160.71:80 - IIS Windows
+127.52.154.80:80 - IIS Windows
+127.15.161.221:80 - IIS Windows
+127.177.149.201:80 - IIS Windows
+127.8.72.69:80 - IIS Windows
+127.117.241.154:80 - IIS Windows
+127.23.224.45:80 - IIS Windows
+127.223.47.59:80 - IIS Windows
+127.238.151.132:80 - IIS Windows
+127.200.31.77:80 - IIS Windows
+127.160.32.63:80 - IIS Windows
+127.189.191.99:80 - IIS Windows
+127.155.53.93:80 - IIS Windows
+127.27.183.228:80 - IIS Windows
+127.174.44.59:80 - IIS Windows
+127.119.194.127:80 - IIS Windows
+127.219.141.177:80 - IIS Windows
+127.184.209.76:80 - IIS Windows
+127.116.145.59:80 - IIS Windows
+127.51.139.252:80 - IIS Windows
+127.31.12.255:80 - IIS Windows
+127.141.98.190:80 - IIS Windows
+127.233.141.201:80 - IIS Windows
+127.39.184.69:80 - IIS Windows
+127.52.55.14:80 - IIS Windows
+127.14.74.234:80 - IIS Windows
+127.171.183.200:80 - IIS Windows
+127.41.184.69:80 - IIS Windows
+127.217.0.66:80 - IIS Windows
+127.142.112.235:80 - IIS Windows
+127.71.69.4:80 - IIS Windows
+127.108.123.169:80 - IIS Windows
+127.9.101.69:80 - IIS Windows
+127.21.122.155:80 - IIS Windows
+127.112.176.183:80 - IIS Windows
+127.251.123.146:80 - IIS Windows
+127.112.40.132:80 - IIS Windows
+127.149.70.198:80 - IIS Windows
+127.32.24.144:80 - IIS Windows
+127.247.180.21:80 - IIS Windows
+127.237.25.101:80 - IIS Windows
+127.192.215.13:80 - IIS Windows
+127.57.156.55:80 - IIS Windows
+127.160.116.59:80 - IIS Windows
+127.144.64.156:80 - IIS Windows
+127.184.92.206:80 - IIS Windows
+127.223.202.203:80 - IIS Windows
+127.63.23.51:80 - IIS Windows
+127.119.63.152:80 - IIS Windows
+127.109.142.117:80 - IIS Windows
+127.249.103.154:80 - IIS Windows
+127.4.96.77:80 - IIS Windows
+127.102.209.99:80 - IIS Windows
+127.6.202.94:80 - IIS Windows
+127.252.122.183:80 - IIS Windows
+127.153.165.127:80 - IIS Windows
+127.44.154.243:80 - IIS Windows
+127.5.24.189:80 - IIS Windows
+127.223.205.249:80 - IIS Windows
+127.198.3.129:80 - IIS Windows
+127.9.46.52:80 - IIS Windows
+127.43.211.129:80 - IIS Windows
+127.90.163.246:80 - IIS Windows
+127.34.254.168:80 - IIS Windows
+127.23.16.77:80 - IIS Windows
+127.146.159.168:80 - IIS Windows
+127.21.34.174:80 - IIS Windows
+127.106.80.16:80 - IIS Windows
+127.37.111.51:80 - IIS Windows
+127.186.43.22:80 - IIS Windows
+127.184.221.174:80 - IIS Windows
+127.60.247.187:80 - IIS Windows
+127.250.81.101:80 - IIS Windows
+127.3.182.72:80 - IIS Windows
+127.240.148.51:80 - IIS Windows
+127.80.95.145:80 - IIS Windows
+127.213.28.135:80 - IIS Windows
+127.228.236.24:80 - IIS Windows
+127.247.27.32:80 - IIS Windows
+127.214.79.182:80 - IIS Windows
+127.224.114.124:80 - IIS Windows
+127.251.201.127:80 - IIS Windows
+127.174.192.104:80 - IIS Windows
+127.127.112.83:80 - IIS Windows
+127.246.132.122:80 - IIS Windows
+127.64.188.39:80 - IIS Windows
+127.97.74.181:80 - IIS Windows
+127.6.200.143:80 - IIS Windows
+127.241.83.183:80 - IIS Windows
+127.8.101.86:80 - IIS Windows
+127.38.228.244:80 - IIS Windows
+127.39.249.116:80 - IIS Windows
+75.103.68.92:80 - default redirect
+104.20.4.62:80 - Direct IP access not allowed | Cloudflare
+127.120.8.46:80 - IIS Windows
+127.52.184.31:80 - IIS Windows
+190.92.202.152:80 - Welcome to nginx!
+62.90.118.172:80 - Заголовок не найден
+104.18.174.52:80 - Direct IP access not allowed | Cloudflare
+127.227.27.72:80 - IIS Windows
+184.24.165.189:80 - Заголовок не найден
+127.249.229.88:80 - IIS Windows
+13.225.128.226:80 - Заголовок не найден
+208.109.191.253:80 - Web Server's Default Page
+23.39.198.11:80 - Заголовок не найден
+35.186.251.64:80 - Заголовок не найден
+127.224.76.104:80 - IIS Windows
+139.180.221.189:80 - Заголовок не найден
+45.10.161.57:80 - FASTPANEL
+34.110.214.48:80 - 502
+89.252.134.105:80 - Web Server's Default Page
+3.165.80.119:80 - Заголовок не найден
+95.68.19.180:80 - 
+104.66.239.185:80 - Заголовок не найден
+127.70.234.22:80 - IIS Windows
+121.40.62.1:80 - 404 Not Found
