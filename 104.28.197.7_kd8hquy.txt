@@ -1,0 +1,4 @@
+154.195.248.43:80 - 403 Forbidden
+79.96.160.23:80 - Strona w przygotowaniu...
+81.26.161.75:80 - teamSolution(R) iCMP - Framework
+23.14.137.121:80 - Заголовок не найден
