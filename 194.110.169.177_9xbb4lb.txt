@@ -1303,3 +1303,50 @@
 104.106.78.187:80 - Заголовок не найден
 175.99.14.16:80 - Заголовок не найден
 20.102.92.200:80 - MC MODEL | hubproto
+54.240.162.105:80 - Заголовок не найден
+38.48.241.124:80 - 400 Bad Request
+154.223.115.3:80 - Заголовок не найден
+93.118.63.213:80 - Заголовок не найден
+78.129.162.117:80 - Domain Default page
+23.78.49.204:80 - Заголовок не найден
+193.218.152.156:80 - 404 Not Found
+116.223.198.77:80 - Заголовок не найден
+62.129.213.28:80 - IGREK.NET £ukasz Ciaciuch, Krzysztof Trystula, ilustracja, cartoons, animacja, storyboard, animatic, komiks, malarstwo olejne, flash, humor, satyra, rysunki, www.luki.igrek.net, ilustracje, animacje, rysunek satyryczny, design
+104.19.192.156:80 - Direct IP access not allowed | Cloudflare
+85.214.115.141:80 - Apache2 Ubuntu Default Page: It works
+201.96.109.65:80 - Заголовок не найден
+50.200.99.142:80 - Web Site Blocked
+125.229.3.64:80 - 
+23.219.102.57:80 - Заголовок не найден
+93.92.204.115:80 - Заголовок не найден
+104.104.146.48:80 - Заголовок не найден
+164.52.219.82:80 - IIS Windows Server
+104.21.17.199:80 - Direct IP access not allowed | Cloudflare
+79.96.241.237:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+144.202.21.36:80 - Unknown Domain
+18.66.241.146:80 - Заголовок не найден
+15.235.212.238:80 - 404 Not Found
+103.99.115.94:80 - æ²¡ææ¾å°ç«ç¹
+84.38.243.79:80 - Please wait, the page is opening...
+95.104.5.84:80 - Default
+34.218.181.178:80 - Заголовок не найден
+23.35.212.145:80 - Заголовок не найден
+18.153.179.176:80 - Queendom events
+69.163.228.125:80 - Site not found &middot; DreamHost
+104.92.66.107:80 - Заголовок не найден
+217.24.18.10:80 - 404 Not Found
+154.7.176.212:80 - Заголовок не найден
+103.112.238.54:80 - Заголовок не найден
+46.227.113.19:80 - Error 404 (Not Found)!!1
+54.36.221.83:80 - HERBOLEA
+38.177.238.118:80 - 404 Not Found
+64.34.217.109:80 - Apache HTTP Server Test Page powered by CentOS
+23.211.108.48:80 - Заголовок не найден
+23.196.23.181:80 - Заголовок не найден
+178.128.140.163:80 - Заголовок не найден
+81.35.175.92:80 - 403 - Forbidden
+154.39.181.181:80 - Заголовок не найден
+18.230.72.57:80 - Заголовок не найден
+13.230.166.156:80 - 403 Forbidden
+91.55.18.125:80 - 
+72.246.192.227:80 - Spider Authentication
