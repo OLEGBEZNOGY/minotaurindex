@@ -6680,3 +6680,18 @@
 135.84.249.77:80 - Заголовок не найден
 72.167.67.201:80 - Coming Soon
 91.92.185.253:80 - Forbidden
+23.217.233.48:80 - Заголовок не найден
+23.195.177.106:80 - Заголовок не найден
+44.220.98.162:80 - Заголовок не найден
+38.95.160.77:80 - Apache HTTP Server Test Page powered by CentOS
+161.97.94.180:80 - FASTPANEL
+4.153.100.100:80 - Your Azure Function App is up and running.
+184.86.9.203:80 - Заголовок не найден
+104.83.43.115:80 - Заголовок не найден
+35.244.215.131:80 - Заголовок не найден
+52.69.229.34:80 - 502 Bad Gateway
+79.96.60.155:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+31.40.225.72:80 - ERROR: The requested URL could not be retrieved
+66.242.145.65:80 - Заголовок не найден
+34.227.170.240:80 - 403 - Forbidden: Access is denied.
+23.42.108.102:80 - Заголовок не найден
