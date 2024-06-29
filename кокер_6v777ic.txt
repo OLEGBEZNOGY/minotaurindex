@@ -3010,3 +3010,24 @@ Ben Fedrick Injury Therapy
 49.158.216.156:80 - 403 - Forbidden: Access is denied.
 23.193.20.62:80 - Заголовок не найден
 23.32.88.8:80 - Заголовок не найден
+212.116.254.193:80 - Apache HTTP Server Test Page powered by CentOS
+93.92.233.73:80 - Apache2 Ubuntu Default Page: It works
+216.119.95.83:80 - Заголовок не найден
+183.90.242.50:80 - ç¡å¹ãªURLã§ã
+39.105.150.44:80 - 500 Internal Server Error
+23.60.119.222:80 - Заголовок не найден
+103.160.209.42:80 - Web Page Blocked
+18.173.204.39:80 - Заголовок не найден
+3.252.147.176:80 - Not Found
+104.21.85.56:80 - Direct IP access not allowed | Cloudflare
+38.95.11.14:80 - FreePBX Administration
+158.140.193.171:80 - 404 Not Found
+20.22.77.58:80 - Заголовок не найден
+46.4.199.124:80 - Kodi Academy
+149.248.196.56:80 - code-server login
+23.13.79.39:80 - Заголовок не найден
+208.91.198.224:80 - Not Acceptable!
+164.92.74.66:80 - GusanoNet
+156.250.147.182:80 - 404 Not Found
+188.65.17.214:80 - ERROR: The requested URL could not be retrieved
+196.242.21.157:80 - 407 Proxy Authentication Required
