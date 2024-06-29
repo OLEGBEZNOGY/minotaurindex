@@ -1,0 +1,7 @@
+156.250.12.80:80 - 404 Not Found
+128.0.44.238:80 - 500 Internal Server Error
+23.208.99.223:80 - Заголовок не найден
+152.42.238.0:80 - 404 Not Found
+185.148.106.201:80 - Direct IP access not allowed | Cloudflare
+49.4.21.52:80 - 404 Not Found
+194.26.73.134:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
