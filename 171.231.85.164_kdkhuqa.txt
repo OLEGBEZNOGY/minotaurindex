@@ -34,3 +34,5 @@
 144.76.103.148:80 - 404 Not Found
 152.195.50.84:80 - 404 - Not Found
 45.137.159.7:80 - 403 Forbidden
+4.249.146.71:80 - Your Azure Function App is up and running.
+80.246.251.220:80 - Заголовок не найден
