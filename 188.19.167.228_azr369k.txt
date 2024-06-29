@@ -855,3 +855,6 @@
 38.222.187.212:80 - Router Access
 61.180.73.44:80 - 403 - ½ûÖ¹·ÃÎÊ: ·ÃÎÊ±»¾Ü¾ø¡£
 192.77.185.205:80 - AXIS
+52.20.103.12:80 - 503 Service Temporarily Unavailable
+86.247.114.109:80 - longs c&ocirc;t&eacute;s
+114.214.62.202:80 - 404 Not Found
