@@ -10617,3 +10617,133 @@
 186.6.227.93:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#54;&#55;&#65;&#32;&#86;&#49;&#46;&#48;
 127.105.116.71:80 - IIS Windows Server
 129.148.5.97:80 - UNKNOWN
+3.161.193.133:80 - Заголовок не найден
+121.250.216.215:80 - 404 Not Found
+104.68.96.89:80 - Заголовок не найден
+45.79.204.71:80 - Welcome to nginx!
+127.55.202.207:80 - IIS Windows Server
+91.226.14.141:80 - Заголовок не найден
+127.212.136.71:80 - IIS Windows Server
+127.225.173.202:80 - IIS Windows Server
+180.149.225.234:80 - Please wait, the login page is opening...
+181.20.73.225:80 - Заголовок не найден
+23.47.45.99:80 - Заголовок не найден
+18.202.3.250:80 - 503 Service Temporarily Unavailable
+127.146.194.109:80 - IIS Windows Server
+45.223.58.44:80 - Заголовок не найден
+127.53.236.92:80 - IIS Windows Server
+54.165.215.122:80 - Заголовок не найден
+219.231.142.156:80 - 404 Not Found
+212.97.32.103:80 - Заголовок не найден
+127.12.154.55:80 - IIS Windows Server
+13.43.194.236:80 - 502 Bad Gateway
+127.204.17.164:80 - IIS Windows Server
+107.163.140.194:80 - 403 Forbidden
+199.241.138.179:80 - Welcome to nginx!
+103.148.58.193:80 - HebeBlock - Engaged in the ecosystem development on Ethereum Classic
+127.249.88.245:80 - IIS Windows Server
+127.230.139.47:80 - IIS Windows Server
+104.101.240.246:80 - Заголовок не найден
+23.49.157.246:80 - Заголовок не найден
+80.157.74.8:80 - 403 Forbidden
+104.24.208.244:80 - Direct IP access not allowed | Cloudflare
+127.84.79.85:80 - IIS Windows Server
+127.65.209.82:80 - IIS Windows Server
+127.32.3.62:80 - IIS Windows Server
+104.252.215.237:80 - Заголовок не найден
+63.32.150.227:80 - Заголовок не найден
+195.175.177.69:80 - Заголовок не найден
+15.188.157.181:80 - Index of /
+217.92.225.97:80 - LANCOM: WEBconfig
+2.16.42.173:80 - Заголовок не найден
+154.31.210.94:80 - 403 Forbidden
+127.145.109.99:80 - IIS Windows Server
+122.28.36.72:80 - Заголовок не найден
+51.144.245.114:80 - 404 Not Found
+127.184.89.115:80 - IIS Windows Server
+23.223.171.127:80 - Заголовок не найден
+127.129.200.97:80 - IIS Windows Server
+23.59.51.176:80 - Заголовок не найден
+13.250.180.45:80 - Заголовок не найден
+127.252.91.53:80 - IIS Windows Server
+127.80.233.116:80 - IIS Windows Server
+73.139.167.98:80 - 
+18.141.37.105:80 - Test Page for the Nginx HTTP Server on Amazon Linux
+127.51.236.36:80 - IIS Windows Server
+50.2.158.76:80 - 403 Forbidden
+13.33.93.84:80 - Заголовок не найден
+127.156.32.106:80 - IIS Windows Server
+107.174.100.57:80 - 500 Internal Server Error
+127.128.226.111:80 - IIS Windows Server
+74.125.132.91:80 - Google
+160.124.234.35:80 - 404 Not Found
+77.68.81.172:80 - Заголовок не найден
+52.7.25.225:80 - Заголовок не найден
+127.166.230.118:80 - IIS Windows Server
+23.9.211.76:80 - Заголовок не найден
+118.112.23.219:80 - 403 Forbidden
+23.199.25.54:80 - Заголовок не найден
+77.55.149.97:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+127.82.91.84:80 - IIS Windows Server
+192.118.97.50:80 - Bizportal
+156.250.231.121:80 - 404 Not Found
+104.140.255.206:80 - 403 Forbidden
+194.245.126.119:80 - Der Club Heiligenhaus &#8211; Zentrum für Freizeit &amp; Kultur
+162.214.150.70:80 - Заголовок не найден
+154.16.4.4:80 - 407 Proxy Authentication Required
+96.9.11.7:80 - 403 Forbidden
+127.157.192.154:80 - IIS Windows Server
+159.203.143.216:80 - Cyber Security Consulting Group
+104.17.187.172:80 - Direct IP access not allowed | Cloudflare
+127.127.26.43:80 - IIS Windows Server
+40.87.146.5:80 - IIS Windows Server
+127.135.147.183:80 - IIS Windows Server
+38.178.82.213:80 - Remote Surveillance, Any time &amp; Any where
+121.89.232.145:80 - 403 Forbidden
+3.110.8.47:80 - Lynktrac
+173.0.189.127:80 - Заголовок не найден
+38.35.86.201:80 - 404 Not Found
+104.104.70.253:80 - Заголовок не найден
+78.24.217.127:80 - 3 Бизнес Системы (3 BS) - официальный сайт компании
+97.74.237.248:80 - Заголовок не найден
+23.53.243.139:80 - Заголовок не найден
+34.97.135.133:80 - Заголовок не найден
+197.160.171.217:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#48;&#56;&#78;&#32;&#86;&#50;&#46;&#53;
+154.215.16.86:80 - æ²¡ææ¾å°ç«ç¹
+127.25.185.153:80 - IIS Windows Server
+96.16.245.87:80 - Заголовок не найден
+172.232.161.204:80 - Заголовок не найден
+45.56.105.9:80 - Заголовок не найден
+127.59.94.195:80 - IIS Windows Server
+23.9.173.206:80 - Заголовок не найден
+103.5.3.167:80 - MICROS Systems Inc., OPERA
+210.148.10.173:80 - 404 Not Found
+44.204.103.34:80 - Заголовок не найден
+127.207.27.137:80 - IIS Windows Server
+127.17.32.231:80 - IIS Windows Server
+127.18.149.120:80 - IIS Windows Server
+127.251.180.77:80 - IIS Windows Server
+23.37.115.231:80 - Заголовок не найден
+150.117.157.31:80 - 403 Forbidden
+38.9.128.254:80 - 
+85.239.238.215:80 - 404 Not Found
+173.223.150.77:80 - Заголовок не найден
+168.206.79.49:80 - æ²¡ææ¾å°ç«ç¹
+40.78.195.16:80 - 403 - Forbidden: Access is denied.
+127.8.206.42:80 - IIS Windows Server
+127.218.247.231:80 - IIS Windows Server
+127.141.7.114:80 - IIS Windows Server
+20.8.165.133:80 - Your Azure Function App is up and running.
+127.45.244.254:80 - IIS Windows Server
+127.71.96.223:80 - IIS Windows Server
+127.218.3.153:80 - IIS Windows Server
+127.19.211.100:80 - IIS Windows Server
+3.161.195.109:80 - Заголовок не найден
+184.31.16.172:80 - Заголовок не найден
+196.247.17.143:80 - 407 Proxy Authentication Required
+13.35.46.125:80 - Заголовок не найден
+162.159.140.167:80 - Direct IP access not allowed | Cloudflare
+77.223.101.237:80 - 404 Not Found
+121.199.161.55:80 - HTTP Server Test Page
+82.98.110.178:80 - Ihre Karriere bei der Walbusch-Gruppe
+92.63.64.65:80 - Welcome!
