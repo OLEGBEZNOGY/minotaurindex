@@ -21310,3 +21310,75 @@
 144.168.10.241:80 - Apache2 Ubuntu Default Page: It works
 108.61.205.231:80 - Заголовок не найден
 111.6.243.235:80 - 403 Forbidden
+72.64.2.19:80 - Заголовок не найден
+120.233.181.222:80 - 403 Forbidden
+199.250.202.165:80 - Заголовок не найден
+23.43.250.160:80 - Заголовок не найден
+185.170.213.93:80 - Golden Birds - Заработай на своих яйцах!
+1.51.255.19:80 - 404 Not Found
+87.229.14.228:80 - 500 Internal Server Error
+216.137.52.75:80 - Заголовок не найден
+137.175.92.197:80 - 404 Not Found
+203.183.42.135:80 - Web Server's Default Page
+54.81.27.229:80 - Заголовок не найден
+167.82.64.65:80 - Fastly error: unknown domain 167.82.64.65
+18.154.240.25:80 - Заголовок не найден
+72.14.134.6:80 - Apache2 Ubuntu Default Page: It works
+34.104.13.143:80 - Заголовок не найден
+149.28.254.107:80 - Welcome to nginx!
+107.9.147.167:80 - 
+149.104.58.230:80 - 403 Forbidden
+193.82.18.197:80 - 403 Forbidden
+103.218.171.80:80 - Please wait, the login page is opening...
+23.206.177.226:80 - Заголовок не найден
+23.212.169.51:80 - Заголовок не найден
+143.204.126.28:80 - Заголовок не найден
+154.0.130.170:80 - IIS Windows Server
+172.234.212.5:80 - Document
+104.19.109.41:80 - Direct IP access not allowed | Cloudflare
+96.7.129.14:80 - Заголовок не найден
+104.25.38.53:80 - Direct IP access not allowed | Cloudflare
+107.158.104.35:80 - 403 Forbidden
+35.82.86.130:80 - 403 Forbidden
+200.123.30.67:80 - Apache Tomcat/7.0.37
+143.255.52.144:80 - &#70;&#54;&#55;&#48;&#76;
+175.122.67.20:80 - Document Error: Unauthorized
+125.254.111.154:80 - Fronius: {{daloState.systemName ? daloState.getDecodedSystemName() : ('WIZARD_TITLE' | translate)}}
+23.193.67.130:80 - Заголовок не найден
+18.132.30.124:80 - Canary Login
+159.135.56.203:80 - Coming Soon page
+2.22.111.92:80 - Заголовок не найден
+89.161.199.58:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+198.50.160.104:80 - Web Server's Default Page
+34.223.159.178:80 - Page not found | Topstep
+141.11.95.5:80 - Welcome to nginx!
+217.160.86.52:80 - 404 Not Found
+2.19.64.141:80 - Заголовок не найден
+23.36.229.145:80 - Заголовок не найден
+176.28.201.120:80 - 503 Service Temporarily Unavailable
+150.230.115.37:80 - 404 Not Found
+102.0.2.148:80 - RouterOS router configuration page
+38.25.115.208:80 - 
+107.174.251.165:80 - 407 Proxy Authentication Required
+193.9.21.58:80 - agrozoo.net
+47.48.152.40:80 - 401 - Unauthorized: Access is denied due to invalid credentials.
+184.27.15.77:80 - Заголовок не найден
+77.55.163.210:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+18.239.241.58:80 - Заголовок не найден
+108.24.143.208:80 - Welcome to nginx!
+38.148.196.73:80 - 403 Forbidden
+190.174.64.144:80 - Заголовок не найден
+47.92.133.184:80 - IIS7
+171.240.147.133:80 - WordPress &rsaquo; Cài Đặt Tập Tin Cấu Hình
+218.247.88.170:80 - 403 Forbidden
+120.77.214.158:80 - APosåºå¡å©æ
+23.4.133.241:80 - Заголовок не найден
+79.206.136.124:80 - 401 - Access denied
+64.135.109.124:80 - IIS Windows Server
+184.26.150.150:80 - Заголовок не найден
+18.66.79.174:80 - Заголовок не найден
+185.101.35.29:80 - Powered by CapRover
+83.239.206.83:80 - Заголовок не найден
+37.221.195.210:80 - Nextcloud
+4.147.78.172:80 - Your Azure Function App is up and running.
+18.160.140.191:80 - Заголовок не найден
