@@ -2470,3 +2470,24 @@
 64.85.110.88:80 - Apache2 Ubuntu Default Page: It works
 104.21.105.188:80 - Direct IP access not allowed | Cloudflare
 218.149.113.202:80 - 
+104.25.218.10:80 - Direct IP access not allowed | Cloudflare
+35.244.253.122:80 - Заголовок не найден
+120.203.229.136:80 - 403 Forbidden
+206.189.76.84:80 - 403 Forbidden
+13.202.66.111:80 - Заголовок не найден
+154.221.4.57:80 - 404 Not Found
+210.102.216.19:80 - 503 Service Not Available
+158.160.130.190:80 - Apache2 Ubuntu Default Page: It works
+69.192.94.3:80 - Заголовок не найден
+3.160.149.214:80 - Заголовок не найден
+23.63.96.187:80 - Error
+186.7.249.246:80 - 
+157.90.16.74:80 - HappyTes Coaching-Christine Tesmer- Mentorin in Oberkirch
+108.167.154.177:80 - Not Acceptable!
+23.216.198.68:80 - Заголовок не найден
+44.198.89.60:80 - 503 Service Temporarily Unavailable
+117.18.74.137:80 - Заголовок не найден
+107.163.223.215:80 - 404 Not Found
+18.244.5.105:80 - Заголовок не найден
+137.74.246.8:80 - This server is powered by PebbleHost!
+196.51.246.60:80 - ERROR: The requested URL could not be retrieved
