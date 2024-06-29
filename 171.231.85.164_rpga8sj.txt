@@ -28,3 +28,9 @@
 71.67.130.70:80 - 
 212.185.73.178:80 - Web Site Blocked
 35.176.194.252:80 - Invalid IP Address
+104.20.216.213:80 - Direct IP access not allowed | Cloudflare
+47.111.64.118:80 - Заголовок не найден
+178.234.31.192:80 - 
+34.192.254.55:80 - Not Found
+188.20.238.36:80 - Domainparking by BITT Consulting
+77.79.203.98:80 - 404 Not Found
