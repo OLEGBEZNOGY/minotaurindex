@@ -2756,3 +2756,13 @@
 108.61.197.79:80 - DTC Finder - Unlocking Diagnostic Trouble Code (DTC) Definitions, Causes, and Expert Diagnoses for
         Seamless Troubleshooting
 118.32.103.168:80 - Заголовок не найден
+23.95.234.48:80 - Page not found
+76.186.19.1:80 - Заголовок не найден
+8.134.56.115:80 - 404 Not Found
+104.27.20.56:80 - Direct IP access not allowed | Cloudflare
+200.33.246.56:80 - macOS Server
+35.80.178.75:80 - Error 403 Forbidden
+104.120.80.187:80 - Заголовок не найден
+78.145.122.20:80 - .::Welcome to the Web-Based Configurator::.
+104.112.33.20:80 - Заголовок не найден
+23.209.16.154:80 - Заголовок не найден
