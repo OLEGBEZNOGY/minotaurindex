@@ -2730,3 +2730,16 @@
 104.16.251.32:80 - Direct IP access not allowed | Cloudflare
 202.89.39.195:80 - FileMaker Website
 172.64.110.116:80 - Direct IP access not allowed | Cloudflare
+104.18.231.204:80 - Direct IP access not allowed | Cloudflare
+149.202.124.25:80 - La tradizione enogastronomica delle Alpi Biellesi
+161.35.218.22:80 - Tweet App
+114.214.39.96:80 - 404 Not Found
+34.101.46.15:80 - Заголовок не найден
+23.37.129.136:80 - Заголовок не найден
+52.131.243.132:80 - Index of /
+213.188.209.132:80 - Jeha Jeremy Lee
+104.17.73.192:80 - Direct IP access not allowed | Cloudflare
+45.60.138.42:80 - Заголовок не найден
+120.25.216.84:80 - Заголовок не найден
+104.221.136.169:80 - 404 Not Found
+110.34.3.74:80 - RouterOS router configuration page
