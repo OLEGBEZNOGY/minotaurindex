@@ -1,2 +1,4 @@
 172.104.185.24:80 - #MORP | 🎮ROLEPLAY INDONESIA | 🥇 100FPS | 🎧 DISCORD: morp.id/discord / Cfx.re
 104.27.13.21:80 - Direct IP access not allowed | Cloudflare
+104.76.135.244:80 - Заголовок не найден
+23.196.126.6:80 - Заголовок не найден
