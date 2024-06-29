@@ -10349,3 +10349,96 @@
 127.197.91.101:80 - IIS Windows Server
 34.123.242.184:80 - Home - XWiki
 154.205.195.21:80 - 404 Not Found
+127.174.23.137:80 - IIS Windows Server
+127.242.208.69:80 - IIS Windows Server
+210.117.138.132:80 - L7
+65.2.166.171:80 - MobileAdmin
+127.171.217.171:80 - IIS Windows Server
+66.199.189.184:80 - 404 Not Found
+64.84.119.43:80 - Apache2 Ubuntu Default Page: It works
+143.198.199.196:80 - Create Text Effects 3D Neon and Font Animation Generator
+127.166.62.57:80 - IIS Windows Server
+217.231.47.42:80 - 
+127.149.168.171:80 - IIS Windows Server
+127.136.126.250:80 - IIS Windows Server
+89.107.228.54:80 - Заголовок не найден
+49.234.233.46:80 - æ²¡ææ¾å°ç«ç¹
+120.221.225.192:80 - Заголовок не найден
+20.50.27.86:80 - 404 Not Found
+127.149.90.105:80 - IIS Windows Server
+23.47.176.122:80 - Заголовок не найден
+198.37.103.173:80 - Sorry, the website has been stopped
+65.21.4.14:80 - Triders Coaching
+45.126.123.144:80 - Welcome to nginx!
+127.168.118.31:80 - IIS Windows Server
+127.220.26.157:80 - IIS Windows Server
+72.52.234.198:80 - 403 Forbidden
+52.84.161.196:80 - Заголовок не найден
+36.255.70.213:80 - Apache2 Ubuntu Default Page: It works
+178.33.119.75:80 - Success!
+85.173.114.250:80 - Произошла ошибка 404
+108.138.102.110:80 - Заголовок не найден
+23.6.219.4:80 - Заголовок не найден
+127.141.223.165:80 - IIS Windows Server
+85.128.164.216:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+127.2.110.110:80 - IIS Windows Server
+79.139.58.87:80 - Sorry, the website has been stopped
+127.176.71.48:80 - IIS Windows Server
+127.189.222.36:80 - IIS Windows Server
+127.187.150.74:80 - IIS Windows Server
+23.194.196.236:80 - Заголовок не найден
+47.100.122.8:80 - 网站建设中
+176.147.243.164:80 - Apache2 Debian Default Page: It works
+75.127.160.34:80 - Document Moved
+182.92.178.16:80 - Заголовок не найден
+80.211.21.233:80 - Work in progress...
+127.106.34.88:80 - IIS Windows Server
+54.185.105.104:80 - 404 Not Found
+96.17.250.67:80 - Заголовок не найден
+127.63.205.17:80 - IIS Windows Server
+127.99.147.220:80 - IIS Windows Server
+127.247.29.216:80 - IIS Windows Server
+185.31.41.183:80 - Заголовок не найден
+199.232.20.171:80 - Fastly error: unknown domain 199.232.20.171
+127.188.33.23:80 - IIS Windows Server
+23.197.115.223:80 - Заголовок не найден
+44.215.222.122:80 - Заголовок не найден
+4.175.7.65:80 - Microsoft Azure Web App - Error 404
+51.178.52.25:80 - Page d'Accueil
+159.223.116.137:80 - Wordpress Site
+108.159.2.131:80 - Заголовок не найден
+127.154.66.152:80 - IIS Windows Server
+127.138.102.84:80 - IIS Windows Server
+3.5.12.183:80 - Amazon S3 - Cloud Object Storage  - AWS
+104.77.221.213:80 - Заголовок не найден
+127.141.28.87:80 - IIS Windows Server
+127.99.255.188:80 - IIS Windows Server
+176.31.53.89:80 - 403 - Accesso negato.
+3.11.170.26:80 - Unizapper
+146.75.41.1:80 - Заголовок не найден
+174.53.227.2:80 - s&fnof;z &Phi; (phi)
+192.241.148.170:80 - ICEdge | Intercultural Communication Edge
+23.49.106.6:80 - Заголовок не найден
+64.32.4.26:80 - Welcome to nginx!
+8.136.126.114:80 - Welcome to CentOS
+118.71.204.98:80 - Laravel
+46.30.215.231:80 - Hosted by One.com Webhosting
+50.2.9.57:80 - 403 Forbidden
+127.100.6.166:80 - IIS Windows Server
+127.201.24.151:80 - IIS Windows Server
+52.21.123.202:80 - 404 Not Found
+127.91.223.90:80 - IIS Windows Server
+127.91.81.46:80 - IIS Windows Server
+127.20.250.60:80 - IIS Windows Server
+210.209.133.163:80 - NetDvrV3
+86.38.247.137:80 - 404 Not Found
+127.61.100.255:80 - IIS Windows Server
+127.2.188.229:80 - IIS Windows Server
+194.209.96.97:80 - 403 Forbidden
+127.240.103.115:80 - IIS Windows Server
+127.145.166.36:80 - IIS Windows Server
+127.172.180.91:80 - IIS Windows Server
+175.99.115.209:80 - Заголовок не найден
+127.197.41.28:80 - IIS Windows Server
+127.35.123.75:80 - IIS Windows Server
+23.195.20.83:80 - Error
