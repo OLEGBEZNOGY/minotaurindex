@@ -3563,3 +3563,46 @@
 3.136.233.64:80 - UAP Disclosure &#8211; Following the disclosure of UAP phenomena in 2023 and beyond.
 3.221.33.251:80 - G-PHONE
 103.235.106.174:80 - Web Server's Default Page
+178.32.201.16:80 - Заголовок не найден
+116.12.47.141:80 - Apache2 Debian Default Page: It works
+3.71.157.68:80 - No such app
+149.100.149.183:80 - 403 Forbidden
+54.185.246.203:80 - Заголовок не найден
+114.205.219.27:80 - Заголовок не найден
+156.54.60.201:80 - 403 Forbidden
+104.140.60.51:80 - 403 Forbidden
+20.209.62.166:80 - Заголовок не найден
+223.167.110.179:80 - Заголовок не найден
+176.112.195.238:80 - Welcome to nginx!
+23.223.186.138:80 - Заголовок не найден
+43.140.221.97:80 - Welcome to nginx!
+160.124.79.144:80 - 404 Not Found
+104.234.217.195:80 - Index of /
+38.148.211.93:80 - 403 Forbidden
+23.229.197.101:80 - Sparknite Global Education | | Education Consultancy - Partner in Autralia, Europe, Canada, UK, USA, Singapore, Malaysia, Philippines, Ukraine, India | | Placement Consultancy in India - Ahmedabad, Surat, Vadadora, Chennai, Mumbai, Rajkot, Jaipur, Nasik - Sparknite Hotel Management & Catering Institute, Mathur, Chennai | | Education Consultancy
+20.60.185.1:80 - Заголовок не найден
+34.225.235.21:80 - Sucuri WebSite Firewall - Access Denied
+192.29.65.153:80 - 404 - Not found or no permission to access
+209.142.66.109:80 - 403 Forbidden
+209.97.134.134:80 - Public Practice | Building the skills local authorities need, to…
+24.23.253.52:80 - Заголовок не найден
+125.94.247.162:80 - Заголовок не найден
+23.52.153.121:80 - Заголовок не найден
+13.35.55.189:80 - Заголовок не найден
+108.139.207.235:80 - Заголовок не найден
+169.62.239.50:80 - IIS Windows Server
+136.243.173.11:80 - EnnaBe Webmail
+43.175.135.60:80 - Заголовок не найден
+154.204.214.227:80 - 404 Not Found
+45.112.69.190:80 - Please wait, the login page is opening...
+46.142.99.74:80 - Redirect to New Page
+172.247.181.164:80 - 403 Forbidden
+149.62.185.19:80 - Host - Hosting sicuro e professionale dedicato alle imprese
+54.250.22.0:80 - 沼上励 Official Web Site
+142.250.123.100:80 - Google
+88.221.8.244:80 - Заголовок не найден
+23.26.37.208:80 - 403 Forbidden
+46.244.10.186:80 - 
+109.203.123.176:80 - Заголовок не найден
+47.103.131.104:80 - Welcome to nginx!
+96.17.36.175:80 - Заголовок не найден
