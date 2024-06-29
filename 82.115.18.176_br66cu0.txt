@@ -14471,3 +14471,34 @@
 220.128.107.181:80 - WEB SERVICE
 145.131.7.93:80 - Domain Default page
 52.58.117.78:80 - 503 Service Temporarily Unavailable
+46.242.201.109:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+154.204.12.38:80 - 404 Not Found
+185.63.175.215:80 - Web Server's Default Page
+23.210.177.78:80 - Заголовок не найден
+52.183.104.21:80 - InvalidUri
+23.73.2.70:80 - Заголовок не найден
+62.30.221.177:80 - IIS Windows Server
+167.172.22.227:80 - Welcome to nginx!
+76.108.139.205:80 - Заголовок не найден
+168.90.199.182:80 - 407 Proxy Authentication Required
+72.46.159.202:80 - Заголовок не найден
+50.2.44.22:80 - ERROR: The requested URL could not be retrieved
+46.101.107.47:80 - Заголовок не найден
+3.165.244.216:80 - Заголовок не найден
+23.212.125.70:80 - Заголовок не найден
+104.156.250.5:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+186.57.11.57:80 - Заголовок не найден
+204.199.246.235:80 - 404 Not Found
+2.18.141.247:80 - Заголовок не найден
+108.157.81.115:80 - Заголовок не найден
+18.188.52.176:80 - User&#039;s blog &#8211; Just another WordPress site
+212.88.46.41:80 - Заголовок не найден
+94.46.48.251:80 - Kontakta oss om du behÃ¶ver hjÃ¤lp med lackskydd i GÃ¶teborg
+13.112.134.225:80 - Заголовок не найден
+94.139.255.162:80 - IIS Windows Server
+220.77.132.213:80 - NVR
+15.222.216.187:80 - Заголовок не найден
+54.146.120.115:80 - IIS Windows Server
+23.34.205.113:80 - Заголовок не найден
+34.195.157.206:80 - 256
+2.17.83.213:80 - Заголовок не найден
