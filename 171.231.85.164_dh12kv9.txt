@@ -152,3 +152,9 @@
 34.96.89.135:80 - Заголовок не найден
 133.204.38.196:80 - WV-S1531L Network Camera
 50.31.132.128:80 - 403 Forbidden
+113.162.117.216:80 - 
+121.250.214.197:80 - 404 Not Found
+95.217.90.198:80 - No report defined
+146.75.91.245:80 - Fastly error: unknown domain 146.75.91.245
+190.92.148.232:80 - NVNT Studios
+153.92.176.135:80 - IIS Windows Server
