@@ -1818,3 +1818,35 @@
 172.64.232.114:80 - Direct IP access not allowed | Cloudflare
 114.141.205.71:80 - 404 Not Found
 172.67.65.183:80 - Direct IP access not allowed | Cloudflare
+104.16.225.74:80 - Direct IP access not allowed | Cloudflare
+207.204.244.78:80 - Bandwidth Speed Test
+23.79.30.97:80 - Заголовок не найден
+107.170.121.98:80 - msm-vesta-vib &mdash; Coming Soon
+111.13.7.187:80 - 403 Forbidden
+168.119.95.76:80 - 404 Not Found
+23.42.180.84:80 - Заголовок не найден
+38.162.99.143:80 - 403 Forbidden
+200.128.32.106:80 - Заголовок не найден
+2.16.104.238:80 - Заголовок не найден
+3.162.95.68:80 - Заголовок не найден
+46.243.123.88:80 - Roundcube Webmail :: Welcome to Roundcube Webmail
+107.179.10.22:80 - 404 Not Found
+170.130.12.169:80 - 403 Forbidden
+188.210.223.248:80 - 404 Not Found
+65.21.85.2:80 - prod.pougaridismedia.gr
+178.20.184.148:80 - Apache2 Debian Default Page: It works. 44
+38.181.181.134:80 - 404 Not Found
+45.89.51.30:80 - Index of /
+52.219.84.128:80 - Amazon S3 - Cloud Object Storage  - AWS
+68.183.93.161:80 - Welcome to nginx!
+212.227.240.236:80 - Welcome to nginx!
+167.99.94.178:80 - Welcome to nginx!
+154.41.242.121:80 - 403 Forbidden
+162.241.208.234:80 - Заголовок не найден
+35.161.92.255:80 - Bitnami Django
+89.238.142.176:80 - FileMaker Website
+216.134.247.88:80 - Document Moved
+23.55.157.169:80 - Заголовок не найден
+123.60.156.195:80 - ä»£çåå¹³å°
+103.41.206.51:80 - Layanan VPN Remote Termurah Mulai dari Rp2.000/bulan | Remote Mikrotik, Solusi IP Publik, Remote Device
+148.101.15.131:80 - 
