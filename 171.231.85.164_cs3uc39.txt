@@ -1,0 +1,7 @@
+216.92.105.122:80 - CannesPhoto Photography Site
+134.175.130.172:80 - IIS Windows Server
+192.169.203.36:80 - Заголовок не найден
+3.10.251.198:80 - Fruit API
+192.126.140.246:80 - ERROR: The requested URL could not be retrieved
+27.239.217.41:80 - main page
+154.209.186.35:80 - Заголовок не найден
