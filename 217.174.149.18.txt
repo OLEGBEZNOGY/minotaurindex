@@ -612,3 +612,26 @@
 103.105.110.13:80 - ::: Spacecom Software LLP :::
 125.229.48.194:80 - 
 52.71.205.224:80 - PHP Application - AWS Elastic Beanstalk
+104.112.39.60:80 - Заголовок не найден
+213.136.86.191:80 - Welcome to nginx!
+154.194.159.116:80 - 403 Forbidden
+44.194.204.117:80 - 503 Service Temporarily Unavailable
+162.209.245.35:80 - IIS7
+186.130.47.176:80 - Заголовок не найден
+107.158.130.132:80 - 403 Forbidden
+38.33.45.122:80 - 404 Not Found
+134.255.83.3:80 - Заголовок не найден
+198.23.197.83:80 - WPGPT
+47.93.193.1:80 - 404 Not Found
+20.245.26.171:80 - Azure Container App - Unavailable
+167.172.164.102:80 - EstatePhuket – Недвижимость для инвестиций и переезда
+104.140.196.54:80 - 403 Forbidden
+117.235.108.31:80 - Заголовок не найден
+23.211.38.51:80 - Заголовок не найден
+154.49.142.231:80 - 403 Forbidden
+23.43.69.81:80 - Заголовок не найден
+174.136.35.167:80 - Softaculous Webuzo | Default Website Page
+108.157.198.91:80 - Заголовок не найден
+129.204.116.219:80 - 404 Not Found
+69.57.161.81:80 - Apache2 Ubuntu Default Page: It works
+106.75.76.49:80 - Apache HTTP Server Test Page powered by CentOS
