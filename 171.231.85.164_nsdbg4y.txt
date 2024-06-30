@@ -1,0 +1,4 @@
+98.62.161.231:80 - Login
+158.38.38.186:80 - Apache2 Debian Default Page: It works
+23.46.232.126:80 - Заголовок не найден
+103.50.204.7:80 - Welcome to nginx!
