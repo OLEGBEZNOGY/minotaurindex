@@ -2414,3 +2414,40 @@
 52.166.110.65:80 - Заголовок не найден
 146.75.19.71:80 - Fastly error: unknown domain 146.75.19.71
 67.20.110.136:80 - Not Acceptable!
+164.132.170.180:80 - Unil Opal, Fabricant huile moteur et lubrifiant industriel pour professionnels
+23.218.102.128:80 - Заголовок не найден
+95.68.122.65:80 - 
+119.245.176.85:80 - Заголовок не найден
+38.173.220.132:80 - 403 Forbidden
+23.223.210.75:80 - Заголовок не найден
+112.124.25.82:80 - HTTP Server Test Page
+172.247.233.60:80 - 403 Forbidden
+3.229.241.147:80 - 403 Forbidden
+47.242.236.159:80 - 404 Not Found
+173.198.236.159:80 - Forbidden!
+162.253.153.45:80 - 500 Internal Server Error
+186.193.255.105:80 - Costa Verde Net
+185.108.211.131:80 - 
+23.20.51.58:80 - 403 Forbidden
+54.230.238.186:80 - Заголовок не найден
+104.120.86.17:80 - Заголовок не найден
+190.166.185.181:80 - 
+23.59.217.160:80 - UNKNOWN
+23.4.35.46:80 - Заголовок не найден
+104.16.233.244:80 - Direct IP access not allowed | Cloudflare
+79.30.246.247:80 - TiAlarm WebServer
+67.7.149.73:80 - Instant WiFi
+169.61.152.162:80 - Заголовок не найден
+131.108.19.149:80 - 407 Proxy Authentication Required
+172.179.21.89:80 - Your Azure Function App is up and running.
+34.93.177.153:80 - IIS Windows Server
+13.235.225.153:80 - Welcome to nginx!
+18.177.18.115:80 - Hook Portfolio Admin &#8211; My Portfolio
+18.215.19.241:80 - Заголовок не найден
+52.208.211.75:80 - Заголовок не найден
+43.218.120.151:80 - DRW Agent
+177.137.30.234:80 - Заголовок не найден
+204.209.81.161:80 - Netknow Internet Service &amp; Hosting Provider | Edmonton AB
+216.139.222.184:80 - Заголовок не найден
+116.62.191.10:80 - 502 Bad Gateway
+192.71.166.19:80 - 403 - Forbidden
