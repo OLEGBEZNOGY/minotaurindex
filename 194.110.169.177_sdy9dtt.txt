@@ -2978,3 +2978,58 @@ Unified syncronization with ActiveSync, SyncML IMAP and POP3 Email Services with
 183.99.133.178:80 - main page
 218.32.157.145:80 - 
 154.220.108.247:80 - 404 Not Found
+94.242.234.180:80 - 404 Not Found
+137.184.82.190:80 - V3 Medicina e Saúde
+190.50.46.155:80 - Заголовок не найден
+108.158.21.212:80 - Заголовок не найден
+104.91.35.207:80 - Заголовок не найден
+104.19.19.100:80 - Direct IP access not allowed | Cloudflare
+103.75.44.149:80 - Welcome to OpenResty!
+159.89.106.214:80 - ChatRTE
+52.117.247.219:80 - 
+54.193.47.13:80 - Error
+107.149.197.203:80 - Welcome to nginx!
+38.131.2.13:80 - Заголовок не найден
+183.249.105.23:80 - 403 Forbidden
+184.27.237.109:80 - Заголовок не найден
+69.48.169.79:80 - 301 Moved Permanently
+199.244.126.165:80 - Заголовок не найден
+104.23.96.134:80 - Direct IP access not allowed | Cloudflare
+185.215.235.33:80 - 
+14.48.202.193:80 - DVR ActiveX Viewer
+47.245.100.253:80 - Backoffice
+18.67.99.80:80 - Заголовок не найден
+23.74.171.224:80 - Заголовок не найден
+154.201.153.25:80 - Test Page for Apache Installation
+103.36.84.153:80 - Заголовок не найден
+151.83.171.104:80 - NethServer Enterprise
+23.221.167.205:80 - Заголовок не найден
+141.95.76.112:80 - Just another StackX server by ScalarX (c) Christophe Casalegno / Brain 0verride
+76.16.163.170:80 - 
+1.81.4.64:80 - Заголовок не найден
+156.213.193.131:80 - 
+113.28.166.235:80 - Web Filter Block Override
+194.171.96.68:80 - Заголовок не найден
+5.204.40.186:80 - RouterOS router configuration page
+84.83.8.108:80 - SPIET
+18.66.145.245:80 - Заголовок не найден
+159.135.142.113:80 - IIS Windows Server
+18.175.90.24:80 - Заголовок не найден
+156.245.38.56:80 - 404 Not Found
+221.228.210.81:80 - 403 Forbidden
+108.159.29.204:80 - Заголовок не найден
+3.212.217.252:80 - The page you were looking for doesn't exist (404)
+201.33.161.83:80 - RouterOS router configuration page
+23.203.111.153:80 - Заголовок не найден
+198.74.62.180:80 - Заголовок не найден
+184.24.84.214:80 - Заголовок не найден
+185.125.201.190:80 - Welcome to nginx!
+177.246.69.238:80 - 
+75.188.57.92:80 - 
+4.207.101.246:80 - Azure Container App - Unavailable
+112.172.90.100:80 - CMS Web Viewer
+18.239.252.115:80 - Заголовок не найден
+104.206.137.246:80 - 403 Forbidden
+96.7.74.56:80 - Заголовок не найден
+185.93.166.108:80 - IIS Windows Server
+79.143.30.119:80 - Welcome to nginx!
