@@ -2,3 +2,12 @@
 158.38.38.186:80 - Apache2 Debian Default Page: It works
 23.46.232.126:80 - Заголовок не найден
 103.50.204.7:80 - Welcome to nginx!
+13.33.36.62:80 - Заголовок не найден
+52.87.217.30:80 - Sample Deployment
+208.185.192.90:80 - Заголовок не найден
+91.32.94.200:80 - Заголовок не найден
+91.210.164.154:80 - Buy Fioricet Next Day Delivery to your Door - MigrainesRXprix
+172.67.67.191:80 - Direct IP access not allowed | Cloudflare
+54.215.123.154:80 - 
+103.39.17.60:80 - 404 Not Found
+95.101.220.229:80 - Заголовок не найден
