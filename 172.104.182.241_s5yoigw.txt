@@ -2930,3 +2930,146 @@
 51.77.146.89:80 - smtp-express
 62.149.213.10:80 - Заголовок не найден
 75.2.31.211:80 - 403 Forbidden
+184.30.204.133:80 - Заголовок не найден
+44.199.141.185:80 - Home | NovaCasts - Your
+Sound,Your
+Story,Your
+Stream!
+176.35.96.88:80 - 
+159.89.93.42:80 - SellerRunning Services
+34.224.89.128:80 - ABC Assist
+39.104.57.117:80 - 404 Not Found
+69.197.137.202:80 - Заголовок не найден
+18.154.106.0:80 - Заголовок не найден
+12.221.63.106:80 - Web Site Blocked
+189.44.181.169:80 - Web user login
+104.115.170.43:80 - Заголовок не найден
+104.122.201.113:80 - Заголовок не найден
+200.236.235.139:80 - F670L
+108.138.34.246:80 - Заголовок не найден
+24.152.36.148:80 - 401 - Não autorizado: acesso negado devido a credenciais inválidas.
+44.234.86.2:80 - 404 Not Found
+94.237.32.127:80 - Заголовок не найден
+107.6.153.44:80 - Apache HTTP Server Test Page powered by CentOS
+216.69.165.183:80 - Thrue
+51.52.35.110:80 - IIS Windows Server
+49.12.35.9:80 - Apache2 Debian Default Page: It works
+192.52.167.143:80 - Заголовок не найден
+164.46.38.197:80 - 403 Forbidden ã¢ã¯ã»ã¹ãç¦æ­¢ããã¦ãã¾ã
+217.24.180.50:80 - Login
+18.160.196.200:80 - Заголовок не найден
+23.220.8.247:80 - Заголовок не найден
+108.141.16.93:80 - Заголовок не найден
+51.79.93.149:80 - Заголовок не найден
+159.192.75.172:80 - &#72;&#56;&#49;&#48;&#50;&#69;
+23.59.144.136:80 - Заголовок не найден
+23.78.54.33:80 - Заголовок не найден
+45.60.112.141:80 - Заголовок не найден
+59.3.137.135:80 - WEB SERVICE
+100.24.181.240:80 - 503 Service Temporarily Unavailable
+128.112.1.84:80 - CCM - Authentication Failure
+88.221.169.136:80 - Заголовок не найден
+112.132.1.76:80 - 404 Not Found
+15.160.34.51:80 - Заголовок не найден
+104.111.199.29:80 - Заголовок не найден
+104.77.254.53:80 - Заголовок не найден
+62.113.86.214:80 - Заголовок не найден
+172.67.6.103:80 - Direct IP access not allowed | Cloudflare
+98.70.57.11:80 - Welcome to nginx!
+23.14.51.203:80 - Заголовок не найден
+133.125.10.174:80 - Apache HTTP Server Test Page powered by CentOS
+185.134.122.56:80 - Заголовок не найден
+54.176.38.101:80 - Apache2 Ubuntu Default Page: It works
+108.156.201.8:80 - Заголовок не найден
+209.163.154.2:80 - Заголовок не найден
+2.132.211.110:80 - GPON Home Gateway
+52.15.128.153:80 - Writely
+13.33.205.159:80 - Заголовок не найден
+18.166.207.42:80 - Welcome to nginx!
+23.215.188.149:80 - Заголовок не найден
+73.5.24.238:80 - 
+153.9.121.21:80 - HTTP Status 404 – Not Found
+13.35.74.229:80 - Заголовок не найден
+192.126.200.17:80 - ERROR: The requested URL could not be retrieved
+69.28.92.165:80 - 404 Not Found
+99.84.59.118:80 - Заголовок не найден
+47.245.86.22:80 - Apache HTTP Server Test Page powered by CentOS
+65.183.175.166:80 - NeoConneX Version 10
+217.160.205.24:80 - Apache2 Ubuntu Default Page: It works
+68.178.134.16:80 - Coming Soon
+152.89.9.117:80 - ERROR: The requested URL could not be retrieved
+44.237.88.13:80 - Заголовок не найден
+47.252.11.162:80 - 设备登录
+187.33.91.46:80 - 403 - Forbidden: Access is denied.
+172.247.239.28:80 - Заголовок не найден
+23.217.166.73:80 - Заголовок не найден
+43.137.7.72:80 - 404 Not Found
+151.0.134.1:80 - Web Filter Block Override
+46.164.214.182:80 - IIS7
+18.64.102.62:80 - Заголовок не найден
+104.106.77.195:80 - Заголовок не найден
+104.17.75.6:80 - Direct IP access not allowed | Cloudflare
+91.211.177.22:80 - RouterOS
+52.130.155.177:80 - Заголовок не найден
+51.159.104.74:80 - Заголовок не найден
+103.215.227.149:80 - Please wait, the login page is opening...
+213.113.158.95:80 - RCU - Login
+113.207.88.99:80 - 403 Forbidden
+18.245.114.103:80 - Заголовок не найден
+143.244.94.27:80 - Trust &amp; Safety Policies
+88.221.27.41:80 - Заголовок не найден
+130.184.64.145:80 - Заголовок не найден
+23.36.51.23:80 - Заголовок не найден
+175.45.201.223:80 - Welcome to nginx!
+212.11.168.208:80 - The URL you requested has been blocked
+18.160.165.223:80 - Заголовок не найден
+95.111.243.194:80 - Success!
+50.247.175.241:80 - Document Moved
+220.132.244.87:80 - WEB SERVICE
+3.235.158.127:80 - 3Pixels Arcade | Looking for a fun and exciting way to escape reality? Check out our online video game website company! We offer a wide range of games that will keep you entertained for hours on end. From action-packed adventures to thrilling sports games, we have something for everyone. Our website is easy to navigate and designed with young teens in mind. Join our community of gamers and compete with players from all around the world. With regular updates and new releases, you'll never run out of new challenges to conquer. Start playing today and experience the thrill of victory!
+77.238.93.177:80 - Please wait, the page is opening...
+54.177.81.91:80 - 403 Forbidden
+101.200.180.180:80 - ç½ç«è®¿é®æ¥é
+23.54.221.194:80 - Заголовок не найден
+38.85.203.58:80 - 403 Forbidden
+168.235.116.190:80 - Default Web Page
+47.92.71.45:80 - å¿æ¸¸çµå¨å®ç½-é¦é¡µ
+18.245.100.162:80 - Заголовок не найден
+104.152.149.75:80 - Заголовок не найден
+23.219.48.122:80 - Заголовок не найден
+45.61.209.30:80 - Заголовок не найден
+23.10.168.18:80 - Заголовок не найден
+186.194.84.82:80 - Acceptable Use Policy
+46.101.243.190:80 - Inicia sesión
+167.124.124.17:80 - Заголовок не найден
+179.38.199.70:80 - Заголовок не найден
+163.109.77.91:80 - Sistemas
+        - Webrun Studio Edição Carbono - 1.0.0.501
+182.186.134.163:80 - Заголовок не найден
+47.241.182.93:80 - Заголовок не найден
+118.99.13.107:80 - 404 Not Found
+52.203.113.169:80 - 503 Service Temporarily Unavailable
+208.82.81.222:80 - Заголовок не найден
+13.51.187.138:80 - 
+104.24.250.141:80 - Direct IP access not allowed | Cloudflare
+111.92.242.220:80 - 小丫软件库
+104.19.229.99:80 - Direct IP access not allowed | Cloudflare
+202.226.37.137:80 - ç¡å¹ãªURLã§ã
+192.155.89.143:80 - 404 Not Found
+52.217.38.58:80 - Amazon S3 - Cloud Object Storage  - AWS
+194.41.190.82:80 - Smart Transport Billing
+96.7.66.75:80 - Заголовок не найден
+23.33.110.134:80 - Заголовок не найден
+198.58.97.242:80 - FreePBX Administration
+220.86.233.15:80 - 401 Unauthorized
+125.148.74.6:80 - main page
+121.43.154.41:80 - 
+45.243.58.216:80 - Заголовок не найден
+45.235.7.177:80 - SELIGANET/AKNET
+31.172.81.130:80 - Заголовок не найден
+185.244.217.43:80 - 404 Not Found
+176.57.54.35:80 - Index of /
+192.186.150.25:80 - ERROR: The requested URL could not be retrieved
+151.101.163.138:80 - Fastly error: unknown domain 151.101.163.138
+34.251.179.194:80 - Заголовок не найден
+88.147.118.30:80 - 
