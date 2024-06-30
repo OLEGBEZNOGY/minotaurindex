@@ -23,3 +23,10 @@
 2.22.196.211:80 - Заголовок не найден
 168.206.191.170:80 - 404 Not Found
 190.167.112.29:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#54;&#55;&#65;&#32;&#86;&#49;&#46;&#48;
+194.93.79.155:80 - IIS Windows Server
+31.43.117.53:80 - 403 Forbidden
+68.171.54.32:80 - Default Parallels Plesk Panel Page
+63.44.83.66:80 - Aeroqual Connect
+149.62.171.87:80 - 403 Forbidden
+172.65.217.33:80 - Direct IP access not allowed | Cloudflare
+54.193.47.79:80 - Welcome to nginx!
