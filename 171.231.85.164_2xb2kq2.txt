@@ -54,3 +54,6 @@
 158.140.201.154:80 - 404 Not Found
 165.225.116.208:80 - Internet Security by Zscaler
 159.223.34.80:80 - Apache2 Ubuntu Default Page: It works
+179.53.3.149:80 - 
+13.54.63.252:80 - 404 Not Found
+173.44.178.2:80 - 403 Forbidden
