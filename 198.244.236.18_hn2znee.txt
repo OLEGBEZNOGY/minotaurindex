@@ -17948,3 +17948,92 @@
 127.187.69.243:80 - IIS Windows Server
 208.104.208.12:80 - WEB SERVICE
 68.171.40.240:80 - Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
+13.249.72.58:80 - Заголовок не найден
+58.229.185.111:80 - 404 Not Found
+184.30.201.35:80 - Заголовок не найден
+127.213.152.10:80 - IIS Windows Server
+127.204.107.210:80 - IIS Windows Server
+127.154.149.94:80 - IIS Windows Server
+96.17.40.252:80 - Заголовок не найден
+216.92.161.23:80 - Silica Street Productions
+173.232.27.216:80 - 403 Forbidden
+13.69.28.86:80 - Заголовок не найден
+24.196.22.198:80 - 
+75.129.10.61:80 - 
+162.215.117.253:80 - Not Acceptable!
+127.52.222.118:80 - IIS Windows Server
+23.210.40.200:80 - Заголовок не найден
+127.17.175.240:80 - IIS Windows Server
+152.195.132.137:80 - 404 - Not Found
+195.135.139.58:80 - Untitled Document
+127.69.180.229:80 - IIS Windows Server
+37.234.177.174:80 - Заголовок не найден
+82.98.158.43:80 - EstÃ¡s accediendo a una IP compartida por varios hostings
+158.199.150.163:80 - Заголовок не найден
+69.197.160.246:80 - Заголовок не найден
+52.218.41.227:80 - Amazon S3 - Cloud Object Storage  - AWS
+127.174.73.246:80 - IIS Windows Server
+23.14.125.178:80 - Заголовок не найден
+127.85.114.172:80 - IIS Windows Server
+184.25.7.164:80 - Заголовок не найден
+160.124.133.29:80 - 404 Not Found
+195.231.76.37:80 - darkness.example.com &mdash; Coming Soon
+162.40.235.40:80 - Document Moved
+90.63.129.52:80 - IIS Windows
+127.39.180.228:80 - IIS Windows Server
+158.140.197.116:80 - 404 Not Found
+187.50.99.182:80 - Web managerment Home
+190.166.114.48:80 - 
+127.72.39.58:80 - IIS Windows Server
+127.252.248.119:80 - IIS Windows Server
+38.92.178.112:80 - Заголовок не найден
+52.17.113.217:80 - Welcome to the Official source for UK trains | National Rail
+127.63.19.226:80 - IIS Windows Server
+45.192.199.82:80 - 404 Not Found
+50.252.9.37:80 - Dr. Shiloh Wihksne, D.C. &amp; Dr. Cameron Johnson, D.C.
+127.225.95.54:80 - IIS Windows Server
+125.16.255.74:80 - IIS Windows Server
+127.211.115.132:80 - IIS Windows Server
+23.32.78.69:80 - Заголовок не найден
+127.102.103.170:80 - IIS Windows Server
+151.228.75.232:80 - 
+41.231.36.92:80 - بلدية برج العامري  - Borj El Amri
+187.138.142.16:80 - RouterOS router configuration page
+127.245.161.143:80 - IIS Windows Server
+18.161.151.149:80 - Заголовок не найден
+70.254.2.122:80 - Заголовок не найден
+184.30.218.234:80 - Заголовок не найден
+127.197.223.198:80 - IIS Windows Server
+122.154.155.105:80 - Заголовок не найден
+103.24.87.141:80 - Please wait, the login page is opening...
+47.243.226.56:80 - æ²¡ææ¾å°ç«ç¹
+81.201.62.30:80 - RouterOS router configuration page
+23.9.68.49:80 - Заголовок не найден
+186.7.68.204:80 - 
+203.161.55.37:80 - Заголовок не найден
+93.123.39.101:80 - Site Maintenance
+54.192.237.139:80 - Заголовок не найден
+54.157.48.103:80 - Заголовок не найден
+52.42.159.49:80 - Заголовок не найден
+104.171.184.190:80 - 404 Not Found
+103.91.226.93:80 - Please wait, the page is opening...
+127.20.6.252:80 - IIS Windows Server
+23.42.205.21:80 - Заголовок не найден
+127.46.77.93:80 - IIS Windows Server
+34.227.247.254:80 - Заголовок не найден
+202.61.191.70:80 - 404 Not Found
+52.239.135.6:80 - Заголовок не найден
+39.106.152.238:80 - 404 Not Found
+104.69.166.101:80 - Заголовок не найден
+72.249.174.40:80 - Заголовок не найден
+107.151.85.140:80 - 404 Not Found
+54.148.43.202:80 - Home - DrBalcony
+127.111.75.144:80 - IIS Windows Server
+127.153.150.62:80 - IIS Windows Server
+127.19.95.169:80 - IIS Windows Server
+18.239.94.57:80 - Заголовок не найден
+109.123.236.0:80 - Welcome to nginx!
+8.146.244.245:80 - 阿里云 Web应用防火墙
+127.107.230.251:80 - IIS Windows Server
+68.119.3.186:80 - 
+211.110.44.44:80 - Error
