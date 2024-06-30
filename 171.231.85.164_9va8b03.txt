@@ -20,3 +20,7 @@
 43.128.202.188:80 - Заголовок не найден
 190.220.16.243:80 - Заголовок не найден
 41.188.39.202:80 - Welcome to XAMPP
+163.237.214.109:80 - Заголовок не найден
+185.177.155.91:80 - Web Server's Default Page
+37.59.30.55:80 - IIS Windows Server
+142.11.209.189:80 - ASIS, Inc. Software Engineering Consultants
