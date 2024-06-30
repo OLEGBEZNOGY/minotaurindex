@@ -119,3 +119,43 @@
 4.157.102.12:80 - Your Azure Function App is up and running.
 63.252.138.132:80 - Allways Inc. | Computer Technology Specialists | Networking
 62.97.37.176:80 - Aethra Telecommunications Operating System
+13.32.120.26:80 - Заголовок не найден
+38.12.171.220:80 - Sorry, the website has been stopped
+112.175.59.194:80 - 403 Forbidden
+69.24.21.123:80 - Car-Part.com--Used Auto Parts Market
+23.62.179.6:80 - Заголовок не найден
+34.90.127.111:80 - 403 Forbidden
+176.148.172.234:80 - Centrale
+195.42.162.66:80 - Redmine
+168.76.186.156:80 - æ²¡ææ¾å°ç«ç¹
+14.1.23.178:80 - 403 - Forbidden: Access is denied.
+195.160.222.151:80 - Заголовок не найден
+82.66.96.128:80 - rPascal
+18.165.97.188:80 - Заголовок не найден
+13.224.44.204:80 - Заголовок не найден
+156.245.86.140:80 - 404 Not Found
+138.68.7.16:80 - Welcome to nginx!
+23.51.178.204:80 - Заголовок не найден
+1.54.250.20:80 - Заголовок не найден
+191.81.208.137:80 - Заголовок не найден
+38.28.161.144:80 - 404 Not Found
+217.13.81.82:80 - IIS7
+54.236.188.127:80 - Take 5 Slots
+2.19.58.131:80 - Заголовок не найден
+54.158.171.118:80 - 503 Service Temporarily Unavailable
+3.162.141.105:80 - Заголовок не найден
+168.206.204.175:80 - æ²¡ææ¾å°ç«ç¹
+13.126.83.199:80 - SenseBig | Shock, Impact, Temperature &amp; Humidity Recorders and Dataloggers
+47.104.228.35:80 - ç½ç«è®¿é®æ¥é
+47.91.24.234:80 - Заголовок не найден
+121.164.138.44:80 - WEB SERVICE
+4.236.38.48:80 - Your Azure Function App is up and running.
+95.216.180.133:80 - bugtrace e.U. - bugtrace
+23.50.113.150:80 - Заголовок не найден
+80.244.184.158:80 - Заголовок не найден
+45.32.138.188:80 - Unknown Domain
+38.12.65.13:80 - 403 Forbidden
+149.3.148.71:80 - Sito in costruzione
+72.184.224.247:80 - 
+212.225.156.108:80 - 403 Forbidden
+141.95.36.69:80 - 404 Not Found
