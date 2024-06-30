@@ -2948,3 +2948,153 @@
 104.34.133.176:80 - 
 119.23.132.45:80 - Not Found
 84.238.209.135:80 - 403 Forbidden
+23.1.57.114:80 - Заголовок не найден
+142.214.137.73:80 - 403 Forbidden
+172.66.145.136:80 - Direct IP access not allowed | Cloudflare
+23.5.253.75:80 - Заголовок не найден
+34.120.22.210:80 - Заголовок не найден
+152.199.52.161:80 - 404 - Not Found
+94.253.44.78:80 - Заголовок не найден
+89.116.187.121:80 - Welcome to nginx!
+35.154.106.195:80 - Leadsquared - Page Not Found
+93.123.57.19:80 - 
+62.75.182.42:80 - 
+142.4.3.246:80 - Заголовок не найден
+18.142.37.189:80 - Apache2 Ubuntu Default Page: It works
+23.42.222.25:80 - Заголовок не найден
+104.248.13.138:80 - HOME - BERKO ENVIRONMENTAL
+64.44.48.30:80 - 407 Proxy Authentication Required
+209.244.147.48:80 - Instant WiFi
+103.228.136.125:80 - 405
+8.210.218.173:80 - 阿里云万网虚机IP访问报错提示
+43.159.158.39:80 - Заголовок не найден
+103.72.145.56:80 - Test Page for the Nginx HTTP Server on Rocky Linux
+13.215.77.75:80 - 404 Not Found
+217.182.205.105:80 - Web Server's Default Page
+104.165.45.96:80 - 404 Not Found
+102.134.117.44:80 - ePMP
+93.240.94.74:80 - Document Moved
+47.201.241.69:80 - 
+18.165.219.217:80 - Заголовок не найден
+72.174.173.19:80 - 
+185.244.27.100:80 - Заголовок не найден
+50.2.249.215:80 - 403 Forbidden
+206.251.22.100:80 - Apache2 Ubuntu Default Page: It works
+52.178.28.191:80 - Заголовок не найден
+203.190.24.114:80 - IIS Windows Server
+40.115.157.83:80 - Subspace
+23.72.244.253:80 - Заголовок не найден
+88.149.207.251:80 - Заголовок не найден
+104.27.110.98:80 - Direct IP access not allowed | Cloudflare
+188.128.225.85:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+159.135.25.131:80 - Coming Soon page
+172.66.132.160:80 - Direct IP access not allowed | Cloudflare
+23.9.122.200:80 - Заголовок не найден
+107.158.18.227:80 - 403 Forbidden
+45.59.106.196:80 - Index of /
+210.44.1.16:80 - É½¶«Ê¦·¶´óÑ§
+1.34.244.72:80 - 
+32.218.192.126:80 - Server Error
+132.148.99.143:80 - Genius 100 – An active and engaged community of 100 exceptionally imaginative and impactful human beings
+161.35.108.86:80 - Заголовок не найден
+159.89.105.133:80 - Māju būvniecība |
+216.120.228.235:80 - Заголовок не найден
+108.61.209.251:80 - Oakey22 Delegate Pool
+47.250.40.40:80 - 404 Not Found
+157.0.148.51:80 - Заголовок не найден
+75.127.13.82:80 - 404 Not Found
+185.98.2.71:80 - RouterOS router configuration page
+103.117.121.88:80 - Test Page for Apache Installation
+72.247.201.248:80 - Заголовок не найден
+114.108.190.242:80 - Заголовок не найден
+45.225.84.20:80 - Apache2 Debian Default Page: It works
+62.210.209.225:80 - Welcome to nginx!
+18.181.188.184:80 - Welcome to nginx!
+160.181.169.208:80 - Заголовок не найден
+176.58.97.151:80 - 403 Forbidden
+96.17.241.34:80 - Заголовок не найден
+52.66.39.168:80 - 502 Bad Gateway
+13.32.113.188:80 - Заголовок не найден
+61.216.81.82:80 - WEB SERVICE
+194.163.189.49:80 - Welcome to nginx!
+69.192.121.241:80 - Заголовок не найден
+220.134.234.251:80 - 
+104.85.130.122:80 - Заголовок не найден
+103.95.13.48:80 - CRM V-2.0
+23.49.218.120:80 - Заголовок не найден
+45.223.181.152:80 - Заголовок не найден
+221.164.180.14:80 - 
+60.247.163.73:80 - 403 Forbidden
+74.221.196.108:80 - Заголовок не найден
+203.159.201.68:80 - Заголовок не найден
+74.70.134.125:80 - 
+150.60.165.37:80 - Заголовок не найден
+52.79.83.146:80 - Заголовок не найден
+176.122.27.113:80 - 502 Bad Gateway
+104.18.118.172:80 - Direct IP access not allowed | Cloudflare
+195.90.200.110:80 - Web Server's Default Page
+172.179.51.33:80 - Your Azure Function App is up and running.
+38.55.79.98:80 - Page not found
+47.108.118.198:80 - 
+187.131.245.212:80 - 
+144.91.108.171:80 - Admin-Servirating
+23.50.82.66:80 - Заголовок не найден
+195.242.210.240:80 - ERROR: The requested URL could not be retrieved
+34.194.255.141:80 - Log In | Personalized Learning Platform
+209.59.209.61:80 - Заголовок не найден
+220.72.104.252:80 - Заголовок не найден
+94.75.106.66:80 - KODY KRESKOWE 4
+110.234.163.87:80 - Заголовок не найден
+213.18.165.169:80 - Заголовок не найден
+220.135.6.29:80 - Заголовок не найден
+95.202.97.127:80 - Заголовок не найден
+173.249.25.85:80 - Login - ArtSpotter
+178.213.143.40:80 - WEB SERVICE
+119.150.83.118:80 - 403 Forbidden
+117.50.93.6:80 - Welcome to nginx!
+34.208.42.106:80 - Jinzgo | Know Where to Go..
+13.224.233.149:80 - Заголовок не найден
+3.23.77.215:80 - Apache2 Ubuntu Default Page: It works
+18.229.178.210:80 - Bacio di Latte - Authorization
+222.103.208.119:80 - Gargoyle Router Management Utility
+107.148.152.215:80 - 404 Not Found
+13.94.124.231:80 - Welcome to nginx!
+23.221.255.25:80 - Заголовок не найден
+168.87.253.81:80 - Заголовок не найден
+197.149.70.42:80 - RouterOS router configuration page
+20.73.66.183:80 - Заголовок не найден
+54.207.145.64:80 - Welcome
+66.39.0.29:80 - Cloudcap Consulting
+104.115.232.36:80 - Заголовок не найден
+87.233.74.246:80 - Default site
+52.249.244.97:80 - Your Azure Function App is up and running.
+125.63.106.114:80 - SonicWall - Authentication
+10.138.67.135:80 - HTTP 401 - Unauthorized
+103.195.216.246:80 - 404 Not Found
+103.136.178.151:80 - RouterOS router configuration page
+107.151.95.134:80 - è³å°å¨±ä¹
+184.28.9.94:80 - Заголовок не найден
+196.201.240.130:80 - SonicWALL - Authentication
+78.46.23.62:80 - Welcome to nginx!
+168.91.4.54:80 - Shibboleth Authentication Request
+185.147.157.54:80 - 404 Not Found
+85.198.232.14:80 - Efaktury
+34.214.242.27:80 - user&#039;s Blog! &#8211; Just another WordPress site
+60.188.237.155:80 - 403 Forbidden
+162.251.82.252:80 - Direct IP access not allowed | Cloudflare
+54.173.42.68:80 - Заголовок не найден
+69.58.6.96:80 - ERROR: The requested URL could not be retrieved
+23.195.244.15:80 - Заголовок не найден
+177.240.31.226:80 - 
+2.17.196.43:80 - Заголовок не найден
+45.223.107.122:80 - Заголовок не найден
+222.153.243.139:80 - 
+160.124.131.248:80 - Заголовок не найден
+92.122.88.243:80 - Заголовок не найден
+188.128.154.95:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+104.131.29.210:80 - Bitcoin v Praze
+103.119.0.39:80 - æ²¡ææ¾å°ç«ç¹
+38.55.113.151:80 - 404 Not Found
+199.188.205.22:80 - Заголовок не найден
+216.117.182.63:80 - Заголовок не найден
+38.31.196.53:80 - 404 Not Found
