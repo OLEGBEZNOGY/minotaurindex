@@ -9,3 +9,11 @@
 91.151.88.207:80 - Заголовок не найден
 161.71.51.92:80 - 403 - Forbidden: Access is denied.
 68.183.206.194:80 - Database Error
+185.125.224.148:80 - Blocked Request: http://185.125.224.148/
+177.54.151.31:80 - IIS Windows Server
+2.115.8.214:80 - IIS Windows Server
+154.91.246.208:80 - 404 Not Found
+45.79.72.196:80 - 404 Not Found
+199.247.0.48:80 - Web Server's Default Page
+154.197.149.162:80 - 404 Not Found
+82.165.7.190:80 - Index of /
