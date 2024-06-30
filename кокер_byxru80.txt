@@ -4667,3 +4667,13 @@
 210.154.205.250:80 - ç§©ç¶ééãã­ãã³è²©å£²æ ªå¼ä¼ç¤¾ - ããããã¼ã¸
 167.99.138.99:80 - Apache2 Ubuntu Default Page: It works
 104.17.30.226:80 - Direct IP access not allowed | Cloudflare
+159.138.138.150:80 - 403 Forbidden
+49.44.86.88:80 - Заголовок не найден
+23.45.66.207:80 - Заголовок не найден
+216.52.187.85:80 - AirTkt: Cheap Flights, Airline Tickets and Airfare
+181.177.151.186:80 - 
+154.7.44.112:80 - IIS Windows Server
+121.43.109.99:80 - Заголовок не найден
+139.196.42.91:80 - 登录 · GitLab
+172.67.38.149:80 - Direct IP access not allowed | Cloudflare
+104.21.213.66:80 - Direct IP access not allowed | Cloudflare
