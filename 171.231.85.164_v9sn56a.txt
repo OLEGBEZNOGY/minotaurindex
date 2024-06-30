@@ -93,3 +93,6 @@
 39.97.138.45:80 - Заголовок не найден
 138.197.13.254:80 - dilooh.
 195.88.15.8:80 - RouterOS router configuration page
+23.53.160.66:80 - Заголовок не найден
+159.138.132.52:80 - 404 Not Found
+91.234.143.12:80 - The URL you requested has been blocked
