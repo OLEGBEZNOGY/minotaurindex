@@ -4151,3 +4151,32 @@
 192.145.232.2:80 - InMotion Hosting
 167.86.121.45:80 - 500 Internal Server Error
 104.16.75.71:80 - Direct IP access not allowed | Cloudflare
+108.138.188.30:80 - Заголовок не найден
+209.237.186.68:80 - 404 - File or directory not found.
+173.52.84.238:80 - index
+23.51.132.91:80 - Заголовок не найден
+18.220.189.24:80 - Заголовок не найден
+23.52.239.128:80 - Заголовок не найден
+35.161.166.166:80 - Заголовок не найден
+154.64.206.113:80 - Заголовок не найден
+45.58.60.148:80 - ERROR: The requested URL could not be retrieved
+80.47.57.53:80 - .::Welcome to the Web-Based Configurator::.
+23.88.35.204:80 - Sign in - Matomo
+23.2.85.210:80 - Заголовок не найден
+18.136.87.222:80 - Test Page for the Apache HTTP Server
+23.214.241.183:80 - Заголовок не найден
+35.161.150.171:80 - Заголовок не найден
+162.144.14.120:80 - Not Acceptable!
+18.159.210.3:80 - Welcome to nginx!
+97.107.140.16:80 - 404 Not Found
+2.133.109.187:80 - GPON Home Gateway
+155.159.137.86:80 - 404 Not Found
+59.127.97.198:80 - 
+130.255.163.27:80 - Database Error
+51.91.60.136:80 - Error 503: server unavailable
+18.140.165.217:80 - Server Under Maintenance
+172.66.167.67:80 - Direct IP access not allowed | Cloudflare
+35.186.222.101:80 - Заголовок не найден
+15.197.148.233:80 - 403 Forbidden
+72.247.235.32:80 - Заголовок не найден
+82.217.26.132:80 - 
