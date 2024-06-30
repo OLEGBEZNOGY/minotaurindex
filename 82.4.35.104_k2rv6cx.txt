@@ -2318,3 +2318,13 @@ te Â· Bootstrap
 158.37.60.216:80 - Apache2 Ubuntu Default Page: It works
 137.220.134.111:80 - IIS Windows
 157.205.208.192:80 - å¤§æ±éç­æ ªå¼ä¼ç¤¾
+165.232.128.23:80 - Notify
+64.227.130.17:80 - Home - Alvirland
+103.243.118.175:80 - Apache HTTP Server Test Page powered by CentOS
+23.1.87.180:80 - Заголовок не найден
+20.232.253.193:80 - Your Azure Function App is up and running.
+104.24.215.70:80 - Direct IP access not allowed | Cloudflare
+65.8.35.71:80 - Заголовок не найден
+124.253.193.231:80 - Заголовок не найден
+3.138.83.201:80 - Заголовок не найден
+208.68.37.162:80 - Заголовок не найден
