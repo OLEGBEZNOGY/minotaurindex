@@ -7261,3 +7261,41 @@ Servers, Domain Registry
 103.98.6.48:80 - IIS Windows Server
 13.227.1.204:80 - Заголовок не найден
 165.22.252.44:80 - Заголовок не найден
+221.165.106.117:80 - CMS Web Viewer
+116.48.4.139:80 - 404 Not Found
+158.160.104.198:80 - Vite + React + TS
+104.19.141.229:80 - Direct IP access not allowed | Cloudflare
+50.74.140.206:80 - SonicWall - Authentication
+216.10.245.153:80 - Заголовок не найден
+5.78.68.225:80 - Welcome to nginx!
+154.201.184.112:80 - 403 Forbidden
+38.170.143.247:80 - ERROR: The requested URL could not be retrieved
+89.213.99.155:80 - Apache HTTP Server Test Page powered by CentOS
+41.35.210.188:80 - 
+94.229.67.120:80 - Forbidden!
+67.11.191.206:80 - Apache2 Ubuntu Default Page: It works
+154.19.227.145:80 - Welcome to nginx!
+20.36.76.140:80 - Microsoft Azure Web App - Error 404
+199.232.109.147:80 - Fastly error: unknown domain 199.232.109.147
+195.68.15.143:80 - Заголовок не найден
+54.230.53.145:80 - Заголовок не найден
+151.101.179.100:80 - Fastly error: unknown domain 151.101.179.100
+54.192.237.33:80 - Заголовок не найден
+194.233.64.36:80 - Apache2 Ubuntu Default Page: It works
+96.80.188.189:80 - Login
+139.59.232.174:80 - 404 Not Found
+38.63.150.186:80 - 403 Forbidden
+20.247.191.154:80 - Your Azure Function App is up and running.
+159.192.213.76:80 - 403 Forbidden
+178.89.216.163:80 - GPON Home Gateway
+23.57.217.71:80 - Заголовок не найден
+34.143.11.97:80 - Заголовок не найден
+104.118.171.237:80 - Заголовок не найден
+95.59.250.85:80 - GPON Home Gateway
+82.146.43.182:80 - 401 Authorization Required
+211.106.86.143:80 - Заголовок не найден
+183.103.32.121:80 - Заголовок не найден
+206.189.14.194:80 - 401 Unauthorized
+91.106.201.77:80 - ÐÐ¾Ð¼ÐµÐ½ Ð½Ðµ Ð¿ÑÐ¸Ð»Ð¸Ð½ÐºÐ¾Ð²Ð°Ð½ Ð½Ð¸ Ðº Ð¾Ð´Ð½Ð¾Ð¹ Ð¸Ð· Ð´Ð¸ÑÐµÐºÑÐ¾ÑÐ¸Ð¹ Ð½Ð° ÑÐµÑÐ²ÐµÑÐµ!
+168.206.164.109:80 - ç¾åº¦ä¸ä¸ï¼ä½ å°±ç¥é
+187.134.47.153:80 - 
