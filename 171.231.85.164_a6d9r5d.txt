@@ -26,3 +26,18 @@
 193.33.204.125:80 - Web Server's Default Page
 66.85.75.155:80 - 500 Internal Server Error
 23.62.188.41:80 - Заголовок не найден
+193.201.39.94:80 - 403 - Forbidden: Access is denied.
+116.105.27.71:80 - Multi Proxy IPV4 - datienich.vn
+184.31.180.36:80 - Заголовок не найден
+176.96.243.186:80 - IIS Windows Server
+104.253.61.46:80 - 404 Not Found
+176.99.11.170:80 - FASTPANEL
+104.18.121.153:80 - Direct IP access not allowed | Cloudflare
+17.250.85.204:80 - 400 Bad Request
+46.19.67.2:80 - Lulu - Натуральная косметика для детей
+13.245.32.27:80 - Apache2 Ubuntu Default Page: It works
+162.0.226.242:80 - Welcome to nginx!
+23.12.132.155:80 - Заголовок не найден
+104.206.191.8:80 - 404 Not Found
+168.206.221.34:80 - 403 Forbidden
+2.193.208.206:80 - 
