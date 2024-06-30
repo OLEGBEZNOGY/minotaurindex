@@ -5325,3 +5325,57 @@
 66.85.142.252:80 - IIS Windows Server
 117.210.165.54:80 - 
 52.77.201.252:80 - 403 Forbidden
+85.128.213.252:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+165.231.121.10:80 - 407 Proxy Authentication Required
+179.36.211.3:80 - Заголовок не найден
+66.29.146.178:80 - Namecheap Parking Page
+2.16.231.95:80 - Заголовок не найден
+23.49.37.107:80 - Заголовок не найден
+35.207.79.14:80 - VinciPlay - place zabaw
+162.144.35.251:80 - Заголовок не найден
+104.124.11.160:80 - Заголовок не найден
+64.84.118.124:80 - Apache2 Ubuntu Default Page: It works
+177.221.66.34:80 - Заголовок не найден
+18.142.230.232:80 - Housing Mart - Nền tảng kết nối chủ nhà với các đơn vị sửa chữa hoàn thiện nhà uy tín
+52.195.1.124:80 - 404 Not Found
+54.159.117.10:80 - Заголовок не найден
+50.236.119.136:80 - 
+110.77.241.251:80 - 403 Forbidden
+23.33.233.77:80 - Заголовок не найден
+194.177.50.41:80 - Bordeaux Events And More - Les meilleurs évènements sur Bordeaux
+134.122.22.167:80 - Artboard
+104.21.4.82:80 - Direct IP access not allowed | Cloudflare
+34.98.105.207:80 - 502 Server Error
+23.48.184.121:80 - Заголовок не найден
+108.159.51.182:80 - Заголовок не найден
+52.217.164.37:80 - Amazon S3 - Cloud Object Storage  - AWS
+110.50.216.246:80 - æ ªå¼ä¼ç¤¾ããã
+116.205.173.176:80 - 致远A8+协同管理软件 V8.0
+18.165.251.19:80 - Заголовок не найден
+69.85.77.105:80 - Ubiquiti
+193.105.67.240:80 - 
+220.132.54.18:80 - 
+35.75.53.58:80 - Заголовок не найден
+23.32.252.81:80 - Заголовок не найден
+63.134.196.149:80 - Заголовок не найден
+89.197.83.154:80 - Document Moved
+181.48.111.14:80 - IIS Windows
+163.5.248.211:80 - Apache2 Ubuntu Default Page: It works
+79.96.87.142:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+46.91.160.129:80 - Заголовок не найден
+103.77.136.70:80 - Please wait, the login page is opening...
+61.194.129.50:80 - VR-S1000 - BUFFALO BroadStation Pro
+23.58.246.198:80 - Заголовок не найден
+38.162.112.61:80 - 404 Not Found
+185.200.241.126:80 - TimFocus
+185.219.71.165:80 - Please wait, the page is opening...
+168.81.46.73:80 - 407 Proxy Authentication Required
+152.89.106.224:80 - DLRG Ortsgruppe Saarlouis e.V. Webmail :: Willkommen bei DLRG Ortsgruppe Saarlouis e.V. Webmail
+170.130.186.34:80 - 403 Forbidden
+52.84.94.158:80 - Заголовок не найден
+101.100.241.125:80 - 403 Forbidden
+154.220.254.61:80 - 404 Not Found
+23.33.5.163:80 - Заголовок не найден
+23.208.20.196:80 - Заголовок не найден
+23.9.127.193:80 - Заголовок не найден
+77.78.119.155:80 - Welcome to nginx!
