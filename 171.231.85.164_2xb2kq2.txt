@@ -50,3 +50,5 @@
 18.165.189.195:80 - Заголовок не найден
 50.3.6.14:80 - 403 Forbidden
 104.27.115.203:80 - Direct IP access not allowed | Cloudflare
+94.156.61.135:80 - Please wait, the page is opening...
+158.140.201.154:80 - 404 Not Found
