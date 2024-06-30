@@ -12391,3 +12391,41 @@
 20.200.75.93:80 - Azure Container App - Unavailable
 88.208.31.5:80 - Заголовок не найден
 14.161.33.30:80 - 
+165.232.121.38:80 - Welcome to nginx!
+103.241.170.234:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+18.67.164.20:80 - Заголовок не найден
+196.196.206.148:80 - 403 Forbidden
+38.11.220.146:80 - Welcome to nginx!
+39.39.101.178:80 - Заголовок не найден
+18.117.6.232:80 - Winsipedia - College football database of all-time records, wins, and statistics
+172.177.2.131:80 - JFrog
+185.143.14.22:80 - Database Error
+74.51.214.89:80 - Connection denied by Geolocation
+162.240.78.14:80 - Заголовок не найден
+198.1.255.0:80 - Заголовок не найден
+165.22.117.42:80 - Welcome to nginx!
+66.33.206.118:80 - Site not found &middot; DreamHost
+184.95.213.122:80 - Document Moved
+13.228.115.81:80 - 403 Forbidden
+199.250.204.222:80 - Заголовок не найден
+52.171.238.226:80 - Your Azure Function App is up and running.
+45.228.18.22:80 - 
+96.244.103.208:80 - 
+52.252.49.182:80 - Microsoft Azure Web App - Error 404
+38.174.100.183:80 - 404 Not Found
+45.77.52.114:80 - 404 Not Found
+23.209.184.169:80 - Заголовок не найден
+23.196.245.213:80 - Заголовок не найден
+18.161.116.46:80 - Заголовок не найден
+23.204.31.87:80 - Заголовок не найден
+196.189.160.185:80 - ZyWALL USG100-PLUS
+81.19.56.207:80 - Заголовок не найден
+159.223.30.8:80 - Carpet Cleaning London | Carpet Cleaners Near Me
+151.80.27.164:80 - Welcome to nginx!
+31.204.150.138:80 - Info
+216.119.94.196:80 - 500 - Internal server error.
+186.10.118.215:80 - Заголовок не найден
+34.149.182.84:80 - Заголовок не найден
+101.230.171.1:80 - Заголовок не найден
+54.192.96.133:80 - Заголовок не найден
+93.56.22.124:80 - index
