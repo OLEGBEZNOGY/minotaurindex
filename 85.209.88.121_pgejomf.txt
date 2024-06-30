@@ -18353,3 +18353,25 @@
 108.181.255.47:80 - ERROR: The requested URL could not be retrieved
 36.112.90.88:80 - platform
 118.195.143.14:80 - IIS Windows Server
+47.115.177.1:80 - 404 Not Found
+85.128.239.212:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+34.95.42.116:80 - Заголовок не найден
+95.111.194.42:80 - GASKAN88 - Best Website For Playing With Family Dan Mudah Mendapatkan Uang.
+83.82.123.163:80 - Заголовок не найден
+103.4.167.31:80 - Welcome to XAMPP
+23.51.103.240:80 - Заголовок не найден
+222.194.27.33:80 - 404 Not Found
+1.33.170.245:80 - Заголовок не найден
+209.205.201.156:80 - Заголовок не найден
+121.62.18.188:80 - Заголовок не найден
+69.31.162.34:80 - Заголовок не найден
+104.86.38.84:80 - Заголовок не найден
+66.37.10.213:80 - Free Porn - FREE PORN VIDEOS AND SEX PICS
+43.201.191.195:80 - 503 Service Temporarily Unavailable
+111.12.157.169:80 - Заголовок не найден
+45.82.120.248:80 - Prepaid KVM Rootserver, vServer, Webhosting, Domains und Teamspeak 3 Server
+34.126.237.74:80 - Заголовок не найден
+69.172.215.73:80 - Заголовок не найден
+23.46.49.183:80 - Заголовок не найден
+23.41.213.189:80 - Заголовок не найден
+23.229.99.107:80 - ERROR: The requested URL could not be retrieved
