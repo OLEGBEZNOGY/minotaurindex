@@ -4415,3 +4415,24 @@
 173.222.178.180:80 - Заголовок не найден
 118.178.90.75:80 - æ²¡ææ¾å°ç«ç¹
 136.144.163.217:80 - 503 Service Unavailable
+51.75.255.43:80 - Web Server's Default Page
+116.203.56.200:80 - Login
+94.198.50.185:80 - 404 Not Found
+104.27.32.30:80 - Direct IP access not allowed | Cloudflare
+167.71.198.54:80 - 404 Not Found
+217.86.136.64:80 - FUELLHORN - Login
+23.199.214.67:80 - Заголовок не найден
+154.38.25.58:80 - ERROR: The requested URL could not be retrieved
+159.192.163.2:80 - 403 Forbidden
+60.43.154.202:80 - Sample Page
+23.194.193.78:80 - Заголовок не найден
+143.244.199.220:80 - Заголовок не найден
+107.6.114.228:80 - Apache2 Ubuntu Default Page: It works
+23.76.49.3:80 - Заголовок не найден
+204.210.117.180:80 - 
+124.108.50.230:80 - RouterOS router configuration page
+192.185.203.49:80 - Not Acceptable!
+167.86.75.167:80 - TECHNOSOFT BUSINESS INTELLIGENCE
+122.201.97.213:80 - Заголовок не найден
+154.205.95.238:80 - 403 Forbidden
+54.251.3.17:80 - IIS Windows Server
