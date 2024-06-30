@@ -2032,3 +2032,44 @@ software - three powerful and versatile products from EZB Systems.
 69.48.182.47:80 - Заголовок не найден
 4.182.132.185:80 - Your Azure Function App is up and running.
 23.99.117.143:80 - 404 Not Found
+52.139.156.204:80 - 502 Bad Gateway
+178.17.2.74:80 - Carel pCOWeb Home Page
+159.203.161.225:80 - Заголовок не найден
+163.182.67.253:80 - ACME Access Only
+159.69.152.81:80 - Startseite - King and Bee
+200.145.149.66:80 - Заголовок не найден
+210.117.160.72:80 - L7
+65.49.17.76:80 - Заголовок не найден
+18.238.21.200:80 - Заголовок не найден
+8.217.176.30:80 - æ­åï¼ç«ç¹åå»ºæåï¼
+23.59.2.157:80 - Заголовок не найден
+38.102.10.18:80 - 403 Forbidden
+64.57.78.86:80 - Service Unavailable
+72.167.84.101:80 - Concrete Resurfacing, Concrete Overlays, Epoxy Floors, Concrete Repair, Decorative Concrete, Concrete Driveways - Deckcrete
+88.124.67.211:80 - Заголовок не найден
+173.254.24.43:80 - Not Acceptable!
+20.58.185.155:80 - IIS Windows Server
+35.173.69.54:80 - Servicios Aspel-SAE
+185.166.37.105:80 - 403 Forbidden
+113.188.212.151:80 - WEB SERVICE
+61.126.57.191:80 - Sample Page
+85.9.47.45:80 - Error 403 - Forbidden
+200.71.67.189:80 - Заголовок не найден
+197.147.65.44:80 - &#72;&#50;&#56;&#56;&#65;
+20.119.172.233:80 - Заголовок не найден
+4.156.179.197:80 - Заголовок не найден
+104.18.252.212:80 - Direct IP access not allowed | Cloudflare
+177.73.151.86:80 - &#90;&#84;&#49;&#57;&#57;
+16.16.192.145:80 - Test Page for the HTTP Server on Red Hat Enterprise Linux
+46.167.84.101:80 - Заголовок не найден
+201.184.124.90:80 - Web user login
+94.152.41.229:80 - Заголовок не найден
+144.129.200.115:80 - Microsoft Internet Information Services 8
+104.92.146.157:80 - Заголовок не найден
+3.5.24.80:80 - Amazon S3 - Cloud Object Storage  - AWS
+188.246.4.21:80 - Заголовок не найден
+54.148.42.18:80 - Index of /
+15.161.144.20:80 - Заголовок не найден
+23.195.66.99:80 - Заголовок не найден
+23.231.124.14:80 - 403 Forbidden
+18.193.220.141:80 - Заголовок не найден
