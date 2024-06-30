@@ -1,1 +1,2 @@
 156.245.79.49:80 - Заголовок не найден
+85.128.236.217:80 - Domena  jest utrzymywana na serwerach nazwa.pl
