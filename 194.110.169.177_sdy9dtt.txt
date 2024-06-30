@@ -2099,3 +2099,49 @@
 104.16.240.188:80 - Direct IP access not allowed | Cloudflare
 4.157.51.208:80 - IIS Windows Server
 54.224.237.172:80 - User&#039;s blog
+67.55.109.52:80 - Заголовок не найден
+160.124.1.111:80 - æ²¡ææ¾å°ç«ç¹
+150.136.193.42:80 - 502 Bad Gateway
+220.90.231.78:80 - WEB SERVICE
+173.212.218.153:80 - Welcome to nginx!
+54.222.216.80:80 - 403 Forbidden
+104.103.174.205:80 - Заголовок не найден
+80.244.219.218:80 - Site settings could not be loaded
+128.17.210.134:80 - 403 - Forbidden: Access is denied.
+189.61.13.24:80 - Intelbras
+154.223.106.243:80 - 404 Not Found
+104.81.225.186:80 - Заголовок не найден
+144.24.99.59:80 - Welcome to nginx!
+67.205.128.156:80 - 403 Forbidden
+207.245.83.37:80 - LynkMail - Home Page  Unified Messaging and Business Communications Provider. 
+
+Unified syncronization with ActiveSync, SyncML IMAP and POP3 Email Services with all Devices
+172.247.187.227:80 - It worked! &mdash; Coming Soon
+52.168.68.222:80 - IIS Windows Server
+23.8.204.64:80 - Заголовок не найден
+45.92.9.131:80 - Sorry, the website has been stopped
+23.207.202.206:80 - Заголовок не найден
+184.27.39.178:80 - Заголовок не найден
+35.129.24.89:80 - 
+191.98.176.203:80 - 400 The plain HTTP request was sent to HTTPS port
+200.229.179.51:80 - 
+173.194.192.218:80 - Error 404 (Not Found)!!1
+89.161.160.5:80 - Publiczna SzkoÅa Podstawowa w RzÄdzinach - psprzedziny.edupage.org
+18.204.173.172:80 - 503 Service Temporarily Unavailable
+54.252.77.88:80 - 404 Not Found
+67.212.171.183:80 - Заголовок не найден
+23.40.171.86:80 - Заголовок не найден
+8.138.126.235:80 - 404 Not Found
+208.67.235.134:80 - Заголовок не найден
+14.29.210.45:80 - è¿è¿ç½
+176.162.194.27:80 - index
+34.162.111.105:80 - Заголовок не найден
+104.164.204.223:80 - 403 Forbidden
+202.101.46.54:80 - ç¨æ·ç»å½
+23.219.40.247:80 - Заголовок не найден
+3.6.4.230:80 - Electronica Finance
+43.227.17.195:80 - QuantumLink Comm. Pvt. Ltd - Login
+43.139.11.192:80 - 404 Not Found
+125.26.161.57:80 - AppServ Open Project 2.5.10
+23.47.247.62:80 - Заголовок не найден
+39.102.67.65:80 - ç±å­ç»è
