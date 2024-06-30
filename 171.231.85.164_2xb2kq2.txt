@@ -52,3 +52,5 @@
 104.27.115.203:80 - Direct IP access not allowed | Cloudflare
 94.156.61.135:80 - Please wait, the page is opening...
 158.140.201.154:80 - 404 Not Found
+165.225.116.208:80 - Internet Security by Zscaler
+159.223.34.80:80 - Apache2 Ubuntu Default Page: It works
