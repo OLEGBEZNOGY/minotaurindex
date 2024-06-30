@@ -8,3 +8,8 @@
 47.89.244.241:80 - 404 Not Found
 52.92.130.17:80 - Amazon S3 - Cloud Object Storage  - AWS
 54.192.125.81:80 - Заголовок не найден
+64.50.167.27:80 - Apache2 Ubuntu Default Page: It works
+18.239.26.86:80 - Заголовок не найден
+154.38.153.253:80 - ERROR: The requested URL could not be retrieved
+107.149.11.7:80 - Заголовок не найден
+89.117.146.78:80 - Default Site
