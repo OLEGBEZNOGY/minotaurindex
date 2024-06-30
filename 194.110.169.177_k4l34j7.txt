@@ -668,3 +668,41 @@
 104.20.95.130:80 - Direct IP access not allowed | Cloudflare
 84.192.83.93:80 - Gia Visual Tool
 96.17.189.104:80 - Заголовок не найден
+107.151.76.68:80 - 403 Forbidden
+2.21.150.131:80 - Заголовок не найден
+92.154.118.31:80 - WEB SERVICE
+188.128.141.128:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+173.223.159.134:80 - Заголовок не найден
+23.229.131.72:80 - Anfy preview
+54.64.254.104:80 - 404 Not Found
+169.60.155.242:80 - IIS Windows Server
+20.109.176.84:80 - 403 - Forbidden: Access is denied.
+147.255.147.89:80 - IIS7
+84.205.200.64:80 - ERMIS-F
+192.151.204.206:80 - Welcome to nginx!
+18.193.116.14:80 - Test Page for the Apache HTTP Server
+203.195.222.253:80 - Заголовок не найден
+113.105.153.144:80 - Заголовок не найден
+13.35.116.66:80 - Заголовок не найден
+104.105.40.14:80 - Заголовок не найден
+13.85.198.157:80 - Microsoft Azure Web App - Error 404
+60.68.143.170:80 - Remote Link2
+5.182.210.208:80 - Заголовок не найден
+61.216.17.103:80 - HTTP Status 403 – Forbidden
+47.109.50.227:80 - Apache2 Ubuntu Default Page: It works
+143.42.191.84:80 - National Society of Black Physician Assistants
+2.133.187.52:80 - GPON Home Gateway
+54.37.201.58:80 - Apache2 Ubuntu Default Page: It works
+176.46.149.217:80 - Заголовок не найден
+104.106.45.177:80 - Заголовок не найден
+52.216.94.59:80 - Amazon S3 - Cloud Object Storage  - AWS
+104.27.108.6:80 - Direct IP access not allowed | Cloudflare
+173.194.174.17:80 - Google
+103.108.43.114:80 - 403 Forbidden
+3.108.174.145:80 - 403 Forbidden
+45.154.237.59:80 - Заголовок не найден
+218.40.131.180:80 - Заголовок не найден
+23.215.147.123:80 - Заголовок не найден
+13.224.92.17:80 - Заголовок не найден
+23.216.250.141:80 - Заголовок не найден
+36.2.75.194:80 - Заголовок не найден
