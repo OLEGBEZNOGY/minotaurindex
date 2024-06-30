@@ -4336,3 +4336,38 @@
 104.76.252.75:80 - Заголовок не найден
 128.17.212.77:80 - 403 - Forbidden: Access is denied.
 172.67.189.42:80 - Direct IP access not allowed | Cloudflare
+185.142.215.243:80 - Welcome to VirtuozzoLinux
+144.76.43.103:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+117.148.176.175:80 - ERROR: The requested URL could not be retrieved
+23.32.25.22:80 - Заголовок не найден
+167.99.110.181:80 - The page is temporarily unavailable
+45.193.87.162:80 - Welcome to nginx!
+43.198.199.54:80 - DisallowedHost
+          at /
+147.139.8.97:80 - 403 Forbidden
+205.209.106.171:80 - IIS Windows Server
+192.3.89.150:80 - Forbidden!
+54.233.247.221:80 - 503 Service Temporarily Unavailable
+205.134.239.115:80 - Default Web Page
+175.208.22.237:80 - 
+23.82.175.117:80 - Index of /
+24.240.97.185:80 - 
+85.146.234.10:80 - ACME Access Only
+23.8.42.152:80 - Заголовок не найден
+194.50.97.61:80 - Welcome to nginx!
+49.12.45.213:80 - Welcome to nginx!
+83.217.75.15:80 - Заголовок не найден
+49.51.35.72:80 - Заголовок не найден
+143.198.103.25:80 - 404 Not Found
+120.233.37.56:80 - Заголовок не найден
+151.115.76.69:80 - 404 Not Found
+78.46.177.221:80 - konsoleH :: Login
+193.203.127.201:80 - 403 - Forbidden: Access is denied.
+156.242.158.183:80 - 403 Forbidden
+51.68.201.232:80 - Fruit Growing, Storing, Packing and Marketing | Peake Fruit
+103.169.142.247:80 - Direct IP access not allowed | Cloudflare
+47.100.46.154:80 - Заголовок не найден
+93.88.202.29:80 - Заголовок не найден
+128.1.164.249:80 - IIS7
+51.159.21.231:80 - Заголовок не найден
+104.88.186.123:80 - Заголовок не найден
