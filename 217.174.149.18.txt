@@ -7714,3 +7714,27 @@
 64.124.180.168:80 - Заголовок не найден
 23.7.31.174:80 - Заголовок не найден
 96.7.76.233:80 - Заголовок не найден
+217.102.133.2:80 - Заголовок не найден
+84.32.22.83:80 - 딸통 | 전국 오피 | 전국 오피사이트
+103.132.199.82:80 - 403 Forbidden
+148.230.251.152:80 - Tenda Web Master
+92.205.185.153:80 - Web Server's Default Page
+107.172.101.96:80 - 404 Not Found
+160.121.98.113:80 - Welcome to nginx!
+13.66.36.72:80 - Microsoft Azure Web App - Error 404
+45.137.11.165:80 - æ²¡ææ¾å°ç«ç¹
+168.197.193.50:80 - 
+162.219.178.62:80 - 403 Forbidden
+63.43.169.73:80 - ThingsProÂ® Edge
+37.187.118.108:80 - Sorry, the website has been stopped
+18.176.210.122:80 - 404 Not Found
+191.13.126.204:80 - Заголовок не найден
+101.132.222.92:80 - 403 Forbidden
+89.47.57.199:80 - Direct IP access not allowed | Cloudflare
+104.19.185.230:80 - Direct IP access not allowed | Cloudflare
+173.214.250.37:80 - 403 Forbidden
+104.20.95.94:80 - Direct IP access not allowed | Cloudflare
+78.56.110.64:80 - WEB SERVICE
+222.194.68.247:80 - 404 Not Found
+165.227.157.51:80 - HTTP Server Test Page powered by CentOS
+120.79.187.182:80 - Nginx UI
