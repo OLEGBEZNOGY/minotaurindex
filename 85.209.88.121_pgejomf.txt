@@ -17779,3 +17779,19 @@
 188.128.160.229:80 - Local index - HTTrack Website Copier
 147.96.32.204:80 - Brother MFC-L2800DW
 54.153.34.226:80 - Welcome to nginx!
+91.106.131.40:80 - 401 Unauthorized
+142.171.49.184:80 - Page not found
+142.1.207.210:80 - Welcome to nginx!
+195.239.87.122:80 - Вход в АИС «Донгфенг»
+51.77.121.56:80 - Community Speedwatch Online
+34.142.83.203:80 - 403 Forbidden
+192.5.219.21:80 - Clemson University, South Carolina
+190.173.211.240:80 - Заголовок не найден
+45.60.104.75:80 - Заголовок не найден
+101.200.91.223:80 - HTTP Server Test Page powered by CentOS
+23.217.81.3:80 - Заголовок не найден
+107.149.88.214:80 - Заголовок не найден
+34.143.202.57:80 - 404 Not Found
+38.47.197.228:80 - 403 Forbidden
+88.221.137.77:80 - Заголовок не найден
+104.40.85.27:80 - Microsoft Azure Web App - Error 404
