@@ -4,3 +4,5 @@
 38.153.162.252:80 - ERROR: The requested URL could not be retrieved
 92.122.157.116:80 - Заголовок не найден
 20.80.133.4:80 - Заголовок не найден
+217.160.10.212:80 - Web Server's Default Page
+3.224.80.62:80 - Home Page - ProducerMAXReach
