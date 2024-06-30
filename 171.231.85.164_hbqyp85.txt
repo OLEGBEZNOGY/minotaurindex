@@ -11,3 +11,9 @@
 140.227.94.165:80 - Заголовок не найден
 54.180.210.132:80 - Заголовок не найден
 81.173.84.135:80 - Web Server's Default Page
+158.69.69.98:80 - It worked! &mdash; Coming Soon
+160.16.116.116:80 - unknown page..
+154.26.174.229:80 - ERROR: The requested URL could not be retrieved
+52.212.57.12:80 - 503 Service Temporarily Unavailable
+216.180.236.34:80 - 404 not found
+112.13.86.224:80 - 403 Forbidden
