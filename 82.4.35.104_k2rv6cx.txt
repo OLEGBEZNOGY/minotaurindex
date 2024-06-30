@@ -435,3 +435,5 @@
 45.138.134.37:80 - Заголовок не найден
 34.240.158.167:80 - 503 Backend fetch failed
 3.160.96.10:80 - Заголовок не найден
+190.159.143.134:80 - Apache HTTP Server Test Page powered by CentOS
+104.206.76.8:80 - 500 Internal Server Error
