@@ -3239,3 +3239,22 @@
 44.205.179.61:80 - 503 Service Temporarily Unavailable
 5.161.231.241:80 - Заголовок не найден
 188.166.244.195:80 - 404 Not Found
+179.38.6.39:80 - Заголовок не найден
+115.187.32.77:80 - Please wait, the login page is opening...
+104.189.153.50:80 - Заголовок не найден
+104.19.62.33:80 - Direct IP access not allowed | Cloudflare
+37.27.16.58:80 - Sign in · GitLab
+1.32.1.114:80 - Заголовок не найден
+104.17.77.196:80 - Direct IP access not allowed | Cloudflare
+194.105.51.106:80 - Firewall Notification
+36.137.215.149:80 - 工装自控工程（无锡）有限公司
+104.27.29.171:80 - Direct IP access not allowed | Cloudflare
+203.138.29.113:80 - @ViWFeBbNERTeBO 
+65.60.5.75:80 - Заголовок не найден
+23.52.58.120:80 - Заголовок не найден
+85.128.237.234:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+52.137.31.221:80 - Заголовок не найден
+95.183.3.100:80 - Заголовок не найден
+103.161.12.118:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+162.241.164.73:80 - Not Acceptable!
+82.165.162.244:80 - Apache2 Debian Default Page: It works
