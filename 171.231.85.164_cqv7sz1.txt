@@ -15,3 +15,5 @@
 185.77.144.47:80 - 404 Not Found
 8.146.135.51:80 - Заголовок не найден
 213.229.116.170:80 - FileMaker Website
+154.212.133.177:80 - 404 Not Found
+4.4.75.37:80 - Student Housing Technologies Portal
