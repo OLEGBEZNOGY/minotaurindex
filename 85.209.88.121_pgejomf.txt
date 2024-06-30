@@ -10716,3 +10716,63 @@
 18.64.251.86:80 - Заголовок не найден
 209.37.16.180:80 - Заголовок не найден
 217.116.5.200:80 - 403 Listado de directorio no permitido - Acceso prohibido
+3.163.25.199:80 - Заголовок не найден
+192.9.235.16:80 - Default Site
+34.160.76.196:80 - Thunkable
+18.245.127.70:80 - Заголовок не найден
+23.58.103.175:80 - Заголовок не найден
+192.210.174.4:80 - 407 Proxy Authentication Required
+45.147.97.8:80 - Welcome to nginx!
+104.87.224.145:80 - Заголовок не найден
+4.209.47.233:80 - Welcome to Azure Container Instances!
+92.16.247.141:80 - .::Welcome to the Web-Based Configurator::.
+35.213.124.71:80 - MGS-Partner
+199.180.18.188:80 - IIS Windows Server
+18.172.213.140:80 - Заголовок не найден
+104.233.251.168:80 - Welcome to nginx!
+3.69.174.32:80 - Welcome to your Strapi app
+52.117.56.229:80 - Заголовок не найден
+190.140.134.3:80 - Linksys Smart Wi-Fi
+109.108.84.143:80 - RouterOS router configuration page
+193.25.197.240:80 - Roundcube Webmail :: Welcome to Roundcube Webmail
+143.95.76.127:80 - Web Server's Default Page
+34.202.11.202:80 - Заголовок не найден
+152.42.166.215:80 - Welcome to nginx!
+108.158.50.147:80 - Заголовок не найден
+89.161.235.7:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+45.178.140.12:80 - SGP
+13.227.194.12:80 - Заголовок не найден
+207.192.153.234:80 - 
+113.142.178.100:80 - Welcome to nginx!
+135.125.183.170:80 - Заголовок не найден
+220.132.157.36:80 - 
+39.101.142.192:80 - Заголовок не найден
+47.120.72.110:80 - 403 Forbidden
+104.81.113.128:80 - Заголовок не найден
+3.91.68.177:80 - HelloWorld2
+14.53.136.194:80 - main page
+104.108.102.121:80 - Заголовок не найден
+167.79.186.177:80 - If you can see this page, check your URL and try again.
+74.94.6.165:80 - IP Link 200 (WXCY IP Link)
+62.106.70.175:80 - 404 Not Found
+44.206.139.68:80 - Portal
+72.167.106.18:80 - Coming Soon
+67.227.197.145:80 - smartQ - workflow visualization, agile project management, task tracking and team collaboration app
+108.156.157.180:80 - Заголовок не найден
+142.103.193.4:80 - Apache2 Ubuntu Default Page: It works
+38.12.147.142:80 - Заголовок не найден
+18.172.236.2:80 - Заголовок не найден
+72.186.48.66:80 - 
+94.124.69.87:80 - Welcome to nginx!
+184.29.28.80:80 - Заголовок не найден
+54.192.90.80:80 - Заголовок не найден
+216.185.213.194:80 - Test Page for the Centmin Mod Nginx HTTP Server
+5.39.249.113:80 - Заголовок не найден
+18.244.69.247:80 - Заголовок не найден
+34.76.89.144:80 - 404 Not Found
+168.235.108.233:80 - Заголовок не найден
+87.138.230.228:80 - ACME Access Only
+44.218.243.82:80 - 503 Service Temporarily Unavailable
+37.187.153.29:80 - Web Server's Default Page
+209.54.113.42:80 - Log In &lsaquo; Provident Security Mu Blog &#8212; WordPress
+49.135.36.133:80 - Заголовок не найден
