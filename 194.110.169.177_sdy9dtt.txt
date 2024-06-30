@@ -8698,3 +8698,42 @@ Unified syncronization with ActiveSync, SyncML IMAP and POP3 Email Services with
 153.228.9.55:80 - Заголовок не найден
 174.139.22.67:80 - Welcome to nginx!
 27.50.87.236:80 - Заголовок не найден
+23.210.112.77:80 - Заголовок не найден
+185.79.128.16:80 - Página web en mantenimiento
+20.126.23.169:80 - SAP Commerce Cloud - Forbidden
+39.62.18.193:80 - RouterOS router configuration page
+192.53.163.124:80 - Cloudron - Not Found
+95.163.97.106:80 - Welcome to nginx!
+96.47.75.87:80 - Заголовок не найден
+23.204.58.13:80 - Заголовок не найден
+178.124.149.185:80 - index
+5.161.23.103:80 - Sua marca
+115.126.101.149:80 - 404 Not Found
+52.84.83.105:80 - Заголовок не найден
+8.134.150.154:80 - Welcome to nginx!
+81.140.64.84:80 - 403 Forbidden
+207.38.69.33:80 - Заголовок не найден
+162.154.138.94:80 - 
+18.161.227.194:80 - Заголовок не найден
+103.12.219.216:80 - 403 Forbidden
+23.88.67.40:80 - 403 Forbidden
+80.246.251.238:80 - Заголовок не найден
+23.50.35.8:80 - Заголовок не найден
+4.156.87.209:80 - Your Azure Function App is up and running.
+23.220.251.94:80 - Заголовок не найден
+78.46.86.8:80 - Web Server's Default Page
+13.115.243.203:80 - Заголовок не найден
+34.160.205.189:80 - Заголовок не найден
+146.75.113.97:80 - Fastly error: unknown domain 146.75.113.97
+149.143.186.15:80 - Apache2 Ubuntu Default Page: It works
+20.127.201.193:80 - Lucky Fish
+65.108.133.208:80 - Welcome to nginx!
+144.24.215.202:80 - 502 Bad Gateway
+156.250.211.5:80 - 403 Forbidden
+66.29.130.23:80 - Заголовок не найден
+8.217.135.60:80 - Login
+67.198.0.131:80 - Connection denied by Geolocation
+54.231.166.130:80 - Amazon S3 - Cloud Object Storage  - AWS
+3.160.6.60:80 - Заголовок не найден
+83.166.151.172:80 - web host not found
+167.82.118.43:80 - Fastly error: unknown domain 167.82.118.43
