@@ -30,3 +30,9 @@
 46.38.50.53:80 - Заголовок не найден
 93.90.206.167:80 - Apache2 Ubuntu Default Page: It works
 78.171.229.92:80 - Web Client
+154.205.69.70:80 - IIS Windows Server
+14.177.54.153:80 - 
+192.144.204.183:80 - Test Page for the Nginx HTTP Server on Fedora
+143.208.73.82:80 - RouterOS router configuration page
+154.9.55.201:80 - ERROR: The requested URL could not be retrieved
+23.196.180.179:80 - Заголовок не найден
