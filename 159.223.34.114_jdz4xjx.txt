@@ -3379,3 +3379,23 @@
 219.94.210.208:80 - 403 Forbidden
 120.77.93.67:80 - Nansha College Preparatory Academy - Home
 172.67.21.31:80 - Direct IP access not allowed | Cloudflare
+183.171.155.60:80 - Apache2 Debian Default Page: It works
+85.214.201.87:80 - Web Server's Default Page
+23.192.187.127:80 - Заголовок не найден
+112.47.28.167:80 - Заголовок не найден
+93.177.234.17:80 - 406 Not Acceptable
+193.30.62.57:80 - 403 - Forbidden: Access is denied.
+103.132.235.29:80 - &#x6B22;&#x8FCE;&#x4F7F;&#x7528;ChineseStack
+3.1.44.254:80 - Welcome to Pte Helper!
+94.156.128.52:80 - Компьютерный форум Ru.Board
+120.79.43.72:80 - 404 Not Found
+195.184.247.136:80 - Routing Dashboard for AS47272
+87.106.252.28:80 - Заголовок не найден
+23.202.80.130:80 - Заголовок не найден
+202.81.252.120:80 - Заголовок не найден
+83.84.24.86:80 - 
+13.227.33.131:80 - Заголовок не найден
+154.38.251.196:80 - æ²¡ææ¾å°ç«ç¹
+103.163.68.117:80 - RouterOS router configuration page
+81.95.235.97:80 - 403 Forbidden
+92.112.5.181:80 - Заголовок не найден
