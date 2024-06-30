@@ -19516,3 +19516,24 @@
 54.157.43.59:80 - HTTP Status 404 – Not Found
 69.91.196.32:80 - Заголовок не найден
 72.47.251.96:80 - Business-Class Web Hosting by (mt) Media Temple
+23.196.180.217:80 - Заголовок не найден
+201.87.243.13:80 - Заголовок не найден
+2.16.42.22:80 - Заголовок не найден
+35.182.251.154:80 - Заголовок не найден
+35.154.135.242:80 - Welcome to nginx!
+104.19.215.58:80 - Direct IP access not allowed | Cloudflare
+52.199.125.159:80 - 503 Service Temporarily Unavailable
+51.83.93.237:80 - index
+156.245.103.75:80 - Заголовок не найден
+154.213.104.94:80 - 503 Service Temporarily Unavailable
+210.76.80.215:80 - 403 Forbidden
+18.222.51.116:80 - SCORM Engine Default Landing Page
+210.152.224.193:80 - 403 Forbidden
+23.47.216.177:80 - Заголовок не найден
+208.102.131.221:80 - Заголовок не найден
+89.116.58.206:80 - 403 Forbidden
+18.132.83.146:80 - 404 Not Found
+43.241.126.119:80 - RouterOS router configuration page
+184.105.130.108:80 - 403 Forbidden
+108.142.92.39:80 - 404 Not Found
+51.75.141.128:80 - Web Server's Default Page
