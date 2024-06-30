@@ -62,3 +62,9 @@
 23.222.82.229:80 - Заголовок не найден
 190.109.253.128:80 - Заголовок не найден
 23.216.172.63:80 - Заголовок не найден
+185.65.149.19:80 - Access Blocked
+13.79.157.43:80 - 404 Not Found
+171.100.10.190:80 - RouterOS router configuration page
+87.239.148.67:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+96.9.57.236:80 - 403 Forbidden
+172.104.219.177:80 - Gae Savannah - Contemporary Art in Plastic
