@@ -3399,3 +3399,32 @@
 103.163.68.117:80 - RouterOS router configuration page
 81.95.235.97:80 - 403 Forbidden
 92.112.5.181:80 - Заголовок не найден
+52.220.29.35:80 - Заголовок не найден
+173.243.119.213:80 - Welcome
+131.150.75.27:80 - IIS Windows Server
+99.86.113.19:80 - Заголовок не найден
+104.47.76.139:80 - 403 - Forbidden: Access is denied.
+172.233.142.69:80 - Заголовок не найден
+44.198.228.137:80 - Заголовок не найден
+81.14.231.48:80 - WEB SERVICE
+52.49.35.59:80 - Test Page for the Apache HTTP Server
+175.209.64.196:80 - Заголовок не найден
+34.98.119.99:80 - Заголовок не найден
+151.101.134.123:80 - Fastly error: unknown domain 151.101.134.123
+172.67.36.17:80 - Direct IP access not allowed | Cloudflare
+138.19.54.127:80 - Заголовок не найден
+167.172.138.27:80 - Welcome to nginx!
+175.178.48.180:80 - Welcome to CentOS
+54.150.133.133:80 - 503 Service Temporarily Unavailable
+220.78.61.163:80 - Заголовок не найден
+104.17.37.148:80 - Direct IP access not allowed | Cloudflare
+54.231.132.121:80 - Amazon S3 - Cloud Object Storage  - AWS
+81.175.28.143:80 - IIS Windows Server
+117.52.158.130:80 - Wowza Streaming Engine 4 Subscription Edition 4.8.17+1 build20211216162410
+212.85.104.216:80 - Error 401
+3.163.97.10:80 - Заголовок не найден
+13.111.227.44:80 - 403 - Forbidden: Access is denied.
+204.188.203.154:80 - Just a moment...
+172.81.119.165:80 - Заголовок не найден
+23.192.93.104:80 - Заголовок не найден
+52.29.199.29:80 - An Error Occurred: Not Found
