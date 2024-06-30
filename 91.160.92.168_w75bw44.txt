@@ -661,3 +661,4 @@
 212.132.105.235:80 - Web Server's Default Page
 52.18.51.145:80 - 403 Forbidden
 54.218.117.17:80 - Web Presence Management | Web PR
+144.126.192.246:80 - Apache2 Ubuntu Default Page: It works
