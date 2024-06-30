@@ -3258,3 +3258,26 @@
 103.161.12.118:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
 162.241.164.73:80 - Not Acceptable!
 82.165.162.244:80 - Apache2 Debian Default Page: It works
+173.249.13.130:80 - 503 Service Temporarily Unavailable
+142.214.190.59:80 - Error
+36.155.229.92:80 - Заголовок не найден
+104.71.82.223:80 - Заголовок не найден
+13.213.81.192:80 - 404 Not Found
+104.18.204.1:80 - Direct IP access not allowed | Cloudflare
+23.61.181.131:80 - Заголовок не найден
+23.194.120.125:80 - Заголовок не найден
+18.233.180.180:80 - Sign in · GitLab
+104.118.31.241:80 - Заголовок не найден
+177.44.119.225:80 - Заголовок не найден
+99.84.70.147:80 - Заголовок не найден
+167.99.221.103:80 - Agriclub
+87.107.146.239:80 - 403 - Forbidden: Access is denied.
+104.20.99.76:80 - Direct IP access not allowed | Cloudflare
+199.127.62.172:80 - Заголовок не найден
+104.19.53.131:80 - Direct IP access not allowed | Cloudflare
+104.67.45.38:80 - Заголовок не найден
+154.22.166.91:80 - 网站正在建设中.
+23.36.108.82:80 - Заголовок не найден
+103.35.153.43:80 - RouterOS router configuration page
+20.56.83.45:80 - 404 Not Found
+89.161.162.36:80 - alltec.info.pl | dzierżawa i naprawa urządzeń wielofunkcyjnych, usługi poligraficzne, wsparcie IT
