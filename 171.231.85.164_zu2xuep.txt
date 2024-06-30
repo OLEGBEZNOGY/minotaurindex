@@ -1,1 +1,4 @@
 8.149.129.93:80 - 404 Not Found
+103.112.163.134:80 - RouterOS router configuration page
+85.128.190.2:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+113.161.79.251:80 - Apache2 Ubuntu Default Page: It works
