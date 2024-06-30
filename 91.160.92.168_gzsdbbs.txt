@@ -417,3 +417,35 @@
 174.136.135.69:80 - Error: Unable to display RD Web Access
 172.234.108.153:80 - 404 Not Found
 45.152.64.116:80 - 404 Not Found
+107.149.136.70:80 - 404 Not Found
+103.92.24.237:80 - Minh ChÃ¢u Tam Quá»c
+103.172.111.48:80 - Direct IP access not allowed | Cloudflare
+212.227.200.239:80 - 404 Not Found
+47.93.203.130:80 - 403 Forbidden
+153.122.8.146:80 - 403 Forbidden
+157.245.150.233:80 - Your Genie &#8211; Your wish is our command
+135.181.208.18:80 - Welcome to Citrix Hypervisor 8.2.0
+54.149.94.174:80 - Заголовок не найден
+67.227.194.4:80 - RCSF by IncentivAction
+111.15.179.17:80 - IIS Windows Server
+103.104.73.71:80 - Заголовок не найден
+154.36.190.234:80 - Заголовок не найден
+73.254.232.196:80 - Заголовок не найден
+217.144.106.44:80 - Заголовок не найден
+23.51.131.244:80 - Заголовок не найден
+87.120.63.222:80 - HTTP Server Test Page powered by: Rocky Linux
+196.15.211.91:80 - myfaithglobal.com
+23.217.178.150:80 - Заголовок не найден
+122.252.139.192:80 - Заголовок не найден
+23.88.53.18:80 - this is a mail-in-a-box
+3.164.143.36:80 - Заголовок не найден
+54.216.77.2:80 - 403 Forbidden
+155.159.193.85:80 - 404 Not Found
+23.38.79.182:80 - Заголовок не найден
+199.189.224.24:80 - Nexcess
+74.115.51.99:80 - Direct IP access not allowed | Cloudflare
+141.11.61.21:80 - Page not found
+51.77.110.48:80 - 403 Forbidden
+45.39.55.47:80 - 403 Forbidden
+201.16.177.93:80 - Заголовок не найден
+5.190.83.176:80 - RouterOS router configuration page
