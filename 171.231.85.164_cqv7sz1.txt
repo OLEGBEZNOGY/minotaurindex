@@ -1,0 +1,17 @@
+68.117.3.253:80 - 
+106.51.147.8:80 - Заголовок не найден
+211.35.206.135:80 - IIS Windows
+110.45.201.149:80 - Заголовок не найден
+188.68.48.39:80 - 404 Not Found
+201.213.246.177:80 - Login
+216.130.164.84:80 - MXvirtual
+178.194.238.231:80 - phnx's Server
+54.173.189.46:80 - Web Server's Default Page
+139.196.222.161:80 - 404 Not Found
+20.203.216.226:80 - 403 - Forbidden: Access is denied.
+34.228.246.226:80 - 503 Service Temporarily Unavailable
+68.169.60.242:80 - ERROR: The requested URL could not be retrieved
+40.116.99.96:80 - Заголовок не найден
+185.77.144.47:80 - 404 Not Found
+8.146.135.51:80 - Заголовок не найден
+213.229.116.170:80 - FileMaker Website
