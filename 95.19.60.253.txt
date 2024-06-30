@@ -2755,3 +2755,476 @@
 146.190.151.209:80 - Sign in · GitLab
 23.20.221.72:80 - Заголовок не найден
 186.27.216.25:80 - &#70;&#54;&#56;&#48;
+151.101.80.184:80 - Fastly error: unknown domain 151.101.80.184
+38.177.205.25:80 - Заголовок не найден
+3.161.200.152:80 - Заголовок не найден
+157.255.138.44:80 - 403 Forbidden
+191.96.233.214:80 - Заголовок не найден
+23.78.10.134:80 - Заголовок не найден
+31.220.79.224:80 - Apache2 Ubuntu Default Page: It works
+3.164.141.62:80 - Заголовок не найден
+199.232.155.240:80 - Fastly error: unknown domain 199.232.155.240
+104.88.236.137:80 - Заголовок не найден
+73.232.71.54:80 - Заголовок не найден
+54.199.125.255:80 - 안전하고 신뢰할 수 있는 토토사이트 선택 가이드 - 토토리스트
+44.193.115.175:80 - 503 Service Temporarily Unavailable
+186.34.78.75:80 - WEB SERVICE
+185.148.44.118:80 - Заголовок не найден
+3.104.2.0:80 - Home - SA Coldrooms
+23.213.100.136:80 - Заголовок не найден
+23.206.11.152:80 - Заголовок не найден
+173.222.194.58:80 - Заголовок не найден
+219.109.140.14:80 - Заголовок не найден
+81.7.16.106:80 - Apache2 Ubuntu Default Page: It works
+200.58.105.210:80 - 
+47.99.40.245:80 - IIS Windows Server
+69.174.53.121:80 - Informatik | German->English IT Document Translation
+18.233.189.106:80 - Заголовок не найден
+208.96.130.87:80 - Заголовок не найден
+152.53.12.123:80 - 404 Not Found
+62.211.139.147:80 - 404 Not Found
+34.95.98.235:80 - 502
+35.181.104.240:80 - 403 Forbidden
+23.60.37.8:80 - Заголовок не найден
+104.71.119.228:80 - Заголовок не найден
+23.38.227.17:80 - Заголовок не найден
+104.111.221.44:80 - Заголовок не найден
+109.244.12.249:80 - 403 Forbidden
+123.22.181.41:80 - WEB SERVICE
+77.198.142.75:80 - Заголовок не найден
+211.252.80.38:80 - 401 Authorization Required
+40.126.57.16:80 - Заголовок не найден
+196.51.127.211:80 - ERROR: The requested URL could not be retrieved
+133.130.104.121:80 - 404 Not Found
+132.148.90.3:80 - HRHotlist - Home
+18.239.157.232:80 - Заголовок не найден
+54.37.84.68:80 - 404 Not Found
+207.60.252.200:80 - 403 Forbidden
+104.116.133.206:80 - Заголовок не найден
+99.80.141.203:80 - Welcome
+162.33.16.84:80 - Just a moment...
+159.203.8.83:80 - Welcome to nginx!
+23.15.21.219:80 - Заголовок не найден
+20.82.131.141:80 - Welcome to nginx!
+23.47.231.95:80 - Заголовок не найден
+50.3.86.77:80 - 407 Proxy Authentication Required
+120.26.120.36:80 - è§ä»å®
+24.179.84.54:80 - 
+185.86.22.147:80 - 300Mbps Wireless N USB ADSL2+ Modem Router TD-W8968
+91.250.96.213:80 - Web Server's Default Page
+45.223.140.193:80 - Заголовок не найден
+34.117.118.153:80 - 502
+71.83.164.170:80 - 
+193.189.75.101:80 - Заголовок не найден
+158.199.169.22:80 - Заголовок не найден
+52.26.90.167:80 - Apache2 Ubuntu Default Page: It works
+191.81.173.159:80 - Заголовок не найден
+104.77.233.143:80 - Заголовок не найден
+34.101.64.59:80 - HTTP Status 404 – Not Found
+172.93.53.11:80 - Apache2 Ubuntu Default Page: It works
+178.141.16.96:80 - 
+189.223.110.29:80 - 
+195.191.25.43:80 - Helper
+184.88.53.70:80 - Заголовок не найден
+88.221.136.220:80 - Заголовок не найден
+107.175.228.146:80 - Home
+149.28.10.254:80 - Заголовок не найден
+23.219.101.250:80 - Заголовок не найден
+164.92.67.81:80 - Заголовок не найден
+190.80.207.134:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#54;&#55;&#65;&#32;&#86;&#49;&#46;&#48;
+144.217.238.140:80 - It worked! &mdash; Coming Soon
+115.132.27.93:80 - 
+110.78.182.31:80 - 403 Forbidden
+185.93.81.148:80 - 403 Forbidden
+116.62.202.128:80 - Заголовок не найден
+192.165.123.144:80 - Database Error
+47.112.118.189:80 - Заголовок не найден
+20.23.138.219:80 - 404 Not Found
+193.3.79.190:80 - p o s t e n . s e
+18.161.134.165:80 - Заголовок не найден
+23.59.108.218:80 - Заголовок не найден
+140.248.155.202:80 - Fastly error: unknown domain 140.248.155.202
+75.146.29.97:80 - Tracer SC
+186.134.139.77:80 - Заголовок не найден
+23.47.228.70:80 - Заголовок не найден
+45.147.176.115:80 - 404 Not Found
+195.35.1.179:80 - Web Server's Default Page
+64.137.138.81:80 - Заголовок не найден
+144.139.196.94:80 - Заголовок не найден
+23.54.180.102:80 - Заголовок не найден
+107.158.122.140:80 - 403 Forbidden
+190.93.115.15:80 - Заголовок не найден
+20.98.73.75:80 - EasyMineXR SRK Consulting
+34.129.147.3:80 - Apache2 Debian Default Page: It works
+218.93.182.122:80 - Заголовок не найден
+47.93.16.43:80 - 阿里云万网虚机IP访问报错提示
+213.212.143.167:80 - Заголовок не найден
+94.137.85.56:80 - Заголовок не найден
+112.106.191.62:80 - Заголовок не найден
+109.100.93.210:80 - Basic Template 10
+39.104.90.66:80 - é©¬å£«åµæè²
+62.113.242.250:80 - Web Server's Default Page
+113.62.252.58:80 - 403 Forbidden
+45.223.250.17:80 - Заголовок не найден
+23.0.90.177:80 - Заголовок не найден
+59.186.121.73:80 - IIS Windows
+185.18.152.151:80 - 
+199.232.119.18:80 - Fastly error: unknown domain 199.232.119.18
+18.178.150.173:80 - ããç¥ãããæ¬§å·çµæ¸é åï¼EEAï¼ããã³ã¤ã®ãªã¹ãããå©ç¨ã®ãå®¢æ§ã¸ - Yahoo! JAPAN
+159.93.44.107:80 - Apache2 Ubuntu Default Page: It works
+203.113.55.238:80 - Welcome to tengine!
+52.216.32.56:80 - Amazon S3 - Cloud Object Storage  - AWS
+173.254.68.95:80 - Not Acceptable!
+34.232.140.206:80 - 503 Service Temporarily Unavailable
+49.44.164.144:80 - Заголовок не найден
+68.185.146.242:80 - 
+13.107.219.74:80 - Page not found
+196.51.249.98:80 - ERROR: The requested URL could not be retrieved
+153.127.70.54:80 - HTTPステータス 404 - Not Found
+89.108.115.6:80 - ÐÑÑÑ ÐÐÐ
+18.244.70.231:80 - Заголовок не найден
+199.247.15.22:80 - Заголовок не найден
+79.206.82.38:80 - lonelyfoxcave
+23.12.74.43:80 - Заголовок не найден
+119.209.178.200:80 - main page
+44.194.133.154:80 - Заголовок не найден
+31.47.77.126:80 - Servicio proporcionado por Neodigit
+183.240.58.203:80 - 404 Not Found
+43.251.107.220:80 - 403 Forbidden
+23.6.235.113:80 - Заголовок не найден
+162.159.130.63:80 - Direct IP access not allowed | Cloudflare
+104.248.93.233:80 - Castify
+175.145.109.246:80 - 
+124.216.54.12:80 - 
+104.101.236.131:80 - Заголовок не найден
+159.65.194.56:80 - 404 Not Found
+150.95.241.48:80 - 403 Error - Forbidden
+8.140.195.210:80 - æ²¡ææ¾å°ç«ç¹
+52.85.91.233:80 - Заголовок не найден
+208.109.232.211:80 - Заголовок не найден
+115.245.189.62:80 - Заголовок не найден
+47.121.132.216:80 - æ²¡ææ¾å°ç«ç¹
+54.192.253.132:80 - Заголовок не найден
+45.60.61.145:80 - Заголовок не найден
+52.123.202.137:80 - Заголовок не найден
+20.106.246.12:80 - Заголовок не найден
+18.238.118.130:80 - Заголовок не найден
+65.109.4.136:80 - OpenVPN CWS
+77.140.255.209:80 - Login
+138.68.80.240:80 - Home - Gemme Couture Gemme Couture
+23.54.122.149:80 - Заголовок не найден
+35.186.54.9:80 - Заголовок не найден
+38.14.240.233:80 - 404 Not Found
+27.126.184.192:80 - 请使用域名访问
+207.204.25.68:80 - 403 Forbidden
+43.139.147.173:80 - æè´¢CCProxyèªå©å¼å¡
+213.135.185.81:80 - ÐÐµ Ð¼Ð¾Ð»Ð¸Ð¼Ðµ Ð¿Ð¾ÑÐµÐºÐ°ÑÑÐµ...
+14.29.103.77:80 - Заголовок не найден
+155.159.183.55:80 - 404 Not Found
+151.200.35.27:80 - Apache2 Ubuntu Default Page: It works
+8.222.224.178:80 - Apache HTTP Server Test Page powered by CentOS
+138.201.38.123:80 - Apache2 Ubuntu Default Page: It works
+23.208.208.229:80 - Заголовок не найден
+108.156.1.107:80 - Заголовок не найден
+4.182.102.27:80 - Your Azure Function App is up and running.
+95.143.201.126:80 - Заголовок не найден
+23.54.103.184:80 - Заголовок не найден
+18.188.152.32:80 - MadLib Stories
+23.34.48.173:80 - Заголовок не найден
+23.198.108.60:80 - Заголовок не найден
+5.75.134.6:80 - Заголовок не найден
+43.129.208.85:80 - 404 Not Found
+104.70.254.75:80 - Заголовок не найден
+3.162.246.187:80 - Заголовок не найден
+146.75.77.247:80 - httpbin.org
+18.161.210.173:80 - Заголовок не найден
+173.233.8.136:80 - Заголовок не найден
+18.178.63.99:80 - Welcome to nginx!
+154.208.15.70:80 - Заголовок не найден
+123.111.195.236:80 - Заголовок не найден
+43.243.240.57:80 - åå¹´ä¿¡èª  æ³¨åæç¤¼
+8.140.48.182:80 - å®å¨ç®¡çç³»ç»
+113.198.39.151:80 - L7
+38.14.157.225:80 - 404 Not Found
+38.28.191.252:80 - 404 Not Found
+46.16.153.1:80 - 403 Forbidden
+217.76.129.68:80 - Email :: Welcome to Email
+52.66.50.174:80 - https://marutisuzukiarenaprodcdn.azureedge.net/-/media/images/maruti/marutisuzuki/global/maruti-logo.ashx
+79.133.198.40:80 - Заголовок не найден
+160.16.103.135:80 - Заголовок не найден
+104.74.182.185:80 - Заголовок не найден
+20.236.210.7:80 - Заголовок не найден
+108.158.172.96:80 - Заголовок не найден
+120.53.108.228:80 - 403 Forbidden
+162.250.235.174:80 - Заголовок не найден
+185.104.73.171:80 - 403 Forbidden
+5.161.126.23:80 - 
+200.63.125.166:80 - Заголовок не найден
+23.42.132.77:80 - Заголовок не найден
+38.207.16.24:80 - 404 Not Found
+78.8.195.131:80 - Заголовок не найден
+169.228.39.233:80 - NeXO: The Network-eXtracted Ontology
+94.243.228.167:80 - Заголовок не найден
+20.102.19.19:80 - Microsoft Azure Web App - Error 404
+4.224.37.137:80 - 404 Not Found
+166.161.40.78:80 - eMerge Login
+212.227.165.145:80 - Artboard
+104.131.99.166:80 - QB Engage API
+108.61.170.236:80 - Заголовок не найден
+54.151.151.28:80 - 403 Forbidden
+130.61.64.15:80 - Gitea: Git with a cup of tea
+96.17.0.145:80 - Заголовок не найден
+104.107.147.59:80 - Заголовок не найден
+154.64.15.100:80 - æ²¡ææ¾å°ç«ç¹
+104.17.79.205:80 - Direct IP access not allowed | Cloudflare
+5.9.158.10:80 - 404 Not Found
+18.155.130.29:80 - Заголовок не найден
+12.221.60.10:80 - 
+3.130.20.135:80 - 404 Not Found
+54.189.230.0:80 - 503 Service Temporarily Unavailable
+210.210.227.160:80 - 
+52.217.16.168:80 - Amazon S3 - Cloud Object Storage  - AWS
+111.107.254.157:80 - Заголовок не найден
+23.43.61.67:80 - Заголовок не найден
+185.28.182.37:80 - 407 Proxy Authentication Required
+192.243.35.227:80 - Заголовок не найден
+47.242.73.198:80 - Заголовок не найден
+34.237.131.154:80 - Заголовок не найден
+185.177.44.165:80 - Web Server's Default Page
+3.111.58.73:80 - Заголовок не найден
+93.123.40.130:80 - 
+44.208.244.38:80 - Заголовок не найден
+173.234.48.155:80 - 407 Proxy Authentication Required
+23.54.32.217:80 - Заголовок не найден
+44.231.85.176:80 - Error
+119.12.22.159:80 - 
+153.92.126.220:80 - Apache2 Ubuntu Default Page: It works
+2.22.83.216:80 - Заголовок не найден
+35.180.0.117:80 - Заголовок не найден
+123.207.5.148:80 - campus
+15.229.192.172:80 - Заголовок не найден
+67.231.16.102:80 - Заголовок не найден
+194.67.212.16:80 - Index of /
+116.203.47.245:80 - Welcome to nginx!
+193.8.95.57:80 - Заголовок не найден
+104.140.200.62:80 - 403 Forbidden
+162.215.211.97:80 - Web Server's Default Page
+209.18.90.198:80 - Заголовок не найден
+23.199.156.11:80 - Заголовок не найден
+65.8.140.133:80 - Заголовок не найден
+2.19.61.130:80 - Заголовок не найден
+144.196.149.242:80 - Заголовок не найден
+185.232.69.192:80 - Заголовок не найден
+23.214.144.88:80 - Заголовок не найден
+198.46.143.210:80 - Заголовок не найден
+45.135.239.18:80 - DDoS-Guard
+52.226.88.247:80 - Azure Container App - Unavailable
+34.199.138.192:80 - Заголовок не найден
+23.56.29.53:80 - Заголовок не найден
+18.245.152.28:80 - Заголовок не найден
+104.140.90.118:80 - 403 Forbidden
+82.135.215.33:80 - Заголовок не найден
+118.178.228.252:80 - 404 Not Found
+23.212.135.217:80 - Заголовок не найден
+47.246.38.248:80 - 403 Forbidden
+3.223.165.147:80 - Заголовок не найден
+139.224.244.218:80 - 404 Not Found
+103.247.10.113:80 - Заголовок не найден
+185.244.94.21:80 - Заголовок не найден
+23.34.68.137:80 - Заголовок не найден
+108.156.247.130:80 - Заголовок не найден
+128.199.107.49:80 - Dragon Payment Gateway
+192.208.12.85:80 - Notes
+23.45.165.176:80 - Заголовок не найден
+45.127.36.136:80 - 404 Not Found
+23.214.20.10:80 - Заголовок не найден
+69.89.31.217:80 - Not Acceptable!
+39.106.136.159:80 - Introduction – Nextra
+72.73.89.232:80 - pfSense - Login
+104.116.173.247:80 - Заголовок не найден
+202.28.202.18:80 - Web user login
+84.16.86.33:80 - web host not found
+121.164.184.166:80 - main page
+52.14.163.200:80 - Trova Page
+23.220.126.118:80 - Заголовок не найден
+82.77.198.90:80 - NetDvrV3
+121.157.239.134:80 - main page
+135.148.29.16:80 - Oops!
+124.222.73.155:80 - æ²¡ææ¾å°ç«ç¹
+152.70.220.60:80 - Default Site
+103.16.139.130:80 - Welcome to nginx!
+61.111.22.232:80 - Заголовок не найден
+43.129.44.131:80 - LiDE FiSHiNG &#8211; I LOVE FISHING
+37.114.111.6:80 - 403 Forbidden
+110.40.207.37:80 - Заголовок не найден
+162.159.130.32:80 - Direct IP access not allowed | Cloudflare
+151.101.107.198:80 - Fastly error: unknown domain 151.101.107.198
+23.211.161.6:80 - Заголовок не найден
+148.101.37.42:80 - 
+42.114.105.228:80 - 
+217.25.235.21:80 - Login
+61.86.42.67:80 - FON
+64.46.111.14:80 - server
+185.232.250.156:80 - 403 Forbidden
+116.136.204.225:80 - 403 Forbidden
+213.158.95.213:80 - 405 Not Allowed
+183.97.237.210:80 - main page
+23.36.169.144:80 - Заголовок не найден
+23.3.185.67:80 - Заголовок не найден
+165.232.40.104:80 - 404 Not Found
+206.237.22.3:80 - æ²¡ææ¾å°ç«ç¹
+31.31.73.218:80 - 403 Forbidden
+66.228.34.164:80 - Esker Apps
+211.47.28.196:80 - Заголовок не найден
+207.47.24.10:80 - 
+111.19.215.219:80 - Заголовок не найден
+104.16.51.107:80 - Direct IP access not allowed | Cloudflare
+101.35.46.153:80 - 404 Not Found
+131.186.21.0:80 - ì´ì°¸ì
+194.38.146.249:80 - Заголовок не найден
+104.14.88.63:80 - OctoPrint Login
+47.111.31.56:80 - ç±éå½éä¾åºé¾
+43.140.220.141:80 - Заголовок не найден
+101.37.70.84:80 - ä¸æµ·äºåå®ä¸æéå¬å¸ CMS
+96.17.79.103:80 - Заголовок не найден
+172.64.139.170:80 - Direct IP access not allowed | Cloudflare
+23.8.197.77:80 - Заголовок не найден
+45.236.112.36:80 - Slackmini
+173.223.150.186:80 - Заголовок не найден
+173.232.16.239:80 - 403 Forbidden
+13.236.16.220:80 - 503 Service Temporarily Unavailable
+184.29.23.37:80 - Заголовок не найден
+23.208.88.187:80 - Заголовок не найден
+184.30.69.186:80 - Заголовок не найден
+23.59.72.49:80 - Заголовок не найден
+93.186.254.247:80 - Apache Tomcat
+213.233.57.228:80 - 403 Forbidden
+192.116.146.216:80 - 403 Forbidden
+38.154.98.42:80 - ERROR: The requested URL could not be retrieved
+203.154.82.1:80 - 404 Not Found
+104.45.224.43:80 - Заголовок не найден
+181.234.167.35:80 - movistar
+184.29.202.133:80 - Заголовок не найден
+35.75.168.2:80 - 503 Service Temporarily Unavailable
+45.151.3.162:80 - Page not found
+120.92.76.185:80 - 好看漫画
+76.179.206.120:80 - 
+123.155.251.70:80 - Заголовок не найден
+69.24.18.103:80 - Car-Part.com webmaster redirect
+180.97.252.33:80 - 404 Not Found
+196.51.148.138:80 - ERROR: The requested URL could not be retrieved
+192.185.68.185:80 - Not Acceptable!
+23.206.21.86:80 - Заголовок не найден
+41.222.225.12:80 - Index of /
+23.10.73.110:80 - Заголовок не найден
+103.189.145.16:80 - Заголовок не найден
+185.70.117.56:80 - 403 Forbidden
+70.32.21.237:80 - Pruebas Psicométricas para la evaluación de personal
+24.48.255.249:80 - Home Page
+52.217.36.146:80 - Amazon S3 - Cloud Object Storage  - AWS
+23.207.144.67:80 - Заголовок не найден
+89.37.202.171:80 - Заголовок не найден
+31.7.92.10:80 - Заголовок не найден
+186.228.53.62:80 - Error 404 (Not Found)!!1
+192.177.74.70:80 - 404 Not Found
+156.239.14.252:80 - 404 Not Found
+67.211.129.15:80 - Заголовок не найден
+104.80.18.69:80 - Заголовок не найден
+125.18.230.194:80 - Document Moved
+38.31.198.50:80 - 404 Not Found
+154.210.26.125:80 - æ¾³é¨7175èµè®¯ï¼
+107.178.153.60:80 - 404 Not Found
+23.63.162.131:80 - Заголовок не найден
+192.241.83.25:80 - ERROR: The requested URL could not be retrieved
+23.106.180.164:80 - Заголовок не найден
+116.62.23.199:80 - Заголовок не найден
+151.237.50.185:80 - Заголовок не найден
+34.102.18.107:80 - Заголовок не найден
+2.136.239.109:80 - mPYME
+143.110.209.32:80 - Stettler Telephone Answering Service &#8211; A full service professional answering service providing year round 24/7 service to business across Alberta, British Columbia and Saskatchewan.
+156.224.201.2:80 - 404 Not Found
+89.200.87.9:80 - Заголовок не найден
+23.49.89.228:80 - Заголовок не найден
+125.252.214.222:80 - Заголовок не найден
+94.138.199.170:80 - Заголовок не найден
+91.90.216.125:80 - Apache2 Debian Default Page: It works
+54.180.123.99:80 - 502 Bad Gateway
+54.169.80.255:80 - The resource cannot be found.
+104.225.187.67:80 - Заголовок не найден
+199.232.132.219:80 - Fastly error: unknown domain 199.232.132.219
+3.128.154.233:80 - Заголовок не найден
+3.12.239.242:80 - 401 Authorization Required
+45.76.233.121:80 - Success!
+104.207.227.74:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+104.103.255.225:80 - Заголовок не найден
+106.52.167.75:80 - .Net Core 微服务 - .Net Core 开源微服务 套件 工具包 CSharpKit
+88.97.47.209:80 - Oi!
+24.223.108.191:80 - 
+160.124.160.101:80 - 403 Forbidden
+92.122.35.78:80 - Заголовок не найден
+52.217.66.102:80 - Amazon S3 - Cloud Object Storage  - AWS
+108.186.176.177:80 - Заголовок не найден
+81.70.37.121:80 - 403 Forbidden
+20.238.171.170:80 - Your Azure Function App is up and running.
+40.85.145.142:80 - Your Azure Function App is up and running.
+99.86.89.132:80 - Заголовок не найден
+184.29.202.207:80 - Заголовок не найден
+125.124.48.19:80 - 403 Forbidden
+193.111.239.177:80 - 500 Internal Server Error
+3.161.228.201:80 - Заголовок не найден
+154.206.146.54:80 - 尊龙凯时--人生就是博-官网APP
+80.77.85.183:80 - The stream or file &quot;/var/www/apps/ad_front/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/apps/ad_front/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/apps/ad_front/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/apps/ad_front/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/apps/ad_front/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/apps/ad_front/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/apps/ad_front/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/apps/ad_front/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/apps/ad_front/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/apps/ad_front/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/apps/ad_front/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/apps/ad_front/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: file_put_contents(/var/www/apps/ad_front/storage/framework/sessions/wJh7PhEdB0HxolH49SeiytB9CGR19m4xuYZ9oGVx): Failed to open stream: Permission denied
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+68.66.236.84:80 - 404 Not Found
+66.231.20.143:80 - Заголовок не найден
+150.60.146.106:80 - ControlPanel
+209.15.71.3:80 - Document Moved
+23.214.177.94:80 - Заголовок не найден
+162.240.237.7:80 - Заголовок не найден
+182.222.159.175:80 - Заголовок не найден
+20.88.162.170:80 - Your Azure Function App is up and running.
+54.38.42.159:80 - Web Server's Default Page
+3.33.195.132:80 - 401 Unauthorized
+176.117.89.157:80 - Заголовок не найден
+20.23.198.242:80 - VREEDA SIGNUP
+84.161.172.95:80 - 
+198.175.26.66:80 - Test Page for the Centmin Mod Nginx HTTP Server
+142.196.135.79:80 - 
+184.27.82.184:80 - Заголовок не найден
+45.91.139.5:80 - Not Found
+184.154.98.10:80 - IIS Windows Server
+143.95.44.86:80 - Not Acceptable!
+23.7.70.41:80 - Заголовок не найден
+79.96.48.173:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+51.210.122.3:80 - 404 Not Found
+3.0.94.114:80 - 404 Not Found
+211.196.153.94:80 - Заголовок не найден
+126.118.195.88:80 - Router
+20.115.44.239:80 - 401 - Unauthorized: Access is denied due to invalid credentials.
+54.214.153.158:80 - 404 Not Found
+23.99.119.54:80 - Заголовок не найден
+18.66.208.32:80 - Заголовок не найден
+154.23.217.254:80 - 404 not found
