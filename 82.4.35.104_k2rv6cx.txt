@@ -169,3 +169,18 @@
 217.71.125.60:80 - 403 Forbidden
 128.199.109.229:80 - Apache2 Ubuntu Default Page: It works
 61.92.18.78:80 - Заголовок не найден
+46.101.16.7:80 - 410 Gone
+78.189.86.230:80 - 
+3.134.198.177:80 - 404 Not Found
+68.49.196.161:80 - 503 Service Temporarily Unavailable
+23.37.226.192:80 - Заголовок не найден
+52.217.228.219:80 - Amazon S3 - Cloud Object Storage  - AWS
+36.140.70.208:80 - 400 The plain HTTP request was sent to HTTPS port
+156.251.1.44:80 - 410
+103.168.18.98:80 - Web Server's Default Page
+52.232.69.15:80 - 404 Not Found
+38.6.168.134:80 - æ²¡ææ¾å°ç«ç¹
+18.244.135.131:80 - Заголовок не найден
+24.197.167.225:80 - 
+89.161.141.118:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+184.73.171.169:80 - Заголовок не найден
