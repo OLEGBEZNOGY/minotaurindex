@@ -6,3 +6,4 @@
 72.246.22.28:80 - Заголовок не найден
 83.234.193.23:80 - RouterOS router configuration page
 93.93.113.204:80 - Web Server's Default Page
+108.139.74.104:80 - Заголовок не найден
