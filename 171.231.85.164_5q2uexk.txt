@@ -51,3 +51,5 @@
 115.42.201.89:80 - Заголовок не найден
 104.193.50.99:80 - ACME Access Only
 23.200.44.5:80 - Заголовок не найден
+47.241.179.126:80 - Apache2 Ubuntu Default Page: It works
+64.150.190.34:80 - Apache HTTP Server Test Page powered by CentOS
