@@ -372,3 +372,16 @@
 46.175.155.251:80 - ERROR: The requested URL could not be retrieved
 45.196.254.122:80 - æ²¡ææ¾å°ç«ç¹
 213.161.179.147:80 - Заголовок не найден
+154.9.52.126:80 - ERROR: The requested URL could not be retrieved
+67.207.75.86:80 - Online school platform.
+96.6.171.8:80 - Заголовок не найден
+186.6.190.59:80 - 
+4.245.48.177:80 - Your Azure Function App is up and running.
+82.77.104.101:80 - Заголовок не найден
+3.249.12.79:80 - Page Not Found
+18.154.202.251:80 - Заголовок не найден
+51.91.58.67:80 - Welcome to nginx!
+51.158.25.60:80 - Заголовок не найден
+108.138.255.98:80 - Заголовок не найден
+167.82.0.2:80 - Fastly error: unknown domain 167.82.0.2
+70.32.91.17:80 - Business-Class Web Hosting by (mt) Media Temple
