@@ -19046,3 +19046,45 @@ Home
 87.54.27.97:80 - Velkommen - vacciner.dk
 185.113.241.178:80 - ISA - Login
 167.99.47.45:80 - 404 Not Found
+85.133.201.135:80 - NTC - No Thought is a Crime
+18.235.129.160:80 - Заголовок не найден
+35.184.161.97:80 - Заголовок не найден
+186.7.252.50:80 - 
+93.125.63.61:80 - Document Error: Not Found
+114.32.189.224:80 - Заголовок не найден
+99.72.75.144:80 - 404 Not Found
+36.103.153.34:80 - 403 Forbidden
+54.255.204.200:80 - Affect Lab | Eye-Tracking
+94.103.226.25:80 - Заголовок не найден
+154.208.24.251:80 - 403 Forbidden
+195.146.147.76:80 - IIS Windows Server
+125.133.245.67:80 - Json park portfolio
+194.233.169.243:80 - WorkForce Software Partner Program | Home
+47.156.13.64:80 - Welcome to nginx!
+88.149.150.123:80 - ' + GetCommercialName() + ' - ' + TR_HEADER + '
+13.226.13.115:80 - Заголовок не найден
+3.250.219.240:80 - 404 Not Found
+54.252.177.237:80 - 404 Not Found
+184.154.46.119:80 - Заголовок не найден
+36.156.4.86:80 - Заголовок не найден
+104.106.63.45:80 - Заголовок не найден
+108.186.6.12:80 - 404 Not Found
+190.167.22.54:80 - 
+13.224.199.240:80 - Заголовок не найден
+185.163.108.77:80 - 407 Proxy Authentication Required
+122.121.185.137:80 - WEB SERVICE
+18.155.55.157:80 - Заголовок не найден
+108.189.101.28:80 - webpackSPA
+23.61.23.171:80 - Заголовок не найден
+62.129.224.152:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+63.34.80.79:80 - 503 Service Temporarily Unavailable
+213.154.237.35:80 - Заголовок не найден
+142.132.172.201:80 - Trace Digital Signage Solutions
+114.214.54.13:80 - 404 Not Found
+103.24.84.89:80 - Please wait, the login page is opening...
+155.159.52.205:80 - 404 Not Found
+81.2.98.205:80 - Apache2 Debian Default Page: It works
+47.104.196.233:80 - Apache2 Debian Default Page: It works
+195.191.126.190:80 - Заголовок не найден
+54.174.113.145:80 - Заголовок не найден
+34.93.118.250:80 - Apache HTTP Server Test Page powered by CentOS
