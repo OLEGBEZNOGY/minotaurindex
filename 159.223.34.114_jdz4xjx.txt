@@ -4961,3 +4961,26 @@
 45.76.15.21:80 - Unknown Domain
 23.7.20.243:80 - Заголовок не найден
 104.17.35.28:80 - Direct IP access not allowed | Cloudflare
+47.112.114.120:80 - Apache HTTP Server Test Page powered by CentOS
+120.79.95.147:80 - 403 Forbidden
+107.20.227.33:80 - Заголовок не найден
+89.161.228.78:80 - QltureEvents - agencja artystyczna, ogranizacja imprez, eventÃ³w
+23.217.14.184:80 - Заголовок не найден
+158.220.96.175:80 - AMT CHAT
+52.74.242.142:80 - 503 Service Temporarily Unavailable
+221.156.159.160:80 - Заголовок не найден
+38.33.193.213:80 - Заголовок не найден
+35.194.221.69:80 - Заголовок не найден
+38.152.186.97:80 - ERROR: The requested URL could not be retrieved
+20.238.255.242:80 - Заголовок не найден
+92.53.97.249:80 - Account disabled by server administrator
+86.48.0.21:80 - 404 Not Found
+139.155.149.35:80 - 404 Not Found
+206.233.184.47:80 - 403 Forbidden
+13.226.157.195:80 - Заголовок не найден
+129.150.41.54:80 - 502 Bad Gateway
+172.121.1.136:80 - 403 Forbidden
+34.149.161.99:80 - 403 Forbidden
+201.161.48.129:80 - Заголовок не найден
+213.3.23.242:80 - Document Moved
+94.247.142.113:80 - Direct IP access not allowed | Cloudflare
