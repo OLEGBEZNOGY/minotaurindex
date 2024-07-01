@@ -4423,3 +4423,5 @@
 44.199.252.127:80 - Заголовок не найден
 2.134.141.227:80 - GPON Home Gateway
 185.194.237.72:80 - i-MSCP internet - Multi Server Control Panel - Server Default Page
+89.39.148.115:80 - 
+74.47.97.212:80 - Server Error
