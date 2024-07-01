@@ -5263,3 +5263,67 @@ by technology
 23.1.174.221:80 - Заголовок не найден
 173.249.203.193:80 - Apache2 Ubuntu Default Page: It works
 13.232.128.138:80 - Financial Bots - financial research, the new way.
+85.239.242.165:80 - 403 Forbidden
+69.144.204.43:80 - 
+156.234.237.139:80 - 404 Not Found
+141.5.100.142:80 - Заголовок не найден
+4.250.60.106:80 - Azure Container App - Unavailable
+102.141.73.188:80 - 
+128.199.89.250:80 - Artboard
+118.83.237.45:80 - Заголовок не найден
+213.229.33.90:80 - Forbidden
+160.16.53.51:80 - Welcome to nginx!
+103.37.110.210:80 - 403 Forbidden
+52.217.199.177:80 - Amazon S3 - Cloud Object Storage  - AWS
+119.28.54.134:80 - 404 Not Found
+204.12.111.54:80 - Заголовок не найден
+23.90.200.247:80 - .::Welcome to the Web-Based Configurator::.
+61.83.98.8:80 - CMS Web Viewer
+62.28.105.62:80 - IIS Windows Server
+103.103.118.175:80 - 500 Internal Server Error
+187.207.128.106:80 - WEB SERVICE
+3.109.63.0:80 - Заголовок не найден
+52.216.215.112:80 - Amazon S3 - Cloud Object Storage  - AWS
+18.161.60.112:80 - Заголовок не найден
+54.150.236.97:80 - 403 Forbidden
+177.55.124.53:80 - umbler-logo-light-bg
+23.213.97.92:80 - Заголовок не найден
+20.227.17.202:80 - 404 Not Found
+66.70.148.53:80 - 403 - Proibido: acesso negado.
+63.135.125.34:80 - Заголовок не найден
+13.225.77.192:80 - Заголовок не найден
+35.182.186.20:80 - 502 Bad Gateway
+41.162.51.82:80 - 
+204.137.230.98:80 - Apogee ResNet
+18.67.147.188:80 - Заголовок не найден
+124.223.26.119:80 - æ²¡ææ¾å°ç«ç¹
+108.159.53.46:80 - Заголовок не найден
+23.61.98.162:80 - Заголовок не найден
+81.169.197.23:80 - Web Server's Default Page
+95.169.203.25:80 - 500 Internal Server Error
+23.49.155.55:80 - Заголовок не найден
+38.38.96.81:80 - æ²¡ææ¾å°ç«ç¹
+46.142.206.165:80 - Homepage | PicoQuant
+34.227.102.111:80 - Test Page for the Apache HTTP Server on the Amazon Linux AMI
+169.0.137.129:80 - Hello! Welcome to Synology Web Station!
+37.192.130.104:80 - RouterOS router configuration page
+54.251.208.228:80 - Заголовок не найден
+58.194.164.255:80 - 404 Not Found
+23.50.35.38:80 - Заголовок не найден
+4.175.175.210:80 - Заголовок не найден
+23.55.59.46:80 - Заголовок не найден
+23.79.191.4:80 - Заголовок не найден
+36.66.195.36:80 - Apache HTTP Server Test Page powered by CentOS
+106.53.82.129:80 - 商家盈亏计算器
+188.124.93.44:80 - RouterOS router configuration page
+3.140.10.189:80 - MedCloud
+35.206.112.59:80 - Joe Castle, Chairman &amp; CEO, Castle Enterprises &#8211; Joe Castle&#039;s Website, Companies, Join the Team, and more&#8230;
+101.42.154.243:80 - æå¢¨å¤©æº
+117.72.47.68:80 - Domain
+49.44.130.25:80 - Заголовок не найден
+119.28.121.18:80 - Samanea Myanmar &#8211; Samanea Yangon Market
+20.242.209.203:80 - Заголовок не найден
+23.211.152.238:80 - Заголовок не найден
+188.240.52.36:80 - Заголовок не найден
+52.6.228.239:80 - Заголовок не найден
+18.66.182.41:80 - Заголовок не найден
