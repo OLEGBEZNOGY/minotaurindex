@@ -1361,3 +1361,18 @@
 20.247.241.197:80 - Your Azure Function App is up and running.
 92.207.94.60:80 - NWA1123-ACv2
 71.85.180.51:80 - 
+38.182.173.179:80 - 403 Forbidden
+3.227.127.247:80 - ServerLess
+183.95.252.244:80 - 403 Forbidden
+65.151.29.7:80 - Заголовок не найден
+81.223.118.11:80 - Nextcloud | Marko-Druck GmbH
+23.47.98.147:80 - Заголовок не найден
+189.178.73.20:80 - Connection denied by Geolocation
+121.36.29.142:80 - 404 Not Found
+67.199.119.121:80 - Заголовок не найден
+69.192.106.165:80 - Заголовок не найден
+10.81.134.118:80 - HTTP 401 - Unauthorized
+44.204.54.184:80 - phpMyAdmin
+10.31.12.231:80 - HTTP 401 - Unauthorized
+62.3.20.104:80 - Apache2 Ubuntu Default Page: It works
+195.15.208.173:80 - web host not found
