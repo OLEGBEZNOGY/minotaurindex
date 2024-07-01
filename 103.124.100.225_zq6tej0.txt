@@ -5517,3 +5517,16 @@
 50.3.10.252:80 - 403 Forbidden
 108.157.100.16:80 - Заголовок не найден
 104.125.220.93:80 - Заголовок не найден
+13.69.193.72:80 - Заголовок не найден
+177.67.5.68:80 - welcome
+34.70.117.239:80 - Index of /
+173.232.221.99:80 - 403 Forbidden
+64.90.56.200:80 - Site not found &middot; DreamHost
+35.220.192.112:80 - 404 Not Found
+67.199.34.74:80 - Заголовок не найден
+172.64.23.201:80 - Direct IP access not allowed | Cloudflare
+143.42.54.40:80 - Great Agency Sweden AB - Webhosting
+10.98.4.144:80 - HTTP 401 - Unauthorized
+44.239.249.30:80 - 502 Bad Gateway
+167.235.28.208:80 - 404 Not Found
+47.251.79.146:80 - Welcome to nginx!
