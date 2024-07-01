@@ -4508,3 +4508,13 @@
 79.127.101.75:80 - Заголовок не найден
 3.110.133.175:80 - IIS Windows Server
 83.249.238.188:80 - Kerio Connect WebMail
+102.222.106.123:80 - Apache2 Debian Default Page: It works
+174.171.52.232:80 - 
+104.116.121.56:80 - Заголовок не найден
+18.164.141.68:80 - Заголовок не найден
+18.65.47.43:80 - Заголовок не найден
+104.104.100.25:80 - Заголовок не найден
+89.38.252.172:80 - RigSupport.ro - Integrated solutions for oil &amp; gas industry
+20.49.152.33:80 - 404 Not Found
+79.96.74.218:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+13.111.178.102:80 - Error
