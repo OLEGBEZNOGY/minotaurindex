@@ -37,3 +37,28 @@
 156.241.131.10:80 - 404 Not Found
 47.108.149.253:80 - WebSocket Example
 23.202.155.66:80 - Заголовок не найден
+2.20.11.172:80 - Заголовок не найден
+81.176.226.153:80 - Заголовок не найден
+3.111.101.237:80 - 403 Forbidden
+81.69.54.163:80 - Client Bad Request
+54.233.102.196:80 - Neos Web
+194.58.89.56:80 - 404 Not Found
+52.84.225.152:80 - Заголовок не найден
+103.28.23.10:80 - 404 Not Found
+154.204.139.188:80 - 404 Not Found
+77.68.99.153:80 - 403 Forbidden
+23.77.163.130:80 - Заголовок не найден
+45.76.244.60:80 - 403 Forbidden
+35.82.23.97:80 - Заголовок не найден
+54.85.66.154:80 - Digital Health Solutions Inc
+23.198.27.56:80 - Заголовок не найден
+161.34.68.208:80 - Welcome to nginx!
+18.209.37.235:80 - SKE 186 &#8211; Sitio creado con el único propósito de ayudar en las labores mecánicas de la escuela de evangelizadores clase 186. Toda información oficial de los testigos de Jehová está disponible en la página oficial JW.ORG
+67.43.12.216:80 - 403 Forbidden
+35.227.252.183:80 - Заголовок не найден
+5.253.65.123:80 - Заголовок не найден
+190.246.155.136:80 - 
+35.197.106.43:80 - 403 Forbidden
+104.84.61.248:80 - Заголовок не найден
+59.126.151.225:80 - 401 Unauthorized
+23.78.45.23:80 - Заголовок не найден
