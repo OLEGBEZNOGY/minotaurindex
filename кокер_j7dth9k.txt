@@ -2126,3 +2126,13 @@
 154.81.33.112:80 - 404 Not Found
 23.220.198.131:80 - Заголовок не найден
 104.233.187.178:80 - 403 Forbidden
+154.211.86.34:80 - 404 Not Found
+38.14.132.197:80 - 403 Forbidden
+54.81.208.21:80 - 403 - Forbidden: Access is denied.
+104.108.203.98:80 - Заголовок не найден
+54.243.216.103:80 - 503 Service Temporarily Unavailable
+52.21.81.199:80 - Nectar RIG - NectarAWS-Farm2
+82.179.38.134:80 - Solar Data Analysis
+38.207.152.116:80 - Welcome to nginx!
+184.28.158.221:80 - Заголовок не найден
+159.69.32.208:80 - People Benefits
