@@ -10398,3 +10398,22 @@ Oregon, and the Mythical state of Jefferson.
 150.60.186.166:80 - Заголовок не найден
 64.227.16.182:80 - This is a page.
 104.16.87.155:80 - Direct IP access not allowed | Cloudflare
+18.66.33.125:80 - Заголовок не найден
+149.50.132.68:80 - Apache2 Ubuntu Default Page: It works
+154.216.161.4:80 - 404 Not Found
+38.170.78.169:80 - ERROR: The requested URL could not be retrieved
+24.25.251.218:80 - 
+122.252.47.176:80 - Заголовок не найден
+173.236.20.16:80 - Contact ActiveCampaign - Support and Sales
+103.112.107.155:80 - AIRUDDER
+165.232.166.131:80 - Link Alternatif SobatGaming - Akses Tercepat ke Situs Slot Online Terbesar di Indonesia
+23.203.93.20:80 - Заголовок не найден
+212.22.214.194:80 - 403 Forbidden
+23.223.76.128:80 - Заголовок не найден
+104.86.83.131:80 - Заголовок не найден
+203.147.108.45:80 - Welcome to nginx!
+162.240.6.140:80 - Заголовок не найден
+23.202.183.10:80 - Заголовок не найден
+129.213.12.80:80 - Default Site
+98.114.56.238:80 - 
+157.112.154.3:80 - ç¡å¹ãªURLã§ã
