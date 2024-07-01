@@ -1674,3 +1674,15 @@
 118.243.175.46:80 - Test Page for the Nginx HTTP Server on AlmaLinux
 222.102.21.244:80 - Security
 2.22.44.9:80 - Заголовок не найден
+149.30.240.248:80 - æ²¡ææ¾å°ç«ç¹
+190.187.126.147:80 - Заголовок не найден
+43.153.21.230:80 - 404 Not Found
+173.231.198.128:80 - Заголовок не найден
+154.7.76.48:80 - 404 Not Found
+23.54.246.247:80 - Заголовок не найден
+178.238.37.13:80 - 404 Not Found
+18.218.192.25:80 - Buy CUDA Knives, Snips, Pliers, Wire Cutters, Sharpeners, Harpoon, De-Hookers and Scissors online
+151.236.67.176:80 - Заголовок не найден
+93.51.235.236:80 - Electronic Medical Record, LOGIN Screen (V. 1.0)
+35.190.85.149:80 - Заголовок не найден
+54.146.86.20:80 - No such app
