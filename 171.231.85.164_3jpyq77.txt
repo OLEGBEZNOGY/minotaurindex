@@ -4,3 +4,29 @@
 38.12.200.142:80 - 404 Not Found
 13.233.79.77:80 - Mobilefuelkart - Doorstep Diesel Delivery Just Order and Relax
 45.77.43.124:80 - Заголовок не найден
+115.187.36.60:80 - Please wait, the login page is opening...
+119.3.252.23:80 - Welcome to CentOS
+88.115.239.98:80 - Заголовок не найден
+37.187.124.64:80 - ns3.servidoresjmg.com &mdash;  Host default page
+104.19.131.42:80 - Direct IP access not allowed | Cloudflare
+162.19.24.226:80 - Web Server's Default Page
+51.38.75.195:80 - 
+104.18.84.7:80 - Direct IP access not allowed | Cloudflare
+23.32.198.159:80 - Заголовок не найден
+155.254.23.88:80 - Welcome to nginx!
+13.226.146.82:80 - Заголовок не найден
+154.55.173.160:80 - æ²¡ææ¾å°ç«ç¹
+118.31.12.34:80 - è¥ä¾ç®¡çç³»ç»
+18.164.32.249:80 - Заголовок не найден
+200.6.101.77:80 - 
+13.48.149.191:80 - Statens Organ
+46.175.145.169:80 - lymonadnykkran.Main
+18.210.219.242:80 - 503 Service Temporarily Unavailable
+114.34.52.193:80 - Заголовок не найден
+52.84.130.221:80 - Заголовок не найден
+62.74.86.204:80 - Заголовок не найден
+85.37.101.210:80 - NethServer Enterprise
+129.204.111.218:80 - æ²¡ææ¾å°ç«ç¹
+96.7.0.176:80 - Заголовок не найден
+162.159.254.109:80 - Direct IP access not allowed | Cloudflare
+42.193.121.201:80 - Welcome to nginx!
