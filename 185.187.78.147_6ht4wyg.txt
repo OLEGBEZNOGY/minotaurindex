@@ -13909,3 +13909,2137 @@
 62.24.104.77:80 - redirection
 117.80.235.97:80 - 404 Not Found
 5.135.90.1:80 - Заголовок не найден
+195.165.181.155:80 - 
+67.7.131.31:80 - Instant WiFi
+188.252.69.28:80 - Заголовок не найден
+50.106.80.172:80 - Caddy works!
+115.78.15.25:80 - Vigor Login Page
+13.48.170.151:80 - Заголовок не найден
+164.92.205.13:80 - 404 Not Found
+99.84.53.109:80 - Заголовок не найден
+52.199.82.237:80 - 403 Forbidden
+45.81.141.241:80 - Page not found
+106.3.16.133:80 - Заголовок не найден
+18.168.252.78:80 - Welcome to nginx!
+5.150.114.134:80 - Заголовок не найден
+95.101.226.222:80 - Заголовок не найден
+23.47.25.183:80 - Заголовок не найден
+190.175.79.128:80 - Заголовок не найден
+162.243.45.147:80 - Madison Law Review | Just another WordPress site
+202.62.45.77:80 - SonicWall - Authentication
+44.239.17.19:80 - 403 Forbidden
+23.218.56.189:80 - Заголовок не найден
+4.245.25.242:80 - Заголовок не найден
+197.162.135.117:80 - Protected Object
+193.255.49.12:80 - Fen ve Mühendislik Bilimleri Dergisi | Afyon Kocatepe Üniversitesi
+125.142.233.161:80 - Заголовок не найден
+18.252.231.27:80 - Dispel | Dashboard
+198.74.58.57:80 - LTRS4U
+42.231.141.213:80 - 403 Forbidden
+91.10.138.229:80 - gulewski.com
+190.107.177.126:80 - Заголовок не найден
+18.161.37.70:80 - Заголовок не найден
+65.9.27.154:80 - Заголовок не найден
+23.209.20.166:80 - Заголовок не найден
+3.35.144.100:80 - Not Found
+172.161.144.177:80 - Заголовок не найден
+2.22.97.50:80 - Заголовок не найден
+10.218.130.125:80 - MT-0011
+162.241.30.225:80 - Not Acceptable!
+141.98.95.66:80 - ERROR: The requested URL could not be retrieved
+211.149.248.64:80 - å¾æ±æ­ï¼ä¸è½ç´æ¥ä½¿ç¨IPè®¿é®ç½ç«
+190.178.123.183:80 - Заголовок не найден
+212.193.57.129:80 - Заголовок не найден
+37.75.12.35:80 - Заголовок не найден
+27.174.146.163:80 - 401 Unauthorized
+47.96.113.39:80 - 503 Service Temporarily Unavailable
+52.208.171.14:80 - Заголовок не найден
+13.225.131.183:80 - Заголовок не найден
+45.60.158.232:80 - Заголовок не найден
+150.60.209.74:80 - Заголовок не найден
+122.212.66.94:80 - Заголовок не найден
+78.11.95.121:80 - RouterOS router configuration page
+154.217.29.45:80 - 404 Not Found
+135.148.78.79:80 - 404 Not Found
+45.116.78.145:80 - æ­åï¼ç«ç¹åå»ºæåï¼
+95.216.26.96:80 - 403 Forbidden
+195.64.225.67:80 - Заголовок не найден
+155.159.213.102:80 - 404 Not Found
+137.184.38.164:80 - JGDev
+23.104.13.88:80 - Заголовок не найден
+187.63.68.194:80 - Zoom Telecom - Rio das Ostras: Zabbix
+2.20.166.4:80 - Заголовок не найден
+179.53.235.31:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#54;&#55;&#65;&#32;&#86;&#49;&#46;&#48;
+222.194.25.35:80 - 404 Not Found
+62.246.109.230:80 - 403 - Forbidden
+18.213.167.15:80 - 403 Forbidden
+46.101.114.84:80 - 403 Forbidden
+15.184.195.219:80 - Sougha Rewards
+39.136.203.163:80 - 403 Forbidden
+154.37.42.204:80 - Заголовок не найден
+139.224.186.57:80 - IIS Windows Server
+23.32.23.141:80 - Заголовок не найден
+54.190.29.162:80 - Заголовок не найден
+210.119.144.55:80 - Заголовок не найден
+13.126.178.196:80 - Заголовок не найден
+125.228.241.7:80 - Заголовок не найден
+192.241.54.116:80 - Go away!
+201.175.34.9:80 - Заголовок не найден
+20.76.71.201:80 - Your Azure Function App is up and running.
+3.160.97.174:80 - Заголовок не найден
+164.153.131.63:80 - Welcome to nginx!
+23.213.164.165:80 - Заголовок не найден
+72.230.146.104:80 - 
+173.223.145.149:80 - Заголовок не найден
+35.174.214.225:80 - 503 Service Temporarily Unavailable
+23.12.104.204:80 - Заголовок не найден
+18.164.178.71:80 - Заголовок не найден
+38.7.27.254:80 - Error 404 (Not Found)!!1
+43.205.47.76:80 - <pre class="cake-error"><a href="javascript:void(0);" onclick="document.getElementById('cakeErr668306d51d37e-trace').style.display = (document.getElementById('cakeErr668306d51d37e-trace').style.display == 'none' ? '' : 'none');"><b>Notice</b> (8)</a>: Undefined variable: siteTitle [<b>APP/View/Layouts/default.ctp</b>, line <b>29</b>]<div id="cakeErr668306d51d37e-trace" class="cake-stack-trace" style="display: none;"><a href="javascript:void(0);" onclick="document.getElementById('cakeErr668306d51d37e-code').style.display = (document.getElementById('cakeErr668306d51d37e-code').style.display == 'none' ? '' : 'none')">Code</a> <a href="javascript:void(0);" onclick="document.getElementById('cakeErr668306d51d37e-context').style.display = (document.getElementById('cakeErr668306d51d37e-context').style.display == 'none' ? '' : 'none')">Context</a><pre id="cakeErr668306d51d37e-code" class="cake-code-dump" style="display: none;"><code><span style="color: #000000">&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #0000BB">&lt;?php&nbsp;</span><span style="color: #007700">echo&nbsp;</span><span style="color: #0000BB">$this</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">Html</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">charset</span><span style="color: #007700">();</span><span style="color: #0000BB">?&gt;
+</span></span></code>
+<code><span style="color: #000000"><span style="color: #0000BB">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #007700">&lt;</span><span style="color: #0000BB">title</span><span style="color: #007700">&gt;
+</span></span></code>
+<span class="code-highlight"><code><span style="color: #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #0000BB">&lt;?php&nbsp;</span><span style="color: #007700">echo&nbsp;</span><span style="color: #0000BB">$siteTitle</span><span style="color: #007700">;</span><span style="color: #0000BB">?&gt;
+</span></span></code></span></pre><pre id="cakeErr668306d51d37e-context" class="cake-context" style="display: none;">$viewFile = &#039;/var/www/html/dm-exam/app/View/Layouts/default.ctp&#039;
+$dataForView = array(
+	&#039;class&#039; =&gt; &#039;Mysql&#039;,
+	&#039;message&#039; =&gt; &#039;SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known&#039;,
+	&#039;enabled&#039; =&gt; true,
+	&#039;code&#039; =&gt; (int) 500,
+	&#039;name&#039; =&gt; &#039;Database connection &amp;quot;Mysql&amp;quot; is missing, or could not be created.&#039;,
+	&#039;url&#039; =&gt; &#039;/&#039;,
+	&#039;error&#039; =&gt; object(MissingConnectionException) {
+		[protected] _messageTemplate =&gt; &#039;Database connection &quot;%s&quot; is missing, or could not be created.&#039;
+		[protected] _attributes =&gt; array(
+			[maximum depth reached]
+		)
+		[protected] _responseHeaders =&gt; null
+		[protected] message =&gt; &#039;Database connection &quot;Mysql&quot; is missing, or could not be created.&#039;
+		[protected] code =&gt; (int) 500
+		[protected] file =&gt; &#039;/var/www/html/dm-exam/lib/Cake/Model/Datasource/Database/Mysql.php&#039;
+		[protected] line =&gt; (int) 200
+	},
+	&#039;_serialize&#039; =&gt; array(
+		(int) 0 =&gt; &#039;code&#039;,
+		(int) 1 =&gt; &#039;name&#039;,
+		(int) 2 =&gt; &#039;message&#039;,
+		(int) 3 =&gt; &#039;url&#039;
+	),
+	&#039;content_for_layout&#039; =&gt; &#039;&lt;h2&gt;Missing Database Connection&lt;/h2&gt;
+
+&lt;p class=&quot;error&quot;&gt;
+
+	&lt;strong&gt;Error: &lt;/strong&gt;
+
+	A Database connection using &quot;Mysql&quot; was missing or unable to connect.	&lt;br /&gt;
+
+	The database server returned this error: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known&lt;/p&gt;
+
+&lt;p class=&quot;notice&quot;&gt;
+
+	&lt;strong&gt;Notice: &lt;/strong&gt;
+
+	If you want to customize this error message, create app/View/Errors/missing_connection.ctp&lt;/p&gt;
+
+
+
+&lt;h3&gt;Stack Trace&lt;/h3&gt;
+
+&lt;ul class=&quot;cake-stack-trace&quot;&gt;
+
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-0&#039;)&quot;&gt;CORE/Cake/Model/Datasource/DboSource.php line 278&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-0&#039;)&quot;&gt;Mysql-&gt;connect()&lt;/a&gt; &lt;div id=&quot;file-excerpt-0&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;));
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;if&amp;nbsp;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$autoConnect&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;)&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;connect&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;();
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-0&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-1&#039;)&quot;&gt;CORE/Cake/Model/ConnectionManager.php line 105&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-1&#039;)&quot;&gt;DboSource-&gt;__construct(array)&lt;/a&gt; &lt;div id=&quot;file-excerpt-1&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;message&#039;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;=&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;Datasource&amp;nbsp;is&amp;nbsp;not&amp;nbsp;found&amp;nbsp;in&amp;nbsp;Model/Datasource&amp;nbsp;package.&#039;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;));
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;static::&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$_dataSources&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$name&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;]&amp;nbsp;=&amp;nbsp;new&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$class&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(static::&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$config&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;{&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$name&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;});
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;static::&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$_dataSources&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$name&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;]-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;configKeyName&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$name&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-1&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;array(
+	&amp;#039;password&amp;#039; =&amp;gt; &amp;#039;*****&amp;#039;,
+	&amp;#039;login&amp;#039; =&amp;gt; &amp;#039;*****&amp;#039;,
+	&amp;#039;host&amp;#039; =&amp;gt; &amp;#039;*****&amp;#039;,
+	&amp;#039;database&amp;#039; =&amp;gt; &amp;#039;*****&amp;#039;,
+	&amp;#039;datasource&amp;#039; =&amp;gt; &amp;#039;Database/Mysql&amp;#039;,
+	&amp;#039;persistent&amp;#039; =&amp;gt; false,
+	&amp;#039;prefix&amp;#039; =&amp;gt; &amp;#039;&amp;#039;
+)&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-2&#039;)&quot;&gt;CORE/Cake/Model/Model.php line 3659&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-2&#039;)&quot;&gt;ConnectionManager::getDataSource(string)&lt;/a&gt; &lt;div id=&quot;file-excerpt-2&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;useDbConfig&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$dataSource&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$db&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;ConnectionManager&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;::&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;getDataSource&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;useDbConfig&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;if&amp;nbsp;(!empty(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$oldConfig&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;)&amp;nbsp;&amp;amp;&amp;amp;&amp;nbsp;isset(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$db&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;config&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;prefix&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;]))&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-2&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;&amp;#039;default&amp;#039;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-3&#039;)&quot;&gt;CORE/Cake/Model/Model.php line 1162&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-3&#039;)&quot;&gt;Model-&gt;setDataSource(string)&lt;/a&gt; &lt;div id=&quot;file-excerpt-3&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;*&amp;nbsp;@return&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;void
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;*/
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;public&amp;nbsp;function&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;setSource&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$tableName&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;)&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;setDataSource&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;useDbConfig&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$db&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;ConnectionManager&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;::&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;getDataSource&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;useDbConfig&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-3&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;&amp;#039;default&amp;#039;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-4&#039;)&quot;&gt;CORE/Cake/Model/Model.php line 3686&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-4&#039;)&quot;&gt;Model-&gt;setSource(string)&lt;/a&gt; &lt;div id=&quot;file-excerpt-4&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;public&amp;nbsp;function&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;getDataSource&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;()&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;if&amp;nbsp;(!&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;_sourceConfigured&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;&amp;amp;&amp;amp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;useTable&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;!==&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;false&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;)&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;_sourceConfigured&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;true&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;setSource&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;useTable&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-4&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;&amp;#039;configurations&amp;#039;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-5&#039;)&quot;&gt;CORE/Cake/Model/Model.php line 3053&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-5&#039;)&quot;&gt;Model-&gt;getDataSource()&lt;/a&gt; &lt;div id=&quot;file-excerpt-5&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;*&amp;nbsp;@return&amp;nbsp;array
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;*/
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;protected&amp;nbsp;function&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;_readDataSource&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$type&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$query&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;)&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$results&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;getDataSource&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;()-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;read&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$query&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;resetAssociations&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;();
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-5&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-6&#039;)&quot;&gt;CORE/Cake/Model/Model.php line 3025&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-6&#039;)&quot;&gt;Model-&gt;_readDataSource(string, array)&lt;/a&gt; &lt;div id=&quot;file-excerpt-6&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;return&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;null&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;return&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;_readDataSource&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$type&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$query&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-6&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;&amp;#039;first&amp;#039;
+array(
+	&amp;#039;conditions&amp;#039; =&amp;gt; null,
+	&amp;#039;fields&amp;#039; =&amp;gt; null,
+	&amp;#039;joins&amp;#039; =&amp;gt; array(),
+	&amp;#039;limit&amp;#039; =&amp;gt; (int) 1,
+	&amp;#039;offset&amp;#039; =&amp;gt; null,
+	&amp;#039;order&amp;#039; =&amp;gt; array(),
+	&amp;#039;page&amp;#039; =&amp;gt; (int) 1,
+	&amp;#039;group&amp;#039; =&amp;gt; null,
+	&amp;#039;callbacks&amp;#039; =&amp;gt; true
+)&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-7&#039;)&quot;&gt;APP/Controller/AppController.php line 53&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-7&#039;)&quot;&gt;Model-&gt;find(string)&lt;/a&gt; &lt;div id=&quot;file-excerpt-7&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;public&amp;nbsp;function&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;beforeFilter&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;()
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;loadModel&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;Configuration&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$sysSetting&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;Configuration&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;find&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;first&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;set&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;siteTitle&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;,&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$sysSetting&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;Configuration&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;][&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;meta_title&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;]);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-7&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;&amp;#039;first&amp;#039;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-8&#039;)&quot;&gt;CORE/Cake/Event/CakeEventManager.php line 244&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-8&#039;)&quot;&gt;AppController-&gt;beforeFilter(CakeEvent)&lt;/a&gt; &lt;div id=&quot;file-excerpt-8&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;if&amp;nbsp;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$listener&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;passParams&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;]&amp;nbsp;===&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;true&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;)&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$result&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;call_user_func_array&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$listener&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;callable&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;],&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$event&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;data&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;}&amp;nbsp;else&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$result&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;call_user_func&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$listener&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;callable&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;],&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$event&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-8&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;object(CakeEvent) {
+	data =&amp;gt; null
+	result =&amp;gt; null
+	[protected] _name =&amp;gt; &amp;#039;Controller.initialize&amp;#039;
+	[protected] _subject =&amp;gt; object(PagesController) {
+		uses =&amp;gt; array(
+			[maximum depth reached]
+		)
+		components =&amp;gt; array(
+			[maximum depth reached]
+		)
+		siteTimezone =&amp;gt; null
+		siteName =&amp;gt; null
+		siteEmail =&amp;gt; null
+		siteDomain =&amp;gt; null
+		userValue =&amp;gt; null
+		adminValue =&amp;gt; null
+		frontRegistration =&amp;gt; null
+		frontSlides =&amp;gt; null
+		frontExamPaid =&amp;gt; null
+		frontLeaderBoard =&amp;gt; null
+		name =&amp;gt; &amp;#039;Pages&amp;#039;
+		helpers =&amp;gt; array([maximum depth reached])
+		request =&amp;gt; object(CakeRequest) {}
+		response =&amp;gt; object(CakeResponse) {}
+		viewPath =&amp;gt; &amp;#039;Pages&amp;#039;
+		layoutPath =&amp;gt; null
+		viewVars =&amp;gt; array([maximum depth reached])
+		view =&amp;gt; &amp;#039;display&amp;#039;
+		layout =&amp;gt; &amp;#039;default&amp;#039;
+		autoRender =&amp;gt; true
+		autoLayout =&amp;gt; true
+		Components =&amp;gt; object(ComponentCollection) {}
+		viewClass =&amp;gt; &amp;#039;View&amp;#039;
+		View =&amp;gt; null
+		ext =&amp;gt; &amp;#039;.ctp&amp;#039;
+		plugin =&amp;gt; null
+		cacheAction =&amp;gt; false
+		passedArgs =&amp;gt; array(
+			[maximum depth reached]
+		)
+		scaffold =&amp;gt; false
+		methods =&amp;gt; array(
+			[maximum depth reached]
+		)
+		modelClass =&amp;gt; &amp;#039;Page&amp;#039;
+		modelKey =&amp;gt; &amp;#039;page&amp;#039;
+		validationErrors =&amp;gt; null
+		Session =&amp;gt; object(SessionComponent) {}
+		CustomFunction =&amp;gt; object(CustomfunctionComponent) {}
+		Configuration =&amp;gt; object(AppModel) {}
+		[protected] _responseClass =&amp;gt; &amp;#039;CakeResponse&amp;#039;
+		[protected] _mergeParent =&amp;gt; &amp;#039;AppController&amp;#039;
+		[protected] _eventManager =&amp;gt; object(CakeEventManager) {}
+	}
+	[protected] _stopped =&amp;gt; false
+}&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-9&#039;)&quot;&gt;CORE/Cake/Controller/Controller.php line 682&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-9&#039;)&quot;&gt;CakeEventManager-&gt;dispatch(CakeEvent)&lt;/a&gt; &lt;div id=&quot;file-excerpt-9&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;*&amp;nbsp;@&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;triggers&amp;nbsp;Controller&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;startup&amp;nbsp;$this
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;*/
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;public&amp;nbsp;function&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;startupProcess&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;()&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;getEventManager&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;()-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;dispatch&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(new&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;CakeEvent&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;Controller.initialize&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;));
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;getEventManager&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;()-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;dispatch&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(new&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;CakeEvent&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;Controller.startup&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;));
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-9&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;object(CakeEvent) {
+	data =&amp;gt; null
+	result =&amp;gt; null
+	[protected] _name =&amp;gt; &amp;#039;Controller.initialize&amp;#039;
+	[protected] _subject =&amp;gt; object(PagesController) {
+		uses =&amp;gt; array(
+			[maximum depth reached]
+		)
+		components =&amp;gt; array(
+			[maximum depth reached]
+		)
+		siteTimezone =&amp;gt; null
+		siteName =&amp;gt; null
+		siteEmail =&amp;gt; null
+		siteDomain =&amp;gt; null
+		userValue =&amp;gt; null
+		adminValue =&amp;gt; null
+		frontRegistration =&amp;gt; null
+		frontSlides =&amp;gt; null
+		frontExamPaid =&amp;gt; null
+		frontLeaderBoard =&amp;gt; null
+		name =&amp;gt; &amp;#039;Pages&amp;#039;
+		helpers =&amp;gt; array([maximum depth reached])
+		request =&amp;gt; object(CakeRequest) {}
+		response =&amp;gt; object(CakeResponse) {}
+		viewPath =&amp;gt; &amp;#039;Pages&amp;#039;
+		layoutPath =&amp;gt; null
+		viewVars =&amp;gt; array([maximum depth reached])
+		view =&amp;gt; &amp;#039;display&amp;#039;
+		layout =&amp;gt; &amp;#039;default&amp;#039;
+		autoRender =&amp;gt; true
+		autoLayout =&amp;gt; true
+		Components =&amp;gt; object(ComponentCollection) {}
+		viewClass =&amp;gt; &amp;#039;View&amp;#039;
+		View =&amp;gt; null
+		ext =&amp;gt; &amp;#039;.ctp&amp;#039;
+		plugin =&amp;gt; null
+		cacheAction =&amp;gt; false
+		passedArgs =&amp;gt; array(
+			[maximum depth reached]
+		)
+		scaffold =&amp;gt; false
+		methods =&amp;gt; array(
+			[maximum depth reached]
+		)
+		modelClass =&amp;gt; &amp;#039;Page&amp;#039;
+		modelKey =&amp;gt; &amp;#039;page&amp;#039;
+		validationErrors =&amp;gt; null
+		Session =&amp;gt; object(SessionComponent) {}
+		CustomFunction =&amp;gt; object(CustomfunctionComponent) {}
+		Configuration =&amp;gt; object(AppModel) {}
+		[protected] _responseClass =&amp;gt; &amp;#039;CakeResponse&amp;#039;
+		[protected] _mergeParent =&amp;gt; &amp;#039;AppController&amp;#039;
+		[protected] _eventManager =&amp;gt; object(CakeEventManager) {}
+	}
+	[protected] _stopped =&amp;gt; false
+}&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-10&#039;)&quot;&gt;CORE/Cake/Routing/Dispatcher.php line 189&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-10&#039;)&quot;&gt;Controller-&gt;startupProcess()&lt;/a&gt; &lt;div id=&quot;file-excerpt-10&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;*/
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;protected&amp;nbsp;function&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;_invoke&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;Controller&amp;nbsp;$controller&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;CakeRequest&amp;nbsp;$request&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;)&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$controller&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;constructClasses&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;();
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$controller&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;startupProcess&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;();
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-10&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-11&#039;)&quot;&gt;CORE/Cake/Routing/Dispatcher.php line 167&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-11&#039;)&quot;&gt;Dispatcher-&gt;_invoke(PagesController, CakeRequest)&lt;/a&gt; &lt;div id=&quot;file-excerpt-11&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;));
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$response&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;_invoke&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$controller&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$request&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;if&amp;nbsp;(isset(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$request&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;params&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;return&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;]))&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-11&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;object(PagesController) {
+	uses =&amp;gt; array(
+		(int) 0 =&amp;gt; &amp;#039;Configuration&amp;#039;
+	)
+	components =&amp;gt; array(
+		(int) 0 =&amp;gt; &amp;#039;Session&amp;#039;,
+		(int) 1 =&amp;gt; &amp;#039;CustomFunction&amp;#039;
+	)
+	siteTimezone =&amp;gt; null
+	siteName =&amp;gt; null
+	siteEmail =&amp;gt; null
+	siteDomain =&amp;gt; null
+	userValue =&amp;gt; null
+	adminValue =&amp;gt; null
+	frontRegistration =&amp;gt; null
+	frontSlides =&amp;gt; null
+	frontExamPaid =&amp;gt; null
+	frontLeaderBoard =&amp;gt; null
+	name =&amp;gt; &amp;#039;Pages&amp;#039;
+	helpers =&amp;gt; array()
+	request =&amp;gt; object(CakeRequest) {
+		params =&amp;gt; array(
+			[maximum depth reached]
+		)
+		data =&amp;gt; array([maximum depth reached])
+		query =&amp;gt; array([maximum depth reached])
+		url =&amp;gt; &amp;#039;&amp;#039;
+		base =&amp;gt; &amp;#039;&amp;#039;
+		webroot =&amp;gt; &amp;#039;/&amp;#039;
+		here =&amp;gt; &amp;#039;/&amp;#039;
+		[protected] _detectors =&amp;gt; array(
+			[maximum depth reached]
+		)
+		[protected] _input =&amp;gt; &amp;#039;&amp;#039;
+	}
+	response =&amp;gt; object(CakeResponse) {
+		[protected] _statusCodes =&amp;gt; array(
+			[maximum depth reached]
+		)
+		[protected] _mimeTypes =&amp;gt; array(
+			[maximum depth reached]
+		)
+		[protected] _protocol =&amp;gt; &amp;#039;HTTP/1.1&amp;#039;
+		[protected] _status =&amp;gt; (int) 200
+		[protected] _contentType =&amp;gt; &amp;#039;text/html&amp;#039;
+		[protected] _headers =&amp;gt; array([maximum depth reached])
+		[protected] _body =&amp;gt; null
+		[protected] _file =&amp;gt; null
+		[protected] _fileRange =&amp;gt; null
+		[protected] _charset =&amp;gt; &amp;#039;UTF-8&amp;#039;
+		[protected] _cacheDirectives =&amp;gt; array([maximum depth reached])
+		[protected] _cookies =&amp;gt; array([maximum depth reached])
+	}
+	viewPath =&amp;gt; &amp;#039;Pages&amp;#039;
+	layoutPath =&amp;gt; null
+	viewVars =&amp;gt; array()
+	view =&amp;gt; &amp;#039;display&amp;#039;
+	layout =&amp;gt; &amp;#039;default&amp;#039;
+	autoRender =&amp;gt; true
+	autoLayout =&amp;gt; true
+	Components =&amp;gt; object(ComponentCollection) {
+		defaultPriority =&amp;gt; (int) 10
+		[protected] _Controller =&amp;gt; object(PagesController) {}
+		[protected] _enabled =&amp;gt; array(
+			[maximum depth reached]
+		)
+		[protected] _loaded =&amp;gt; array(
+			[maximum depth reached]
+		)
+	}
+	viewClass =&amp;gt; &amp;#039;View&amp;#039;
+	View =&amp;gt; null
+	ext =&amp;gt; &amp;#039;.ctp&amp;#039;
+	plugin =&amp;gt; null
+	cacheAction =&amp;gt; false
+	passedArgs =&amp;gt; array(
+		(int) 0 =&amp;gt; &amp;#039;home&amp;#039;
+	)
+	scaffold =&amp;gt; false
+	methods =&amp;gt; array(
+		(int) 0 =&amp;gt; &amp;#039;display&amp;#039;,
+		(int) 1 =&amp;gt; &amp;#039;authenticate&amp;#039;
+	)
+	modelClass =&amp;gt; &amp;#039;Page&amp;#039;
+	modelKey =&amp;gt; &amp;#039;page&amp;#039;
+	validationErrors =&amp;gt; null
+	Session =&amp;gt; object(SessionComponent) {
+		settings =&amp;gt; array([maximum depth reached])
+		components =&amp;gt; array([maximum depth reached])
+		[protected] _Collection =&amp;gt; object(ComponentCollection) {}
+		[protected] _componentMap =&amp;gt; array([maximum depth reached])
+	}
+	CustomFunction =&amp;gt; object(CustomfunctionComponent) {
+		settings =&amp;gt; array([maximum depth reached])
+		components =&amp;gt; array([maximum depth reached])
+		[protected] _Collection =&amp;gt; object(ComponentCollection) {}
+		[protected] _componentMap =&amp;gt; array([maximum depth reached])
+	}
+	Configuration =&amp;gt; object(AppModel) {
+		useDbConfig =&amp;gt; &amp;#039;default&amp;#039;
+		useTable =&amp;gt; &amp;#039;configurations&amp;#039;
+		id =&amp;gt; false
+		data =&amp;gt; array([maximum depth reached])
+		schemaName =&amp;gt; null
+		table =&amp;gt; &amp;#039;configurations&amp;#039;
+		primaryKey =&amp;gt; &amp;#039;id&amp;#039;
+		validate =&amp;gt; array([maximum depth reached])
+		validationErrors =&amp;gt; array([maximum depth reached])
+		validationDomain =&amp;gt; null
+		plugin =&amp;gt; null
+		name =&amp;gt; &amp;#039;Configuration&amp;#039;
+		alias =&amp;gt; &amp;#039;Configuration&amp;#039;
+		tableToModel =&amp;gt; array(
+			[maximum depth reached]
+		)
+		cacheQueries =&amp;gt; false
+		belongsTo =&amp;gt; array([maximum depth reached])
+		hasOne =&amp;gt; array([maximum depth reached])
+		hasMany =&amp;gt; array([maximum depth reached])
+		hasAndBelongsToMany =&amp;gt; array([maximum depth reached])
+		actsAs =&amp;gt; null
+		Behaviors =&amp;gt; object(BehaviorCollection) {}
+		whitelist =&amp;gt; array([maximum depth reached])
+		cacheSources =&amp;gt; true
+		findQueryType =&amp;gt; &amp;#039;first&amp;#039;
+		recursive =&amp;gt; (int) 1
+		order =&amp;gt; null
+		virtualFields =&amp;gt; array([maximum depth reached])
+		__backAssociation =&amp;gt; array([maximum depth reached])
+		__backInnerAssociation =&amp;gt; array([maximum depth reached])
+		__backOriginalAssociation =&amp;gt; array([maximum depth reached])
+		__backContainableAssociation =&amp;gt; array([maximum depth reached])
+		__safeUpdateMode =&amp;gt; false
+		useConsistentAfterFind =&amp;gt; true
+		findMethods =&amp;gt; array(
+			[maximum depth reached]
+		)
+		[protected] _schema =&amp;gt; null
+		[protected] _associationKeys =&amp;gt; array(
+			[maximum depth reached]
+		)
+		[protected] _associations =&amp;gt; array(
+			[maximum depth reached]
+		)
+		[protected] _insertID =&amp;gt; null
+		[protected] _sourceConfigured =&amp;gt; true
+		[protected] _eventManager =&amp;gt; object(CakeEventManager) {}
+		[protected] _validator =&amp;gt; null
+	}
+	[protected] _responseClass =&amp;gt; &amp;#039;CakeResponse&amp;#039;
+	[protected] _mergeParent =&amp;gt; &amp;#039;AppController&amp;#039;
+	[protected] _eventManager =&amp;gt; object(CakeEventManager) {
+		[protected] _generalManager =&amp;gt; object(CakeEventManager) {}
+		[protected] _listeners =&amp;gt; array(
+			[maximum depth reached]
+		)
+		[protected] _isGlobal =&amp;gt; false
+	}
+}
+object(CakeRequest) {
+	params =&amp;gt; array(
+		&amp;#039;plugin&amp;#039; =&amp;gt; null,
+		&amp;#039;controller&amp;#039; =&amp;gt; &amp;#039;pages&amp;#039;,
+		&amp;#039;action&amp;#039; =&amp;gt; &amp;#039;display&amp;#039;,
+		&amp;#039;named&amp;#039; =&amp;gt; array(),
+		&amp;#039;pass&amp;#039; =&amp;gt; array(
+			(int) 0 =&amp;gt; &amp;#039;home&amp;#039;
+		),
+		&amp;#039;models&amp;#039; =&amp;gt; array(
+			&amp;#039;Configuration&amp;#039; =&amp;gt; array(
+				[maximum depth reached]
+			)
+		)
+	)
+	data =&amp;gt; array()
+	query =&amp;gt; array()
+	url =&amp;gt; &amp;#039;&amp;#039;
+	base =&amp;gt; &amp;#039;&amp;#039;
+	webroot =&amp;gt; &amp;#039;/&amp;#039;
+	here =&amp;gt; &amp;#039;/&amp;#039;
+	[protected] _detectors =&amp;gt; array(
+		&amp;#039;get&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;REQUEST_METHOD&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;GET&amp;#039;
+		),
+		&amp;#039;patch&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;REQUEST_METHOD&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;PATCH&amp;#039;
+		),
+		&amp;#039;post&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;REQUEST_METHOD&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;POST&amp;#039;
+		),
+		&amp;#039;put&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;REQUEST_METHOD&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;PUT&amp;#039;
+		),
+		&amp;#039;delete&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;REQUEST_METHOD&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;DELETE&amp;#039;
+		),
+		&amp;#039;head&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;REQUEST_METHOD&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;HEAD&amp;#039;
+		),
+		&amp;#039;options&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;REQUEST_METHOD&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;OPTIONS&amp;#039;
+		),
+		&amp;#039;ssl&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;HTTPS&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; (int) 1
+		),
+		&amp;#039;ajax&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;HTTP_X_REQUESTED_WITH&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;XMLHttpRequest&amp;#039;
+		),
+		&amp;#039;flash&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;HTTP_USER_AGENT&amp;#039;,
+			&amp;#039;pattern&amp;#039; =&amp;gt; &amp;#039;/^(Shockwave|Adobe) Flash/&amp;#039;
+		),
+		&amp;#039;mobile&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;HTTP_USER_AGENT&amp;#039;,
+			&amp;#039;options&amp;#039; =&amp;gt; array(
+				[maximum depth reached]
+			)
+		),
+		&amp;#039;requested&amp;#039; =&amp;gt; array(
+			&amp;#039;param&amp;#039; =&amp;gt; &amp;#039;requested&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; (int) 1
+		),
+		&amp;#039;json&amp;#039; =&amp;gt; array(
+			&amp;#039;accept&amp;#039; =&amp;gt; array(
+				[maximum depth reached]
+			),
+			&amp;#039;param&amp;#039; =&amp;gt; &amp;#039;ext&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;json&amp;#039;
+		),
+		&amp;#039;xml&amp;#039; =&amp;gt; array(
+			&amp;#039;accept&amp;#039; =&amp;gt; array(
+				[maximum depth reached]
+			),
+			&amp;#039;param&amp;#039; =&amp;gt; &amp;#039;ext&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;xml&amp;#039;
+		)
+	)
+	[protected] _input =&amp;gt; &amp;#039;&amp;#039;
+}&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-12&#039;)&quot;&gt;APP/webroot/index.php line 110&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-12&#039;)&quot;&gt;Dispatcher-&gt;dispatch(CakeRequest, CakeResponse)&lt;/a&gt; &lt;div id=&quot;file-excerpt-12&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$Dispatcher&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;=&amp;nbsp;new&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;Dispatcher&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;();
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$Dispatcher&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;dispatch&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;new&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;CakeRequest&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(),
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;new&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;CakeResponse&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;()
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-12&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;object(CakeRequest) {
+	params =&amp;gt; array(
+		&amp;#039;plugin&amp;#039; =&amp;gt; null,
+		&amp;#039;controller&amp;#039; =&amp;gt; &amp;#039;pages&amp;#039;,
+		&amp;#039;action&amp;#039; =&amp;gt; &amp;#039;display&amp;#039;,
+		&amp;#039;named&amp;#039; =&amp;gt; array(),
+		&amp;#039;pass&amp;#039; =&amp;gt; array(
+			(int) 0 =&amp;gt; &amp;#039;home&amp;#039;
+		),
+		&amp;#039;models&amp;#039; =&amp;gt; array(
+			&amp;#039;Configuration&amp;#039; =&amp;gt; array(
+				[maximum depth reached]
+			)
+		)
+	)
+	data =&amp;gt; array()
+	query =&amp;gt; array()
+	url =&amp;gt; &amp;#039;&amp;#039;
+	base =&amp;gt; &amp;#039;&amp;#039;
+	webroot =&amp;gt; &amp;#039;/&amp;#039;
+	here =&amp;gt; &amp;#039;/&amp;#039;
+	[protected] _detectors =&amp;gt; array(
+		&amp;#039;get&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;REQUEST_METHOD&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;GET&amp;#039;
+		),
+		&amp;#039;patch&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;REQUEST_METHOD&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;PATCH&amp;#039;
+		),
+		&amp;#039;post&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;REQUEST_METHOD&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;POST&amp;#039;
+		),
+		&amp;#039;put&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;REQUEST_METHOD&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;PUT&amp;#039;
+		),
+		&amp;#039;delete&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;REQUEST_METHOD&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;DELETE&amp;#039;
+		),
+		&amp;#039;head&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;REQUEST_METHOD&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;HEAD&amp;#039;
+		),
+		&amp;#039;options&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;REQUEST_METHOD&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;OPTIONS&amp;#039;
+		),
+		&amp;#039;ssl&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;HTTPS&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; (int) 1
+		),
+		&amp;#039;ajax&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;HTTP_X_REQUESTED_WITH&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;XMLHttpRequest&amp;#039;
+		),
+		&amp;#039;flash&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;HTTP_USER_AGENT&amp;#039;,
+			&amp;#039;pattern&amp;#039; =&amp;gt; &amp;#039;/^(Shockwave|Adobe) Flash/&amp;#039;
+		),
+		&amp;#039;mobile&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;HTTP_USER_AGENT&amp;#039;,
+			&amp;#039;options&amp;#039; =&amp;gt; array(
+				[maximum depth reached]
+			)
+		),
+		&amp;#039;requested&amp;#039; =&amp;gt; array(
+			&amp;#039;param&amp;#039; =&amp;gt; &amp;#039;requested&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; (int) 1
+		),
+		&amp;#039;json&amp;#039; =&amp;gt; array(
+			&amp;#039;accept&amp;#039; =&amp;gt; array(
+				[maximum depth reached]
+			),
+			&amp;#039;param&amp;#039; =&amp;gt; &amp;#039;ext&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;json&amp;#039;
+		),
+		&amp;#039;xml&amp;#039; =&amp;gt; array(
+			&amp;#039;accept&amp;#039; =&amp;gt; array(
+				[maximum depth reached]
+			),
+			&amp;#039;param&amp;#039; =&amp;gt; &amp;#039;ext&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;xml&amp;#039;
+		)
+	)
+	[protected] _input =&amp;gt; &amp;#039;&amp;#039;
+}
+object(CakeResponse) {
+	[protected] _statusCodes =&amp;gt; array(
+		(int) 100 =&amp;gt; &amp;#039;Continue&amp;#039;,
+		(int) 101 =&amp;gt; &amp;#039;Switching Protocols&amp;#039;,
+		(int) 200 =&amp;gt; &amp;#039;OK&amp;#039;,
+		(int) 201 =&amp;gt; &amp;#039;Created&amp;#039;,
+		(int) 202 =&amp;gt; &amp;#039;Accepted&amp;#039;,
+		(int) 203 =&amp;gt; &amp;#039;Non-Authoritative Information&amp;#039;,
+		(int) 204 =&amp;gt; &amp;#039;No Content&amp;#039;,
+		(int) 205 =&amp;gt; &amp;#039;Reset Content&amp;#039;,
+		(int) 206 =&amp;gt; &amp;#039;Partial Content&amp;#039;,
+		(int) 300 =&amp;gt; &amp;#039;Multiple Choices&amp;#039;,
+		(int) 301 =&amp;gt; &amp;#039;Moved Permanently&amp;#039;,
+		(int) 302 =&amp;gt; &amp;#039;Found&amp;#039;,
+		(int) 303 =&amp;gt; &amp;#039;See Other&amp;#039;,
+		(int) 304 =&amp;gt; &amp;#039;Not Modified&amp;#039;,
+		(int) 305 =&amp;gt; &amp;#039;Use Proxy&amp;#039;,
+		(int) 307 =&amp;gt; &amp;#039;Temporary Redirect&amp;#039;,
+		(int) 400 =&amp;gt; &amp;#039;Bad Request&amp;#039;,
+		(int) 401 =&amp;gt; &amp;#039;Unauthorized&amp;#039;,
+		(int) 402 =&amp;gt; &amp;#039;Payment Required&amp;#039;,
+		(int) 403 =&amp;gt; &amp;#039;Forbidden&amp;#039;,
+		(int) 404 =&amp;gt; &amp;#039;Not Found&amp;#039;,
+		(int) 405 =&amp;gt; &amp;#039;Method Not Allowed&amp;#039;,
+		(int) 406 =&amp;gt; &amp;#039;Not Acceptable&amp;#039;,
+		(int) 407 =&amp;gt; &amp;#039;Proxy Authentication Required&amp;#039;,
+		(int) 408 =&amp;gt; &amp;#039;Request Time-out&amp;#039;,
+		(int) 409 =&amp;gt; &amp;#039;Conflict&amp;#039;,
+		(int) 410 =&amp;gt; &amp;#039;Gone&amp;#039;,
+		(int) 411 =&amp;gt; &amp;#039;Length Required&amp;#039;,
+		(int) 412 =&amp;gt; &amp;#039;Precondition Failed&amp;#039;,
+		(int) 413 =&amp;gt; &amp;#039;Request Entity Too Large&amp;#039;,
+		(int) 414 =&amp;gt; &amp;#039;Request-URI Too Large&amp;#039;,
+		(int) 415 =&amp;gt; &amp;#039;Unsupported Media Type&amp;#039;,
+		(int) 416 =&amp;gt; &amp;#039;Requested range not satisfiable&amp;#039;,
+		(int) 417 =&amp;gt; &amp;#039;Expectation Failed&amp;#039;,
+		(int) 429 =&amp;gt; &amp;#039;Too Many Requests&amp;#039;,
+		(int) 500 =&amp;gt; &amp;#039;Internal Server Error&amp;#039;,
+		(int) 501 =&amp;gt; &amp;#039;Not Implemented&amp;#039;,
+		(int) 502 =&amp;gt; &amp;#039;Bad Gateway&amp;#039;,
+		(int) 503 =&amp;gt; &amp;#039;Service Unavailable&amp;#039;,
+		(int) 504 =&amp;gt; &amp;#039;Gateway Time-out&amp;#039;,
+		(int) 505 =&amp;gt; &amp;#039;Unsupported Version&amp;#039;
+	)
+	[protected] _mimeTypes =&amp;gt; array(
+		&amp;#039;html&amp;#039; =&amp;gt; array(
+			(int) 0 =&amp;gt; &amp;#039;text/html&amp;#039;,
+			(int) 1 =&amp;gt; &amp;#039;*/*&amp;#039;
+		),
+		&amp;#039;json&amp;#039; =&amp;gt; &amp;#039;application/json&amp;#039;,
+		&amp;#039;xml&amp;#039; =&amp;gt; array(
+			(int) 0 =&amp;gt; &amp;#039;application/xml&amp;#039;,
+			(int) 1 =&amp;gt; &amp;#039;text/xml&amp;#039;
+		),
+		&amp;#039;rss&amp;#039; =&amp;gt; &amp;#039;application/rss+xml&amp;#039;,
+		&amp;#039;ai&amp;#039; =&amp;gt; &amp;#039;application/postscript&amp;#039;,
+		&amp;#039;bcpio&amp;#039; =&amp;gt; &amp;#039;application/x-bcpio&amp;#039;,
+		&amp;#039;bin&amp;#039; =&amp;gt; &amp;#039;application/octet-stream&amp;#039;,
+		&amp;#039;ccad&amp;#039; =&amp;gt; &amp;#039;application/clariscad&amp;#039;,
+		&amp;#039;cdf&amp;#039; =&amp;gt; &amp;#039;application/x-netcdf&amp;#039;,
+		&amp;#039;class&amp;#039; =&amp;gt; &amp;#039;application/octet-stream&amp;#039;,
+		&amp;#039;cpio&amp;#039; =&amp;gt; &amp;#039;application/x-cpio&amp;#039;,
+		&amp;#039;cpt&amp;#039; =&amp;gt; &amp;#039;application/mac-compactpro&amp;#039;,
+		&amp;#039;csh&amp;#039; =&amp;gt; &amp;#039;application/x-csh&amp;#039;,
+		&amp;#039;csv&amp;#039; =&amp;gt; array(
+			(int) 0 =&amp;gt; &amp;#039;text/csv&amp;#039;,
+			(int) 1 =&amp;gt; &amp;#039;application/vnd.ms-excel&amp;#039;
+		),
+		&amp;#039;dcr&amp;#039; =&amp;gt; &amp;#039;application/x-director&amp;#039;,
+		&amp;#039;dir&amp;#039; =&amp;gt; &amp;#039;application/x-director&amp;#039;,
+		&amp;#039;dms&amp;#039; =&amp;gt; &amp;#039;application/octet-stream&amp;#039;,
+		&amp;#039;doc&amp;#039; =&amp;gt; &amp;#039;application/msword&amp;#039;,
+		&amp;#039;docx&amp;#039; =&amp;gt; &amp;#039;application/vnd.openxmlformats-officedocument.wordprocessingml.document&amp;#039;,
+		&amp;#039;drw&amp;#039; =&amp;gt; &amp;#039;application/drafting&amp;#039;,
+		&amp;#039;dvi&amp;#039; =&amp;gt; &amp;#039;application/x-dvi&amp;#039;,
+		&amp;#039;dwg&amp;#039; =&amp;gt; &amp;#039;application/acad&amp;#039;,
+		&amp;#039;dxf&amp;#039; =&amp;gt; &amp;#039;application/dxf&amp;#039;,
+		&amp;#039;dxr&amp;#039; =&amp;gt; &amp;#039;application/x-director&amp;#039;,
+		&amp;#039;eot&amp;#039; =&amp;gt; &amp;#039;application/vnd.ms-fontobject&amp;#039;,
+		&amp;#039;eps&amp;#039; =&amp;gt; &amp;#039;application/postscript&amp;#039;,
+		&amp;#039;exe&amp;#039; =&amp;gt; &amp;#039;application/octet-stream&amp;#039;,
+		&amp;#039;ez&amp;#039; =&amp;gt; &amp;#039;application/andrew-inset&amp;#039;,
+		&amp;#039;flv&amp;#039; =&amp;gt; &amp;#039;video/x-flv&amp;#039;,
+		&amp;#039;gtar&amp;#039; =&amp;gt; &amp;#039;application/x-gtar&amp;#039;,
+		&amp;#039;gz&amp;#039; =&amp;gt; &amp;#039;application/x-gzip&amp;#039;,
+		&amp;#039;bz2&amp;#039; =&amp;gt; &amp;#039;application/x-bzip&amp;#039;,
+		&amp;#039;7z&amp;#039; =&amp;gt; &amp;#039;application/x-7z-compressed&amp;#039;,
+		&amp;#039;hdf&amp;#039; =&amp;gt; &amp;#039;application/x-hdf&amp;#039;,
+		&amp;#039;hqx&amp;#039; =&amp;gt; &amp;#039;application/mac-binhex40&amp;#039;,
+		&amp;#039;ico&amp;#039; =&amp;gt; &amp;#039;image/x-icon&amp;#039;,
+		&amp;#039;ips&amp;#039; =&amp;gt; &amp;#039;application/x-ipscript&amp;#039;,
+		&amp;#039;ipx&amp;#039; =&amp;gt; &amp;#039;application/x-ipix&amp;#039;,
+		&amp;#039;js&amp;#039; =&amp;gt; &amp;#039;application/javascript&amp;#039;,
+		&amp;#039;jsonapi&amp;#039; =&amp;gt; &amp;#039;application/vnd.api+json&amp;#039;,
+		&amp;#039;latex&amp;#039; =&amp;gt; &amp;#039;application/x-latex&amp;#039;,
+		&amp;#039;lha&amp;#039; =&amp;gt; &amp;#039;application/octet-stream&amp;#039;,
+		&amp;#039;lsp&amp;#039; =&amp;gt; &amp;#039;application/x-lisp&amp;#039;,
+		&amp;#039;lzh&amp;#039; =&amp;gt; &amp;#039;application/octet-stream&amp;#039;,
+		&amp;#039;man&amp;#039; =&amp;gt; &amp;#039;application/x-troff-man&amp;#039;,
+		&amp;#039;me&amp;#039; =&amp;gt; &amp;#039;application/x-troff-me&amp;#039;,
+		&amp;#039;mif&amp;#039; =&amp;gt; &amp;#039;application/vnd.mif&amp;#039;,
+		&amp;#039;ms&amp;#039; =&amp;gt; &amp;#039;application/x-troff-ms&amp;#039;,
+		&amp;#039;nc&amp;#039; =&amp;gt; &amp;#039;application/x-netcdf&amp;#039;,
+		&amp;#039;oda&amp;#039; =&amp;gt; &amp;#039;application/oda&amp;#039;,
+		&amp;#039;otf&amp;#039; =&amp;gt; &amp;#039;font/otf&amp;#039;,
+		&amp;#039;pdf&amp;#039; =&amp;gt; &amp;#039;application/pdf&amp;#039;,
+		&amp;#039;pgn&amp;#039; =&amp;gt; &amp;#039;application/x-chess-pgn&amp;#039;,
+		&amp;#039;pot&amp;#039; =&amp;gt; &amp;#039;application/vnd.ms-powerpoint&amp;#039;,
+		&amp;#039;pps&amp;#039; =&amp;gt; &amp;#039;application/vnd.ms-powerpoint&amp;#039;,
+		&amp;#039;ppt&amp;#039; =&amp;gt; &amp;#039;application/vnd.ms-powerpoint&amp;#039;,
+		&amp;#039;pptx&amp;#039; =&amp;gt; &amp;#039;application/vnd.openxmlformats-officedocument.presentationml.presentation&amp;#039;,
+		&amp;#039;ppz&amp;#039; =&amp;gt; &amp;#039;application/vnd.ms-powerpoint&amp;#039;,
+		&amp;#039;pre&amp;#039; =&amp;gt; &amp;#039;application/x-freelance&amp;#039;,
+		&amp;#039;prt&amp;#039; =&amp;gt; &amp;#039;application/pro_eng&amp;#039;,
+		&amp;#039;ps&amp;#039; =&amp;gt; &amp;#039;application/postscript&amp;#039;,
+		&amp;#039;roff&amp;#039; =&amp;gt; &amp;#039;application/x-troff&amp;#039;,
+		&amp;#039;scm&amp;#039; =&amp;gt; &amp;#039;application/x-lotusscreencam&amp;#039;,
+		&amp;#039;set&amp;#039; =&amp;gt; &amp;#039;application/set&amp;#039;,
+		&amp;#039;sh&amp;#039; =&amp;gt; &amp;#039;application/x-sh&amp;#039;,
+		&amp;#039;shar&amp;#039; =&amp;gt; &amp;#039;application/x-shar&amp;#039;,
+		&amp;#039;sit&amp;#039; =&amp;gt; &amp;#039;application/x-stuffit&amp;#039;,
+		&amp;#039;skd&amp;#039; =&amp;gt; &amp;#039;application/x-koan&amp;#039;,
+		&amp;#039;skm&amp;#039; =&amp;gt; &amp;#039;application/x-koan&amp;#039;,
+		&amp;#039;skp&amp;#039; =&amp;gt; &amp;#039;application/x-koan&amp;#039;,
+		&amp;#039;skt&amp;#039; =&amp;gt; &amp;#039;application/x-koan&amp;#039;,
+		&amp;#039;smi&amp;#039; =&amp;gt; &amp;#039;application/smil&amp;#039;,
+		&amp;#039;smil&amp;#039; =&amp;gt; &amp;#039;application/smil&amp;#039;,
+		&amp;#039;sol&amp;#039; =&amp;gt; &amp;#039;application/solids&amp;#039;,
+		&amp;#039;spl&amp;#039; =&amp;gt; &amp;#039;application/x-futuresplash&amp;#039;,
+		&amp;#039;src&amp;#039; =&amp;gt; &amp;#039;application/x-wais-source&amp;#039;,
+		&amp;#039;step&amp;#039; =&amp;gt; &amp;#039;application/STEP&amp;#039;,
+		&amp;#039;stl&amp;#039; =&amp;gt; &amp;#039;application/SLA&amp;#039;,
+		&amp;#039;stp&amp;#039; =&amp;gt; &amp;#039;application/STEP&amp;#039;,
+		&amp;#039;sv4cpio&amp;#039; =&amp;gt; &amp;#039;application/x-sv4cpio&amp;#039;,
+		&amp;#039;sv4crc&amp;#039; =&amp;gt; &amp;#039;application/x-sv4crc&amp;#039;,
+		&amp;#039;svg&amp;#039; =&amp;gt; &amp;#039;image/svg+xml&amp;#039;,
+		&amp;#039;svgz&amp;#039; =&amp;gt; &amp;#039;image/svg+xml&amp;#039;,
+		&amp;#039;swf&amp;#039; =&amp;gt; &amp;#039;application/x-shockwave-flash&amp;#039;,
+		&amp;#039;t&amp;#039; =&amp;gt; &amp;#039;application/x-troff&amp;#039;,
+		&amp;#039;tar&amp;#039; =&amp;gt; &amp;#039;application/x-tar&amp;#039;,
+		&amp;#039;tcl&amp;#039; =&amp;gt; &amp;#039;application/x-tcl&amp;#039;,
+		&amp;#039;tex&amp;#039; =&amp;gt; &amp;#039;application/x-tex&amp;#039;,
+		&amp;#039;texi&amp;#039; =&amp;gt; &amp;#039;application/x-texinfo&amp;#039;,
+		&amp;#039;texinfo&amp;#039; =&amp;gt; &amp;#039;application/x-texinfo&amp;#039;,
+		&amp;#039;tr&amp;#039; =&amp;gt; &amp;#039;application/x-troff&amp;#039;,
+		&amp;#039;tsp&amp;#039; =&amp;gt; &amp;#039;application/dsptype&amp;#039;,
+		&amp;#039;ttc&amp;#039; =&amp;gt; &amp;#039;font/ttf&amp;#039;,
+		&amp;#039;ttf&amp;#039; =&amp;gt; &amp;#039;font/ttf&amp;#039;,
+		&amp;#039;unv&amp;#039; =&amp;gt; &amp;#039;application/i-deas&amp;#039;,
+		&amp;#039;ustar&amp;#039; =&amp;gt; &amp;#039;application/x-ustar&amp;#039;,
+		&amp;#039;vcd&amp;#039; =&amp;gt; &amp;#039;application/x-cdlink&amp;#039;,
+		&amp;#039;vda&amp;#039; =&amp;gt; &amp;#039;application/vda&amp;#039;,
+		&amp;#039;xlc&amp;#039; =&amp;gt; &amp;#039;application/vnd.ms-excel&amp;#039;,
+		&amp;#039;xll&amp;#039; =&amp;gt; &amp;#039;application/vnd.ms-excel&amp;#039;,
+		&amp;#039;xlm&amp;#039; =&amp;gt; &amp;#039;application/vnd.ms-excel&amp;#039;,
+		&amp;#039;xls&amp;#039; =&amp;gt; &amp;#039;application/vnd.ms-excel&amp;#039;,
+		&amp;#039;xlsx&amp;#039; =&amp;gt; &amp;#039;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet&amp;#039;,
+		&amp;#039;xlw&amp;#039; =&amp;gt; &amp;#039;application/vnd.ms-excel&amp;#039;,
+		&amp;#039;zip&amp;#039; =&amp;gt; &amp;#039;application/zip&amp;#039;,
+		&amp;#039;aif&amp;#039; =&amp;gt; &amp;#039;audio/x-aiff&amp;#039;,
+		&amp;#039;aifc&amp;#039; =&amp;gt; &amp;#039;audio/x-aiff&amp;#039;,
+		&amp;#039;aiff&amp;#039; =&amp;gt; &amp;#039;audio/x-aiff&amp;#039;,
+		&amp;#039;au&amp;#039; =&amp;gt; &amp;#039;audio/basic&amp;#039;,
+		&amp;#039;kar&amp;#039; =&amp;gt; &amp;#039;audio/midi&amp;#039;,
+		&amp;#039;mid&amp;#039; =&amp;gt; &amp;#039;audio/midi&amp;#039;,
+		&amp;#039;midi&amp;#039; =&amp;gt; &amp;#039;audio/midi&amp;#039;,
+		&amp;#039;mp2&amp;#039; =&amp;gt; &amp;#039;audio/mpeg&amp;#039;,
+		&amp;#039;mp3&amp;#039; =&amp;gt; &amp;#039;audio/mpeg&amp;#039;,
+		&amp;#039;mpga&amp;#039; =&amp;gt; &amp;#039;audio/mpeg&amp;#039;,
+		&amp;#039;ogg&amp;#039; =&amp;gt; &amp;#039;audio/ogg&amp;#039;,
+		&amp;#039;oga&amp;#039; =&amp;gt; &amp;#039;audio/ogg&amp;#039;,
+		&amp;#039;spx&amp;#039; =&amp;gt; &amp;#039;audio/ogg&amp;#039;,
+		&amp;#039;ra&amp;#039; =&amp;gt; &amp;#039;audio/x-realaudio&amp;#039;,
+		&amp;#039;ram&amp;#039; =&amp;gt; &amp;#039;audio/x-pn-realaudio&amp;#039;,
+		&amp;#039;rm&amp;#039; =&amp;gt; &amp;#039;audio/x-pn-realaudio&amp;#039;,
+		&amp;#039;rpm&amp;#039; =&amp;gt; &amp;#039;audio/x-pn-realaudio-plugin&amp;#039;,
+		&amp;#039;snd&amp;#039; =&amp;gt; &amp;#039;audio/basic&amp;#039;,
+		&amp;#039;tsi&amp;#039; =&amp;gt; &amp;#039;audio/TSP-audio&amp;#039;,
+		&amp;#039;wav&amp;#039; =&amp;gt; &amp;#039;audio/x-wav&amp;#039;,
+		&amp;#039;aac&amp;#039; =&amp;gt; &amp;#039;audio/aac&amp;#039;,
+		&amp;#039;asc&amp;#039; =&amp;gt; &amp;#039;text/plain&amp;#039;,
+		&amp;#039;c&amp;#039; =&amp;gt; &amp;#039;text/plain&amp;#039;,
+		&amp;#039;cc&amp;#039; =&amp;gt; &amp;#039;text/plain&amp;#039;,
+		&amp;#039;css&amp;#039; =&amp;gt; &amp;#039;text/css&amp;#039;,
+		&amp;#039;etx&amp;#039; =&amp;gt; &amp;#039;text/x-setext&amp;#039;,
+		&amp;#039;f&amp;#039; =&amp;gt; &amp;#039;text/plain&amp;#039;,
+		&amp;#039;f90&amp;#039; =&amp;gt; &amp;#039;text/plain&amp;#039;,
+		&amp;#039;h&amp;#039; =&amp;gt; &amp;#039;text/plain&amp;#039;,
+		&amp;#039;hh&amp;#039; =&amp;gt; &amp;#039;text/plain&amp;#039;,
+		&amp;#039;htm&amp;#039; =&amp;gt; array(
+			(int) 0 =&amp;gt; &amp;#039;text/html&amp;#039;,
+			(int) 1 =&amp;gt; &amp;#039;*/*&amp;#039;
+		),
+		&amp;#039;ics&amp;#039; =&amp;gt; &amp;#039;text/calendar&amp;#039;,
+		&amp;#039;m&amp;#039; =&amp;gt; &amp;#039;text/plain&amp;#039;,
+		&amp;#039;rtf&amp;#039; =&amp;gt; &amp;#039;text/rtf&amp;#039;,
+		&amp;#039;rtx&amp;#039; =&amp;gt; &amp;#039;text/richtext&amp;#039;,
+		&amp;#039;sgm&amp;#039; =&amp;gt; &amp;#039;text/sgml&amp;#039;,
+		&amp;#039;sgml&amp;#039; =&amp;gt; &amp;#039;text/sgml&amp;#039;,
+		&amp;#039;tsv&amp;#039; =&amp;gt; &amp;#039;text/tab-separated-values&amp;#039;,
+		&amp;#039;tpl&amp;#039; =&amp;gt; &amp;#039;text/template&amp;#039;,
+		&amp;#039;txt&amp;#039; =&amp;gt; &amp;#039;text/plain&amp;#039;,
+		&amp;#039;text&amp;#039; =&amp;gt; &amp;#039;text/plain&amp;#039;,
+		&amp;#039;avi&amp;#039; =&amp;gt; &amp;#039;video/x-msvideo&amp;#039;,
+		&amp;#039;fli&amp;#039; =&amp;gt; &amp;#039;video/x-fli&amp;#039;,
+		&amp;#039;mov&amp;#039; =&amp;gt; &amp;#039;video/quicktime&amp;#039;,
+		&amp;#039;movie&amp;#039; =&amp;gt; &amp;#039;video/x-sgi-movie&amp;#039;,
+		&amp;#039;mpe&amp;#039; =&amp;gt; &amp;#039;video/mpeg&amp;#039;,
+		&amp;#039;mpeg&amp;#039; =&amp;gt; &amp;#039;video/mpeg&amp;#039;,
+		&amp;#039;mpg&amp;#039; =&amp;gt; &amp;#039;video/mpeg&amp;#039;,
+		&amp;#039;qt&amp;#039; =&amp;gt; &amp;#039;video/quicktime&amp;#039;,
+		&amp;#039;viv&amp;#039; =&amp;gt; &amp;#039;video/vnd.vivo&amp;#039;,
+		&amp;#039;vivo&amp;#039; =&amp;gt; &amp;#039;video/vnd.vivo&amp;#039;,
+		&amp;#039;ogv&amp;#039; =&amp;gt; &amp;#039;video/ogg&amp;#039;,
+		&amp;#039;webm&amp;#039; =&amp;gt; &amp;#039;video/webm&amp;#039;,
+		&amp;#039;mp4&amp;#039; =&amp;gt; &amp;#039;video/mp4&amp;#039;,
+		&amp;#039;m4v&amp;#039; =&amp;gt; &amp;#039;video/mp4&amp;#039;,
+		&amp;#039;f4v&amp;#039; =&amp;gt; &amp;#039;video/mp4&amp;#039;,
+		&amp;#039;f4p&amp;#039; =&amp;gt; &amp;#039;video/mp4&amp;#039;,
+		&amp;#039;m4a&amp;#039; =&amp;gt; &amp;#039;audio/mp4&amp;#039;,
+		&amp;#039;f4a&amp;#039; =&amp;gt; &amp;#039;audio/mp4&amp;#039;,
+		&amp;#039;f4b&amp;#039; =&amp;gt; &amp;#039;audio/mp4&amp;#039;,
+		&amp;#039;gif&amp;#039; =&amp;gt; &amp;#039;image/gif&amp;#039;,
+		&amp;#039;ief&amp;#039; =&amp;gt; &amp;#039;image/ief&amp;#039;,
+		&amp;#039;jpg&amp;#039; =&amp;gt; &amp;#039;image/jpeg&amp;#039;,
+		&amp;#039;jpeg&amp;#039; =&amp;gt; &amp;#039;image/jpeg&amp;#039;,
+		&amp;#039;jpe&amp;#039; =&amp;gt; &amp;#039;image/jpeg&amp;#039;,
+		&amp;#039;pbm&amp;#039; =&amp;gt; &amp;#039;image/x-portable-bitmap&amp;#039;,
+		&amp;#039;pgm&amp;#039; =&amp;gt; &amp;#039;image/x-portable-graymap&amp;#039;,
+		&amp;#039;png&amp;#039; =&amp;gt; &amp;#039;image/png&amp;#039;,
+		&amp;#039;pnm&amp;#039; =&amp;gt; &amp;#039;image/x-portable-anymap&amp;#039;,
+		&amp;#039;ppm&amp;#039; =&amp;gt; &amp;#039;image/x-portable-pixmap&amp;#039;,
+		&amp;#039;ras&amp;#039; =&amp;gt; &amp;#039;image/cmu-raster&amp;#039;,
+		&amp;#039;rgb&amp;#039; =&amp;gt; &amp;#039;image/x-rgb&amp;#039;,
+		&amp;#039;tif&amp;#039; =&amp;gt; &amp;#039;image/tiff&amp;#039;,
+		&amp;#039;tiff&amp;#039; =&amp;gt; &amp;#039;image/tiff&amp;#039;,
+		&amp;#039;xbm&amp;#039; =&amp;gt; &amp;#039;image/x-xbitmap&amp;#039;,
+		&amp;#039;xpm&amp;#039; =&amp;gt; &amp;#039;image/x-xpixmap&amp;#039;,
+		&amp;#039;xwd&amp;#039; =&amp;gt; &amp;#039;image/x-xwindowdump&amp;#039;,
+		&amp;#039;psd&amp;#039; =&amp;gt; array(
+			(int) 0 =&amp;gt; &amp;#039;application/photoshop&amp;#039;,
+			(int) 1 =&amp;gt; &amp;#039;application/psd&amp;#039;,
+			(int) 2 =&amp;gt; &amp;#039;image/psd&amp;#039;,
+			(int) 3 =&amp;gt; &amp;#039;image/x-photoshop&amp;#039;,
+			(int) 4 =&amp;gt; &amp;#039;image/photoshop&amp;#039;,
+			(int) 5 =&amp;gt; &amp;#039;zz-application/zz-winassoc-psd&amp;#039;
+		),
+		&amp;#039;ice&amp;#039; =&amp;gt; &amp;#039;x-conference/x-cooltalk&amp;#039;,
+		&amp;#039;iges&amp;#039; =&amp;gt; &amp;#039;model/iges&amp;#039;,
+		&amp;#039;igs&amp;#039; =&amp;gt; &amp;#039;model/iges&amp;#039;,
+		&amp;#039;mesh&amp;#039; =&amp;gt; &amp;#039;model/mesh&amp;#039;,
+		&amp;#039;msh&amp;#039; =&amp;gt; &amp;#039;model/mesh&amp;#039;,
+		&amp;#039;silo&amp;#039; =&amp;gt; &amp;#039;model/mesh&amp;#039;,
+		&amp;#039;vrml&amp;#039; =&amp;gt; &amp;#039;model/vrml&amp;#039;,
+		&amp;#039;wrl&amp;#039; =&amp;gt; &amp;#039;model/vrml&amp;#039;,
+		&amp;#039;mime&amp;#039; =&amp;gt; &amp;#039;www/mime&amp;#039;,
+		&amp;#039;pdb&amp;#039; =&amp;gt; &amp;#039;chemical/x-pdb&amp;#039;,
+		&amp;#039;xyz&amp;#039; =&amp;gt; &amp;#039;chemical/x-pdb&amp;#039;,
+		&amp;#039;javascript&amp;#039; =&amp;gt; &amp;#039;application/javascript&amp;#039;,
+		&amp;#039;form&amp;#039; =&amp;gt; &amp;#039;application/x-www-form-urlencoded&amp;#039;,
+		&amp;#039;file&amp;#039; =&amp;gt; &amp;#039;multipart/form-data&amp;#039;,
+		&amp;#039;xhtml&amp;#039; =&amp;gt; array(
+			(int) 0 =&amp;gt; &amp;#039;application/xhtml+xml&amp;#039;,
+			(int) 1 =&amp;gt; &amp;#039;application/xhtml&amp;#039;,
+			(int) 2 =&amp;gt; &amp;#039;text/xhtml&amp;#039;
+		),
+		&amp;#039;xhtml-mobile&amp;#039; =&amp;gt; &amp;#039;application/vnd.wap.xhtml+xml&amp;#039;,
+		&amp;#039;atom&amp;#039; =&amp;gt; &amp;#039;application/atom+xml&amp;#039;,
+		&amp;#039;amf&amp;#039; =&amp;gt; &amp;#039;application/x-amf&amp;#039;,
+		&amp;#039;wap&amp;#039; =&amp;gt; array(
+			(int) 0 =&amp;gt; &amp;#039;text/vnd.wap.wml&amp;#039;,
+			(int) 1 =&amp;gt; &amp;#039;text/vnd.wap.wmlscript&amp;#039;,
+			(int) 2 =&amp;gt; &amp;#039;image/vnd.wap.wbmp&amp;#039;
+		),
+		&amp;#039;wml&amp;#039; =&amp;gt; &amp;#039;text/vnd.wap.wml&amp;#039;,
+		&amp;#039;wmlscript&amp;#039; =&amp;gt; &amp;#039;text/vnd.wap.wmlscript&amp;#039;,
+		&amp;#039;wbmp&amp;#039; =&amp;gt; &amp;#039;image/vnd.wap.wbmp&amp;#039;,
+		&amp;#039;woff&amp;#039; =&amp;gt; &amp;#039;application/x-font-woff&amp;#039;,
+		&amp;#039;webp&amp;#039; =&amp;gt; &amp;#039;image/webp&amp;#039;,
+		&amp;#039;appcache&amp;#039; =&amp;gt; &amp;#039;text/cache-manifest&amp;#039;,
+		&amp;#039;manifest&amp;#039; =&amp;gt; &amp;#039;text/cache-manifest&amp;#039;,
+		&amp;#039;htc&amp;#039; =&amp;gt; &amp;#039;text/x-component&amp;#039;,
+		&amp;#039;rdf&amp;#039; =&amp;gt; &amp;#039;application/xml&amp;#039;,
+		&amp;#039;crx&amp;#039; =&amp;gt; &amp;#039;application/x-chrome-extension&amp;#039;,
+		&amp;#039;oex&amp;#039; =&amp;gt; &amp;#039;application/x-opera-extension&amp;#039;,
+		&amp;#039;xpi&amp;#039; =&amp;gt; &amp;#039;application/x-xpinstall&amp;#039;,
+		&amp;#039;safariextz&amp;#039; =&amp;gt; &amp;#039;application/octet-stream&amp;#039;,
+		&amp;#039;webapp&amp;#039; =&amp;gt; &amp;#039;application/x-web-app-manifest+json&amp;#039;,
+		&amp;#039;vcf&amp;#039; =&amp;gt; &amp;#039;text/x-vcard&amp;#039;,
+		&amp;#039;vtt&amp;#039; =&amp;gt; &amp;#039;text/vtt&amp;#039;,
+		&amp;#039;mkv&amp;#039; =&amp;gt; &amp;#039;video/x-matroska&amp;#039;,
+		&amp;#039;pkpass&amp;#039; =&amp;gt; &amp;#039;application/vnd.apple.pkpass&amp;#039;,
+		&amp;#039;ajax&amp;#039; =&amp;gt; &amp;#039;text/html&amp;#039;
+	)
+	[protected] _protocol =&amp;gt; &amp;#039;HTTP/1.1&amp;#039;
+	[protected] _status =&amp;gt; (int) 200
+	[protected] _contentType =&amp;gt; &amp;#039;text/html&amp;#039;
+	[protected] _headers =&amp;gt; array()
+	[protected] _body =&amp;gt; null
+	[protected] _file =&amp;gt; null
+	[protected] _fileRange =&amp;gt; null
+	[protected] _charset =&amp;gt; &amp;#039;UTF-8&amp;#039;
+	[protected] _cacheDirectives =&amp;gt; array()
+	[protected] _cookies =&amp;gt; array()
+}&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+
+function traceToggle(event, id) {
+
+	var el = document.getElementById(id);
+
+	el.style.display = (el.style.display === &#039;block&#039;) ? &#039;none&#039; : &#039;block&#039;;
+
+	event.preventDefault();
+
+	return false;
+
+}
+
+&lt;/script&gt;
+
+&#039;,
+	&#039;scripts_for_layout&#039; =&gt; &#039;&#039;,
+	&#039;title_for_layout&#039; =&gt; &#039;Errors&#039;
+)
+$class = &#039;Mysql&#039;
+$message = &#039;SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known&#039;
+$enabled = true
+$code = (int) 500
+$name = &#039;Database connection &amp;quot;Mysql&amp;quot; is missing, or could not be created.&#039;
+$url = &#039;/&#039;
+$error = object(MissingConnectionException) {
+	[protected] _messageTemplate =&gt; &#039;Database connection &quot;%s&quot; is missing, or could not be created.&#039;
+	[protected] _attributes =&gt; array(
+		&#039;class&#039; =&gt; &#039;Mysql&#039;,
+		&#039;message&#039; =&gt; &#039;SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known&#039;,
+		&#039;enabled&#039; =&gt; true
+	)
+	[protected] _responseHeaders =&gt; null
+	[protected] message =&gt; &#039;Database connection &quot;Mysql&quot; is missing, or could not be created.&#039;
+	[protected] code =&gt; (int) 500
+	[protected] file =&gt; &#039;/var/www/html/dm-exam/lib/Cake/Model/Datasource/Database/Mysql.php&#039;
+	[protected] line =&gt; (int) 200
+}
+$_serialize = array(
+	(int) 0 =&gt; &#039;code&#039;,
+	(int) 1 =&gt; &#039;name&#039;,
+	(int) 2 =&gt; &#039;message&#039;,
+	(int) 3 =&gt; &#039;url&#039;
+)
+$content_for_layout = &#039;&lt;h2&gt;Missing Database Connection&lt;/h2&gt;
+
+&lt;p class=&quot;error&quot;&gt;
+
+	&lt;strong&gt;Error: &lt;/strong&gt;
+
+	A Database connection using &quot;Mysql&quot; was missing or unable to connect.	&lt;br /&gt;
+
+	The database server returned this error: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known&lt;/p&gt;
+
+&lt;p class=&quot;notice&quot;&gt;
+
+	&lt;strong&gt;Notice: &lt;/strong&gt;
+
+	If you want to customize this error message, create app/View/Errors/missing_connection.ctp&lt;/p&gt;
+
+
+
+&lt;h3&gt;Stack Trace&lt;/h3&gt;
+
+&lt;ul class=&quot;cake-stack-trace&quot;&gt;
+
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-0&#039;)&quot;&gt;CORE/Cake/Model/Datasource/DboSource.php line 278&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-0&#039;)&quot;&gt;Mysql-&gt;connect()&lt;/a&gt; &lt;div id=&quot;file-excerpt-0&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;));
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;if&amp;nbsp;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$autoConnect&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;)&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;connect&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;();
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-0&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-1&#039;)&quot;&gt;CORE/Cake/Model/ConnectionManager.php line 105&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-1&#039;)&quot;&gt;DboSource-&gt;__construct(array)&lt;/a&gt; &lt;div id=&quot;file-excerpt-1&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;message&#039;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;=&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;Datasource&amp;nbsp;is&amp;nbsp;not&amp;nbsp;found&amp;nbsp;in&amp;nbsp;Model/Datasource&amp;nbsp;package.&#039;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;));
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;static::&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$_dataSources&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$name&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;]&amp;nbsp;=&amp;nbsp;new&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$class&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(static::&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$config&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;{&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$name&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;});
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;static::&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$_dataSources&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$name&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;]-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;configKeyName&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$name&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-1&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;array(
+	&amp;#039;password&amp;#039; =&amp;gt; &amp;#039;*****&amp;#039;,
+	&amp;#039;login&amp;#039; =&amp;gt; &amp;#039;*****&amp;#039;,
+	&amp;#039;host&amp;#039; =&amp;gt; &amp;#039;*****&amp;#039;,
+	&amp;#039;database&amp;#039; =&amp;gt; &amp;#039;*****&amp;#039;,
+	&amp;#039;datasource&amp;#039; =&amp;gt; &amp;#039;Database/Mysql&amp;#039;,
+	&amp;#039;persistent&amp;#039; =&amp;gt; false,
+	&amp;#039;prefix&amp;#039; =&amp;gt; &amp;#039;&amp;#039;
+)&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-2&#039;)&quot;&gt;CORE/Cake/Model/Model.php line 3659&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-2&#039;)&quot;&gt;ConnectionManager::getDataSource(string)&lt;/a&gt; &lt;div id=&quot;file-excerpt-2&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;useDbConfig&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$dataSource&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$db&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;ConnectionManager&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;::&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;getDataSource&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;useDbConfig&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;if&amp;nbsp;(!empty(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$oldConfig&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;)&amp;nbsp;&amp;amp;&amp;amp;&amp;nbsp;isset(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$db&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;config&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;prefix&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;]))&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-2&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;&amp;#039;default&amp;#039;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-3&#039;)&quot;&gt;CORE/Cake/Model/Model.php line 1162&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-3&#039;)&quot;&gt;Model-&gt;setDataSource(string)&lt;/a&gt; &lt;div id=&quot;file-excerpt-3&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;*&amp;nbsp;@return&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;void
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;*/
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;public&amp;nbsp;function&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;setSource&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$tableName&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;)&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;setDataSource&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;useDbConfig&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$db&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;ConnectionManager&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;::&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;getDataSource&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;useDbConfig&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-3&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;&amp;#039;default&amp;#039;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-4&#039;)&quot;&gt;CORE/Cake/Model/Model.php line 3686&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-4&#039;)&quot;&gt;Model-&gt;setSource(string)&lt;/a&gt; &lt;div id=&quot;file-excerpt-4&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;public&amp;nbsp;function&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;getDataSource&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;()&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;if&amp;nbsp;(!&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;_sourceConfigured&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;&amp;amp;&amp;amp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;useTable&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;!==&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;false&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;)&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;_sourceConfigured&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;true&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;setSource&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;useTable&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-4&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;&amp;#039;configurations&amp;#039;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-5&#039;)&quot;&gt;CORE/Cake/Model/Model.php line 3053&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-5&#039;)&quot;&gt;Model-&gt;getDataSource()&lt;/a&gt; &lt;div id=&quot;file-excerpt-5&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;*&amp;nbsp;@return&amp;nbsp;array
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;*/
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;protected&amp;nbsp;function&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;_readDataSource&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$type&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$query&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;)&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$results&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;getDataSource&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;()-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;read&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$query&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;resetAssociations&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;();
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-5&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-6&#039;)&quot;&gt;CORE/Cake/Model/Model.php line 3025&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-6&#039;)&quot;&gt;Model-&gt;_readDataSource(string, array)&lt;/a&gt; &lt;div id=&quot;file-excerpt-6&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;return&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;null&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;return&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;_readDataSource&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$type&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$query&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-6&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;&amp;#039;first&amp;#039;
+array(
+	&amp;#039;conditions&amp;#039; =&amp;gt; null,
+	&amp;#039;fields&amp;#039; =&amp;gt; null,
+	&amp;#039;joins&amp;#039; =&amp;gt; array(),
+	&amp;#039;limit&amp;#039; =&amp;gt; (int) 1,
+	&amp;#039;offset&amp;#039; =&amp;gt; null,
+	&amp;#039;order&amp;#039; =&amp;gt; array(),
+	&amp;#039;page&amp;#039; =&amp;gt; (int) 1,
+	&amp;#039;group&amp;#039; =&amp;gt; null,
+	&amp;#039;callbacks&amp;#039; =&amp;gt; true
+)&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-7&#039;)&quot;&gt;APP/Controller/AppController.php line 53&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-7&#039;)&quot;&gt;Model-&gt;find(string)&lt;/a&gt; &lt;div id=&quot;file-excerpt-7&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;public&amp;nbsp;function&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;beforeFilter&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;()
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;loadModel&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;Configuration&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$sysSetting&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;Configuration&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;find&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;first&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;set&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;siteTitle&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;,&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$sysSetting&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;Configuration&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;][&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;meta_title&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;]);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-7&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;&amp;#039;first&amp;#039;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-8&#039;)&quot;&gt;CORE/Cake/Event/CakeEventManager.php line 244&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-8&#039;)&quot;&gt;AppController-&gt;beforeFilter(CakeEvent)&lt;/a&gt; &lt;div id=&quot;file-excerpt-8&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;if&amp;nbsp;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$listener&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;passParams&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;]&amp;nbsp;===&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;true&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;)&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$result&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;call_user_func_array&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$listener&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;callable&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;],&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$event&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;data&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;}&amp;nbsp;else&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$result&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;call_user_func&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$listener&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;callable&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;],&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$event&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-8&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;object(CakeEvent) {
+	data =&amp;gt; null
+	result =&amp;gt; null
+	[protected] _name =&amp;gt; &amp;#039;Controller.initialize&amp;#039;
+	[protected] _subject =&amp;gt; object(PagesController) {
+		uses =&amp;gt; array(
+			[maximum depth reached]
+		)
+		components =&amp;gt; array(
+			[maximum depth reached]
+		)
+		siteTimezone =&amp;gt; null
+		siteName =&amp;gt; null
+		siteEmail =&amp;gt; null
+		siteDomain =&amp;gt; null
+		userValue =&amp;gt; null
+		adminValue =&amp;gt; null
+		frontRegistration =&amp;gt; null
+		frontSlides =&amp;gt; null
+		frontExamPaid =&amp;gt; null
+		frontLeaderBoard =&amp;gt; null
+		name =&amp;gt; &amp;#039;Pages&amp;#039;
+		helpers =&amp;gt; array([maximum depth reached])
+		request =&amp;gt; object(CakeRequest) {}
+		response =&amp;gt; object(CakeResponse) {}
+		viewPath =&amp;gt; &amp;#039;Pages&amp;#039;
+		layoutPath =&amp;gt; null
+		viewVars =&amp;gt; array([maximum depth reached])
+		view =&amp;gt; &amp;#039;display&amp;#039;
+		layout =&amp;gt; &amp;#039;default&amp;#039;
+		autoRender =&amp;gt; true
+		autoLayout =&amp;gt; true
+		Components =&amp;gt; object(ComponentCollection) {}
+		viewClass =&amp;gt; &amp;#039;View&amp;#039;
+		View =&amp;gt; null
+		ext =&amp;gt; &amp;#039;.ctp&amp;#039;
+		plugin =&amp;gt; null
+		cacheAction =&amp;gt; false
+		passedArgs =&amp;gt; array(
+			[maximum depth reached]
+		)
+		scaffold =&amp;gt; false
+		methods =&amp;gt; array(
+			[maximum depth reached]
+		)
+		modelClass =&amp;gt; &amp;#039;Page&amp;#039;
+		modelKey =&amp;gt; &amp;#039;page&amp;#039;
+		validationErrors =&amp;gt; null
+		Session =&amp;gt; object(SessionComponent) {}
+		CustomFunction =&amp;gt; object(CustomfunctionComponent) {}
+		Configuration =&amp;gt; object(AppModel) {}
+		[protected] _responseClass =&amp;gt; &amp;#039;CakeResponse&amp;#039;
+		[protected] _mergeParent =&amp;gt; &amp;#039;AppController&amp;#039;
+		[protected] _eventManager =&amp;gt; object(CakeEventManager) {}
+	}
+	[protected] _stopped =&amp;gt; false
+}&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-9&#039;)&quot;&gt;CORE/Cake/Controller/Controller.php line 682&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-9&#039;)&quot;&gt;CakeEventManager-&gt;dispatch(CakeEvent)&lt;/a&gt; &lt;div id=&quot;file-excerpt-9&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;*&amp;nbsp;@&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;triggers&amp;nbsp;Controller&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;startup&amp;nbsp;$this
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;*/
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;public&amp;nbsp;function&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;startupProcess&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;()&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;getEventManager&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;()-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;dispatch&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(new&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;CakeEvent&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;Controller.initialize&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;));
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;getEventManager&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;()-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;dispatch&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(new&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;CakeEvent&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;Controller.startup&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;));
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-9&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;object(CakeEvent) {
+	data =&amp;gt; null
+	result =&amp;gt; null
+	[protected] _name =&amp;gt; &amp;#039;Controller.initialize&amp;#039;
+	[protected] _subject =&amp;gt; object(PagesController) {
+		uses =&amp;gt; array(
+			[maximum depth reached]
+		)
+		components =&amp;gt; array(
+			[maximum depth reached]
+		)
+		siteTimezone =&amp;gt; null
+		siteName =&amp;gt; null
+		siteEmail =&amp;gt; null
+		siteDomain =&amp;gt; null
+		userValue =&amp;gt; null
+		adminValue =&amp;gt; null
+		frontRegistration =&amp;gt; null
+		frontSlides =&amp;gt; null
+		frontExamPaid =&amp;gt; null
+		frontLeaderBoard =&amp;gt; null
+		name =&amp;gt; &amp;#039;Pages&amp;#039;
+		helpers =&amp;gt; array([maximum depth reached])
+		request =&amp;gt; object(CakeRequest) {}
+		response =&amp;gt; object(CakeResponse) {}
+		viewPath =&amp;gt; &amp;#039;Pages&amp;#039;
+		layoutPath =&amp;gt; null
+		viewVars =&amp;gt; array([maximum depth reached])
+		view =&amp;gt; &amp;#039;display&amp;#039;
+		layout =&amp;gt; &amp;#039;default&amp;#039;
+		autoRender =&amp;gt; true
+		autoLayout =&amp;gt; true
+		Components =&amp;gt; object(ComponentCollection) {}
+		viewClass =&amp;gt; &amp;#039;View&amp;#039;
+		View =&amp;gt; null
+		ext =&amp;gt; &amp;#039;.ctp&amp;#039;
+		plugin =&amp;gt; null
+		cacheAction =&amp;gt; false
+		passedArgs =&amp;gt; array(
+			[maximum depth reached]
+		)
+		scaffold =&amp;gt; false
+		methods =&amp;gt; array(
+			[maximum depth reached]
+		)
+		modelClass =&amp;gt; &amp;#039;Page&amp;#039;
+		modelKey =&amp;gt; &amp;#039;page&amp;#039;
+		validationErrors =&amp;gt; null
+		Session =&amp;gt; object(SessionComponent) {}
+		CustomFunction =&amp;gt; object(CustomfunctionComponent) {}
+		Configuration =&amp;gt; object(AppModel) {}
+		[protected] _responseClass =&amp;gt; &amp;#039;CakeResponse&amp;#039;
+		[protected] _mergeParent =&amp;gt; &amp;#039;AppController&amp;#039;
+		[protected] _eventManager =&amp;gt; object(CakeEventManager) {}
+	}
+	[protected] _stopped =&amp;gt; false
+}&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-10&#039;)&quot;&gt;CORE/Cake/Routing/Dispatcher.php line 189&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-10&#039;)&quot;&gt;Controller-&gt;startupProcess()&lt;/a&gt; &lt;div id=&quot;file-excerpt-10&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;*/
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;protected&amp;nbsp;function&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;_invoke&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;Controller&amp;nbsp;$controller&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;CakeRequest&amp;nbsp;$request&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;)&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$controller&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;constructClasses&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;();
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$controller&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;startupProcess&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;();
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-10&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-11&#039;)&quot;&gt;CORE/Cake/Routing/Dispatcher.php line 167&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-11&#039;)&quot;&gt;Dispatcher-&gt;_invoke(PagesController, CakeRequest)&lt;/a&gt; &lt;div id=&quot;file-excerpt-11&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;));
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$response&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;_invoke&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$controller&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$request&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;if&amp;nbsp;(isset(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$request&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;params&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;return&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;]))&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-11&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;object(PagesController) {
+	uses =&amp;gt; array(
+		(int) 0 =&amp;gt; &amp;#039;Configuration&amp;#039;
+	)
+	components =&amp;gt; array(
+		(int) 0 =&amp;gt; &amp;#039;Session&amp;#039;,
+		(int) 1 =&amp;gt; &amp;#039;CustomFunction&amp;#039;
+	)
+	siteTimezone =&amp;gt; null
+	siteName =&amp;gt; null
+	siteEmail =&amp;gt; null
+	siteDomain =&amp;gt; null
+	userValue =&amp;gt; null
+	adminValue =&amp;gt; null
+	frontRegistration =&amp;gt; null
+	frontSlides =&amp;gt; null
+	frontExamPaid =&amp;gt; null
+	frontLeaderBoard =&amp;gt; null
+	name =&amp;gt; &amp;#039;Pages&amp;#039;
+	helpers =&amp;gt; array()
+	request =&amp;gt; object(CakeRequest) {
+		params =&amp;gt; array(
+			[maximum depth reached]
+		)
+		data =&amp;gt; array([maximum depth reached])
+		query =&amp;gt; array([maximum depth reached])
+		url =&amp;gt; &amp;#039;&amp;#039;
+		base =&amp;gt; &amp;#039;&amp;#039;
+		webroot =&amp;gt; &amp;#039;/&amp;#039;
+		here =&amp;gt; &amp;#039;/&amp;#039;
+		[protected] _detectors =&amp;gt; array(
+			[maximum depth reached]
+		)
+		[protected] _input =&amp;gt; &amp;#039;&amp;#039;
+	}
+	response =&amp;gt; object(CakeResponse) {
+		[protected] _statusCodes =&amp;gt; array(
+			[maximum depth reached]
+		)
+		[protected] _mimeTypes =&amp;gt; array(
+			[maximum depth reached]
+		)
+		[protected] _protocol =&amp;gt; &amp;#039;HTTP/1.1&amp;#039;
+		[protected] _status =&amp;gt; (int) 200
+		[protected] _contentType =&amp;gt; &amp;#039;text/html&amp;#039;
+		[protected] _headers =&amp;gt; array([maximum depth reached])
+		[protected] _body =&amp;gt; null
+		[protected] _file =&amp;gt; null
+		[protected] _fileRange =&amp;gt; null
+		[protected] _charset =&amp;gt; &amp;#039;UTF-8&amp;#039;
+		[protected] _cacheDirectives =&amp;gt; array([maximum depth reached])
+		[protected] _cookies =&amp;gt; array([maximum depth reached])
+	}
+	viewPath =&amp;gt; &amp;#039;Pages&amp;#039;
+	layoutPath =&amp;gt; null
+	viewVars =&amp;gt; array()
+	view =&amp;gt; &amp;#039;display&amp;#039;
+	layout =&amp;gt; &amp;#039;default&amp;#039;
+	autoRender =&amp;gt; true
+	autoLayout =&amp;gt; true
+	Components =&amp;gt; object(ComponentCollection) {
+		defaultPriority =&amp;gt; (int) 10
+		[protected] _Controller =&amp;gt; object(PagesController) {}
+		[protected] _enabled =&amp;gt; array(
+			[maximum depth reached]
+		)
+		[protected] _loaded =&amp;gt; array(
+			[maximum depth reached]
+		)
+	}
+	viewClass =&amp;gt; &amp;#039;View&amp;#039;
+	View =&amp;gt; null
+	ext =&amp;gt; &amp;#039;.ctp&amp;#039;
+	plugin =&amp;gt; null
+	cacheAction =&amp;gt; false
+	passedArgs =&amp;gt; array(
+		(int) 0 =&amp;gt; &amp;#039;home&amp;#039;
+	)
+	scaffold =&amp;gt; false
+	methods =&amp;gt; array(
+		(int) 0 =&amp;gt; &amp;#039;display&amp;#039;,
+		(int) 1 =&amp;gt; &amp;#039;authenticate&amp;#039;
+	)
+	modelClass =&amp;gt; &amp;#039;Page&amp;#039;
+	modelKey =&amp;gt; &amp;#039;page&amp;#039;
+	validationErrors =&amp;gt; null
+	Session =&amp;gt; object(SessionComponent) {
+		settings =&amp;gt; array([maximum depth reached])
+		components =&amp;gt; array([maximum depth reached])
+		[protected] _Collection =&amp;gt; object(ComponentCollection) {}
+		[protected] _componentMap =&amp;gt; array([maximum depth reached])
+	}
+	CustomFunction =&amp;gt; object(CustomfunctionComponent) {
+		settings =&amp;gt; array([maximum depth reached])
+		components =&amp;gt; array([maximum depth reached])
+		[protected] _Collection =&amp;gt; object(ComponentCollection) {}
+		[protected] _componentMap =&amp;gt; array([maximum depth reached])
+	}
+	Configuration =&amp;gt; object(AppModel) {
+		useDbConfig =&amp;gt; &amp;#039;default&amp;#039;
+		useTable =&amp;gt; &amp;#039;configurations&amp;#039;
+		id =&amp;gt; false
+		data =&amp;gt; array([maximum depth reached])
+		schemaName =&amp;gt; null
+		table =&amp;gt; &amp;#039;configurations&amp;#039;
+		primaryKey =&amp;gt; &amp;#039;id&amp;#039;
+		validate =&amp;gt; array([maximum depth reached])
+		validationErrors =&amp;gt; array([maximum depth reached])
+		validationDomain =&amp;gt; null
+		plugin =&amp;gt; null
+		name =&amp;gt; &amp;#039;Configuration&amp;#039;
+		alias =&amp;gt; &amp;#039;Configuration&amp;#039;
+		tableToModel =&amp;gt; array(
+			[maximum depth reached]
+		)
+		cacheQueries =&amp;gt; false
+		belongsTo =&amp;gt; array([maximum depth reached])
+		hasOne =&amp;gt; array([maximum depth reached])
+		hasMany =&amp;gt; array([maximum depth reached])
+		hasAndBelongsToMany =&amp;gt; array([maximum depth reached])
+		actsAs =&amp;gt; null
+		Behaviors =&amp;gt; object(BehaviorCollection) {}
+		whitelist =&amp;gt; array([maximum depth reached])
+		cacheSources =&amp;gt; true
+		findQueryType =&amp;gt; &amp;#039;first&amp;#039;
+		recursive =&amp;gt; (int) 1
+		order =&amp;gt; null
+		virtualFields =&amp;gt; array([maximum depth reached])
+		__backAssociation =&amp;gt; array([maximum depth reached])
+		__backInnerAssociation =&amp;gt; array([maximum depth reached])
+		__backOriginalAssociation =&amp;gt; array([maximum depth reached])
+		__backContainableAssociation =&amp;gt; array([maximum depth reached])
+		__safeUpdateMode =&amp;gt; false
+		useConsistentAfterFind =&amp;gt; true
+		findMethods =&amp;gt; array(
+			[maximum depth reached]
+		)
+		[protected] _schema =&amp;gt; null
+		[protected] _associationKeys =&amp;gt; array(
+			[maximum depth reached]
+		)
+		[protected] _associations =&amp;gt; array(
+			[maximum depth reached]
+		)
+		[protected] _insertID =&amp;gt; null
+		[protected] _sourceConfigured =&amp;gt; true
+		[protected] _eventManager =&amp;gt; object(CakeEventManager) {}
+		[protected] _validator =&amp;gt; null
+	}
+	[protected] _responseClass =&amp;gt; &amp;#039;CakeResponse&amp;#039;
+	[protected] _mergeParent =&amp;gt; &amp;#039;AppController&amp;#039;
+	[protected] _eventManager =&amp;gt; object(CakeEventManager) {
+		[protected] _generalManager =&amp;gt; object(CakeEventManager) {}
+		[protected] _listeners =&amp;gt; array(
+			[maximum depth reached]
+		)
+		[protected] _isGlobal =&amp;gt; false
+	}
+}
+object(CakeRequest) {
+	params =&amp;gt; array(
+		&amp;#039;plugin&amp;#039; =&amp;gt; null,
+		&amp;#039;controller&amp;#039; =&amp;gt; &amp;#039;pages&amp;#039;,
+		&amp;#039;action&amp;#039; =&amp;gt; &amp;#039;display&amp;#039;,
+		&amp;#039;named&amp;#039; =&amp;gt; array(),
+		&amp;#039;pass&amp;#039; =&amp;gt; array(
+			(int) 0 =&amp;gt; &amp;#039;home&amp;#039;
+		),
+		&amp;#039;models&amp;#039; =&amp;gt; array(
+			&amp;#039;Configuration&amp;#039; =&amp;gt; array(
+				[maximum depth reached]
+			)
+		)
+	)
+	data =&amp;gt; array()
+	query =&amp;gt; array()
+	url =&amp;gt; &amp;#039;&amp;#039;
+	base =&amp;gt; &amp;#039;&amp;#039;
+	webroot =&amp;gt; &amp;#039;/&amp;#039;
+	here =&amp;gt; &amp;#039;/&amp;#039;
+	[protected] _detectors =&amp;gt; array(
+		&amp;#039;get&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;REQUEST_METHOD&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;GET&amp;#039;
+		),
+		&amp;#039;patch&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;REQUEST_METHOD&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;PATCH&amp;#039;
+		),
+		&amp;#039;post&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;REQUEST_METHOD&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;POST&amp;#039;
+		),
+		&amp;#039;put&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;REQUEST_METHOD&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;PUT&amp;#039;
+		),
+		&amp;#039;delete&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;REQUEST_METHOD&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;DELETE&amp;#039;
+		),
+		&amp;#039;head&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;REQUEST_METHOD&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;HEAD&amp;#039;
+		),
+		&amp;#039;options&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;REQUEST_METHOD&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;OPTIONS&amp;#039;
+		),
+		&amp;#039;ssl&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;HTTPS&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; (int) 1
+		),
+		&amp;#039;ajax&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;HTTP_X_REQUESTED_WITH&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;XMLHttpRequest&amp;#039;
+		),
+		&amp;#039;flash&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;HTTP_USER_AGENT&amp;#039;,
+			&amp;#039;pattern&amp;#039; =&amp;gt; &amp;#039;/^(Shockwave|Adobe) Flash/&amp;#039;
+		),
+		&amp;#039;mobile&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;HTTP_USER_AGENT&amp;#039;,
+			&amp;#039;options&amp;#039; =&amp;gt; array(
+				[maximum depth reached]
+			)
+		),
+		&amp;#039;requested&amp;#039; =&amp;gt; array(
+			&amp;#039;param&amp;#039; =&amp;gt; &amp;#039;requested&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; (int) 1
+		),
+		&amp;#039;json&amp;#039; =&amp;gt; array(
+			&amp;#039;accept&amp;#039; =&amp;gt; array(
+				[maximum depth reached]
+			),
+			&amp;#039;param&amp;#039; =&amp;gt; &amp;#039;ext&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;json&amp;#039;
+		),
+		&amp;#039;xml&amp;#039; =&amp;gt; array(
+			&amp;#039;accept&amp;#039; =&amp;gt; array(
+				[maximum depth reached]
+			),
+			&amp;#039;param&amp;#039; =&amp;gt; &amp;#039;ext&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;xml&amp;#039;
+		)
+	)
+	[protected] _input =&amp;gt; &amp;#039;&amp;#039;
+}&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-12&#039;)&quot;&gt;APP/webroot/index.php line 110&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-12&#039;)&quot;&gt;Dispatcher-&gt;dispatch(CakeRequest, CakeResponse)&lt;/a&gt; &lt;div id=&quot;file-excerpt-12&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$Dispatcher&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;=&amp;nbsp;new&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;Dispatcher&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;();
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$Dispatcher&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;dispatch&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;new&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;CakeRequest&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(),
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;new&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;CakeResponse&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;()
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-12&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;object(CakeRequest) {
+	params =&amp;gt; array(
+		&amp;#039;plugin&amp;#039; =&amp;gt; null,
+		&amp;#039;controller&amp;#039; =&amp;gt; &amp;#039;pages&amp;#039;,
+		&amp;#039;action&amp;#039; =&amp;gt; &amp;#039;display&amp;#039;,
+		&amp;#039;named&amp;#039; =&amp;gt; array(),
+		&amp;#039;pass&amp;#039; =&amp;gt; array(
+			(int) 0 =&amp;gt; &amp;#039;home&amp;#039;
+		),
+		&amp;#039;models&amp;#039; =&amp;gt; array(
+			&amp;#039;Configuration&amp;#039; =&amp;gt; array(
+				[maximum depth reached]
+			)
+		)
+	)
+	data =&amp;gt; array()
+	query =&amp;gt; array()
+	url =&amp;gt; &amp;#039;&amp;#039;
+	base =&amp;gt; &amp;#039;&amp;#039;
+	webroot =&amp;gt; &amp;#039;/&amp;#039;
+	here =&amp;gt; &amp;#039;/&amp;#039;
+	[protected] _detectors =&amp;gt; array(
+		&amp;#039;get&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;REQUEST_METHOD&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;GET&amp;#039;
+		),
+		&amp;#039;patch&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;REQUEST_METHOD&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;PATCH&amp;#039;
+		),
+		&amp;#039;post&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;REQUEST_METHOD&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;POST&amp;#039;
+		),
+		&amp;#039;put&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;REQUEST_METHOD&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;PUT&amp;#039;
+		),
+		&amp;#039;delete&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;REQUEST_METHOD&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;DELETE&amp;#039;
+		),
+		&amp;#039;head&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;REQUEST_METHOD&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;HEAD&amp;#039;
+		),
+		&amp;#039;options&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;REQUEST_METHOD&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;OPTIONS&amp;#039;
+		),
+		&amp;#039;ssl&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;HTTPS&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; (int) 1
+		),
+		&amp;#039;ajax&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;HTTP_X_REQUESTED_WITH&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;XMLHttpRequest&amp;#039;
+		),
+		&amp;#039;flash&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;HTTP_USER_AGENT&amp;#039;,
+			&amp;#039;pattern&amp;#039; =&amp;gt; &amp;#039;/^(Shockwave|Adobe) Flash/&amp;#039;
+		),
+		&amp;#039;mobile&amp;#039; =&amp;gt; array(
+			&amp;#039;env&amp;#039; =&amp;gt; &amp;#039;HTTP_USER_AGENT&amp;#039;,
+			&amp;#039;options&amp;#039; =&amp;gt; array(
+				[maximum depth reached]
+			)
+		),
+		&amp;#039;requested&amp;#039; =&amp;gt; array(
+			&amp;#039;param&amp;#039; =&amp;gt; &amp;#039;requested&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; (int) 1
+		),
+		&amp;#039;json&amp;#039; =&amp;gt; array(
+			&amp;#039;accept&amp;#039; =&amp;gt; array(
+				[maximum depth reached]
+			),
+			&amp;#039;param&amp;#039; =&amp;gt; &amp;#039;ext&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;json&amp;#039;
+		),
+		&amp;#039;xml&amp;#039; =&amp;gt; array(
+			&amp;#039;accept&amp;#039; =&amp;gt; array(
+				[maximum depth reached]
+			),
+			&amp;#039;param&amp;#039; =&amp;gt; &amp;#039;ext&amp;#039;,
+			&amp;#039;value&amp;#039; =&amp;gt; &amp;#039;xml&amp;#039;
+		)
+	)
+	[protected] _input =&amp;gt; &amp;#039;&amp;#039;
+}
+object(CakeResponse) {
+	[protected] _statusCodes =&amp;gt; array(
+		(int) 100 =&amp;gt; &amp;#039;Continue&amp;#039;,
+		(int) 101 =&amp;gt; &amp;#039;Switching Protocols&amp;#039;,
+		(int) 200 =&amp;gt; &amp;#039;OK&amp;#039;,
+		(int) 201 =&amp;gt; &amp;#039;Created&amp;#039;,
+		(int) 202 =&amp;gt; &amp;#039;Accepted&amp;#039;,
+		(int) 203 =&amp;gt; &amp;#039;Non-Authoritative Information&amp;#039;,
+		(int) 204 =&amp;gt; &amp;#039;No Content&amp;#039;,
+		(int) 205 =&amp;gt; &amp;#039;Reset Content&amp;#039;,
+		(int) 206 =&amp;gt; &amp;#039;Partial Content&amp;#039;,
+		(int) 300 =&amp;gt; &amp;#039;Multiple Choices&amp;#039;,
+		(int) 301 =&amp;gt; &amp;#039;Moved Permanently&amp;#039;,
+		(int) 302 =&amp;gt; &amp;#039;Found&amp;#039;,
+		(int) 303 =&amp;gt; &amp;#039;See Other&amp;#039;,
+		(int) 304 =&amp;gt; &amp;#039;Not Modified&amp;#039;,
+		(int) 305 =&amp;gt; &amp;#039;Use Proxy&amp;#039;,
+		(int) 307 =&amp;gt; &amp;#039;Temporary Redirect&amp;#039;,
+		(int) 400 =&amp;gt; &amp;#039;Bad Request&amp;#039;,
+		(int) 401 =&amp;gt; &amp;#039;Unauthorized&amp;#039;,
+		(int) 402 =&amp;gt; &amp;#039;Payment Required&amp;#039;,
+		(int) 403 =&amp;gt; &amp;#039;Forbidden&amp;#039;,
+		(int) 404 =&amp;gt; &amp;#039;Not Found&amp;#039;,
+		(int) 405 =&amp;gt; &amp;#039;Method Not Allowed&amp;#039;,
+		(int) 406 =&amp;gt; &amp;#039;Not Acceptable&amp;#039;,
+		(int) 407 =&amp;gt; &amp;#039;Proxy Authentication Required&amp;#039;,
+		(int) 408 =&amp;gt; &amp;#039;Request Time-out&amp;#039;,
+		(int) 409 =&amp;gt; &amp;#039;Conflict&amp;#039;,
+		(int) 410 =&amp;gt; &amp;#039;Gone&amp;#039;,
+		(int) 411 =&amp;gt; &amp;#039;Length Required&amp;#039;,
+		(int) 412 =&amp;gt; &amp;#039;Precondition Failed&amp;#039;,
+		(int) 413 =&amp;gt; &amp;#039;Request Entity Too Large&amp;#039;,
+		(int) 414 =&amp;gt; &amp;#039;Request-URI Too Large&amp;#039;,
+		(int) 415 =&amp;gt; &amp;#039;Unsupported Media Type&amp;#039;,
+		(int) 416 =&amp;gt; &amp;#039;Requested range not satisfiable&amp;#039;,
+		(int) 417 =&amp;gt; &amp;#039;Expectation Failed&amp;#039;,
+		(int) 429 =&amp;gt; &amp;#039;Too Many Requests&amp;#039;,
+		(int) 500 =&amp;gt; &amp;#039;Internal Server Error&amp;#039;,
+		(int) 501 =&amp;gt; &amp;#039;Not Implemented&amp;#039;,
+		(int) 502 =&amp;gt; &amp;#039;Bad Gateway&amp;#039;,
+		(int) 503 =&amp;gt; &amp;#039;Service Unavailable&amp;#039;,
+		(int) 504 =&amp;gt; &amp;#039;Gateway Time-out&amp;#039;,
+		(int) 505 =&amp;gt; &amp;#039;Unsupported Version&amp;#039;
+	)
+	[protected] _mimeTypes =&amp;gt; array(
+		&amp;#039;html&amp;#039; =&amp;gt; array(
+			(int) 0 =&amp;gt; &amp;#039;text/html&amp;#039;,
+			(int) 1 =&amp;gt; &amp;#039;*/*&amp;#039;
+		),
+		&amp;#039;json&amp;#039; =&amp;gt; &amp;#039;application/json&amp;#039;,
+		&amp;#039;xml&amp;#039; =&amp;gt; array(
+			(int) 0 =&amp;gt; &amp;#039;application/xml&amp;#039;,
+			(int) 1 =&amp;gt; &amp;#039;text/xml&amp;#039;
+		),
+		&amp;#039;rss&amp;#039; =&amp;gt; &amp;#039;application/rss+xml&amp;#039;,
+		&amp;#039;ai&amp;#039; =&amp;gt; &amp;#039;application/postscript&amp;#039;,
+		&amp;#039;bcpio&amp;#039; =&amp;gt; &amp;#039;application/x-bcpio&amp;#039;,
+		&amp;#039;bin&amp;#039; =&amp;gt; &amp;#039;application/octet-stream&amp;#039;,
+		&amp;#039;ccad&amp;#039; =&amp;gt; &amp;#039;application/clariscad&amp;#039;,
+		&amp;#039;cdf&amp;#039; =&amp;gt; &amp;#039;application/x-netcdf&amp;#039;,
+		&amp;#039;class&amp;#039; =&amp;gt; &amp;#039;application/octet-stream&amp;#039;,
+		&amp;#039;cpio&amp;#039; =&amp;gt; &amp;#039;application/x-cpio&amp;#039;,
+		&amp;#039;cpt&amp;#039; =&amp;gt; &amp;#039;application/mac-compactpro&amp;#039;,
+		&amp;#039;csh&amp;#039; =&amp;gt; &amp;#039;application/x-csh&amp;#039;,
+		&amp;#039;csv&amp;#039; =&amp;gt; array(
+			(int) 0 =&amp;gt; &amp;#039;text/csv&amp;#039;,
+			(int) 1 =&amp;gt; &amp;#039;application/vnd.ms-excel&amp;#039;
+		),
+		&amp;#039;dcr&amp;#039; =&amp;gt; &amp;#039;application/x-director&amp;#039;,
+		&amp;#039;dir&amp;#039; =&amp;gt; &amp;#039;application/x-director&amp;#039;,
+		&amp;#039;dms&amp;#039; =&amp;gt; &amp;#039;application/octet-stream&amp;#039;,
+		&amp;#039;doc&amp;#039; =&amp;gt; &amp;#039;application/msword&amp;#039;,
+		&amp;#039;docx&amp;#039; =&amp;gt; &amp;#039;application/vnd.openxmlformats-officedocument.wordprocessingml.document&amp;#039;,
+		&amp;#039;drw&amp;#039; =&amp;gt; &amp;#039;application/drafting&amp;#039;,
+		&amp;#039;dvi&amp;#039; =&amp;gt; &amp;#039;application/x-dvi&amp;#039;,
+		&amp;#039;dwg&amp;#039; =&amp;gt; &amp;#039;application/acad&amp;#039;,
+		&amp;#039;dxf&amp;#039; =&amp;gt; &amp;#039;application/dxf&amp;#039;,
+		&amp;#039;dxr&amp;#039; =&amp;gt; &amp;#039;application/x-director&amp;#039;,
+		&amp;#039;eot&amp;#039; =&amp;gt; &amp;#039;application/vnd.ms-fontobject&amp;#039;,
+		&amp;#039;eps&amp;#039; =&amp;gt; &amp;#039;application/postscript&amp;#039;,
+		&amp;#039;exe&amp;#039; =&amp;gt; &amp;#039;application/octet-stream&amp;#039;,
+		&amp;#039;ez&amp;#039; =&amp;gt; &amp;#039;application/andrew-inset&amp;#039;,
+		&amp;#039;flv&amp;#039; =&amp;gt; &amp;#039;video/x-flv&amp;#039;,
+		&amp;#039;gtar&amp;#039; =&amp;gt; &amp;#039;application/x-gtar&amp;#039;,
+		&amp;#039;gz&amp;#039; =&amp;gt; &amp;#039;application/x-gzip&amp;#039;,
+		&amp;#039;bz2&amp;#039; =&amp;gt; &amp;#039;application/x-bzip&amp;#039;,
+		&amp;#039;7z&amp;#039; =&amp;gt; &amp;#039;application/x-7z-compressed&amp;#039;,
+		&amp;#039;hdf&amp;#039; =&amp;gt; &amp;#039;application/x-hdf&amp;#039;,
+		&amp;#039;hqx&amp;#039; =&amp;gt; &amp;#039;application/mac-binhex40&amp;#039;,
+		&amp;#039;ico&amp;#039; =&amp;gt; &amp;#039;image/x-icon&amp;#039;,
+		&amp;#039;ips&amp;#039; =&amp;gt; &amp;#039;application/x-ipscript&amp;#039;,
+		&amp;#039;ipx&amp;#039; =&amp;gt; &amp;#039;application/x-ipix&amp;#039;,
+		&amp;#039;js&amp;#039; =&amp;gt; &amp;#039;application/javascript&amp;#039;,
+		&amp;#039;jsonapi&amp;#039; =&amp;gt; &amp;#039;application/vnd.api+json&amp;#039;,
+		&amp;#039;latex&amp;#039; =&amp;gt; &amp;#039;application/x-latex&amp;#039;,
+		&amp;#039;lha&amp;#039; =&amp;gt; &amp;#039;application/octet-stream&amp;#039;,
+		&amp;#039;lsp&amp;#039; =&amp;gt; &amp;#039;application/x-lisp&amp;#039;,
+		&amp;#039;lzh&amp;#039; =&amp;gt; &amp;#039;application/octet-stream&amp;#039;,
+		&amp;#039;man&amp;#039; =&amp;gt; &amp;#039;application/x-troff-man&amp;#039;,
+		&amp;#039;me&amp;#039; =&amp;gt; &amp;#039;application/x-troff-me&amp;#039;,
+		&amp;#039;mif&amp;#039; =&amp;gt; &amp;#039;application/vnd.mif&amp;#039;,
+		&amp;#039;ms&amp;#039; =&amp;gt; &amp;#039;application/x-troff-ms&amp;#039;,
+		&amp;#039;nc&amp;#039; =&amp;gt; &amp;#039;application/x-netcdf&amp;#039;,
+		&amp;#039;oda&amp;#039; =&amp;gt; &amp;#039;application/oda&amp;#039;,
+		&amp;#039;otf&amp;#039; =&amp;gt; &amp;#039;font/otf&amp;#039;,
+		&amp;#039;pdf&amp;#039; =&amp;gt; &amp;#039;application/pdf&amp;#039;,
+		&amp;#039;pgn&amp;#039; =&amp;gt; &amp;#039;application/x-chess-pgn&amp;#039;,
+		&amp;#039;pot&amp;#039; =&amp;gt; &amp;#039;application/vnd.ms-powerpoint&amp;#039;,
+		&amp;#039;pps&amp;#039; =&amp;gt; &amp;#039;application/vnd.ms-powerpoint&amp;#039;,
+		&amp;#039;ppt&amp;#039; =&amp;gt; &amp;#039;application/vnd.ms-powerpoint&amp;#039;,
+		&amp;#039;pptx&amp;#039; =&amp;gt; &amp;#039;application/vnd.openxmlformats-officedocument.presentationml.presentation&amp;#039;,
+		&amp;#039;ppz&amp;#039; =&amp;gt; &amp;#039;application/vnd.ms-powerpoint&amp;#039;,
+		&amp;#039;pre&amp;#039; =&amp;gt; &amp;#039;application/x-freelance&amp;#039;,
+		&amp;#039;prt&amp;#039; =&amp;gt; &amp;#039;application/pro_eng&amp;#039;,
+		&amp;#039;ps&amp;#039; =&amp;gt; &amp;#039;application/postscript&amp;#039;,
+		&amp;#039;roff&amp;#039; =&amp;gt; &amp;#039;application/x-troff&amp;#039;,
+		&amp;#039;scm&amp;#039; =&amp;gt; &amp;#039;application/x-lotusscreencam&amp;#039;,
+		&amp;#039;set&amp;#039; =&amp;gt; &amp;#039;application/set&amp;#039;,
+		&amp;#039;sh&amp;#039; =&amp;gt; &amp;#039;application/x-sh&amp;#039;,
+		&amp;#039;shar&amp;#039; =&amp;gt; &amp;#039;application/x-shar&amp;#039;,
+		&amp;#039;sit&amp;#039; =&amp;gt; &amp;#039;application/x-stuffit&amp;#039;,
+		&amp;#039;skd&amp;#039; =&amp;gt; &amp;#039;application/x-koan&amp;#039;,
+		&amp;#039;skm&amp;#039; =&amp;gt; &amp;#039;application/x-koan&amp;#039;,
+		&amp;#039;skp&amp;#039; =&amp;gt; &amp;#039;application/x-koan&amp;#039;,
+		&amp;#039;skt&amp;#039; =&amp;gt; &amp;#039;application/x-koan&amp;#039;,
+		&amp;#039;smi&amp;#039; =&amp;gt; &amp;#039;application/smil&amp;#039;,
+		&amp;#039;smil&amp;#039; =&amp;gt; &amp;#039;application/smil&amp;#039;,
+		&amp;#039;sol&amp;#039; =&amp;gt; &amp;#039;application/solids&amp;#039;,
+		&amp;#039;spl&amp;#039; =&amp;gt; &amp;#039;application/x-futuresplash&amp;#039;,
+		&amp;#039;src&amp;#039; =&amp;gt; &amp;#039;application/x-wais-source&amp;#039;,
+		&amp;#039;step&amp;#039; =&amp;gt; &amp;#039;application/STEP&amp;#039;,
+		&amp;#039;stl&amp;#039; =&amp;gt; &amp;#039;application/SLA&amp;#039;,
+		&amp;#039;stp&amp;#039; =&amp;gt; &amp;#039;application/STEP&amp;#039;,
+		&amp;#039;sv4cpio&amp;#039; =&amp;gt; &amp;#039;application/x-sv4cpio&amp;#039;,
+		&amp;#039;sv4crc&amp;#039; =&amp;gt; &amp;#039;application/x-sv4crc&amp;#039;,
+		&amp;#039;svg&amp;#039; =&amp;gt; &amp;#039;image/svg+xml&amp;#039;,
+		&amp;#039;svgz&amp;#039; =&amp;gt; &amp;#039;image/svg+xml&amp;#039;,
+		&amp;#039;swf&amp;#039; =&amp;gt; &amp;#039;application/x-shockwave-flash&amp;#039;,
+		&amp;#039;t&amp;#039; =&amp;gt; &amp;#039;application/x-troff&amp;#039;,
+		&amp;#039;tar&amp;#039; =&amp;gt; &amp;#039;application/x-tar&amp;#039;,
+		&amp;#039;tcl&amp;#039; =&amp;gt; &amp;#039;application/x-tcl&amp;#039;,
+		&amp;#039;tex&amp;#039; =&amp;gt; &amp;#039;application/x-tex&amp;#039;,
+		&amp;#039;texi&amp;#039; =&amp;gt; &amp;#039;application/x-texinfo&amp;#039;,
+		&amp;#039;texinfo&amp;#039; =&amp;gt; &amp;#039;application/x-texinfo&amp;#039;,
+		&amp;#039;tr&amp;#039; =&amp;gt; &amp;#039;application/x-troff&amp;#039;,
+		&amp;#039;tsp&amp;#039; =&amp;gt; &amp;#039;application/dsptype&amp;#039;,
+		&amp;#039;ttc&amp;#039; =&amp;gt; &amp;#039;font/ttf&amp;#039;,
+		&amp;#039;ttf&amp;#039; =&amp;gt; &amp;#039;font/ttf&amp;#039;,
+		&amp;#039;unv&amp;#039; =&amp;gt; &amp;#039;application/i-deas&amp;#039;,
+		&amp;#039;ustar&amp;#039; =&amp;gt; &amp;#039;application/x-ustar&amp;#039;,
+		&amp;#039;vcd&amp;#039; =&amp;gt; &amp;#039;application/x-cdlink&amp;#039;,
+		&amp;#039;vda&amp;#039; =&amp;gt; &amp;#039;application/vda&amp;#039;,
+		&amp;#039;xlc&amp;#039; =&amp;gt; &amp;#039;application/vnd.ms-excel&amp;#039;,
+		&amp;#039;xll&amp;#039; =&amp;gt; &amp;#039;application/vnd.ms-excel&amp;#039;,
+		&amp;#039;xlm&amp;#039; =&amp;gt; &amp;#039;application/vnd.ms-excel&amp;#039;,
+		&amp;#039;xls&amp;#039; =&amp;gt; &amp;#039;application/vnd.ms-excel&amp;#039;,
+		&amp;#039;xlsx&amp;#039; =&amp;gt; &amp;#039;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet&amp;#039;,
+		&amp;#039;xlw&amp;#039; =&amp;gt; &amp;#039;application/vnd.ms-excel&amp;#039;,
+		&amp;#039;zip&amp;#039; =&amp;gt; &amp;#039;application/zip&amp;#039;,
+		&amp;#039;aif&amp;#039; =&amp;gt; &amp;#039;audio/x-aiff&amp;#039;,
+		&amp;#039;aifc&amp;#039; =&amp;gt; &amp;#039;audio/x-aiff&amp;#039;,
+		&amp;#039;aiff&amp;#039; =&amp;gt; &amp;#039;audio/x-aiff&amp;#039;,
+		&amp;#039;au&amp;#039; =&amp;gt; &amp;#039;audio/basic&amp;#039;,
+		&amp;#039;kar&amp;#039; =&amp;gt; &amp;#039;audio/midi&amp;#039;,
+		&amp;#039;mid&amp;#039; =&amp;gt; &amp;#039;audio/midi&amp;#039;,
+		&amp;#039;midi&amp;#039; =&amp;gt; &amp;#039;audio/midi&amp;#039;,
+		&amp;#039;mp2&amp;#039; =&amp;gt; &amp;#039;audio/mpeg&amp;#039;,
+		&amp;#039;mp3&amp;#039; =&amp;gt; &amp;#039;audio/mpeg&amp;#039;,
+		&amp;#039;mpga&amp;#039; =&amp;gt; &amp;#039;audio/mpeg&amp;#039;,
+		&amp;#039;ogg&amp;#039; =&amp;gt; &amp;#039;audio/ogg&amp;#039;,
+		&amp;#039;oga&amp;#039; =&amp;gt; &amp;#039;audio/ogg&amp;#039;,
+		&amp;#039;spx&amp;#039; =&amp;gt; &amp;#039;audio/ogg&amp;#039;,
+		&amp;#039;ra&amp;#039; =&amp;gt; &amp;#039;audio/x-realaudio&amp;#039;,
+		&amp;#039;ram&amp;#039; =&amp;gt; &amp;#039;audio/x-pn-realaudio&amp;#039;,
+		&amp;#039;rm&amp;#039; =&amp;gt; &amp;#039;audio/x-pn-realaudio&amp;#039;,
+		&amp;#039;rpm&amp;#039; =&amp;gt; &amp;#039;audio/x-pn-realaudio-plugin&amp;#039;,
+		&amp;#039;snd&amp;#039; =&amp;gt; &amp;#039;audio/basic&amp;#039;,
+		&amp;#039;tsi&amp;#039; =&amp;gt; &amp;#039;audio/TSP-audio&amp;#039;,
+		&amp;#039;wav&amp;#039; =&amp;gt; &amp;#039;audio/x-wav&amp;#039;,
+		&amp;#039;aac&amp;#039; =&amp;gt; &amp;#039;audio/aac&amp;#039;,
+		&amp;#039;asc&amp;#039; =&amp;gt; &amp;#039;text/plain&amp;#039;,
+		&amp;#039;c&amp;#039; =&amp;gt; &amp;#039;text/plain&amp;#039;,
+		&amp;#039;cc&amp;#039; =&amp;gt; &amp;#039;text/plain&amp;#039;,
+		&amp;#039;css&amp;#039; =&amp;gt; &amp;#039;text/css&amp;#039;,
+		&amp;#039;etx&amp;#039; =&amp;gt; &amp;#039;text/x-setext&amp;#039;,
+		&amp;#039;f&amp;#039; =&amp;gt; &amp;#039;text/plain&amp;#039;,
+		&amp;#039;f90&amp;#039; =&amp;gt; &amp;#039;text/plain&amp;#039;,
+		&amp;#039;h&amp;#039; =&amp;gt; &amp;#039;text/plain&amp;#039;,
+		&amp;#039;hh&amp;#039; =&amp;gt; &amp;#039;text/plain&amp;#039;,
+		&amp;#039;htm&amp;#039; =&amp;gt; array(
+			(int) 0 =&amp;gt; &amp;#039;text/html&amp;#039;,
+			(int) 1 =&amp;gt; &amp;#039;*/*&amp;#039;
+		),
+		&amp;#039;ics&amp;#039; =&amp;gt; &amp;#039;text/calendar&amp;#039;,
+		&amp;#039;m&amp;#039; =&amp;gt; &amp;#039;text/plain&amp;#039;,
+		&amp;#039;rtf&amp;#039; =&amp;gt; &amp;#039;text/rtf&amp;#039;,
+		&amp;#039;rtx&amp;#039; =&amp;gt; &amp;#039;text/richtext&amp;#039;,
+		&amp;#039;sgm&amp;#039; =&amp;gt; &amp;#039;text/sgml&amp;#039;,
+		&amp;#039;sgml&amp;#039; =&amp;gt; &amp;#039;text/sgml&amp;#039;,
+		&amp;#039;tsv&amp;#039; =&amp;gt; &amp;#039;text/tab-separated-values&amp;#039;,
+		&amp;#039;tpl&amp;#039; =&amp;gt; &amp;#039;text/template&amp;#039;,
+		&amp;#039;txt&amp;#039; =&amp;gt; &amp;#039;text/plain&amp;#039;,
+		&amp;#039;text&amp;#039; =&amp;gt; &amp;#039;text/plain&amp;#039;,
+		&amp;#039;avi&amp;#039; =&amp;gt; &amp;#039;video/x-msvideo&amp;#039;,
+		&amp;#039;fli&amp;#039; =&amp;gt; &amp;#039;video/x-fli&amp;#039;,
+		&amp;#039;mov&amp;#039; =&amp;gt; &amp;#039;video/quicktime&amp;#039;,
+		&amp;#039;movie&amp;#039; =&amp;gt; &amp;#039;video/x-sgi-movie&amp;#039;,
+		&amp;#039;mpe&amp;#039; =&amp;gt; &amp;#039;video/mpeg&amp;#039;,
+		&amp;#039;mpeg&amp;#039; =&amp;gt; &amp;#039;video/mpeg&amp;#039;,
+		&amp;#039;mpg&amp;#039; =&amp;gt; &amp;#039;video/mpeg&amp;#039;,
+		&amp;#039;qt&amp;#039; =&amp;gt; &amp;#039;video/quicktime&amp;#039;,
+		&amp;#039;viv&amp;#039; =&amp;gt; &amp;#039;video/vnd.vivo&amp;#039;,
+		&amp;#039;vivo&amp;#039; =&amp;gt; &amp;#039;video/vnd.vivo&amp;#039;,
+		&amp;#039;ogv&amp;#039; =&amp;gt; &amp;#039;video/ogg&amp;#039;,
+		&amp;#039;webm&amp;#039; =&amp;gt; &amp;#039;video/webm&amp;#039;,
+		&amp;#039;mp4&amp;#039; =&amp;gt; &amp;#039;video/mp4&amp;#039;,
+		&amp;#039;m4v&amp;#039; =&amp;gt; &amp;#039;video/mp4&amp;#039;,
+		&amp;#039;f4v&amp;#039; =&amp;gt; &amp;#039;video/mp4&amp;#039;,
+		&amp;#039;f4p&amp;#039; =&amp;gt; &amp;#039;video/mp4&amp;#039;,
+		&amp;#039;m4a&amp;#039; =&amp;gt; &amp;#039;audio/mp4&amp;#039;,
+		&amp;#039;f4a&amp;#039; =&amp;gt; &amp;#039;audio/mp4&amp;#039;,
+		&amp;#039;f4b&amp;#039; =&amp;gt; &amp;#039;audio/mp4&amp;#039;,
+		&amp;#039;gif&amp;#039; =&amp;gt; &amp;#039;image/gif&amp;#039;,
+		&amp;#039;ief&amp;#039; =&amp;gt; &amp;#039;image/ief&amp;#039;,
+		&amp;#039;jpg&amp;#039; =&amp;gt; &amp;#039;image/jpeg&amp;#039;,
+		&amp;#039;jpeg&amp;#039; =&amp;gt; &amp;#039;image/jpeg&amp;#039;,
+		&amp;#039;jpe&amp;#039; =&amp;gt; &amp;#039;image/jpeg&amp;#039;,
+		&amp;#039;pbm&amp;#039; =&amp;gt; &amp;#039;image/x-portable-bitmap&amp;#039;,
+		&amp;#039;pgm&amp;#039; =&amp;gt; &amp;#039;image/x-portable-graymap&amp;#039;,
+		&amp;#039;png&amp;#039; =&amp;gt; &amp;#039;image/png&amp;#039;,
+		&amp;#039;pnm&amp;#039; =&amp;gt; &amp;#039;image/x-portable-anymap&amp;#039;,
+		&amp;#039;ppm&amp;#039; =&amp;gt; &amp;#039;image/x-portable-pixmap&amp;#039;,
+		&amp;#039;ras&amp;#039; =&amp;gt; &amp;#039;image/cmu-raster&amp;#039;,
+		&amp;#039;rgb&amp;#039; =&amp;gt; &amp;#039;image/x-rgb&amp;#039;,
+		&amp;#039;tif&amp;#039; =&amp;gt; &amp;#039;image/tiff&amp;#039;,
+		&amp;#039;tiff&amp;#039; =&amp;gt; &amp;#039;image/tiff&amp;#039;,
+		&amp;#039;xbm&amp;#039; =&amp;gt; &amp;#039;image/x-xbitmap&amp;#039;,
+		&amp;#039;xpm&amp;#039; =&amp;gt; &amp;#039;image/x-xpixmap&amp;#039;,
+		&amp;#039;xwd&amp;#039; =&amp;gt; &amp;#039;image/x-xwindowdump&amp;#039;,
+		&amp;#039;psd&amp;#039; =&amp;gt; array(
+			(int) 0 =&amp;gt; &amp;#039;application/photoshop&amp;#039;,
+			(int) 1 =&amp;gt; &amp;#039;application/psd&amp;#039;,
+			(int) 2 =&amp;gt; &amp;#039;image/psd&amp;#039;,
+			(int) 3 =&amp;gt; &amp;#039;image/x-photoshop&amp;#039;,
+			(int) 4 =&amp;gt; &amp;#039;image/photoshop&amp;#039;,
+			(int) 5 =&amp;gt; &amp;#039;zz-application/zz-winassoc-psd&amp;#039;
+		),
+		&amp;#039;ice&amp;#039; =&amp;gt; &amp;#039;x-conference/x-cooltalk&amp;#039;,
+		&amp;#039;iges&amp;#039; =&amp;gt; &amp;#039;model/iges&amp;#039;,
+		&amp;#039;igs&amp;#039; =&amp;gt; &amp;#039;model/iges&amp;#039;,
+		&amp;#039;mesh&amp;#039; =&amp;gt; &amp;#039;model/mesh&amp;#039;,
+		&amp;#039;msh&amp;#039; =&amp;gt; &amp;#039;model/mesh&amp;#039;,
+		&amp;#039;silo&amp;#039; =&amp;gt; &amp;#039;model/mesh&amp;#039;,
+		&amp;#039;vrml&amp;#039; =&amp;gt; &amp;#039;model/vrml&amp;#039;,
+		&amp;#039;wrl&amp;#039; =&amp;gt; &amp;#039;model/vrml&amp;#039;,
+		&amp;#039;mime&amp;#039; =&amp;gt; &amp;#039;www/mime&amp;#039;,
+		&amp;#039;pdb&amp;#039; =&amp;gt; &amp;#039;chemical/x-pdb&amp;#039;,
+		&amp;#039;xyz&amp;#039; =&amp;gt; &amp;#039;chemical/x-pdb&amp;#039;,
+		&amp;#039;javascript&amp;#039; =&amp;gt; &amp;#039;application/javascript&amp;#039;,
+		&amp;#039;form&amp;#039; =&amp;gt; &amp;#039;application/x-www-form-urlencoded&amp;#039;,
+		&amp;#039;file&amp;#039; =&amp;gt; &amp;#039;multipart/form-data&amp;#039;,
+		&amp;#039;xhtml&amp;#039; =&amp;gt; array(
+			(int) 0 =&amp;gt; &amp;#039;application/xhtml+xml&amp;#039;,
+			(int) 1 =&amp;gt; &amp;#039;application/xhtml&amp;#039;,
+			(int) 2 =&amp;gt; &amp;#039;text/xhtml&amp;#039;
+		),
+		&amp;#039;xhtml-mobile&amp;#039; =&amp;gt; &amp;#039;application/vnd.wap.xhtml+xml&amp;#039;,
+		&amp;#039;atom&amp;#039; =&amp;gt; &amp;#039;application/atom+xml&amp;#039;,
+		&amp;#039;amf&amp;#039; =&amp;gt; &amp;#039;application/x-amf&amp;#039;,
+		&amp;#039;wap&amp;#039; =&amp;gt; array(
+			(int) 0 =&amp;gt; &amp;#039;text/vnd.wap.wml&amp;#039;,
+			(int) 1 =&amp;gt; &amp;#039;text/vnd.wap.wmlscript&amp;#039;,
+			(int) 2 =&amp;gt; &amp;#039;image/vnd.wap.wbmp&amp;#039;
+		),
+		&amp;#039;wml&amp;#039; =&amp;gt; &amp;#039;text/vnd.wap.wml&amp;#039;,
+		&amp;#039;wmlscript&amp;#039; =&amp;gt; &amp;#039;text/vnd.wap.wmlscript&amp;#039;,
+		&amp;#039;wbmp&amp;#039; =&amp;gt; &amp;#039;image/vnd.wap.wbmp&amp;#039;,
+		&amp;#039;woff&amp;#039; =&amp;gt; &amp;#039;application/x-font-woff&amp;#039;,
+		&amp;#039;webp&amp;#039; =&amp;gt; &amp;#039;image/webp&amp;#039;,
+		&amp;#039;appcache&amp;#039; =&amp;gt; &amp;#039;text/cache-manifest&amp;#039;,
+		&amp;#039;manifest&amp;#039; =&amp;gt; &amp;#039;text/cache-manifest&amp;#039;,
+		&amp;#039;htc&amp;#039; =&amp;gt; &amp;#039;text/x-component&amp;#039;,
+		&amp;#039;rdf&amp;#039; =&amp;gt; &amp;#039;application/xml&amp;#039;,
+		&amp;#039;crx&amp;#039; =&amp;gt; &amp;#039;application/x-chrome-extension&amp;#039;,
+		&amp;#039;oex&amp;#039; =&amp;gt; &amp;#039;application/x-opera-extension&amp;#039;,
+		&amp;#039;xpi&amp;#039; =&amp;gt; &amp;#039;application/x-xpinstall&amp;#039;,
+		&amp;#039;safariextz&amp;#039; =&amp;gt; &amp;#039;application/octet-stream&amp;#039;,
+		&amp;#039;webapp&amp;#039; =&amp;gt; &amp;#039;application/x-web-app-manifest+json&amp;#039;,
+		&amp;#039;vcf&amp;#039; =&amp;gt; &amp;#039;text/x-vcard&amp;#039;,
+		&amp;#039;vtt&amp;#039; =&amp;gt; &amp;#039;text/vtt&amp;#039;,
+		&amp;#039;mkv&amp;#039; =&amp;gt; &amp;#039;video/x-matroska&amp;#039;,
+		&amp;#039;pkpass&amp;#039; =&amp;gt; &amp;#039;application/vnd.apple.pkpass&amp;#039;,
+		&amp;#039;ajax&amp;#039; =&amp;gt; &amp;#039;text/html&amp;#039;
+	)
+	[protected] _protocol =&amp;gt; &amp;#039;HTTP/1.1&amp;#039;
+	[protected] _status =&amp;gt; (int) 200
+	[protected] _contentType =&amp;gt; &amp;#039;text/html&amp;#039;
+	[protected] _headers =&amp;gt; array()
+	[protected] _body =&amp;gt; null
+	[protected] _file =&amp;gt; null
+	[protected] _fileRange =&amp;gt; null
+	[protected] _charset =&amp;gt; &amp;#039;UTF-8&amp;#039;
+	[protected] _cacheDirectives =&amp;gt; array()
+	[protected] _cookies =&amp;gt; array()
+}&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+
+function traceToggle(event, id) {
+
+	var el = document.getElementById(id);
+
+	el.style.display = (el.style.display === &#039;block&#039;) ? &#039;none&#039; : &#039;block&#039;;
+
+	event.preventDefault();
+
+	return false;
+
+}
+
+&lt;/script&gt;
+
+&#039;
+$scripts_for_layout = &#039;&#039;
+$title_for_layout = &#039;Errors&#039;</pre><pre class="stack-trace">include - APP/View/Layouts/default.ctp, line 29
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::renderLayout() - CORE/Cake/View/View.php, line 546
+View::render() - CORE/Cake/View/View.php, line 481
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+ExceptionRenderer::_outputMessage() - CORE/Cake/Error/ExceptionRenderer.php, line 292
+ExceptionRenderer::_cakeError() - CORE/Cake/Error/ExceptionRenderer.php, line 213
+ExceptionRenderer::render() - CORE/Cake/Error/ExceptionRenderer.php, line 190
+ErrorHandler::handleException() - CORE/Cake/Error/ErrorHandler.php, line 127
+[main] - [internal], line ??</pre></div></pre>
+195.196.197.51:80 - Заголовок не найден
+109.88.194.154:80 - IIS Windows
+156.59.28.231:80 - 500 Internal Server Error
+18.189.146.236:80 - 503 Service Temporarily Unavailable
+76.176.221.162:80 - 
+217.194.209.249:80 - Заголовок не найден
+89.208.212.65:80 - ***
+192.119.38.105:80 - Заголовок не найден
+62.67.46.130:80 - Заголовок не найден
+88.247.164.242:80 - Заголовок не найден
+162.240.51.220:80 - Заголовок не найден
+51.159.191.100:80 - Заголовок не найден
+160.124.38.75:80 - 404 Not Found
+167.249.230.213:80 - 
+47.106.80.193:80 - Заголовок не найден
+104.81.202.3:80 - Заголовок не найден
+88.208.214.217:80 - Web Server's Default Page
+203.208.50.123:80 - Error 404 (Not Found)!!1
+54.171.70.74:80 - 503 Service Temporarily Unavailable
+208.126.34.217:80 - Administration Console
+107.149.70.196:80 - Заголовок не найден
+5.161.204.139:80 - Заголовок не найден
+108.139.234.54:80 - Заголовок не найден
+2.23.163.32:80 - Заголовок не найден
+154.23.139.228:80 - Заголовок не найден
+44.241.56.222:80 - Error 403 Forbidden
+108.186.207.188:80 - 403 Forbidden
+40.117.40.187:80 - Solicitud de crédito
+104.73.177.37:80 - Заголовок не найден
+15.164.40.213:80 - PMC體能優化工作室
+18.64.105.186:80 - Заголовок не найден
+154.205.125.118:80 - Sorry, the website has been stopped
+204.85.30.78:80 - Error 404 (Not Found)!!1
+35.201.79.145:80 - 404 Not Found
+185.177.47.143:80 - Web Server's Default Page
+31.6.16.37:80 - Just a moment... | v4Guard
+23.59.175.93:80 - Заголовок не найден
+18.179.167.115:80 - Riiiver - Imagine. Inspire. Innovate.
+85.239.152.206:80 - Please wait, the page is opening...
+201.191.214.26:80 - Заголовок не найден
+149.28.199.24:80 - Заголовок не найден
+154.9.59.59:80 - ERROR: The requested URL could not be retrieved
+52.67.30.176:80 - Заголовок не найден
+67.205.46.55:80 - Site not found &middot; DreamHost
+23.2.110.52:80 - Заголовок не найден
+154.215.9.77:80 - 404 Not Found
+107.173.88.98:80 - ERROR: The requested URL could not be retrieved
+13.227.61.181:80 - Заголовок не найден
+38.63.98.113:80 - Заголовок не найден
+179.52.141.224:80 - ZXHN H108N V2.5
+45.151.135.59:80 - åè´¹å½±é¢-åVIPå¨çº¿è§çææ°å¥½çççµå½±åçµè§å§
+2.21.59.210:80 - Заголовок не найден
+89.163.215.21:80 - 403 Forbidden
+84.247.129.155:80 - Заголовок не найден
+104.248.127.190:80 - Apache2 Ubuntu Default Page: It works
+176.34.98.24:80 - Заголовок не найден
+150.129.42.192:80 - çºµæ¨ªåæµ·-2024new change your life
+34.149.141.159:80 - 403
+104.67.202.107:80 - Заголовок не найден
+89.213.131.13:80 - 404 Not Found
+65.126.151.30:80 - IIS Windows Server
+52.220.92.29:80 - business operation &#8211; sql office
+120.76.65.82:80 - èæå®¢
+20.118.88.48:80 - Заголовок не найден
+219.65.97.226:80 - Заголовок не найден
+190.199.231.153:80 - &gt;Modem Access
+107.174.5.18:80 - 407 Proxy Authentication Required
+18.64.6.70:80 - Заголовок не найден
