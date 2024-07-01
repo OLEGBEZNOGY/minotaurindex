@@ -740,3 +740,13 @@
 38.177.186.58:80 - Welcome to nginx!
 62.217.177.5:80 - An Error Occurred: Not Found
 127.39.124.91:80 - IIS Windows
+185.36.189.108:80 - Заголовок не найден
+127.253.163.177:80 - IIS Windows
+20.208.49.201:80 - Your Azure Function App is up and running.
+103.66.148.130:80 - Welcome | NASSTEC AIRNET
+13.33.23.148:80 - Заголовок не найден
+193.168.253.11:80 - Apache2 Debian Default Page: It works
+127.231.115.207:80 - IIS Windows
+127.216.187.181:80 - IIS Windows
+156.250.183.37:80 - 403 Forbidden
+18.66.16.131:80 - Заголовок не найден
