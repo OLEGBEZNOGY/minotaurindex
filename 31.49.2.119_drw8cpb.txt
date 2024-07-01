@@ -780,3 +780,15 @@
 127.185.97.91:80 - IIS Windows
 127.52.237.40:80 - IIS Windows
 103.120.59.129:80 - Please wait, the login page is loading...
+64.227.51.59:80 - Welcome to nginx!
+146.148.237.204:80 - Test Page for Apache Installation
+14.50.77.127:80 - 
+2.22.90.7:80 - Заголовок не найден
+158.101.24.106:80 - 502 Bad Gateway
+127.240.116.87:80 - IIS Windows
+157.230.233.87:80 - Artboard
+127.172.123.244:80 - IIS Windows
+127.212.222.108:80 - IIS Windows
+127.246.54.209:80 - IIS Windows
+23.42.249.242:80 - Заголовок не найден
+127.222.38.83:80 - IIS Windows
