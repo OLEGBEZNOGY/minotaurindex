@@ -3137,3 +3137,18 @@
 164.90.190.62:80 - Заголовок не найден
 23.62.221.152:80 - Заголовок не найден
 23.37.112.26:80 - Заголовок не найден
+195.178.93.13:80 - Hello! Welcome to Synology Web Station!
+206.217.137.127:80 - Forbidden!
+178.238.61.210:80 - RouterOS router configuration page
+110.42.104.223:80 - 403 Forbidden
+171.244.138.2:80 - Welcome to nginx!
+23.222.73.72:80 - Заголовок не найден
+23.43.222.186:80 - Заголовок не найден
+69.162.173.239:80 - Test Page for the Centmin Mod Nginx HTTP Server
+154.28.149.184:80 - ERROR: The requested URL could not be retrieved
+5.97.2.222:80 - MasterView
+193.194.89.151:80 - Page non trouvée | Cellule PROGRES USTHB
+34.250.74.54:80 - Page Not Found
+20.71.253.233:80 - 404 Not Found
+110.173.48.171:80 - 404 Not Found
+141.26.67.154:80 - Status der Dienste der Universität Koblenz
