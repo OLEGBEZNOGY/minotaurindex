@@ -1,0 +1,10 @@
+18.244.93.176:80 - Заголовок не найден
+54.240.174.51:80 - Заголовок не найден
+38.54.247.107:80 - Welcome to nginx!
+45.200.234.68:80 - 403 Forbidden
+82.114.68.50:80 - RouterOS router configuration page
+96.68.50.246:80 - index
+149.78.45.185:80 - ePMP
+129.232.193.27:80 - InfoStream Technologies | Website Placeholder
+38.154.31.181:80 - ERROR: The requested URL could not be retrieved
+111.84.161.162:80 - Заголовок не найден
