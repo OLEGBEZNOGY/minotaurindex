@@ -4617,3 +4617,16 @@
 52.77.131.87:80 - IIS Windows Server
 77.38.145.98:80 - 406 Not Acceptable
 199.60.103.150:80 - Direct IP access not allowed | Cloudflare
+173.231.245.120:80 - Заголовок не найден
+94.247.142.251:80 - Direct IP access not allowed | Cloudflare
+93.89.68.246:80 - Login
+104.19.11.195:80 - Direct IP access not allowed | Cloudflare
+167.99.197.141:80 - Welcome to nginx!
+34.69.29.228:80 - Willow Payments
+191.101.230.48:80 - 403 Forbidden
+193.70.57.73:80 - Заголовок не найден
+188.82.36.199:80 - 
+107.135.232.67:80 - 
+108.181.40.222:80 - 407 Proxy Authentication Required
+65.29.103.161:80 - 
+23.221.162.64:80 - Заголовок не найден
