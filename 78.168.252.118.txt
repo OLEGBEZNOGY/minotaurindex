@@ -9433,3 +9433,26 @@ Oregon, and the Mythical state of Jefferson.
 23.1.35.110:80 - Заголовок не найден
 38.156.249.223:80 - RX8414CDW
 46.142.82.38:80 - Hello! Welcome to Synology Web Station!
+210.44.219.179:80 - 404 Not Found
+107.167.47.203:80 - Заголовок не найден
+50.2.72.152:80 - 500 Internal Server Error
+76.139.72.166:80 - Document Moved
+178.20.65.16:80 - Welcome to nginx!
+93.122.137.216:80 - 
+20.1.245.17:80 - Your Azure Function App is up and running.
+172.67.205.19:80 - Direct IP access not allowed | Cloudflare
+52.149.145.183:80 - Microsoft Azure Web App - Error 404
+186.62.6.44:80 - Заголовок не найден
+184.27.82.124:80 - Заголовок не найден
+58.120.19.157:80 - CMS Web Viewer
+47.243.165.28:80 - 403 Forbidden
+184.85.44.191:80 - Заголовок не найден
+188.241.192.157:80 - Welcome to nginx!
+68.54.251.107:80 - Заголовок не найден
+162.159.62.189:80 - Direct IP access not allowed | Cloudflare
+23.36.212.209:80 - Заголовок не найден
+172.245.132.89:80 - ERROR: The requested URL could not be retrieved
+104.76.251.117:80 - Заголовок не найден
+159.89.183.252:80 - MTM Health
+110.233.176.148:80 - Заголовок не найден
+64.85.97.200:80 - Apache2 Ubuntu Default Page: It works
