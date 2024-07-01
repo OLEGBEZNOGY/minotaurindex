@@ -10667,3 +10667,50 @@
 43.143.21.126:80 - 404 Not Found
 47.75.18.154:80 - Заголовок не найден
 176.57.210.8:80 - 500 Internal Server Error
+13.35.64.117:80 - Заголовок не найден
+187.95.83.211:80 - UN1200X-AC
+198.41.192.57:80 - Direct IP access not allowed | Cloudflare
+64.90.56.76:80 - Site not found &middot; DreamHost
+14.46.5.107:80 - 
+168.8.57.151:80 - xMS
+104.66.228.2:80 - Заголовок не найден
+217.73.239.82:80 - www.nascarsecure.com - Sito in costruzione - Under Contruction
+138.0.217.204:80 - IIS Windows Server
+198.41.221.90:80 - Direct IP access not allowed | Cloudflare
+18.154.244.101:80 - Заголовок не найден
+201.150.172.117:80 - ONT-4GE-2VW
+116.101.61.157:80 - WEB SERVICE
+45.60.72.170:80 - Заголовок не найден
+20.14.142.17:80 - Заголовок не найден
+47.79.66.199:80 - Заголовок не найден
+119.28.45.71:80 - æ²¡ææ¾å°ç«ç¹
+104.122.44.198:80 - Заголовок не найден
+2.20.235.57:80 - Заголовок не найден
+82.223.101.154:80 - Web Server's Default Page
+52.60.199.193:80 - SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for mysql failed: Name or service not known (Connection: mysql, SQL: select * from `sessions` where `id` = bArINlB4HCrSWpEZOikXwpwokbqoy0ME3NLmK1mP limit 1)
+151.101.185.199:80 - Fastly error: unknown domain 151.101.185.199
+188.151.64.71:80 - Заголовок не найден
+222.121.251.208:80 - main page
+2.17.65.125:80 - Заголовок не найден
+78.140.183.69:80 - 404 Not Found
+44.205.146.253:80 - Yetihop
+184.24.96.206:80 - Заголовок не найден
+120.136.11.159:80 - ç¡å¹ãªURLã§ã
+185.244.249.205:80 - Заголовок не найден
+88.99.81.206:80 - 404 Not Found
+23.93.87.207:80 - 
+104.19.11.241:80 - Direct IP access not allowed | Cloudflare
+84.247.132.22:80 - Apache2 Ubuntu Default Page: It works
+159.223.47.11:80 - Заголовок не найден
+134.17.24.191:80 - 403 Forbidden
+154.206.182.121:80 - 404 Not Found
+192.252.144.234:80 - Resource not found
+23.6.76.11:80 - Заголовок не найден
+37.203.156.212:80 - 
+23.41.219.242:80 - Заголовок не найден
+20.43.157.92:80 - 404 Not Found
+13.239.72.69:80 - Заголовок не найден
+205.204.73.14:80 - 22Bet Ghana – Login to Official Website 22Bet GH
+102.23.121.5:80 - Заголовок не найден
+23.40.136.40:80 - Заголовок не найден
+218.149.193.136:80 - main page
