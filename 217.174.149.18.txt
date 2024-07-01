@@ -9500,3 +9500,29 @@
 219.99.161.200:80 - Заголовок не найден
 23.65.16.11:80 - Заголовок не найден
 3.162.78.215:80 - Заголовок не найден
+76.223.71.188:80 - Welcome to MOND Enterprise Suite
+38.127.179.80:80 - Apache HTTP Server Test Page powered by CentOS
+51.174.52.171:80 - Webinterface
+171.102.242.149:80 - Заголовок не найден
+219.85.221.198:80 - Hello! Welcome to Synology Web Station!
+52.48.92.126:80 - Заголовок не найден
+52.71.155.148:80 - Заголовок не найден
+8.142.40.248:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+3.75.156.177:80 - Welcome to Genify's PFM API
+59.120.15.246:80 - DVR Components Download
+151.101.241.87:80 - Fastly error: unknown domain 151.101.241.87
+13.32.244.37:80 - Заголовок не найден
+98.148.242.97:80 - 
+45.79.22.248:80 - Bindl Brush Clearing LLC
+50.106.191.166:80 - Server Error
+192.185.181.112:80 - Not Acceptable!
+159.65.153.246:80 - Заголовок не найден
+61.153.154.113:80 - Заголовок не найден
+195.201.148.45:80 - Wir renovieren fÃ¼r Sie
+203.126.142.6:80 - 403 - Forbidden: Access is denied.
+50.63.19.248:80 - Coming Soon
+23.58.197.115:80 - Заголовок не найден
+178.205.110.75:80 - WEB SERVICE
+116.62.223.72:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+108.157.67.48:80 - Заголовок не найден
+23.32.89.147:80 - Заголовок не найден
