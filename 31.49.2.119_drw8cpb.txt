@@ -1441,3 +1441,166 @@
 190.8.76.231:80 - WEB
 34.204.165.249:80 - Заголовок не найден
 38.35.99.35:80 - 404 Not Found
+84.247.247.78:80 - 
+54.77.66.0:80 - 404 Not Found
+203.160.122.37:80 - 403 Forbidden
+2.21.49.155:80 - Заголовок не найден
+67.205.169.21:80 - GobyNET Home
+127.38.244.235:80 - IIS Windows
+47.93.217.192:80 - 403 Forbidden
+45.60.28.20:80 - Заголовок не найден
+54.153.79.233:80 - Log in to Sperse IO Basic
+5.35.226.243:80 - Host Europe GmbH &ndash; 5.35.226.243
+45.207.105.67:80 - 404 Not Found
+47.245.37.55:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+127.54.62.186:80 - IIS Windows
+67.23.244.20:80 - Заголовок не найден
+104.248.93.37:80 - Welcome to nginx!
+23.1.54.19:80 - Заголовок не найден
+47.116.35.132:80 - åæºè¶æåå®æ¹ç½ç«
+3.108.9.197:80 - Welcome to nginx!
+127.59.34.5:80 - IIS Windows
+127.103.12.252:80 - IIS Windows
+104.22.78.228:80 - Direct IP access not allowed | Cloudflare
+104.100.160.205:80 - Заголовок не найден
+156.224.218.239:80 - 404 Not Found
+122.226.190.70:80 - 404 Not Found
+112.186.180.124:80 - WEB SERVICE
+183.105.144.111:80 - CMS Web Viewer
+127.128.79.90:80 - IIS Windows
+185.60.135.184:80 - IIS Windows Server
+104.19.217.87:80 - Direct IP access not allowed | Cloudflare
+84.84.208.233:80 - FileMaker Website
+127.97.151.178:80 - IIS Windows
+127.94.205.177:80 - IIS Windows
+18.155.78.101:80 - Заголовок не найден
+35.215.91.74:80 - The Zeg &#8211; Travel and Lifestyle Blog
+40.122.166.43:80 - 404 Not Found
+193.111.102.135:80 - Hier ensteht eine neue Kunden-Website - powered by weber.cloud
+127.236.116.32:80 - IIS Windows
+108.156.171.119:80 - Заголовок не найден
+52.66.62.63:80 - Aryan Suzuki  - Suzuki Motorcycle Showroom in Bengaluru, Hoodi
+104.87.226.73:80 - Заголовок не найден
+127.160.152.181:80 - IIS Windows
+127.183.156.36:80 - IIS Windows
+156.254.150.135:80 - Заголовок не найден
+34.101.215.38:80 - Заголовок не найден
+127.98.51.161:80 - IIS Windows
+104.20.166.5:80 - Direct IP access not allowed | Cloudflare
+178.211.199.13:80 - Заголовок не найден
+94.234.200.158:80 - 
+104.81.15.144:80 - Заголовок не найден
+82.165.115.206:80 - Заголовок не найден
+52.217.232.212:80 - Amazon S3 - Cloud Object Storage  - AWS
+67.225.136.183:80 - IIS Windows Server
+127.172.71.104:80 - IIS Windows
+127.169.251.71:80 - IIS Windows
+136.226.69.90:80 - Internet Security by Zscaler
+107.180.30.30:80 - Moyamensing Point - Pocket Park in Queen Village
+104.19.46.81:80 - Direct IP access not allowed | Cloudflare
+104.98.101.55:80 - Заголовок не найден
+165.227.216.31:80 - Mezcal Brigante. EspÃ­ritu Libre y Aventurero
+63.195.199.220:80 - AT&T WiFi Portal
+47.196.177.32:80 - DVR ActiveX Viewer
+124.239.13.184:80 - 403 Forbidden
+127.143.22.173:80 - IIS Windows
+127.159.124.69:80 - IIS Windows
+99.121.4.6:80 - 
+127.114.93.126:80 - IIS Windows
+46.21.80.118:80 - RouterOS router configuration page
+18.221.143.27:80 - OCA Chile
+15.164.190.246:80 - ::: LG Application Store :::
+3.163.210.148:80 - Заголовок не найден
+125.129.213.227:80 - 
+72.93.226.12:80 - 403 Forbidden
+62.115.253.220:80 - Заголовок не найден
+61.126.43.86:80 - 401 Unauthorized
+142.112.55.126:80 - IIS Windows Server
+127.130.21.76:80 - IIS Windows
+23.222.94.64:80 - Заголовок не найден
+151.106.27.190:80 - 500 Internal Server Error
+50.241.214.233:80 - 
+38.47.135.117:80 - Заголовок не найден
+121.162.154.242:80 - Заголовок не найден
+85.195.125.199:80 - 
+127.129.41.58:80 - IIS Windows
+35.190.64.4:80 - 404 Not Found
+127.128.245.112:80 - IIS Windows
+127.229.120.51:80 - IIS Windows
+127.143.217.255:80 - IIS Windows
+191.82.62.127:80 - Заголовок не найден
+104.123.94.218:80 - Заголовок не найден
+127.255.41.75:80 - IIS Windows
+23.34.204.74:80 - Заголовок не найден
+13.226.34.36:80 - Заголовок не найден
+43.225.191.176:80 - 407 Proxy Authentication Required
+8.210.62.29:80 - 又一个WordPress站点
+127.70.112.138:80 - IIS Windows
+127.122.104.20:80 - IIS Windows
+104.75.103.127:80 - Заголовок не найден
+90.243.247.243:80 - 
+13.233.93.147:80 - GoTo Resolve
+203.124.36.190:80 - Login
+146.148.163.239:80 - 404 Not Found
+2.21.202.167:80 - Заголовок не найден
+80.210.116.9:80 - 
+200.186.248.64:80 - Заголовок не найден
+52.216.249.142:80 - Amazon S3 - Cloud Object Storage  - AWS
+104.17.231.255:80 - Direct IP access not allowed | Cloudflare
+127.240.141.201:80 - IIS Windows
+62.173.38.254:80 - HTTP Server Test Page powered by: Rocky Linux
+8.136.205.102:80 - Access forbidden!
+38.173.26.68:80 - 404 Not Found
+127.128.179.136:80 - IIS Windows
+23.11.91.221:80 - Заголовок не найден
+204.87.80.65:80 - Oklahoma Department of Rehabilitation Services (805)
+156.224.56.80:80 - 404 Not Found
+127.156.104.215:80 - IIS Windows
+184.28.113.197:80 - Заголовок не найден
+127.158.250.137:80 - IIS Windows
+190.109.250.53:80 - Заголовок не найден
+23.35.241.236:80 - Заголовок не найден
+127.79.150.211:80 - IIS Windows
+99.142.82.50:80 - AT&T WiFi Portal
+127.37.169.179:80 - IIS Windows
+104.22.22.111:80 - Direct IP access not allowed | Cloudflare
+103.2.29.31:80 - Error 403 Forbidden
+95.216.95.97:80 - Заголовок не найден
+104.79.215.171:80 - Заголовок не найден
+127.182.11.54:80 - IIS Windows
+202.160.152.124:80 - Заголовок не найден
+20.6.155.174:80 - Welcome to nginx!
+18.66.52.201:80 - Заголовок не найден
+172.121.175.104:80 - 404 Not Found
+127.3.6.190:80 - IIS Windows
+114.33.254.27:80 - Заголовок не найден
+127.34.99.82:80 - IIS Windows
+140.248.180.165:80 - Fastly error: unknown domain 140.248.180.165
+47.89.208.137:80 - IIS Windows Server
+49.156.51.151:80 - 
+34.117.172.108:80 - Celebrity
+75.188.204.37:80 - 
+23.196.252.240:80 - Заголовок не найден
+35.178.161.110:80 - openFleet
+127.80.53.109:80 - IIS Windows
+23.53.175.182:80 - Заголовок не найден
+59.110.240.93:80 - 数据库错误
+127.27.22.55:80 - IIS Windows
+148.135.102.251:80 - Alikaraw Music Lounge
+42.112.39.95:80 - WEB SERVICE
+88.151.41.141:80 - 403 Forbidden
+127.66.247.236:80 - IIS Windows
+18.245.212.26:80 - Заголовок не найден
+3.162.124.125:80 - Заголовок не найден
+147.182.200.56:80 - FreePBX Administration
+127.159.226.134:80 - IIS Windows
+3.130.174.187:80 - 404: This page could not be found
+84.9.75.8:80 - .::Welcome to the Web-Based Configurator::.
+206.189.0.10:80 - Заголовок не найден
+127.39.151.43:80 - IIS Windows
+104.86.39.210:80 - Заголовок не найден
+52.203.109.226:80 - Заголовок не найден
+127.227.69.94:80 - IIS Windows
+23.208.176.160:80 - Заголовок не найден
+23.203.250.200:80 - Заголовок не найден
+2.235.200.147:80 - SmartLAN/G Web Interface
