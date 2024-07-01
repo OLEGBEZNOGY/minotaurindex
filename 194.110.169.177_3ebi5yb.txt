@@ -618,3 +618,39 @@
 52.137.106.223:80 - 404 Not Found
 2.19.188.153:80 - Заголовок не найден
 23.60.235.134:80 - Заголовок не найден
+52.192.200.94:80 - CUST GO - Admin Page -
+52.217.74.210:80 - Amazon S3 - Cloud Object Storage  - AWS
+52.85.19.18:80 - Заголовок не найден
+144.24.144.40:80 - Apache2 Ubuntu Default Page: It works
+5.9.150.8:80 - Apache2 Ubuntu Default Page: It works
+177.221.71.253:80 - Apache2 Ubuntu Default Page: It works
+20.209.69.201:80 - InvalidUri
+47.100.74.45:80 - 403 Forbidden
+23.37.112.229:80 - Заголовок не найден
+104.75.113.244:80 - Заголовок не найден
+198.41.205.39:80 - Direct IP access not allowed | Cloudflare
+120.55.100.83:80 - Заголовок не найден
+156.229.12.3:80 - 404 Not Found
+20.76.116.147:80 - Your Azure Function App is up and running.
+162.249.127.39:80 - Заголовок не найден
+18.160.184.168:80 - Заголовок не найден
+217.149.155.115:80 - Site Not Found
+13.225.252.3:80 - Заголовок не найден
+96.6.163.249:80 - Заголовок не найден
+63.228.3.20:80 - Заголовок не найден
+88.119.137.145:80 - IIS Windows
+104.17.72.173:80 - Direct IP access not allowed | Cloudflare
+194.26.231.121:80 - 403 Forbidden
+123.56.109.107:80 - 404 Not Found
+193.39.88.77:80 - ERROR: The requested URL could not be retrieved
+54.167.186.197:80 - Заголовок не найден
+96.9.57.93:80 - 403 Forbidden
+104.21.67.43:80 - Direct IP access not allowed | Cloudflare
+165.227.235.166:80 - 503 Service Temporarily Unavailable
+132.248.170.71:80 - CN2AF2F2DB - Home
+54.37.34.123:80 - 403 Forbidden
+2.19.84.6:80 - Заголовок не найден
+27.74.19.37:80 - 
+185.249.114.93:80 - Přihlášení | ISP Commander
+146.75.20.128:80 - Fastly error: unknown domain 146.75.20.128
+182.181.167.81:80 - 
