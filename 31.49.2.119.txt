@@ -6668,3 +6668,19 @@ ault Page
 140.248.153.157:80 - Fastly error: unknown domain 140.248.153.157
 107.149.21.169:80 - Welcome to nginx!
 127.43.158.212:80 - IIS Windows
+127.245.234.221:80 - IIS Windows
+129.146.229.125:80 - 502 Bad Gateway
+127.172.118.218:80 - IIS Windows
+147.229.85.85:80 - Заголовок не найден
+35.198.44.50:80 - Заголовок не найден
+127.67.123.77:80 - IIS Windows
+51.222.127.8:80 - FASTPANEL2
+24.180.147.228:80 - 
+92.205.191.216:80 - Web Server's Default Page
+51.75.253.89:80 - Home - Distributeur domotique pour les professionnels
+44.230.117.70:80 - 502 Bad Gateway
+173.179.216.80:80 - Заголовок не найден
+127.43.185.16:80 - IIS Windows
+18.161.15.41:80 - Заголовок не найден
+107.190.138.53:80 - Заголовок не найден
+51.79.71.196:80 - Apache2 Ubuntu Default Page: It works
