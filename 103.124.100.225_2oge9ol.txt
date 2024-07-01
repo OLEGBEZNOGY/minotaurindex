@@ -2237,3 +2237,19 @@
 103.174.10.24:80 - Softaculous Webuzo | Default Website Page
 18.164.39.103:80 - Заголовок не найден
 38.14.213.220:80 - 403 Forbidden
+95.9.118.14:80 - 
+18.66.64.52:80 - Заголовок не найден
+112.127.65.208:80 - ç½ç«è®¿é®æ¥é
+18.118.185.226:80 - Demand Forecasting
+45.38.29.191:80 - 404 Not Found
+147.30.12.220:80 - GPON Home Gateway
+185.233.41.175:80 - 403 Forbidden
+82.223.191.247:80 - Webmail :: Welcome to Webmail
+159.89.213.72:80 - 401 Authorization Required
+1.94.76.113:80 - Заголовок не найден
+10.77.197.55:80 - HTTP 401 - Unauthorized
+103.23.208.106:80 - Welcome to nginx!
+199.232.1.246:80 - Fastly error: unknown domain 199.232.1.246
+37.150.155.228:80 - GPON Home Gateway
+99.142.92.122:80 - AT&T WiFi Portal
+185.151.12.222:80 - 403 - Forbidden
