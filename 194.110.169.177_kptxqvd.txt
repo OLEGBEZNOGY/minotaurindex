@@ -14367,3 +14367,37 @@
 51.254.139.103:80 - Default Site
 198.50.119.149:80 - 503 Service Temporarily Unavailable
 172.67.158.56:80 - Direct IP access not allowed | Cloudflare
+47.96.121.206:80 - Devcs Tool
+104.117.190.183:80 - Заголовок не найден
+68.183.158.191:80 - Welcome to nginx!
+85.187.43.119:80 - Please wait, the page is opening...
+190.178.92.50:80 - Заголовок не найден
+54.192.38.191:80 - Заголовок не найден
+60.204.171.130:80 - æ±æ­ï¼ç«ç¹å·²æå
+2.22.162.84:80 - Заголовок не найден
+201.146.7.191:80 - 
+61.0.212.142:80 - RouterOS router configuration page
+92.55.99.236:80 - Please wait, the page is opening...
+20.235.235.72:80 - EasyTrade
+119.235.84.201:80 - Заголовок не найден
+117.201.124.210:80 - RouterOS router configuration page
+104.120.65.71:80 - Заголовок не найден
+58.192.131.140:80 - Заголовок не найден
+83.229.67.100:80 - Welcome to nginx!
+47.238.248.2:80 - Exchange app
+47.76.223.158:80 - 502 Bad Gateway
+161.34.12.218:80 - é¡å±±å¸ã®è³è²¸æå ±ãµã¤ãï¼ãé¨å±æ¢ãã¯ããããã«ãä»»ãä¸ããï¼
+24.199.67.59:80 - 404 Not Found
+67.7.160.130:80 - Instant WiFi
+23.34.118.86:80 - Заголовок не найден
+18.170.90.196:80 - 503 Service Temporarily Unavailable
+69.163.198.47:80 - Site not found &middot; DreamHost
+164.132.139.231:80 - Error 503: server unavailable
+3.164.240.126:80 - Заголовок не найден
+192.185.119.33:80 - Not Acceptable!
+20.245.27.54:80 - Microsoft Azure Web App - Error 404
+140.83.38.75:80 - Apache2 Ubuntu Default Page: It works
+54.238.255.253:80 - Test Page for the Nginx HTTP Server on the Amazon Linux AMI
+116.91.197.107:80 - Заголовок не найден
+16.162.122.79:80 - Apache2 Ubuntu Default Page: It works
+3.162.107.88:80 - Заголовок не найден
