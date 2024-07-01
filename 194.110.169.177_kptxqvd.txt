@@ -15216,3 +15216,42 @@ www2.jiji.com
 104.96.145.38:80 - Заголовок не найден
 54.231.166.2:80 - Amazon S3 - Cloud Object Storage  - AWS
 180.184.96.155:80 - 登录
+202.8.119.47:80 - Please wait, the login page is opening...
+18.164.122.202:80 - Заголовок не найден
+192.169.216.88:80 - Domain Default page
+103.201.70.115:80 - 404 Not Found
+23.197.34.247:80 - Заголовок не найден
+87.230.40.102:80 - Host Europe GmbH
+107.158.110.4:80 - 500 Internal Server Error
+82.66.81.242:80 - Centrale
+178.209.192.53:80 - ÐÐ¾Ð´Ð¾Ð²Ð¾Ðµ ÑÐ¾Ð±ÑÐ°Ð½Ð¸Ðµ
+188.165.115.97:80 - LICIEL Diagnostics, logiciel référence des diagnostiqueurs
+103.65.211.83:80 - Заголовок не найден
+54.197.56.110:80 - 404 Not Found
+69.91.160.119:80 - Apache2 Ubuntu Default Page: It works
+31.190.199.124:80 - Brother MFC-L5750DW series
+103.53.40.38:80 - Not Acceptable!
+98.54.203.146:80 - Default Site
+154.204.78.148:80 - 404 Not Found
+68.67.160.16:80 - Заголовок не найден
+4.156.60.131:80 - 404 Not Found
+50.87.144.43:80 - Not Acceptable!
+121.46.127.240:80 - 404 Not Found
+104.20.190.199:80 - Direct IP access not allowed | Cloudflare
+200.150.139.187:80 - 403 Forbidden
+2.228.39.100:80 - Connection denied by Geolocation
+23.54.190.243:80 - Заголовок не найден
+197.245.177.55:80 - RouterOS router configuration page
+165.225.8.41:80 - Internet Security by Zscaler
+23.212.171.35:80 - Заголовок не найден
+23.50.19.230:80 - Заголовок не найден
+185.54.185.150:80 - Strona główna
+44.194.181.191:80 - 404 Not Found
+2.19.239.226:80 - Заголовок не найден
+47.108.221.9:80 - 403 Forbidden
+155.186.227.25:80 - 
+89.171.139.101:80 - 404 Not Found
+104.98.221.160:80 - Заголовок не найден
+143.110.149.174:80 - Apache2 Ubuntu Default Page: It works
+210.154.235.73:80 - æ¿éæ±é¨æ¶é²çµåæ¶é²æ¬é¨
+1.92.130.115:80 - IIS Windows Server
