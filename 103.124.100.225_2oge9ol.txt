@@ -4983,3 +4983,12 @@
 108.167.147.26:80 - Not Acceptable!
 47.96.7.138:80 - 404 Not Found
 49.13.50.101:80 - WwWebapp
+159.65.8.55:80 - 
+51.103.87.121:80 - Welcome to nginx!
+76.82.16.131:80 - 
+155.159.147.234:80 - 404 Not Found
+20.29.92.157:80 - Заголовок не найден
+198.204.227.20:80 - Apache HTTP Server Test Page powered by CentOS
+176.148.148.140:80 - Synology&nbsp;-&nbsp;Synology&nbsp;DiskStation
+85.13.152.30:80 - 503 Service Temporarily Unavailable
+104.91.22.28:80 - Заголовок не найден
