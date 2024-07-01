@@ -5518,3 +5518,20 @@
 34.30.103.84:80 - 404 Not Found
 111.6.238.14:80 - 403 Forbidden
 75.231.253.218:80 - Заголовок не найден
+54.166.220.134:80 - 404
+38.63.108.239:80 - 404 Not Found
+117.68.69.236:80 - Заголовок не найден
+20.79.97.152:80 - 404 Not Found
+108.158.232.189:80 - Заголовок не найден
+192.185.76.219:80 - Not Acceptable!
+4.175.191.106:80 - Your Azure Function App is up and running.
+38.152.180.9:80 - ERROR: The requested URL could not be retrieved
+95.100.118.240:80 - Заголовок не найден
+154.212.42.166:80 - Заголовок не найден
+212.37.19.130:80 - Document Moved
+50.173.48.246:80 - Web Site Blocked
+162.240.100.123:80 - Заголовок не найден
+104.24.180.49:80 - Direct IP access not allowed | Cloudflare
+23.73.239.189:80 - Заголовок не найден
+46.8.210.90:80 - FASTPANEL
+192.148.6.152:80 - Direct IP access not allowed | Cloudflare
