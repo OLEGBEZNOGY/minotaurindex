@@ -10627,3 +10627,159 @@
 116.62.20.18:80 - Заголовок не найден
 101.132.98.221:80 - 我的人生传记
 116.203.20.34:80 - IIS Windows Server
+51.210.211.31:80 - Заголовок не найден
+3.67.123.73:80 - Welcome to nginx!
+139.224.203.148:80 - æ²¡ææ¾å°ç«ç¹
+172.121.20.55:80 - 403 Forbidden
+101.76.235.3:80 - 404 Not Found
+104.108.65.110:80 - Заголовок не найден
+212.103.85.242:80 - Заголовок не найден
+23.2.83.111:80 - Заголовок не найден
+96.113.212.242:80 - Заголовок не найден
+185.228.234.201:80 - 404 Not Found
+154.209.60.184:80 - 403 Forbidden
+87.16.169.136:80 - Smartweb - Combivox
+128.17.80.253:80 - 403 - Forbidden: Access is denied.
+5.180.105.238:80 - 403 Forbidden
+15.161.122.3:80 - Il Piccolo - Trieste
+176.255.234.160:80 - Заголовок не найден
+20.67.180.73:80 - 404 Not Found
+23.199.65.4:80 - Заголовок не найден
+205.186.128.169:80 - Drik Water
+54.174.60.195:80 - Trust &amp; Safety Policies
+68.183.60.153:80 - Find Energy &amp; Quantum Healers near You - Directory Search : Quantum Healers
+190.104.188.250:80 - 
+20.47.21.137:80 - Заголовок не найден
+193.58.96.245:80 - 500 Internal Server Error
+95.81.82.56:80 - RouterOS
+111.84.169.203:80 - Заголовок не найден
+51.81.208.125:80 - Заголовок не найден
+38.242.234.115:80 - 404 Not Found
+181.23.97.240:80 - Заголовок не найден
+35.79.106.123:80 - Apache HTTP Server Test Page powered by CentOS
+154.89.241.28:80 - 403 Forbidden
+3.113.233.188:80 - 401 Unauthorized
+88.5.132.18:80 - 
+211.145.33.184:80 - ERROR: The requested URL could not be retrieved
+74.140.203.163:80 - Заголовок не найден
+92.222.36.51:80 - Apache HTTP Server Test Page powered by CentOS
+139.9.16.130:80 - Заголовок не найден
+23.215.157.218:80 - Заголовок не найден
+195.200.249.40:80 - Welcome to nginx!
+144.76.1.148:80 - We The Friends | VPS Hosting, Dedicated Hosting & Email Marketing Solutions Provider
+144.126.156.124:80 - Apache HTTP Server Test Page powered by CentOS
+85.214.83.243:80 - Web Server's Default Page
+154.86.18.189:80 - Sorry, the website has been stopped
+187.32.188.137:80 - Welcome to nginx!
+13.224.2.185:80 - Заголовок не найден
+13.32.169.55:80 - Заголовок не найден
+104.165.231.112:80 - 403 Forbidden
+5.161.61.206:80 - 404 Not Found
+39.108.53.142:80 - IIS Windows Server
+184.26.202.150:80 - Заголовок не найден
+52.72.40.158:80 - Заголовок не найден
+182.93.118.144:80 - 403 Forbidden
+185.53.38.167:80 - Login - Agenzie
+38.55.221.212:80 - 首页 - wp
+23.49.162.101:80 - Заголовок не найден
+23.45.149.4:80 - Заголовок не найден
+185.5.231.103:80 - 403  Tiltott: A hozzáférés megtagadva.
+64.85.8.101:80 - Fencing Contractor | Fence Company | Commercial &amp; Residential | Spokane | All4Fencing
+172.64.167.122:80 - Direct IP access not allowed | Cloudflare
+77.168.166.7:80 - 403 Forbidden
+54.174.249.50:80 - 
+23.222.1.16:80 - Заголовок не найден
+52.95.141.16:80 - Amazon S3 - Cloud Object Storage  - AWS
+184.29.132.162:80 - Заголовок не найден
+178.128.88.69:80 - Заголовок не найден
+83.215.153.108:80 - 400 The plain HTTP request was sent to HTTPS port
+157.230.202.138:80 - Welcome to nginx!
+54.200.76.45:80 - Page Redirection
+23.44.33.216:80 - Заголовок не найден
+125.219.193.20:80 - HTTP Status 404 – Not Found
+75.47.204.81:80 - AT&T WiFi Portal
+80.66.4.71:80 - Access forbidden!
+151.0.240.138:80 - Document Moved
+4.153.51.141:80 - Error
+202.79.175.41:80 - Заголовок не найден
+54.252.17.2:80 - 404 Not Found
+3.162.169.182:80 - Заголовок не найден
+156.241.131.130:80 - 404 Not Found
+160.121.129.240:80 - Заголовок не найден
+178.128.52.210:80 - 
+20.221.227.230:80 - 404 Not Found
+175.251.225.63:80 - WEB SERVICE
+18.159.220.190:80 - 404 Not Found
+64.91.238.168:80 - Заголовок не найден
+18.65.217.0:80 - Заголовок не найден
+199.30.140.228:80 - Legacy State College Portal
+134.122.55.158:80 - Заголовок не найден
+23.61.169.90:80 - Заголовок не найден
+104.241.143.41:80 - Заголовок не найден
+112.78.126.200:80 - 403 Forbidden
+23.205.236.76:80 - Заголовок не найден
+221.161.231.151:80 - main page
+176.78.114.177:80 - 
+122.117.33.173:80 - Заголовок не найден
+23.7.137.199:80 - Заголовок не найден
+104.21.43.19:80 - Direct IP access not allowed | Cloudflare
+176.118.214.107:80 - Sign in · GitLab
+13.201.5.104:80 - Welcome to Sales Enchancement Planner
+23.225.109.235:80 - 403 Forbidden
+104.19.248.137:80 - Direct IP access not allowed | Cloudflare
+109.164.231.234:80 - Заголовок не найден
+67.225.136.16:80 - Заголовок не найден
+120.55.160.191:80 - 403 Forbidden
+78.157.213.254:80 - ERROR: The requested URL could not be retrieved
+182.92.67.135:80 - Заголовок не найден
+152.0.195.110:80 - 
+18.172.131.210:80 - Заголовок не найден
+104.93.102.227:80 - Заголовок не найден
+156.250.178.15:80 - æ±æ­ï¼ç«ç¹å·²æå
+46.149.110.227:80 - Welcome to nginx!
+133.3.48.16:80 - äº¬é½å¤§å­¦ãåå­¦ç ç©¶æãåç«¯ãã¼ã ããç§å­¦ã»ã³ã¿ã¼ãè¤åããè§£æåå­¦ç ç©¶é å
+169.197.65.206:80 - Заголовок не найден
+79.110.37.213:80 - RouterOS router configuration page
+64.227.174.123:80 - æ²¡ææ¾å°ç«ç¹
+104.24.159.221:80 - Direct IP access not allowed | Cloudflare
+93.114.235.13:80 - Nimbus Hosting
+131.211.31.181:80 - tags kan de titel van pagina in het browsertabblad aangepast worden. De <h1> en <h2> tags
+    bevatten de verschillende titels van de pagina en binnen de <span> en <p> tags staat alle inhoudelijke tekst van de
+    verschillende onderdelen.
+
+    Alle CSS-classes die beginnen met 'rop' (Ruby onepager) zijn gedefinieerd in style.css. De 'swiper' classes zijn
+    van de Swiper plugin voor de slideshow van afbeeldingen en kunnen ook nog aangepast worden naar eigen wens (zie
+    .rop-slideshow in style.css). De afbeeldingen van de slideshow kunnen worden gewijzigd binnen <img> tags van de
+    'swiper-slide' elementen.
+-->
+
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+23.207.15.119:80 - Заголовок не найден
+23.44.73.132:80 - Заголовок не найден
+185.138.42.151:80 - 403 Forbidden
+97.100.82.64:80 - 
+84.0.123.205:80 - Заголовок не найден
+18.155.12.69:80 - Заголовок не найден
+173.249.7.105:80 - Odoo
+103.139.144.163:80 - RouterOS router configuration page
+172.104.128.161:80 - 404 Not Found
+154.213.60.88:80 - 404 Not Found
+23.198.94.208:80 - Заголовок не найден
+74.110.96.56:80 - 
+2.23.168.222:80 - Заголовок не найден
+173.240.151.174:80 - Just a moment...
+104.164.48.38:80 - 404 Not Found
+137.186.118.109:80 - Заголовок не найден
+162.144.15.123:80 - Not Acceptable!
+47.111.228.75:80 - 404 Not Found
+2.20.82.104:80 - Заголовок не найден
+23.222.78.61:80 - Заголовок не найден
+185.148.216.70:80 - Заголовок не найден
+179.191.232.14:80 - Login - Central do Assinante - LOBO CONECT LTDA
+23.13.48.106:80 - Заголовок не найден
+82.157.168.97:80 - æ²¡ææ¾å°ç«ç¹
+5.75.156.52:80 - Welcome to nginx!
+139.196.86.229:80 - 阿里云万网虚机IP访问报错提示
+108.156.8.85:80 - Заголовок не найден
