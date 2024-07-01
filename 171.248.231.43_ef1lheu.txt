@@ -3284,3 +3284,8 @@
 192.145.28.198:80 - Заголовок не найден
 99.192.156.40:80 - Заголовок не найден
 147.135.160.114:80 - Apache2 Ubuntu Default Page: It works
+149.96.94.192:80 - 403 Forbidden
+129.213.161.219:80 - Welcome to nginx!
+116.62.176.103:80 - exam-vue
+46.21.225.110:80 - Hosting Provider voor E-commerce &amp; Webshops - Hypernode
+192.210.208.101:80 - Заголовок не найден
