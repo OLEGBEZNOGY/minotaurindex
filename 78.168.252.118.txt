@@ -8380,3 +8380,31 @@
 23.1.17.33:80 - Заголовок не найден
 52.84.127.38:80 - Заголовок не найден
 208.88.54.228:80 - ERROR: The requested URL could not be retrieved
+181.24.159.88:80 - Заголовок не найден
+85.135.33.122:80 - Заголовок не найден
+192.3.236.39:80 - IT Tools - Handy online tools for developers
+173.231.103.160:80 - Qui nous sommes et nos produits
+138.2.122.155:80 - Test Page for the HTTP Server on Oracle Linux
+58.194.181.21:80 - 404 Not Found
+146.75.53.153:80 - Fastly error: unknown domain 146.75.53.153
+95.19.207.46:80 - Default Site
+54.230.59.69:80 - Заголовок не найден
+192.254.251.19:80 - Not Acceptable!
+47.104.184.240:80 - ç½ç«è®¿é®æ¥é
+181.23.137.190:80 - Заголовок не найден
+74.208.86.20:80 - Web Server's Default Page
+103.241.30.144:80 - Заголовок не найден
+104.17.252.99:80 - Direct IP access not allowed | Cloudflare
+96.126.123.122:80 - Заголовок не найден
+173.232.251.63:80 - 403 Forbidden
+122.15.62.89:80 - Web user login
+162.159.134.95:80 - Direct IP access not allowed | Cloudflare
+77.55.95.52:80 - Domain  is hosted on netart.com servers
+107.154.227.114:80 - Заголовок не найден
+146.75.43.84:80 - Fastly error: unknown domain 146.75.43.84
+178.248.51.98:80 - Заголовок не найден
+122.189.175.208:80 - 403 Forbidden
+114.34.216.209:80 - DVR Components Download
+15.229.155.243:80 - Test Page for the Apache HTTP Server
+147.78.21.52:80 - 403 - Forbidden: Access is denied.
+95.101.239.138:80 - Заголовок не найден
