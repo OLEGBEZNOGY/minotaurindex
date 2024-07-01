@@ -4984,3 +4984,23 @@
 201.161.48.129:80 - Заголовок не найден
 213.3.23.242:80 - Document Moved
 94.247.142.113:80 - Direct IP access not allowed | Cloudflare
+149.255.63.4:80 - Заголовок не найден
+24.216.148.36:80 - 
+107.149.110.1:80 - Заголовок не найден
+45.60.24.198:80 - Заголовок не найден
+148.101.43.64:80 - 
+66.228.43.71:80 - Apache2 Ubuntu Default Page: It works
+1.52.216.74:80 - 
+23.202.253.51:80 - Заголовок не найден
+3.112.148.169:80 - Заголовок не найден
+103.197.168.20:80 - 407 Proxy Authentication Required
+23.192.180.172:80 - Заголовок не найден
+192.177.157.92:80 - 404 Not Found
+34.77.80.161:80 - Discover | CardoO
+89.36.154.9:80 - Error 403 - Forbidden
+52.216.89.33:80 - Amazon S3 - Cloud Object Storage  - AWS
+20.54.181.200:80 - Microsoft Azure Web App - Error 404
+104.104.76.31:80 - Заголовок не найден
+135.84.74.215:80 - Direct IP access not allowed | Cloudflare
+104.21.193.96:80 - Direct IP access not allowed | Cloudflare
+104.85.27.29:80 - Заголовок не найден
