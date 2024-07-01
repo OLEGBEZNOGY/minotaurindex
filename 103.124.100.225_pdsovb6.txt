@@ -1725,3 +1725,17 @@
 47.92.221.209:80 - Заголовок не найден
 20.238.125.220:80 - Microsoft Azure Web App - Error 404
 4.153.103.12:80 - Your Azure Function App is up and running.
+8.130.22.128:80 - çåå¤å
+23.53.58.241:80 - Заголовок не найден
+47.92.163.249:80 - Заголовок не найден
+185.209.69.21:80 - Заголовок не найден
+165.231.92.64:80 - 407 Proxy Authentication Required
+18.239.66.48:80 - Заголовок не найден
+23.198.191.83:80 - Заголовок не найден
+188.124.27.67:80 - Заголовок не найден
+34.218.13.94:80 - BACDS Family WeekRegistration for 2024 (not open)
+20.253.61.200:80 - Your Azure Function App is up and running.
+51.75.66.17:80 - Заголовок не найден
+41.59.4.28:80 - System Login
+38.154.25.227:80 - ERROR: The requested URL could not be retrieved
+139.159.192.58:80 - CRMEB
