@@ -1666,3 +1666,11 @@
 127.82.251.138:80 - IIS Windows
 64.33.193.218:80 - Заголовок не найден
 185.207.106.231:80 - Computerfreunde
+152.69.180.248:80 - Заголовок не найден
+220.99.118.90:80 - 404 Not Found
+83.136.219.134:80 - VPS Monitoring WordPress page &#8211; Just another WordPress site
+23.42.85.146:80 - Заголовок не найден
+104.25.34.87:80 - Direct IP access not allowed | Cloudflare
+127.137.25.248:80 - IIS Windows
+101.237.40.8:80 - Error
+104.19.194.184:80 - Direct IP access not allowed | Cloudflare
