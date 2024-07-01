@@ -9513,3 +9513,15 @@
 45.14.226.151:80 - 404 Not Found
 186.248.77.75:80 - 401 Unauthorized
 221.153.130.68:80 - DVR ActiveX Viewer
+2.20.41.152:80 - Заголовок не найден
+5.54.137.247:80 - index
+182.76.8.252:80 - IIS Windows Server
+95.101.216.209:80 - Заголовок не найден
+104.70.58.3:80 - Заголовок не найден
+58.254.180.90:80 - 403 Forbidden
+143.95.93.176:80 - Not Acceptable!
+52.51.97.13:80 - Welcome to nginx!
+23.62.221.42:80 - Заголовок не найден
+74.208.119.18:80 - IIS Windows Server
+3.87.111.63:80 - Apache2 Ubuntu Default Page: It works
+207.204.226.44:80 - Bandwidth Speed Test
