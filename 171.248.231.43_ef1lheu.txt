@@ -562,3 +562,17 @@
 13.33.183.63:80 - Заголовок не найден
 96.6.166.98:80 - Заголовок не найден
 95.84.186.220:80 - 403 Forbidden
+162.251.253.101:80 - Заголовок не найден
+80.151.205.75:80 - Заголовок не найден
+91.230.37.52:80 - EmailLabs - email API i SMTP w chmurze cloud. Best e-mail delivery service
+18.142.63.48:80 - 404 Not Found
+208.106.160.249:80 - Заголовок не найден
+18.194.105.159:80 - 3D Simulation Tool
+34.71.66.140:80 - Заголовок не найден
+94.143.80.61:80 - Vigor Login Page
+13.239.177.28:80 - 403 Forbidden
+104.24.31.126:80 - Direct IP access not allowed | Cloudflare
+89.107.123.4:80 - 403 Forbidden
+5.182.17.200:80 - Web Server's Default Page
+47.122.25.170:80 - Заголовок не найден
+196.240.237.169:80 - 407 Proxy Authentication Required
