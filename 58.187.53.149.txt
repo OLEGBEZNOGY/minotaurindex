@@ -5269,3 +5269,14 @@ aInc
 62.129.212.247:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
 66.161.203.42:80 - IIS Windows Server
 78.194.175.12:80 - Default Site
+185.115.93.154:80 - 403 - Forbidden: Access is denied.
+199.232.197.12:80 - Fastly error: unknown domain 199.232.197.12
+31.168.251.137:80 - Home
+50.116.39.17:80 - tpp[dot]org
+2.16.32.41:80 - Заголовок не найден
+157.245.139.249:80 - 404 Not Found
+107.148.229.34:80 - æ²¡ææ¾å°ç«ç¹
+18.181.191.122:80 - 404 Not Found
+66.150.187.138:80 - Direct IP access not allowed | Cloudflare
+38.11.172.14:80 - 404 Not Found
+23.45.225.248:80 - Заголовок не найден
