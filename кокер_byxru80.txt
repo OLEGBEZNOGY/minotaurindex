@@ -6065,3 +6065,25 @@
 146.59.197.166:80 - Заголовок не найден
 147.161.225.76:80 - Internet Security by Zscaler
 92.222.180.53:80 - Apache2 Ubuntu Default Page: It works
+187.199.203.225:80 - 
+43.136.27.82:80 - Apache2 Debian Default Page: It works
+152.0.34.47:80 - 
+23.33.229.150:80 - Заголовок не найден
+99.84.98.195:80 - Заголовок не найден
+52.214.104.248:80 - Заголовок не найден
+5.133.197.192:80 - 80.248.225.165 - Just another WordPress site
+64.6.100.228:80 - empremta.net
+87.188.215.94:80 - Hello! Welcome to Synology Web Station!
+180.109.240.123:80 - 403 Forbidden
+104.83.2.229:80 - Заголовок не найден
+123.25.195.96:80 - WEB SERVICE
+23.224.188.22:80 - 404 Not Found
+104.88.227.148:80 - Заголовок не найден
+23.61.26.63:80 - Заголовок не найден
+78.108.251.22:80 - RouterOS router configuration page
+4.249.175.251:80 - Your Azure Function App is up and running.
+141.98.114.133:80 - Web Server's Default Page
+117.185.252.80:80 - Заголовок не найден
+156.234.244.116:80 - Заголовок не найден
+2.139.254.124:80 - Web Viewer for Samsung DVR
+46.218.46.68:80 - HEI Sites Web
