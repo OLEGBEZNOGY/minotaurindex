@@ -2564,3 +2564,225 @@
 127.17.133.33:80 - Welcome to XAMPP
 127.202.129.189:80 - Welcome to XAMPP
 45.47.91.132:80 - 
+104.127.23.15:80 - Заголовок не найден
+192.210.151.248:80 - 500 Internal Server Error
+127.178.189.166:80 - Welcome to XAMPP
+127.244.165.216:80 - Welcome to XAMPP
+127.185.125.197:80 - Welcome to XAMPP
+127.182.176.46:80 - Welcome to XAMPP
+52.147.177.22:80 - Welcome to nginx!
+52.41.231.38:80 - ä»»å¡ç³»ç»
+127.50.68.139:80 - Welcome to XAMPP
+13.224.81.230:80 - Заголовок не найден
+140.143.130.60:80 - Welcome to nginx!
+104.74.53.37:80 - Заголовок не найден
+192.126.204.114:80 - ERROR: The requested URL could not be retrieved
+206.119.14.189:80 - 403 Forbidden
+172.66.206.25:80 - Direct IP access not allowed | Cloudflare
+127.126.46.27:80 - Welcome to XAMPP
+127.82.162.52:80 - Welcome to XAMPP
+127.180.241.226:80 - Welcome to XAMPP
+127.199.83.73:80 - Welcome to XAMPP
+34.211.157.133:80 - Заголовок не найден
+172.105.86.220:80 - Заголовок не найден
+104.100.216.12:80 - Заголовок не найден
+127.28.46.226:80 - Welcome to XAMPP
+127.135.109.113:80 - Welcome to XAMPP
+38.152.130.90:80 - ERROR: The requested URL could not be retrieved
+23.35.138.41:80 - Заголовок не найден
+35.174.170.240:80 - .:: AQUANTARIUM ::. &#8211; O nome Aquantarium surgiu da fusão das palavras Aquárius, a nova Era, mais a palavra Antares, a estrela alfa da constelação de Escorpião, que nos inspira, mais o número Um, por ser a primeira prática espiritualista dentro dos parâmetros magnéticos e espirituais da nova era.
+127.247.246.169:80 - Welcome to XAMPP
+46.146.222.70:80 - Web managerment Home
+18.119.76.156:80 - WhaleIOS通用后台-Login
+3.161.145.221:80 - Заголовок не найден
+127.204.122.133:80 - Welcome to XAMPP
+127.226.58.222:80 - Welcome to XAMPP
+202.157.83.33:80 - XgenPlusTranslator
+74.71.167.48:80 - 
+222.100.222.70:80 - CMS Web Viewer
+168.206.204.140:80 - 404 Not Found
+200.88.200.65:80 - 
+122.165.58.164:80 - IIS Windows Server
+104.233.134.61:80 - Заголовок не найден
+127.142.77.139:80 - Welcome to XAMPP
+18.67.230.122:80 - Заголовок не найден
+54.150.204.157:80 - Test Page for the Nginx HTTP Server on the Amazon Linux AMI
+127.59.106.33:80 - Welcome to XAMPP
+127.254.107.121:80 - Welcome to XAMPP
+46.251.15.130:80 - Device Information
+2.18.36.122:80 - Заголовок не найден
+52.163.121.249:80 - Apache2 Ubuntu Default Page: It works
+23.39.217.233:80 - Заголовок не найден
+99.84.160.175:80 - Заголовок не найден
+114.116.65.191:80 - 21级第一学期网站项目上云
+127.54.241.57:80 - Welcome to XAMPP
+127.166.65.231:80 - Welcome to XAMPP
+210.122.97.189:80 - Заголовок не найден
+127.212.143.0:80 - Welcome to XAMPP
+3.162.124.111:80 - Заголовок не найден
+3.162.210.232:80 - Заголовок не найден
+23.201.84.220:80 - Заголовок не найден
+133.9.185.218:80 - Experimental Particle Physics @Waseda Univ. &#8211; 早稲田大学 素粒子物理学実験 寄田研究室
+127.136.0.221:80 - Welcome to XAMPP
+157.90.246.213:80 - Apache2 Ubuntu Default Page: It works
+127.144.79.241:80 - Welcome to XAMPP
+13.126.4.15:80 - Error
+127.8.255.54:80 - Welcome to XAMPP
+127.195.0.107:80 - Welcome to XAMPP
+104.122.30.52:80 - Заголовок не найден
+127.54.128.202:80 - Welcome to XAMPP
+38.38.21.250:80 - æ²¡ææ¾å°ç«ç¹
+109.109.132.196:80 - Web Server's Default Page
+108.158.19.156:80 - Заголовок не найден
+35.173.162.106:80 - Secure This App | AUTOSSL1
+127.153.40.197:80 - Welcome to XAMPP
+3.161.210.121:80 - Заголовок не найден
+104.221.164.148:80 - Sorry, the website has been stopped
+23.46.91.119:80 - Заголовок не найден
+154.213.97.9:80 - 404 Not Found
+127.130.227.153:80 - Welcome to XAMPP
+23.210.29.9:80 - Заголовок не найден
+37.9.11.81:80 - 403 Forbidden
+144.129.119.234:80 - Login
+18.155.230.236:80 - Заголовок не найден
+23.231.159.59:80 - æ²¡ææ¾å°ç«ç¹
+3.129.115.110:80 - AXLE &#8211; Fitness CRM | Branded App
+127.183.153.170:80 - Welcome to XAMPP
+113.161.94.142:80 - IIS Windows Server
+127.5.223.228:80 - Welcome to XAMPP
+13.94.212.148:80 - Заголовок не найден
+127.55.121.132:80 - Welcome to XAMPP
+164.100.197.235:80 - Kerala Medical Services Corporation Limited (KMSCL)
+82.127.79.183:80 - 
+127.247.60.195:80 - Welcome to XAMPP
+127.126.161.98:80 - Welcome to XAMPP
+64.32.1.30:80 - Error
+23.35.13.36:80 - Заголовок не найден
+82.5.194.73:80 - Intelligent Digital Security System
+127.220.120.197:80 - Welcome to XAMPP
+73.101.120.174:80 - Заголовок не найден
+185.71.4.44:80 - Apache2 Ubuntu Default Page: It works
+127.135.252.11:80 - Welcome to XAMPP
+54.221.152.99:80 - 404 Not Found
+104.112.113.127:80 - Заголовок не найден
+79.143.18.114:80 - Заголовок не найден
+51.79.176.86:80 - Заголовок не найден
+127.167.155.91:80 - Welcome to XAMPP
+186.128.116.57:80 - Заголовок не найден
+104.121.238.87:80 - Заголовок не найден
+127.70.172.41:80 - Welcome to XAMPP
+212.5.114.56:80 - Заголовок не найден
+54.205.152.60:80 - Заголовок не найден
+127.228.221.18:80 - Welcome to XAMPP
+154.211.15.72:80 - æ±æ­ï¼ç«ç¹å·²æå
+104.152.49.93:80 - Radar Malang &#8211; Jawa Pos
+184.87.229.234:80 - Заголовок не найден
+127.52.244.24:80 - Welcome to XAMPP
+223.171.42.5:80 - 
+73.150.114.40:80 - index
+127.55.236.108:80 - Welcome to XAMPP
+52.55.130.217:80 - 404 Not Found
+209.240.133.66:80 - Consolidated Property Services
+127.42.95.178:80 - Welcome to XAMPP
+184.24.176.248:80 - Заголовок не найден
+194.132.138.36:80 - Заголовок не найден
+127.191.92.106:80 - Welcome to XAMPP
+13.225.7.68:80 - Заголовок не найден
+20.238.2.38:80 - Azure Container App - Unavailable
+23.204.149.182:80 - Заголовок не найден
+156.242.143.213:80 - 404 Not Found
+112.72.197.148:80 - CMS Web Viewer
+195.89.227.131:80 - Request blocked
+104.17.197.53:80 - Direct IP access not allowed | Cloudflare
+127.210.139.7:80 - Welcome to XAMPP
+127.149.248.20:80 - Welcome to XAMPP
+127.141.36.233:80 - Welcome to XAMPP
+210.182.73.141:80 - Заголовок не найден
+87.195.104.96:80 - 401 - Unauthorized: Access is denied due to invalid credentials.
+52.72.140.23:80 - Заголовок не найден
+108.158.5.63:80 - Заголовок не найден
+127.24.81.6:80 - Welcome to XAMPP
+185.154.12.244:80 - Welcome to CentOS
+107.149.141.133:80 - 403 Forbidden
+95.217.234.167:80 - 404 Not Found
+103.76.129.234:80 - IIS7
+85.81.175.133:80 - MediaAccess Gateway - Login
+23.45.109.101:80 - Заголовок не найден
+120.210.83.31:80 - 503 Service Temporarily Unavailable
+178.63.168.42:80 - |DOMAIN|
+18.164.176.151:80 - Заголовок не найден
+178.128.155.178:80 - Apache2 Ubuntu Default Page: It works
+120.52.30.66:80 - Заголовок не найден
+127.105.57.159:80 - Welcome to XAMPP
+47.106.113.102:80 - 403 Forbidden
+23.19.33.116:80 - Заголовок не найден
+23.90.9.211:80 - Заголовок не найден
+104.108.252.124:80 - Заголовок не найден
+52.165.136.37:80 - InvalidUri
+14.224.130.136:80 - 
+20.207.205.120:80 - 404 Not Found
+127.224.49.146:80 - Welcome to XAMPP
+127.29.203.113:80 - Welcome to XAMPP
+127.34.139.33:80 - Welcome to XAMPP
+127.226.251.23:80 - Welcome to XAMPP
+45.162.4.19:80 - Welcome to nginx!
+39.98.72.66:80 - ä¹å¤©å¨å½éå·ç³»ç»
+80.47.14.20:80 - Заголовок не найден
+127.63.200.93:80 - Welcome to XAMPP
+199.232.9.75:80 - Fastly error: unknown domain 199.232.9.75
+3.71.204.18:80 - 401 Authorization Required
+18.238.10.178:80 - Заголовок не найден
+47.115.223.187:80 - 404 Not Found
+37.60.229.105:80 - Web Server's Default Page
+127.103.230.254:80 - Welcome to XAMPP
+108.157.81.214:80 - Заголовок не найден
+185.20.227.85:80 - ERROR: The requested URL could not be retrieved
+23.201.166.112:80 - Заголовок не найден
+23.13.150.167:80 - Заголовок не найден
+163.172.76.227:80 - Apache2 Debian Default Page: It works
+103.112.47.57:80 - 500 Internal Server Error
+34.234.2.209:80 - Заголовок не найден
+127.94.53.253:80 - Welcome to XAMPP
+65.188.192.80:80 - 
+88.221.181.225:80 - Заголовок не найден
+23.90.232.146:80 - .::Welcome to the Web-Based Configurator::.
+127.90.223.161:80 - Welcome to XAMPP
+185.210.114.252:80 - Default Site
+218.40.10.88:80 - このページは現在利用できません
+140.238.57.111:80 - Заголовок не найден
+127.120.74.102:80 - Welcome to XAMPP
+95.100.209.181:80 - Заголовок не найден
+37.221.212.185:80 - FASTPANEL
+82.66.247.153:80 - Central unit
+13.231.98.41:80 - 林屋川魚店
+35.82.182.106:80 - Заголовок не найден
+186.132.132.151:80 - Заголовок не найден
+127.68.110.126:80 - Welcome to XAMPP
+127.225.15.210:80 - Welcome to XAMPP
+185.216.116.12:80 - 500 - ÄÚ²¿·þÎñÆ÷´íÎó¡£
+127.177.199.23:80 - Welcome to XAMPP
+173.222.50.47:80 - Заголовок не найден
+127.66.230.223:80 - Welcome to XAMPP
+127.244.61.141:80 - Welcome to XAMPP
+54.80.239.76:80 - development environment # 1 - Login
+127.213.72.19:80 - Welcome to XAMPP
+127.147.133.191:80 - Welcome to XAMPP
+18.223.88.16:80 - 404 Not Found
+40.114.7.187:80 - Заголовок не найден
+69.201.13.59:80 - 
+127.73.79.35:80 - Welcome to XAMPP
+127.60.105.169:80 - Welcome to XAMPP
+20.2.70.101:80 - IIS Windows Server
+172.104.25.135:80 - Test Page for the Centmin Mod Nginx HTTP Server
+156.245.79.59:80 - Заголовок не найден
+8.138.112.88:80 - Login
+127.13.232.17:80 - Welcome to XAMPP
+175.215.18.97:80 - 
+34.235.202.227:80 - Signin
+38.33.42.228:80 - Заголовок не найден
+127.10.168.148:80 - Welcome to XAMPP
+151.101.184.249:80 - Fastly error: unknown domain 151.101.184.249
+46.188.62.117:80 - Index of /
+168.76.84.76:80 - 404 Not Found
+193.112.25.202:80 - IIS Windows Server
+218.38.128.121:80 - Заголовок не найден
