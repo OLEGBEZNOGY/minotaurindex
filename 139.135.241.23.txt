@@ -849,3 +849,8 @@
 154.7.33.207:80 - Заголовок не найден
 8.219.253.228:80 - nps error
 45.137.71.6:80 - Welcome to nginx!
+117.194.34.209:80 - Protected Object
+18.67.158.81:80 - Заголовок не найден
+173.230.137.151:80 - Gainesville Reformed Presbyterian Fellowship
+104.68.80.136:80 - Заголовок не найден
+196.51.59.203:80 - ERROR: The requested URL could not be retrieved
