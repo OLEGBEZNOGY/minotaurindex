@@ -2995,3 +2995,5 @@
 195.14.35.200:80 - Заголовок не найден
 189.126.34.155:80 - 500 Internal Server Error
 211.199.218.15:80 - IIS Windows Server
+170.187.150.203:80 - Welcome to nginx!
+13.228.10.67:80 - Welcome to nginx!
