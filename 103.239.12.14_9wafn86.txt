@@ -8521,3 +8521,176 @@ Untitled
 77.38.136.84:80 - 406 Not Acceptable
 3.140.41.121:80 - Заголовок не найден
 217.26.217.227:80 - SMTP.BZ
+121.135.167.152:80 - main page
+18.238.169.145:80 - Заголовок не найден
+194.63.234.132:80 - IIS Windows
+38.170.30.234:80 - ERROR: The requested URL could not be retrieved
+23.63.142.228:80 - Заголовок не найден
+116.96.24.35:80 - 
+180.130.106.225:80 - 403 Forbidden
+185.219.103.165:80 - Not Found
+85.215.154.174:80 - Web Server's Default Page
+38.207.106.47:80 - IIS Windows Server
+2.21.161.212:80 - Заголовок не найден
+18.67.2.143:80 - Заголовок не найден
+121.40.141.138:80 - HTTP状态 404 - 未找到
+77.235.143.54:80 - Заголовок не найден
+71.167.45.54:80 - Заголовок не найден
+79.116.64.114:80 - 404 Not Found
+57.180.168.61:80 - Заголовок не найден
+212.227.51.104:80 - 404 Not Found
+204.246.190.183:80 - Заголовок не найден
+23.55.154.171:80 - Заголовок не найден
+200.98.160.17:80 - IIS Windows Server
+95.101.14.135:80 - Заголовок не найден
+202.144.128.154:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+13.42.96.51:80 - Not Found
+45.152.173.45:80 - Ping Communication NPA201E : Login
+181.24.152.102:80 - Заголовок не найден
+3.132.80.186:80 - 502 Bad Gateway
+104.112.8.106:80 - Заголовок не найден
+23.49.185.34:80 - Заголовок не найден
+162.209.240.237:80 - 404 Not Found
+192.46.222.78:80 - Test Page for the HTTP Server on AlmaLinux
+23.63.40.171:80 - Заголовок не найден
+52.84.251.182:80 - Заголовок не найден
+23.214.46.245:80 - Заголовок не найден
+23.46.57.112:80 - Заголовок не найден
+13.35.17.15:80 - Заголовок не найден
+115.22.160.6:80 - Заголовок не найден
+144.76.133.189:80 - phpMyAdmin
+23.33.134.236:80 - Заголовок не найден
+104.69.218.4:80 - Заголовок не найден
+52.86.249.118:80 - Заголовок не найден
+142.251.39.115:80 - Error 404 (Not Found)!!1
+60.241.184.163:80 - IIS Windows Server
+104.20.2.178:80 - Direct IP access not allowed | Cloudflare
+23.219.153.36:80 - Заголовок не найден
+50.31.5.191:80 - Заголовок не найден
+23.41.148.139:80 - Заголовок не найден
+96.89.149.254:80 - Index
+84.194.192.239:80 - Webinterface
+23.208.44.102:80 - Заголовок не найден
+46.242.182.215:80 - Strona w przygotowaniu
+101.43.7.198:80 - Заголовок не найден
+34.207.37.251:80 - Заголовок не найден
+202.94.172.136:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+198.46.89.27:80 - Default Web Page
+52.42.227.247:80 - 502 Bad Gateway
+203.28.173.22:80 - Заголовок не найден
+190.48.189.109:80 - index
+154.12.204.181:80 - ERROR: The requested URL could not be retrieved
+74.93.26.124:80 - Заголовок не найден
+67.208.59.38:80 - Application Blocked
+165.84.209.47:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+104.122.215.57:80 - Заголовок не найден
+94.199.203.6:80 - Заголовок не найден
+139.170.154.228:80 - 403 Forbidden
+52.8.14.76:80 - Apache2 Ubuntu Default Page: It works
+69.195.121.172:80 - Not Acceptable!
+167.99.201.102:80 - Заголовок не найден
+69.192.105.34:80 - Заголовок не найден
+5.39.68.79:80 - Welcome to nginx!
+8.219.171.123:80 - èªè Medical
+49.124.147.9:80 - ChaGa configuration page
+133.18.96.164:80 - HTTPステータス 404 - Not Found
+39.105.125.195:80 - 空调节能监控平台
+157.107.248.213:80 - 
+45.60.189.134:80 - Заголовок не найден
+54.252.107.187:80 - IIS Windows Server
+121.133.163.81:80 - Заголовок не найден
+38.31.196.232:80 - 404 Not Found
+34.215.66.178:80 - 404 Not Found
+188.128.150.80:80 - Strona w przygotowaniu...
+23.236.208.133:80 - ERROR: The requested URL could not be retrieved
+103.212.37.220:80 - Welcome to nginx!
+119.9.131.40:80 - 400 Bad Request
+71.127.57.31:80 - 
+113.21.208.248:80 - 
+142.103.43.11:80 - EOAS Help Desk
+103.146.159.132:80 - Заголовок не найден
+97.89.4.20:80 - 
+31.184.195.195:80 - The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-07-01.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-07-01.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-07-01.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-07-01.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-07-01.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-07-01.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-07-01.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-07-01.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-07-01.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-07-01.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-07-01.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-07-01.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: file_put_contents(/home/user/www/kinobaza/storage/framework/sessions/ur4hYSfUlvib88eZJTWXVQ6YiVSxh0jjmia9PGaJ): Failed to open stream: Permission denied
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+156.241.97.158:80 - 404 Not Found
+104.97.63.145:80 - Заголовок не найден
+23.7.61.31:80 - Заголовок не найден
+95.179.235.71:80 - Unknown Domain
+77.238.188.146:80 - Yahoo
+93.159.112.171:80 - Apache2 Ubuntu Default Page: It works
+150.239.223.97:80 - Заголовок не найден
+175.213.88.92:80 - NVR
+14.102.228.237:80 - Direct IP access not allowed | Cloudflare
+13.32.13.94:80 - Заголовок не найден
+38.14.39.124:80 - Заголовок не найден
+192.210.189.243:80 - 407 Proxy Authentication Required
+167.179.81.242:80 - 雨果沙發
+18.238.52.164:80 - Заголовок не найден
+92.114.19.122:80 - Welcome to nginx!
+192.177.73.125:80 - 404 Not Found
+23.67.19.156:80 - Заголовок не найден
+133.18.4.61:80 - Login
+74.103.133.210:80 - Заголовок не найден
+216.57.225.22:80 - Заголовок не найден
+23.193.248.55:80 - Заголовок не найден
+39.106.43.133:80 - æ²¡ææ¾å°ç«ç¹
+176.9.153.222:80 - Welcome!
+169.61.160.240:80 - Apache2 Ubuntu Default Page: It works
+200.127.71.170:80 - Dericam
+72.15.239.43:80 - 403 Forbidden
+100.28.200.70:80 - Endless Aisles - Welcome
+39.175.162.23:80 - Заголовок не найден
+23.194.110.149:80 - Заголовок не найден
+213.188.210.216:80 - Error
+138.201.80.171:80 - Заголовок не найден
+23.202.221.99:80 - Заголовок не найден
+50.2.86.130:80 - 403 Forbidden
+23.37.112.145:80 - Заголовок не найден
+185.74.10.49:80 - 403 - Interdit : accès refusé.
+103.190.170.141:80 - RouterOS router configuration page
+23.195.10.174:80 - Заголовок не найден
+112.166.254.185:80 - main page
+165.155.150.190:80 - ALB Keep-Alive Page
+79.159.2.30:80 - movistar
+80.158.23.8:80 - 404 Not Found
+182.240.161.22:80 - Заголовок не найден
+162.243.227.159:80 - Database Error
+52.14.172.123:80 - Log in | AIM Pathways
+181.20.107.207:80 - Заголовок не найден
+3.1.34.182:80 - Sasto Tickets - Give wings to your dreams
+104.90.77.176:80 - Заголовок не найден
+85.66.21.98:80 - 
+172.67.196.55:80 - Direct IP access not allowed | Cloudflare
+188.59.105.202:80 - Router -> Login
+103.84.90.50:80 - Welcome to nginx!
+180.177.240.151:80 - WEB SERVICE
+198.1.255.162:80 - Заголовок не найден
+195.159.229.72:80 - YS Arbeidslivsbarometer - Nesstar WebView
+1.227.18.126:80 - 
+156.234.100.208:80 - æ²¡ææ¾å°ç«ç¹
+104.22.13.128:80 - Direct IP access not allowed | Cloudflare
+89.161.130.124:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+172.247.176.76:80 - 请使用域名访问
