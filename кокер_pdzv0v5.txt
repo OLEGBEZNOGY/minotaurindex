@@ -3368,3 +3368,12 @@
 16.170.153.44:80 - 503 Service Temporarily Unavailable
 61.158.128.80:80 - 403 Forbidden
 45.79.230.62:80 - Welcome to nginx!
+190.117.57.99:80 - index
+2.135.151.222:80 - GPON Home Gateway
+35.76.124.18:80 - Action Controller: Exception caught
+172.183.48.91:80 - Microsoft Azure Web App - Error 404
+170.178.170.189:80 - polestarcloud.com
+38.242.218.69:80 - Заголовок не найден
+38.59.36.47:80 - 404 Not Found
+211.137.92.17:80 - 404 Not Found
+41.236.166.196:80 - 
