@@ -5995,3 +5995,7 @@
 18.203.30.24:80 - Заголовок не найден
 74.117.222.24:80 - Notes
 202.61.240.164:80 - Заголовок не найден
+54.187.152.29:80 - Test Page for the Apache HTTP Server on the Amazon Linux AMI
+204.111.8.50:80 - Document Moved
+23.52.62.35:80 - Заголовок не найден
+157.90.111.37:80 - Apache2 Debian Default Page: It works
