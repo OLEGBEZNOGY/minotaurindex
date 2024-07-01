@@ -4518,3 +4518,11 @@
 20.49.152.33:80 - 404 Not Found
 79.96.74.218:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
 13.111.178.102:80 - Error
+88.195.68.49:80 - Carrier Class Wireless Home Networking Technology
+88.201.205.126:80 - RouterOS
+154.220.75.104:80 - 404 Not Found
+54.197.44.237:80 - Заголовок не найден
+52.217.74.149:80 - Amazon S3 - Cloud Object Storage  - AWS
+13.201.199.146:80 - Заголовок не найден
+184.85.219.184:80 - 500 Internal Server Error
+64.215.22.38:80 - Internet Security by Zscaler
