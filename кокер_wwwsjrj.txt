@@ -12477,3 +12477,23 @@ Home
 220.89.2.58:80 - CMS Web Viewer
 3.164.203.88:80 - Заголовок не найден
 199.232.119.142:80 - Fastly error: unknown domain 199.232.119.142
+23.61.161.8:80 - Заголовок не найден
+4.236.211.161:80 - Заголовок не найден
+192.177.73.93:80 - 404 Not Found
+23.216.25.122:80 - Заголовок не найден
+23.36.221.7:80 - Заголовок не найден
+178.128.227.116:80 - Welcome! | DEV Groupsite
+23.12.227.44:80 - Заголовок не найден
+62.179.105.4:80 - 404 - Not Found
+196.45.144.56:80 - Speedtest by Ookla - The Global Broadband Speed Test
+2.17.251.39:80 - Заголовок не найден
+103.251.42.26:80 - Service Unavailable
+172.66.143.238:80 - Direct IP access not allowed | Cloudflare
+120.46.208.27:80 - Заголовок не найден
+159.65.45.166:80 - Заголовок не найден
+176.223.129.58:80 - Заголовок не найден
+209.38.49.30:80 - Omaeon
+178.238.224.246:80 - Bienvenidos!
+89.161.214.177:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+210.48.30.16:80 - Apache HTTP Server Test Page powered by CentOS
+122.117.158.68:80 - DVR
