@@ -4,3 +4,4 @@
 77.55.79.143:80 - Domena  jest utrzymywana na serwerach nazwa.pl
 52.84.140.238:80 - Заголовок не найден
 200.7.110.232:80 - Web Access
+57.128.123.171:80 - Connexion
