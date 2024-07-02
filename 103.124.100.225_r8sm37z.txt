@@ -3537,3 +3537,14 @@
 125.229.9.211:80 - 
 54.37.71.38:80 - 500 Internal Server Error
 2.56.53.248:80 - Please wait, the page is opening...
+54.79.31.14:80 - 403 - Forbidden: Access is denied.
+20.195.61.103:80 - CPFB | waf
+5.35.233.101:80 - Host Europe GmbH
+20.23.39.200:80 - SAP Commerce Cloud - Forbidden
+47.107.238.237:80 - 404 Not Found
+104.164.255.127:80 - 403 Forbidden
+65.20.154.41:80 - 
+202.168.194.222:80 - Заголовок не найден
+123.249.42.229:80 - Заголовок не найден
+107.6.184.248:80 - Заголовок не найден
+182.92.187.196:80 - The Cube - A Rubik's Cube Game
