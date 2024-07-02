@@ -5834,3 +5834,34 @@
 119.31.236.98:80 - Girl Guides Singapore - To enable girls and young women to develop their fullest potential as responsible citizens of the world.
 107.149.93.156:80 - Заголовок не найден
 45.76.181.235:80 - Welcome to ernesystems.com !
+59.125.53.21:80 - index
+138.68.48.183:80 - 401 Unauthorized
+104.23.134.61:80 - Direct IP access not allowed | Cloudflare
+13.249.46.104:80 - Заголовок не найден
+63.41.197.65:80 - Device Webserver
+20.99.215.177:80 - Your Azure Function App is up and running.
+104.119.95.83:80 - Заголовок не найден
+124.70.181.78:80 - Заголовок не найден
+13.33.132.61:80 - Заголовок не найден
+173.232.40.9:80 - 404 Not Found
+45.91.134.185:80 - Заголовок не найден
+188.255.59.210:80 - Заголовок не найден
+23.219.119.209:80 - Заголовок не найден
+31.47.218.21:80 - Заголовок не найден
+104.25.75.133:80 - Direct IP access not allowed | Cloudflare
+99.80.197.212:80 - Welcome to nginx!
+154.39.113.229:80 - 403 Forbidden
+163.24.170.131:80 - 
+104.19.85.13:80 - Direct IP access not allowed | Cloudflare
+4.225.9.224:80 - Your Azure Function App is up and running.
+23.36.60.251:80 - Заголовок не найден
+183.136.212.150:80 - Заголовок не найден
+23.33.244.203:80 - Заголовок не найден
+183.104.177.117:80 - 403 - Forbidden
+176.95.241.41:80 - Заголовок не найден
+8.140.23.204:80 - Home
+173.45.72.19:80 - Login · VMAPS
+194.26.176.208:80 - ERROR: The requested URL could not be retrieved
+43.134.167.190:80 - 
+45.3.60.229:80 - Заголовок не найден
+23.35.154.52:80 - Заголовок не найден
