@@ -13075,3 +13075,18 @@ Oregon, and the Mythical state of Jefferson.
 186.15.189.85:80 - Ugrade.net
 3.23.78.43:80 - 400 The plain HTTP request was sent to HTTPS port
 188.5.123.222:80 - Заголовок не найден
+177.8.84.13:80 - Request Rejected
+44.209.26.204:80 - Not Found
+104.18.155.110:80 - Direct IP access not allowed | Cloudflare
+23.73.248.29:80 - Заголовок не найден
+3.164.130.221:80 - Заголовок не найден
+104.18.74.224:80 - Direct IP access not allowed | Cloudflare
+124.83.43.73:80 - RouterOS router configuration page
+51.44.66.65:80 - Заголовок не найден
+98.155.179.55:80 - Web Viewer for Samsung DVR
+67.9.131.15:80 - 
+176.236.212.90:80 - 
+104.119.77.104:80 - Заголовок не найден
+216.92.16.15:80 - 500 Internal Server Error
+62.146.14.91:80 - Apache2 Debian Default Page: It works
+120.25.179.219:80 - 404 Not Found
