@@ -6063,3 +6063,37 @@
 98.124.44.205:80 - Error 404 (Not Found)!!1
 2.18.151.68:80 - Заголовок не найден
 13.212.217.250:80 - Заголовок не найден
+74.93.16.194:80 - Churchill Forge AMSI Service Redirect
+104.16.134.202:80 - Direct IP access not allowed | Cloudflare
+190.122.135.143:80 - Заголовок не найден
+109.75.48.54:80 - Welcome to nginx!
+212.80.204.123:80 - Заголовок не найден
+185.143.15.87:80 - Database Error
+54.242.152.82:80 - Home | Distribuidora El Exito
+13.244.176.53:80 - Amazon S3 - Cloud Object Storage  - AWS
+192.126.191.213:80 - ERROR: The requested URL could not be retrieved
+130.211.16.100:80 - Заголовок не найден
+3.160.184.20:80 - Заголовок не найден
+117.1.238.137:80 - 
+13.124.160.201:80 - 404 Not Found
+88.216.141.45:80 - Заголовок не найден
+20.60.116.165:80 - Заголовок не найден
+4.156.13.113:80 - Your Azure Function App is up and running.
+2.20.103.235:80 - Заголовок не найден
+149.3.148.83:80 - Sito in costruzione
+204.242.1.202:80 - Apache HTTP Server Test Page powered by CentOS
+20.198.148.213:80 - 404 Not Found
+18.101.10.4:80 - Welcome to nginx!
+100.0.39.232:80 - Заголовок не найден
+2.19.10.15:80 - Заголовок не найден
+18.206.108.213:80 - Welcome to nginx!
+177.124.111.233:80 - Welcome to nginx!
+3.65.191.99:80 - Alphafoto
+65.24.232.233:80 - Заголовок не найден
+23.43.85.45:80 - Заголовок не найден
+168.206.138.200:80 - 
+178.32.118.148:80 - Заголовок не найден
+194.1.147.100:80 - Заголовок не найден
+143.244.137.226:80 - EMAS 36 &gt; EMAS 36, EMAS36, daftar EMAS 36, link alternatif EMAS 36, li
+
+ &ndash; EMAS 36
