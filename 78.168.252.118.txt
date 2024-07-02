@@ -14318,3 +14318,21 @@ Oregon, and the Mythical state of Jefferson.
 35.201.53.246:80 - 35.201.53.246.corp.google.com - Google Single Sign On: Sign into corp
 71.222.190.97:80 - 
 194.166.149.232:80 - WAGO Ethernet Web-based Management
+185.28.182.157:80 - 407 Proxy Authentication Required
+104.248.237.53:80 - Sign in · GitLab
+210.19.94.139:80 - Welcome to CentOS
+34.120.187.31:80 - Заголовок не найден
+164.90.181.53:80 - Заголовок не найден
+24.4.197.236:80 - 
+210.98.46.33:80 - Заголовок не найден
+23.211.236.149:80 - Заголовок не найден
+23.52.170.151:80 - Заголовок не найден
+120.79.11.156:80 - æ²¡ææ¾å°ç«ç¹
+23.193.174.195:80 - Заголовок не найден
+35.158.66.25:80 - 503 Service Temporarily Unavailable
+59.56.19.111:80 - Заголовок не найден
+34.223.165.236:80 - 404 Not Found
+130.60.126.134:80 - Apache2 Ubuntu Default Page: It works
+89.178.80.81:80 - Заголовок не найден
+121.62.19.147:80 - Заголовок не найден
+176.126.206.191:80 - Direct IP access not allowed | Cloudflare
