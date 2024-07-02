@@ -5939,3 +5939,28 @@
 23.82.25.235:80 - æ²¡ææ¾å°ç«ç¹
 79.125.116.44:80 - Заголовок не найден
 8.136.49.107:80 - æ²¡ææ¾å°ç«ç¹
+69.16.213.156:80 - 403 Forbidden
+23.199.154.54:80 - Заголовок не найден
+54.255.245.135:80 - Заголовок не найден
+184.24.56.9:80 - Заголовок не найден
+93.104.200.143:80 - Apache2 Debian Default Page: It works
+23.13.167.190:80 - Заголовок не найден
+116.172.74.88:80 - Заголовок не найден
+172.66.3.33:80 - Direct IP access not allowed | Cloudflare
+62.163.186.170:80 - Hallo! Welkom bij Synology Web Station!
+160.202.87.80:80 - 404 Not Found
+38.38.52.243:80 - 404 Not Found
+104.18.181.231:80 - Direct IP access not allowed | Cloudflare
+221.151.198.13:80 - IDISWeb
+130.255.109.155:80 - 403 - Verboten: Zugriff verweigert.
+139.59.118.153:80 - Welcome to nginx!
+116.203.114.14:80 - 404 Not Found
+4.152.85.60:80 - Your Azure Function App is up and running.
+23.198.138.112:80 - Заголовок не найден
+114.125.16.61:80 - Заголовок не найден
+104.16.93.203:80 - Direct IP access not allowed | Cloudflare
+35.244.208.26:80 - Заголовок не найден
+206.189.149.51:80 - Заголовок не найден
+193.70.105.64:80 - Apache2 Debian Default Page: It works
+8.210.246.207:80 - Not Found
+35.244.223.0:80 - 502 Server Error
