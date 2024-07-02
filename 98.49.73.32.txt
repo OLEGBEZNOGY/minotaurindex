@@ -1822,3 +1822,141 @@
 104.106.57.158:80 - Заголовок не найден
 104.113.219.234:80 - Заголовок не найден
 52.239.208.164:80 - Заголовок не найден
+173.222.215.3:80 - Заголовок не найден
+3.165.95.147:80 - Заголовок не найден
+23.43.233.173:80 - Заголовок не найден
+198.143.62.123:80 - Заголовок не найден
+23.214.163.187:80 - Заголовок не найден
+103.189.97.252:80 - RouterOS router configuration page
+173.223.119.75:80 - Заголовок не найден
+45.221.204.42:80 - Заголовок не найден
+23.192.8.134:80 - Заголовок не найден
+148.223.96.152:80 - Apache HTTP Server Test Page powered by CentOS
+121.41.60.37:80 - Welcome to nginx!
+202.88.68.82:80 - Error 404 (Not Found)!!1
+120.24.251.177:80 - Заголовок не найден
+23.49.148.19:80 - Заголовок не найден
+198.2.233.253:80 - 403 Forbidden
+23.33.134.143:80 - Заголовок не найден
+154.19.95.61:80 - 404 Not Found
+2.16.113.200:80 - Заголовок не найден
+158.199.188.13:80 - ControlPanel
+23.202.187.155:80 - Заголовок не найден
+170.64.179.33:80 - Заголовок не найден
+104.20.88.175:80 - Direct IP access not allowed | Cloudflare
+154.202.189.111:80 - 403 Forbidden
+108.157.200.53:80 - Заголовок не найден
+115.133.206.62:80 - .::Welcome to the Web-Based Configurator::.
+18.161.96.234:80 - Заголовок не найден
+18.154.71.233:80 - Заголовок не найден
+155.138.144.178:80 - Unknown Domain
+4.245.101.169:80 - Your Azure Function App is up and running.
+151.83.115.67:80 - 
+121.133.163.179:80 - Заголовок не найден
+195.29.179.120:80 - Заголовок не найден
+141.11.53.132:80 - Заголовок не найден
+47.100.223.63:80 - 404 Not Found
+52.63.14.48:80 - 403 Forbidden
+104.168.170.172:80 - Заголовок не найден
+47.245.31.201:80 - Index of /
+133.237.184.240:80 - Заголовок не найден
+72.18.204.200:80 - ERROR: The requested URL could not be retrieved
+91.102.48.189:80 - FtPA - Fatturazione elettronica - emetti la fattura elettronica - Fattura elettronica tra privati
+3.14.96.216:80 - Заголовок не найден
+95.176.225.63:80 - RouterOS router configuration page
+173.212.248.232:80 - IIS Windows Server
+198.71.53.120:80 - Web Server's Default Page
+23.14.125.107:80 - Заголовок не найден
+23.42.226.12:80 - Заголовок не найден
+81.200.115.74:80 - ÐÐ¾Ð¼ÐµÐ½ Ð½Ðµ Ð¿ÑÐ¸Ð»Ð¸Ð½ÐºÐ¾Ð²Ð°Ð½ Ð½Ð¸ Ðº Ð¾Ð´Ð½Ð¾Ð¹ Ð¸Ð· Ð´Ð¸ÑÐµÐºÑÐ¾ÑÐ¸Ð¹ Ð½Ð° ÑÐµÑÐ²ÐµÑÐµ!
+23.218.169.180:80 - Заголовок не найден
+3.162.232.180:80 - Заголовок не найден
+104.71.122.139:80 - Заголовок не найден
+45.91.209.13:80 - Заголовок не найден
+162.214.77.132:80 - Заголовок не найден
+23.49.179.153:80 - Заголовок не найден
+52.219.101.2:80 - Amazon S3 - Cloud Object Storage  - AWS
+54.230.19.135:80 - Заголовок не найден
+51.159.211.240:80 - Codigo Misterioso
+184.25.81.44:80 - Заголовок не найден
+23.198.74.50:80 - Заголовок не найден
+200.220.140.61:80 - Index of /
+73.36.143.211:80 - Login
+159.192.94.242:80 - 
+170.187.144.200:80 - Заголовок не найден
+209.59.171.87:80 - Jack 'n' Jill Portraits
+3.163.120.243:80 - Заголовок не найден
+78.46.27.64:80 - Заголовок не найден
+99.84.69.107:80 - Заголовок не найден
+95.255.152.83:80 - Axel MyWeb 3.0
+45.60.21.201:80 - Заголовок не найден
+52.78.24.43:80 - 롯데 광고주센터 이동
+101.200.96.132:80 - 403 - ½ûÖ¹·ÃÎÊ: ·ÃÎÊ±»¾Ü¾ø¡£
+114.55.40.126:80 - 403 Forbidden
+216.22.48.9:80 - Заголовок не найден
+39.101.172.38:80 - 400 The plain HTTP request was sent to HTTPS port
+188.245.36.234:80 - 404 Not Found
+175.144.140.49:80 - Заголовок не найден
+2.18.61.162:80 - Заголовок не найден
+23.54.238.91:80 - Заголовок не найден
+213.32.5.24:80 - Error 503: Backend unavailable
+67.227.174.201:80 - 🧨 The stream or file &quot;/var/www/html/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: file_put_contents(/var/www/html/storage/framework/views/b3cdc8f2f731736e79efa1071762066717171507.php): Failed to open stream: Permission denied
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+74.132.84.242:80 - 
+154.31.25.7:80 - 智能影视解析系统
+23.192.241.124:80 - Заголовок не найден
+195.82.1.193:80 - GPON Home Gateway
+175.139.241.146:80 - IIS Windows Server
+37.76.252.185:80 - IIS Windows Server
+23.10.239.242:80 - Заголовок не найден
+92.161.132.167:80 - Linkdroid WebServer
+104.19.143.134:80 - Direct IP access not allowed | Cloudflare
+198.62.62.238:80 - Direct IP access not allowed | Cloudflare
+218.208.28.133:80 - Заголовок не найден
+20.242.146.224:80 - Azure Container App - Unavailable
+23.32.184.65:80 - Заголовок не найден
+39.101.35.108:80 - Заголовок не найден
+104.86.39.91:80 - Заголовок не найден
+149.104.56.145:80 - 403 Forbidden
+23.219.31.247:80 - Заголовок не найден
+187.189.211.215:80 - 
+18.154.217.218:80 - Заголовок не найден
+62.129.224.66:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+185.56.218.244:80 - IIS Windows Server
+201.177.158.223:80 - Заголовок не найден
+35.133.208.30:80 - WEB SERVICE
+89.161.239.16:80 - Заголовок не найден
+186.27.236.25:80 - &#70;&#54;&#56;&#48;
+207.60.60.76:80 - æ²¡ææ¾å°ç«ç¹
+150.60.132.241:80 - Заголовок не найден
