@@ -15599,3 +15599,22 @@ Oregon, and the Mythical state of Jefferson.
 23.54.140.129:80 - Заголовок не найден
 193.203.184.111:80 - 403 Forbidden
 39.116.214.206:80 - main page
+65.9.62.77:80 - Заголовок не найден
+46.183.119.60:80 - Заголовок не найден
+94.72.157.17:80 - Please wait, the page is opening...
+117.78.33.59:80 - Welcome to CentOS
+97.92.40.209:80 - 
+23.2.72.233:80 - Заголовок не найден
+23.212.241.10:80 - Заголовок не найден
+34.82.127.52:80 - lets encrypt test
+115.69.250.194:80 - 
+172.96.115.5:80 - Welcome to nginx!
+52.22.161.172:80 - 404 Not Found
+119.23.82.183:80 - 阿里云 Web应用防火墙
+104.18.248.151:80 - Direct IP access not allowed | Cloudflare
+54.166.136.117:80 - 503 Service Temporarily Unavailable
+154.7.124.114:80 - 首页-果博东方客服微信-959661239666,免费在线观看
+52.217.91.117:80 - Amazon S3 - Cloud Object Storage  - AWS
+54.205.41.154:80 - Заголовок не найден
+54.37.137.223:80 - Apache2 Ubuntu Default Page: It works
+47.236.128.176:80 - IIS Windows Server
