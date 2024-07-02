@@ -2568,3 +2568,17 @@
 68.168.242.207:80 - Заголовок не найден
 195.3.194.142:80 - Domain nicht verfÃ¼gbar | Domain not available
 83.143.184.156:80 - 
+153.127.201.203:80 - Test Page for the Nginx HTTP Server on AlmaLinux
+34.136.74.57:80 - Database not found
+20.28.10.201:80 - Заголовок не найден
+104.24.247.61:80 - Direct IP access not allowed | Cloudflare
+186.249.35.13:80 - welcome
+23.54.12.160:80 - Заголовок не найден
+104.21.234.204:80 - Direct IP access not allowed | Cloudflare
+2.20.157.72:80 - Заголовок не найден
+39.96.117.142:80 - 403 Forbidden
+85.215.74.234:80 - Web Server's Default Page
+104.81.30.124:80 - Заголовок не найден
+103.243.1.165:80 - IIS Windows Server
+34.204.182.112:80 - HTTP Status 404 – Not Found
+13.209.68.48:80 - Dash Board
